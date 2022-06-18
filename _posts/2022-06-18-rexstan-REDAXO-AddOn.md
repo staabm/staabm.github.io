@@ -1,4 +1,4 @@
-## [rexstan](https://github.com/FriendsOfREDAXO/rexstan) PHPStan AddOn for [REDAXO CMS](https://redaxo.org/)
+## [rexstan](https://github.com/FriendsOfREDAXO/rexstan) - PHPStan AddOn for [REDAXO CMS](https://redaxo.org/)
 
 Adds PHPStan based code analysis to the REDAXO CMS improving developer productivity and code quality.
 
