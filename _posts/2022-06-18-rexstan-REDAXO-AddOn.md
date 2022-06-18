@@ -25,3 +25,5 @@ The system is usually used by web developers to built a website or web-based too
 
 `rexstan` integrates with the [REDAXO Console](Adds code analysis to REDAXO improving developer productivity and code quality.
 ), the REDAXO WebUI but also describes the [setup with PHPStorm](https://github.com/FriendsOfREDAXO/rexstan/blob/main/README.md#phpstorm) natively.
+
+Additionally `rexstan` provides answers to [frequently asked questions](https://github.com/FriendsOfREDAXO/rexstan/blob/main/FAQ.md) to make it as easy as possible to get started with PHPStan for newcomers.
