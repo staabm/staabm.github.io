@@ -1,4 +1,7 @@
-### 💻 Check out what I'm currently working on
+### 👨‍💻 Current Activities
+
+
+#### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
@@ -17,7 +20,7 @@
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (1 month ago)
 
 
-### 🔭 Latest releases I've contributed to
+#### 🔭 Latest releases I've contributed to
 
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.0.3](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.0.3) (1 day ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.3.7](https://github.com/doctrine/dbal/releases/tag/3.3.7) (1 day ago)
