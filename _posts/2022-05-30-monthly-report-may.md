@@ -28,7 +28,7 @@ Dump of my development activities
 
 - [Improvements to named arguments handling](https://github.com/phpstan/phpstan-src/pull/1313)
 
-#### Signuature Improvements
+#### Signature Improvements
 
 Parameter and Returntype improvements help PHPStan to understand your code. The better the inference the less additional manual code is required by you to make PHPStan understand whats going on.
 
