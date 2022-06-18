@@ -1,4 +1,4 @@
-name: Update README
+name: Update recent work
 
 on:
   push:
@@ -17,7 +17,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
         with:
-          template: "templates/README.md.tpl"
+          template: "templates/recent-work.md.tpl"
           writeTo: "recent-work.md"
 
       - uses: stefanzweifel/git-auto-commit-action@v4
