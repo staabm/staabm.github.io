@@ -49,7 +49,7 @@ Parameter and Returntype improvements help PHPStan to understand your code. The 
 
 > A Dependency Manager for PHP
 
-Together with Jordi I worked on a PHPStan extension for [Composer](https://getcomposer.org/) which detects problems while working with the config object.
+Together [with Jordi I worked on a PHPStan extension](https://github.com/composer/composer/pull/10635) for [Composer](https://getcomposer.org/) which detects problems while working with the config object.
 
 
 ### Symplify - my contributions
