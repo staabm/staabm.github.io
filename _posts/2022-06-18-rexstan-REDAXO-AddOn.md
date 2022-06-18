@@ -21,11 +21,11 @@ The system is usually used by web developers to built a website or web-based too
 
 ### About rexstan
 
-`rexstan` integrates the well known PHPStan static code analysis engine into REDAXO. Therefore you get static analysis for development of your REDAXO based website and/or AddOns with a single click. `rexstan` is distributed via the REDAXO installer and therefore can be consumed by anyone with a REDAXO 5.x website.
+[`rexstan`](https://github.com/FriendsOfREDAXO/rexstan) integrates the well known PHPStan static code analysis engine into REDAXO. Therefore you get static analysis for development of your REDAXO based website and/or AddOns with a single click. `rexstan` is distributed via the REDAXO installer and therefore can be consumed by anyone with a REDAXO 5.x website.
 
 ![Screenshots](https://github.com/FriendsOfREDAXO/rexstan/blob/assets/stanscreen.png?raw=true)
 
-`rexstan` integrates with the [REDAXO Console](Adds code analysis to REDAXO improving developer productivity and code quality.
+[`rexstan`](https://github.com/FriendsOfREDAXO/rexstan) integrates with the [REDAXO Console](Adds code analysis to REDAXO improving developer productivity and code quality.
 ), the REDAXO WebUI but also describes the [setup with PHPStorm](https://github.com/FriendsOfREDAXO/rexstan/blob/main/README.md#phpstorm) natively.
 
 Additionally `rexstan` provides answers to [frequently asked questions](https://github.com/FriendsOfREDAXO/rexstan/blob/main/FAQ.md) to make it as easy as possible to get started with PHPStan for newcomers.
