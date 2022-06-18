@@ -16,7 +16,6 @@
 - [TomasVotruba/awesome-php-ast](https://github.com/TomasVotruba/awesome-php-ast) (3 weeks ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (1 month ago)
 
----
 
 ### 🔭 Latest releases I've contributed to
 
