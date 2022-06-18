@@ -4,7 +4,7 @@ Dump of my development activities
 
 ---
 
-### [phpstandba](https://github.com/staabm/phpstan-dba/) - created by me
+### [phpstan-dba](https://github.com/staabm/phpstan-dba/) - created by me
 
 > PHPStan based SQL static analysis and type inference for the database access layer.
 > Supports @doctrineproject DBAL, PDO, mysqli with MySQL/MariaDB and @PostgreSQL.
