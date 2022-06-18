@@ -45,6 +45,12 @@ Parameter and Returntype improvements help PHPStan to understand your code. The 
 - [support positional arguments in sprintf() constant format inference](https://github.com/phpstan/phpstan-src/pull/1426)
 - [cover vsprintf()](https://github.com/phpstan/phpstan-src/pull/1441)
 
+### Composer - my contributions
+
+> A Dependency Manager for PHP
+
+Together with Jordi I worked on a PHPStan extension for [Composer](https://getcomposer.org/) which detects problems while working with the config object.
+
 
 ### Symplify - my contributions
 
