@@ -1,0 +1,31 @@
+name: Update recent work
+
+on:
+  push:
+  schedule:
+    - cron: "0 */1 * * *"
+
+jobs:
+  markscribe:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: "Checkout"
+        uses: "actions/checkout@v2"
+
+      - uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
+        with:
+          template: "templates/recent-work.md.tpl"
+          writeTo: "recent-work.md"
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          commit_message: Update recent work
+          branch: main
+          commit_user_name: readme-scribe 🤖
+          commit_user_email: actions@github.com
+          commit_author: readme-scribe 🤖 <actions@github.com>
