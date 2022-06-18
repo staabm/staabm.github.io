@@ -45,6 +45,8 @@ Parameter and Returntype improvements help PHPStan to understand your code. The 
 - [support positional arguments in sprintf() constant format inference](https://github.com/phpstan/phpstan-src/pull/1426)
 - [cover vsprintf()](https://github.com/phpstan/phpstan-src/pull/1441)
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">to all sprintf/sscanf lovers.. the next <a href="https://twitter.com/phpstan?ref_src=twsrc%5Etfw">@phpstan</a> release will include type inferrence for most common cases.<br><br>enjoy. <a href="https://t.co/ZytadYf9Yj">pic.twitter.com/ZytadYf9Yj</a></p>&mdash; markus staab (@markusstaab) <a href="https://twitter.com/markusstaab/status/1538045189578805249?ref_src=twsrc%5Etfw">June 18, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 ### Composer - my contributions
 
 > A Dependency Manager for PHP
