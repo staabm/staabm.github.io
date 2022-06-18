@@ -22,7 +22,7 @@ While rexstan saw early adopters, we improved the experience for first time user
 
 I have worked a lot on `phpstan-dba` during june, to fix minor and a few bigger glitches.
 
-We published releases [improved compatibility with latest upstream PHPStan](https://phpstan.org/blog/preprocessing-ast-for-custom-rules) changes and paved the way for use of phpstan-dba with [PHPStan@bleedingEdge](https://phpstan.org/blog/what-is-bleeding-edge).
+We published releases [improving compatibility with latest upstream PHPStan](https://phpstan.org/blog/preprocessing-ast-for-custom-rules) changes and paved the way for use of phpstan-dba with [PHPStan @bleedingEdge](https://phpstan.org/blog/what-is-bleeding-edge).
 
 Find out more [about recent releases](https://github.com/staabm/phpstan-dba/releases).
 
