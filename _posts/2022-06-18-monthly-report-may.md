@@ -9,13 +9,15 @@ Dump of my development activities
 > PHPStan based SQL static analysis and type inference for the database access layer.
 > Supports @doctrineproject DBAL, PDO, mysqli with MySQL/MariaDB and @PostgreSQL.
 
-Tweets
-- [check your sql queries like a boss. resultset type inference included.](https://twitter.com/markusstaab/status/1527376363204001793)
+#### Tweets
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">check your sql queries like a boss. resultset type inference included.<br><br>next level static analysis - using the <a href="https://twitter.com/hashtag/phpstandba?src=hash&amp;ref_src=twsrc%5Etfw">#phpstandba</a> extension for <a href="https://twitter.com/phpstan?ref_src=twsrc%5Etfw">@phpstan</a><br><br>Supports <a href="https://twitter.com/doctrineproject?ref_src=twsrc%5Etfw">@doctrineproject</a> DBAL, PDO, mysqli with MySQL/MariaDB and <a href="https://twitter.com/PostgreSQL?ref_src=twsrc%5Etfw">@PostgreSQL</a>.<a href="https://t.co/eyK8jHxaY6">https://t.co/eyK8jHxaY6</a><br><br>plz RT <a href="https://t.co/5yt858JmPw">pic.twitter.com/5yt858JmPw</a></p>&mdash; markus staab (@markusstaab) <a href="https://twitter.com/markusstaab/status/1527376363204001793?ref_src=twsrc%5Etfw">May 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+**READ MORE**
+
 - [query plan analysis to spot performance problems.](https://twitter.com/markusstaab/status/1529481591222845440)
 - [PGSQL support in phpstandba](https://twitter.com/markusstaab/status/1526950527677997056)
 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">check your sql queries like a boss. resultset type inference included.<br><br>next level static analysis - using the <a href="https://twitter.com/hashtag/phpstandba?src=hash&amp;ref_src=twsrc%5Etfw">#phpstandba</a> extension for <a href="https://twitter.com/phpstan?ref_src=twsrc%5Etfw">@phpstan</a><br><br>Supports <a href="https://twitter.com/doctrineproject?ref_src=twsrc%5Etfw">@doctrineproject</a> DBAL, PDO, mysqli with MySQL/MariaDB and <a href="https://twitter.com/PostgreSQL?ref_src=twsrc%5Etfw">@PostgreSQL</a>.<a href="https://t.co/eyK8jHxaY6">https://t.co/eyK8jHxaY6</a><br><br>plz RT <a href="https://t.co/5yt858JmPw">pic.twitter.com/5yt858JmPw</a></p>&mdash; markus staab (@markusstaab) <a href="https://twitter.com/markusstaab/status/1527376363204001793?ref_src=twsrc%5Etfw">May 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
 ### PHPStan - my contributions
