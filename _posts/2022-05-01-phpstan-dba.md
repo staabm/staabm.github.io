@@ -4,7 +4,7 @@ PHPStan based SQL static analysis and type inference for the database access lay
 
 ---
 
-`phpstan-dba` makes your phpstan static code analysis jobs aware of datatypes within your database.
+[`phpstan-dba`](https://github.com/staabm/phpstan-dba) makes your phpstan static code analysis jobs aware of datatypes within your database.
 With this information at hand we are able to detect type inconsistencies between your domain model and database-schema.
 Additionally errors in code handling the results of sql queries can be detected.
 
