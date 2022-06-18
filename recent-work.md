@@ -13,11 +13,20 @@
 - [composer/composer](https://github.com/composer/composer) (1 week ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
-- [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) (2 weeks ago)
-- [staabm/phpstan-bug3634](https://github.com/staabm/phpstan-bug3634) (2 weeks ago)
-- [staabm/phpstan-bug7308](https://github.com/staabm/phpstan-bug7308) (3 weeks ago)
-- [TomasVotruba/awesome-php-ast](https://github.com/TomasVotruba/awesome-php-ast) (3 weeks ago)
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (1 month ago)
+
+
+#### 🔨 My recent Pull Requests
+
+- [Monthly report: June 2022](https://github.com/staabm/staabm.github.io/pull/3) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [add avatar into page header](https://github.com/staabm/staabm.github.io/pull/2) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [Create readme-scribe.yml](https://github.com/staabm/staabm.github.io/pull/1) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [cover vsprintf()](https://github.com/phpstan/phpstan-src/pull/1441) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [cover more sprintf() cases](https://github.com/phpstan/phpstan-src/pull/1440) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [support positional arguments in sprintf() constant format inference](https://github.com/phpstan/phpstan-src/pull/1437) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [added SscanfFunctionDynamicReturnTypeExtension return type extension](https://github.com/phpstan/phpstan-src/pull/1434) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [#5690](https://github.com/refined-github/sandbox/pull/17) on [refined-github/sandbox](https://github.com/refined-github/sandbox) (1 day ago)
+- [allow numeric-strings beeing returned for non-empty-string](https://github.com/phpstan/phpstan-src/pull/1428) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [support positional arguments in sprintf() constant format inference](https://github.com/phpstan/phpstan-src/pull/1426) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
@@ -32,3 +41,12 @@
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.40](https://github.com/staabm/phpstan-dba/releases/tag/0.2.40) (1 week ago)
 - [staabm/phpstan-deployer6](https://github.com/staabm/phpstan-deployer6) - [1.0.3](https://github.com/staabm/phpstan-deployer6/releases/tag/1.0.3) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - [2.3.7](https://github.com/composer/composer/releases/tag/2.3.7) (1 week ago)
+
+
+#### ❤️ These awesome people sponsor me (thank you!)
+
+- [dhirtzbruch](https://github.com/dhirtzbruch) (2 weeks ago)
+- [orklah](https://github.com/orklah) (4 weeks ago)
+- [williamdes](https://github.com/williamdes) (4 weeks ago)
+- [itworks-development](https://github.com/itworks-development) (2 years ago)
+- [w-sk](https://github.com/w-sk) (2 years ago)
