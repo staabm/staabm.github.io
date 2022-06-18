@@ -12,16 +12,14 @@ Dump of my development activities
 
 #### Signuature Improvements
 
-- [improve is_subclass_of type checks](https://github.com/phpstan/phpstan-src/pull/1321)
 - [implement str-case functions return type extension](https://github.com/phpstan/phpstan-src/pull/1325)
 - [
 infer non-empty-string on substr() comparison with constant string](https://github.com/phpstan/phpstan-src/pull/1259)
 - [infer non-empty-string on str-casing functions comparison with constant string](https://github.com/phpstan/phpstan-src/pull/1382)
 - [infer non-empty-string on strstr() comparison with constant string](https://github.com/phpstan/phpstan-src/pull/1365)
 
-#### Conditional Parameters
-
-- [https://github.com/phpstan/phpstan-src/pull/1311](https://github.com/phpstan/phpstan-src/pull/1311)
+- [improve is_subclass_of type checks](https://github.com/phpstan/phpstan-src/pull/1321)
+- [use conditional parameter for is_a() via stub](https://github.com/phpstan/phpstan-src/pull/1311)
 - [use conditional return type for is_a() via stub](https://github.com/phpstan/phpstan-src/pull/1310)
 
 #### kill `instanceof StringType`
