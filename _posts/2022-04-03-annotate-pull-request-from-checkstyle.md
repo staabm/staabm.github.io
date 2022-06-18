@@ -1,10 +1,10 @@
 ## cs2pr - GitHub Pull Request annotation
 
-`cs2pr` - Annotate a GitHub Pull Request based on a Checkstyle XML-report within your GitHub Action
+[`cs2pr`](https://github.com/staabm/annotate-pull-request-from-checkstyle) - Annotate a GitHub Pull Request based on a Checkstyle XML-report within your GitHub Action
 
 ---
 
-`cs2pr` turns checkstyle based XML-Reports into GitHub Pull Request Annotations via the Checks API. This script is meant for use within your GitHub Action.
+[`cs2pr`](https://github.com/staabm/annotate-pull-request-from-checkstyle) turns checkstyle based XML-Reports into GitHub Pull Request Annotations via the Checks API. This script is meant for use within your GitHub Action.
 
 That means you no longer search thru your GitHub Action logfiles. No need to interpret messages which are formatted differently with every tool. Instead you can focus on your Pull Request, and you don't need to leave the Pull Request area.
 
