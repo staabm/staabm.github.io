@@ -3,7 +3,6 @@
 - [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}})
 {{- end}}
 
----
 
 ### 🔭 Latest releases I've contributed to
 {{range recentReleases 10}}
