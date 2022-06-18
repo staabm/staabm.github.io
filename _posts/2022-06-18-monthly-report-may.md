@@ -4,13 +4,28 @@ Dump of my development activities
 
 ---
 
-### PHPStan
+### [phpstandba](https://github.com/staabm/phpstan-dba/) - created by me
+
+> PHPStan based SQL static analysis and type inference for the database access layer.
+> Supports @doctrineproject DBAL, PDO, mysqli with MySQL/MariaDB and @PostgreSQL.
+
+Tweets
+- [check your sql queries like a boss. resultset type inference included.](https://twitter.com/markusstaab/status/1527376363204001793)
+- [query plan analysis to spot performance problems.](https://twitter.com/markusstaab/status/1529481591222845440)
+- [PGSQL support in phpstandba](https://twitter.com/markusstaab/status/1526950527677997056)
+
+
+### PHPStan - my contributions
+
+> PHPStan finds bugs in your code without writing tests
 
 #### General Improvements
 
 - [Improvements to named arguments handling](https://github.com/phpstan/phpstan-src/pull/1313)
 
 #### Signuature Improvements
+
+Parameter and Returntype improvements help PHPStan to understand your code. The better the inference the less additional manual code is required by you to make PHPStan understand whats going on.
 
 - [implement str-case functions return type extension](https://github.com/phpstan/phpstan-src/pull/1325)
 - [
@@ -27,3 +42,7 @@ infer non-empty-string on substr() comparison with constant string](https://gith
 In the PHPStan codebase we should refactor all uses of `instanceof StringType` to `$type->isXXX` checks, which paves the way for different String-Types like `non-empty-string`, `numeric-string` or `non-falsey-string` (to be implemented).
 
 - [Support string accessory types in BitwiseNot](https://github.com/phpstan/phpstan-src/pull/1266)
+
+## 💌 Support my open source activities
+
+Honor the work I am doing in my freetime by [sponsoring me](https://github.com/sponsors/staabm). 
