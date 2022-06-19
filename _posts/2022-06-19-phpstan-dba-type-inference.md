@@ -1,6 +1,7 @@
 ---
 tags:
 - phpstan-dba
+- PHPStan
 ---
 
 
