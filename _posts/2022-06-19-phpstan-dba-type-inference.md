@@ -72,7 +72,7 @@ function fetchUser(\PDO $pdo, string $userToken):array {
 ```
 
 This kind of error easily happen when new SQL queries are implemented or the database schema is changed,
-while not every spot in the codebase adjusted for the changed datatype.
+while not every spot in the codebase was adjusted for the changed column type.
 
 
 ### complex sql queries
