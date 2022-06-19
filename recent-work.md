@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (6 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [added phpstan-dba support](https://github.com/FriendsOfREDAXO/rexstan/pull/32) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Monthly report: June 2022](https://github.com/staabm/staabm.github.io/pull/3) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [add avatar into page header](https://github.com/staabm/staabm.github.io/pull/2) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [Create readme-scribe.yml](https://github.com/staabm/staabm.github.io/pull/1) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
@@ -26,14 +27,13 @@
 - [added SscanfFunctionDynamicReturnTypeExtension return type extension](https://github.com/phpstan/phpstan-src/pull/1434) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [#5690](https://github.com/refined-github/sandbox/pull/17) on [refined-github/sandbox](https://github.com/refined-github/sandbox) (2 days ago)
 - [allow numeric-strings beeing returned for non-empty-string](https://github.com/phpstan/phpstan-src/pull/1428) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [support positional arguments in sprintf() constant format inference](https://github.com/phpstan/phpstan-src/pull/1426) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.14](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.14) (today)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.0.3](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.0.3) (2 days ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.3.7](https://github.com/doctrine/dbal/releases/tag/3.3.7) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.13](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.13) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.14](https://github.com/phpstan/phpstan/releases/tag/1.7.14) (5 days ago)
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.7.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.7.0) (1 week ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [0.22.1](https://github.com/qossmic/deptrac/releases/tag/0.22.1) (1 week ago)
