@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there
 
 My name is Markus and I am a open source enthusiast since 2008 ✨.
 
