@@ -1,7 +1,7 @@
 ## `rexstan` meets `phpstan-dba`
 
 I have already written a few posts regarding [`phpstan-dba`](https://staabm.github.io/2022/05/01/phpstan-dba.html) and [`rexstan`](https://staabm.github.io/2022/06/18/rexstan-REDAXO-AddOn.html).
-On a hot sunday in june, I don't had a chance leaving the house, so I decided to work on these 2 projects.
+On a hot sunday in june 😅, I don't had a chance leaving the house, so I decided to work on these 2 projects.
 
 ### integrating `phpstan-dba` and `rexstan`
 
