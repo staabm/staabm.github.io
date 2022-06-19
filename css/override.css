@@ -43,3 +43,7 @@ hr {
   font-size: 2.5em;
   opacity: 0.3;
 }
+
+.post-header .post-title {
+  font-size: 32px;
+}
