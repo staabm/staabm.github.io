@@ -109,7 +109,7 @@ function fetchUser(\PDO $pdo, string $userToken, int $mode = 0, bool $lockedOnly
 
 At the time of writing `phpstan-dba` has builtin support for [doctrine/dbal](https://github.com/doctrine/dbal), [mysqli](https://www.php.net/mysqli), and [PDO](https://www.php.net/pdo).
 
-As backend it currently supports MySQL, MariaDB and PGSQL.
+As backend it currently supports MySQL, MariaDB and [PGSQL](https://twitter.com/markusstaab/status/1526950527677997056).
 
 
 ### read more
@@ -117,6 +117,6 @@ As backend it currently supports MySQL, MariaDB and PGSQL.
 `phpstan-dba` has a lot more to offer then type inference.
 
 As the sql queries get analyzed, phpstan-dba is able to warn about possible syntax errors.
-With recent releases it also learned to analyze database queries execution plans, to e.g. warn about queries not using an index.
+With recent releases it also learned to [analyze database queries execution plans](https://twitter.com/markusstaab/status/1529481591222845440), to e.g. warn about queries not using an index.
 
 We will explore this features in separate Blog posts in the future - stay tuned. 
