@@ -43,7 +43,7 @@
 - [composer/composer](https://github.com/composer/composer) - [2.3.7](https://github.com/composer/composer/releases/tag/2.3.7) (1 week ago)
 
 
-#### ❤️ These awesome people sponsor me (thank you!)
+#### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
 - [dhirtzbruch](https://github.com/dhirtzbruch) (2 weeks ago)
 - [orklah](https://github.com/orklah) (4 weeks ago)
