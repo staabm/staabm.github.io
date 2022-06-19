@@ -19,7 +19,7 @@
 {{- end}}
 
 
-#### ❤️ These awesome people sponsor me (thank you!)
+#### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 {{range sponsors 10}}
 - [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
