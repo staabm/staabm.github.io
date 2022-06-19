@@ -12,10 +12,15 @@
 {% endcapture %}
 {% assign counts_and_tags_sorted = count_tags_splittable_str | split:"###" | sort | reverse %}
 
+<h3>List of all tags</h3>
+<ul>
 {% for count_and_tag in counts_and_tags_sorted %}
     {% assign tag = count_and_tag | split:":::" | last | strip %}
     {% assign count = site.tags[tag].size %}
-    <a href="/tag_index.html#{{ tag | slugify }}" class="btn btn-outline-primary tag-btn">
-        <span class="fa fa-tag" aria-hidden="true"></span> {{ tag }} ({{ count }})
-    </a>
+    <li>
+        <a href="/tag_index.html#{{ tag | slugify }}">
+            {{ tag }} ({{ count }})
+        </a>
+    </li>
 {% endfor %}
+</ul>
