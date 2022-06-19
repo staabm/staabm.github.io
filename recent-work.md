@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (6 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [staabm/phpstan-deployer6](https://github.com/staabm/phpstan-deployer6) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) (1 week ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 weeks ago)
@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [typo](https://github.com/staabm/phpstan-dba/pull/407) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [added phpstan-dba support](https://github.com/FriendsOfREDAXO/rexstan/pull/32) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Monthly report: June 2022](https://github.com/staabm/staabm.github.io/pull/3) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [add avatar into page header](https://github.com/staabm/staabm.github.io/pull/2) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
@@ -26,7 +27,6 @@
 - [support positional arguments in sprintf() constant format inference](https://github.com/phpstan/phpstan-src/pull/1437) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [added SscanfFunctionDynamicReturnTypeExtension return type extension](https://github.com/phpstan/phpstan-src/pull/1434) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [#5690](https://github.com/refined-github/sandbox/pull/17) on [refined-github/sandbox](https://github.com/refined-github/sandbox) (2 days ago)
-- [allow numeric-strings beeing returned for non-empty-string](https://github.com/phpstan/phpstan-src/pull/1428) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
