@@ -2,6 +2,7 @@
 tags:
 - rexstan
 - REDAXO
+- PHPStan
 ---
 
 ## [rexstan](https://github.com/FriendsOfREDAXO/rexstan) - PHPStan [REDAXO CMS](https://redaxo.org/) AddOn
