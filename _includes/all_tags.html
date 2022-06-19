@@ -18,7 +18,7 @@
     {% assign tag = count_and_tag | split:":::" | last | strip %}
     {% assign count = site.tags[tag].size %}
     <li>
-        <a href="/tag_index.html#{{ tag | slugify }}">
+        <a href="/archive.html#{{ tag | slugify }}">
             {{ tag }} ({{ count }})
         </a>
     </li>
