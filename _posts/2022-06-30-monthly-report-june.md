@@ -1,3 +1,8 @@
+---
+tags:
+- monthly report
+---
+
 ## Monthly report: June 2022
 
 Dump of my development activities

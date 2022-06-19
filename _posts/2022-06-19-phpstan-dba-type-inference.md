@@ -1,3 +1,9 @@
+---
+tags:
+- phpstan-dba
+---
+
+
 ### phpstan-dba type inference
 
 PHPStan based SQL static analysis and type inference for the database access layer.

@@ -1,3 +1,9 @@
+---
+tags:
+- PHPStan
+---
+
+
 ## Analyze your PHPStan baseline
 
 > Analyzes PHPStan baseline files and creates aggregated error trend-reports.

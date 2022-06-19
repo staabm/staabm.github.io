@@ -1,3 +1,8 @@
+---
+tags:
+- rexstan
+---
+
 ## [rexstan](https://github.com/FriendsOfREDAXO/rexstan) - PHPStan [REDAXO CMS](https://redaxo.org/) AddOn
 
 Adds PHPStan based code analysis to the REDAXO CMS improving developer productivity and code quality.

@@ -1,3 +1,8 @@
+---
+tags:
+- cs2pr
+---
+
 ## cs2pr - GitHub Pull Request annotation
 
 [`cs2pr`](https://github.com/staabm/annotate-pull-request-from-checkstyle) - Annotate a GitHub Pull Request based on a Checkstyle XML-report within your GitHub Action

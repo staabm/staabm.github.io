@@ -1,3 +1,9 @@
+---
+tags:
+- rexstan
+- phpstan-dba
+---
+
 ## `rexstan` meets `phpstan-dba`
 
 I have already written a few posts regarding [`phpstan-dba`](https://staabm.github.io/2022/05/01/phpstan-dba.html) and [`rexstan`](https://staabm.github.io/2022/06/18/rexstan-REDAXO-AddOn.html).
