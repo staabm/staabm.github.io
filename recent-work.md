@@ -50,3 +50,13 @@
 - [williamdes](https://github.com/williamdes) (4 weeks ago)
 - [itworks-development](https://github.com/itworks-development) (2 years ago)
 - [w-sk](https://github.com/w-sk) (2 years ago)
+- [polarpixel](https://github.com/polarpixel) (2 years ago)
+- [bloep](https://github.com/bloep) (2 years ago)
+
+#### 📜 My recent blog posts
+
+- [phpstan-dba type inference](https://staabm.github.io/2022/06/19/phpstan-dba-type-inference.html) (today)
+- [rexstan - PHPStan REDAXO CMS AddOn](https://staabm.github.io/2022/06/18/rexstan-REDAXO-AddOn.html) (1 day ago)
+- [phpstan-dba is adopted by popular projects](https://staabm.github.io/2022/06/03/phpstan-dba-used-in-popular-projects.html) (2 weeks ago)
+- [Monthly report: May 2022](https://staabm.github.io/2022/05/30/monthly-report-may.html) (2 weeks ago)
+- [Thanks to my new sponsors](https://staabm.github.io/2022/05/30/new-sponsors.html) (2 weeks ago)
