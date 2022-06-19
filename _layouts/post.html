@@ -14,13 +14,14 @@ layout: default
 
       {% assign author = page.author | default: site.author %}
       {%- if author -%}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ author }}</span></span>
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name"><a href="https://github.com/staabm">{{ author }}</a></span></span>
       {%- endif -%}
 
       <span>
       {% for tag in page.tags %}
+          •
           <a href="/tag_index/#{{ tag | slugify }}">
-              • <span aria-hidden="true"></span> #{{ tag }}
+              #{{ tag }}
           </a>
       {% endfor %}
       </span>
