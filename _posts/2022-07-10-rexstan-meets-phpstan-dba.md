@@ -3,6 +3,7 @@ tags:
 - rexstan
 - REDAXO
 - phpstan-dba
+- PHPStan
 ---
 
 ## `rexstan` meets `phpstan-dba`
