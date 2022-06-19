@@ -1,6 +1,7 @@
 ---
 tags:
 - rexstan
+- REDAXO
 - phpstan-dba
 ---
 
