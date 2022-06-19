@@ -9,22 +9,15 @@ title: Blog Tags
 
 <!-- list all tags with their corresponding posts -->
 {% for tag in site.tags %}
-<h3 id="{{ tag | slugify }}">{{ tag }}</h3>
+<h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
 <ul>
-  {% for post in site.posts %}
-    {% if post.tags contains tag %}
+  {% for post in tag[1] %}
+  <a href="{{ site.baseurl }}{{ post.url }}">
     <li>
-      <h3>
-        <a href="{{ post.url }}">
-          {{ post.title }}
-          <small>{{ post.date | date_to_string }}</small>
-        </a>
-        {% for postTag in post.tags %}
-        <a href="/tag_index.html#{{ tag | slugify }}">{{ postTag }}</a>
-        {% endfor %}
-      </h3>
+      {{ post.title }}
+      <small class="post-date">{{ post.date | date_to_string }}</small>
     </li>
-    {% endif %}
+  </a>
   {% endfor %}
 </ul>
 {% endfor %}

@@ -12,7 +12,7 @@
 {% endcapture %}
 {% assign counts_and_tags_sorted = count_tags_splittable_str | split:"###" | sort | reverse %}
 
-<h3>List of all tags</h3>
+<h2>List of all tags</h2>
 <ul>
 {% for count_and_tag in counts_and_tags_sorted %}
     {% assign tag = count_and_tag | split:":::" | last | strip %}
