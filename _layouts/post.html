@@ -28,3 +28,17 @@ layout: default
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.5.1/build/styles/default.min.css">
+<script type="module">
+  import hljs from 'https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.5.1/build/es/highlight.min.js';
+  //  and it's easy to individually load additional languages
+  import php from 'https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.5.1/build/es/languages/php.min.js';
+  hljs.registerLanguage('php', php);
+
+  document.addEventListener('DOMContentLoaded', (event) => {
+    document.querySelectorAll('pre code.language-php').forEach((el) => {
+      hljs.highlightElement(el);
+    });
+  });
+</script>
