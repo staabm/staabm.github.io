@@ -116,7 +116,7 @@ As backend it currently supports MySQL, MariaDB and [PGSQL](https://twitter.com/
 
 `phpstan-dba` has a lot more to offer then type inference.
 
-As the sql queries get analyzed, phpstan-dba is able to warn about possible syntax errors.
+As the sql queries get analyzed, phpstan-dba is able to warn about possible syntax errors. Prepared statement parameters are validated. 
 With recent releases it also learned to [analyze database queries execution plans](https://twitter.com/markusstaab/status/1529481591222845440), to e.g. warn about queries not using an index.
 
 see the [DEMO to get a sneak peak](https://github.com/staabm/phpstan-dba/pull/61/files#diff-98a3c43049f6a0c859c0303037d9773534396533d7890bad187d465d390d634e) of what is possible.
