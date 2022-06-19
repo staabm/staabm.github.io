@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [create tag-index](https://github.com/staabm/staabm.github.io/pull/6) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [fixes](https://github.com/staabm/staabm.github.io/pull/5) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [render post tags](https://github.com/staabm/staabm.github.io/pull/4) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [typo](https://github.com/staabm/phpstan-dba/pull/407) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
@@ -26,7 +27,6 @@
 - [Create readme-scribe.yml](https://github.com/staabm/staabm.github.io/pull/1) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [cover vsprintf()](https://github.com/phpstan/phpstan-src/pull/1441) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [cover more sprintf() cases](https://github.com/phpstan/phpstan-src/pull/1440) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [support positional arguments in sprintf() constant format inference](https://github.com/phpstan/phpstan-src/pull/1437) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
