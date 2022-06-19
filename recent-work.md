@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [render post tags](https://github.com/staabm/staabm.github.io/pull/4) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [typo](https://github.com/staabm/phpstan-dba/pull/407) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [added phpstan-dba support](https://github.com/FriendsOfREDAXO/rexstan/pull/32) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Monthly report: June 2022](https://github.com/staabm/staabm.github.io/pull/3) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
@@ -26,7 +27,6 @@
 - [cover more sprintf() cases](https://github.com/phpstan/phpstan-src/pull/1440) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [support positional arguments in sprintf() constant format inference](https://github.com/phpstan/phpstan-src/pull/1437) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [added SscanfFunctionDynamicReturnTypeExtension return type extension](https://github.com/phpstan/phpstan-src/pull/1434) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [#5690](https://github.com/refined-github/sandbox/pull/17) on [refined-github/sandbox](https://github.com/refined-github/sandbox) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
