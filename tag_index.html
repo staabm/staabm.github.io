@@ -8,7 +8,7 @@ title: Blog Tags
 {% include all_tags.html %}
 
 <!-- list all tags with their corresponding posts -->
-{% for tag in site.tags %}
+{% for tag in tags %}
 <h3 id="{{ tag | slugify }}">{{ tag }}</h3>
 <ul>
   {% for post in site.posts %}
