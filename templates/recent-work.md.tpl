@@ -20,6 +20,11 @@
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
-{{range sponsors 5}}
+{{range sponsors 10}}
 - [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
+
+#### 📜 My recent blog posts
+{{range rss "https://staabm.github.io/feed.xml" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
