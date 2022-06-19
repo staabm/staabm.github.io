@@ -23,10 +23,11 @@ layout: default
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
+    
+    <p><i>Found a bug? Please {% github_edit_link "help improve this article" %}.</i></p>
+
     {% include navlinks.html %}
   </div>
-
-  <p><i>Found a bug? Please {% github_edit_link "help improve this article" %}.</i></p>
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
