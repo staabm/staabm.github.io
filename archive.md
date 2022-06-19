@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog Archive
+title: 📁 Blog Archive
 ---
 
 <!-- Show All tags as jump table -->
