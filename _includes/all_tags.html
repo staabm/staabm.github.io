@@ -12,7 +12,7 @@
 {% endcapture %}
 {% assign counts_and_tags_sorted = count_tags_splittable_str | split:"###" | sort | reverse %}
 
-<ul style="display: flex; list-style-type: none; margin-bottom: 10px">
+<ul style="display: flex; list-style-type: none; margin-bottom: 15px">
 {% for count_and_tag in counts_and_tags_sorted %}
     {% assign tag = count_and_tag | split:":::" | last | strip %}
     {% assign count = site.tags[tag].size %}
