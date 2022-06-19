@@ -11,10 +11,20 @@ layout: default
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {{ page.date | date: date_format }}
       </time>
+
       {% assign author = page.author | default: site.author %}
       {%- if author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ author }}</span></span>
-      {%- endif -%}</p>
+      {%- endif -%}
+
+      <span>
+      {% for tag in page.tags %}
+          <a href="/tag_index/#{{ tag | slugify }}">
+              • <span aria-hidden="true"></span> #{{ tag }}
+          </a>
+      {% endfor %}
+      </span>
+    </p>
   </header>
 
   <div class="share-links">
