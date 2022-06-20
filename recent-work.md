@@ -31,10 +31,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.15](https://github.com/phpstan/phpstan/releases/tag/1.7.15) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.17](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.17) (1 day ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.0.3](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.0.3) (3 days ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.3.7](https://github.com/doctrine/dbal/releases/tag/3.3.7) (3 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.14](https://github.com/phpstan/phpstan/releases/tag/1.7.14) (6 days ago)
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.7.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.7.0) (1 week ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [0.22.1](https://github.com/qossmic/deptrac/releases/tag/0.22.1) (1 week ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.4](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.4) (1 week ago)
