@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [staabm/phpstan-deployer6](https://github.com/staabm/phpstan-deployer6) (1 week ago)
@@ -17,24 +17,24 @@
 
 #### 🔨 My recent Pull Requests
 
-- [update phpstan to 1.7.15](https://github.com/FriendsOfREDAXO/rexstan/pull/38) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [create tag-index](https://github.com/staabm/staabm.github.io/pull/6) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
-- [fixes](https://github.com/staabm/staabm.github.io/pull/5) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
-- [render post tags](https://github.com/staabm/staabm.github.io/pull/4) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
-- [typo](https://github.com/staabm/phpstan-dba/pull/407) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
-- [added phpstan-dba support](https://github.com/FriendsOfREDAXO/rexstan/pull/32) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [Monthly report: June 2022](https://github.com/staabm/staabm.github.io/pull/3) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
-- [add avatar into page header](https://github.com/staabm/staabm.github.io/pull/2) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
-- [Create readme-scribe.yml](https://github.com/staabm/staabm.github.io/pull/1) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
-- [cover vsprintf()](https://github.com/phpstan/phpstan-src/pull/1441) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [update phpstan to 1.7.15](https://github.com/FriendsOfREDAXO/rexstan/pull/38) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [create tag-index](https://github.com/staabm/staabm.github.io/pull/6) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
+- [fixes](https://github.com/staabm/staabm.github.io/pull/5) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
+- [render post tags](https://github.com/staabm/staabm.github.io/pull/4) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
+- [typo](https://github.com/staabm/phpstan-dba/pull/407) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
+- [added phpstan-dba support](https://github.com/FriendsOfREDAXO/rexstan/pull/32) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [Monthly report: June 2022](https://github.com/staabm/staabm.github.io/pull/3) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
+- [add avatar into page header](https://github.com/staabm/staabm.github.io/pull/2) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
+- [Create readme-scribe.yml](https://github.com/staabm/staabm.github.io/pull/1) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
+- [cover vsprintf()](https://github.com/phpstan/phpstan-src/pull/1441) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.18](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.18) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.15](https://github.com/phpstan/phpstan/releases/tag/1.7.15) (today)
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.0.3](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.0.3) (3 days ago)
-- [doctrine/dbal](https://github.com/doctrine/dbal) - [3.3.7](https://github.com/doctrine/dbal/releases/tag/3.3.7) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.18](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.18) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.15](https://github.com/phpstan/phpstan/releases/tag/1.7.15) (1 day ago)
+- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.0.3](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.0.3) (4 days ago)
+- [doctrine/dbal](https://github.com/doctrine/dbal) - [3.3.7](https://github.com/doctrine/dbal/releases/tag/3.3.7) (4 days ago)
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.7.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.7.0) (1 week ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [0.22.1](https://github.com/qossmic/deptrac/releases/tag/0.22.1) (1 week ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.4](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.4) (1 week ago)
@@ -55,8 +55,8 @@
 
 #### 📜 My recent blog posts
 
-- [phpstan-dba type inference](https://staabm.github.io/2022/06/19/phpstan-dba-type-inference.html) (1 day ago)
-- [rexstan - PHPStan REDAXO CMS AddOn](https://staabm.github.io/2022/06/18/rexstan-REDAXO-AddOn.html) (2 days ago)
+- [phpstan-dba type inference](https://staabm.github.io/2022/06/19/phpstan-dba-type-inference.html) (2 days ago)
+- [rexstan - PHPStan REDAXO CMS AddOn](https://staabm.github.io/2022/06/18/rexstan-REDAXO-AddOn.html) (3 days ago)
 - [phpstan-dba is adopted by popular projects](https://staabm.github.io/2022/06/03/phpstan-dba-used-in-popular-projects.html) (2 weeks ago)
 - [Monthly report: May 2022](https://staabm.github.io/2022/05/30/monthly-report-may.html) (3 weeks ago)
 - [Thanks to my new sponsors](https://staabm.github.io/2022/05/30/new-sponsors.html) (3 weeks ago)
