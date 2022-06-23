@@ -6,7 +6,7 @@ tags:
 
 ## PHPStan sprintf/sscanf type inference
 
-In a series of pull requests I have been working on the improving the PHPStan type inference for `sprintf`, `vsprintf` and `sscanf`.
+In a series of pull requests I have been working on improving the PHPStan type inference for `sprintf`, `vsprintf` and `sscanf`.
 
 ### `sprintf` inference
 
