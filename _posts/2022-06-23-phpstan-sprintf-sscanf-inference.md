@@ -10,7 +10,33 @@ In a series of pull requests I have been working on improving the PHPStan type i
 
 ### `sprintf` inference
 
-On the 4th of june Philippe Villiers (aka [@kissifrot](https://github.com/kissifrot)) reported an [interessting issue regarding `sprintf`](https://github.com/phpstan/phpstan/issues/7387).
+On the 4th of june Philippe Villiers (aka [@kissifrot](https://github.com/kissifrot)) reported an [interessting issue regarding `sprintf`](https://github.com/phpstan/phpstan/issues/7387):
+
+```php
+// inital reported snippet, which reported errors on PHPStan until 1.7.14
+<?php declare(strict_types = 1);
+
+class HelloWorld
+{
+	/**
+	 * @psalm-param int|numeric-string $divisor
+	 */
+	public static function divide(int|string $divisor): string
+	{
+		return 'You divided by ' . $divisor;
+	}
+	
+  public static function extractPercentage(float $percentage): string
+  {
+      // PHPStan error
+      // $divisor of static method HelloWorld::divide() expects int|numeric-string, non-empty-string given.
+      $subtotalAmount = self::divide(sprintf('%.14F', $percentage));
+
+      return $subtotalAmount;
+  }
+}
+```
+
 The [code example he provided](https://phpstan.org/r/546a013a-1028-41d6-9256-2528c6123498) made me immediately think about our own codebase.
 It looked so familiar to me, that I realized fixing this problem might also fix issues in our own codebase. So I started to work on it.
 
