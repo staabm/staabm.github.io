@@ -47,7 +47,7 @@ When the format is constant we know all its details at analysis time and can do 
 This first PR also sparked [some](https://github.com/phpstan/phpstan-src/pull/1410#issuecomment-1152123657) [great](https://github.com/phpstan/phpstan-src/pull/1410#issuecomment-1152131750) conversations with other PHPStan contributors,
 which made it obvious that we can do even better.
 
-One obvious improvement was to add [support for positional arguments](https://github.com/phpstan/phpstan-src/pull/1437).
+One improvement was to add [support for positional arguments](https://github.com/phpstan/phpstan-src/pull/1437).
 
 The more time you invest into the problem area the better your mental model gets.
 While working thru all this I had a few [more ideas about possible use cases](https://github.com/phpstan/phpstan-src/pull/1440), which I wanted to cover.
@@ -57,7 +57,6 @@ While working thru all this I had a few [more ideas about possible use cases](ht
 I always try to step back for a moment and get the overall picture of my change. While doing a walk arround my home area I realized that there is a obvious counterpart to `sprintf` - namely `sscanf`.
 While `sprintf` is used to format a string, `sscanf` can be used to parse a string back into separate parts.
 
-Using the format-string you can easily parse a string into its parts.
 For the time beeing PHPStan treated the returned variables as a generic array, without further type specification.
 
 ```php
