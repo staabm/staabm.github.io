@@ -31,7 +31,7 @@ While working thru all this I had a few [more ideas about possible use cases](ht
 I always try to step back for a moment and get the overall picture of my change. While doing a walk arround my home area I realized that there is a obvious counterpart to `sprintf` - namely `sscanf`.
 While `sprintf` is used to format a string, `sscanf` can be used to parse a string back into separate parts.
 
-Using the format-string one can define which datatype to expect and php-src returns such types when found.
+Using the format-string you can easily parse a string into its parts.
 For the time beeing PHPStan treated the returned variables as a generic array, without further type specification.
 
 ```php
@@ -58,7 +58,7 @@ Since this function accepts the same format string as `sprintf`, I just had to [
 
 ### summary
 
-Working on this kind of problems makes really fun. I have used these functions a lot and have a pretty good idea what to expect from them.
+Working on this kind of problems makes really fun. I have used the `sprintf` and `sscanf` functions a lot and have a pretty good idea what to expect from them.
 
 PHPStan until 1.7.14 did not have a good idea about the types involved, and therefore you would have written some unnecessary code to make it aware of the obvious stuff like:
 ```php
