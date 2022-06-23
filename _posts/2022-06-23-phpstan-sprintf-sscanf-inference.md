@@ -12,7 +12,7 @@ In a series of pull requests I have been working on improving the PHPStan type i
 
 On the 4th of june Philippe Villiers (aka [@kissifrot](https://github.com/kissifrot)) reported an [interessting issue regarding `sprintf`](https://github.com/phpstan/phpstan/issues/7387).
 The [code example he provided](https://phpstan.org/r/546a013a-1028-41d6-9256-2528c6123498) made me immediately think about our own codebase.
-It looked so familiar to me, that I decided fixing this problem might fix issues in our own codebase. So I started to work on it.
+It looked so familiar to me, that I realized fixing this problem might also fix issues in our own codebase. So I started to work on it.
 
 The [first iteration](https://github.com/phpstan/phpstan-src/pull/1410) on the problem fixed the issue mentioned.
 I just had to make the already existing `SprintfFunctionDynamicReturnTypeExtension` handle a possible `ConstantStringType`-format-string.
