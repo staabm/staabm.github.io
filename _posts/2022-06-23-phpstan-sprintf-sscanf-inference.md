@@ -18,21 +18,21 @@ On the 4th of june Philippe Villiers (aka [@kissifrot](https://github.com/kissif
 
 class HelloWorld
 {
-	/**
-	 * @psalm-param int|numeric-string $divisor
-	 */
-	public static function divide(int|string $divisor): string
-	{
-		return 'You divided by ' . $divisor;
-	}
-	
+  /**
+   * @psalm-param int|numeric-string $divisor
+   */
+  public static function divide(int|string $divisor): string
+  {
+    return 'You divided by ' . $divisor;
+  }
+
   public static function extractPercentage(float $percentage): string
   {
-      // PHPStan error
-      // $divisor of static method HelloWorld::divide() expects int|numeric-string, non-empty-string given.
-      $subtotalAmount = self::divide(sprintf('%.14F', $percentage));
+    // PHPStan error
+    // $divisor of static method HelloWorld::divide() expects int|numeric-string, non-empty-string given.
+    $subtotalAmount = self::divide(sprintf('%.14F', $percentage));
 
-      return $subtotalAmount;
+    return $subtotalAmount;
   }
 }
 ```
