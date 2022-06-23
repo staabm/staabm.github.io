@@ -84,7 +84,7 @@ Since this function accepts the same format string as `sprintf`, I just had to [
 
 ### summary
 
-Working on this kind of problems makes really fun. I have used the `sprintf` and `sscanf` functions a lot and have a pretty good idea what to expect from them.
+Working on this kind of problems makes really fun. I have used the `sprintf` and `sscanf` functions a lot before and have a pretty good idea what to expect from them.
 
 PHPStan until 1.7.14 did not have a good idea about the types involved, and therefore you would have written some unnecessary code to make it aware of the obvious stuff like:
 ```php
