@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (1 week ago)
@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [update phpstan/phpstan-strict-rules to 1.3.0](https://github.com/FriendsOfREDAXO/rexstan/pull/39) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [use a separate resultCache per project config file](https://github.com/phpstan/phpstan-src/pull/1469) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [update phpstan to 1.7.15](https://github.com/FriendsOfREDAXO/rexstan/pull/38) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [create tag-index](https://github.com/staabm/staabm.github.io/pull/6) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
@@ -26,15 +27,14 @@
 - [added phpstan-dba support](https://github.com/FriendsOfREDAXO/rexstan/pull/32) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [Monthly report: June 2022](https://github.com/staabm/staabm.github.io/pull/3) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 - [add avatar into page header](https://github.com/staabm/staabm.github.io/pull/2) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
-- [Create readme-scribe.yml](https://github.com/staabm/staabm.github.io/pull/1) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.19](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.19) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.5.0](https://github.com/paratestphp/paratest/releases/tag/v6.5.0) (today)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.3.0](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.3.0) (today)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.6](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.6) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.18](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.18) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.15](https://github.com/phpstan/phpstan/releases/tag/1.7.15) (4 days ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.0.3](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.0.3) (1 week ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.3.7](https://github.com/doctrine/dbal/releases/tag/3.3.7) (1 week ago)
