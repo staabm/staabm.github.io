@@ -82,6 +82,25 @@ You guessed it already... In a similar fashion I worked on previous topics, I st
 As soon as PHPStan knows when arrays cannot be empty, it is able to help you by e.g. identifying redundant code like `count($array) === 0`.
 
 When `non-empty-array` is used in combination with loops like `foreach` or `for`, PHPStan can assume a loop-body is evaluated at least once.
+This in turn help making things possible like detecting dead code:
+
+```php
+/**
+ * @param non-empty-array<mixed> $array
+ */
+public function sayHello($array): void
+{
+    $x = null;
+    foreach($array as $value) {
+        $x = 25;
+    }
+    
+    // since foreach will be iterated at least once, $x can never be `null` at this point
+    if ($x === null) { 
+    }
+}
+```
+__[try this snippet on phpstan.org/try](https://phpstan.org/r/597e97ed-eef8-401a-85f9-abb28526316e)__
 
 
 ## 💌 Support my open source activities
