@@ -57,7 +57,7 @@
 
 #### 📜 My recent blog posts
 
-- [Github.maintainer Month](https://staabm.github.io/2022/06/24/github.maintainer-month.html) (today)
+- [Github Maintainer Month](https://staabm.github.io/2022/06/24/github-maintainer-month.html) (today)
 - [PHPStan sprintf/sscanf type inference](https://staabm.github.io/2022/06/23/phpstan-sprintf-sscanf-inference.html) (1 day ago)
 - [phpstan-dba type inference](https://staabm.github.io/2022/06/19/phpstan-dba-type-inference.html) (5 days ago)
 - [rexstan - PHPStan REDAXO CMS AddOn](https://staabm.github.io/2022/06/18/rexstan-REDAXO-AddOn.html) (6 days ago)
