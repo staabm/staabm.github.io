@@ -19,7 +19,7 @@ As a newcomer to the project, I firstly worked on things I had expertise with, [
 ### `non-empty-string` inference improvements
 
 To get a better feeling of the static analysis problem domain, I approached a simple problem at first, namely [`non-empty-string` inference in url-functions](https://github.com/phpstan/phpstan-src/pull/575).
-I got addicted by the `non-empty-string` thing and introduced it in different array functions, like [`array_combine`](https://github.com/phpstan/phpstan-src/pull/578), [`array_merge`](https://github.com/phpstan/phpstan-src/pull/581), [´array_flip`](https://github.com/phpstan/phpstan-src/pull/583) etc.
+I got addicted by the `non-empty-string` thing and introduced it in different array functions, like [`array_combine`](https://github.com/phpstan/phpstan-src/pull/578), [`array_merge`](https://github.com/phpstan/phpstan-src/pull/581), [`array_flip`](https://github.com/phpstan/phpstan-src/pull/583) etc.
 
 If you are curious, [I did this very same thing for a lot of functions](https://github.com/phpstan/phpstan-src/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Astaabm+is%3Amerged++non-empty-string).
 
