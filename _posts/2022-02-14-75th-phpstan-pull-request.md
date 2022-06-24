@@ -95,7 +95,8 @@ public function sayHello($array): void
         $x = 25;
     }
     
-    // since foreach will be iterated at least once, $x can never be `null` at this point
+    // since foreach will be iterated at least once,
+    // $x can never be `null` at this point
     if ($x === null) { 
     }
 }
