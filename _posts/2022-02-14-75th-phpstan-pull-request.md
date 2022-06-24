@@ -33,7 +33,7 @@ After getting this `non-empty-string` thing working, I concentrated my efforts o
 Doing similar things as before, I firstly worked on getting `positive-int` [type coverage into a few functions](https://github.com/phpstan/phpstan-src/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Astaabm+is%3Amerged+positive-int).
 
 [Ondrey](https://github.com/ondrejmirtes) guided me through all this - as always - and gave me a few pointers regarding the [IntegerRangeType](https://github.com/phpstan/phpstan-src/blob/e12b4c487c9c7401a7434b682666a4209099349d/src/Type/IntegerRangeType.php).
-PHPStan learned math on integer ranges, so it was able to figure out stuff like:
+I taught PHPStan math on integer ranges, so it was able to figure out stuff like:
 
 ```php
 /**
@@ -50,26 +50,26 @@ public function integerRangeMaxima($range1, $range2, $range3, $int) {
     assertType('int<4, 10>', max($range1, $range2, $range3));
 }
 
-	/**
-	 * @param int<1, 10> $r1
-	 * @param int<5, 10> $r2
-	 * @param int<5, max> $rMax
-	 */
-	public function math($r1, $r2, $rMax) {
-        assertType('int<5, 14>', $r1 + 4);
-		assertType('int<-3, 6>', $r1 - 4);
-		assertType('int<4, 40>', $r1 * 4);
-		assertType('float|int<0, 2>', $r1 / 4);
-		assertType('int<9, max>', $rMax + 4);
-		assertType('int<1, max>', $rMax - 4);
-		assertType('int<20, max>', $rMax * 4);
-		assertType('float|int<1, max>', $rMax / 4);
+/**
+ * @param int<1, 10> $r1
+ * @param int<5, 10> $r2
+ * @param int<5, max> $rMax
+ */
+public function math($r1, $r2, $rMax) {
+    assertType('int<5, 14>', $r1 + 4);
+    assertType('int<-3, 6>', $r1 - 4);
+    assertType('int<4, 40>', $r1 * 4);
+    assertType('float|int<0, 2>', $r1 / 4);
+    assertType('int<9, max>', $rMax + 4);
+    assertType('int<1, max>', $rMax - 4);
+    assertType('int<20, max>', $rMax * 4);
+    assertType('float|int<1, max>', $rMax / 4);
 
-		assertType('int<6, 20>', $r1 + $r2);
-		assertType('int<-9, 5>', $r1 - $r2);
-		assertType('int<5, 100>', $r1 * $r2);
-		assertType('float|int<0, 1>', $r1 / $r2);
-	}
+    assertType('int<6, 20>', $r1 + $r2);
+    assertType('int<-9, 5>', $r1 - $r2);
+    assertType('int<5, 100>', $r1 * $r2);
+    assertType('float|int<0, 1>', $r1 / $r2);
+}
 ```
 
 It took me a [lot of PRs to work out all the rough edges](https://github.com/phpstan/phpstan-src/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Astaabm+is%3Amerged+range), but it was so much fun.
@@ -79,7 +79,7 @@ If you are interested, have a [look at all those test-cases covered](https://git
 ### `non-empty-array` inference
 
 You guessed it already... In a similar fashion I worked on previous topics, I started working on `non-empty-array` inference.
-As soon as PHPStan knows when arrays cannot be empty, it is able to help you by e.g. identifying redundant code like `count($array) === 0` or similar.
+As soon as PHPStan knows when arrays cannot be empty, it is able to help you by e.g. identifying redundant code like `count($array) === 0`.
 
 When `non-empty-array` is used in combination with loops like `foreach` or `for`, PHPStan can assume a loop-body is evaluated at least once.
 
