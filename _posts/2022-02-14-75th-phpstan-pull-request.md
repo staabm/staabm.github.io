@@ -55,7 +55,7 @@ public function integerRangeMaxima($range1, $range2, $range3, $int) {
  * @param int<5, 10> $r2
  * @param int<5, max> $rMax
  */
-public function math($r1, $r2, $rMax) {
+public function integerRangeMath($r1, $r2, $rMax) {
     assertType('int<5, 14>', $r1 + 4);
     assertType('int<-3, 6>', $r1 - 4);
     assertType('int<4, 40>', $r1 * 4);
