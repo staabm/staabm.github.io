@@ -82,7 +82,7 @@ You guessed it already... In a similar fashion I worked on previous topics, I st
 As soon as PHPStan knows when arrays cannot be empty, it is able to help you by e.g. identifying redundant code like `count($array) === 0`.
 
 When `non-empty-array` is used in combination with loops like `foreach` or `for`, PHPStan can assume a loop-body is evaluated at least once.
-This in turn help making things possible like detecting dead code:
+This in turn helps making things possible like detecting dead code:
 
 ```php
 /**
