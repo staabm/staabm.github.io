@@ -45,6 +45,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
+- [elricco](https://github.com/elricco) (today)
 - [github](https://github.com/github) (today)
 - [dhirtzbruch](https://github.com/dhirtzbruch) (3 weeks ago)
 - [orklah](https://github.com/orklah) (1 month ago)
