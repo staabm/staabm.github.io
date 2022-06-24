@@ -31,9 +31,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.5.1](https://github.com/paratestphp/paratest/releases/tag/v6.5.1) (today)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [0.23.0](https://github.com/qossmic/deptrac/releases/tag/0.23.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.19](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.19) (today)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.5.0](https://github.com/paratestphp/paratest/releases/tag/v6.5.0) (today)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.3.0](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.3.0) (today)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.6](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.6) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.7.15](https://github.com/phpstan/phpstan/releases/tag/1.7.15) (4 days ago)
