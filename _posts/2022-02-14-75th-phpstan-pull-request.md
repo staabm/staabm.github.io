@@ -101,7 +101,7 @@ public function sayHello($array): void
     }
 }
 ```
-__[try this snippet on phpstan.org/try](https://phpstan.org/r/597e97ed-eef8-401a-85f9-abb28526316e)__
+_[try this snippet on phpstan.org/try](https://phpstan.org/r/597e97ed-eef8-401a-85f9-abb28526316e)_
 
 
 ## 💌 Support my open source activities
