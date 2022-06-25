@@ -31,17 +31,17 @@ Analyzing app/portal/phpstan-baseline.neon
   Anonymous-Variables: 4
 ```
 
-As you can see, we aggregate different kind of errors and sum their occurrences.
+As you can see, it aggregates different kind of errors and sum their occurrences.
 
 Visualizing the number of deprecation errors to get an idea whether things might start breaking in the future.
 
 We also deep analyse some error messages, which tell us more about the complexity of our product and therefore refactoring opportunities.
 
-Tracking unknown types and anonymous variables helps us to get an idea whether PHPStan has a good understanding of the codebase. 
+Tracking unknown types and anonymous variables helps us to get an idea whether PHPStan has a good understanding of the codebase (PHPStan code coverage).
 
 ### example trend analysis
 
-the following example shows the evolution of errors in your phpstan baselines.
+the following example shows the evolution of errors in phpstan baselines.
 see the trend between 2 different points in time like:
 
 ```
