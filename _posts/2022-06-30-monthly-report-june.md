@@ -45,10 +45,7 @@ Find out more [about recent releases](https://github.com/staabm/phpstan-dba/rele
 
 Parameter and Returntype improvements help PHPStan to understand your code. The better the inference the less additional manual code is required by you to make PHPStan understand whats going on.
 
-- [added SscanfFunctionDynamicReturnTypeExtension return type extension](https://github.com/phpstan/phpstan-src/pull/1434) - see [my blog post about the overall picture](https://staabm.github.io/2022/06/23/phpstan-sprintf-sscanf-inference.html).
-- [more precise sprintf() return type on constant formats](https://github.com/phpstan/phpstan-src/pull/1410)
-- [support positional arguments in sprintf() constant format inference](https://github.com/phpstan/phpstan-src/pull/1426)
-- [cover vsprintf()](https://github.com/phpstan/phpstan-src/pull/1441)
+See [my blog post about the sprintf/sscanf overall picture](https://staabm.github.io/2022/06/23/phpstan-sprintf-sscanf-inference.html).
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">to all sprintf/sscanf lovers.. the next <a href="https://twitter.com/phpstan?ref_src=twsrc%5Etfw">@phpstan</a> release will include type inferrence for most common cases.<br><br>enjoy. <a href="https://t.co/ZytadYf9Yj">pic.twitter.com/ZytadYf9Yj</a></p>&mdash; markus staab (@markusstaab) <a href="https://twitter.com/markusstaab/status/1538045189578805249?ref_src=twsrc%5Etfw">June 18, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
