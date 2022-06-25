@@ -15,5 +15,5 @@ I was selected to be one of those 900 people across the globe to get a one time 
  
 It means a lot to me 🙏 ❤️.
 
-[I put a lot of work in the open source space](https://staabm.github.io/recent-work.html), as I really love the idea of working on things in the open and make it available to anyone. Thank you.
+[I put a lot of work in the open source space](https://staabm.github.io/recent-work.html), as I really love the idea of working on things in the open in my freetime and make it available to anyone. Thank you.
 
