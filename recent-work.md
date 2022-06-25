@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Release 1.8.3](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/101) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (today)
 - [Added link to the tool website](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/100) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (today)
 - [e2e test resultCachePath](https://github.com/phpstan/phpstan-src/pull/1475) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [update phpstan/phpstan-strict-rules to 1.3.0](https://github.com/FriendsOfREDAXO/rexstan/pull/39) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -26,7 +27,6 @@
 - [fixes](https://github.com/staabm/staabm.github.io/pull/5) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 - [render post tags](https://github.com/staabm/staabm.github.io/pull/4) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 - [typo](https://github.com/staabm/phpstan-dba/pull/407) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
-- [added phpstan-dba support](https://github.com/FriendsOfREDAXO/rexstan/pull/32) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
