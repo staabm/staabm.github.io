@@ -3,7 +3,7 @@ tags:
 - PHPStan
 ---
 
-This post describes how I started into PHPStan. You can get a feeling of how I approach complex things and start building a mental model about a new problem domain.
+This post describes how I started into [PHPStan](https://phpstan.org/). You can get a feeling of how I approach complex things and start building a mental model about a new problem domain.
 
 
 ## today [my 75th pull request to PHPStan](https://twitter.com/markusstaab/status/1493167116056465416) was merged
