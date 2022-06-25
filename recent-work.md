@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prepare next iteration](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/102) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (today)
 - [Release 1.8.3](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/101) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (today)
 - [Added link to the tool website](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/100) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (today)
 - [e2e test resultCachePath](https://github.com/phpstan/phpstan-src/pull/1475) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -26,11 +27,11 @@
 - [create tag-index](https://github.com/staabm/staabm.github.io/pull/6) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 - [fixes](https://github.com/staabm/staabm.github.io/pull/5) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 - [render post tags](https://github.com/staabm/staabm.github.io/pull/4) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
-- [typo](https://github.com/staabm/phpstan-dba/pull/407) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) - [1.8.3](https://github.com/staabm/annotate-pull-request-from-checkstyle/releases/tag/1.8.3) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.5.1](https://github.com/paratestphp/paratest/releases/tag/v6.5.1) (1 day ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [0.23.0](https://github.com/qossmic/deptrac/releases/tag/0.23.0) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.19](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.19) (1 day ago)
@@ -40,7 +41,6 @@
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.0.3](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.0.3) (1 week ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.3.7](https://github.com/doctrine/dbal/releases/tag/3.3.7) (1 week ago)
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.7.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.7.0) (1 week ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.40](https://github.com/staabm/phpstan-dba/releases/tag/0.2.40) (2 weeks ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
