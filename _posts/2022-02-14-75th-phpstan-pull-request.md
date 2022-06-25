@@ -30,7 +30,7 @@ the less boilerplate code is required to persuade the tool of what you are tryin
 ### `positive-int`, `integer-range`-type and math
 
 After getting this `non-empty-string` thing working, I concentrated my efforts on `integer` semantics.
-Doing similar things as before, I firstly worked on getting `positive-int` [type coverage into a few functions](https://github.com/phpstan/phpstan-src/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Astaabm+is%3Amerged+positive-int).
+Doing so the same way as before, I firstly worked on getting `positive-int` [type coverage into a few functions](https://github.com/phpstan/phpstan-src/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Astaabm+is%3Amerged+positive-int).
 
 [Ondrey](https://github.com/ondrejmirtes) guided me through all this - as always - and gave me a few pointers regarding the [IntegerRangeType](https://github.com/phpstan/phpstan-src/blob/e12b4c487c9c7401a7434b682666a4209099349d/src/Type/IntegerRangeType.php).
 I taught PHPStan math on integer ranges, so it was able to figure out stuff like:
@@ -103,6 +103,9 @@ public function sayHello($array): void
 }
 ```
 _[try this snippet on phpstan.org/try](https://phpstan.org/r/597e97ed-eef8-401a-85f9-abb28526316e)_
+
+
+Read [more about PHPStan doctypes](https://phpstan.org/writing-php-code/phpdoc-types).
 
 
 ## 💌 Support my open source activities
