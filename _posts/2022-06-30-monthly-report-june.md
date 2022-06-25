@@ -45,7 +45,7 @@ Find out more [about recent releases](https://github.com/staabm/phpstan-dba/rele
 
 Parameter and Returntype improvements help PHPStan to understand your code. The better the inference the less additional manual code is required by you to make PHPStan understand whats going on.
 
-- [added SscanfFunctionDynamicReturnTypeExtension return type extension](https://github.com/phpstan/phpstan-src/pull/1434)
+- [added SscanfFunctionDynamicReturnTypeExtension return type extension](https://github.com/phpstan/phpstan-src/pull/1434) - see [my blog post about the overall picture](https://staabm.github.io/2022/06/23/phpstan-sprintf-sscanf-inference.html).
 - [more precise sprintf() return type on constant formats](https://github.com/phpstan/phpstan-src/pull/1410)
 - [support positional arguments in sprintf() constant format inference](https://github.com/phpstan/phpstan-src/pull/1426)
 - [cover vsprintf()](https://github.com/phpstan/phpstan-src/pull/1441)
@@ -64,6 +64,12 @@ Together [with Jordi I worked on a PHPStan extension](https://github.com/compose
 Improvements regarding use of static reflection, to prevent class not found errors when custom autoloaders are used.
 
 - [PreventParentMethodVisibilityOverrideRule: use static reflection](https://github.com/symplify/symplify/pull/4167)
+
+
+### Github Maintainer Month
+
+I was selected to be one of those 900 people across the globe to get a [one time sponsorship from GitHub](https://staabm.github.io/2022/06/24/github-maintainer-month.html).
+
 
 ## 💌 Support my open source activities
 
