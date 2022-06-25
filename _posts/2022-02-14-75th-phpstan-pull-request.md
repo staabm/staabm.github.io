@@ -5,6 +5,12 @@ tags:
 
 This post describes how I started into [PHPStan](https://phpstan.org/). You can get a feeling of how I approach complex things and start building a mental model about a new problem domain.
 
+First things first: PHPStan?
+
+> PHPStan focuses on finding errors in your code without actually running it. It catches whole classes of bugs even before you write tests for the code. It moves PHP closer to compiled languages in the sense that the correctness of each line of the code can be checked before you run the actual line.
+
+**[Read more about PHPStan in an introductory article »](https://phpstan.org/blog/find-bugs-in-your-code-without-writing-tests)**
+
 
 ## today [my 75th pull request to PHPStan](https://twitter.com/markusstaab/status/1493167116056465416) was merged
 
