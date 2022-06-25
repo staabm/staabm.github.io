@@ -20,7 +20,7 @@ As a newcomer to the project, I firstly worked on things I had expertise with, [
 
 To get a better feeling of the static analysis problem domain, I approached a simple problem at first, namely [`non-empty-string` inference in url-functions](https://github.com/phpstan/phpstan-src/pull/575).
 
-I got addicted by the `non-empty-string` thing and introduced it all over the place.
+I got addicted by the `non-empty-string` and introduced it all over the place.
 If you are curious, [I did this very same thing for a lot of functions](https://github.com/phpstan/phpstan-src/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Astaabm+is%3Amerged++non-empty-string).
 
 Why is this useful you might think? The more PHPStan is able to learn about more precise types while scanning your code,
