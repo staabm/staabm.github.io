@@ -7,7 +7,13 @@ tags:
 
 ## [rexstan](https://github.com/FriendsOfREDAXO/rexstan) - PHPStan [REDAXO CMS](https://redaxo.org/) AddOn
 
-Adds PHPStan based code analysis to the REDAXO CMS improving developer productivity and code quality.
+Adds [PHPStan](https://phpstan.org) based code analysis to the REDAXO CMS improving developer productivity and code quality.
+
+First things first: PHPStan?
+
+> PHPStan focuses on finding errors in your code without actually running it. It catches whole classes of bugs even before you write tests for the code. It moves PHP closer to compiled languages in the sense that the correctness of each line of the code can be checked before you run the actual line.
+
+[Read more about PHPStan in an introductory article »](https://phpstan.org/blog/find-bugs-in-your-code-without-writing-tests)
 
 
 ---
