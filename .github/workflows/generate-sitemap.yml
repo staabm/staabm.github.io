@@ -1,0 +1,39 @@
+name: Generate xml sitemap
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  sitemap_job:
+    runs-on: ubuntu-latest
+    name: Generate a sitemap
+
+    steps:
+    - name: Checkout the repo
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0 
+
+    - name: Generate the sitemap
+      id: sitemap
+      uses: cicirello/generate-sitemap@v1
+      with:
+        base-url-path: https://staabm.github.io
+        path-to-root: _posts/
+
+    - name: Output stats
+      run: |
+        echo "sitemap-path = ${{ steps.sitemap.outputs.sitemap-path }}"
+        echo "url-count = ${{ steps.sitemap.outputs.url-count }}"
+        echo "excluded-count = ${{ steps.sitemap.outputs.excluded-count }}"
+        
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+          commit_message: Update sitemap
+          branch: main
+          commit_user_name: sitemap 🤖
+          commit_user_email: actions@github.com
+          commit_author: sitemap 🤖 <actions@github.com>
