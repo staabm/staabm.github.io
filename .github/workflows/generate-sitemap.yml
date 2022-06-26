@@ -26,3 +26,13 @@ jobs:
         echo "sitemap-path = ${{ steps.sitemap.outputs.sitemap-path }}"
         echo "url-count = ${{ steps.sitemap.outputs.url-count }}"
         echo "excluded-count = ${{ steps.sitemap.outputs.excluded-count }}"
+        
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+          commit_message: Update sitemap
+          branch: main
+          commit_user_name: sitemap 🤖
+          commit_user_email: actions@github.com
+          commit_author: sitemap 🤖 <actions@github.com>
