@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (2 weeks ago)
@@ -31,12 +31,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.20](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.20) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.0](https://github.com/phpstan/phpstan/releases/tag/1.8.0) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.24.0](https://github.com/vimeo/psalm/releases/tag/4.24.0) (2 days ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) - [1.8.3](https://github.com/staabm/annotate-pull-request-from-checkstyle/releases/tag/1.8.3) (4 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.5.1](https://github.com/paratestphp/paratest/releases/tag/v6.5.1) (5 days ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [0.23.0](https://github.com/qossmic/deptrac/releases/tag/0.23.0) (5 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.19](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.19) (5 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.3.0](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.3.0) (5 days ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.6](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.6) (6 days ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.0.3](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.0.3) (1 week ago)
