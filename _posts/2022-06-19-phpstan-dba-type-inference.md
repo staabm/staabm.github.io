@@ -11,7 +11,7 @@ PHPStan based SQL static analysis and type inference for the database access lay
 
 ---
 
-I the last few months I have been working on a PHPStan extension called [phpstan-dba](https://staabm.github.io/2022/05/01/phpstan-dba.html).
+In the last few months I have been working on a PHPStan extension called [phpstan-dba](https://staabm.github.io/2022/05/01/phpstan-dba.html).
 Its most valuable feature - from a extension user point of view - is the type inference you get for your SQL queries.
 
 Lets start with a motivation example and after that we dive into more details.
