@@ -31,8 +31,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.21](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.21) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.41](https://github.com/staabm/phpstan-dba/releases/tag/0.2.41) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.20](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.20) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.0](https://github.com/phpstan/phpstan/releases/tag/1.8.0) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.24.0](https://github.com/vimeo/psalm/releases/tag/4.24.0) (2 days ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) - [1.8.3](https://github.com/staabm/annotate-pull-request-from-checkstyle/releases/tag/1.8.3) (4 days ago)
