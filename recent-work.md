@@ -31,6 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/composer](https://github.com/composer/composer) - [2.3.8](https://github.com/composer/composer/releases/tag/2.3.8) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.21](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.21) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.41](https://github.com/staabm/phpstan-dba/releases/tag/0.2.41) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.0](https://github.com/phpstan/phpstan/releases/tag/1.8.0) (2 days ago)
@@ -40,7 +41,6 @@
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [0.23.0](https://github.com/qossmic/deptrac/releases/tag/0.23.0) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.3.0](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.3.0) (1 week ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.6](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.6) (1 week ago)
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.0.3](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.0.3) (2 weeks ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
