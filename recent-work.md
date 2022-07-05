@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (3 weeks ago)
@@ -17,7 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update README.md](https://github.com/staabm/phpstan-baseline-analysis/pull/53) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
+- [Update README.md](https://github.com/staabm/phpstan-baseline-analysis/pull/53) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
 - [Prepare next iteration](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/102) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
 - [Release 1.8.3](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/101) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
 - [Added link to the tool website](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/100) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
@@ -31,12 +31,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.0.4](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.0.4) (2 days ago)
-- [jquery-validation/jquery-validation](https://github.com/jquery-validation/jquery-validation) - [1.19.5](https://github.com/jquery-validation/jquery-validation/releases/tag/1.19.5) (3 days ago)
-- [composer/composer](https://github.com/composer/composer) - [2.3.8](https://github.com/composer/composer/releases/tag/2.3.8) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.21](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.21) (5 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.41](https://github.com/staabm/phpstan-dba/releases/tag/0.2.41) (5 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.0](https://github.com/phpstan/phpstan/releases/tag/1.8.0) (5 days ago)
+- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.0.4](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.0.4) (3 days ago)
+- [jquery-validation/jquery-validation](https://github.com/jquery-validation/jquery-validation) - [1.19.5](https://github.com/jquery-validation/jquery-validation/releases/tag/1.19.5) (4 days ago)
+- [composer/composer](https://github.com/composer/composer) - [2.3.8](https://github.com/composer/composer/releases/tag/2.3.8) (4 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.21](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.21) (6 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.41](https://github.com/staabm/phpstan-dba/releases/tag/0.2.41) (6 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.0](https://github.com/phpstan/phpstan/releases/tag/1.8.0) (6 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.24.0](https://github.com/vimeo/psalm/releases/tag/4.24.0) (1 week ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) - [1.8.3](https://github.com/staabm/annotate-pull-request-from-checkstyle/releases/tag/1.8.3) (1 week ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.5.1](https://github.com/paratestphp/paratest/releases/tag/v6.5.1) (1 week ago)
@@ -57,8 +57,8 @@
 
 #### 📜 My recent blog posts
 
-- [Analyze your PHPStan baseline](https://staabm.github.io/2022/07/04/phpstan-baseline-analysis.html) (today)
-- [Monthly report: June 2022](https://staabm.github.io/2022/06/30/monthly-report-june.html) (4 days ago)
+- [Analyze your PHPStan baseline](https://staabm.github.io/2022/07/04/phpstan-baseline-analysis.html) (1 day ago)
+- [Monthly report: June 2022](https://staabm.github.io/2022/06/30/monthly-report-june.html) (5 days ago)
 - [Github Maintainer Month](https://staabm.github.io/2022/06/24/github-maintainer-month.html) (1 week ago)
 - [PHPStan sprintf/sscanf type inference](https://staabm.github.io/2022/06/23/phpstan-sprintf-sscanf-inference.html) (1 week ago)
 - [phpstan-dba type inference](https://staabm.github.io/2022/06/19/phpstan-dba-type-inference.html) (2 weeks ago)
