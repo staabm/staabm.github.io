@@ -1,0 +1,17 @@
+name: "Generate OG Images"
+on: pull_request
+
+jobs:
+  generate_og_job:
+    runs-on: ubuntu-latest
+    name: Generate OG Images
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+      - name: Generate Image
+        uses: BoyWithSilverWings/generate-og-image@1.0.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_CONTEXT: ${{ toJson(github) }}
+        with:
+          path: _posts/og-images/
