@@ -2,6 +2,12 @@
 tags:
 - phpstan-dba
 - PHPStan
+ogImage:
+  title: "phpstan-dba static analysis"
+  subtitle: "PHPStan based SQL static analysis and type inference for the database access layer"
+  imageUrl: "https://staabm.github.io/staabm.svg"
+  background: "linear-gradient(to right, #ec008c, #fc6767)"
+  fontColor: "rgb(0, 0, 0)"
 ---
 
 ## phpstan-dba static analysis
