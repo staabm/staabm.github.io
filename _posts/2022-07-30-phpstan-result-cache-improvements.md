@@ -1,9 +1,17 @@
 ---
 tags:
 - PHPStan
+
+image: "images/og-images/phpstan-monorepo-result-cache.jpg"
+
+ogImage:
+  title: "PHPStan result caching in a mono repo"
+  subtitle: "scanning several project is no longer slow"
+  imageUrl: "https://staabm.github.io/staabm.svg"
+  filename: "phpstan-monorepo-result-cache"
 ---
 
-Recent improvements to the [PHPStan result cache](https://phpstan.org/user-guide/result-cache).
+I worked on improvements to the [PHPStan result cache](https://phpstan.org/user-guide/result-cache) recently.
 
 ## PHPStan result cache not used
 
@@ -12,8 +20,7 @@ Since our projects grow in size every day, scanning the codebase on every commit
 
 At the time of writing the GitHub Action PHPStan job runs roughly 2 minutes.
 
-I am working on the PHPStan project on a daily basis but until today did not yet realize that our CI jobs are running so long,
-because for some reason PHPStan does not use its result cache - even though we were persisting the results cache folder between runs.
+I am working on the PHPStan project nearly on a daily basis but until today did not yet realize that our CI jobs are running so long... for some reason PHPStan does not use its result cache - even though we were persisting the results cache folder between runs.
 
 After doing a few tests locally, I came to the conclusion that at the time of writing PHPStan only manages a single result cache.
 We are using PHPStan in a monorepo setup, in which we have several phpstan.neon configuration files.
@@ -28,11 +35,11 @@ If you are interested - I described the underlying problem in [more detail in PH
 When working on a project which uses several PHPStan configuration files, for which you invoke `phpstan` in a CI job,
 chances are high you are also affected by that problem.
 
-Another scenario where you might hit this problem is a classical shared CI server setup, where several projects run CI jobs run in a single non-isolated environment.
+Another scenario where you might hit this problem is a classical shared CI server setup, where several projects run CI jobs in a single non-isolated environment.
 
-The most common case is a development workstation, where several projects are developed. As soon as you jump between projects PHPStan needs to rebuild the cache from scratch.
+The most common case is a workstation, where several projects are developed. As soon as you jump between projects PHPStan needs to rebuild the cache from scratch.
 
-In such mentioned cases, until PHPStan 1.7.16 you had to define a [`tmpDir`](https://phpstan.org/config-reference#caching) or `resultCachePath` per phpstan.neon file beeing used.
+In such mentioned cases, until PHPStan 1.8.1 you had to define a [`tmpDir`](https://phpstan.org/config-reference#caching) or `resultCachePath` per PHPStan configuration beeing used.
 
 
 ### Working on a fix
