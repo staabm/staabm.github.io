@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [og-image prototype](https://github.com/staabm/staabm.github.io/pull/8) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Update README.md](https://github.com/staabm/phpstan-baseline-analysis/pull/53) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
 - [Prepare next iteration](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/102) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
 - [Release 1.8.3](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/101) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
@@ -26,7 +27,6 @@
 - [use a separate resultCache per project config file](https://github.com/phpstan/phpstan-src/pull/1469) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [update phpstan to 1.7.15](https://github.com/FriendsOfREDAXO/rexstan/pull/38) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
 - [create tag-index](https://github.com/staabm/staabm.github.io/pull/6) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
-- [fixes](https://github.com/staabm/staabm.github.io/pull/5) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
