@@ -4,11 +4,11 @@ tags:
 
 image: "images/og-images/phpstan-monorepo-result-cache.jpg"
 
-   ogImage:
-     title: "PHPStan result caching in a mono repo"
-     subtitle: "scanning several project is no longer slow"
-     imageUrl: "https://staabm.github.io/staabm.svg"
-     filename: "phpstan-monorepo-result-cache"
+ogImage:
+  title: "PHPStan result caching in a mono repo"
+  subtitle: "scanning several project is no longer slow"
+  imageUrl: "https://staabm.github.io/staabm.svg"
+  filename: "phpstan-monorepo-result-cache"
 ---
 
 I worked on improvements to the [PHPStan result cache](https://phpstan.org/user-guide/result-cache) recently.
