@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Regenerate og-image](https://github.com/staabm/staabm.github.io/pull/10) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [define og-imageurl](https://github.com/staabm/staabm.github.io/pull/9) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [og-image prototype](https://github.com/staabm/staabm.github.io/pull/8) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Update README.md](https://github.com/staabm/phpstan-baseline-analysis/pull/53) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
@@ -26,7 +27,6 @@
 - [e2e test resultCachePath](https://github.com/phpstan/phpstan-src/pull/1475) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [update phpstan/phpstan-strict-rules to 1.3.0](https://github.com/FriendsOfREDAXO/rexstan/pull/39) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [use a separate resultCache per project config file](https://github.com/phpstan/phpstan-src/pull/1469) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [update phpstan to 1.7.15](https://github.com/FriendsOfREDAXO/rexstan/pull/38) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
