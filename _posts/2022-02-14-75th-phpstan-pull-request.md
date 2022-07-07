@@ -100,6 +100,8 @@ public function integerRangeMath($r1, $r2, $rMax) {
 }
 ```
 
+_`assertType` is a helper function, used for testing in PHPStan, to make sure a given expression will return the given type_
+
 It took me a [lot of PRs to work out all the rough edges](https://github.com/phpstan/phpstan-src/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Astaabm+is%3Amerged+range), but it was so much fun.
 If you are interested, have a [look at all those test-cases covered](https://github.com/staabm/phpstan-src/blob/c4a662ac6c3ec63f063238880b243b5399c34fcc/tests/PHPStan/Analyser/data/integer-range-types.php#L198-L331).
 
