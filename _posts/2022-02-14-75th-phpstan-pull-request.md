@@ -45,13 +45,13 @@ the less boilerplate code is required to persuade the tool of what you are tryin
  * @return list<string>
  */
 function x(string $string): array {
-	if(strlen($string) === 0){
-		return [];
-	}
+    if(strlen($string) === 0){
+        return [];
+    }
 
     // PHPStan knows, explode with a non empty separator parameter
     // will not return `false` on PHP7, or throw a `ValueError` on PHP8+
-	return explode($string[0], '');
+    return explode($string[0], '');
 }
 ```
 
