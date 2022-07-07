@@ -8,7 +8,7 @@ ogImage:
   title: "Analyze your PHPStan baseline"
   subtitle: "get an idea about technical debt and complexity within your projects"
   imageUrl: "https://staabm.github.io/staabm.svg"
-  fileName: "analyze-your-PHPStan-baseline"
+  filename: "analyze-your-PHPStan-baseline"
 ---
 
 
