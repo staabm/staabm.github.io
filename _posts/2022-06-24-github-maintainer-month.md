@@ -4,10 +4,10 @@ tags:
 
 image: "images/og-images/new-project-rexstan.jpg"
 
-  ogImage:
-    title: "I got a new sponsor: GitHub"
-    imageUrl: "https://staabm.github.io/staabm.svg"
-    filename: "github-maintainer-month"
+ogImage:
+  title: "I got a new sponsor: GitHub"
+  imageUrl: "https://staabm.github.io/staabm.svg"
+  filename: "github-maintainer-month"
 ---
 
 To celebrate [Maintainer Month](https://github.blog/2022-06-24-thank-you-to-our-maintainers/), GitHub has invested an additional $500,000 to help sponsor the open source projects that it depends on.
