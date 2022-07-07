@@ -15,6 +15,11 @@ github_username: "staabm"
 #youtube_username: username
 #googleplus_username: +username
 
+### settings for the jekyll-seo-tag plugin
+twitter:
+  username: markusstaab
+
+
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
