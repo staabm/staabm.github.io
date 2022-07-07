@@ -8,6 +8,7 @@ ogImage:
   title: "75th pull request to PHPStan"
   subtitle: "How I started contributing to PHPStan"
   imageUrl: "https://staabm.github.io/staabm.svg"
+  fileName: "75th-pull-request-to-PHPStan.jpg"
   
 ---
 
