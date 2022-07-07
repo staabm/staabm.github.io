@@ -5,7 +5,7 @@ tags:
 image: "images/og-images/75th-pull-request-to-PHPStan.jpg"
 
 ogImage:
-  title: "75th pull request to PHPStan"
+  title: "Achievement unlocked: 75 pull requests merged 🎉"
   subtitle: "How I started contributing to PHPStan"
   imageUrl: "https://staabm.github.io/staabm.svg"
   filename: "75th-pull-request-to-PHPStan.jpg"
