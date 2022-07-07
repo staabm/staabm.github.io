@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Og image](https://github.com/staabm/staabm.github.io/pull/25) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Improvements](https://github.com/staabm/staabm.github.io/pull/24) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Og image](https://github.com/staabm/staabm.github.io/pull/21) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Og image](https://github.com/staabm/staabm.github.io/pull/20) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
@@ -26,7 +27,6 @@
 - [Update og-image.yml](https://github.com/staabm/staabm.github.io/pull/16) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Enable dependabot updates for actions](https://github.com/staabm/staabm.github.io/pull/14) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Create check-markdown-links.yml](https://github.com/staabm/staabm.github.io/pull/13) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [Added botComments input](https://github.com/agneym/generate-og-image/pull/31) on [agneym/generate-og-image](https://github.com/agneym/generate-og-image) (today)
 
 
 #### 🔭 Latest releases I've contributed to
