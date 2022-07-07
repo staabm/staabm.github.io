@@ -4,7 +4,7 @@ tags:
 - REDAXO
 - PHPStan
 
-image: "images/og-images/75th-pull-request-to-php-stan.jpg"
+image: "images/og-images/new-project-rexstan.jpg"
 
 ogImage:
   title: "new project: rexstan"
