@@ -1,6 +1,13 @@
 ---
 tags:
 - cs2pr
+
+
+image: "images/og-images/annotate-a-git-hub-pull-request-based-on-a-checkstyle-xml-report-within-your-git-hub-action.jpg"
+
+ogImage:
+  title: "Annotate a GitHub Pull Request based on a Checkstyle XML-report within your GitHub Action"
+  imageUrl: "https://staabm.github.io/staabm.svg"
 ---
 
 ## cs2pr - GitHub Pull Request annotation
