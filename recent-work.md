@@ -17,6 +17,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Og image](https://github.com/staabm/staabm.github.io/pull/21) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [Og image](https://github.com/staabm/staabm.github.io/pull/20) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [Og image](https://github.com/staabm/staabm.github.io/pull/19) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Og image](https://github.com/staabm/staabm.github.io/pull/18) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Og image](https://github.com/staabm/staabm.github.io/pull/17) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Update og-image.yml](https://github.com/staabm/staabm.github.io/pull/16) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
@@ -24,13 +27,11 @@
 - [Create check-markdown-links.yml](https://github.com/staabm/staabm.github.io/pull/13) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Added botComments input](https://github.com/agneym/generate-og-image/pull/31) on [agneym/generate-og-image](https://github.com/agneym/generate-og-image) (today)
 - [Fix fileName property via FrontMatter](https://github.com/agneym/generate-og-image/pull/30) on [agneym/generate-og-image](https://github.com/agneym/generate-og-image) (today)
-- [Og image set fileName](https://github.com/staabm/staabm.github.io/pull/12) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [Added og-image](https://github.com/staabm/staabm.github.io/pull/11) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [Regenerate og-image](https://github.com/staabm/staabm.github.io/pull/10) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [agneym/generate-og-image](https://github.com/agneym/generate-og-image) - [1.0.4](https://github.com/agneym/generate-og-image/releases/tag/1.0.4) (today)
 - [composer/composer](https://github.com/composer/composer) - [2.3.9](https://github.com/composer/composer/releases/tag/2.3.9) (2 days ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.0.4](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.0.4) (5 days ago)
 - [jquery-validation/jquery-validation](https://github.com/jquery-validation/jquery-validation) - [1.19.5](https://github.com/jquery-validation/jquery-validation/releases/tag/1.19.5) (6 days ago)
@@ -40,7 +41,6 @@
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.24.0](https://github.com/vimeo/psalm/releases/tag/4.24.0) (1 week ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) - [1.8.3](https://github.com/staabm/annotate-pull-request-from-checkstyle/releases/tag/1.8.3) (1 week ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.5.1](https://github.com/paratestphp/paratest/releases/tag/v6.5.1) (1 week ago)
-- [qossmic/deptrac](https://github.com/qossmic/deptrac) - [0.23.0](https://github.com/qossmic/deptrac/releases/tag/0.23.0) (1 week ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
