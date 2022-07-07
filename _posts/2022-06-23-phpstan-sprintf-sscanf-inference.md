@@ -1,6 +1,13 @@
 ---
 tags:
 - PHPStan
+
+image: "images/og-images/PHPStan-sprintf-sscanf-type-inference-improvements.jpg"
+
+ogImage:
+  title: "PHPStan sprintf/sscanf type inference improvements"
+  imageUrl: "https://staabm.github.io/staabm.svg"
+  filename: "PHPStan-sprintf-sscanf-type-inference-improvements"
 ---
 
 
