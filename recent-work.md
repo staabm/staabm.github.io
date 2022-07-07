@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Og image](https://github.com/staabm/staabm.github.io/pull/18) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Og image](https://github.com/staabm/staabm.github.io/pull/17) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Update og-image.yml](https://github.com/staabm/staabm.github.io/pull/16) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Enable dependabot updates for actions](https://github.com/staabm/staabm.github.io/pull/14) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
@@ -26,7 +27,6 @@
 - [Og image set fileName](https://github.com/staabm/staabm.github.io/pull/12) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Added og-image](https://github.com/staabm/staabm.github.io/pull/11) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Regenerate og-image](https://github.com/staabm/staabm.github.io/pull/10) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [define og-imageurl](https://github.com/staabm/staabm.github.io/pull/9) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 
 
 #### 🔭 Latest releases I've contributed to
