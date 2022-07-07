@@ -49,7 +49,7 @@ function x(string $string): array {
         return [];
     }
 
-    // PHPStan knows, explode with a non empty separator parameter
+    // PHPStan knows, explode given a non-empty-string separator
     // will not return `false` on PHP7, or throw a `ValueError` on PHP8+
     return explode($string[0], '');
 }
