@@ -2,7 +2,6 @@
 tags:
 - phpstan-dba
 - PHPStan
-image: _posts/og-images/phpstan-dba-static-analysis.jpg
 ogImage:
   title: "phpstan-dba static analysis"
   subtitle: "PHPStan based SQL static analysis and type inference for the database access layer"
