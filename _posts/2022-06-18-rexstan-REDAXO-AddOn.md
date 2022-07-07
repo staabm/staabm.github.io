@@ -3,6 +3,13 @@ tags:
 - rexstan
 - REDAXO
 - PHPStan
+
+image: "images/og-images/75th-pull-request-to-php-stan.jpg"
+
+ogImage:
+  title: "new project: rexstan"
+  subtitle: "rexstan adds PHPStan based code analysis to the REDAXO CMS"
+  imageUrl: "https://staabm.github.io/staabm.svg"
 ---
 
 ## [rexstan](https://github.com/FriendsOfREDAXO/rexstan) - PHPStan [REDAXO CMS](https://redaxo.org/) AddOn
