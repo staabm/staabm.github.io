@@ -7,7 +7,7 @@ jobs:
     name: Generate OG Images
     steps:
       - name: Checkout
-        uses: actions/checkout@v1
+        uses: actions/checkout@v2
       - name: Generate Image
         uses: BoyWithSilverWings/generate-og-image@1.0.3
         env:
