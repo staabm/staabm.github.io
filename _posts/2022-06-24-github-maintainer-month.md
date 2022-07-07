@@ -6,6 +6,7 @@ image: "images/og-images/new-project-rexstan.jpg"
 
 ogImage:
   title: "I got a new sponsor: GitHub"
+  subtitle: "lets celebrate Maintainer Month"
   imageUrl: "https://staabm.github.io/staabm.svg"
   filename: "github-maintainer-month"
 ---
