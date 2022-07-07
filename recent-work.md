@@ -4,6 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [agneym/generate-og-image](https://github.com/agneym/generate-og-image) (today)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
@@ -12,21 +13,20 @@
 - [symplify/symplify](https://github.com/symplify/symplify) (3 weeks ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 weeks ago)
 - [staabm/phpstan-deployer6](https://github.com/staabm/phpstan-deployer6) (4 weeks ago)
-- [composer/composer](https://github.com/composer/composer) (1 month ago)
 
 
 #### 🔨 My recent Pull Requests
 
+- [Update og-image.yml](https://github.com/staabm/staabm.github.io/pull/16) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [Enable dependabot updates for actions](https://github.com/staabm/staabm.github.io/pull/14) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [Create check-markdown-links.yml](https://github.com/staabm/staabm.github.io/pull/13) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [Added botComments input](https://github.com/agneym/generate-og-image/pull/31) on [agneym/generate-og-image](https://github.com/agneym/generate-og-image) (today)
+- [Fix fileName property via FrontMatter](https://github.com/agneym/generate-og-image/pull/30) on [agneym/generate-og-image](https://github.com/agneym/generate-og-image) (today)
+- [Og image set fileName](https://github.com/staabm/staabm.github.io/pull/12) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Added og-image](https://github.com/staabm/staabm.github.io/pull/11) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Regenerate og-image](https://github.com/staabm/staabm.github.io/pull/10) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [define og-imageurl](https://github.com/staabm/staabm.github.io/pull/9) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [og-image prototype](https://github.com/staabm/staabm.github.io/pull/8) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [Update README.md](https://github.com/staabm/phpstan-baseline-analysis/pull/53) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
-- [Prepare next iteration](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/102) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
-- [Release 1.8.3](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/101) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
-- [Added link to the tool website](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/100) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
-- [e2e test resultCachePath](https://github.com/phpstan/phpstan-src/pull/1475) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [update phpstan/phpstan-strict-rules to 1.3.0](https://github.com/FriendsOfREDAXO/rexstan/pull/39) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
