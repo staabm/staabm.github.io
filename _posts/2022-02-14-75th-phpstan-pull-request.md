@@ -32,6 +32,20 @@ If you are curious, [I did this very same thing for a lot of functions](https://
 Why is this useful you might think? The more PHPStan is able to learn about more precise types while scanning your code,
 the less boilerplate code is required to persuade the tool of what you are trying to do.
 
+```php
+/**
+ * @return list<string>
+ */
+function x(string $string): array {
+	if(strlen($string) === 0){
+		return [];
+	}
+
+    // PHPStan knows, explode with a non empty separator parameter
+    // will not return `false` on PHP7, or throw a `ValueError` on PHP8+
+	return explode($string[0], '');
+}
+```
 
 ### `positive-int`, `integer-range`-type and math
 
