@@ -4,6 +4,13 @@ tags:
 - REDAXO
 - phpstan-dba
 - PHPStan
+
+image: "images/og-images/new-project-rexstan.jpg"
+
+ ogImage:
+   title: "rexstan meets phpstan-dba"
+   subtitle: "Adding static analysis to the REDAXO CMS database access layer"
+   imageUrl: "https://staabm.github.io/staabm.svg"
 ---
 
 ## `rexstan` meets `phpstan-dba`
