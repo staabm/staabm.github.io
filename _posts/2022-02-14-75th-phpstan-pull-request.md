@@ -8,7 +8,7 @@ ogImage:
   title: "75th pull request to PHPStan"
   subtitle: "How I started contributing to PHPStan"
   imageUrl: "https://staabm.github.io/staabm.svg"
-  fileName: "75th-pull-request-to-PHPStan.jpg"
+  filename: "75th-pull-request-to-PHPStan.jpg"
 ---
 
 This post describes how I started into [PHPStan](https://phpstan.org/). You can get a feeling of how I approach complex things and start building a mental model about a new problem domain.
