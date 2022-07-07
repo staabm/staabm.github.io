@@ -1,6 +1,14 @@
 ---
 tags:
 - PHPStan
+
+image: "images/og-images/analyze-your-PHPStan-baseline.jpg"
+
+ogImage:
+  title: "Analyze your PHPStan baseline"
+  subtitle: "get an idea about technical debt and complexity within your projects"
+  imageUrl: "https://staabm.github.io/staabm.svg"
+  filename: "analyze-your-PHPStan-baseline"
 ---
 
 
