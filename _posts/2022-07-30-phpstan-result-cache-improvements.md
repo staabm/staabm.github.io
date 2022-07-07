@@ -20,8 +20,7 @@ Since our projects grow in size every day, scanning the codebase on every commit
 
 At the time of writing the GitHub Action PHPStan job runs roughly 2 minutes.
 
-I am working on the PHPStan project nearly on a daily basis but until today did not yet realize that our CI jobs are running so long,
-because for some reason PHPStan does not use its result cache - even though we were persisting the results cache folder between runs.
+I am working on the PHPStan project nearly on a daily basis but until today did not yet realize that our CI jobs are running so long... for some reason PHPStan does not use its result cache - even though we were persisting the results cache folder between runs.
 
 After doing a few tests locally, I came to the conclusion that at the time of writing PHPStan only manages a single result cache.
 We are using PHPStan in a monorepo setup, in which we have several phpstan.neon configuration files.
