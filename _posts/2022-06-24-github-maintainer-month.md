@@ -2,7 +2,7 @@
 tags:
 - sponsoring
 
-image: "images/og-images/new-project-rexstan.jpg"
+image: "images/og-images/github-maintainer-month.jpg"
 
 ogImage:
   title: "I got a new sponsor: GitHub"
