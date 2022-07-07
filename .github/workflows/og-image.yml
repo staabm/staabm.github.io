@@ -15,3 +15,6 @@ jobs:
           GITHUB_CONTEXT: ${{ toJson(github) }}
         with:
           path: _posts/og-images/
+          commitMsg: generated og-image
+          fontColor: black
+          background: white
