@@ -45,13 +45,13 @@ the less boilerplate code is required to persuade the tool of what you are tryin
  * @return list<string>
  */
 function x(string $string): array {
-	if(strlen($string) === 0){
-		return [];
-	}
+    if(strlen($string) === 0){
+        return [];
+    }
 
-    // PHPStan knows, explode with a non empty separator parameter
+    // PHPStan knows, explode given a non-empty-string separator
     // will not return `false` on PHP7, or throw a `ValueError` on PHP8+
-	return explode($string[0], '');
+    return explode($string[0], '');
 }
 ```
 
@@ -99,6 +99,8 @@ public function integerRangeMath($r1, $r2, $rMax) {
     assertType('float|int<0, 1>', $r1 / $r2);
 }
 ```
+
+_`assertType` is a helper function, used for testing in PHPStan, to make sure a given expression will return the given type_
 
 It took me a [lot of PRs to work out all the rough edges](https://github.com/phpstan/phpstan-src/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Astaabm+is%3Amerged+range), but it was so much fun.
 If you are interested, have a [look at all those test-cases covered](https://github.com/staabm/phpstan-src/blob/c4a662ac6c3ec63f063238880b243b5399c34fcc/tests/PHPStan/Analyser/data/integer-range-types.php#L198-L331).
