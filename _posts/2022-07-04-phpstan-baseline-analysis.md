@@ -40,6 +40,7 @@ Analyzing app/portal/phpstan-baseline.neon
 ```
 
 As you can see, it aggregates different kind of errors and sum their occurrences.
+[The PHPStan rules currently supported](https://github.com/staabm/phpstan-baseline-analysis#supported-phpstan-rulesets) are listed in the projects README.
 
 Visualizing the number of deprecation errors to get an idea whether things might start breaking in the future.
 
