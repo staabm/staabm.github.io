@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [make the process error with a proper error](https://github.com/agneym/generate-og-image/pull/36) on [agneym/generate-og-image](https://github.com/agneym/generate-og-image) (today)
 - [Og image](https://github.com/staabm/staabm.github.io/pull/25) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [Improvements](https://github.com/staabm/staabm.github.io/pull/24) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [Og image](https://github.com/staabm/staabm.github.io/pull/21) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
@@ -26,7 +27,6 @@
 - [Og image](https://github.com/staabm/staabm.github.io/pull/17) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [Update og-image.yml](https://github.com/staabm/staabm.github.io/pull/16) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [Enable dependabot updates for actions](https://github.com/staabm/staabm.github.io/pull/14) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
-- [Create check-markdown-links.yml](https://github.com/staabm/staabm.github.io/pull/13) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
