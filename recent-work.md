@@ -18,7 +18,7 @@
 #### 🔨 My recent Pull Requests
 
 - [Use marked.parse()](https://github.com/agneym/generate-og-image/pull/37) on [agneym/generate-og-image](https://github.com/agneym/generate-og-image) (today)
-- [make the process error with a proper error](https://github.com/agneym/generate-og-image/pull/36) on [agneym/generate-og-image](https://github.com/agneym/generate-og-image) (today)
+- [make the process error with a proper exit code](https://github.com/agneym/generate-og-image/pull/36) on [agneym/generate-og-image](https://github.com/agneym/generate-og-image) (today)
 - [Og image](https://github.com/staabm/staabm.github.io/pull/25) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [Improvements](https://github.com/staabm/staabm.github.io/pull/24) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [Og image](https://github.com/staabm/staabm.github.io/pull/21) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
