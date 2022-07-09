@@ -71,5 +71,7 @@ Analyzing Trend for app/portal/phpstan-baseline.neon
   Anonymous-Variables: 4 -> 3 => good
 ```
 
+Tracking the teams progress over time is great way to make the work you put into the software visible, either to gamify the process for developers involved, but also to make this metrics transparent for the management.
+Often times its not easy to get the points of software quality across to business people.
 
 see the [Project Repository](https://github.com/staabm/phpstan-baseline-analysis)
