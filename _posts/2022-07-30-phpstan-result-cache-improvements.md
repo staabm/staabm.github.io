@@ -5,7 +5,7 @@ tags:
 image: "images/og-images/phpstan-monorepo-result-cache.jpg"
 
 ogImage:
-  title: "PHPStan result caching in a mono repo"
+  title: "PHPStan result caching in a monorepo"
   subtitle: "scanning several project is no longer slow"
   imageUrl: "https://staabm.github.io/staabm.svg"
   filename: "phpstan-monorepo-result-cache"
