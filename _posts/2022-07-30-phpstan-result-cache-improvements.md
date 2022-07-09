@@ -15,7 +15,7 @@ I worked on improvements to the PHPStan result cache recently.
 
 ## How does the PHPStan result cache work?
 
-On a first analyze run, PHPstan builds and stores a [result cache](https://phpstan.org/user-guide/result-cache) which allows for faster subsequent runs. When analyzing a codebase after the result cache is available allows PHPStan, to determine which files changed and which files are affected by this change. This allows subsequent runs to be a lot faster then the initial scan.
+On a first analyze run, PHPstan builds and stores a [result cache](https://phpstan.org/user-guide/result-cache) which allows for faster subsequent runs. When analyzing a codebase after the result cache is available, PHPStan can determine which files changed and which files are affected by this change.
 
 Because of the smart result cache, [you should always analyze your whole project](https://phpstan.org/blog/why-you-should-always-analyse-whole-project).
 
@@ -30,7 +30,7 @@ I am working on the PHPStan project nearly on a daily basis but until today did 
 
 After doing a few tests locally, I came to the conclusion that at the time of writing PHPStan only manages a single result cache.
 We are using PHPStan in a monorepo setup, in which we have several phpstan.neon configuration files.
-Since we are running several PHPStan processes within a CI run, the cache gets overwritten over and over again,
+Since we are running several PHPStan processes within a single CI run, the cache gets overwritten over and over again,
 but is never restored and utilized.
 
 If you are interested - I described the underlying problem in [more detail in PHPStan issue #7517](https://github.com/phpstan/phpstan/issues/7517).
