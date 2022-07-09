@@ -31,12 +31,10 @@ With this logic applied, `rexstan` is able to detect syntax errors in queries gi
 
 ### Advanced Usage / Re-Using phpstan-dba PHPStan for custom query APIs
 
-The required PHPStan configuration is described in a [dedicated doc chapter](https://github.com/staabm/phpstan-dba/blob/main/docs/rules.md).
+The required phpstan-dba configuration is described in a [dedicated doc chapter](https://github.com/staabm/phpstan-dba/blob/main/docs/rules.md).
 
 
 ### next steps
 
 When time allows I have [planned to work on getting type-inference](https://github.com/FriendsOfREDAXO/rexstan/issues/33) done for the [`rex_sql->getValue()`](https://github.com/redaxo/redaxo/blob/34fefa576148573dc28000458abf40ba1bfdf402/redaxo/src/core/lib/sql/sql.php#L742-L776) API by re-using part of `phpstan-dba`.
 Thats stuff for a different blog post though - stay tuned
-
-
