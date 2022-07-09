@@ -11,7 +11,13 @@ ogImage:
   filename: "phpstan-monorepo-result-cache"
 ---
 
-I worked on improvements to the [PHPStan result cache](https://phpstan.org/user-guide/result-cache) recently.
+I worked on improvements to the PHPStan result cache recently.
+
+## How does the PHPStan result cache work?
+
+On a first analyze run, PHPstan builds and stores a [result cache](https://phpstan.org/user-guide/result-cache) which allows for faster subsequent runs. When analyzing a codebase after the result cache is available allows PHPStan, to determine which files changed and which files are affected by this change. This allows subsequent runs to be a lot faster then the initial scan.
+
+Because of the smart result cache, [you should always analyze your whole project](https://phpstan.org/blog/why-you-should-always-analyse-whole-project).
 
 ## PHPStan result cache not used
 
