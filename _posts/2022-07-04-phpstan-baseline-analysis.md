@@ -18,7 +18,7 @@ ogImage:
 
 ---
 
-At my daily job I am mostly working on software which is more then 10 years old.
+At my daily job I am mostly working on software which is more then 15 years old.
 We try to keep the codebases as clean as possible since we know they will exist for a long time.
 
 To get an idea about technical debt and complexity within the different projects we analyze our [PHPStan baseline files](https://phpstan.org/user-guide/baseline).
