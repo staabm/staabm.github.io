@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
-- [agneym/generate-og-image](https://github.com/agneym/generate-og-image) (2 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
+- [agneym/generate-og-image](https://github.com/agneym/generate-og-image) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 weeks ago)
@@ -17,23 +17,23 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update README.md](https://github.com/staabm/phpstan-baseline-analysis/pull/57) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
-- [Add php 8.1 ci jobs](https://github.com/staabm/phpstan-baseline-analysis/pull/56) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
-- [Added php8 ci jobs](https://github.com/staabm/phpstan-baseline-analysis/pull/55) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
-- [Intro](https://github.com/staabm/staabm.github.io/pull/26) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [Use marked.parse()](https://github.com/agneym/generate-og-image/pull/37) on [agneym/generate-og-image](https://github.com/agneym/generate-og-image) (today)
-- [make the process error with a proper exit code](https://github.com/agneym/generate-og-image/pull/36) on [agneym/generate-og-image](https://github.com/agneym/generate-og-image) (today)
-- [Og image](https://github.com/staabm/staabm.github.io/pull/25) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
-- [Improvements](https://github.com/staabm/staabm.github.io/pull/24) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
-- [Og image](https://github.com/staabm/staabm.github.io/pull/21) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
-- [Og image](https://github.com/staabm/staabm.github.io/pull/20) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
+- [Update README.md](https://github.com/staabm/phpstan-baseline-analysis/pull/57) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
+- [Add php 8.1 ci jobs](https://github.com/staabm/phpstan-baseline-analysis/pull/56) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
+- [Added php8 ci jobs](https://github.com/staabm/phpstan-baseline-analysis/pull/55) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
+- [Intro](https://github.com/staabm/staabm.github.io/pull/26) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [Use marked.parse()](https://github.com/agneym/generate-og-image/pull/37) on [agneym/generate-og-image](https://github.com/agneym/generate-og-image) (1 day ago)
+- [make the process error with a proper exit code](https://github.com/agneym/generate-og-image/pull/36) on [agneym/generate-og-image](https://github.com/agneym/generate-og-image) (1 day ago)
+- [Og image](https://github.com/staabm/staabm.github.io/pull/25) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
+- [Improvements](https://github.com/staabm/staabm.github.io/pull/24) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
+- [Og image](https://github.com/staabm/staabm.github.io/pull/21) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
+- [Og image](https://github.com/staabm/staabm.github.io/pull/20) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.8](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.8) (today)
-- [agneym/generate-og-image](https://github.com/agneym/generate-og-image) - [1.0.4](https://github.com/agneym/generate-og-image/releases/tag/1.0.4) (2 days ago)
-- [composer/composer](https://github.com/composer/composer) - [2.3.9](https://github.com/composer/composer/releases/tag/2.3.9) (4 days ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.8](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.8) (1 day ago)
+- [agneym/generate-og-image](https://github.com/agneym/generate-og-image) - [1.0.4](https://github.com/agneym/generate-og-image/releases/tag/1.0.4) (3 days ago)
+- [composer/composer](https://github.com/composer/composer) - [2.3.9](https://github.com/composer/composer/releases/tag/2.3.9) (5 days ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.0.4](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.0.4) (1 week ago)
 - [jquery-validation/jquery-validation](https://github.com/jquery-validation/jquery-validation) - [1.19.5](https://github.com/jquery-validation/jquery-validation/releases/tag/1.19.5) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.21](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.21) (1 week ago)
@@ -57,8 +57,8 @@
 
 #### 📜 My recent blog posts
 
-- [Analyze your PHPStan baseline](https://staabm.github.io/2022/07/04/phpstan-baseline-analysis.html) (5 days ago)
+- [Analyze your PHPStan baseline](https://staabm.github.io/2022/07/04/phpstan-baseline-analysis.html) (6 days ago)
 - [Monthly report: June 2022](https://staabm.github.io/2022/06/30/monthly-report-june.html) (1 week ago)
 - [Github Maintainer Month](https://staabm.github.io/2022/06/24/github-maintainer-month.html) (2 weeks ago)
 - [PHPStan sprintf/sscanf type inference](https://staabm.github.io/2022/06/23/phpstan-sprintf-sscanf-inference.html) (2 weeks ago)
-- [phpstan-dba type inference](https://staabm.github.io/2022/06/19/phpstan-dba-type-inference.html) (2 weeks ago)
+- [phpstan-dba type inference](https://staabm.github.io/2022/06/19/phpstan-dba-type-inference.html) (3 weeks ago)
