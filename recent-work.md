@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [agneym/generate-og-image](https://github.com/agneym/generate-og-image) (3 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 weeks ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
@@ -17,6 +17,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use new constants](https://github.com/staabm/phpstan-dba/pull/412) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Use new constants](https://github.com/staabm/phpstan-dba/pull/411) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [More baseline analyzer testing](https://github.com/staabm/phpstan-baseline-analysis/pull/65) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [Update README.md](https://github.com/staabm/phpstan-baseline-analysis/pull/57) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
 - [Add php 8.1 ci jobs](https://github.com/staabm/phpstan-baseline-analysis/pull/56) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
@@ -25,8 +27,6 @@
 - [Use marked.parse()](https://github.com/agneym/generate-og-image/pull/37) on [agneym/generate-og-image](https://github.com/agneym/generate-og-image) (1 day ago)
 - [make the process error with a proper exit code](https://github.com/agneym/generate-og-image/pull/36) on [agneym/generate-og-image](https://github.com/agneym/generate-og-image) (1 day ago)
 - [Og image](https://github.com/staabm/staabm.github.io/pull/25) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
-- [Improvements](https://github.com/staabm/staabm.github.io/pull/24) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
-- [Og image](https://github.com/staabm/staabm.github.io/pull/21) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
