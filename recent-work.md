@@ -10,8 +10,8 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 weeks ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 weeks ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (4 weeks ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 month ago)
 - [staabm/phpstan-deployer6](https://github.com/staabm/phpstan-deployer6) (1 month ago)
 
 
