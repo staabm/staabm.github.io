@@ -4,6 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
 - [agneym/generate-og-image](https://github.com/agneym/generate-og-image) (5 days ago)
@@ -12,7 +13,6 @@
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 weeks ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (4 weeks ago)
-- [staabm/phpstan-deployer6](https://github.com/staabm/phpstan-deployer6) (1 month ago)
 
 
 #### 🔨 My recent Pull Requests
