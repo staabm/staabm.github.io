@@ -28,15 +28,16 @@ Since REDAXO CMS provides its own database access layer, I had to [re-use existi
 The `rex_sql` api was designed back in 2010 without static analysis in mind. I am pretty sure, we would built the class very differently today, but people are used to it now, and it is still pretty similar with what we had even before in REDAXO 4.x times. One challange this brings with it, is that `rex_sql` uses the same api for working with prepared statements and regular non-prepared queries. Thats the reason why the [phpstan-dba config file needs to be a bit more complicated](https://github.com/FriendsOfREDAXO/rexstan/blob/2f86fbaca8b7316f3465d986859b332c12bb79fb/lib/phpstan-dba.neon#L4-L24), then usually.
 
 With this logic applied, `rexstan` is able to detect syntax errors in queries e.g. given to the `rex_sql->setQuery()` class:
+
 <img width="733" alt="Bildschirmfoto 2022-06-19 um 11 17 46" src="https://user-images.githubusercontent.com/120441/174474750-45edaaaf-98b3-4ec1-bce8-8244ab78f329.png">
 
 The required configuration is described in more detail in a [dedicated phpstan-dba doc chapter](https://github.com/staabm/phpstan-dba/blob/main/docs/rules.md).
 
 ### Utils: `rex::getTable()` and `rex::getTablePrefix()`
 
-In REDAXO it is common to use small utility methods to build the sql query. These methods return concatenation of a pre-configured string and the given arguments. 
+In REDAXO it is common to use small utility methods to build the sql query. These methods return a concatenation of a hardcoded pre-configured string and the given arguments. 
 
-`phpstan-dba` would skip these queries as the `rex::getTablePrefix()` call will injected a non-constant value, not known at analysis time.
+`phpstan-dba` would skip queries containing calls to these methods as they will injected a non-constant value, not known at analysis time.
 
 In 99% of the cases the default table prefix, which is `rex_` is used. So adding a [DynamicStaticMethodReturnTypeExtension for these was they way forward](https://github.com/FriendsOfREDAXO/rexstan/blob/2f86fbaca8b7316f3465d986859b332c12bb79fb/lib/RexClassDynamicReturnTypeExtension.php).
 
