@@ -5,7 +5,7 @@ tags:
 - phpstan-dba
 - PHPStan
 
-image: "images/og-images/new-project-rexstan.jpg"
+image: "images/og-images/rexstan-meets-phpstan-dba.jpg"
 
 ogImage:
   title: "rexstan meets phpstan-dba"
