@@ -11,6 +11,7 @@ ogImage:
   title: "rexstan meets phpstan-dba"
   subtitle: "Adding static analysis to the REDAXO CMS database access layer"
   imageUrl: "https://staabm.github.io/staabm.svg"
+  filename: "rexstan-meets-phpstan-dba"
 ---
 
 ## `rexstan` meets `phpstan-dba`
