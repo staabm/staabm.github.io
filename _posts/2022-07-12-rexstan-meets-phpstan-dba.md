@@ -29,9 +29,7 @@ With this logic applied, `rexstan` is able to detect syntax errors in queries gi
 <img width="733" alt="Bildschirmfoto 2022-06-19 um 11 17 46" src="https://user-images.githubusercontent.com/120441/174474750-45edaaaf-98b3-4ec1-bce8-8244ab78f329.png">
 
 
-### Advanced Usage / Re-Using phpstan-dba PHPStan for custom query APIs
-
-The required phpstan-dba configuration is described in a [dedicated doc chapter](https://github.com/staabm/phpstan-dba/blob/main/docs/rules.md).
+The required phpstan-dba configuration is described in more detail in a [dedicated phpstan-dba doc chapter](https://github.com/staabm/phpstan-dba/blob/main/docs/rules.md).
 
 
 ### next steps
