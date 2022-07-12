@@ -45,7 +45,12 @@ Making these methods return a `ConstantStringType` allows the query analysis to 
 
 ```php
 $db = rex_sql::factory();
-$db->setQuery('select * from ' . rex::getTablePrefix() . 'article_slice where article_id=? and clang_id=? and revision=? ORDER by ctype_id, priority', [$articleId, $clang, $fromRevisionId]);
+$db->setQuery(
+  'select * from ' . rex::getTablePrefix() . 'article_slice '.
+  'where article_id=? and clang_id=? and revision=? '.
+  'ORDER by ctype_id, priority',
+  [$articleId, $clang, $fromRevisionId]
+);
 ```
 
 The same is true for the legacy `rex_sql::escape()` and `rex_sql::escapeLikeWildcards` method calls. These are covered by a [different but similiar PHPStan-extension](https://github.com/FriendsOfREDAXO/rexstan/blob/2f86fbaca8b7316f3465d986859b332c12bb79fb/lib/RexSqlDynamicReturnTypeExtension.php). 
