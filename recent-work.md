@@ -31,6 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [micronax/carbon-german-holidays](https://github.com/micronax/carbon-german-holidays) - [2.3](https://github.com/micronax/carbon-german-holidays/releases/tag/2.3) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.0](https://github.com/paratestphp/paratest/releases/tag/v6.6.0) (today)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.8](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.8) (3 days ago)
 - [agneym/generate-og-image](https://github.com/agneym/generate-og-image) - [1.0.4](https://github.com/agneym/generate-og-image/releases/tag/1.0.4) (5 days ago)
@@ -40,7 +41,6 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.21](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.21) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.41](https://github.com/staabm/phpstan-dba/releases/tag/0.2.41) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.0](https://github.com/phpstan/phpstan/releases/tag/1.8.0) (1 week ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [4.24.0](https://github.com/vimeo/psalm/releases/tag/4.24.0) (2 weeks ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
