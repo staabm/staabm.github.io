@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update 2022-07-12-rexstan-meets-phpstan-dba.md](https://github.com/staabm/staabm.github.io/pull/27) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Hide sensitive information with SensitiveParameter attribute](https://github.com/redaxo/redaxo/pull/5189) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [rex_fragment is not a universal object crate](https://github.com/redaxo/redaxo/pull/5185) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [Allow dynamic properties on rex_fragment](https://github.com/redaxo/redaxo/pull/5183) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
@@ -26,7 +27,6 @@
 - [More baseline analyzer testing](https://github.com/staabm/phpstan-baseline-analysis/pull/65) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
 - [Update README.md](https://github.com/staabm/phpstan-baseline-analysis/pull/57) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
 - [Add php 8.1 ci jobs](https://github.com/staabm/phpstan-baseline-analysis/pull/56) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
-- [Added php8 ci jobs](https://github.com/staabm/phpstan-baseline-analysis/pull/55) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
