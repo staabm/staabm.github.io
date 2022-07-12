@@ -53,7 +53,7 @@ $db->setQuery(
 );
 ```
 
-The same is true for the legacy `rex_sql::escape()` and `rex_sql::escapeLikeWildcards` method calls. These are covered by a [different but similiar PHPStan-extension](https://github.com/FriendsOfREDAXO/rexstan/blob/2f86fbaca8b7316f3465d986859b332c12bb79fb/lib/RexSqlDynamicReturnTypeExtension.php). 
+The same is true for the legacy `rex_sql::escape()` and `rex_sql::escapeLikeWildcards()` method calls. These are covered by a [different but similiar PHPStan-extension](https://github.com/FriendsOfREDAXO/rexstan/blob/2f86fbaca8b7316f3465d986859b332c12bb79fb/lib/RexSqlDynamicReturnTypeExtension.php). 
 Dear REDAXO-User: Obviously prepared statements should be preferred over the legacy escaping api.
 
 
