@@ -19,6 +19,8 @@ ogImage:
 I have already written a few posts regarding [`phpstan-dba`](https://staabm.github.io/2022/05/01/phpstan-dba.html) and [`rexstan`](https://staabm.github.io/2022/06/18/rexstan-REDAXO-AddOn.html).
 On a hot sunday in june 😅, I don't had a chance leaving the house, so I decided to work on these 2 projects.
 
+You can get some inspiration in a real world example on how to integrate `phpstan-dba` for use with a legacy api (aka a non-standard db access api).
+
 ### integrating `phpstan-dba` and `rexstan`
 
 As `rexstan` is meant to be a one click solution to get PHPStan based code analysis into the REDAXO CMS for users not able to do the tool setup,
