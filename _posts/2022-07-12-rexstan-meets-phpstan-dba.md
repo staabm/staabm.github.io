@@ -38,11 +38,11 @@ The required configuration is described in more detail in a [dedicated phpstan-d
 
 In REDAXO it is common to use small utility methods to build the sql query. These methods return a concatenation of a hardcoded pre-configured string and the given arguments. 
 
-`phpstan-dba` would skip queries containing calls to these methods as they will injected a non-constant value, not known at analysis time.
+`phpstan-dba` would skip queries containing calls to these methods as they will inject a non-constant value, not known at analysis time.
 
 In 99% of the cases the default table prefix, which is `rex_` is used. So adding a [DynamicStaticMethodReturnTypeExtension for these was they way forward](https://github.com/FriendsOfREDAXO/rexstan/blob/2f86fbaca8b7316f3465d986859b332c12bb79fb/lib/RexClassDynamicReturnTypeExtension.php).
 
-Making these methods return a `ConstantStringType` allows the query analysis to detect the actual query string beeing executed. Based on this additional PHPStan-Extension information, even query strings containing calls to `rex::getTable()` or `rex::getTablePrefix()` turn analyzable:
+Making methods return a `ConstantStringType` allows the query analysis to detect the actual query string beeing executed. Based on this additional PHPStan-Extension information, even query strings containing calls to `rex::getTable()` or `rex::getTablePrefix()` turn analyzable:
 
 ```php
 $db = rex_sql::factory();
@@ -54,7 +54,17 @@ $db->setQuery(
 );
 ```
 
-The same is true for the legacy `rex_sql::escape()` and `rex_sql::escapeLikeWildcards()` method calls. These are covered by a [different but similiar PHPStan-extension](https://github.com/FriendsOfREDAXO/rexstan/blob/2f86fbaca8b7316f3465d986859b332c12bb79fb/lib/RexSqlDynamicReturnTypeExtension.php). 
+The same is true for the legacy `rex_sql::escape()` and `rex_sql::escapeLikeWildcards()` method calls. These are covered by a [different but similiar PHPStan-extension](https://github.com/FriendsOfREDAXO/rexstan/blob/2f86fbaca8b7316f3465d986859b332c12bb79fb/lib/RexSqlDynamicReturnTypeExtension.php):
+
+```php
+$db = rex_sql::factory();
+$db->setQuery(
+  'select * from ' . rex::getTablePrefix() . 'article '.
+  'where article_id='. $db->escape($articleId) .' and clang_id='. $db->escape($clang) .' '.
+  'ORDER by ctype_id'
+);
+```
+
 Dear REDAXO-User: Obviously prepared statements should be preferred over the legacy escaping api.
 
 
