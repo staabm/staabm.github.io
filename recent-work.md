@@ -3,44 +3,44 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) (today)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
-- [agneym/generate-og-image](https://github.com/agneym/generate-og-image) (5 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) (1 day ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
+- [agneym/generate-og-image](https://github.com/agneym/generate-og-image) (6 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 weeks ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 weeks ago)
-- [symplify/symplify](https://github.com/symplify/symplify) (4 weeks ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (4 weeks ago)
+- [symplify/symplify](https://github.com/symplify/symplify) (1 month ago)
 
 
 #### 🔨 My recent Pull Requests
 
-- [Add SensitiveParameter stub](https://github.com/phpstan/phpstan-src/pull/1511) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Update 2022-07-12-rexstan-meets-phpstan-dba.md](https://github.com/staabm/staabm.github.io/pull/27) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [Hide sensitive information with SensitiveParameter attribute](https://github.com/redaxo/redaxo/pull/5189) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
-- [rex_fragment is not a universal object crate](https://github.com/redaxo/redaxo/pull/5185) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
-- [Allow dynamic properties on rex_fragment](https://github.com/redaxo/redaxo/pull/5183) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
-- [Update README.md](https://github.com/staabm/phpstan-baseline-analysis/pull/66) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
-- [Use new constants](https://github.com/staabm/phpstan-dba/pull/412) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
-- [Use new constants](https://github.com/staabm/phpstan-dba/pull/411) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
-- [More baseline analyzer testing](https://github.com/staabm/phpstan-baseline-analysis/pull/65) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
-- [Update README.md](https://github.com/staabm/phpstan-baseline-analysis/pull/57) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
+- [Add SensitiveParameter stub](https://github.com/phpstan/phpstan-src/pull/1511) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Update 2022-07-12-rexstan-meets-phpstan-dba.md](https://github.com/staabm/staabm.github.io/pull/27) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [Hide sensitive information with SensitiveParameter attribute](https://github.com/redaxo/redaxo/pull/5189) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
+- [rex_fragment is not a universal object crate](https://github.com/redaxo/redaxo/pull/5185) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
+- [Allow dynamic properties on rex_fragment](https://github.com/redaxo/redaxo/pull/5183) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
+- [Update README.md](https://github.com/staabm/phpstan-baseline-analysis/pull/66) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
+- [Use new constants](https://github.com/staabm/phpstan-dba/pull/412) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
+- [Use new constants](https://github.com/staabm/phpstan-dba/pull/411) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
+- [More baseline analyzer testing](https://github.com/staabm/phpstan-baseline-analysis/pull/65) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
+- [Update README.md](https://github.com/staabm/phpstan-baseline-analysis/pull/57) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.1](https://github.com/phpstan/phpstan/releases/tag/1.8.1) (today)
-- [micronax/carbon-german-holidays](https://github.com/micronax/carbon-german-holidays) - [2.3](https://github.com/micronax/carbon-german-holidays/releases/tag/2.3) (today)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.0](https://github.com/paratestphp/paratest/releases/tag/v6.6.0) (today)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.8](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.8) (3 days ago)
-- [agneym/generate-og-image](https://github.com/agneym/generate-og-image) - [1.0.4](https://github.com/agneym/generate-og-image/releases/tag/1.0.4) (5 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.1](https://github.com/phpstan/phpstan/releases/tag/1.8.1) (1 day ago)
+- [micronax/carbon-german-holidays](https://github.com/micronax/carbon-german-holidays) - [2.3](https://github.com/micronax/carbon-german-holidays/releases/tag/2.3) (1 day ago)
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.0](https://github.com/paratestphp/paratest/releases/tag/v6.6.0) (1 day ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.8](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.8) (4 days ago)
+- [agneym/generate-og-image](https://github.com/agneym/generate-og-image) - [1.0.4](https://github.com/agneym/generate-og-image/releases/tag/1.0.4) (6 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.3.9](https://github.com/composer/composer/releases/tag/2.3.9) (1 week ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.0.4](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.0.4) (1 week ago)
 - [jquery-validation/jquery-validation](https://github.com/jquery-validation/jquery-validation) - [1.19.5](https://github.com/jquery-validation/jquery-validation/releases/tag/1.19.5) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.21](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.21) (1 week ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.41](https://github.com/staabm/phpstan-dba/releases/tag/0.2.41) (1 week ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.21](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.21) (2 weeks ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.41](https://github.com/staabm/phpstan-dba/releases/tag/0.2.41) (2 weeks ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
@@ -57,7 +57,7 @@
 
 #### 📜 My recent blog posts
 
-- [rexstan meets phpstan-dba](https://staabm.github.io/2022/07/12/rexstan-meets-phpstan-dba.html) (today)
+- [rexstan meets phpstan-dba](https://staabm.github.io/2022/07/12/rexstan-meets-phpstan-dba.html) (1 day ago)
 - [Analyze your PHPStan baseline](https://staabm.github.io/2022/07/04/phpstan-baseline-analysis.html) (1 week ago)
 - [Monthly report: June 2022](https://staabm.github.io/2022/06/30/monthly-report-june.html) (1 week ago)
 - [Github Maintainer Month](https://staabm.github.io/2022/06/24/github-maintainer-month.html) (2 weeks ago)
