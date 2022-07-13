@@ -4,12 +4,12 @@
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [agneym/generate-og-image](https://github.com/agneym/generate-og-image) (6 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 weeks ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (4 weeks ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (1 month ago)
@@ -31,6 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.22](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.22) (today)
 - [composer/composer](https://github.com/composer/composer) - [2.3.10](https://github.com/composer/composer/releases/tag/2.3.10) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.1](https://github.com/phpstan/phpstan/releases/tag/1.8.1) (1 day ago)
 - [micronax/carbon-german-holidays](https://github.com/micronax/carbon-german-holidays) - [2.3](https://github.com/micronax/carbon-german-holidays/releases/tag/2.3) (1 day ago)
@@ -39,7 +40,6 @@
 - [agneym/generate-og-image](https://github.com/agneym/generate-og-image) - [1.0.4](https://github.com/agneym/generate-og-image/releases/tag/1.0.4) (6 days ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.0.4](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.0.4) (1 week ago)
 - [jquery-validation/jquery-validation](https://github.com/jquery-validation/jquery-validation) - [1.19.5](https://github.com/jquery-validation/jquery-validation/releases/tag/1.19.5) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.21](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.21) (2 weeks ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.41](https://github.com/staabm/phpstan-dba/releases/tag/0.2.41) (2 weeks ago)
 
 
