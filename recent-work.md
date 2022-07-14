@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [config.yml: added `backend_login_policy`](https://github.com/redaxo/redaxo/pull/5197) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [extract `rex_backend_login-&gt;increaseLoginTries()`](https://github.com/redaxo/redaxo/pull/5196) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [fixed method name case](https://github.com/redaxo/redaxo/pull/5195) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [Add SensitiveParameter stub](https://github.com/phpstan/phpstan-src/pull/1511) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -26,7 +27,6 @@
 - [Allow dynamic properties on rex_fragment](https://github.com/redaxo/redaxo/pull/5183) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (4 days ago)
 - [Update README.md](https://github.com/staabm/phpstan-baseline-analysis/pull/66) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
 - [Use new constants](https://github.com/staabm/phpstan-dba/pull/412) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [Use new constants](https://github.com/staabm/phpstan-dba/pull/411) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
