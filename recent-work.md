@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [autoload: cache löschen bei uncaught class-not-found errors](https://github.com/redaxo/redaxo/pull/5199) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [Mention available `password_policy` config.yml keys](https://github.com/redaxo/redaxo/pull/5198) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [config.yml: added `backend_login_policy`](https://github.com/redaxo/redaxo/pull/5197) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [extract `rex_backend_login-&gt;increaseLoginTries()`](https://github.com/redaxo/redaxo/pull/5196) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
@@ -26,7 +27,6 @@
 - [Hide sensitive information with SensitiveParameter attribute](https://github.com/redaxo/redaxo/pull/5189) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
 - [rex_fragment is not a universal object crate](https://github.com/redaxo/redaxo/pull/5185) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
 - [Allow dynamic properties on rex_fragment](https://github.com/redaxo/redaxo/pull/5183) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (4 days ago)
-- [Update README.md](https://github.com/staabm/phpstan-baseline-analysis/pull/66) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
