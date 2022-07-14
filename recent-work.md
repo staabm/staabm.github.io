@@ -31,6 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.23](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.23) (today)
 - [composer/composer](https://github.com/composer/composer) - [2.3.10](https://github.com/composer/composer/releases/tag/2.3.10) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.1](https://github.com/phpstan/phpstan/releases/tag/1.8.1) (2 days ago)
@@ -40,7 +41,6 @@
 - [agneym/generate-og-image](https://github.com/agneym/generate-og-image) - [1.0.4](https://github.com/agneym/generate-og-image/releases/tag/1.0.4) (1 week ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.0.4](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.0.4) (1 week ago)
 - [jquery-validation/jquery-validation](https://github.com/jquery-validation/jquery-validation) - [1.19.5](https://github.com/jquery-validation/jquery-validation/releases/tag/1.19.5) (1 week ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.41](https://github.com/staabm/phpstan-dba/releases/tag/0.2.41) (2 weeks ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
