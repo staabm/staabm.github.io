@@ -3,7 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) (1 day ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
@@ -11,12 +12,12 @@
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
 - [agneym/generate-og-image](https://github.com/agneym/generate-og-image) (1 week ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 weeks ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (4 weeks ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (1 month ago)
 
 
 #### 🔨 My recent Pull Requests
 
+- [fixed method name case](https://github.com/redaxo/redaxo/pull/5195) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [Add SensitiveParameter stub](https://github.com/phpstan/phpstan-src/pull/1511) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Update 2022-07-12-rexstan-meets-phpstan-dba.md](https://github.com/staabm/staabm.github.io/pull/27) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [Hide sensitive information with SensitiveParameter attribute](https://github.com/redaxo/redaxo/pull/5189) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
@@ -26,12 +27,11 @@
 - [Use new constants](https://github.com/staabm/phpstan-dba/pull/412) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [Use new constants](https://github.com/staabm/phpstan-dba/pull/411) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [More baseline analyzer testing](https://github.com/staabm/phpstan-baseline-analysis/pull/65) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
-- [Update README.md](https://github.com/staabm/phpstan-baseline-analysis/pull/57) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.22](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.22) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.23](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.23) (today)
 - [composer/composer](https://github.com/composer/composer) - [2.3.10](https://github.com/composer/composer/releases/tag/2.3.10) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.1](https://github.com/phpstan/phpstan/releases/tag/1.8.1) (2 days ago)
 - [micronax/carbon-german-holidays](https://github.com/micronax/carbon-german-holidays) - [2.3](https://github.com/micronax/carbon-german-holidays/releases/tag/2.3) (2 days ago)
