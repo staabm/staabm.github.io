@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [added phpdoc types](https://github.com/tbaddade/redaxo_url/pull/255) on [tbaddade/redaxo_url](https://github.com/tbaddade/redaxo_url) (today)
 - [autoload: cache löschen bei uncaught class-not-found errors](https://github.com/redaxo/redaxo/pull/5199) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [Mention available `password_policy` config.yml keys](https://github.com/redaxo/redaxo/pull/5198) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [config.yml: added `backend_login_policy`](https://github.com/redaxo/redaxo/pull/5197) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
@@ -26,7 +27,6 @@
 - [Update 2022-07-12-rexstan-meets-phpstan-dba.md](https://github.com/staabm/staabm.github.io/pull/27) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
 - [Hide sensitive information with SensitiveParameter attribute](https://github.com/redaxo/redaxo/pull/5189) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (4 days ago)
 - [rex_fragment is not a universal object crate](https://github.com/redaxo/redaxo/pull/5185) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (4 days ago)
-- [Allow dynamic properties on rex_fragment](https://github.com/redaxo/redaxo/pull/5183) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
