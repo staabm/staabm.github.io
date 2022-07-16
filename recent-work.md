@@ -17,12 +17,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [phpstan: remove ignore rules](https://github.com/redaxo/redaxo/pull/5207) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [more precise types](https://github.com/redaxo/redaxo/pull/5207) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [composer update-all](https://github.com/redaxo/redaxo/pull/5205) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [remove attribute ignore rule](https://github.com/redaxo/redaxo/pull/5204) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [raise phpstan to level6](https://github.com/redaxo/redaxo/pull/5203) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [declare `rex::getProperty()` conditional return types](https://github.com/redaxo/redaxo/pull/5202) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
-- [simplify rex_login_policy](https://github.com/redaxo/redaxo/pull/5200) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [simplify `rex_login_policy`](https://github.com/redaxo/redaxo/pull/5200) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [added phpdoc types](https://github.com/tbaddade/redaxo_url/pull/255) on [tbaddade/redaxo_url](https://github.com/tbaddade/redaxo_url) (1 day ago)
 - [autoload: cache löschen bei uncaught class-not-found errors](https://github.com/redaxo/redaxo/pull/5199) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [Mention available `password_policy` config.yml keys](https://github.com/redaxo/redaxo/pull/5198) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
