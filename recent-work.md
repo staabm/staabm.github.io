@@ -17,6 +17,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [simplify purgeMailarchive()](https://github.com/redaxo/redaxo/pull/5213) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [Use GLOB_NOSORT](https://github.com/redaxo/redaxo/pull/5212) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [Use GLOB_NOSORT](https://github.com/redaxo/redaxo/pull/5211) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [timeout github actions after 5 minutes](https://github.com/redaxo/redaxo/pull/5209) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [added missing phpstorm settings](https://github.com/redaxo/redaxo/pull/5208) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [more precise types](https://github.com/redaxo/redaxo/pull/5207) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
@@ -24,9 +27,6 @@
 - [remove attribute ignore rule](https://github.com/redaxo/redaxo/pull/5204) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [raise phpstan to level6](https://github.com/redaxo/redaxo/pull/5203) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [declare `rex::getProperty()` conditional return types](https://github.com/redaxo/redaxo/pull/5202) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
-- [simplify `rex_login_policy`](https://github.com/redaxo/redaxo/pull/5200) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
-- [added phpdoc types](https://github.com/tbaddade/redaxo_url/pull/255) on [tbaddade/redaxo_url](https://github.com/tbaddade/redaxo_url) (1 day ago)
-- [autoload: cache löschen bei uncaught class-not-found errors](https://github.com/redaxo/redaxo/pull/5199) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
