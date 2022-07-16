@@ -4,8 +4,8 @@
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [tbaddade/redaxo_url](https://github.com/tbaddade/redaxo_url) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -17,6 +17,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [timeout github actions after 5 minutes](https://github.com/redaxo/redaxo/pull/5209) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [added missing phpstorm settings](https://github.com/redaxo/redaxo/pull/5208) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [more precise types](https://github.com/redaxo/redaxo/pull/5207) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [composer update-all](https://github.com/redaxo/redaxo/pull/5205) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [remove attribute ignore rule](https://github.com/redaxo/redaxo/pull/5204) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
@@ -25,8 +27,6 @@
 - [simplify `rex_login_policy`](https://github.com/redaxo/redaxo/pull/5200) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [added phpdoc types](https://github.com/tbaddade/redaxo_url/pull/255) on [tbaddade/redaxo_url](https://github.com/tbaddade/redaxo_url) (1 day ago)
 - [autoload: cache löschen bei uncaught class-not-found errors](https://github.com/redaxo/redaxo/pull/5199) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
-- [Mention available `password_policy` config.yml keys](https://github.com/redaxo/redaxo/pull/5198) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
-- [config.yml: added `backend_login_policy`](https://github.com/redaxo/redaxo/pull/5197) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
