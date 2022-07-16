@@ -17,6 +17,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [raise phpstan to level6](https://github.com/redaxo/redaxo/pull/5203) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [declare `rex::getProperty()` conditional return types](https://github.com/redaxo/redaxo/pull/5202) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [simplify rex_login_policy](https://github.com/redaxo/redaxo/pull/5200) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [added phpdoc types](https://github.com/tbaddade/redaxo_url/pull/255) on [tbaddade/redaxo_url](https://github.com/tbaddade/redaxo_url) (1 day ago)
 - [autoload: cache löschen bei uncaught class-not-found errors](https://github.com/redaxo/redaxo/pull/5199) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
@@ -25,8 +27,6 @@
 - [extract `rex_backend_login-&gt;increaseLoginTries()`](https://github.com/redaxo/redaxo/pull/5196) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [fixed method name case](https://github.com/redaxo/redaxo/pull/5195) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [Add SensitiveParameter stub](https://github.com/phpstan/phpstan-src/pull/1511) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Update 2022-07-12-rexstan-meets-phpstan-dba.md](https://github.com/staabm/staabm.github.io/pull/27) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
-- [Hide sensitive information with SensitiveParameter attribute](https://github.com/redaxo/redaxo/pull/5189) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
