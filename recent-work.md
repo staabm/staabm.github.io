@@ -3,11 +3,11 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [tbaddade/redaxo_url](https://github.com/tbaddade/redaxo_url) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) (2 days ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
