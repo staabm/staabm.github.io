@@ -17,6 +17,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [phpstan: remove ignore rules](https://github.com/redaxo/redaxo/pull/5207) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [composer update-all](https://github.com/redaxo/redaxo/pull/5205) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [remove attribute ignore rule](https://github.com/redaxo/redaxo/pull/5204) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [raise phpstan to level6](https://github.com/redaxo/redaxo/pull/5203) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [declare `rex::getProperty()` conditional return types](https://github.com/redaxo/redaxo/pull/5202) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [simplify rex_login_policy](https://github.com/redaxo/redaxo/pull/5200) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
@@ -24,9 +27,6 @@
 - [autoload: cache löschen bei uncaught class-not-found errors](https://github.com/redaxo/redaxo/pull/5199) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [Mention available `password_policy` config.yml keys](https://github.com/redaxo/redaxo/pull/5198) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [config.yml: added `backend_login_policy`](https://github.com/redaxo/redaxo/pull/5197) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
-- [extract `rex_backend_login-&gt;increaseLoginTries()`](https://github.com/redaxo/redaxo/pull/5196) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
-- [fixed method name case](https://github.com/redaxo/redaxo/pull/5195) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
-- [Add SensitiveParameter stub](https://github.com/phpstan/phpstan-src/pull/1511) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
