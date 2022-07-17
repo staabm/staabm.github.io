@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
-- [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) (1 day ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [tbaddade/redaxo_url](https://github.com/tbaddade/redaxo_url) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -17,7 +17,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [use config.yml cookie settings for `rex_htaccess_check`](https://github.com/redaxo/redaxo/pull/5214) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [prevent whoops on missing phpmailer addon](https://github.com/FriendsOfREDAXO/2factor_auth/pull/65) on [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) (today)
+- [use `config.yml` cookie settings for `rex_htaccess_check`-cookie](https://github.com/redaxo/redaxo/pull/5214) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [simplify purgeMailarchive()](https://github.com/redaxo/redaxo/pull/5213) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [Use GLOB_NOSORT](https://github.com/redaxo/redaxo/pull/5212) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [Use GLOB_NOSORT](https://github.com/redaxo/redaxo/pull/5211) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
@@ -26,12 +27,11 @@
 - [more precise types](https://github.com/redaxo/redaxo/pull/5207) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [composer update-all](https://github.com/redaxo/redaxo/pull/5205) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [remove attribute ignore rule](https://github.com/redaxo/redaxo/pull/5204) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
-- [raise phpstan to level6](https://github.com/redaxo/redaxo/pull/5203) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.1](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.1) (1 day ago)
+- [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.2](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.2) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.23](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.23) (3 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.3.10](https://github.com/composer/composer/releases/tag/2.3.10) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.1](https://github.com/phpstan/phpstan/releases/tag/1.8.1) (5 days ago)
