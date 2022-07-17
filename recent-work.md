@@ -17,6 +17,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [added `rex_template-&gt;getCtypes()`](https://github.com/redaxo/redaxo/pull/5218) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [cronjob: increase log-limit to 100 errors](https://github.com/redaxo/redaxo/pull/5217) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [fix debug addon when redaxo running in subfolder](https://github.com/redaxo/redaxo/pull/5216) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [prevent whoops on missing phpmailer addon](https://github.com/FriendsOfREDAXO/2factor_auth/pull/65) on [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) (today)
 - [use `config.yml` cookie settings for `rex_htaccess_check`-cookie](https://github.com/redaxo/redaxo/pull/5214) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [simplify purgeMailarchive()](https://github.com/redaxo/redaxo/pull/5213) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
@@ -24,9 +27,6 @@
 - [Use GLOB_NOSORT](https://github.com/redaxo/redaxo/pull/5211) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [timeout github actions after 5 minutes](https://github.com/redaxo/redaxo/pull/5209) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [added missing phpstorm settings](https://github.com/redaxo/redaxo/pull/5208) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
-- [more precise types](https://github.com/redaxo/redaxo/pull/5207) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
-- [composer update-all](https://github.com/redaxo/redaxo/pull/5205) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
-- [remove attribute ignore rule](https://github.com/redaxo/redaxo/pull/5204) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
