@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [use config.yml cookie settings for `rex_htaccess_check`](https://github.com/redaxo/redaxo/pull/5214) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [simplify purgeMailarchive()](https://github.com/redaxo/redaxo/pull/5213) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [Use GLOB_NOSORT](https://github.com/redaxo/redaxo/pull/5212) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [Use GLOB_NOSORT](https://github.com/redaxo/redaxo/pull/5211) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
@@ -26,7 +27,6 @@
 - [composer update-all](https://github.com/redaxo/redaxo/pull/5205) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [remove attribute ignore rule](https://github.com/redaxo/redaxo/pull/5204) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [raise phpstan to level6](https://github.com/redaxo/redaxo/pull/5203) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
-- [declare `rex::getProperty()` conditional return types](https://github.com/redaxo/redaxo/pull/5202) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
