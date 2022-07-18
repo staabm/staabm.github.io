@@ -17,6 +17,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [increase github action timeouts](https://github.com/redaxo/redaxo/pull/5245) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [Update CHANGELOG.md](https://github.com/redaxo/redaxo/pull/5244) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [added `rex_template-&gt;getCtypes()`](https://github.com/redaxo/redaxo/pull/5218) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [cronjob: increase log-limit to 100 errors](https://github.com/redaxo/redaxo/pull/5217) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [fix debug addon when redaxo running in subfolder](https://github.com/redaxo/redaxo/pull/5216) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
@@ -25,12 +27,11 @@
 - [simplify purgeMailarchive()](https://github.com/redaxo/redaxo/pull/5213) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [Use GLOB_NOSORT](https://github.com/redaxo/redaxo/pull/5212) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [Use GLOB_NOSORT](https://github.com/redaxo/redaxo/pull/5211) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
-- [timeout github actions after 5 minutes](https://github.com/redaxo/redaxo/pull/5209) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
-- [added missing phpstorm settings](https://github.com/redaxo/redaxo/pull/5208) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.14.0-beta1](https://github.com/redaxo/redaxo/releases/tag/5.14.0-beta1) (today)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.7](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.7) (today)
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.2](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.2) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.23](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.23) (4 days ago)
@@ -40,7 +41,6 @@
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.0](https://github.com/paratestphp/paratest/releases/tag/v6.6.0) (6 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.8](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.8) (1 week ago)
 - [agneym/generate-og-image](https://github.com/agneym/generate-og-image) - [1.0.4](https://github.com/agneym/generate-og-image/releases/tag/1.0.4) (1 week ago)
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.0.4](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.0.4) (2 weeks ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
