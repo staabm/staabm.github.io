@@ -17,7 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [show mysql slow query log, when readable](https://github.com/redaxo/redaxo/pull/5249) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [show slow query log, when readable](https://github.com/redaxo/redaxo/pull/5249) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [implement `@phpstandba-inference-placeholder` annotation](https://github.com/staabm/phpstan-dba/pull/413) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [increase github action timeouts](https://github.com/redaxo/redaxo/pull/5245) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [Update CHANGELOG.md](https://github.com/redaxo/redaxo/pull/5244) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
