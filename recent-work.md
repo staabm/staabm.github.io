@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [implement `@phpstandba-inference-placeholder` annotation](https://github.com/staabm/phpstan-dba/pull/413) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [increase github action timeouts](https://github.com/redaxo/redaxo/pull/5245) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [Update CHANGELOG.md](https://github.com/redaxo/redaxo/pull/5244) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [added `rex_template-&gt;getCtypes()`](https://github.com/redaxo/redaxo/pull/5218) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
@@ -26,7 +27,6 @@
 - [use `config.yml` cookie settings for `rex_htaccess_check`-cookie](https://github.com/redaxo/redaxo/pull/5214) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [simplify purgeMailarchive()](https://github.com/redaxo/redaxo/pull/5213) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [Use GLOB_NOSORT](https://github.com/redaxo/redaxo/pull/5212) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
-- [Use GLOB_NOSORT](https://github.com/redaxo/redaxo/pull/5211) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
