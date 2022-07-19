@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [cover intersection type inference in tests](https://github.com/staabm/phpstan-dba/pull/414) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [show slow query log, when readable](https://github.com/redaxo/redaxo/pull/5249) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [implement `@phpstandba-inference-placeholder` annotation](https://github.com/staabm/phpstan-dba/pull/413) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [increase github action timeouts](https://github.com/redaxo/redaxo/pull/5245) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
@@ -26,7 +27,6 @@
 - [fix debug addon when redaxo running in subfolder](https://github.com/redaxo/redaxo/pull/5216) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [prevent whoops on missing phpmailer addon](https://github.com/FriendsOfREDAXO/2factor_auth/pull/65) on [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) (2 days ago)
 - [use `config.yml` cookie settings for `rex_htaccess_check`-cookie](https://github.com/redaxo/redaxo/pull/5214) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
-- [simplify purgeMailarchive()](https://github.com/redaxo/redaxo/pull/5213) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
