@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [FriendsOfREDAXO/friendsofredaxo.github.io](https://github.com/FriendsOfREDAXO/friendsofredaxo.github.io) (3 days ago)
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) (3 days ago)
@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [support constant string-unions in substr()](https://github.com/phpstan/phpstan-src/pull/1532) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [support composer taint-baseline on windows](https://github.com/redaxo/redaxo/pull/5252) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [More precise version constraints](https://github.com/FriendsOfREDAXO/rexstan/pull/47) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [slowQueryLogPath() returns a taint-safe file](https://github.com/redaxo/redaxo/pull/5251) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
@@ -26,13 +27,12 @@
 - [implement `@phpstandba-inference-placeholder` annotation](https://github.com/staabm/phpstan-dba/pull/413) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [increase github action timeouts](https://github.com/redaxo/redaxo/pull/5245) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [Update CHANGELOG.md](https://github.com/redaxo/redaxo/pull/5244) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
-- [added `rex_template-&gt;getCtypes()`](https://github.com/redaxo/redaxo/pull/5218) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.25](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.25) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.2](https://github.com/phpstan/phpstan/releases/tag/1.8.2) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.24](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.24) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.42](https://github.com/staabm/phpstan-dba/releases/tag/0.2.42) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.14.0-beta1](https://github.com/redaxo/redaxo/releases/tag/5.14.0-beta1) (2 days ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.7](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.7) (2 days ago)
