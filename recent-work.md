@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [More precise version constraints](https://github.com/FriendsOfREDAXO/rexstan/pull/47) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [slowQueryLogPath() returns a taint-safe file](https://github.com/redaxo/redaxo/pull/5251) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [show mysql slow query log, when readable](https://github.com/redaxo/redaxo/pull/5250) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [cover intersection type inference in tests](https://github.com/staabm/phpstan-dba/pull/414) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
@@ -26,7 +27,6 @@
 - [Update CHANGELOG.md](https://github.com/redaxo/redaxo/pull/5244) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [added `rex_template-&gt;getCtypes()`](https://github.com/redaxo/redaxo/pull/5218) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
 - [cronjob: increase log-limit to 100 errors](https://github.com/redaxo/redaxo/pull/5217) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
-- [fix debug addon when redaxo running in subfolder](https://github.com/redaxo/redaxo/pull/5216) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
