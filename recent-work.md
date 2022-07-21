@@ -31,13 +31,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/composer](https://github.com/composer/composer) - [2.4.0-RC1](https://github.com/composer/composer/releases/tag/2.4.0-RC1) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.25](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.25) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.2](https://github.com/phpstan/phpstan/releases/tag/1.8.2) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.42](https://github.com/staabm/phpstan-dba/releases/tag/0.2.42) (2 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.14.0-beta1](https://github.com/redaxo/redaxo/releases/tag/5.14.0-beta1) (3 days ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.7](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.7) (3 days ago)
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.2](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.2) (4 days ago)
-- [composer/composer](https://github.com/composer/composer) - [2.3.10](https://github.com/composer/composer/releases/tag/2.3.10) (1 week ago)
 - [micronax/carbon-german-holidays](https://github.com/micronax/carbon-german-holidays) - [2.3](https://github.com/micronax/carbon-german-holidays/releases/tag/2.3) (1 week ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.0](https://github.com/paratestphp/paratest/releases/tag/v6.6.0) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.8](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.8) (1 week ago)
