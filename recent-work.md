@@ -17,7 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update puppeteer](https://github.com/redaxo/redaxo/pull/5259) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [Update visual test tools](https://github.com/redaxo/redaxo/pull/5259) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [added phpstan types to deserializer functions](https://github.com/sabre-io/xml/pull/213) on [sabre-io/xml](https://github.com/sabre-io/xml) (today)
 - [support constant string-unions in substr()](https://github.com/phpstan/phpstan-src/pull/1532) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [support composer taint-baseline on windows](https://github.com/redaxo/redaxo/pull/5252) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
