@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Visual tests: remove timeouts](https://github.com/redaxo/redaxo/pull/5260) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [Update visual test tools](https://github.com/redaxo/redaxo/pull/5259) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [added phpstan types to deserializer functions](https://github.com/sabre-io/xml/pull/213) on [sabre-io/xml](https://github.com/sabre-io/xml) (today)
 - [support constant string-unions in substr()](https://github.com/phpstan/phpstan-src/pull/1532) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -26,16 +27,15 @@
 - [show mysql slow query log, when readable](https://github.com/redaxo/redaxo/pull/5250) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [cover intersection type inference in tests](https://github.com/staabm/phpstan-dba/pull/414) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [show slow query log, when readable](https://github.com/redaxo/redaxo/pull/5249) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
-- [implement `@phpstandba-inference-placeholder` annotation](https://github.com/staabm/phpstan-dba/pull/413) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.14.0-beta2](https://github.com/redaxo/redaxo/releases/tag/5.14.0-beta2) (today)
 - [composer/composer](https://github.com/composer/composer) - [2.4.0-RC1](https://github.com/composer/composer/releases/tag/2.4.0-RC1) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.25](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.25) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.2](https://github.com/phpstan/phpstan/releases/tag/1.8.2) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.42](https://github.com/staabm/phpstan-dba/releases/tag/0.2.42) (2 days ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.14.0-beta1](https://github.com/redaxo/redaxo/releases/tag/5.14.0-beta1) (3 days ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.7](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.7) (3 days ago)
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.2](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.2) (4 days ago)
 - [micronax/carbon-german-holidays](https://github.com/micronax/carbon-german-holidays) - [2.3](https://github.com/micronax/carbon-german-holidays/releases/tag/2.3) (1 week ago)
