@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [added phpstan types to deserializer functions](https://github.com/sabre-io/xml/pull/213) on [sabre-io/xml](https://github.com/sabre-io/xml) (today)
 - [support constant string-unions in substr()](https://github.com/phpstan/phpstan-src/pull/1532) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [support composer taint-baseline on windows](https://github.com/redaxo/redaxo/pull/5252) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [More precise version constraints](https://github.com/FriendsOfREDAXO/rexstan/pull/47) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -26,7 +27,6 @@
 - [show slow query log, when readable](https://github.com/redaxo/redaxo/pull/5249) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
 - [implement `@phpstandba-inference-placeholder` annotation](https://github.com/staabm/phpstan-dba/pull/413) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [increase github action timeouts](https://github.com/redaxo/redaxo/pull/5245) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
-- [Update CHANGELOG.md](https://github.com/redaxo/redaxo/pull/5244) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
