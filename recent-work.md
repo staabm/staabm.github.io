@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support &#34;true&#34; pseudotypes in native unions](https://github.com/phpstan/phpstan-src/pull/1539) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [test](https://github.com/redaxo/redaxo/pull/5261) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [test change](https://github.com/refined-github/sandbox/pull/26) on [refined-github/sandbox](https://github.com/refined-github/sandbox) (today)
 - [Visual tests: remove timeouts](https://github.com/redaxo/redaxo/pull/5260) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
@@ -26,7 +27,6 @@
 - [support composer taint-baseline on windows](https://github.com/redaxo/redaxo/pull/5252) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [More precise version constraints](https://github.com/FriendsOfREDAXO/rexstan/pull/47) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [slowQueryLogPath() returns a taint-safe file](https://github.com/redaxo/redaxo/pull/5251) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
-- [show mysql slow query log, when readable](https://github.com/redaxo/redaxo/pull/5250) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
