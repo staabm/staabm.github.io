@@ -17,7 +17,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [test chane](https://github.com/refined-github/sandbox/pull/26) on [refined-github/sandbox](https://github.com/refined-github/sandbox) (today)
+- [test](https://github.com/redaxo/redaxo/pull/5261) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [test change](https://github.com/refined-github/sandbox/pull/26) on [refined-github/sandbox](https://github.com/refined-github/sandbox) (today)
 - [Visual tests: remove timeouts](https://github.com/redaxo/redaxo/pull/5260) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [Update visual test tools](https://github.com/redaxo/redaxo/pull/5259) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [added phpstan types to deserializer functions](https://github.com/sabre-io/xml/pull/213) on [sabre-io/xml](https://github.com/sabre-io/xml) (1 day ago)
@@ -26,7 +27,6 @@
 - [More precise version constraints](https://github.com/FriendsOfREDAXO/rexstan/pull/47) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [slowQueryLogPath() returns a taint-safe file](https://github.com/redaxo/redaxo/pull/5251) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
 - [show mysql slow query log, when readable](https://github.com/redaxo/redaxo/pull/5250) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
-- [cover intersection type inference in tests](https://github.com/staabm/phpstan-dba/pull/414) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
