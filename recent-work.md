@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
@@ -12,11 +13,11 @@
 - [FriendsOfREDAXO/minibar](https://github.com/FriendsOfREDAXO/minibar) (5 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [tbaddade/redaxo_url](https://github.com/tbaddade/redaxo_url) (1 week ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 
 
 #### 🔨 My recent Pull Requests
 
+- [Added missing `true` type as `ReflectionNamedType#isBuiltIn()` value](https://github.com/Roave/BetterReflection/pull/1152) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [Support &#34;true&#34; pseudotypes in native unions](https://github.com/phpstan/phpstan-src/pull/1539) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [test](https://github.com/redaxo/redaxo/pull/5261) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [test change](https://github.com/refined-github/sandbox/pull/26) on [refined-github/sandbox](https://github.com/refined-github/sandbox) (today)
@@ -26,11 +27,11 @@
 - [support constant string-unions in substr()](https://github.com/phpstan/phpstan-src/pull/1532) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [support composer taint-baseline on windows](https://github.com/redaxo/redaxo/pull/5252) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [More precise version constraints](https://github.com/FriendsOfREDAXO/rexstan/pull/47) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [slowQueryLogPath() returns a taint-safe file](https://github.com/redaxo/redaxo/pull/5251) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.7.0](https://github.com/Roave/BetterReflection/releases/tag/5.7.0) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.1](https://github.com/paratestphp/paratest/releases/tag/v6.6.1) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.14.0-beta2](https://github.com/redaxo/redaxo/releases/tag/5.14.0-beta2) (1 day ago)
 - [composer/composer](https://github.com/composer/composer) - [2.4.0-RC1](https://github.com/composer/composer/releases/tag/2.4.0-RC1) (1 day ago)
@@ -40,7 +41,6 @@
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.7](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.7) (4 days ago)
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.2](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.2) (5 days ago)
 - [micronax/carbon-german-holidays](https://github.com/micronax/carbon-german-holidays) - [2.3](https://github.com/micronax/carbon-german-holidays/releases/tag/2.3) (1 week ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.8](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.8) (1 week ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
