@@ -9,7 +9,7 @@ ogImage:
   title: "@phpstandba-inference-placeholder"
   subtitle: "Type inference for dynamic sql queries"
   imageUrl: "https://staabm.github.io/staabm.svg"
-  filename: "phpstan-dba-inference-placeholder.jpg"
+  filename: "phpstan-dba-inference-placeholder"
 ---
 
 ## Type inference for dynamic sql queries
