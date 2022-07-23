@@ -69,8 +69,8 @@ As a rule of thumb:
 
 If you stick to these rules `phpstan-dba` can figure out the query and [provide its type inference](https://staabm.github.io/2022/06/19/phpstan-dba-type-inference.html) and syntax error checking capabilities.
 In this cases `phpstan-dba` can detect errors like
-- database schema changes which are not compatible with the types defined int the source
-- source code type changes which are not compatible with the database schema
+- database schema changes which are not compatible with the types defined in the source
+- source code changes which are not compatible with the database schema
 - syntax errors in the sql queries
 - mismatches in the number or names of parameters required vs. passed to the statement
 
