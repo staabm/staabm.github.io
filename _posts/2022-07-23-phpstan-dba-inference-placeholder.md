@@ -62,6 +62,8 @@ class Foo2
 }
 ```
 
+### The golden phpstan-dba rules
+
 As a rule of thumb: 
 - separate user input from your sql query (use prepared statements) 
 - make sure the sql query used is built from scalar values, but does not contain regular `string`
