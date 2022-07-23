@@ -14,7 +14,7 @@ ogImage:
 
 ## Type inference for dynamic sql queries
 
-To  figure out types involved in SQL based apis [`phpstan-dba`](https://staabm.github.io/2022/05/01/phpstan-dba.html) needs to figure out your sql queries at static analysis time:
+To determine types involved in SQL based apis [`phpstan-dba`](https://staabm.github.io/2022/05/01/phpstan-dba.html) needs to know your sql queries at static analysis time:
 
 ```php
 use Doctrine\DBAL\Connection;
