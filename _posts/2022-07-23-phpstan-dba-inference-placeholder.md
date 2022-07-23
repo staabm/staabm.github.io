@@ -75,6 +75,7 @@ In this cases `phpstan-dba` can detect errors like
 - source code changes which are not compatible with the database schema
 - syntax errors in the sql queries
 - mismatches in the number or names of parameters required vs. passed to the statement
+- queries doing unindexed reads will be detected
 
 ### Handle more dynamic queries: meet `@phpstandba-inference-placeholder`
 
