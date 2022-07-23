@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [generate seo image](https://github.com/staabm/staabm.github.io/pull/28) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Added missing `true` type as `ReflectionNamedType#isBuiltIn()` value](https://github.com/Roave/BetterReflection/pull/1152) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
 - [Support &#34;true&#34; pseudotypes in native unions](https://github.com/phpstan/phpstan-src/pull/1539) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [test](https://github.com/redaxo/redaxo/pull/5261) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
@@ -26,7 +27,6 @@
 - [added phpstan types to deserializer functions](https://github.com/sabre-io/xml/pull/213) on [sabre-io/xml](https://github.com/sabre-io/xml) (2 days ago)
 - [support constant string-unions in substr()](https://github.com/phpstan/phpstan-src/pull/1532) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [support composer taint-baseline on windows](https://github.com/redaxo/redaxo/pull/5252) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
-- [More precise version constraints](https://github.com/FriendsOfREDAXO/rexstan/pull/47) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
