@@ -55,6 +55,9 @@ phpstan-dba will report a few problems with this code:
 > Query expects placeholder :email, but it is missing from values given.
 > Value :wrongParamName is given, but the query does not contain this placeholder.
 
+Getting this kind of errors at static analysis time is a real time saver and helps you to spot errors in SQL queries early,
+without time consuming trial and error loops.
+
 ### Read more
 
 Please [find more articles relatd to phpstan-dba](https://staabm.github.io/archive.html#phpstan-dba) and its featureset.
