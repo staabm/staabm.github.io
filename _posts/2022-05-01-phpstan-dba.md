@@ -23,8 +23,8 @@ Additionally errors in code handling the results of sql queries can be detected.
 
 This extension provides the following features:
 
-* result set type-inferrence
-* inspect sql queries, detect errors and placeholder/bound value mismatches
+* [result set type-inferrence](https://staabm.github.io/2022/06/19/phpstan-dba-type-inference.html)
+* inspect sql queries, [detect errors and placeholder/bound value mismatches](https://staabm.github.io/2022/07/30/phpstan-dba-placeholder-validation.html)
 * query plan analysis to detect performance issues
 * builtin support for `doctrine/dbal`, `mysqli`, and `PDO`
 * API to configure the same features for your custom sql based database access layer
