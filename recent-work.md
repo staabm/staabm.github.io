@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
@@ -11,7 +12,6 @@
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) (6 days ago)
 - [FriendsOfREDAXO/friendsofredaxo.github.io](https://github.com/FriendsOfREDAXO/friendsofredaxo.github.io) (6 days ago)
 - [FriendsOfREDAXO/minibar](https://github.com/FriendsOfREDAXO/minibar) (6 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [tbaddade/redaxo_url](https://github.com/tbaddade/redaxo_url) (1 week ago)
 
 
