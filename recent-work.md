@@ -57,8 +57,8 @@
 
 #### 📜 My recent blog posts
 
+- [Type inference for dynamic sql queries](https://staabm.github.io/2022/07/23/phpstan-dba-inference-placeholder.html) (today)
 - [rexstan meets phpstan-dba](https://staabm.github.io/2022/07/12/rexstan-meets-phpstan-dba.html) (1 week ago)
 - [Analyze your PHPStan baseline](https://staabm.github.io/2022/07/04/phpstan-baseline-analysis.html) (2 weeks ago)
 - [Monthly report: June 2022](https://staabm.github.io/2022/06/30/monthly-report-june.html) (3 weeks ago)
 - [Github Maintainer Month](https://staabm.github.io/2022/06/24/github-maintainer-month.html) (4 weeks ago)
-- [PHPStan sprintf/sscanf type inference](https://staabm.github.io/2022/06/23/phpstan-sprintf-sscanf-inference.html) (1 month ago)
