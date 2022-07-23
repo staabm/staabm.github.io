@@ -162,3 +162,5 @@ class Foo4
 
 At analysis time the SQL expression given in `@phpstandba-inference-placeholder` will be picked up and used in the analysis.
 Since the resulting SQL query is executable and can be [`EXPLAIN`'ed](https://dev.mysql.com/doc/refman/8.0/en/explain.html), `phpstan-dba` can do its magic.
+
+As things stand right now, using `@phpstandba-inference-placeholder` is limited to same-class private method calls.
