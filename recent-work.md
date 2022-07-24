@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement `rex_sql::getValue()` type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/49) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [clear-result-cache on PACKAGE_CACHE_DELETED](https://github.com/FriendsOfREDAXO/rexstan/pull/48) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [cs](https://github.com/redaxo/redaxo/pull/5263) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [add stacktrace to error message to ease debugging](https://github.com/yakamara/redaxo_yform/pull/1293) on [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (today)
@@ -26,16 +27,15 @@
 - [Added missing `true` type as `ReflectionNamedType#isBuiltIn()` value](https://github.com/Roave/BetterReflection/pull/1152) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 days ago)
 - [Support &#34;true&#34; pseudotypes in native unions](https://github.com/phpstan/phpstan-src/pull/1539) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [test](https://github.com/redaxo/redaxo/pull/5261) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
-- [test change](https://github.com/refined-github/sandbox/pull/26) on [refined-github/sandbox](https://github.com/refined-github/sandbox) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.26](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.26) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.7.0](https://github.com/Roave/BetterReflection/releases/tag/5.7.0) (2 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.1](https://github.com/paratestphp/paratest/releases/tag/v6.6.1) (2 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.14.0-beta2](https://github.com/redaxo/redaxo/releases/tag/5.14.0-beta2) (3 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.4.0-RC1](https://github.com/composer/composer/releases/tag/2.4.0-RC1) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.25](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.25) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.2](https://github.com/phpstan/phpstan/releases/tag/1.8.2) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.42](https://github.com/staabm/phpstan-dba/releases/tag/0.2.42) (5 days ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.7](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.7) (6 days ago)
