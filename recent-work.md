@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [added AccessoryNonFalsyStringType](https://github.com/phpstan/phpstan-src/pull/1542) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [added failling test](https://github.com/rectorphp/rector-src/pull/2708) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Implement `rex_sql::getValue()` type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/49) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [clear-result-cache on PACKAGE_CACHE_DELETED](https://github.com/FriendsOfREDAXO/rexstan/pull/48) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
@@ -26,7 +27,6 @@
 - [phpstan-dba placeholder validation](https://github.com/staabm/staabm.github.io/pull/29) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [generate seo image](https://github.com/staabm/staabm.github.io/pull/28) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [Added missing `true` type as `ReflectionNamedType#isBuiltIn()` value](https://github.com/Roave/BetterReflection/pull/1152) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 days ago)
-- [Support &#34;true&#34; pseudotypes in native unions](https://github.com/phpstan/phpstan-src/pull/1539) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
