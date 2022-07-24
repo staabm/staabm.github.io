@@ -31,6 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.1.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.1.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.26](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.26) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.7.0](https://github.com/Roave/BetterReflection/releases/tag/5.7.0) (2 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.1](https://github.com/paratestphp/paratest/releases/tag/v6.6.1) (2 days ago)
@@ -40,7 +41,6 @@
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.42](https://github.com/staabm/phpstan-dba/releases/tag/0.2.42) (5 days ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.7](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.7) (6 days ago)
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.2](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.2) (1 week ago)
-- [micronax/carbon-german-holidays](https://github.com/micronax/carbon-german-holidays) - [2.3](https://github.com/micronax/carbon-german-holidays/releases/tag/2.3) (1 week ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
