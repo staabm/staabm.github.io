@@ -31,11 +31,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.14.0](https://github.com/redaxo/redaxo/releases/tag/5.14.0) (today)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.1.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.1.0) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.26](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.26) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.7.0](https://github.com/Roave/BetterReflection/releases/tag/5.7.0) (3 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.1](https://github.com/paratestphp/paratest/releases/tag/v6.6.1) (3 days ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.14.0-beta2](https://github.com/redaxo/redaxo/releases/tag/5.14.0-beta2) (4 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.4.0-RC1](https://github.com/composer/composer/releases/tag/2.4.0-RC1) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.2](https://github.com/phpstan/phpstan/releases/tag/1.8.2) (5 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.42](https://github.com/staabm/phpstan-dba/releases/tag/0.2.42) (6 days ago)
