@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [XmlReader::next|read() has side-effects](https://github.com/phpstan/phpstan-src/pull/1551) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [update phpstan 1.x](https://github.com/sabre-io/xml/pull/214) on [sabre-io/xml](https://github.com/sabre-io/xml) (today)
 - [added AccessoryNonFalsyStringType](https://github.com/phpstan/phpstan-src/pull/1542) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [added failling test](https://github.com/rectorphp/rector-src/pull/2708) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -26,7 +27,6 @@
 - [add stacktrace to error message to ease debugging](https://github.com/yakamara/redaxo_yform/pull/1293) on [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (1 day ago)
 - [update rector to 0.13.9](https://github.com/redaxo/redaxo/pull/5262) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [phpstan-dba placeholder validation](https://github.com/staabm/staabm.github.io/pull/29) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
-- [generate seo image](https://github.com/staabm/staabm.github.io/pull/28) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
