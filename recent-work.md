@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [added regression test](https://github.com/phpstan/phpstan-src/pull/1555) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [XmlReader::next|read() has side-effects](https://github.com/phpstan/phpstan-src/pull/1551) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [update phpstan 1.x](https://github.com/sabre-io/xml/pull/214) on [sabre-io/xml](https://github.com/sabre-io/xml) (1 day ago)
 - [added AccessoryNonFalsyStringType](https://github.com/phpstan/phpstan-src/pull/1542) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -26,7 +27,6 @@
 - [cs](https://github.com/redaxo/redaxo/pull/5263) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [add stacktrace to error message to ease debugging](https://github.com/yakamara/redaxo_yform/pull/1293) on [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (2 days ago)
 - [update rector to 0.13.9](https://github.com/redaxo/redaxo/pull/5262) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
-- [phpstan-dba placeholder validation](https://github.com/staabm/staabm.github.io/pull/29) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
