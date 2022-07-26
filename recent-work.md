@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [sabre-io/xml](https://github.com/sabre-io/xml) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [sabre-io/xml](https://github.com/sabre-io/xml) (1 day ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
