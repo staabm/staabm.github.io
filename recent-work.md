@@ -6,17 +6,19 @@
 - [sabre-io/xml](https://github.com/sabre-io/xml) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [FriendsOfREDAXO/friendsofredaxo.github.io](https://github.com/FriendsOfREDAXO/friendsofredaxo.github.io) (1 week ago)
-- [FriendsOfREDAXO/minibar](https://github.com/FriendsOfREDAXO/minibar) (1 week ago)
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) (1 week ago)
+- [FriendsOfREDAXO/minibar](https://github.com/FriendsOfREDAXO/minibar) (1 week ago)
+- [FriendsOfREDAXO/friendsofredaxo.github.io](https://github.com/FriendsOfREDAXO/friendsofredaxo.github.io) (1 week ago)
 
 
 #### 🔨 My recent Pull Requests
 
+- [update cs-fixer](https://github.com/sabre-io/xml/pull/218) on [sabre-io/xml](https://github.com/sabre-io/xml) (today)
+- [declare types](https://github.com/sabre-io/xml/pull/217) on [sabre-io/xml](https://github.com/sabre-io/xml) (today)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1555) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [XmlReader::next|read() has side-effects](https://github.com/phpstan/phpstan-src/pull/1551) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [update phpstan 1.x](https://github.com/sabre-io/xml/pull/214) on [sabre-io/xml](https://github.com/sabre-io/xml) (1 day ago)
@@ -25,8 +27,6 @@
 - [Implement `rex_sql::getValue()` type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/49) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [clear-result-cache on PACKAGE_CACHE_DELETED](https://github.com/FriendsOfREDAXO/rexstan/pull/48) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [cs](https://github.com/redaxo/redaxo/pull/5263) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
-- [add stacktrace to error message to ease debugging](https://github.com/yakamara/redaxo_yform/pull/1293) on [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (2 days ago)
-- [update rector to 0.13.9](https://github.com/redaxo/redaxo/pull/5262) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
