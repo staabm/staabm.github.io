@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [sabre-io/xml](https://github.com/sabre-io/xml) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (4 days ago)
+- [sabre-io/xml](https://github.com/sabre-io/xml) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (5 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) (1 week ago)
 - [FriendsOfREDAXO/minibar](https://github.com/FriendsOfREDAXO/minibar) (1 week ago)
@@ -17,27 +17,27 @@
 
 #### 🔨 My recent Pull Requests
 
-- [update cs-fixer](https://github.com/sabre-io/xml/pull/218) on [sabre-io/xml](https://github.com/sabre-io/xml) (today)
-- [declare types](https://github.com/sabre-io/xml/pull/217) on [sabre-io/xml](https://github.com/sabre-io/xml) (today)
-- [added regression test](https://github.com/phpstan/phpstan-src/pull/1555) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [XmlReader::next|read() has side-effects](https://github.com/phpstan/phpstan-src/pull/1551) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [update phpstan 1.x](https://github.com/sabre-io/xml/pull/214) on [sabre-io/xml](https://github.com/sabre-io/xml) (1 day ago)
-- [added AccessoryNonFalsyStringType](https://github.com/phpstan/phpstan-src/pull/1542) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [added failling test](https://github.com/rectorphp/rector-src/pull/2708) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [Implement `rex_sql::getValue()` type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/49) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [clear-result-cache on PACKAGE_CACHE_DELETED](https://github.com/FriendsOfREDAXO/rexstan/pull/48) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [cs](https://github.com/redaxo/redaxo/pull/5263) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
+- [update cs-fixer](https://github.com/sabre-io/xml/pull/218) on [sabre-io/xml](https://github.com/sabre-io/xml) (1 day ago)
+- [declare types](https://github.com/sabre-io/xml/pull/217) on [sabre-io/xml](https://github.com/sabre-io/xml) (1 day ago)
+- [added regression test](https://github.com/phpstan/phpstan-src/pull/1555) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [XmlReader::next|read() has side-effects](https://github.com/phpstan/phpstan-src/pull/1551) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [update phpstan 1.x](https://github.com/sabre-io/xml/pull/214) on [sabre-io/xml](https://github.com/sabre-io/xml) (2 days ago)
+- [added AccessoryNonFalsyStringType](https://github.com/phpstan/phpstan-src/pull/1542) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [added failling test](https://github.com/rectorphp/rector-src/pull/2708) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
+- [Implement `rex_sql::getValue()` type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/49) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
+- [clear-result-cache on PACKAGE_CACHE_DELETED](https://github.com/FriendsOfREDAXO/rexstan/pull/48) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
+- [cs](https://github.com/redaxo/redaxo/pull/5263) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.14.0](https://github.com/redaxo/redaxo/releases/tag/5.14.0) (1 day ago)
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.1.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.1.0) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.26](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.26) (2 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.7.0](https://github.com/Roave/BetterReflection/releases/tag/5.7.0) (4 days ago)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.1](https://github.com/paratestphp/paratest/releases/tag/v6.6.1) (4 days ago)
-- [composer/composer](https://github.com/composer/composer) - [2.4.0-RC1](https://github.com/composer/composer/releases/tag/2.4.0-RC1) (5 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.2](https://github.com/phpstan/phpstan/releases/tag/1.8.2) (6 days ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.14.0](https://github.com/redaxo/redaxo/releases/tag/5.14.0) (2 days ago)
+- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.1.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.1.0) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.26](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.26) (3 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.7.0](https://github.com/Roave/BetterReflection/releases/tag/5.7.0) (5 days ago)
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.1](https://github.com/paratestphp/paratest/releases/tag/v6.6.1) (5 days ago)
+- [composer/composer](https://github.com/composer/composer) - [2.4.0-RC1](https://github.com/composer/composer/releases/tag/2.4.0-RC1) (6 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.2](https://github.com/phpstan/phpstan/releases/tag/1.8.2) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.42](https://github.com/staabm/phpstan-dba/releases/tag/0.2.42) (1 week ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.7](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.7) (1 week ago)
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.2](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.2) (1 week ago)
@@ -56,7 +56,7 @@
 
 #### 📜 My recent blog posts
 
-- [Type inference for dynamic sql queries](https://staabm.github.io/2022/07/23/phpstan-dba-inference-placeholder.html) (3 days ago)
+- [Type inference for dynamic sql queries](https://staabm.github.io/2022/07/23/phpstan-dba-inference-placeholder.html) (4 days ago)
 - [rexstan meets phpstan-dba](https://staabm.github.io/2022/07/12/rexstan-meets-phpstan-dba.html) (2 weeks ago)
 - [Analyze your PHPStan baseline](https://staabm.github.io/2022/07/04/phpstan-baseline-analysis.html) (3 weeks ago)
 - [Monthly report: June 2022](https://staabm.github.io/2022/06/30/monthly-report-june.html) (3 weeks ago)
