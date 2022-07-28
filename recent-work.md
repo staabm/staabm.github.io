@@ -17,6 +17,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [optimize `HasOffsetValueType-&gt;isSuperTypeOf()` for performance](https://github.com/phpstan/phpstan-src/pull/1565) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [optimize `HasOffsetValueType-&gt;isSuperTypeOf()` for performance](https://github.com/phpstan/phpstan-src/pull/1564) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [inline calls in TrinaryLogic to reduce method call overhead](https://github.com/phpstan/phpstan-src/pull/1563) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/1562) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [update cs-fixer](https://github.com/sabre-io/xml/pull/218) on [sabre-io/xml](https://github.com/sabre-io/xml) (2 days ago)
@@ -25,8 +27,6 @@
 - [XmlReader::next|read() has side-effects](https://github.com/phpstan/phpstan-src/pull/1551) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [update phpstan 1.x](https://github.com/sabre-io/xml/pull/214) on [sabre-io/xml](https://github.com/sabre-io/xml) (3 days ago)
 - [added AccessoryNonFalsyStringType](https://github.com/phpstan/phpstan-src/pull/1542) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [added failling test](https://github.com/rectorphp/rector-src/pull/2708) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
-- [Implement `rex_sql::getValue()` type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/49) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
