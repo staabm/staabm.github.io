@@ -31,6 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.8](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.8) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.14.0](https://github.com/redaxo/redaxo/releases/tag/5.14.0) (3 days ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.1.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.1.0) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.26](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.26) (4 days ago)
@@ -39,7 +40,6 @@
 - [composer/composer](https://github.com/composer/composer) - [2.4.0-RC1](https://github.com/composer/composer/releases/tag/2.4.0-RC1) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.2](https://github.com/phpstan/phpstan/releases/tag/1.8.2) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.42](https://github.com/staabm/phpstan-dba/releases/tag/0.2.42) (1 week ago)
-- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.7](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.7) (1 week ago)
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.2](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.2) (1 week ago)
 
 
