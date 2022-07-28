@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [introduced IterativeTrinary](https://github.com/phpstan/phpstan-src/pull/1566) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [optimize `HasOffsetValueType-&gt;isSuperTypeOf()` for performance](https://github.com/phpstan/phpstan-src/pull/1565) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [optimize `HasOffsetValueType-&gt;isSuperTypeOf()` for performance](https://github.com/phpstan/phpstan-src/pull/1564) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [inline calls in TrinaryLogic to reduce method call overhead](https://github.com/phpstan/phpstan-src/pull/1563) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -26,11 +27,11 @@
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1555) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [XmlReader::next|read() has side-effects](https://github.com/phpstan/phpstan-src/pull/1551) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [update phpstan 1.x](https://github.com/sabre-io/xml/pull/214) on [sabre-io/xml](https://github.com/sabre-io/xml) (3 days ago)
-- [added AccessoryNonFalsyStringType](https://github.com/phpstan/phpstan-src/pull/1542) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [v4.25.0](https://github.com/vimeo/psalm/releases/tag/v4.25.0) (today)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.8](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.8) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.14.0](https://github.com/redaxo/redaxo/releases/tag/5.14.0) (3 days ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.1.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.1.0) (4 days ago)
@@ -40,7 +41,6 @@
 - [composer/composer](https://github.com/composer/composer) - [2.4.0-RC1](https://github.com/composer/composer/releases/tag/2.4.0-RC1) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.2](https://github.com/phpstan/phpstan/releases/tag/1.8.2) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.42](https://github.com/staabm/phpstan-dba/releases/tag/0.2.42) (1 week ago)
-- [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.2](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.2) (1 week ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
