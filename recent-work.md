@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [support rex_sql::getValue() inference also for regular (non-prepared) statements](https://github.com/FriendsOfREDAXO/rexstan/pull/50) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [introduced IterativeTrinary](https://github.com/phpstan/phpstan-src/pull/1566) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [optimize `HasOffsetValueType-&gt;isSuperTypeOf()` for performance](https://github.com/phpstan/phpstan-src/pull/1565) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [optimize `HasOffsetValueType-&gt;isSuperTypeOf()` for performance](https://github.com/phpstan/phpstan-src/pull/1564) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -26,7 +27,6 @@
 - [declare types](https://github.com/sabre-io/xml/pull/217) on [sabre-io/xml](https://github.com/sabre-io/xml) (3 days ago)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1555) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [XmlReader::next|read() has side-effects](https://github.com/phpstan/phpstan-src/pull/1551) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [update phpstan 1.x](https://github.com/sabre-io/xml/pull/214) on [sabre-io/xml](https://github.com/sabre-io/xml) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
