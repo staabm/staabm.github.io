@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [support mysqli_fetch* type inference](https://github.com/staabm/phpstan-dba/pull/416) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [level up phpstan](https://github.com/staabm/SysMonitor/pull/25) on [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (today)
 - [phpstan level 8](https://github.com/FriendsOfREDAXO/rexstan/pull/52) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [added phpstan github action](https://github.com/FriendsOfREDAXO/rexstan/pull/51) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
@@ -26,7 +27,6 @@
 - [optimize `HasOffsetValueType-&gt;isSuperTypeOf()` for performance](https://github.com/phpstan/phpstan-src/pull/1564) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [inline calls in TrinaryLogic to reduce method call overhead](https://github.com/phpstan/phpstan-src/pull/1563) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/1562) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [update cs-fixer](https://github.com/sabre-io/xml/pull/218) on [sabre-io/xml](https://github.com/sabre-io/xml) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
