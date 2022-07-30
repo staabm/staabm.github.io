@@ -5,18 +5,21 @@
 
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (1 day ago)
 - [sabre-io/xml](https://github.com/sabre-io/xml) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) (1 week ago)
 - [FriendsOfREDAXO/minibar](https://github.com/FriendsOfREDAXO/minibar) (1 week ago)
 
 
 #### 🔨 My recent Pull Requests
 
+- [Update query-plan-analysis.md](https://github.com/staabm/phpstan-dba/pull/417) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Create 2022-08-15-phpstan-dba-query-plan-analysis.md](https://github.com/staabm/staabm.github.io/pull/31) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [Create 2022-08-08-phpstan-dba-syntax-error-detection.md](https://github.com/staabm/staabm.github.io/pull/30) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [simple unit tests](https://github.com/FriendsOfREDAXO/rexstan/pull/56) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [test experiment](https://github.com/FriendsOfREDAXO/rexstan/pull/55) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [refactoring: extracted RexSqlReflection](https://github.com/FriendsOfREDAXO/rexstan/pull/54) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
@@ -24,9 +27,6 @@
 - [support mysqli_fetch* type inference](https://github.com/staabm/phpstan-dba/pull/416) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [level up phpstan](https://github.com/staabm/SysMonitor/pull/25) on [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (1 day ago)
 - [phpstan level 8](https://github.com/FriendsOfREDAXO/rexstan/pull/52) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [added phpstan github action](https://github.com/FriendsOfREDAXO/rexstan/pull/51) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [support `rex_sql::getValue()` inference also for regular (non-prepared) statements](https://github.com/FriendsOfREDAXO/rexstan/pull/50) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [introduced IterativeTrinary](https://github.com/phpstan/phpstan-src/pull/1566) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
