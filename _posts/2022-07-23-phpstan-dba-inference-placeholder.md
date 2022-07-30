@@ -68,13 +68,14 @@ As a rule of thumb:
 - separate user input from your sql query (use prepared statements) 
 - make sure the sql query used is built from scalar values, but does not contain regular `string`
 - when `string` is involved try to use `literal-string` and `numeric-string`
+- if there is no way arround `string`, check whether `@phpstandba-inference-placeholder` can help you out (see below)
 
 If you stick to these rules `phpstan-dba` can figure out the query and [provide its type inference](https://staabm.github.io/2022/06/19/phpstan-dba-type-inference.html) and syntax error checking capabilities.
 In this cases `phpstan-dba` can detect errors like
 - database schema changes which are not compatible with the types defined in the source
 - source code changes which are not compatible with the database schema
 - syntax errors in the sql queries
-- mismatches in the number or names of parameters required vs. passed to the statement
+- [placeholder validation](https://staabm.github.io/2022/07/30/phpstan-dba-placeholder-validation.html): mismatches in the number or names of parameters required vs. passed to the statement
 - queries doing unindexed reads
 
 ### Handle more dynamic queries: meet `@phpstandba-inference-placeholder`
