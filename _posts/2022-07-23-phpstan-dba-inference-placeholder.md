@@ -70,8 +70,8 @@ As a rule of thumb:
 - when `string` is involved try to use `literal-string` and `numeric-string`
 - if there is no way arround `string`, check whether `@phpstandba-inference-placeholder` can help you out (see below)
 
-If you stick to these rules `phpstan-dba` can figure out the query and [provide its type inference](https://staabm.github.io/2022/06/19/phpstan-dba-type-inference.html) and syntax error checking capabilities.
-In this cases `phpstan-dba` can detect errors like
+If you stick to these rules `phpstan-dba` can figure out the query and therefore provide the following features:
+
 - [resultset type inference](https://staabm.github.io/2022/06/19/phpstan-dba-type-inference.html)
 - database schema changes which are not compatible with the types defined in the source
 - source code changes which are not compatible with the database schema
