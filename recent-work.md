@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (1 day ago)
 - [sabre-io/xml](https://github.com/sabre-io/xml) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [implement RexSqlGetValueRule](https://github.com/FriendsOfREDAXO/rexstan/pull/53) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [support mysqli_fetch* type inference](https://github.com/staabm/phpstan-dba/pull/416) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [level up phpstan](https://github.com/staabm/SysMonitor/pull/25) on [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (1 day ago)
 - [phpstan level 8](https://github.com/FriendsOfREDAXO/rexstan/pull/52) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -26,7 +27,6 @@
 - [optimize `HasOffsetValueType-&gt;isSuperTypeOf()` for performance](https://github.com/phpstan/phpstan-src/pull/1565) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [optimize `HasOffsetValueType-&gt;isSuperTypeOf()` for performance](https://github.com/phpstan/phpstan-src/pull/1564) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [inline calls in TrinaryLogic to reduce method call overhead](https://github.com/phpstan/phpstan-src/pull/1563) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/1562) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
