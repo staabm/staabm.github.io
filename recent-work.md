@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Render phpversion into install error](https://github.com/FriendsOfREDAXO/rexstan/pull/57) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Update query-plan-analysis.md](https://github.com/staabm/phpstan-dba/pull/417) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Create 2022-08-15-phpstan-dba-query-plan-analysis.md](https://github.com/staabm/staabm.github.io/pull/31) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Create 2022-08-08-phpstan-dba-syntax-error-detection.md](https://github.com/staabm/staabm.github.io/pull/30) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
@@ -26,7 +27,6 @@
 - [implement `RexSqlGetValueRule`](https://github.com/FriendsOfREDAXO/rexstan/pull/53) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [support mysqli_fetch* type inference](https://github.com/staabm/phpstan-dba/pull/416) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [level up phpstan](https://github.com/staabm/SysMonitor/pull/25) on [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (1 day ago)
-- [phpstan level 8](https://github.com/FriendsOfREDAXO/rexstan/pull/52) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
