@@ -21,7 +21,7 @@ ogImage:
 With this information at hand we are able to detect type inconsistencies between your domain model and database-schema.
 Additionally errors in code handling the results of sql queries can be detected.
 
-This extension provides the following features:
+This extension provides the following features, as long as you [stick to the rules](https://staabm.github.io/2022/07/23/phpstan-dba-inference-placeholder.html#the-golden-phpstan-dba-rules):
 
 * [result set type-inferrence](https://staabm.github.io/2022/06/19/phpstan-dba-type-inference.html)
 * inspect sql queries, [detect errors and placeholder/bound value mismatches](https://staabm.github.io/2022/07/30/phpstan-dba-placeholder-validation.html)
