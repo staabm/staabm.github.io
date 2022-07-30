@@ -19,7 +19,7 @@ Lets start with a motivation example and after that we dive into more details.
 
 ### Type inference Example
 
-When [`phpstan-dba` is properly configured](https://github.com/staabm/phpstan-dba#installation) PHPStan is able to understand database access oriented code:
+When [`phpstan-dba` is properly configured](https://github.com/staabm/phpstan-dba#installation) PHPStan is able to understand database access oriented code, as long as you [stick to the rules](https://staabm.github.io/2022/07/23/phpstan-dba-inference-placeholder.html#the-golden-phpstan-dba-rules).
 
 ```php
 /**
