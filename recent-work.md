@@ -4,12 +4,12 @@
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (2 days ago)
 - [sabre-io/xml](https://github.com/sabre-io/xml) (5 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) (2 weeks ago)
 - [FriendsOfREDAXO/minibar](https://github.com/FriendsOfREDAXO/minibar) (2 weeks ago)
@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [revert `rex_sql-&gt;getRow()` inference](https://github.com/FriendsOfREDAXO/rexstan/pull/67) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [implement `rex_sql-&gt;getRow()` fetch types](https://github.com/FriendsOfREDAXO/rexstan/pull/66) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [implement `rex_sql-&gt;getRow()` type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/65) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [implement `rex_sql-&gt;getArray()` return type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/64) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
@@ -26,12 +27,11 @@
 - [Create 2022-08-15-phpstan-dba-query-plan-analysis.md](https://github.com/staabm/staabm.github.io/pull/31) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [Create 2022-08-08-phpstan-dba-syntax-error-detection.md](https://github.com/staabm/staabm.github.io/pull/30) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [simple unit tests](https://github.com/FriendsOfREDAXO/rexstan/pull/56) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [test experiment](https://github.com/FriendsOfREDAXO/rexstan/pull/55) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.29](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.29) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.30](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.30) (today)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) - [1.0.4](https://github.com/staabm/SysMonitor/releases/tag/1.0.4) (2 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [v4.25.0](https://github.com/vimeo/psalm/releases/tag/v4.25.0) (3 days ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.8](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.8) (3 days ago)
