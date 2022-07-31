@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (2 days ago)
 - [sabre-io/xml](https://github.com/sabre-io/xml) (5 days ago)
@@ -17,6 +17,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [implement `rex_sql-&gt;getRow()` fetch types](https://github.com/FriendsOfREDAXO/rexstan/pull/66) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [implement `rex_sql-&gt;getRow()` type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/65) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [implement `rex_sql-&gt;getArray()` return type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/64) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [docs](https://github.com/redaxo/redaxo/pull/5273) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [Render phpversion into install error](https://github.com/FriendsOfREDAXO/rexstan/pull/57) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [Update query-plan-analysis.md](https://github.com/staabm/phpstan-dba/pull/417) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
@@ -24,14 +27,11 @@
 - [Create 2022-08-08-phpstan-dba-syntax-error-detection.md](https://github.com/staabm/staabm.github.io/pull/30) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [simple unit tests](https://github.com/FriendsOfREDAXO/rexstan/pull/56) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [test experiment](https://github.com/FriendsOfREDAXO/rexstan/pull/55) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [refactoring: extracted RexSqlReflection](https://github.com/FriendsOfREDAXO/rexstan/pull/54) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [implement `RexSqlGetValueRule`](https://github.com/FriendsOfREDAXO/rexstan/pull/53) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [support mysqli_fetch* type inference](https://github.com/staabm/phpstan-dba/pull/416) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.28](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.28) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.29](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.29) (today)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) - [1.0.4](https://github.com/staabm/SysMonitor/releases/tag/1.0.4) (2 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [v4.25.0](https://github.com/vimeo/psalm/releases/tag/v4.25.0) (3 days ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.8](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.8) (3 days ago)
