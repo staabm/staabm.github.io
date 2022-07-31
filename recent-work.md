@@ -31,6 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [yakamara/redaxo_yrewrite](https://github.com/yakamara/redaxo_yrewrite) - [2.9-beta1](https://github.com/yakamara/redaxo_yrewrite/releases/tag/2.9-beta1) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.30](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.30) (today)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) - [1.0.4](https://github.com/staabm/SysMonitor/releases/tag/1.0.4) (2 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [v4.25.0](https://github.com/vimeo/psalm/releases/tag/v4.25.0) (3 days ago)
@@ -40,7 +41,6 @@
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.7.0](https://github.com/Roave/BetterReflection/releases/tag/5.7.0) (1 week ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.1](https://github.com/paratestphp/paratest/releases/tag/v6.6.1) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - [2.4.0-RC1](https://github.com/composer/composer/releases/tag/2.4.0-RC1) (1 week ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.2](https://github.com/phpstan/phpstan/releases/tag/1.8.2) (1 week ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
