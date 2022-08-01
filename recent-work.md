@@ -4,7 +4,8 @@
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [staabm/phpstan-bug7732](https://github.com/staabm/phpstan-bug7732) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (3 days ago)
@@ -12,7 +13,6 @@
 - [sabre-io/xml](https://github.com/sabre-io/xml) (6 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) (2 weeks ago)
-- [FriendsOfREDAXO/minibar](https://github.com/FriendsOfREDAXO/minibar) (2 weeks ago)
 
 
 #### 🔨 My recent Pull Requests
