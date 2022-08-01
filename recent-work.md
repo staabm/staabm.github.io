@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix resolving mixed &#43; array](https://github.com/phpstan/phpstan-src/pull/1579) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [sscanf: allow nulls in returned array](https://github.com/phpstan/phpstan-src/pull/1577) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [fix `sscanf()` inference with regex format patterns](https://github.com/phpstan/phpstan-src/pull/1576) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [declare $this type](https://github.com/FriendsOfREDAXO/developer/pull/97) on [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (today)
@@ -26,7 +27,6 @@
 - [fix phpstan errors](https://github.com/redaxo/redaxo/pull/5278) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [revert `rex_sql-&gt;getRow()` inference](https://github.com/FriendsOfREDAXO/rexstan/pull/67) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [implement `rex_sql-&gt;getRow()` fetch types](https://github.com/FriendsOfREDAXO/rexstan/pull/66) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [implement `rex_sql-&gt;getRow()` type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/65) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
