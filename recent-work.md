@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [mark `rex_sql::getRows()` as impure](https://github.com/redaxo/redaxo/pull/5279) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [fix phpstan errors](https://github.com/redaxo/redaxo/pull/5278) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [revert `rex_sql-&gt;getRow()` inference](https://github.com/FriendsOfREDAXO/rexstan/pull/67) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [implement `rex_sql-&gt;getRow()` fetch types](https://github.com/FriendsOfREDAXO/rexstan/pull/66) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -26,7 +27,6 @@
 - [Render phpversion into install error](https://github.com/FriendsOfREDAXO/rexstan/pull/57) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [Update query-plan-analysis.md](https://github.com/staabm/phpstan-dba/pull/417) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [Create 2022-08-15-phpstan-dba-query-plan-analysis.md](https://github.com/staabm/staabm.github.io/pull/31) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
-- [Create 2022-08-08-phpstan-dba-syntax-error-detection.md](https://github.com/staabm/staabm.github.io/pull/30) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
