@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix `sscanf()` inference with regex format patterns](https://github.com/phpstan/phpstan-src/pull/1576) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [declare $this type](https://github.com/FriendsOfREDAXO/developer/pull/97) on [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (today)
 - [on a git checkout require the root composer autoloader](https://github.com/FriendsOfREDAXO/rexstan/pull/70) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [fix: If condition is always true.](https://github.com/FriendsOfREDAXO/developer/pull/96) on [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (today)
@@ -26,7 +27,6 @@
 - [implement `rex_sql-&gt;getRow()` fetch types](https://github.com/FriendsOfREDAXO/rexstan/pull/66) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [implement `rex_sql-&gt;getRow()` type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/65) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [implement `rex_sql-&gt;getArray()` return type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/64) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [docs](https://github.com/redaxo/redaxo/pull/5273) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
