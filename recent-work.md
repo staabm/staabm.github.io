@@ -31,13 +31,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.14.1](https://github.com/redaxo/redaxo/releases/tag/5.14.1) (today)
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.8.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.8.0) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.31](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.31) (1 day ago)
 - [yakamara/redaxo_yrewrite](https://github.com/yakamara/redaxo_yrewrite) - [2.9-beta1](https://github.com/yakamara/redaxo_yrewrite/releases/tag/2.9-beta1) (2 days ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) - [1.0.4](https://github.com/staabm/SysMonitor/releases/tag/1.0.4) (4 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [v4.25.0](https://github.com/vimeo/psalm/releases/tag/v4.25.0) (5 days ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.8](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.8) (5 days ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.14.0](https://github.com/redaxo/redaxo/releases/tag/5.14.0) (1 week ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.1.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.1.0) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.7.0](https://github.com/Roave/BetterReflection/releases/tag/5.7.0) (1 week ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.1](https://github.com/paratestphp/paratest/releases/tag/v6.6.1) (1 week ago)
