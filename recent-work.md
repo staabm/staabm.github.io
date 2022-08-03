@@ -31,11 +31,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [yakamara/redaxo_yrewrite](https://github.com/yakamara/redaxo_yrewrite) - [2.9](https://github.com/yakamara/redaxo_yrewrite/releases/tag/2.9) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.26.0](https://github.com/vimeo/psalm/releases/tag/4.26.0) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.14.1](https://github.com/redaxo/redaxo/releases/tag/5.14.1) (1 day ago)
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.8.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.8.0) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.31](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.31) (2 days ago)
-- [yakamara/redaxo_yrewrite](https://github.com/yakamara/redaxo_yrewrite) - [2.9-beta1](https://github.com/yakamara/redaxo_yrewrite/releases/tag/2.9-beta1) (3 days ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) - [1.0.4](https://github.com/staabm/SysMonitor/releases/tag/1.0.4) (5 days ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.8](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.8) (6 days ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.1.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.1.0) (1 week ago)
