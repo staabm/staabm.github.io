@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [use faster regular array instead of HasOffsetValueType](https://github.com/phpstan/phpstan-src/pull/1589) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [mention is_a() is also working on interface class-strings](https://github.com/php/doc-en/pull/1732) on [php/doc-en](https://github.com/php/doc-en) (today)
 - [Fix resolving mixed &#43; array](https://github.com/phpstan/phpstan-src/pull/1579) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [sscanf: allow nulls in returned array](https://github.com/phpstan/phpstan-src/pull/1577) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -26,7 +27,6 @@
 - [fix: If condition is always true.](https://github.com/FriendsOfREDAXO/developer/pull/96) on [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (2 days ago)
 - [mark `rex_sql::getRows()` as impure](https://github.com/redaxo/redaxo/pull/5279) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [fix phpstan errors](https://github.com/redaxo/redaxo/pull/5278) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
-- [revert `rex_sql-&gt;getRow()` inference](https://github.com/FriendsOfREDAXO/rexstan/pull/67) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
