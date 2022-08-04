@@ -4,7 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [staabm/phpstan-bug7732](https://github.com/staabm/phpstan-bug7732) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
@@ -17,6 +17,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Report error while setup on missing permissions](https://github.com/FriendsOfREDAXO/rexstan/pull/76) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [Improve phpstan config not found error](https://github.com/FriendsOfREDAXO/rexstan/pull/75) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [scss-compiler: use non-zero exit code on Exception](https://github.com/redaxo/redaxo/pull/5287) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [forbid all superglobals](https://github.com/FriendsOfREDAXO/rexstan/pull/73) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [forbid use of $_SESSION](https://github.com/FriendsOfREDAXO/rexstan/pull/72) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
@@ -25,8 +27,6 @@
 - [use faster regular array instead of HasOffsetValueType](https://github.com/phpstan/phpstan-src/pull/1589) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [mention is_a() is also working on interface class-strings](https://github.com/php/doc-en/pull/1732) on [php/doc-en](https://github.com/php/doc-en) (1 day ago)
 - [Fix resolving mixed &#43; array](https://github.com/phpstan/phpstan-src/pull/1579) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [sscanf: allow nulls in returned array](https://github.com/phpstan/phpstan-src/pull/1577) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [fix `sscanf()` inference with regex format patterns](https://github.com/phpstan/phpstan-src/pull/1576) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
