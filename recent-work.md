@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
 - [staabm/phpstan-bug7732](https://github.com/staabm/phpstan-bug7732) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [forbid use of $_SESSION](https://github.com/FriendsOfREDAXO/rexstan/pull/72) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [rex_login: kill session after at max `session_max_overall_duration` seconds](https://github.com/redaxo/redaxo/pull/5284) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [introduce rex_login::USER_ID, rex_login::LAST_ACTIVITY](https://github.com/redaxo/redaxo/pull/5283) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [use faster regular array instead of HasOffsetValueType](https://github.com/phpstan/phpstan-src/pull/1589) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -26,7 +27,6 @@
 - [fix `sscanf()` inference with regex format patterns](https://github.com/phpstan/phpstan-src/pull/1576) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [declare $this type](https://github.com/FriendsOfREDAXO/developer/pull/97) on [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (3 days ago)
 - [on a git checkout require the root composer autoloader](https://github.com/FriendsOfREDAXO/rexstan/pull/70) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [fix: If condition is always true.](https://github.com/FriendsOfREDAXO/developer/pull/96) on [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
