@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [support removing `class-string`s from `GenericClassStringType`](https://github.com/phpstan/phpstan-src/pull/1590) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Report error while setup on missing permissions](https://github.com/FriendsOfREDAXO/rexstan/pull/76) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Improve phpstan config not found error](https://github.com/FriendsOfREDAXO/rexstan/pull/75) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [scss-compiler: use non-zero exit code on Exception](https://github.com/redaxo/redaxo/pull/5287) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
@@ -26,7 +27,6 @@
 - [introduce rex_login::USER_ID, rex_login::LAST_ACTIVITY](https://github.com/redaxo/redaxo/pull/5283) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [use faster regular array instead of HasOffsetValueType](https://github.com/phpstan/phpstan-src/pull/1589) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [mention is_a() is also working on interface class-strings](https://github.com/php/doc-en/pull/1732) on [php/doc-en](https://github.com/php/doc-en) (1 day ago)
-- [Fix resolving mixed &#43; array](https://github.com/phpstan/phpstan-src/pull/1579) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
