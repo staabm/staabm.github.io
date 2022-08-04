@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [scss-compiler: use non-zero exit code on Exception](https://github.com/redaxo/redaxo/pull/5287) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [forbid all superglobals](https://github.com/FriendsOfREDAXO/rexstan/pull/73) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [forbid use of $_SESSION](https://github.com/FriendsOfREDAXO/rexstan/pull/72) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [rex_login: kill session after at max `session_max_overall_duration` seconds](https://github.com/redaxo/redaxo/pull/5284) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
@@ -26,7 +27,6 @@
 - [Fix resolving mixed &#43; array](https://github.com/phpstan/phpstan-src/pull/1579) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [sscanf: allow nulls in returned array](https://github.com/phpstan/phpstan-src/pull/1577) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [fix `sscanf()` inference with regex format patterns](https://github.com/phpstan/phpstan-src/pull/1576) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [declare $this type](https://github.com/FriendsOfREDAXO/developer/pull/97) on [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
