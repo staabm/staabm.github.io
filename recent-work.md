@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [introduce rex_login::USER_ID, rex_login::LAST_ACTIVITY](https://github.com/redaxo/redaxo/pull/5283) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [use faster regular array instead of HasOffsetValueType](https://github.com/phpstan/phpstan-src/pull/1589) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [mention is_a() is also working on interface class-strings](https://github.com/php/doc-en/pull/1732) on [php/doc-en](https://github.com/php/doc-en) (1 day ago)
 - [Fix resolving mixed &#43; array](https://github.com/phpstan/phpstan-src/pull/1579) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -26,7 +27,6 @@
 - [on a git checkout require the root composer autoloader](https://github.com/FriendsOfREDAXO/rexstan/pull/70) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [fix: If condition is always true.](https://github.com/FriendsOfREDAXO/developer/pull/96) on [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (3 days ago)
 - [mark `rex_sql::getRows()` as impure](https://github.com/redaxo/redaxo/pull/5279) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
-- [fix phpstan errors](https://github.com/redaxo/redaxo/pull/5278) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
