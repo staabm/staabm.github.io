@@ -73,7 +73,7 @@ As a rule of thumb:
 If you stick to these rules `phpstan-dba` can figure out the query and therefore provide the following features:
 
 - [resultset type inference](https://staabm.github.io/2022/06/19/phpstan-dba-type-inference.html)
-- database schema changes which are not compatible with the types defined in the source
+- [database schema changes which are not compatible](https://staabm.github.io/2022/08/05/phpstan-dba-syntax-error-detection.html) with the types defined in the source
 - source code changes which are not compatible with the database schema
 - [syntax errors in the sql queries](https://staabm.github.io/2022/08/05/phpstan-dba-syntax-error-detection.html)
 - [placeholder validation](https://staabm.github.io/2022/07/30/phpstan-dba-placeholder-validation.html): mismatches in the number or names of parameters required vs. passed to the statement
