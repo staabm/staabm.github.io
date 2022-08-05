@@ -31,7 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.33](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.33) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.34](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.34) (today)
 - [FriendsOfREDAXO/plyr](https://github.com/FriendsOfREDAXO/plyr) - [3.20.0-beta1](https://github.com/FriendsOfREDAXO/plyr/releases/tag/3.20.0-beta1) (today)
 - [yakamara/redaxo_yrewrite](https://github.com/yakamara/redaxo_yrewrite) - [2.9](https://github.com/yakamara/redaxo_yrewrite/releases/tag/2.9) (2 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.26.0](https://github.com/vimeo/psalm/releases/tag/4.26.0) (3 days ago)
