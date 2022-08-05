@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix typos in changelog](https://github.com/php/web-php/pull/683) on [php/web-php](https://github.com/php/web-php) (today)
 - [support length parameter in sscanf()](https://github.com/phpstan/phpstan-src/pull/1593) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [`rex_sql::getArray()` return type depends on `PDO::FETCH_*`](https://github.com/FriendsOfREDAXO/rexstan/pull/81) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [echo general phpstan errors](https://github.com/FriendsOfREDAXO/rexstan/pull/80) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
@@ -26,7 +27,6 @@
 - [Report error while setup on missing permissions](https://github.com/FriendsOfREDAXO/rexstan/pull/76) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [Improve phpstan config not found error](https://github.com/FriendsOfREDAXO/rexstan/pull/75) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [scss-compiler: use non-zero exit code on Exception](https://github.com/redaxo/redaxo/pull/5287) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
-- [forbid all superglobals](https://github.com/FriendsOfREDAXO/rexstan/pull/73) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
