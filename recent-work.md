@@ -17,6 +17,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [echo general phpstan errors](https://github.com/FriendsOfREDAXO/rexstan/pull/80) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [Added info about possibly too low memory](https://github.com/FriendsOfREDAXO/rexstan/pull/78) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [detect php version from mamp](https://github.com/FriendsOfREDAXO/rexstan/pull/77) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [support removing `class-string`s from `GenericClassStringType`](https://github.com/phpstan/phpstan-src/pull/1590) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Report error while setup on missing permissions](https://github.com/FriendsOfREDAXO/rexstan/pull/76) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -25,12 +27,11 @@
 - [forbid all superglobals](https://github.com/FriendsOfREDAXO/rexstan/pull/73) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [forbid use of $_SESSION](https://github.com/FriendsOfREDAXO/rexstan/pull/72) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [rex_login: kill session after at max `session_max_overall_duration` seconds](https://github.com/redaxo/redaxo/pull/5284) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
-- [introduce rex_login::USER_ID, rex_login::LAST_ACTIVITY](https://github.com/redaxo/redaxo/pull/5283) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
-- [use faster regular array instead of HasOffsetValueType](https://github.com/phpstan/phpstan-src/pull/1589) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/plyr](https://github.com/FriendsOfREDAXO/plyr) - [3.20.0-beta1](https://github.com/FriendsOfREDAXO/plyr/releases/tag/3.20.0-beta1) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.32](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.32) (1 day ago)
 - [yakamara/redaxo_yrewrite](https://github.com/yakamara/redaxo_yrewrite) - [2.9](https://github.com/yakamara/redaxo_yrewrite/releases/tag/2.9) (2 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.26.0](https://github.com/vimeo/psalm/releases/tag/4.26.0) (3 days ago)
@@ -40,7 +41,6 @@
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.8](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.8) (1 week ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.1.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.1.0) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.7.0](https://github.com/Roave/BetterReflection/releases/tag/5.7.0) (2 weeks ago)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.1](https://github.com/paratestphp/paratest/releases/tag/v6.6.1) (2 weeks ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
