@@ -56,8 +56,8 @@
 
 #### 📜 My recent blog posts
 
+- [Check your sql queries for errors](https://staabm.github.io/2022/08/05/phpstan-dba-syntax-error-detection.html) (today)
 - [Placeholder validation in sql queries](https://staabm.github.io/2022/07/30/phpstan-dba-placeholder-validation.html) (6 days ago)
 - [Type inference for dynamic sql queries](https://staabm.github.io/2022/07/23/phpstan-dba-inference-placeholder.html) (1 week ago)
 - [rexstan meets phpstan-dba](https://staabm.github.io/2022/07/12/rexstan-meets-phpstan-dba.html) (3 weeks ago)
 - [Analyze your PHPStan baseline](https://staabm.github.io/2022/07/04/phpstan-baseline-analysis.html) (1 month ago)
-- [Monthly report: June 2022](https://staabm.github.io/2022/06/30/monthly-report-june.html) (1 month ago)
