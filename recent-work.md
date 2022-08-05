@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [detect php version from mamp](https://github.com/FriendsOfREDAXO/rexstan/pull/77) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [support removing `class-string`s from `GenericClassStringType`](https://github.com/phpstan/phpstan-src/pull/1590) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Report error while setup on missing permissions](https://github.com/FriendsOfREDAXO/rexstan/pull/76) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [Improve phpstan config not found error](https://github.com/FriendsOfREDAXO/rexstan/pull/75) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -26,7 +27,6 @@
 - [rex_login: kill session after at max `session_max_overall_duration` seconds](https://github.com/redaxo/redaxo/pull/5284) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [introduce rex_login::USER_ID, rex_login::LAST_ACTIVITY](https://github.com/redaxo/redaxo/pull/5283) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [use faster regular array instead of HasOffsetValueType](https://github.com/phpstan/phpstan-src/pull/1589) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [mention is_a() is also working on interface class-strings](https://github.com/php/doc-en/pull/1732) on [php/doc-en](https://github.com/php/doc-en) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
