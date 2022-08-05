@@ -5,11 +5,11 @@
 
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [staabm/phpstan-bug7732](https://github.com/staabm/phpstan-bug7732) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (1 week ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [sabre-io/xml](https://github.com/sabre-io/xml) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 weeks ago)
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) (2 weeks ago)
