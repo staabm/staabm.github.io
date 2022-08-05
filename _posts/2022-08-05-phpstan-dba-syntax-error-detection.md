@@ -57,6 +57,7 @@ class Foo
 phpstan-dba will report a few problems with this code:
 
 > Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL/MariaDB server version for the right syntax to use near 'freigabe1u1 FROM ada LIMIT 0' at line 1 (1064).
+> 
 > Query error: Unknown column 'doesNotExist' in 'field list' (1054).
 
 Getting this kind of errors at static analysis time is a real time saver and helps you to spot errors in SQL queries early,
