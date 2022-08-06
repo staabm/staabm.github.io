@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [added regression test](https://github.com/phpstan/phpstan-src/pull/1595) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [added truthy-string as an alias for non-falsy-string](https://github.com/phpstan/phpstan-src/pull/1594) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix typos in changelog](https://github.com/php/web-php/pull/683) on [php/web-php](https://github.com/php/web-php) (1 day ago)
 - [support length parameter in sscanf()](https://github.com/phpstan/phpstan-src/pull/1593) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -26,7 +27,6 @@
 - [detect php version from mamp](https://github.com/FriendsOfREDAXO/rexstan/pull/77) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [support removing `class-string`s from `GenericClassStringType`](https://github.com/phpstan/phpstan-src/pull/1590) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Report error while setup on missing permissions](https://github.com/FriendsOfREDAXO/rexstan/pull/76) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [Improve phpstan config not found error](https://github.com/FriendsOfREDAXO/rexstan/pull/75) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
