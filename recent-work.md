@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [reflection: getName() returns a non-empty-string](https://github.com/phpstan/phpstan-src/pull/1599) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [added asserts to regression tests](https://github.com/phpstan/phpstan-src/pull/1598) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [implement LtrimFunctionReturnTypeExtension to support class-string](https://github.com/phpstan/phpstan-src/pull/1597) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [added offset-value regression test](https://github.com/phpstan/phpstan-src/pull/1596) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -26,7 +27,6 @@
 - [support length parameter in sscanf()](https://github.com/phpstan/phpstan-src/pull/1593) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [`rex_sql::getArray()` return type depends on `PDO::FETCH_*`](https://github.com/FriendsOfREDAXO/rexstan/pull/81) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [echo general phpstan errors](https://github.com/FriendsOfREDAXO/rexstan/pull/80) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [Added info about possibly too low memory](https://github.com/FriendsOfREDAXO/rexstan/pull/78) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
