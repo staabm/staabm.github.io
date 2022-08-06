@@ -31,7 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/dbal](https://github.com/doctrine/dbal) - [3.3.8](https://github.com/doctrine/dbal/releases/tag/3.3.8) (today)
+- [doctrine/dbal](https://github.com/doctrine/dbal) - [3.4.0](https://github.com/doctrine/dbal/releases/tag/3.4.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.34](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.34) (1 day ago)
 - [FriendsOfREDAXO/plyr](https://github.com/FriendsOfREDAXO/plyr) - [3.20.0-beta1](https://github.com/FriendsOfREDAXO/plyr/releases/tag/3.20.0-beta1) (1 day ago)
 - [yakamara/redaxo_yrewrite](https://github.com/yakamara/redaxo_yrewrite) - [2.9](https://github.com/yakamara/redaxo_yrewrite/releases/tag/2.9) (3 days ago)
