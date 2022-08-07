@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [implement gettype() return type extension](https://github.com/phpstan/phpstan-src/pull/1601) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [infer non-empty-string on file-family functions](https://github.com/phpstan/phpstan-src/pull/1600) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [reflection: getName() returns a non-empty-string](https://github.com/phpstan/phpstan-src/pull/1599) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [added asserts to regression tests](https://github.com/phpstan/phpstan-src/pull/1598) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -26,7 +27,6 @@
 - [added truthy-string as an alias for non-falsy-string](https://github.com/phpstan/phpstan-src/pull/1594) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix typos in changelog](https://github.com/php/web-php/pull/683) on [php/web-php](https://github.com/php/web-php) (2 days ago)
 - [support length parameter in sscanf()](https://github.com/phpstan/phpstan-src/pull/1593) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [`rex_sql::getArray()` return type depends on `PDO::FETCH_*`](https://github.com/FriendsOfREDAXO/rexstan/pull/81) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
