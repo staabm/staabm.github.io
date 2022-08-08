@@ -17,6 +17,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Run static analysis on php 8.2](https://github.com/redaxo/redaxo/pull/5296) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [use php 8.2 in visual tests](https://github.com/redaxo/redaxo/pull/5295) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [specify switch-condition in switch-branch-scope](https://github.com/phpstan/phpstan-src/pull/1602) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [implement gettype() return type extension](https://github.com/phpstan/phpstan-src/pull/1601) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [infer non-empty-string on file-family functions](https://github.com/phpstan/phpstan-src/pull/1600) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -25,8 +27,6 @@
 - [implement LtrimFunctionReturnTypeExtension to support class-string](https://github.com/phpstan/phpstan-src/pull/1597) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [added offset-value regression test](https://github.com/phpstan/phpstan-src/pull/1596) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1595) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [added truthy-string as an alias for non-falsy-string](https://github.com/phpstan/phpstan-src/pull/1594) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Fix typos in changelog](https://github.com/php/web-php/pull/683) on [php/web-php](https://github.com/php/web-php) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
