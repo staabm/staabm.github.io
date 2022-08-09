@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix backward-compatibility github action](https://github.com/phpstan/phpdoc-parser/pull/144) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
 - [Run static analysis on php 8.2](https://github.com/redaxo/redaxo/pull/5296) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [use php 8.2 in visual tests](https://github.com/redaxo/redaxo/pull/5295) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [specify switch-condition in switch-branch-scope](https://github.com/phpstan/phpstan-src/pull/1602) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -26,7 +27,6 @@
 - [added asserts to regression tests](https://github.com/phpstan/phpstan-src/pull/1598) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [implement LtrimFunctionReturnTypeExtension to support class-string](https://github.com/phpstan/phpstan-src/pull/1597) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [added offset-value regression test](https://github.com/phpstan/phpstan-src/pull/1596) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [added regression test](https://github.com/phpstan/phpstan-src/pull/1595) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
