@@ -31,6 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.7.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.7.0) (today)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.4.0](https://github.com/doctrine/dbal/releases/tag/3.4.0) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.34](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.34) (4 days ago)
 - [FriendsOfREDAXO/plyr](https://github.com/FriendsOfREDAXO/plyr) - [3.20.0-beta1](https://github.com/FriendsOfREDAXO/plyr/releases/tag/3.20.0-beta1) (4 days ago)
@@ -40,7 +41,6 @@
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.8.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.8.0) (1 week ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) - [1.0.4](https://github.com/staabm/SysMonitor/releases/tag/1.0.4) (1 week ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.8](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.8) (1 week ago)
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [4.1.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/4.1.0) (2 weeks ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
