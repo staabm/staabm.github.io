@@ -191,7 +191,7 @@ In Psalm the `non-falsy-string` type is available since 4.5.0 with the same sema
 
 [Discussing the new addition on Twitter](https://twitter.com/seldaek/status/1552583227893743616) lead some interessting results.
 The double negative name `non-falsy-string` is pretty hard to reason about, so we came to the [conclusion to add a `truthy-string` alias](https://github.com/phpstan/phpstan-src/pull/1594).
-[Psalm maintainers also agreed](https://twitter.com/orklah/status/1552706224541638660) to add the alias, but I am not sure if it was implemented already.
+[Psalm maintainers also agreed](https://twitter.com/orklah/status/1552706224541638660) to add the alias, ~~but I am not sure if it was implemented already.~~ and [I went ahead and send a patch](https://github.com/vimeo/psalm/pull/8400).
 
 ## Early feedback
 
