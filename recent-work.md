@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [added truthy-string alias for non-falsy-string](https://github.com/vimeo/psalm/pull/8400) on [vimeo/psalm](https://github.com/vimeo/psalm) (today)
 - [Create 2022-08-12-phpstan-non-falsy-string.md](https://github.com/staabm/staabm.github.io/pull/32) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [implement cognitive-complexity rules](https://github.com/FriendsOfREDAXO/rexstan/pull/88) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Fix backward-compatibility github action](https://github.com/phpstan/phpdoc-parser/pull/144) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 days ago)
@@ -26,7 +27,6 @@
 - [implement gettype() return type extension](https://github.com/phpstan/phpstan-src/pull/1601) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [infer non-empty-string on file-family functions](https://github.com/phpstan/phpstan-src/pull/1600) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [reflection: getName() returns a non-empty-string](https://github.com/phpstan/phpstan-src/pull/1599) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [added asserts to regression tests](https://github.com/phpstan/phpstan-src/pull/1598) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
