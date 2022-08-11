@@ -41,13 +41,13 @@ because most of the type-system used `non-empty-string` which might include a `'
 
 ## `non-falsy-string` to the rescue
 
-Because of this edge cases, it makes sense to establish a `non-falsy-string` value.
+Considering these edge cases, it makes sense to establish a `non-falsy-string` value.
 Its effectively a subtype of `non-empty-string`, but it excludes `'0'`.
 
 In other words, the upcoming PHPStan release (I guess it will be 1.9.0; might be 1.8.3 though)
 can handle this cases better and no longer produces the mentioned false positive errors.
 
-For those interessted in the details can see the correspondig NodeScopeResolverTest,
+For those interested in the details can see the corresponding NodeScopeResolverTest,
 which shows us how a `non-falsy-string` intersects/interacts with other existing types and what to expect:
 
 _the first argument to `assertType` shows the resulting return-type of the expression given as second argument_
@@ -191,7 +191,7 @@ In Psalm the `non-falsy-string` type is available since 4.5.0 with the same sema
 
 [Discussing the new addition on Twitter](https://twitter.com/seldaek/status/1552583227893743616) lead some interessting results.
 The double negative name `non-falsy-string` is pretty hard to reason about, so we came to the [conclusion to add a `truthy-string` alias](https://github.com/phpstan/phpstan-src/pull/1594).
-[Psalm maintainers also agreed](https://twitter.com/orklah/status/1552706224541638660) to add the alias, but I am not sure this happened already.
+[Psalm maintainers also agreed](https://twitter.com/orklah/status/1552706224541638660) to add the alias, but I am not sure if it was implemented already.
 
 ## Early feedback
 
