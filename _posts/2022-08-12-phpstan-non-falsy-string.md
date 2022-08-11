@@ -193,6 +193,10 @@ In Psalm the `non-falsy-string` type is available since 4.5.0 with the same sema
 The double negative name `non-falsy-string` is pretty hard to reason about, so we came to the [conclusion to add a `truthy-string` alias](https://github.com/phpstan/phpstan-src/pull/1594).
 [Psalm maintainers also agreed](https://twitter.com/orklah/status/1552706224541638660) to add the alias, but I am not sure this happened already.
 
+## Early feedback
+
+In case you are curious and want to try out the new type, give it a shot at the [https://phpstan.org/try](https://phpstan.org/try) sandbox.
+
 ## Summary
 
 Adding a new type is a rare task and it required collaboration of a few different people.
@@ -201,3 +205,4 @@ Especially getting `isSuperType()` and `isSubType()` implementations correct is 
 Having end-user code examples with actual vs. expected types and error messages helps to work through all the details.
 
 Thanks to everyone involved.
+
