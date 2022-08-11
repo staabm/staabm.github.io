@@ -197,6 +197,10 @@ The double negative name `non-falsy-string` is pretty hard to reason about, so w
 
 In case you are curious and want to try out the new type, give it a shot at the [https://phpstan.org/try](https://phpstan.org/try) sandbox.
 
+## 💌 Support my open source activities
+
+Honor the work I am doing in my freetime by [sponsoring me](https://github.com/sponsors/staabm).
+
 ## Summary
 
 Adding a new type is a rare task and it required collaboration of a few different people.
