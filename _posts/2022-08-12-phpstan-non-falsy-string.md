@@ -49,6 +49,7 @@ can handle this cases better and no longer produces the mentioned false positive
 
 For those interessted in the details can see the correspondig NodeScopeResolverTest,
 which shows us how a `non-falsy-string` intersects/interacts with other existing types and what to expect:
+
 _the first argument to `assertType` shows the type of the expression given as second argument_
 
 ```php
