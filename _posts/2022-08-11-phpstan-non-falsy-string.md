@@ -33,9 +33,9 @@ var_dump(empty('1')); // bool(false)
 The important point is, that a string, if it contains just `'0'` is considered empty.
 
 In PHPStan 1.8.2 this leads to unexpected errors ([PHPStan Bug 5370](https://github.com/phpstan/phpstan/issues/5370), [PHPStan Bug 5317](https://github.com/phpstan/phpstan/issues/5317)) , see e.g.
-- https://phpstan.org/r/0c622014-5d30-41df-8534-240498b80630
-- https://phpstan.org/r/0d0ff87d-1142-4c8d-887a-9ea257c0540b
-- https://phpstan.org/r/af765852-8582-480e-8225-6457ee0b214e
+- [https://phpstan.org/r/0c622014-5d30-41df-8534-240498b80630](https://phpstan.org/r/0c622014-5d30-41df-8534-240498b80630)
+- [https://phpstan.org/r/0d0ff87d-1142-4c8d-887a-9ea257c0540b](https://phpstan.org/r/0d0ff87d-1142-4c8d-887a-9ea257c0540b)
+- [https://phpstan.org/r/af765852-8582-480e-8225-6457ee0b214e](https://phpstan.org/r/af765852-8582-480e-8225-6457ee0b214e)
 
 because it most of the type-system used `non-empty-string` which might include a `'0'`.
 
