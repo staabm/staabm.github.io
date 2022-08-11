@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [php/web-php](https://github.com/php/web-php) (5 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [staabm/phpstan-bug7732](https://github.com/staabm/phpstan-bug7732) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (1 week ago)
@@ -31,6 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.9](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.9) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.7.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.7.0) (2 days ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.4.0](https://github.com/doctrine/dbal/releases/tag/3.4.0) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.34](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.34) (6 days ago)
@@ -40,7 +41,6 @@
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.14.1](https://github.com/redaxo/redaxo/releases/tag/5.14.1) (1 week ago)
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.8.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.8.0) (1 week ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) - [1.0.4](https://github.com/staabm/SysMonitor/releases/tag/1.0.4) (1 week ago)
-- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.8](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.8) (2 weeks ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
