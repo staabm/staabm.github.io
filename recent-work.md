@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [implement cognitive-complexity rules](https://github.com/FriendsOfREDAXO/rexstan/pull/88) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Fix backward-compatibility github action](https://github.com/phpstan/phpdoc-parser/pull/144) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 days ago)
 - [Run static analysis on php 8.2](https://github.com/redaxo/redaxo/pull/5296) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
 - [use php 8.2 in visual tests](https://github.com/redaxo/redaxo/pull/5295) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
@@ -26,15 +27,14 @@
 - [reflection: getName() returns a non-empty-string](https://github.com/phpstan/phpstan-src/pull/1599) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [added asserts to regression tests](https://github.com/phpstan/phpstan-src/pull/1598) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [implement LtrimFunctionReturnTypeExtension to support class-string](https://github.com/phpstan/phpstan-src/pull/1597) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [added offset-value regression test](https://github.com/phpstan/phpstan-src/pull/1596) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.35](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.35) (today)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.9](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.9) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.7.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.7.0) (2 days ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.4.0](https://github.com/doctrine/dbal/releases/tag/3.4.0) (5 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.34](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.34) (6 days ago)
 - [FriendsOfREDAXO/plyr](https://github.com/FriendsOfREDAXO/plyr) - [3.20.0-beta1](https://github.com/FriendsOfREDAXO/plyr/releases/tag/3.20.0-beta1) (6 days ago)
 - [yakamara/redaxo_yrewrite](https://github.com/yakamara/redaxo_yrewrite) - [2.9](https://github.com/yakamara/redaxo_yrewrite/releases/tag/2.9) (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.26.0](https://github.com/vimeo/psalm/releases/tag/4.26.0) (1 week ago)
