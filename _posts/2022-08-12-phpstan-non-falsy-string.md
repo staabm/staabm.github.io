@@ -48,8 +48,8 @@ In other words, the upcoming PHPStan release (I guess it will be 1.9.0; might be
 can handle this cases better and no longer produces the mentioned false positive errors.
 
 For those interessted in the details can see the correspondig NodeScopeResolverTest,
-which shows us how a `non-falsy-string` intersects with other existing types and what to expect:
-__the first argument to `assertType` shows the type of the expression given as second argument__
+which shows us how a `non-falsy-string` intersects/interacts with other existing types and what to expect:
+_the first argument to `assertType` shows the type of the expression given as second argument_
 
 ```php
 <?php
