@@ -6,13 +6,13 @@
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [vimeo/psalm](https://github.com/vimeo/psalm) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [php/web-php](https://github.com/php/web-php) (5 days ago)
 - [staabm/phpstan-bug7732](https://github.com/staabm/phpstan-bug7732) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (1 week ago)
-- [sabre-io/xml](https://github.com/sabre-io/xml) (2 weeks ago)
 
 
 #### 🔨 My recent Pull Requests
