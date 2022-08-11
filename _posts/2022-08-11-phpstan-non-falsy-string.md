@@ -37,7 +37,7 @@ In PHPStan 1.8.2 this leads to unexpected errors ([PHPStan Bug 5370](https://git
 - [https://phpstan.org/r/0d0ff87d-1142-4c8d-887a-9ea257c0540b](https://phpstan.org/r/0d0ff87d-1142-4c8d-887a-9ea257c0540b)
 - [https://phpstan.org/r/af765852-8582-480e-8225-6457ee0b214e](https://phpstan.org/r/af765852-8582-480e-8225-6457ee0b214e)
 
-because it most of the type-system used `non-empty-string` which might include a `'0'`.
+because most of the type-system used `non-empty-string` which might include a `'0'`.
 
 ## `non-falsy-string` to the rescue
 
