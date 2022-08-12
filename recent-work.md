@@ -17,6 +17,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [infer numeric types on ctype_digit()](https://github.com/phpstan/phpstan-src/pull/1615) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [added filter_var() type inference](https://github.com/phpstan/phpstan-src/pull/1614) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [simplify TypeSpecifier](https://github.com/phpstan/phpstan-src/pull/1613) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [implement gettype() inference in TypeSpecifier](https://github.com/phpstan/phpstan-src/pull/1611) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [added truthy-string alias for non-falsy-string](https://github.com/vimeo/psalm/pull/8400) on [vimeo/psalm](https://github.com/vimeo/psalm) (1 day ago)
@@ -25,8 +27,6 @@
 - [Fix backward-compatibility github action](https://github.com/phpstan/phpdoc-parser/pull/144) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (3 days ago)
 - [Run static analysis on php 8.2](https://github.com/redaxo/redaxo/pull/5296) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (4 days ago)
 - [use php 8.2 in visual tests](https://github.com/redaxo/redaxo/pull/5295) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (4 days ago)
-- [specify switch-condition in switch-branch-scope](https://github.com/phpstan/phpstan-src/pull/1602) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [implement gettype() return type extension](https://github.com/phpstan/phpstan-src/pull/1601) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
