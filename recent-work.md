@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [implement gettype() inference in TypeSpecifier](https://github.com/phpstan/phpstan-src/pull/1611) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [added truthy-string alias for non-falsy-string](https://github.com/vimeo/psalm/pull/8400) on [vimeo/psalm](https://github.com/vimeo/psalm) (1 day ago)
 - [Create 2022-08-12-phpstan-non-falsy-string.md](https://github.com/staabm/staabm.github.io/pull/32) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [implement cognitive-complexity rules](https://github.com/FriendsOfREDAXO/rexstan/pull/88) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -26,7 +27,6 @@
 - [specify switch-condition in switch-branch-scope](https://github.com/phpstan/phpstan-src/pull/1602) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [implement gettype() return type extension](https://github.com/phpstan/phpstan-src/pull/1601) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [infer non-empty-string on file-family functions](https://github.com/phpstan/phpstan-src/pull/1600) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [reflection: getName() returns a non-empty-string](https://github.com/phpstan/phpstan-src/pull/1599) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
