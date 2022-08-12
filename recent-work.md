@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [infer type on strict comparison with get_class()](https://github.com/phpstan/phpstan-src/pull/1616) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [infer numeric types on ctype_digit()](https://github.com/phpstan/phpstan-src/pull/1615) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [added filter_var() type inference](https://github.com/phpstan/phpstan-src/pull/1614) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [simplify TypeSpecifier](https://github.com/phpstan/phpstan-src/pull/1613) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -26,7 +27,6 @@
 - [implement cognitive-complexity rules](https://github.com/FriendsOfREDAXO/rexstan/pull/88) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [Fix backward-compatibility github action](https://github.com/phpstan/phpdoc-parser/pull/144) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (3 days ago)
 - [Run static analysis on php 8.2](https://github.com/redaxo/redaxo/pull/5296) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (4 days ago)
-- [use php 8.2 in visual tests](https://github.com/redaxo/redaxo/pull/5295) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
