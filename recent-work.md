@@ -31,6 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [qossmic/deptrac](https://github.com/qossmic/deptrac) - [0.24.0](https://github.com/qossmic/deptrac/releases/tag/0.24.0) (today)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.10](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.10) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.35](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.35) (1 day ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.7.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.7.0) (3 days ago)
@@ -40,7 +41,6 @@
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.26.0](https://github.com/vimeo/psalm/releases/tag/4.26.0) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.14.1](https://github.com/redaxo/redaxo/releases/tag/5.14.1) (1 week ago)
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.8.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.8.0) (1 week ago)
-- [staabm/SysMonitor](https://github.com/staabm/SysMonitor) - [1.0.4](https://github.com/staabm/SysMonitor/releases/tag/1.0.4) (2 weeks ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
