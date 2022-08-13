@@ -31,6 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.0.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.0.0) (today)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [0.24.0](https://github.com/qossmic/deptrac/releases/tag/0.24.0) (1 day ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.10](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.10) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.35](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.35) (2 days ago)
@@ -40,7 +41,6 @@
 - [yakamara/redaxo_yrewrite](https://github.com/yakamara/redaxo_yrewrite) - [2.9](https://github.com/yakamara/redaxo_yrewrite/releases/tag/2.9) (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.26.0](https://github.com/vimeo/psalm/releases/tag/4.26.0) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.14.1](https://github.com/redaxo/redaxo/releases/tag/5.14.1) (1 week ago)
-- [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.8.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.8.0) (1 week ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
