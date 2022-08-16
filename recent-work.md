@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify error message](https://github.com/staabm/phpstan-dba/pull/420) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [resources may be opened or closed](https://github.com/phpstan/phpstan-src/pull/1617) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [infer type on strict comparison with get_class()](https://github.com/phpstan/phpstan-src/pull/1616) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [infer numeric types on ctype_digit()](https://github.com/phpstan/phpstan-src/pull/1615) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -26,7 +27,6 @@
 - [added truthy-string alias for non-falsy-string](https://github.com/vimeo/psalm/pull/8400) on [vimeo/psalm](https://github.com/vimeo/psalm) (5 days ago)
 - [Create 2022-08-12-phpstan-non-falsy-string.md](https://github.com/staabm/staabm.github.io/pull/32) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 - [implement cognitive-complexity rules](https://github.com/FriendsOfREDAXO/rexstan/pull/88) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
-- [Fix backward-compatibility github action](https://github.com/phpstan/phpdoc-parser/pull/144) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
