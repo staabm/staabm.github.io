@@ -31,6 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/minibar](https://github.com/FriendsOfREDAXO/minibar) - [2.3.1](https://github.com/FriendsOfREDAXO/minibar/releases/tag/2.3.1) (today)
 - [yakamara/redaxo_yrewrite](https://github.com/yakamara/redaxo_yrewrite) - [2.9.1](https://github.com/yakamara/redaxo_yrewrite/releases/tag/2.9.1) (today)
 - [composer/composer](https://github.com/composer/composer) - [2.4.0](https://github.com/composer/composer/releases/tag/2.4.0) (today)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.0.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.0.0) (3 days ago)
@@ -40,7 +41,6 @@
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.7.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.7.0) (1 week ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.4.0](https://github.com/doctrine/dbal/releases/tag/3.4.0) (1 week ago)
 - [FriendsOfREDAXO/plyr](https://github.com/FriendsOfREDAXO/plyr) - [3.20.0-beta1](https://github.com/FriendsOfREDAXO/plyr/releases/tag/3.20.0-beta1) (1 week ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [4.26.0](https://github.com/vimeo/psalm/releases/tag/4.26.0) (2 weeks ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
