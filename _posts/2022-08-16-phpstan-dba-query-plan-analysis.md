@@ -17,7 +17,7 @@ ogImage:
 Static analysis of database access code is a real thing since [`phpstan-dba`](https://staabm.github.io/2022/05/01/phpstan-dba.html).
 Just [stick to the rules](https://staabm.github.io/2022/07/23/phpstan-dba-inference-placeholder.html#the-golden-phpstan-dba-rules) and you will be covered:
 
-When enabled, `phpstan-dba` will error when queries are not using indices or queries are inefficient.
+When enabled, `phpstan-dba` will report errors in case queries are inefficient.
 The analyzer is reporting problems related to queries not using index, full-table-scans and too many unindexed reads.
 
 ```php
