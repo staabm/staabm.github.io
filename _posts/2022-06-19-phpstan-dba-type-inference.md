@@ -128,4 +128,4 @@ With recent releases it also learned to [analyze database queries execution plan
 
 see the [DEMO to get a sneak peak](https://github.com/staabm/phpstan-dba/pull/61/files#diff-98a3c43049f6a0c859c0303037d9773534396533d7890bad187d465d390d634e) of what is possible.
 
-We will explore this features in separate Blog posts in the future - stay tuned. 
+We will explore this features in [separate Blog posts](https://staabm.github.io/archive.html#phpstan-dba) - stay tuned. 
