@@ -31,6 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/dbal](https://github.com/doctrine/dbal) - [3.4.1](https://github.com/doctrine/dbal/releases/tag/3.4.1) (today)
 - [FriendsOfREDAXO/minibar](https://github.com/FriendsOfREDAXO/minibar) - [2.3.1](https://github.com/FriendsOfREDAXO/minibar/releases/tag/2.3.1) (1 day ago)
 - [yakamara/redaxo_yrewrite](https://github.com/yakamara/redaxo_yrewrite) - [2.9.1](https://github.com/yakamara/redaxo_yrewrite/releases/tag/2.9.1) (1 day ago)
 - [composer/composer](https://github.com/composer/composer) - [2.4.0](https://github.com/composer/composer/releases/tag/2.4.0) (1 day ago)
@@ -39,7 +40,6 @@
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.10](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.10) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.35](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.35) (6 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.7.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.7.0) (1 week ago)
-- [doctrine/dbal](https://github.com/doctrine/dbal) - [3.4.0](https://github.com/doctrine/dbal/releases/tag/3.4.0) (1 week ago)
 - [FriendsOfREDAXO/plyr](https://github.com/FriendsOfREDAXO/plyr) - [3.20.0-beta1](https://github.com/FriendsOfREDAXO/plyr/releases/tag/3.20.0-beta1) (1 week ago)
 
 
