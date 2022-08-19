@@ -31,6 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.3](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.3) (today)
 - [sabre-io/xml](https://github.com/sabre-io/xml) - [3.0.0](https://github.com/sabre-io/xml/releases/tag/3.0.0) (2 days ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.4.1](https://github.com/doctrine/dbal/releases/tag/3.4.1) (2 days ago)
 - [FriendsOfREDAXO/minibar](https://github.com/FriendsOfREDAXO/minibar) - [2.3.1](https://github.com/FriendsOfREDAXO/minibar/releases/tag/2.3.1) (3 days ago)
@@ -40,7 +41,6 @@
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [0.24.0](https://github.com/qossmic/deptrac/releases/tag/0.24.0) (1 week ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.10](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.10) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.35](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.35) (1 week ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.7.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.7.0) (1 week ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
