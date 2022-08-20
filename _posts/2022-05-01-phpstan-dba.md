@@ -26,7 +26,7 @@ This extension provides the following features, as long as you [stick to the rul
 * [result set type-inferrence](https://staabm.github.io/2022/06/19/phpstan-dba-type-inference.html)
 * [detect errors in sql queries](https://staabm.github.io/2022/08/05/phpstan-dba-syntax-error-detection.html)
 * [detect placeholder/bound value mismatches](https://staabm.github.io/2022/07/30/phpstan-dba-placeholder-validation.html)
-* query plan analysis to detect performance issues
+* [query plan analysis](https://staabm.github.io/2022/08/16/phpstan-dba-query-plan-analysis.html) to detect performance issues
 * builtin support for `doctrine/dbal`, `mysqli`, and `PDO`
 * API to configure the same features for your custom sql based database access layer
 
