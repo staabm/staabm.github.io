@@ -41,7 +41,7 @@ see the ['Files Changed' tab of the DEMO-PR](https://github.com/staabm/phpstan-d
 
 ### Installation
 
-see the [phpstan-dba GitHub Repository](https://github.com/staabm/phpstan-dba) for usage instructions and setup.
+see the [phpstan-dba GitHub Repository](https://github.com/staabm/phpstan-dba#installation) for usage instructions and setup.
 
 ### 💌 Support phpstan-dba
 
