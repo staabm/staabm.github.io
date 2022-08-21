@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
@@ -17,8 +17,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Rm duplicated docs](https://github.com/staabm/phpstan-dba/pull/423) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [Simplify error message](https://github.com/staabm/phpstan-dba/pull/420) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
+- [Rm duplicated docs](https://github.com/staabm/phpstan-dba/pull/423) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [Simplify error message](https://github.com/staabm/phpstan-dba/pull/420) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [resources may be opened or closed](https://github.com/phpstan/phpstan-src/pull/1617) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [infer type on strict comparison with get_class()](https://github.com/phpstan/phpstan-src/pull/1616) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [infer numeric types on ctype_digit()](https://github.com/phpstan/phpstan-src/pull/1615) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -31,12 +31,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) - [2.4.1](https://github.com/composer/composer/releases/tag/2.4.1) (today)
-- [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.3](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.3) (1 day ago)
-- [sabre-io/xml](https://github.com/sabre-io/xml) - [3.0.0](https://github.com/sabre-io/xml/releases/tag/3.0.0) (3 days ago)
-- [doctrine/dbal](https://github.com/doctrine/dbal) - [3.4.1](https://github.com/doctrine/dbal/releases/tag/3.4.1) (3 days ago)
-- [FriendsOfREDAXO/minibar](https://github.com/FriendsOfREDAXO/minibar) - [2.3.1](https://github.com/FriendsOfREDAXO/minibar/releases/tag/2.3.1) (4 days ago)
-- [yakamara/redaxo_yrewrite](https://github.com/yakamara/redaxo_yrewrite) - [2.9.1](https://github.com/yakamara/redaxo_yrewrite/releases/tag/2.9.1) (4 days ago)
+- [composer/composer](https://github.com/composer/composer) - [2.4.1](https://github.com/composer/composer/releases/tag/2.4.1) (1 day ago)
+- [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.3](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.3) (2 days ago)
+- [sabre-io/xml](https://github.com/sabre-io/xml) - [3.0.0](https://github.com/sabre-io/xml/releases/tag/3.0.0) (4 days ago)
+- [doctrine/dbal](https://github.com/doctrine/dbal) - [3.4.1](https://github.com/doctrine/dbal/releases/tag/3.4.1) (4 days ago)
+- [FriendsOfREDAXO/minibar](https://github.com/FriendsOfREDAXO/minibar) - [2.3.1](https://github.com/FriendsOfREDAXO/minibar/releases/tag/2.3.1) (5 days ago)
+- [yakamara/redaxo_yrewrite](https://github.com/yakamara/redaxo_yrewrite) - [2.9.1](https://github.com/yakamara/redaxo_yrewrite/releases/tag/2.9.1) (5 days ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.0.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.0.0) (1 week ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [0.24.0](https://github.com/qossmic/deptrac/releases/tag/0.24.0) (1 week ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.10](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.10) (1 week ago)
@@ -56,7 +56,7 @@
 
 #### 📜 My recent blog posts
 
-- [Detect slow queries before they hit your production database](https://staabm.github.io/2022/08/16/phpstan-dba-query-plan-analysis.html) (4 days ago)
+- [Detect slow queries before they hit your production database](https://staabm.github.io/2022/08/16/phpstan-dba-query-plan-analysis.html) (5 days ago)
 - [Phpstan Non Falsy String](https://staabm.github.io/2022/08/11/phpstan-non-falsy-string.html) (1 week ago)
 - [Check your sql queries for errors](https://staabm.github.io/2022/08/05/phpstan-dba-syntax-error-detection.html) (2 weeks ago)
 - [Placeholder validation in sql queries](https://staabm.github.io/2022/07/30/phpstan-dba-placeholder-validation.html) (3 weeks ago)
