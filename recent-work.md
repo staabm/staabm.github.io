@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [added SensitiveParameter, AllowDynamicProperties php 8.2 attributes](https://github.com/vimeo/psalm/pull/8427) on [vimeo/psalm](https://github.com/vimeo/psalm) (today)
 - [cover php 8.2 in CI](https://github.com/staabm/phpstan-dba/pull/426) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [support mysqli_execute_query (php 8.2&#43; only)](https://github.com/staabm/phpstan-dba/pull/425) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Rm duplicated docs](https://github.com/staabm/phpstan-dba/pull/423) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
@@ -26,7 +27,6 @@
 - [infer numeric types on ctype_digit()](https://github.com/phpstan/phpstan-src/pull/1615) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [added filter_var() type inference](https://github.com/phpstan/phpstan-src/pull/1614) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [simplify TypeSpecifier](https://github.com/phpstan/phpstan-src/pull/1613) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [implement gettype() inference in TypeSpecifier](https://github.com/phpstan/phpstan-src/pull/1611) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
