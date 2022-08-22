@@ -31,10 +31,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/dbal](https://github.com/doctrine/dbal) - [3.4.2](https://github.com/doctrine/dbal/releases/tag/3.4.2) (today)
 - [composer/composer](https://github.com/composer/composer) - [2.4.1](https://github.com/composer/composer/releases/tag/2.4.1) (2 days ago)
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.3](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.3) (3 days ago)
 - [sabre-io/xml](https://github.com/sabre-io/xml) - [3.0.0](https://github.com/sabre-io/xml/releases/tag/3.0.0) (5 days ago)
-- [doctrine/dbal](https://github.com/doctrine/dbal) - [3.4.1](https://github.com/doctrine/dbal/releases/tag/3.4.1) (5 days ago)
 - [FriendsOfREDAXO/minibar](https://github.com/FriendsOfREDAXO/minibar) - [2.3.1](https://github.com/FriendsOfREDAXO/minibar/releases/tag/2.3.1) (6 days ago)
 - [yakamara/redaxo_yrewrite](https://github.com/yakamara/redaxo_yrewrite) - [2.9.1](https://github.com/yakamara/redaxo_yrewrite/releases/tag/2.9.1) (6 days ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.0.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.0.0) (1 week ago)
