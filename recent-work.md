@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
@@ -17,6 +17,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [cover php 8.2 in CI](https://github.com/staabm/phpstan-dba/pull/426) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [support mysqli_execute_query (php 8.2&#43; only)](https://github.com/staabm/phpstan-dba/pull/425) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Rm duplicated docs](https://github.com/staabm/phpstan-dba/pull/423) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [Simplify error message](https://github.com/staabm/phpstan-dba/pull/420) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 - [resources may be opened or closed](https://github.com/phpstan/phpstan-src/pull/1617) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -25,8 +27,6 @@
 - [added filter_var() type inference](https://github.com/phpstan/phpstan-src/pull/1614) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [simplify TypeSpecifier](https://github.com/phpstan/phpstan-src/pull/1613) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [implement gettype() inference in TypeSpecifier](https://github.com/phpstan/phpstan-src/pull/1611) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [added truthy-string alias for non-falsy-string](https://github.com/vimeo/psalm/pull/8400) on [vimeo/psalm](https://github.com/vimeo/psalm) (1 week ago)
-- [Create 2022-08-12-phpstan-non-falsy-string.md](https://github.com/staabm/staabm.github.io/pull/32) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
