@@ -31,6 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.0](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.0) (today)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2022.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.2) (1 day ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.2](https://github.com/paratestphp/paratest/releases/tag/v6.6.2) (1 day ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.4.2](https://github.com/doctrine/dbal/releases/tag/3.4.2) (1 day ago)
@@ -40,7 +41,6 @@
 - [FriendsOfREDAXO/minibar](https://github.com/FriendsOfREDAXO/minibar) - [2.3.1](https://github.com/FriendsOfREDAXO/minibar/releases/tag/2.3.1) (1 week ago)
 - [yakamara/redaxo_yrewrite](https://github.com/yakamara/redaxo_yrewrite) - [2.9.1](https://github.com/yakamara/redaxo_yrewrite/releases/tag/2.9.1) (1 week ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.0.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.0.0) (1 week ago)
-- [qossmic/deptrac](https://github.com/qossmic/deptrac) - [0.24.0](https://github.com/qossmic/deptrac/releases/tag/0.24.0) (1 week ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
