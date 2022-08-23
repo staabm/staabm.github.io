@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [serialize/unserialize is not allowed in enum](https://github.com/phpstan/phpstan-src/pull/1643) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [implement loose comparison](https://github.com/phpstan/phpstan-src/pull/1640) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [added SensitiveParameter, AllowDynamicProperties php 8.2 attributes](https://github.com/vimeo/psalm/pull/8427) on [vimeo/psalm](https://github.com/vimeo/psalm) (1 day ago)
 - [cover php 8.2 in CI](https://github.com/staabm/phpstan-dba/pull/426) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
@@ -26,7 +27,6 @@
 - [resources may be opened or closed](https://github.com/phpstan/phpstan-src/pull/1617) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [infer type on strict comparison with get_class()](https://github.com/phpstan/phpstan-src/pull/1616) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [infer numeric types on ctype_digit()](https://github.com/phpstan/phpstan-src/pull/1615) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [added filter_var() type inference](https://github.com/phpstan/phpstan-src/pull/1614) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
