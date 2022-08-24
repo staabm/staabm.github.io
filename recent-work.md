@@ -31,6 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.8.0](https://github.com/Roave/BetterReflection/releases/tag/5.8.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.36](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.36) (today)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.0](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.0) (1 day ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2022.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.2) (2 days ago)
@@ -40,7 +41,6 @@
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.3](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.3) (5 days ago)
 - [sabre-io/xml](https://github.com/sabre-io/xml) - [3.0.0](https://github.com/sabre-io/xml/releases/tag/3.0.0) (1 week ago)
 - [FriendsOfREDAXO/minibar](https://github.com/FriendsOfREDAXO/minibar) - [2.3.1](https://github.com/FriendsOfREDAXO/minibar/releases/tag/2.3.1) (1 week ago)
-- [yakamara/redaxo_yrewrite](https://github.com/yakamara/redaxo_yrewrite) - [2.9.1](https://github.com/yakamara/redaxo_yrewrite/releases/tag/2.9.1) (1 week ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
