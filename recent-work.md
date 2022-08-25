@@ -17,6 +17,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fixed comparison of empty array with a scalar type](https://github.com/phpstan/phpstan-src/pull/1650) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [fix *never* type for more operators](https://github.com/phpstan/phpstan-src/pull/1649) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [serialize/unserialize is not allowed in enum](https://github.com/phpstan/phpstan-src/pull/1643) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [implement loose comparison](https://github.com/phpstan/phpstan-src/pull/1640) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [added SensitiveParameter, AllowDynamicProperties php 8.2 attributes](https://github.com/vimeo/psalm/pull/8427) on [vimeo/psalm](https://github.com/vimeo/psalm) (3 days ago)
@@ -25,8 +27,6 @@
 - [Rm duplicated docs](https://github.com/staabm/phpstan-dba/pull/423) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [Simplify error message](https://github.com/staabm/phpstan-dba/pull/420) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [resources may be opened or closed](https://github.com/phpstan/phpstan-src/pull/1617) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [infer type on strict comparison with get_class()](https://github.com/phpstan/phpstan-src/pull/1616) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [infer numeric types on ctype_digit()](https://github.com/phpstan/phpstan-src/pull/1615) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
