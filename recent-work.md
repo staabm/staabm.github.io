@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) (3 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
@@ -45,6 +45,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
+- [tomasnorre](https://github.com/tomasnorre) (today)
 - [elricco](https://github.com/elricco) (2 months ago)
 - [dhirtzbruch](https://github.com/dhirtzbruch) (2 months ago)
 - [orklah](https://github.com/orklah) (3 months ago)
