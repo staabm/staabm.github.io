@@ -31,7 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.1](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.1) (today)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.2](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.2) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.3](https://github.com/paratestphp/paratest/releases/tag/v6.6.3) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.8.0](https://github.com/Roave/BetterReflection/releases/tag/5.8.0) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.36](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.36) (1 day ago)
