@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Typo](https://github.com/php/php-src/pull/9443) on [php/php-src](https://github.com/php/php-src) (today)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1651) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Fixed comparison of empty array with a scalar type](https://github.com/phpstan/phpstan-src/pull/1650) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [fix *never* type for more operators](https://github.com/phpstan/phpstan-src/pull/1649) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -26,7 +27,6 @@
 - [cover php 8.2 in CI](https://github.com/staabm/phpstan-dba/pull/426) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 - [support mysqli_execute_query (php 8.2&#43; only)](https://github.com/staabm/phpstan-dba/pull/425) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 - [Rm duplicated docs](https://github.com/staabm/phpstan-dba/pull/423) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [Simplify error message](https://github.com/staabm/phpstan-dba/pull/420) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
