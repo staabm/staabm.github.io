@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [take subtracted type into account in `MixedType-&gt;isArray()`](https://github.com/phpstan/phpstan-src/pull/1656) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Typo](https://github.com/php/php-src/pull/9443) on [php/php-src](https://github.com/php/php-src) (1 day ago)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1651) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Fixed comparison of empty array with a scalar type](https://github.com/phpstan/phpstan-src/pull/1650) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -26,7 +27,6 @@
 - [added SensitiveParameter, AllowDynamicProperties php 8.2 attributes](https://github.com/vimeo/psalm/pull/8427) on [vimeo/psalm](https://github.com/vimeo/psalm) (1 week ago)
 - [cover php 8.2 in CI](https://github.com/staabm/phpstan-dba/pull/426) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [support mysqli_execute_query (php 8.2&#43; only)](https://github.com/staabm/phpstan-dba/pull/425) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [Rm duplicated docs](https://github.com/staabm/phpstan-dba/pull/423) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
