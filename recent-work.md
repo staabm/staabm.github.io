@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [regression test](https://github.com/phpstan/phpstan-src/pull/1657) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [take subtracted type into account in `MixedType-&gt;isArray()`](https://github.com/phpstan/phpstan-src/pull/1656) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Typo](https://github.com/php/php-src/pull/9443) on [php/php-src](https://github.com/php/php-src) (1 day ago)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1651) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -26,11 +27,11 @@
 - [implement loose comparison](https://github.com/phpstan/phpstan-src/pull/1640) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [added SensitiveParameter, AllowDynamicProperties php 8.2 attributes](https://github.com/vimeo/psalm/pull/8427) on [vimeo/psalm](https://github.com/vimeo/psalm) (1 week ago)
 - [cover php 8.2 in CI](https://github.com/staabm/phpstan-dba/pull/426) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [support mysqli_execute_query (php 8.2&#43; only)](https://github.com/staabm/phpstan-dba/pull/425) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [zenstruck/browser](https://github.com/zenstruck/browser) - [v1.2.0](https://github.com/zenstruck/browser/releases/tag/v1.2.0) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.9.0](https://github.com/Roave/BetterReflection/releases/tag/5.9.0) (3 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.2](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.2) (4 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.3](https://github.com/paratestphp/paratest/releases/tag/v6.6.3) (4 days ago)
@@ -40,7 +41,6 @@
 - [composer/composer](https://github.com/composer/composer) - [2.4.1](https://github.com/composer/composer/releases/tag/2.4.1) (1 week ago)
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.3](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.3) (1 week ago)
 - [sabre-io/xml](https://github.com/sabre-io/xml) - [3.0.0](https://github.com/sabre-io/xml/releases/tag/3.0.0) (1 week ago)
-- [FriendsOfREDAXO/minibar](https://github.com/FriendsOfREDAXO/minibar) - [2.3.1](https://github.com/FriendsOfREDAXO/minibar/releases/tag/2.3.1) (1 week ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
