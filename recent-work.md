@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fixed non-falsy-string inference with &#39;0&#39;](https://github.com/phpstan/phpstan-src/pull/1658) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [regression test](https://github.com/phpstan/phpstan-src/pull/1657) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [take subtracted type into account in `MixedType-&gt;isArray()`](https://github.com/phpstan/phpstan-src/pull/1656) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Typo](https://github.com/php/php-src/pull/9443) on [php/php-src](https://github.com/php/php-src) (1 day ago)
@@ -26,7 +27,6 @@
 - [serialize/unserialize is not allowed in enum](https://github.com/phpstan/phpstan-src/pull/1643) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [implement loose comparison](https://github.com/phpstan/phpstan-src/pull/1640) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [added SensitiveParameter, AllowDynamicProperties php 8.2 attributes](https://github.com/vimeo/psalm/pull/8427) on [vimeo/psalm](https://github.com/vimeo/psalm) (1 week ago)
-- [cover php 8.2 in CI](https://github.com/staabm/phpstan-dba/pull/426) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
