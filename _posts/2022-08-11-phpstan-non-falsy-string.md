@@ -67,6 +67,9 @@ class Foo {
     assertType('int<min, -1>|int<1, max>', (int) $nonFalseyString);
   }
 
+  /**
+   * @param numeric-string $s
+   */
   function removeZero(string $s) {
     if ($s === '0') {
       return;
