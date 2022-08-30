@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [php/php-src](https://github.com/php/php-src) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (3 weeks ago)
 - [php/web-php](https://github.com/php/web-php) (3 weeks ago)
