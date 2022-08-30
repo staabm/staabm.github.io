@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [encoding functions returns non-empty-string](https://github.com/phpstan/phpstan-src/pull/1664) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [infer non-falsy-string in sscanf()](https://github.com/phpstan/phpstan-src/pull/1662) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [infer non-falsy-string in string replace functions](https://github.com/phpstan/phpstan-src/pull/1661) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [infer non-falsy-string in string containing functions](https://github.com/phpstan/phpstan-src/pull/1660) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -26,7 +27,6 @@
 - [Typo](https://github.com/php/php-src/pull/9443) on [php/php-src](https://github.com/php/php-src) (2 days ago)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1651) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Fixed comparison of empty array with a scalar type](https://github.com/phpstan/phpstan-src/pull/1650) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [fix *never* type for more operators](https://github.com/phpstan/phpstan-src/pull/1649) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
