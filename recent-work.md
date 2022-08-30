@@ -17,6 +17,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [infer non-falsy-string in sscanf()](https://github.com/phpstan/phpstan-src/pull/1662) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [infer non-falsy-string in string replace functions](https://github.com/phpstan/phpstan-src/pull/1661) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [infer non-falsy-string in string containing functions](https://github.com/phpstan/phpstan-src/pull/1660) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [fixed non-falsy-string inference with &#39;0&#39;](https://github.com/phpstan/phpstan-src/pull/1658) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [regression test](https://github.com/phpstan/phpstan-src/pull/1657) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -25,8 +27,6 @@
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1651) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Fixed comparison of empty array with a scalar type](https://github.com/phpstan/phpstan-src/pull/1650) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [fix *never* type for more operators](https://github.com/phpstan/phpstan-src/pull/1649) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [serialize/unserialize is not allowed in enum](https://github.com/phpstan/phpstan-src/pull/1643) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [implement loose comparison](https://github.com/phpstan/phpstan-src/pull/1640) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
