@@ -58,12 +58,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.37](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.37) (today)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.4.3](https://github.com/doctrine/dbal/releases/tag/3.4.3) (2 days ago)
 - [zenstruck/browser](https://github.com/zenstruck/browser) - [v1.2.0](https://github.com/zenstruck/browser/releases/tag/v1.2.0) (3 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.9.0](https://github.com/Roave/BetterReflection/releases/tag/5.9.0) (6 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.2](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.2) (1 week ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.3](https://github.com/paratestphp/paratest/releases/tag/v6.6.3) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.36](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.36) (1 week ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2022.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.2) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - [2.4.1](https://github.com/composer/composer/releases/tag/2.4.1) (1 week ago)
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.3](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.3) (1 week ago)
