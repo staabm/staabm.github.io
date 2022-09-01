@@ -58,6 +58,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [4.27.0](https://github.com/vimeo/psalm/releases/tag/4.27.0) (today)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.3](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.3) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.3](https://github.com/phpstan/phpstan/releases/tag/1.8.3) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.37](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.37) (today)
@@ -67,4 +68,3 @@
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.3](https://github.com/paratestphp/paratest/releases/tag/v6.6.3) (1 week ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2022.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.2) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - [2.4.1](https://github.com/composer/composer/releases/tag/2.4.1) (1 week ago)
-- [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.3](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.3) (1 week ago)
