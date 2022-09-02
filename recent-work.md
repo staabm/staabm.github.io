@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [deployphp/deployer](https://github.com/deployphp/deployer) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
@@ -12,7 +13,6 @@
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (3 weeks ago)
-- [php/web-php](https://github.com/php/web-php) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -64,7 +64,7 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.3](https://github.com/phpstan/phpstan/releases/tag/1.8.3) (1 day ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.4.3](https://github.com/doctrine/dbal/releases/tag/3.4.3) (3 days ago)
 - [zenstruck/browser](https://github.com/zenstruck/browser) - [v1.2.0](https://github.com/zenstruck/browser/releases/tag/v1.2.0) (4 days ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.0.1](https://github.com/deployphp/deployer/releases/tag/v7.0.1) (5 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.9.0](https://github.com/Roave/BetterReflection/releases/tag/5.9.0) (1 week ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.3](https://github.com/paratestphp/paratest/releases/tag/v6.6.3) (1 week ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2022.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.2) (1 week ago)
-- [composer/composer](https://github.com/composer/composer) - [2.4.1](https://github.com/composer/composer/releases/tag/2.4.1) (1 week ago)
