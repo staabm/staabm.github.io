@@ -39,6 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix typos](https://github.com/deployphp/deployer/pull/3282) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
 - [added regression tests](https://github.com/phpstan/phpstan-src/pull/1671) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [encoding functions returns non-empty-string](https://github.com/phpstan/phpstan-src/pull/1664) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [infer non-falsy-string in sscanf()](https://github.com/phpstan/phpstan-src/pull/1662) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -53,7 +54,6 @@
 - [fix *never* type for more operators](https://github.com/phpstan/phpstan-src/pull/1649) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [serialize/unserialize is not allowed in enum](https://github.com/phpstan/phpstan-src/pull/1643) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [implement loose comparison](https://github.com/phpstan/phpstan-src/pull/1640) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [added SensitiveParameter, AllowDynamicProperties php 8.2 attributes](https://github.com/vimeo/psalm/pull/8427) on [vimeo/psalm](https://github.com/vimeo/psalm) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
