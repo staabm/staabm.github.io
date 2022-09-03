@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [deployphp/deployer](https://github.com/deployphp/deployer) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
-- [php/php-src](https://github.com/php/php-src) (5 days ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
+- [php/php-src](https://github.com/php/php-src) (6 days ago)
 - [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (3 weeks ago)
 
 
@@ -39,16 +39,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix typos](https://github.com/deployphp/deployer/pull/3282) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
-- [added regression tests](https://github.com/phpstan/phpstan-src/pull/1671) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [encoding functions returns non-empty-string](https://github.com/phpstan/phpstan-src/pull/1664) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [infer non-falsy-string in sscanf()](https://github.com/phpstan/phpstan-src/pull/1662) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [infer non-falsy-string in string replace functions](https://github.com/phpstan/phpstan-src/pull/1661) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [infer non-falsy-string in string containing functions](https://github.com/phpstan/phpstan-src/pull/1660) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [fixed non-falsy-string inference with &#39;0&#39;](https://github.com/phpstan/phpstan-src/pull/1658) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [regression test](https://github.com/phpstan/phpstan-src/pull/1657) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [take subtracted type into account in `MixedType-&gt;isArray()`](https://github.com/phpstan/phpstan-src/pull/1656) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Typo](https://github.com/php/php-src/pull/9443) on [php/php-src](https://github.com/php/php-src) (5 days ago)
+- [fix typos](https://github.com/deployphp/deployer/pull/3282) on [deployphp/deployer](https://github.com/deployphp/deployer) (1 day ago)
+- [added regression tests](https://github.com/phpstan/phpstan-src/pull/1671) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [encoding functions returns non-empty-string](https://github.com/phpstan/phpstan-src/pull/1664) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [infer non-falsy-string in sscanf()](https://github.com/phpstan/phpstan-src/pull/1662) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [infer non-falsy-string in string replace functions](https://github.com/phpstan/phpstan-src/pull/1661) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [infer non-falsy-string in string containing functions](https://github.com/phpstan/phpstan-src/pull/1660) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [fixed non-falsy-string inference with &#39;0&#39;](https://github.com/phpstan/phpstan-src/pull/1658) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [regression test](https://github.com/phpstan/phpstan-src/pull/1657) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [take subtracted type into account in `MixedType-&gt;isArray()`](https://github.com/phpstan/phpstan-src/pull/1656) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Typo](https://github.com/php/php-src/pull/9443) on [php/php-src](https://github.com/php/php-src) (6 days ago)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1651) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fixed comparison of empty array with a scalar type](https://github.com/phpstan/phpstan-src/pull/1650) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [fix *never* type for more operators](https://github.com/phpstan/phpstan-src/pull/1649) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -58,13 +58,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.38](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.38) (1 day ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [4.27.0](https://github.com/vimeo/psalm/releases/tag/4.27.0) (1 day ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.3](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.3) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.3](https://github.com/phpstan/phpstan/releases/tag/1.8.3) (1 day ago)
-- [doctrine/dbal](https://github.com/doctrine/dbal) - [3.4.3](https://github.com/doctrine/dbal/releases/tag/3.4.3) (3 days ago)
-- [zenstruck/browser](https://github.com/zenstruck/browser) - [v1.2.0](https://github.com/zenstruck/browser/releases/tag/v1.2.0) (4 days ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.0.1](https://github.com/deployphp/deployer/releases/tag/v7.0.1) (5 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.38](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.38) (2 days ago)
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [4.27.0](https://github.com/vimeo/psalm/releases/tag/4.27.0) (2 days ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.3](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.3) (2 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.3](https://github.com/phpstan/phpstan/releases/tag/1.8.3) (2 days ago)
+- [doctrine/dbal](https://github.com/doctrine/dbal) - [3.4.3](https://github.com/doctrine/dbal/releases/tag/3.4.3) (4 days ago)
+- [zenstruck/browser](https://github.com/zenstruck/browser) - [v1.2.0](https://github.com/zenstruck/browser/releases/tag/v1.2.0) (5 days ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.0.1](https://github.com/deployphp/deployer/releases/tag/v7.0.1) (6 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.9.0](https://github.com/Roave/BetterReflection/releases/tag/5.9.0) (1 week ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.3](https://github.com/paratestphp/paratest/releases/tag/v6.6.3) (1 week ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2022.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.2) (1 week ago)
