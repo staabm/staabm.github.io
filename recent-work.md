@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 - [php/php-src](https://github.com/php/php-src) (6 days ago)
@@ -39,6 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [update vendors](https://github.com/redaxo/redaxo/pull/5326) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [fix typos](https://github.com/deployphp/deployer/pull/3282) on [deployphp/deployer](https://github.com/deployphp/deployer) (1 day ago)
 - [added regression tests](https://github.com/phpstan/phpstan-src/pull/1671) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [encoding functions returns non-empty-string](https://github.com/phpstan/phpstan-src/pull/1664) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -53,13 +54,12 @@
 - [Fixed comparison of empty array with a scalar type](https://github.com/phpstan/phpstan-src/pull/1650) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [fix *never* type for more operators](https://github.com/phpstan/phpstan-src/pull/1649) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [serialize/unserialize is not allowed in enum](https://github.com/phpstan/phpstan-src/pull/1643) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [implement loose comparison](https://github.com/phpstan/phpstan-src/pull/1640) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.39](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.39) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.4](https://github.com/phpstan/phpstan/releases/tag/1.8.4) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.38](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.38) (2 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.27.0](https://github.com/vimeo/psalm/releases/tag/4.27.0) (2 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.3](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.3) (2 days ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.4.3](https://github.com/doctrine/dbal/releases/tag/3.4.3) (4 days ago)
