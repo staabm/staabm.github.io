@@ -39,6 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [update nikic/php-parser to 4.15.0](https://github.com/phpstan/phpstan-src/pull/1690) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [update vendors](https://github.com/redaxo/redaxo/pull/5326) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [fix typos](https://github.com/deployphp/deployer/pull/3282) on [deployphp/deployer](https://github.com/deployphp/deployer) (2 days ago)
 - [added regression tests](https://github.com/phpstan/phpstan-src/pull/1671) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -53,7 +54,6 @@
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1651) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fixed comparison of empty array with a scalar type](https://github.com/phpstan/phpstan-src/pull/1650) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [fix *never* type for more operators](https://github.com/phpstan/phpstan-src/pull/1649) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [serialize/unserialize is not allowed in enum](https://github.com/phpstan/phpstan-src/pull/1643) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
