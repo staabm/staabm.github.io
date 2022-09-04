@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (2 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 - [php/php-src](https://github.com/php/php-src) (1 week ago)
@@ -39,6 +39,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [gh-actions: use string values](https://github.com/FriendsOfREDAXO/rexstan/pull/105) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [gh-actions: added php-version matrix](https://github.com/FriendsOfREDAXO/rexstan/pull/104) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [declare php 8.2 support](https://github.com/FriendsOfREDAXO/rexstan/pull/103) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [update nikic/php-parser to 4.15.0](https://github.com/phpstan/phpstan-src/pull/1690) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [update vendors](https://github.com/redaxo/redaxo/pull/5326) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [fix typos](https://github.com/deployphp/deployer/pull/3282) on [deployphp/deployer](https://github.com/deployphp/deployer) (2 days ago)
@@ -51,9 +54,6 @@
 - [regression test](https://github.com/phpstan/phpstan-src/pull/1657) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [take subtracted type into account in `MixedType-&gt;isArray()`](https://github.com/phpstan/phpstan-src/pull/1656) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Typo](https://github.com/php/php-src/pull/9443) on [php/php-src](https://github.com/php/php-src) (1 week ago)
-- [added regression test](https://github.com/phpstan/phpstan-src/pull/1651) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fixed comparison of empty array with a scalar type](https://github.com/phpstan/phpstan-src/pull/1650) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [fix *never* type for more operators](https://github.com/phpstan/phpstan-src/pull/1649) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
