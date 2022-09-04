@@ -58,6 +58,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.8.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.8.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.39](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.39) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.4](https://github.com/phpstan/phpstan/releases/tag/1.8.4) (1 day ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.27.0](https://github.com/vimeo/psalm/releases/tag/4.27.0) (3 days ago)
@@ -67,4 +68,3 @@
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.0.1](https://github.com/deployphp/deployer/releases/tag/v7.0.1) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.9.0](https://github.com/Roave/BetterReflection/releases/tag/5.9.0) (1 week ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.3](https://github.com/paratestphp/paratest/releases/tag/v6.6.3) (1 week ago)
-- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2022.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2022.2) (1 week ago)
