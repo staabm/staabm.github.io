@@ -39,6 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [accept generic class string as literal string](https://github.com/phpstan/phpstan-src/pull/1692) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [fixed count() type after array_pop/array_shift](https://github.com/phpstan/phpstan-src/pull/1691) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [gh-actions: use string values](https://github.com/FriendsOfREDAXO/rexstan/pull/105) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [gh-actions: added php-version matrix](https://github.com/FriendsOfREDAXO/rexstan/pull/104) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
@@ -53,7 +54,6 @@
 - [infer non-falsy-string in string containing functions](https://github.com/phpstan/phpstan-src/pull/1660) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [fixed non-falsy-string inference with &#39;0&#39;](https://github.com/phpstan/phpstan-src/pull/1658) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [regression test](https://github.com/phpstan/phpstan-src/pull/1657) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [take subtracted type into account in `MixedType-&gt;isArray()`](https://github.com/phpstan/phpstan-src/pull/1656) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
