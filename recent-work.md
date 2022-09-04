@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 - [php/php-src](https://github.com/php/php-src) (1 week ago)
 - [php/doc-en](https://github.com/php/doc-en) (1 week ago)
