@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (5 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
@@ -58,10 +58,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.40](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.40) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.5](https://github.com/phpstan/phpstan/releases/tag/1.8.5) (today)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.4.4](https://github.com/doctrine/dbal/releases/tag/3.4.4) (1 day ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.8.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.8.0) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.39](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.39) (4 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.27.0](https://github.com/vimeo/psalm/releases/tag/4.27.0) (6 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.3](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.3) (6 days ago)
 - [zenstruck/browser](https://github.com/zenstruck/browser) - [v1.2.0](https://github.com/zenstruck/browser/releases/tag/v1.2.0) (1 week ago)
