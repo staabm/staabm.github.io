@@ -39,6 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [implement MissingMagicSerializationMethodsRule](https://github.com/phpstan/phpstan-src/pull/1711) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [accept generic class string as literal string](https://github.com/phpstan/phpstan-src/pull/1692) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [fixed count() type after array_pop/array_shift](https://github.com/phpstan/phpstan-src/pull/1691) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [gh-actions: use string values](https://github.com/FriendsOfREDAXO/rexstan/pull/105) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
@@ -53,7 +54,6 @@
 - [infer non-falsy-string in string replace functions](https://github.com/phpstan/phpstan-src/pull/1661) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [infer non-falsy-string in string containing functions](https://github.com/phpstan/phpstan-src/pull/1660) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [fixed non-falsy-string inference with &#39;0&#39;](https://github.com/phpstan/phpstan-src/pull/1658) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [regression test](https://github.com/phpstan/phpstan-src/pull/1657) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
