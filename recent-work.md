@@ -39,6 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [implement CurlSetOptRule](https://github.com/phpstan/phpstan-src/pull/1719) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [more precise $argc, $argv global var type](https://github.com/phpstan/phpstan-src/pull/1718) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [enum cannot implement Serializable](https://github.com/phpstan/phpstan-src/pull/1713) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [implement MissingMagicSerializationMethodsRule](https://github.com/phpstan/phpstan-src/pull/1711) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -53,7 +54,6 @@
 - [added regression tests](https://github.com/phpstan/phpstan-src/pull/1671) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [encoding functions returns non-empty-string](https://github.com/phpstan/phpstan-src/pull/1664) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [infer non-falsy-string in sscanf()](https://github.com/phpstan/phpstan-src/pull/1662) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [infer non-falsy-string in string replace functions](https://github.com/phpstan/phpstan-src/pull/1661) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
