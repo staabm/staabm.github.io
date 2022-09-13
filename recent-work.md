@@ -58,7 +58,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.10.0](https://github.com/Roave/BetterReflection/releases/tag/5.10.0) (3 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.11.0](https://github.com/Roave/BetterReflection/releases/tag/5.11.0) (today)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.11](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.11) (3 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.0.2](https://github.com/deployphp/deployer/releases/tag/v7.0.2) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.40](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.40) (6 days ago)
