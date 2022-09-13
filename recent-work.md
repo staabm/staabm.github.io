@@ -3,13 +3,13 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
-- [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (6 days ago)
+- [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
+- [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (1 week ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 - [php/php-src](https://github.com/php/php-src) (2 weeks ago)
 - [php/doc-en](https://github.com/php/doc-en) (2 weeks ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 weeks ago)
@@ -17,7 +17,7 @@
 
 #### 📜 My recent blog posts
 
-- [Detect slow queries before they hit your production database](https://staabm.github.io/2022/08/16/phpstan-dba-query-plan-analysis.html) (3 weeks ago)
+- [Detect slow queries before they hit your production database](https://staabm.github.io/2022/08/16/phpstan-dba-query-plan-analysis.html) (4 weeks ago)
 - [Phpstan Non Falsy String](https://staabm.github.io/2022/08/11/phpstan-non-falsy-string.html) (1 month ago)
 - [Check your sql queries for errors](https://staabm.github.io/2022/08/05/phpstan-dba-syntax-error-detection.html) (1 month ago)
 - [Placeholder validation in sql queries](https://staabm.github.io/2022/07/30/phpstan-dba-placeholder-validation.html) (1 month ago)
@@ -39,12 +39,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [simplify ArrayFilterArgVisitor](https://github.com/phpstan/phpstan-src/pull/1721) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [test null/false standalone types](https://github.com/phpstan/phpstan-src/pull/1720) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [implement CurlSetOptRule](https://github.com/phpstan/phpstan-src/pull/1719) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [more precise $argc, $argv global var type](https://github.com/phpstan/phpstan-src/pull/1718) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [enum cannot implement Serializable](https://github.com/phpstan/phpstan-src/pull/1713) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [implement MissingMagicSerializationMethodsRule](https://github.com/phpstan/phpstan-src/pull/1711) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [simplify ArrayFilterArgVisitor](https://github.com/phpstan/phpstan-src/pull/1721) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [test null/false standalone types](https://github.com/phpstan/phpstan-src/pull/1720) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [implement CurlSetOptRule](https://github.com/phpstan/phpstan-src/pull/1719) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [more precise $argc, $argv global var type](https://github.com/phpstan/phpstan-src/pull/1718) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [enum cannot implement Serializable](https://github.com/phpstan/phpstan-src/pull/1713) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [implement MissingMagicSerializationMethodsRule](https://github.com/phpstan/phpstan-src/pull/1711) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [accept generic class string as literal string](https://github.com/phpstan/phpstan-src/pull/1692) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [fixed count() type after array_pop/array_shift](https://github.com/phpstan/phpstan-src/pull/1691) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [gh-actions: use string values](https://github.com/FriendsOfREDAXO/rexstan/pull/105) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
@@ -58,12 +58,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.10.0](https://github.com/Roave/BetterReflection/releases/tag/5.10.0) (2 days ago)
-- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.11](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.11) (2 days ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.0.2](https://github.com/deployphp/deployer/releases/tag/v7.0.2) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.40](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.40) (5 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.5](https://github.com/phpstan/phpstan/releases/tag/1.8.5) (5 days ago)
-- [doctrine/dbal](https://github.com/doctrine/dbal) - [3.4.4](https://github.com/doctrine/dbal/releases/tag/3.4.4) (6 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.10.0](https://github.com/Roave/BetterReflection/releases/tag/5.10.0) (3 days ago)
+- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.11](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.11) (3 days ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.0.2](https://github.com/deployphp/deployer/releases/tag/v7.0.2) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.40](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.40) (6 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.5](https://github.com/phpstan/phpstan/releases/tag/1.8.5) (6 days ago)
+- [doctrine/dbal](https://github.com/doctrine/dbal) - [3.4.4](https://github.com/doctrine/dbal/releases/tag/3.4.4) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.8.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.8.0) (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.27.0](https://github.com/vimeo/psalm/releases/tag/4.27.0) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.3](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.3) (1 week ago)
