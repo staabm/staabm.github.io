@@ -39,6 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix phpdoc annotation](https://github.com/Shardj/zf1-future/pull/255) on [Shardj/zf1-future](https://github.com/Shardj/zf1-future) (today)
 - [simplify ArrayFilterArgVisitor](https://github.com/phpstan/phpstan-src/pull/1721) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [test null/false standalone types](https://github.com/phpstan/phpstan-src/pull/1720) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [implement CurlSetOptRule](https://github.com/phpstan/phpstan-src/pull/1719) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -53,7 +54,6 @@
 - [update nikic/php-parser to 4.15.0](https://github.com/phpstan/phpstan-src/pull/1690) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [update vendors](https://github.com/redaxo/redaxo/pull/5326) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [fix typos](https://github.com/deployphp/deployer/pull/3282) on [deployphp/deployer](https://github.com/deployphp/deployer) (1 week ago)
-- [added regression tests](https://github.com/phpstan/phpstan-src/pull/1671) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
