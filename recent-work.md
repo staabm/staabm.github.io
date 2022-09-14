@@ -39,6 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [InformationSchema: version and create_options can be null on mysql 5.7](https://github.com/xsist10/cadfael/pull/65) on [xsist10/cadfael](https://github.com/xsist10/cadfael) (today)
 - [fix phpdoc annotation](https://github.com/Shardj/zf1-future/pull/255) on [Shardj/zf1-future](https://github.com/Shardj/zf1-future) (today)
 - [simplify ArrayFilterArgVisitor](https://github.com/phpstan/phpstan-src/pull/1721) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [test null/false standalone types](https://github.com/phpstan/phpstan-src/pull/1720) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -53,11 +54,11 @@
 - [declare php 8.2 support](https://github.com/FriendsOfREDAXO/rexstan/pull/103) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [update nikic/php-parser to 4.15.0](https://github.com/phpstan/phpstan-src/pull/1690) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [update vendors](https://github.com/redaxo/redaxo/pull/5326) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
-- [fix typos](https://github.com/deployphp/deployer/pull/3282) on [deployphp/deployer](https://github.com/deployphp/deployer) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/plyr](https://github.com/FriendsOfREDAXO/plyr) - [3.20.0](https://github.com/FriendsOfREDAXO/plyr/releases/tag/3.20.0) (today)
 - [tbaddade/redaxo_url](https://github.com/tbaddade/redaxo_url) - [2.0.2](https://github.com/tbaddade/redaxo_url/releases/tag/2.0.2) (today)
 - [composer/composer](https://github.com/composer/composer) - [2.4.2](https://github.com/composer/composer/releases/tag/2.4.2) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.4](https://github.com/paratestphp/paratest/releases/tag/v6.6.4) (1 day ago)
@@ -67,4 +68,3 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.40](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.40) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.5](https://github.com/phpstan/phpstan/releases/tag/1.8.5) (1 week ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.4.4](https://github.com/doctrine/dbal/releases/tag/3.4.4) (1 week ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.8.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.8.0) (1 week ago)
