@@ -4,6 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
+- [voku/PHPDoctor](https://github.com/voku/PHPDoctor) (today)
 - [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
@@ -12,7 +13,6 @@
 - [deployphp/deployer](https://github.com/deployphp/deployer) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 - [php/php-src](https://github.com/php/php-src) (2 weeks ago)
-- [php/doc-en](https://github.com/php/doc-en) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -39,6 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [actually count the errors, not just the lines in the baseline](https://github.com/staabm/phpstan-baseline-analysis/pull/69) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [implement counting of overall-errors](https://github.com/staabm/phpstan-baseline-analysis/pull/68) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [declare &#34;analyze&#34; as an alias for &#34;analyse&#34;](https://github.com/voku/PHPDoctor/pull/10) on [voku/PHPDoctor](https://github.com/voku/PHPDoctor) (today)
 - [InformationSchema: version and create_options can be null on mysql 5.7](https://github.com/xsist10/cadfael/pull/65) on [xsist10/cadfael](https://github.com/xsist10/cadfael) (1 day ago)
@@ -53,12 +54,11 @@
 - [fixed count() type after array_pop/array_shift](https://github.com/phpstan/phpstan-src/pull/1691) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [gh-actions: use string values](https://github.com/FriendsOfREDAXO/rexstan/pull/105) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [gh-actions: added php-version matrix](https://github.com/FriendsOfREDAXO/rexstan/pull/104) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [declare php 8.2 support](https://github.com/FriendsOfREDAXO/rexstan/pull/103) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.8.1](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.8.1) (today)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.8.2](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.8.2) (today)
 - [FriendsOfREDAXO/plyr](https://github.com/FriendsOfREDAXO/plyr) - [3.20.0](https://github.com/FriendsOfREDAXO/plyr/releases/tag/3.20.0) (1 day ago)
 - [tbaddade/redaxo_url](https://github.com/tbaddade/redaxo_url) - [2.0.2](https://github.com/tbaddade/redaxo_url/releases/tag/2.0.2) (1 day ago)
 - [composer/composer](https://github.com/composer/composer) - [2.4.2](https://github.com/composer/composer/releases/tag/2.4.2) (1 day ago)
