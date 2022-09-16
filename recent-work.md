@@ -39,6 +39,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use more precise messages in UnusedPublic*-Rules](https://github.com/symplify/symplify/pull/4402) on [symplify/symplify](https://github.com/symplify/symplify) (today)
+- [extension to detect dead code](https://github.com/FriendsOfREDAXO/rexstan/pull/112) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [implement code complexity extension](https://github.com/FriendsOfREDAXO/rexstan/pull/111) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [remove unused variable in ValidatingArrayLoader](https://github.com/composer/composer/pull/11063) on [composer/composer](https://github.com/composer/composer) (today)
 - [added github action usage example](https://github.com/staabm/phpstan-baseline-analysis/pull/70) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [actually count the errors, not just the lines in the baseline](https://github.com/staabm/phpstan-baseline-analysis/pull/69) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
@@ -51,9 +54,6 @@
 - [implement CurlSetOptRule](https://github.com/phpstan/phpstan-src/pull/1719) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [more precise $argc, $argv global var type](https://github.com/phpstan/phpstan-src/pull/1718) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [enum cannot implement Serializable](https://github.com/phpstan/phpstan-src/pull/1713) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [implement MissingMagicSerializationMethodsRule](https://github.com/phpstan/phpstan-src/pull/1711) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [accept generic class string as literal string](https://github.com/phpstan/phpstan-src/pull/1692) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [fixed count() type after array_pop/array_shift](https://github.com/phpstan/phpstan-src/pull/1691) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
