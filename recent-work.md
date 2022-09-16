@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
+- [symplify/symplify](https://github.com/symplify/symplify) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [composer/composer](https://github.com/composer/composer) (today)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [voku/PHPDoctor](https://github.com/voku/PHPDoctor) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (5 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (2 weeks ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
