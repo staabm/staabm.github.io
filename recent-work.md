@@ -39,6 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [update ramsey/composer-install github action](https://github.com/symplify/symplify/pull/4403) on [symplify/symplify](https://github.com/symplify/symplify) (today)
 - [Use more precise messages in UnusedPublic*-Rules](https://github.com/symplify/symplify/pull/4402) on [symplify/symplify](https://github.com/symplify/symplify) (today)
 - [extension to detect dead code](https://github.com/FriendsOfREDAXO/rexstan/pull/112) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [implement code complexity extension](https://github.com/FriendsOfREDAXO/rexstan/pull/111) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
@@ -53,7 +54,6 @@
 - [test null/false standalone types](https://github.com/phpstan/phpstan-src/pull/1720) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [implement CurlSetOptRule](https://github.com/phpstan/phpstan-src/pull/1719) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [more precise $argc, $argv global var type](https://github.com/phpstan/phpstan-src/pull/1718) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [enum cannot implement Serializable](https://github.com/phpstan/phpstan-src/pull/1713) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
