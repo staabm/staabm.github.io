@@ -39,6 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [added github action usage example](https://github.com/staabm/phpstan-baseline-analysis/pull/70) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [actually count the errors, not just the lines in the baseline](https://github.com/staabm/phpstan-baseline-analysis/pull/69) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
 - [implement counting of overall-errors](https://github.com/staabm/phpstan-baseline-analysis/pull/68) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
 - [declare &#34;analyze&#34; as an alias for &#34;analyse&#34;](https://github.com/voku/PHPDoctor/pull/10) on [voku/PHPDoctor](https://github.com/voku/PHPDoctor) (1 day ago)
@@ -53,7 +54,6 @@
 - [accept generic class string as literal string](https://github.com/phpstan/phpstan-src/pull/1692) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [fixed count() type after array_pop/array_shift](https://github.com/phpstan/phpstan-src/pull/1691) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [gh-actions: use string values](https://github.com/FriendsOfREDAXO/rexstan/pull/105) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [gh-actions: added php-version matrix](https://github.com/FriendsOfREDAXO/rexstan/pull/104) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
