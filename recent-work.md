@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
+- [composer/composer](https://github.com/composer/composer) (today)
 - [voku/PHPDoctor](https://github.com/voku/PHPDoctor) (1 day ago)
-- [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (5 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (2 weeks ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
-- [php/php-src](https://github.com/php/php-src) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -39,6 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [remove unused variable in ValidatingArrayLoader](https://github.com/composer/composer/pull/11063) on [composer/composer](https://github.com/composer/composer) (today)
 - [added github action usage example](https://github.com/staabm/phpstan-baseline-analysis/pull/70) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [actually count the errors, not just the lines in the baseline](https://github.com/staabm/phpstan-baseline-analysis/pull/69) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
 - [implement counting of overall-errors](https://github.com/staabm/phpstan-baseline-analysis/pull/68) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
@@ -53,7 +54,6 @@
 - [implement MissingMagicSerializationMethodsRule](https://github.com/phpstan/phpstan-src/pull/1711) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [accept generic class string as literal string](https://github.com/phpstan/phpstan-src/pull/1692) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [fixed count() type after array_pop/array_shift](https://github.com/phpstan/phpstan-src/pull/1691) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [gh-actions: use string values](https://github.com/FriendsOfREDAXO/rexstan/pull/105) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
