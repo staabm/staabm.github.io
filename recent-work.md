@@ -8,11 +8,11 @@
 - [composer/composer](https://github.com/composer/composer) (1 day ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (1 day ago)
 - [voku/PHPDoctor](https://github.com/voku/PHPDoctor) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [xsist10/cadfael](https://github.com/xsist10/cadfael) (3 days ago)
 - [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (6 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
