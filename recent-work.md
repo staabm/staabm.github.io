@@ -3,13 +3,13 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [symplify/symplify](https://github.com/symplify/symplify) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [composer/composer](https://github.com/composer/composer) (1 day ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
+- [symplify/symplify](https://github.com/symplify/symplify) (1 day ago)
 - [voku/PHPDoctor](https://github.com/voku/PHPDoctor) (2 days ago)
-- [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (6 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (6 days ago)
 - [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (2 weeks ago)
@@ -39,6 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Installation](https://github.com/staabm/phpstan-baseline-analysis/pull/71) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [add tip-message to json error format](https://github.com/phpstan/phpstan-src/pull/1727) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [update ramsey/composer-install github action](https://github.com/symplify/symplify/pull/4403) on [symplify/symplify](https://github.com/symplify/symplify) (1 day ago)
 - [Use more precise messages in UnusedPublic*-Rules](https://github.com/symplify/symplify/pull/4402) on [symplify/symplify](https://github.com/symplify/symplify) (1 day ago)
@@ -53,11 +54,11 @@
 - [fix phpdoc annotation](https://github.com/Shardj/zf1-future/pull/255) on [Shardj/zf1-future](https://github.com/Shardj/zf1-future) (3 days ago)
 - [simplify ArrayFilterArgVisitor](https://github.com/phpstan/phpstan-src/pull/1721) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [test null/false standalone types](https://github.com/phpstan/phpstan-src/pull/1720) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [implement CurlSetOptRule](https://github.com/phpstan/phpstan-src/pull/1719) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.41](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.41) (today)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.8.2](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.8.2) (2 days ago)
 - [FriendsOfREDAXO/plyr](https://github.com/FriendsOfREDAXO/plyr) - [3.20.0](https://github.com/FriendsOfREDAXO/plyr/releases/tag/3.20.0) (3 days ago)
 - [tbaddade/redaxo_url](https://github.com/tbaddade/redaxo_url) - [2.0.2](https://github.com/tbaddade/redaxo_url/releases/tag/2.0.2) (3 days ago)
@@ -66,5 +67,4 @@
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.11.0](https://github.com/Roave/BetterReflection/releases/tag/5.11.0) (4 days ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.11](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.11) (1 week ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.0.2](https://github.com/deployphp/deployer/releases/tag/v7.0.2) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.40](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.40) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.5](https://github.com/phpstan/phpstan/releases/tag/1.8.5) (1 week ago)
