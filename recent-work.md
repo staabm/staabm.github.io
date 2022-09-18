@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [composer/composer](https://github.com/composer/composer) (2 days ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (2 days ago)
 - [voku/PHPDoctor](https://github.com/voku/PHPDoctor) (3 days ago)
@@ -39,6 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [moved config files into dedicated folder](https://github.com/FriendsOfREDAXO/rexstan/pull/118) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [implement summary tab](https://github.com/FriendsOfREDAXO/rexstan/pull/117) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [Installation](https://github.com/staabm/phpstan-baseline-analysis/pull/71) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
 - [add tip-message to json error format](https://github.com/phpstan/phpstan-src/pull/1727) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,7 +54,6 @@
 - [declare &#34;analyze&#34; as an alias for &#34;analyse&#34;](https://github.com/voku/PHPDoctor/pull/10) on [voku/PHPDoctor](https://github.com/voku/PHPDoctor) (3 days ago)
 - [InformationSchema: version and create_options can be null on mysql 5.7](https://github.com/xsist10/cadfael/pull/65) on [xsist10/cadfael](https://github.com/xsist10/cadfael) (4 days ago)
 - [fix phpdoc annotation](https://github.com/Shardj/zf1-future/pull/255) on [Shardj/zf1-future](https://github.com/Shardj/zf1-future) (4 days ago)
-- [simplify ArrayFilterArgVisitor](https://github.com/phpstan/phpstan-src/pull/1721) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
