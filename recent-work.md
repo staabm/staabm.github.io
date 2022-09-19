@@ -39,6 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [added regression test for phpstan/phpstan#7562](https://github.com/phpstan/phpstan-src/pull/1731) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [readme: fix formatting typo](https://github.com/simshaun/recurr/pull/202) on [simshaun/recurr](https://github.com/simshaun/recurr) (today)
 - [moved config files into dedicated folder](https://github.com/FriendsOfREDAXO/rexstan/pull/118) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [implement summary tab](https://github.com/FriendsOfREDAXO/rexstan/pull/117) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
@@ -53,7 +54,6 @@
 - [actually count the errors, not just the lines in the baseline](https://github.com/staabm/phpstan-baseline-analysis/pull/69) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
 - [implement counting of overall-errors](https://github.com/staabm/phpstan-baseline-analysis/pull/68) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
 - [declare &#34;analyze&#34; as an alias for &#34;analyse&#34;](https://github.com/voku/PHPDoctor/pull/10) on [voku/PHPDoctor](https://github.com/voku/PHPDoctor) (4 days ago)
-- [InformationSchema: version and create_options can be null on mysql 5.7](https://github.com/xsist10/cadfael/pull/65) on [xsist10/cadfael](https://github.com/xsist10/cadfael) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
