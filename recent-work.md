@@ -39,6 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [more information on error while install](https://github.com/FriendsOfREDAXO/rexstan/pull/121) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [added regression test for phpstan/phpstan#7562](https://github.com/phpstan/phpstan-src/pull/1731) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [readme: fix formatting typo](https://github.com/simshaun/recurr/pull/202) on [simshaun/recurr](https://github.com/simshaun/recurr) (1 day ago)
 - [moved config files into dedicated folder](https://github.com/FriendsOfREDAXO/rexstan/pull/118) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
@@ -53,7 +54,6 @@
 - [added github action usage example](https://github.com/staabm/phpstan-baseline-analysis/pull/70) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
 - [actually count the errors, not just the lines in the baseline](https://github.com/staabm/phpstan-baseline-analysis/pull/69) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
 - [implement counting of overall-errors](https://github.com/staabm/phpstan-baseline-analysis/pull/68) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
-- [declare &#34;analyze&#34; as an alias for &#34;analyse&#34;](https://github.com/voku/PHPDoctor/pull/10) on [voku/PHPDoctor](https://github.com/voku/PHPDoctor) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
