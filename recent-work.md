@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
 - [composer/composer](https://github.com/composer/composer) (4 days ago)
@@ -10,7 +11,6 @@
 - [voku/PHPDoctor](https://github.com/voku/PHPDoctor) (5 days ago)
 - [xsist10/cadfael](https://github.com/xsist10/cadfael) (6 days ago)
 - [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (1 week ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (2 weeks ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
 
