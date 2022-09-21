@@ -26,6 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
+- [bitshiftersgmbh](https://github.com/bitshiftersgmbh) (today)
 - [tomasnorre](https://github.com/tomasnorre) (3 weeks ago)
 - [elricco](https://github.com/elricco) (2 months ago)
 - [dhirtzbruch](https://github.com/dhirtzbruch) (3 months ago)
