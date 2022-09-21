@@ -5,7 +5,7 @@
 
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [symplify/symplify](https://github.com/symplify/symplify) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
 - [composer/composer](https://github.com/composer/composer) (5 days ago)
@@ -40,6 +40,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [support rex_user-&gt;getValue() type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/134) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [support rex_article_slice-&gt;getValue() type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/133) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [support rex_category-&gt;getValue() type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/132) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [support rex_article-&gt;getValue() type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/131) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [support rex_media-&gt;getValue() type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/130) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [use `*Visitor::ATTRIBUTE_NAME` constant](https://github.com/phpstan/phpstan/pull/8047) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [extract `Parser\*Visitor::ATTRIBUTE_NAME` constants](https://github.com/phpstan/phpstan-src/pull/1737) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [better error message on setup problems](https://github.com/staabm/phpstan-dba/pull/427) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
@@ -50,16 +55,11 @@
 - [implement summary tab](https://github.com/FriendsOfREDAXO/rexstan/pull/117) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [Installation](https://github.com/staabm/phpstan-baseline-analysis/pull/71) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
 - [add tip-message to json error format](https://github.com/phpstan/phpstan-src/pull/1727) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [update ramsey/composer-install github action](https://github.com/symplify/symplify/pull/4403) on [symplify/symplify](https://github.com/symplify/symplify) (5 days ago)
-- [Use more precise messages in UnusedPublic*-Rules](https://github.com/symplify/symplify/pull/4402) on [symplify/symplify](https://github.com/symplify/symplify) (5 days ago)
-- [extension to detect dead code](https://github.com/FriendsOfREDAXO/rexstan/pull/112) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
-- [implement code complexity extension](https://github.com/FriendsOfREDAXO/rexstan/pull/111) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
-- [remove unused variable in ValidatingArrayLoader](https://github.com/composer/composer/pull/11063) on [composer/composer](https://github.com/composer/composer) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.43](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.43) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.44](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.44) (today)
 - [micronax/carbon-german-holidays](https://github.com/micronax/carbon-german-holidays) - [2.4](https://github.com/micronax/carbon-german-holidays/releases/tag/2.4) (2 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.8.2](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.8.2) (6 days ago)
 - [FriendsOfREDAXO/plyr](https://github.com/FriendsOfREDAXO/plyr) - [3.20.0](https://github.com/FriendsOfREDAXO/plyr/releases/tag/3.20.0) (1 week ago)
