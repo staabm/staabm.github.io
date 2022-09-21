@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [symplify/symplify](https://github.com/symplify/symplify) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -12,7 +13,6 @@
 - [xsist10/cadfael](https://github.com/xsist10/cadfael) (1 week ago)
 - [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (1 week ago)
 - [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (2 weeks ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [use `*Visitor::ATTRIBUTE_NAME` constant](https://github.com/phpstan/phpstan/pull/8047) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [extract `Parser\*Visitor::ATTRIBUTE_NAME` constants](https://github.com/phpstan/phpstan-src/pull/1737) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [better error message on setup problems](https://github.com/staabm/phpstan-dba/pull/427) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [more information on error while install](https://github.com/FriendsOfREDAXO/rexstan/pull/121) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -54,7 +55,6 @@
 - [extension to detect dead code](https://github.com/FriendsOfREDAXO/rexstan/pull/112) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [implement code complexity extension](https://github.com/FriendsOfREDAXO/rexstan/pull/111) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [remove unused variable in ValidatingArrayLoader](https://github.com/composer/composer/pull/11063) on [composer/composer](https://github.com/composer/composer) (5 days ago)
-- [added github action usage example](https://github.com/staabm/phpstan-baseline-analysis/pull/70) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
