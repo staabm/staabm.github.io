@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [extract `Parser\*Visitor::ATTRIBUTE_NAME` constants](https://github.com/phpstan/phpstan-src/pull/1737) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [better error message on setup problems](https://github.com/staabm/phpstan-dba/pull/427) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [more information on error while install](https://github.com/FriendsOfREDAXO/rexstan/pull/121) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [added regression test for phpstan/phpstan#7562](https://github.com/phpstan/phpstan-src/pull/1731) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [implement code complexity extension](https://github.com/FriendsOfREDAXO/rexstan/pull/111) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [remove unused variable in ValidatingArrayLoader](https://github.com/composer/composer/pull/11063) on [composer/composer](https://github.com/composer/composer) (5 days ago)
 - [added github action usage example](https://github.com/staabm/phpstan-baseline-analysis/pull/70) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
-- [actually count the errors, not just the lines in the baseline](https://github.com/staabm/phpstan-baseline-analysis/pull/69) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
