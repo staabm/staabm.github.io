@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
-- [symplify/symplify](https://github.com/symplify/symplify) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
-- [composer/composer](https://github.com/composer/composer) (6 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
+- [symplify/symplify](https://github.com/symplify/symplify) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (6 days ago)
+- [composer/composer](https://github.com/composer/composer) (1 week ago)
 - [voku/PHPDoctor](https://github.com/voku/PHPDoctor) (1 week ago)
 - [xsist10/cadfael](https://github.com/xsist10/cadfael) (1 week ago)
 - [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (1 week ago)
@@ -26,7 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
-- [bitshiftersgmbh](https://github.com/bitshiftersgmbh) (1 day ago)
+- [bitshiftersgmbh](https://github.com/bitshiftersgmbh) (2 days ago)
 - [tomasnorre](https://github.com/tomasnorre) (4 weeks ago)
 - [elricco](https://github.com/elricco) (3 months ago)
 - [dhirtzbruch](https://github.com/dhirtzbruch) (3 months ago)
@@ -40,27 +40,27 @@
 
 #### 🔨 My recent Pull Requests
 
-- [support rex_user-&gt;getValue() type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/134) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [support rex_article_slice-&gt;getValue() type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/133) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [support rex_category-&gt;getValue() type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/132) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [support rex_article-&gt;getValue() type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/131) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [support rex_media-&gt;getValue() type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/130) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [use `*Visitor::ATTRIBUTE_NAME` constant](https://github.com/phpstan/phpstan/pull/8047) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
-- [extract `Parser\*Visitor::ATTRIBUTE_NAME` constants](https://github.com/phpstan/phpstan-src/pull/1737) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [better error message on setup problems](https://github.com/staabm/phpstan-dba/pull/427) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
-- [more information on error while install](https://github.com/FriendsOfREDAXO/rexstan/pull/121) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [added regression test for phpstan/phpstan#7562](https://github.com/phpstan/phpstan-src/pull/1731) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [readme: fix formatting typo](https://github.com/simshaun/recurr/pull/202) on [simshaun/recurr](https://github.com/simshaun/recurr) (3 days ago)
-- [moved config files into dedicated folder](https://github.com/FriendsOfREDAXO/rexstan/pull/118) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [implement summary tab](https://github.com/FriendsOfREDAXO/rexstan/pull/117) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
-- [Installation](https://github.com/staabm/phpstan-baseline-analysis/pull/71) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
-- [add tip-message to json error format](https://github.com/phpstan/phpstan-src/pull/1727) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [support rex_user-&gt;getValue() type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/134) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [support rex_article_slice-&gt;getValue() type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/133) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [support rex_category-&gt;getValue() type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/132) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [support rex_article-&gt;getValue() type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/131) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [support rex_media-&gt;getValue() type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/130) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [use `*Visitor::ATTRIBUTE_NAME` constant](https://github.com/phpstan/phpstan/pull/8047) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
+- [extract `Parser\*Visitor::ATTRIBUTE_NAME` constants](https://github.com/phpstan/phpstan-src/pull/1737) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [better error message on setup problems](https://github.com/staabm/phpstan-dba/pull/427) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
+- [more information on error while install](https://github.com/FriendsOfREDAXO/rexstan/pull/121) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
+- [added regression test for phpstan/phpstan#7562](https://github.com/phpstan/phpstan-src/pull/1731) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [readme: fix formatting typo](https://github.com/simshaun/recurr/pull/202) on [simshaun/recurr](https://github.com/simshaun/recurr) (4 days ago)
+- [moved config files into dedicated folder](https://github.com/FriendsOfREDAXO/rexstan/pull/118) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
+- [implement summary tab](https://github.com/FriendsOfREDAXO/rexstan/pull/117) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
+- [Installation](https://github.com/staabm/phpstan-baseline-analysis/pull/71) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (6 days ago)
+- [add tip-message to json error format](https://github.com/phpstan/phpstan-src/pull/1727) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.44](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.44) (1 day ago)
-- [micronax/carbon-german-holidays](https://github.com/micronax/carbon-german-holidays) - [2.4](https://github.com/micronax/carbon-german-holidays/releases/tag/2.4) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.44](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.44) (2 days ago)
+- [micronax/carbon-german-holidays](https://github.com/micronax/carbon-german-holidays) - [2.4](https://github.com/micronax/carbon-german-holidays/releases/tag/2.4) (4 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.8.2](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.8.2) (1 week ago)
 - [FriendsOfREDAXO/plyr](https://github.com/FriendsOfREDAXO/plyr) - [3.20.0](https://github.com/FriendsOfREDAXO/plyr/releases/tag/3.20.0) (1 week ago)
 - [tbaddade/redaxo_url](https://github.com/tbaddade/redaxo_url) - [2.0.2](https://github.com/tbaddade/redaxo_url/releases/tag/2.0.2) (1 week ago)
