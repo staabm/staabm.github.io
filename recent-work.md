@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [added regression test](https://github.com/phpstan/phpstan-src/pull/1748) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [support rex_user-&gt;getValue() type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/134) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [support rex_article_slice-&gt;getValue() type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/133) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [support rex_category-&gt;getValue() type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/132) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
@@ -54,7 +55,6 @@
 - [moved config files into dedicated folder](https://github.com/FriendsOfREDAXO/rexstan/pull/118) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [implement summary tab](https://github.com/FriendsOfREDAXO/rexstan/pull/117) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [Installation](https://github.com/staabm/phpstan-baseline-analysis/pull/71) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (6 days ago)
-- [add tip-message to json error format](https://github.com/phpstan/phpstan-src/pull/1727) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
