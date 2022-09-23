@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (6 days ago)
 - [composer/composer](https://github.com/composer/composer) (1 week ago)
@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.45](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.45) (today)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.4](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.4) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.6](https://github.com/phpstan/phpstan/releases/tag/1.8.6) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.44](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.44) (2 days ago)
 - [micronax/carbon-german-holidays](https://github.com/micronax/carbon-german-holidays) - [2.4](https://github.com/micronax/carbon-german-holidays/releases/tag/2.4) (4 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.8.2](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.8.2) (1 week ago)
 - [FriendsOfREDAXO/plyr](https://github.com/FriendsOfREDAXO/plyr) - [3.20.0](https://github.com/FriendsOfREDAXO/plyr/releases/tag/3.20.0) (1 week ago)
