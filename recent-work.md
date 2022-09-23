@@ -59,6 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.4](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.4) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.6](https://github.com/phpstan/phpstan/releases/tag/1.8.6) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.44](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.44) (2 days ago)
 - [micronax/carbon-german-holidays](https://github.com/micronax/carbon-german-holidays) - [2.4](https://github.com/micronax/carbon-german-holidays/releases/tag/2.4) (4 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.8.2](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.8.2) (1 week ago)
@@ -67,5 +69,3 @@
 - [composer/composer](https://github.com/composer/composer) - [2.4.2](https://github.com/composer/composer/releases/tag/2.4.2) (1 week ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.4](https://github.com/paratestphp/paratest/releases/tag/v6.6.4) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.11.0](https://github.com/Roave/BetterReflection/releases/tag/5.11.0) (1 week ago)
-- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.11](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.11) (1 week ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.0.2](https://github.com/deployphp/deployer/releases/tag/v7.0.2) (1 week ago)
