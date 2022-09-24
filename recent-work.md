@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (3 days ago)
@@ -12,7 +13,6 @@
 - [voku/PHPDoctor](https://github.com/voku/PHPDoctor) (1 week ago)
 - [xsist10/cadfael](https://github.com/xsist10/cadfael) (1 week ago)
 - [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (1 week ago)
-- [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Readme: make code samples 1:1 copy/paste&#39;able](https://github.com/symplify/symplify/pull/4410) on [symplify/symplify](https://github.com/symplify/symplify) (today)
 - [fix false positive in RexGetValueRule for `non-falsy-string` args](https://github.com/FriendsOfREDAXO/rexstan/pull/140) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [implement RexGetValueRule rule](https://github.com/FriendsOfREDAXO/rexstan/pull/138) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [declare more precise getClass* return types](https://github.com/phpstan/phpstan-src/pull/1754) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,11 +55,11 @@
 - [support rex_media-&gt;getValue() type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/130) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [use `*Visitor::ATTRIBUTE_NAME` constant](https://github.com/phpstan/phpstan/pull/8047) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
 - [extract `Parser\*Visitor::ATTRIBUTE_NAME` constants](https://github.com/phpstan/phpstan-src/pull/1737) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [better error message on setup problems](https://github.com/staabm/phpstan-dba/pull/427) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/dbal](https://github.com/doctrine/dbal) - [3.4.5](https://github.com/doctrine/dbal/releases/tag/3.4.5) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.47](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.47) (today)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.4](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.4) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.6](https://github.com/phpstan/phpstan/releases/tag/1.8.6) (1 day ago)
@@ -68,4 +69,3 @@
 - [tbaddade/redaxo_url](https://github.com/tbaddade/redaxo_url) - [2.0.2](https://github.com/tbaddade/redaxo_url/releases/tag/2.0.2) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - [2.4.2](https://github.com/composer/composer/releases/tag/2.4.2) (1 week ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.4](https://github.com/paratestphp/paratest/releases/tag/v6.6.4) (1 week ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.11.0](https://github.com/Roave/BetterReflection/releases/tag/5.11.0) (1 week ago)
