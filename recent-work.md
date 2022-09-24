@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [implement RexGetValueRule rule](https://github.com/FriendsOfREDAXO/rexstan/pull/138) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [declare more precise getClass* return types](https://github.com/phpstan/phpstan-src/pull/1754) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [factor out RexGetValueReflection](https://github.com/FriendsOfREDAXO/rexstan/pull/137) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [added more integer range vs. int constants tests](https://github.com/phpstan/phpstan-src/pull/1750) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1749) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1748) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -52,9 +55,6 @@
 - [extract `Parser\*Visitor::ATTRIBUTE_NAME` constants](https://github.com/phpstan/phpstan-src/pull/1737) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [better error message on setup problems](https://github.com/staabm/phpstan-dba/pull/427) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [more information on error while install](https://github.com/FriendsOfREDAXO/rexstan/pull/121) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [added regression test for phpstan/phpstan#7562](https://github.com/phpstan/phpstan-src/pull/1731) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [readme: fix formatting typo](https://github.com/simshaun/recurr/pull/202) on [simshaun/recurr](https://github.com/simshaun/recurr) (5 days ago)
-- [moved config files into dedicated folder](https://github.com/FriendsOfREDAXO/rexstan/pull/118) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
