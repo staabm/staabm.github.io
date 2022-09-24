@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix false positive in RexGetValueRule for `non-falsy-string` args](https://github.com/FriendsOfREDAXO/rexstan/pull/140) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [implement RexGetValueRule rule](https://github.com/FriendsOfREDAXO/rexstan/pull/138) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [declare more precise getClass* return types](https://github.com/phpstan/phpstan-src/pull/1754) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [factor out RexGetValueReflection](https://github.com/FriendsOfREDAXO/rexstan/pull/137) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
@@ -54,12 +55,11 @@
 - [use `*Visitor::ATTRIBUTE_NAME` constant](https://github.com/phpstan/phpstan/pull/8047) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
 - [extract `Parser\*Visitor::ATTRIBUTE_NAME` constants](https://github.com/phpstan/phpstan-src/pull/1737) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [better error message on setup problems](https://github.com/staabm/phpstan-dba/pull/427) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
-- [more information on error while install](https://github.com/FriendsOfREDAXO/rexstan/pull/121) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.46](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.46) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.47](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.47) (today)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.4](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.4) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.6](https://github.com/phpstan/phpstan/releases/tag/1.8.6) (1 day ago)
 - [micronax/carbon-german-holidays](https://github.com/micronax/carbon-german-holidays) - [2.4](https://github.com/micronax/carbon-german-holidays/releases/tag/2.4) (5 days ago)
