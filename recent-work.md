@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [failling test for UnusedPublicClassConstRule](https://github.com/symplify/symplify/pull/4413) on [symplify/symplify](https://github.com/symplify/symplify) (today)
+- [[PHPStanRules] skip UnusedPublicClassConstRule for references via Subclasses](https://github.com/symplify/symplify/pull/4413) on [symplify/symplify](https://github.com/symplify/symplify) (today)
 - [Readme: make code samples 1:1 copy/paste&#39;able](https://github.com/symplify/symplify/pull/4410) on [symplify/symplify](https://github.com/symplify/symplify) (1 day ago)
 - [fix false positive in RexGetValueRule for `non-falsy-string` args](https://github.com/FriendsOfREDAXO/rexstan/pull/140) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [implement RexGetValueRule rule](https://github.com/FriendsOfREDAXO/rexstan/pull/138) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
