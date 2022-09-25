@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [failling test for UnusedPublicClassConstRule](https://github.com/symplify/symplify/pull/4413) on [symplify/symplify](https://github.com/symplify/symplify) (today)
 - [Readme: make code samples 1:1 copy/paste&#39;able](https://github.com/symplify/symplify/pull/4410) on [symplify/symplify](https://github.com/symplify/symplify) (1 day ago)
 - [fix false positive in RexGetValueRule for `non-falsy-string` args](https://github.com/FriendsOfREDAXO/rexstan/pull/140) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [implement RexGetValueRule rule](https://github.com/FriendsOfREDAXO/rexstan/pull/138) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -54,7 +55,6 @@
 - [support rex_article-&gt;getValue() type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/131) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [support rex_media-&gt;getValue() type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/130) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [use `*Visitor::ATTRIBUTE_NAME` constant](https://github.com/phpstan/phpstan/pull/8047) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
-- [extract `Parser\*Visitor::ATTRIBUTE_NAME` constants](https://github.com/phpstan/phpstan-src/pull/1737) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
