@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.12](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.12) (today)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.4.5](https://github.com/doctrine/dbal/releases/tag/3.4.5) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.47](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.47) (1 day ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.4](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.4) (2 days ago)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/plyr](https://github.com/FriendsOfREDAXO/plyr) - [3.20.0](https://github.com/FriendsOfREDAXO/plyr/releases/tag/3.20.0) (1 week ago)
 - [tbaddade/redaxo_url](https://github.com/tbaddade/redaxo_url) - [2.0.2](https://github.com/tbaddade/redaxo_url/releases/tag/2.0.2) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - [2.4.2](https://github.com/composer/composer/releases/tag/2.4.2) (1 week ago)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.4](https://github.com/paratestphp/paratest/releases/tag/v6.6.4) (1 week ago)
