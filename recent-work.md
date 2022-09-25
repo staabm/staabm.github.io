@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (4 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) (1 week ago)
 - [voku/PHPDoctor](https://github.com/voku/PHPDoctor) (1 week ago)
 - [xsist10/cadfael](https://github.com/xsist10/cadfael) (1 week ago)
-- [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [added mysqli::execute_query() support (php 8.2&#43; only)](https://github.com/staabm/phpstan-dba/pull/430) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [[PHPStanRules] skip UnusedPublicClassConstRule for references via Subclasses](https://github.com/symplify/symplify/pull/4413) on [symplify/symplify](https://github.com/symplify/symplify) (today)
 - [Readme: make code samples 1:1 copy/paste&#39;able](https://github.com/symplify/symplify/pull/4410) on [symplify/symplify](https://github.com/symplify/symplify) (1 day ago)
 - [fix false positive in RexGetValueRule for `non-falsy-string` args](https://github.com/FriendsOfREDAXO/rexstan/pull/140) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -54,7 +55,6 @@
 - [support rex_category-&gt;getValue() type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/132) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [support rex_article-&gt;getValue() type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/131) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [support rex_media-&gt;getValue() type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/130) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [use `*Visitor::ATTRIBUTE_NAME` constant](https://github.com/phpstan/phpstan/pull/8047) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
