@@ -26,6 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
+- [kreatifIT](https://github.com/kreatifIT) (today)
 - [bitshiftersgmbh](https://github.com/bitshiftersgmbh) (5 days ago)
 - [tomasnorre](https://github.com/tomasnorre) (1 month ago)
 - [elricco](https://github.com/elricco) (3 months ago)
@@ -35,7 +36,6 @@
 - [itworks-development](https://github.com/itworks-development) (2 years ago)
 - [w-sk](https://github.com/w-sk) (2 years ago)
 - [polarpixel](https://github.com/polarpixel) (2 years ago)
-- [bloep](https://github.com/bloep) (2 years ago)
 
 
 #### 🔨 My recent Pull Requests
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sabre-io/xml](https://github.com/sabre-io/xml) - [4.0.0](https://github.com/sabre-io/xml/releases/tag/4.0.0) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.43](https://github.com/staabm/phpstan-dba/releases/tag/0.2.43) (1 day ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [4.0.12](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.12) (1 day ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.4.5](https://github.com/doctrine/dbal/releases/tag/3.4.5) (2 days ago)
@@ -68,4 +69,3 @@
 - [micronax/carbon-german-holidays](https://github.com/micronax/carbon-german-holidays) - [2.4](https://github.com/micronax/carbon-german-holidays/releases/tag/2.4) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.8.2](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.8.2) (1 week ago)
 - [FriendsOfREDAXO/plyr](https://github.com/FriendsOfREDAXO/plyr) - [3.20.0](https://github.com/FriendsOfREDAXO/plyr/releases/tag/3.20.0) (1 week ago)
-- [tbaddade/redaxo_url](https://github.com/tbaddade/redaxo_url) - [2.0.2](https://github.com/tbaddade/redaxo_url/releases/tag/2.0.2) (1 week ago)
