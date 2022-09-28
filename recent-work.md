@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [symplify/symplify](https://github.com/symplify/symplify) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [symplify/symplify](https://github.com/symplify/symplify) (1 week ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
