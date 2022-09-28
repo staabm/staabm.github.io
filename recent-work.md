@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [symplify/symplify](https://github.com/symplify/symplify) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [added type inference tests](https://github.com/FriendsOfREDAXO/rexstan/pull/144) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [XMLWriter::startElementNS() $namespace arg is nullable](https://github.com/phpstan/phpstan-src/pull/1772) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Remove outdated changelog.md](https://github.com/symplify/symplify/pull/4416) on [symplify/symplify](https://github.com/symplify/symplify) (today)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1762) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1749) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1748) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [support rex_user-&gt;getValue() type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/134) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [support rex_article_slice-&gt;getValue() type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/133) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
