@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove outdated changelog.md](https://github.com/symplify/symplify/pull/4416) on [symplify/symplify](https://github.com/symplify/symplify) (today)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1762) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [added mysqli::execute_query() support (php 8.2&#43; only)](https://github.com/staabm/phpstan-dba/pull/430) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [[PHPStanRules] skip UnusedPublicClassConstRule for references via Subclasses](https://github.com/symplify/symplify/pull/4413) on [symplify/symplify](https://github.com/symplify/symplify) (3 days ago)
@@ -54,7 +55,6 @@
 - [support rex_user-&gt;getValue() type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/134) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [support rex_article_slice-&gt;getValue() type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/133) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [support rex_category-&gt;getValue() type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/132) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [support rex_article-&gt;getValue() type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/131) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
