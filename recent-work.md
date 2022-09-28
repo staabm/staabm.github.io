@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [update phpstan-dba](https://github.com/FriendsOfREDAXO/rexstan/pull/146) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [less strict code complexity rules](https://github.com/FriendsOfREDAXO/rexstan/pull/145) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [added type inference tests](https://github.com/FriendsOfREDAXO/rexstan/pull/144) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [XMLWriter::startElementNS() $namespace arg is nullable](https://github.com/phpstan/phpstan-src/pull/1772) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Remove outdated changelog.md](https://github.com/symplify/symplify/pull/4416) on [symplify/symplify](https://github.com/symplify/symplify) (today)
@@ -53,8 +55,6 @@
 - [factor out RexGetValueReflection](https://github.com/FriendsOfREDAXO/rexstan/pull/137) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [added more integer range vs. int constants tests](https://github.com/phpstan/phpstan-src/pull/1750) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1749) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [added regression test](https://github.com/phpstan/phpstan-src/pull/1748) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [support rex_user-&gt;getValue() type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/134) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
