@@ -61,7 +61,6 @@
 
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.11.1](https://github.com/Roave/BetterReflection/releases/tag/5.11.1) (today)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [5.0.0](https://github.com/amazon-php/sp-api-sdk/releases/tag/5.0.0) (1 day ago)
-- [FriendsOfREDAXO/plyr](https://github.com/FriendsOfREDAXO/plyr) - [3.20.1](https://github.com/FriendsOfREDAXO/plyr/releases/tag/3.20.1) (2 days ago)
 - [sabre-io/xml](https://github.com/sabre-io/xml) - [4.0.0](https://github.com/sabre-io/xml/releases/tag/4.0.0) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.43](https://github.com/staabm/phpstan-dba/releases/tag/0.2.43) (4 days ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.4.5](https://github.com/doctrine/dbal/releases/tag/3.4.5) (5 days ago)
@@ -69,3 +68,4 @@
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.4](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.4) (6 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.6](https://github.com/phpstan/phpstan/releases/tag/1.8.6) (6 days ago)
 - [micronax/carbon-german-holidays](https://github.com/micronax/carbon-german-holidays) - [2.4](https://github.com/micronax/carbon-german-holidays/releases/tag/2.4) (1 week ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.8.2](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.8.2) (2 weeks ago)
