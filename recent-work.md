@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [xsist10/cadfael](https://github.com/xsist10/cadfael) - [0.2.5](https://github.com/xsist10/cadfael/releases/tag/0.2.5) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.0.0](https://github.com/Roave/BetterReflection/releases/tag/6.0.0) (today)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [5.0.0](https://github.com/amazon-php/sp-api-sdk/releases/tag/5.0.0) (2 days ago)
 - [sabre-io/xml](https://github.com/sabre-io/xml) - [4.0.0](https://github.com/sabre-io/xml/releases/tag/4.0.0) (4 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.4](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.4) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.6](https://github.com/phpstan/phpstan/releases/tag/1.8.6) (1 week ago)
 - [micronax/carbon-german-holidays](https://github.com/micronax/carbon-german-holidays) - [2.4](https://github.com/micronax/carbon-german-holidays/releases/tag/2.4) (1 week ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.8.2](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.8.2) (2 weeks ago)
