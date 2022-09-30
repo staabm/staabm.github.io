@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [draft GraphApplication](https://github.com/staabm/phpstan-baseline-analysis/pull/73) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [extract AnalyzerResultReader](https://github.com/staabm/phpstan-baseline-analysis/pull/72) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [update phpstan-dba](https://github.com/FriendsOfREDAXO/rexstan/pull/146) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [less strict code complexity rules](https://github.com/FriendsOfREDAXO/rexstan/pull/145) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
@@ -54,7 +55,6 @@
 - [implement RexGetValueRule rule](https://github.com/FriendsOfREDAXO/rexstan/pull/138) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [declare more precise getClass* return types](https://github.com/phpstan/phpstan-src/pull/1754) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [factor out RexGetValueReflection](https://github.com/FriendsOfREDAXO/rexstan/pull/137) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
-- [added more integer range vs. int constants tests](https://github.com/phpstan/phpstan-src/pull/1750) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
