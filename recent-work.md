@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [5.11.1](https://github.com/Roave/BetterReflection/releases/tag/5.11.1) (1 day ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.0.0](https://github.com/Roave/BetterReflection/releases/tag/6.0.0) (today)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [5.0.0](https://github.com/amazon-php/sp-api-sdk/releases/tag/5.0.0) (2 days ago)
 - [sabre-io/xml](https://github.com/sabre-io/xml) - [4.0.0](https://github.com/sabre-io/xml/releases/tag/4.0.0) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.43](https://github.com/staabm/phpstan-dba/releases/tag/0.2.43) (5 days ago)
