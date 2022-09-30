@@ -3,13 +3,13 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [symplify/symplify](https://github.com/symplify/symplify) (2 days ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [symplify/symplify](https://github.com/symplify/symplify) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) (2 weeks ago)
 - [voku/PHPDoctor](https://github.com/voku/PHPDoctor) (2 weeks ago)
 - [xsist10/cadfael](https://github.com/xsist10/cadfael) (2 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [extract AnalyzerResultReader](https://github.com/staabm/phpstan-baseline-analysis/pull/72) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [update phpstan-dba](https://github.com/FriendsOfREDAXO/rexstan/pull/146) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [less strict code complexity rules](https://github.com/FriendsOfREDAXO/rexstan/pull/145) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [added type inference tests](https://github.com/FriendsOfREDAXO/rexstan/pull/144) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
@@ -54,7 +55,6 @@
 - [declare more precise getClass* return types](https://github.com/phpstan/phpstan-src/pull/1754) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [factor out RexGetValueReflection](https://github.com/FriendsOfREDAXO/rexstan/pull/137) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [added more integer range vs. int constants tests](https://github.com/phpstan/phpstan-src/pull/1750) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [added regression test](https://github.com/phpstan/phpstan-src/pull/1749) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
