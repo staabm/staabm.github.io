@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [added failling test for static call with `@phpstandba-inference-placeholder`](https://github.com/staabm/phpstan-dba/pull/432) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [implement error graph](https://github.com/FriendsOfREDAXO/rexstan/pull/149) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [support json format in dump-parameters command](https://github.com/phpstan/phpstan-src/pull/1778) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [implement phpstan-baseline-graph command](https://github.com/staabm/phpstan-baseline-analysis/pull/73) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
 - [extract AnalyzerResultReader](https://github.com/staabm/phpstan-baseline-analysis/pull/72) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
@@ -53,8 +55,6 @@
 - [[PHPStanRules] skip UnusedPublicClassConstRule for references via Subclasses](https://github.com/symplify/symplify/pull/4413) on [symplify/symplify](https://github.com/symplify/symplify) (6 days ago)
 - [Readme: make code samples 1:1 copy/paste&#39;able](https://github.com/symplify/symplify/pull/4410) on [symplify/symplify](https://github.com/symplify/symplify) (1 week ago)
 - [fix false positive in RexGetValueRule for `non-falsy-string` args](https://github.com/FriendsOfREDAXO/rexstan/pull/140) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [implement RexGetValueRule rule](https://github.com/FriendsOfREDAXO/rexstan/pull/138) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [declare more precise getClass* return types](https://github.com/phpstan/phpstan-src/pull/1754) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
