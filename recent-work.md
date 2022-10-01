@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.48](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.48) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.44](https://github.com/staabm/phpstan-dba/releases/tag/0.2.44) (today)
 - [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) - [3.9.1](https://github.com/FriendsOfREDAXO/developer/releases/tag/3.9.1) (today)
 - [xsist10/cadfael](https://github.com/xsist10/cadfael) - [0.2.5](https://github.com/xsist10/cadfael/releases/tag/0.2.5) (1 day ago)
@@ -66,6 +67,5 @@
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [5.0.0](https://github.com/amazon-php/sp-api-sdk/releases/tag/5.0.0) (3 days ago)
 - [sabre-io/xml](https://github.com/sabre-io/xml) - [4.0.0](https://github.com/sabre-io/xml/releases/tag/4.0.0) (5 days ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.4.5](https://github.com/doctrine/dbal/releases/tag/3.4.5) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.47](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.47) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.4](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.4) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.6](https://github.com/phpstan/phpstan/releases/tag/1.8.6) (1 week ago)
