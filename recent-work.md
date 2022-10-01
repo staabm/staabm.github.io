@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [draft GraphApplication](https://github.com/staabm/phpstan-baseline-analysis/pull/73) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
+- [implement phpstan-baseline-graph command](https://github.com/staabm/phpstan-baseline-analysis/pull/73) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
 - [extract AnalyzerResultReader](https://github.com/staabm/phpstan-baseline-analysis/pull/72) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
 - [update phpstan-dba](https://github.com/FriendsOfREDAXO/rexstan/pull/146) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [less strict code complexity rules](https://github.com/FriendsOfREDAXO/rexstan/pull/145) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) - [3.9.1](https://github.com/FriendsOfREDAXO/developer/releases/tag/3.9.1) (today)
 - [xsist10/cadfael](https://github.com/xsist10/cadfael) - [0.2.5](https://github.com/xsist10/cadfael/releases/tag/0.2.5) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.0.0](https://github.com/Roave/BetterReflection/releases/tag/6.0.0) (1 day ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [5.0.0](https://github.com/amazon-php/sp-api-sdk/releases/tag/5.0.0) (3 days ago)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.47](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.47) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.4](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.4) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.6](https://github.com/phpstan/phpstan/releases/tag/1.8.6) (1 week ago)
-- [micronax/carbon-german-holidays](https://github.com/micronax/carbon-german-holidays) - [2.4](https://github.com/micronax/carbon-german-holidays/releases/tag/2.4) (1 week ago)
