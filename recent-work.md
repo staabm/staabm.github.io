@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [use `rex_sql::escapeLikeWildcards()`](https://github.com/redaxo/redaxo/pull/5348) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [detect possible sql injections](https://github.com/FriendsOfREDAXO/rexstan/pull/155) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [mark all vendor/bin/* files as executable](https://github.com/FriendsOfREDAXO/rexstan/pull/154) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [use constants](https://github.com/FriendsOfREDAXO/rexstan/pull/153) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [implement RexGetRule](https://github.com/FriendsOfREDAXO/rexstan/pull/152) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
@@ -53,8 +55,6 @@
 - [update phpstan-dba](https://github.com/FriendsOfREDAXO/rexstan/pull/146) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [less strict code complexity rules](https://github.com/FriendsOfREDAXO/rexstan/pull/145) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [added type inference tests](https://github.com/FriendsOfREDAXO/rexstan/pull/144) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [XMLWriter::startElementNS() $namespace arg is nullable](https://github.com/phpstan/phpstan-src/pull/1772) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Remove outdated changelog.md](https://github.com/symplify/symplify/pull/4416) on [symplify/symplify](https://github.com/symplify/symplify) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
