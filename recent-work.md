@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [support encapsed strings](https://github.com/staabm/phpstan-dba/pull/433) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [use `rex_sql::escapeLikeWildcards()`](https://github.com/redaxo/redaxo/pull/5348) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [detect possible sql injections](https://github.com/FriendsOfREDAXO/rexstan/pull/155) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [mark all vendor/bin/* files as executable](https://github.com/FriendsOfREDAXO/rexstan/pull/154) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
@@ -54,7 +55,6 @@
 - [extract AnalyzerResultReader](https://github.com/staabm/phpstan-baseline-analysis/pull/72) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
 - [update phpstan-dba](https://github.com/FriendsOfREDAXO/rexstan/pull/146) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [less strict code complexity rules](https://github.com/FriendsOfREDAXO/rexstan/pull/145) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [added type inference tests](https://github.com/FriendsOfREDAXO/rexstan/pull/144) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
