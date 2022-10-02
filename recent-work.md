@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [use constants](https://github.com/FriendsOfREDAXO/rexstan/pull/153) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [implement RexGetRule](https://github.com/FriendsOfREDAXO/rexstan/pull/152) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [fix false-positive when comparing `&#39;rex_&#39;` with `rex::getTablePrefix()`](https://github.com/FriendsOfREDAXO/rexstan/pull/150) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [added `@phpstandba-inference-placeholder` to `rex::getTablePrefix()`](https://github.com/redaxo/redaxo/pull/5346) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [support `@phpstandba-inference-placeholder` on static method calls](https://github.com/staabm/phpstan-dba/pull/432) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
@@ -53,8 +55,6 @@
 - [XMLWriter::startElementNS() $namespace arg is nullable](https://github.com/phpstan/phpstan-src/pull/1772) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Remove outdated changelog.md](https://github.com/symplify/symplify/pull/4416) on [symplify/symplify](https://github.com/symplify/symplify) (4 days ago)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1762) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [added mysqli::execute_query() support (php 8.2&#43; only)](https://github.com/staabm/phpstan-dba/pull/430) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [[PHPStanRules] skip UnusedPublicClassConstRule for references via Subclasses](https://github.com/symplify/symplify/pull/4413) on [symplify/symplify](https://github.com/symplify/symplify) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
