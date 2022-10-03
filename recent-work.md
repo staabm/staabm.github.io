@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Report invalid constructor property promotion for readonly props already defined in parent class constructor](https://github.com/phpstan/phpstan-src/pull/1788) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [fix time_nanosleep return type signature](https://github.com/phpstan/phpstan-src/pull/1787) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [implement rexstan tips / faq links](https://github.com/FriendsOfREDAXO/rexstan/pull/158) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [support `non-falsy-string` in rex_sql::escape()](https://github.com/redaxo/redaxo/pull/5350) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
@@ -54,7 +55,6 @@
 - [mark all vendor/bin/* files as executable](https://github.com/FriendsOfREDAXO/rexstan/pull/154) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [use constants](https://github.com/FriendsOfREDAXO/rexstan/pull/153) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [implement RexGetRule](https://github.com/FriendsOfREDAXO/rexstan/pull/152) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [fix false-positive when comparing `&#39;rex_&#39;` with `rex::getTablePrefix()`](https://github.com/FriendsOfREDAXO/rexstan/pull/150) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
