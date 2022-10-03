@@ -3,14 +3,14 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (5 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) (2 weeks ago)
 - [voku/PHPDoctor](https://github.com/voku/PHPDoctor) (2 weeks ago)
 
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [composer update](https://github.com/FriendsOfREDAXO/rexstan/pull/157) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [extract PhpDocUtil](https://github.com/staabm/phpstan-dba/pull/435) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [added `@phpstandba-inference-placeholder` to `rex_article_slice_history::getTablePrefix()`](https://github.com/redaxo/redaxo/pull/5349) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [update staabm/phpstan-dba](https://github.com/FriendsOfREDAXO/rexstan/pull/156) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [support `@phpstandba-inference-placeholder` on calls via variable](https://github.com/staabm/phpstan-dba/pull/434) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
@@ -53,13 +55,11 @@
 - [added `@phpstandba-inference-placeholder` to `rex::getTablePrefix()`](https://github.com/redaxo/redaxo/pull/5346) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [support `@phpstandba-inference-placeholder` on static method calls](https://github.com/staabm/phpstan-dba/pull/432) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [implement error graph](https://github.com/FriendsOfREDAXO/rexstan/pull/149) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [support json format in dump-parameters command](https://github.com/phpstan/phpstan-src/pull/1778) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [implement phpstan-baseline-graph command](https://github.com/staabm/phpstan-baseline-analysis/pull/73) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.45](https://github.com/staabm/phpstan-dba/releases/tag/0.2.45) (1 day ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.46](https://github.com/staabm/phpstan-dba/releases/tag/0.2.46) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.48](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.48) (2 days ago)
 - [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) - [3.9.1](https://github.com/FriendsOfREDAXO/developer/releases/tag/3.9.1) (2 days ago)
 - [xsist10/cadfael](https://github.com/xsist10/cadfael) - [0.2.5](https://github.com/xsist10/cadfael/releases/tag/0.2.5) (3 days ago)
