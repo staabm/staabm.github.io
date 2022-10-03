@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [support `non-falsy-string` in rex_sql::escape()](https://github.com/redaxo/redaxo/pull/5350) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [composer update](https://github.com/FriendsOfREDAXO/rexstan/pull/157) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [extract PhpDocUtil](https://github.com/staabm/phpstan-dba/pull/435) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [added `@phpstandba-inference-placeholder` to `rex_article_slice_history::getTablePrefix()`](https://github.com/redaxo/redaxo/pull/5349) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
@@ -54,11 +55,11 @@
 - [fix false-positive when comparing `&#39;rex_&#39;` with `rex::getTablePrefix()`](https://github.com/FriendsOfREDAXO/rexstan/pull/150) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [added `@phpstandba-inference-placeholder` to `rex::getTablePrefix()`](https://github.com/redaxo/redaxo/pull/5346) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [support `@phpstandba-inference-placeholder` on static method calls](https://github.com/staabm/phpstan-dba/pull/432) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
-- [implement error graph](https://github.com/FriendsOfREDAXO/rexstan/pull/149) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.1.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.1.0) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.46](https://github.com/staabm/phpstan-dba/releases/tag/0.2.46) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.48](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.48) (2 days ago)
 - [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) - [3.9.1](https://github.com/FriendsOfREDAXO/developer/releases/tag/3.9.1) (2 days ago)
@@ -68,4 +69,3 @@
 - [sabre-io/xml](https://github.com/sabre-io/xml) - [4.0.0](https://github.com/sabre-io/xml/releases/tag/4.0.0) (1 week ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.4.5](https://github.com/doctrine/dbal/releases/tag/3.4.5) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.4](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.4) (1 week ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.6](https://github.com/phpstan/phpstan/releases/tag/1.8.6) (1 week ago)
