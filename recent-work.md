@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix time_nanosleep return type signature](https://github.com/phpstan/phpstan-src/pull/1787) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [implement rexstan tips / faq links](https://github.com/FriendsOfREDAXO/rexstan/pull/158) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [support `non-falsy-string` in rex_sql::escape()](https://github.com/redaxo/redaxo/pull/5350) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [composer update](https://github.com/FriendsOfREDAXO/rexstan/pull/157) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
@@ -54,7 +55,6 @@
 - [use constants](https://github.com/FriendsOfREDAXO/rexstan/pull/153) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [implement RexGetRule](https://github.com/FriendsOfREDAXO/rexstan/pull/152) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [fix false-positive when comparing `&#39;rex_&#39;` with `rex::getTablePrefix()`](https://github.com/FriendsOfREDAXO/rexstan/pull/150) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [added `@phpstandba-inference-placeholder` to `rex::getTablePrefix()`](https://github.com/redaxo/redaxo/pull/5346) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
