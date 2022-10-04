@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.7](https://github.com/phpstan/phpstan/releases/tag/1.8.7) (today)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.1.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.1.0) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.46](https://github.com/staabm/phpstan-dba/releases/tag/0.2.46) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.48](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.48) (3 days ago)
@@ -68,4 +69,3 @@
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [5.0.0](https://github.com/amazon-php/sp-api-sdk/releases/tag/5.0.0) (6 days ago)
 - [sabre-io/xml](https://github.com/sabre-io/xml) - [4.0.0](https://github.com/sabre-io/xml/releases/tag/4.0.0) (1 week ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.4.5](https://github.com/doctrine/dbal/releases/tag/3.4.5) (1 week ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.4](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.4) (1 week ago)
