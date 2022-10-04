@@ -4,8 +4,8 @@
 #### 💻 Check out what I'm currently working on
 
 - [zf1s/zf1](https://github.com/zf1s/zf1) (today)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.49](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.49) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.7](https://github.com/phpstan/phpstan/releases/tag/1.8.7) (today)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.1.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.1.0) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.46](https://github.com/staabm/phpstan-dba/releases/tag/0.2.46) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.48](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.48) (3 days ago)
 - [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) - [3.9.1](https://github.com/FriendsOfREDAXO/developer/releases/tag/3.9.1) (3 days ago)
 - [xsist10/cadfael](https://github.com/xsist10/cadfael) - [0.2.5](https://github.com/xsist10/cadfael/releases/tag/0.2.5) (4 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.0.0](https://github.com/Roave/BetterReflection/releases/tag/6.0.0) (4 days ago)
