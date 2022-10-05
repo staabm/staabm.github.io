@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [define more taint-sinks in rex_sql](https://github.com/redaxo/redaxo/pull/5353) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [Cover expr ExprPrinter by bc promise](https://github.com/phpstan/phpstan-src/pull/1794) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Report invalid constructor property promotion for readonly props already defined in parent class constructor](https://github.com/phpstan/phpstan-src/pull/1788) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [fix time_nanosleep return type signature](https://github.com/phpstan/phpstan-src/pull/1787) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [use `rex_sql::escapeLikeWildcards()`](https://github.com/redaxo/redaxo/pull/5348) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
 - [detect possible sql injections](https://github.com/FriendsOfREDAXO/rexstan/pull/155) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [mark all vendor/bin/* files as executable](https://github.com/FriendsOfREDAXO/rexstan/pull/154) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [use constants](https://github.com/FriendsOfREDAXO/rexstan/pull/153) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
