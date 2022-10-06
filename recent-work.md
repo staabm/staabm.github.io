@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.9.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.9.0) (today)
 - [zf1s/zf1](https://github.com/zf1s/zf1) - [1.15.0](https://github.com/zf1s/zf1/releases/tag/1.15.0) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.1.0](https://github.com/Roave/BetterReflection/releases/tag/6.1.0) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.49](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.49) (2 days ago)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) - [3.9.1](https://github.com/FriendsOfREDAXO/developer/releases/tag/3.9.1) (5 days ago)
 - [xsist10/cadfael](https://github.com/xsist10/cadfael) - [0.2.5](https://github.com/xsist10/cadfael/releases/tag/0.2.5) (6 days ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - [5.0.0](https://github.com/amazon-php/sp-api-sdk/releases/tag/5.0.0) (1 week ago)
-- [sabre-io/xml](https://github.com/sabre-io/xml) - [4.0.0](https://github.com/sabre-io/xml/releases/tag/4.0.0) (1 week ago)
