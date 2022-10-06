@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [support out-of-class MethodCalls in PhpDocUtil](https://github.com/staabm/phpstan-dba/pull/436) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [define more taint-sinks in rex_sql](https://github.com/redaxo/redaxo/pull/5353) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [Cover expr ExprPrinter by bc promise](https://github.com/phpstan/phpstan-src/pull/1794) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Report invalid constructor property promotion for readonly props already defined in parent class constructor](https://github.com/phpstan/phpstan-src/pull/1788) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -54,7 +55,6 @@
 - [support encapsed strings](https://github.com/staabm/phpstan-dba/pull/433) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [use `rex_sql::escapeLikeWildcards()`](https://github.com/redaxo/redaxo/pull/5348) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (4 days ago)
 - [detect possible sql injections](https://github.com/FriendsOfREDAXO/rexstan/pull/155) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [mark all vendor/bin/* files as executable](https://github.com/FriendsOfREDAXO/rexstan/pull/154) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
