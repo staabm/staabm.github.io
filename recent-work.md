@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [support `array_map` based escaping](https://github.com/FriendsOfREDAXO/rexstan/pull/162) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [added sql escaping](https://github.com/redaxo/redaxo/pull/5356) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [remove magic values, use constants instead](https://github.com/redaxo/redaxo/pull/5355) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [added sql escaping](https://github.com/FriendsOfREDAXO/developer/pull/99) on [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (today)
@@ -54,7 +55,6 @@
 - [extract PhpDocUtil](https://github.com/staabm/phpstan-dba/pull/435) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [added `@phpstandba-inference-placeholder` to `rex_article_slice_history::getTablePrefix()`](https://github.com/redaxo/redaxo/pull/5349) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
 - [update staabm/phpstan-dba](https://github.com/FriendsOfREDAXO/rexstan/pull/156) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
-- [support `@phpstandba-inference-placeholder` on calls via variable](https://github.com/staabm/phpstan-dba/pull/434) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
