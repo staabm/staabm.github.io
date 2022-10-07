@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/media_manager_plus](https://github.com/FriendsOfREDAXO/media_manager_plus) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -12,7 +13,6 @@
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (6 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
-- [composer/composer](https://github.com/composer/composer) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [added sql escaping](https://github.com/redaxo/redaxo/pull/5356) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [remove magic values, use constants instead](https://github.com/redaxo/redaxo/pull/5355) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [added sql escaping](https://github.com/FriendsOfREDAXO/developer/pull/99) on [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (today)
 - [support out-of-class MethodCalls in PhpDocUtil](https://github.com/staabm/phpstan-dba/pull/436) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [define more taint-sinks in rex_sql](https://github.com/redaxo/redaxo/pull/5353) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [Cover expr ExprPrinter by bc promise](https://github.com/phpstan/phpstan-src/pull/1794) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -52,9 +55,6 @@
 - [added `@phpstandba-inference-placeholder` to `rex_article_slice_history::getTablePrefix()`](https://github.com/redaxo/redaxo/pull/5349) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
 - [update staabm/phpstan-dba](https://github.com/FriendsOfREDAXO/rexstan/pull/156) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [support `@phpstandba-inference-placeholder` on calls via variable](https://github.com/staabm/phpstan-dba/pull/434) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [support encapsed strings](https://github.com/staabm/phpstan-dba/pull/433) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [use `rex_sql::escapeLikeWildcards()`](https://github.com/redaxo/redaxo/pull/5348) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
-- [detect possible sql injections](https://github.com/FriendsOfREDAXO/rexstan/pull/155) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
