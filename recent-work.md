@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.2.0](https://github.com/Roave/BetterReflection/releases/tag/6.2.0) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.47](https://github.com/staabm/phpstan-dba/releases/tag/0.2.47) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.51](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.51) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.28.0](https://github.com/vimeo/psalm/releases/tag/4.28.0) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.8](https://github.com/phpstan/phpstan/releases/tag/1.8.8) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.9.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.9.0) (2 days ago)
 - [zf1s/zf1](https://github.com/zf1s/zf1) - [1.15.0](https://github.com/zf1s/zf1/releases/tag/1.15.0) (3 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.1.0](https://github.com/Roave/BetterReflection/releases/tag/6.1.0) (4 days ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.1.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.1.0) (5 days ago)
 - [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) - [3.9.1](https://github.com/FriendsOfREDAXO/developer/releases/tag/3.9.1) (1 week ago)
 - [xsist10/cadfael](https://github.com/xsist10/cadfael) - [0.2.5](https://github.com/xsist10/cadfael/releases/tag/0.2.5) (1 week ago)
