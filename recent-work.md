@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [FriendsOfREDAXO/media_manager_plus](https://github.com/FriendsOfREDAXO/media_manager_plus) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
 - [zf1s/zf1](https://github.com/zf1s/zf1) (4 days ago)
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [removed useless `isset` calls](https://github.com/redaxo/redaxo/pull/5358) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [update phpstan-dba to 0.2.47](https://github.com/FriendsOfREDAXO/rexstan/pull/166) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [support non-conditional `@psalm-taint-escape sql`](https://github.com/staabm/phpstan-dba/pull/437) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [remove no longer relevant `function_exists(&#39;ImageCreateTrueColor&#39;)`](https://github.com/redaxo/redaxo/pull/5357) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [rexstan tip: &#34;Wie mit dem Fehler `Function X not found.` umgehen?&#34;](https://github.com/FriendsOfREDAXO/rexstan/pull/163) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [support `array_map` based escaping](https://github.com/FriendsOfREDAXO/rexstan/pull/162) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -52,13 +55,11 @@
 - [Report invalid constructor property promotion for readonly props already defined in parent class constructor](https://github.com/phpstan/phpstan-src/pull/1788) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [fix time_nanosleep return type signature](https://github.com/phpstan/phpstan-src/pull/1787) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [implement rexstan tips / faq links](https://github.com/FriendsOfREDAXO/rexstan/pull/158) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
-- [support `non-falsy-string` in `rex_sql::escape()`](https://github.com/redaxo/redaxo/pull/5350) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
-- [composer update](https://github.com/FriendsOfREDAXO/rexstan/pull/157) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
-- [extract PhpDocUtil](https://github.com/staabm/phpstan-dba/pull/435) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.47](https://github.com/staabm/phpstan-dba/releases/tag/0.2.47) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.51](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.51) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.28.0](https://github.com/vimeo/psalm/releases/tag/4.28.0) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.8](https://github.com/phpstan/phpstan/releases/tag/1.8.8) (2 days ago)
@@ -66,6 +67,5 @@
 - [zf1s/zf1](https://github.com/zf1s/zf1) - [1.15.0](https://github.com/zf1s/zf1/releases/tag/1.15.0) (3 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.1.0](https://github.com/Roave/BetterReflection/releases/tag/6.1.0) (4 days ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.1.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.1.0) (5 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.46](https://github.com/staabm/phpstan-dba/releases/tag/0.2.46) (5 days ago)
 - [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) - [3.9.1](https://github.com/FriendsOfREDAXO/developer/releases/tag/3.9.1) (1 week ago)
 - [xsist10/cadfael](https://github.com/xsist10/cadfael) - [0.2.5](https://github.com/xsist10/cadfael/releases/tag/0.2.5) (1 week ago)
