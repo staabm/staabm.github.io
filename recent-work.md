@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [remove no longer relevant `function_exists(&#39;ImageCreateTrueColor&#39;)`](https://github.com/redaxo/redaxo/pull/5357) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [rexstan tip: &#34;Wie mit dem Fehler `Function X not found.` umgehen?&#34;](https://github.com/FriendsOfREDAXO/rexstan/pull/163) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [support `array_map` based escaping](https://github.com/FriendsOfREDAXO/rexstan/pull/162) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [added sql escaping](https://github.com/redaxo/redaxo/pull/5356) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [remove magic values, use constants instead](https://github.com/redaxo/redaxo/pull/5355) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
@@ -53,14 +55,12 @@
 - [support `non-falsy-string` in `rex_sql::escape()`](https://github.com/redaxo/redaxo/pull/5350) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
 - [composer update](https://github.com/FriendsOfREDAXO/rexstan/pull/157) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [extract PhpDocUtil](https://github.com/staabm/phpstan-dba/pull/435) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [added `@phpstandba-inference-placeholder` to `rex_article_slice_history::getTablePrefix()`](https://github.com/redaxo/redaxo/pull/5349) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
-- [update staabm/phpstan-dba](https://github.com/FriendsOfREDAXO/rexstan/pull/156) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.51](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.51) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.28.0](https://github.com/vimeo/psalm/releases/tag/4.28.0) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.50](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.50) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.8](https://github.com/phpstan/phpstan/releases/tag/1.8.8) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.9.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.9.0) (2 days ago)
 - [zf1s/zf1](https://github.com/zf1s/zf1) - [1.15.0](https://github.com/zf1s/zf1/releases/tag/1.15.0) (3 days ago)
