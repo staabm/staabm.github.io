@@ -5,9 +5,9 @@
 
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [FriendsOfREDAXO/media_manager_plus](https://github.com/FriendsOfREDAXO/media_manager_plus) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
 - [zf1s/zf1](https://github.com/zf1s/zf1) (4 days ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (5 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [removed always true condition](https://github.com/redaxo/redaxo/pull/5359) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [removed useless `isset` calls](https://github.com/redaxo/redaxo/pull/5358) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [update phpstan-dba to 0.2.47](https://github.com/FriendsOfREDAXO/rexstan/pull/166) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [support non-conditional `@psalm-taint-escape sql`](https://github.com/staabm/phpstan-dba/pull/437) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
@@ -54,7 +55,6 @@
 - [Cover expr ExprPrinter by bc promise](https://github.com/phpstan/phpstan-src/pull/1794) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Report invalid constructor property promotion for readonly props already defined in parent class constructor](https://github.com/phpstan/phpstan-src/pull/1788) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [fix time_nanosleep return type signature](https://github.com/phpstan/phpstan-src/pull/1787) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [implement rexstan tips / faq links](https://github.com/FriendsOfREDAXO/rexstan/pull/158) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
