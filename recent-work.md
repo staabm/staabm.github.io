@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Support `positive-int` IntersectionType in preprared parameters](https://github.com/staabm/phpstan-dba/pull/440) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Support `positive-int` IntersectionType in un-named preprared parameters](https://github.com/staabm/phpstan-dba/pull/440) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [fix phpdoc parsing with whitespaces/contents after values](https://github.com/staabm/phpstan-dba/pull/438) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Add @param-out support](https://github.com/phpstan/phpstan-src/pull/1804) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [implement `@param-out` tag](https://github.com/phpstan/phpdoc-parser/pull/150) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 days ago)
