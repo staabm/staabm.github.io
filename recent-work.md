@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [FriendsOfREDAXO/media_manager_plus](https://github.com/FriendsOfREDAXO/media_manager_plus) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [zf1s/zf1](https://github.com/zf1s/zf1) (6 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix phpdoc parsing with whitespaces/contents after values](https://github.com/staabm/phpstan-dba/pull/438) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Add @param-out support](https://github.com/phpstan/phpstan-src/pull/1804) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [implement `@param-out` tag](https://github.com/phpstan/phpdoc-parser/pull/150) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 days ago)
 - [removed always true condition](https://github.com/redaxo/redaxo/pull/5359) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
@@ -54,13 +55,12 @@
 - [added sql escaping](https://github.com/FriendsOfREDAXO/developer/pull/99) on [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (3 days ago)
 - [support out-of-class MethodCalls in PhpDocUtil](https://github.com/staabm/phpstan-dba/pull/436) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [define more taint-sinks in rex_sql](https://github.com/redaxo/redaxo/pull/5353) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
-- [Cover expr ExprPrinter by bc promise](https://github.com/phpstan/phpstan-src/pull/1794) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.48](https://github.com/staabm/phpstan-dba/releases/tag/0.2.48) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.2.0](https://github.com/Roave/BetterReflection/releases/tag/6.2.0) (2 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.47](https://github.com/staabm/phpstan-dba/releases/tag/0.2.47) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.51](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.51) (2 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.28.0](https://github.com/vimeo/psalm/releases/tag/4.28.0) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.8](https://github.com/phpstan/phpstan/releases/tag/1.8.8) (4 days ago)
