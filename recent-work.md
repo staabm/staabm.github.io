@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
@@ -12,7 +13,6 @@
 - [symplify/symplify](https://github.com/symplify/symplify) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -59,12 +59,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.10.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.10.0) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.29.0](https://github.com/vimeo/psalm/releases/tag/4.29.0) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.48](https://github.com/staabm/phpstan-dba/releases/tag/0.2.48) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.2.0](https://github.com/Roave/BetterReflection/releases/tag/6.2.0) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.51](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.51) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.8](https://github.com/phpstan/phpstan/releases/tag/1.8.8) (6 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.9.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.9.0) (6 days ago)
 - [zf1s/zf1](https://github.com/zf1s/zf1) - [1.15.0](https://github.com/zf1s/zf1/releases/tag/1.15.0) (1 week ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.1.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.1.0) (1 week ago)
 - [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) - [3.9.1](https://github.com/FriendsOfREDAXO/developer/releases/tag/3.9.1) (1 week ago)
