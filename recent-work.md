@@ -5,6 +5,7 @@
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [FriendsOfREDAXO/media_manager_plus](https://github.com/FriendsOfREDAXO/media_manager_plus) (6 days ago)
@@ -12,7 +13,6 @@
 - [zf1s/zf1](https://github.com/zf1s/zf1) (1 week ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
