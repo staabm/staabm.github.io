@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [implement FunctionReflection-&gt;getDocComment()](https://github.com/phpstan/phpstan-src/pull/1834) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1824) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [added bug 7692 regression test](https://github.com/phpstan/phpstan-src/pull/1820) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1819) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [remove no longer relevant `function_exists(&#39;ImageCreateTrueColor&#39;)`](https://github.com/redaxo/redaxo/pull/5357) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
 - [rexstan tip: &#34;Wie mit dem Fehler `Function X not found.` umgehen?&#34;](https://github.com/FriendsOfREDAXO/rexstan/pull/163) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [support `array_map` based escaping](https://github.com/FriendsOfREDAXO/rexstan/pull/162) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
-- [added sql escaping](https://github.com/redaxo/redaxo/pull/5356) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
