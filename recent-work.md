@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (4 days ago)
 - [FriendsOfREDAXO/media_manager_plus](https://github.com/FriendsOfREDAXO/media_manager_plus) (6 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [zf1s/zf1](https://github.com/zf1s/zf1) (1 week ago)
