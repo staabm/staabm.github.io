@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [support yakamara directoy layout](https://github.com/FriendsOfREDAXO/rexstan/pull/180) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [auto-register `functions/` folder of addons](https://github.com/FriendsOfREDAXO/rexstan/pull/179) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [cover escape scenarios in tests](https://github.com/FriendsOfREDAXO/rexstan/pull/176) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [implement FunctionReflection-&gt;getDocComment()](https://github.com/phpstan/phpstan-src/pull/1834) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1824) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -53,12 +55,11 @@
 - [removed useless `isset` calls](https://github.com/redaxo/redaxo/pull/5358) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
 - [update phpstan-dba to 0.2.47](https://github.com/FriendsOfREDAXO/rexstan/pull/166) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [support non-conditional `@psalm-taint-escape sql`](https://github.com/staabm/phpstan-dba/pull/437) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
-- [remove no longer relevant `function_exists(&#39;ImageCreateTrueColor&#39;)`](https://github.com/redaxo/redaxo/pull/5357) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
-- [rexstan tip: &#34;Wie mit dem Fehler `Function X not found.` umgehen?&#34;](https://github.com/FriendsOfREDAXO/rexstan/pull/163) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/composer](https://github.com/composer/composer) - [2.4.3](https://github.com/composer/composer/releases/tag/2.4.3) (today)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.11.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.11.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.9](https://github.com/phpstan/phpstan/releases/tag/1.8.9) (1 day ago)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.51](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.51) (6 days ago)
 - [zf1s/zf1](https://github.com/zf1s/zf1) - [1.15.0](https://github.com/zf1s/zf1/releases/tag/1.15.0) (1 week ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.1.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.1.0) (1 week ago)
-- [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) - [3.9.1](https://github.com/FriendsOfREDAXO/developer/releases/tag/3.9.1) (1 week ago)
