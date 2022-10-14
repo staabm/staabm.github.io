@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [more precise tip](https://github.com/symplify/symplify/pull/4429) on [symplify/symplify](https://github.com/symplify/symplify) (today)
 - [support yakamara directoy layout](https://github.com/FriendsOfREDAXO/rexstan/pull/180) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [auto-register `functions/` folder of addons](https://github.com/FriendsOfREDAXO/rexstan/pull/179) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [cover escape scenarios in tests](https://github.com/FriendsOfREDAXO/rexstan/pull/176) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -54,7 +55,6 @@
 - [removed always true condition](https://github.com/redaxo/redaxo/pull/5359) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
 - [removed useless `isset` calls](https://github.com/redaxo/redaxo/pull/5358) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
 - [update phpstan-dba to 0.2.47](https://github.com/FriendsOfREDAXO/rexstan/pull/166) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
-- [support non-conditional `@psalm-taint-escape sql`](https://github.com/staabm/phpstan-dba/pull/437) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
