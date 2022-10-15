@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [prototype console autocomplete](https://github.com/redaxo/redaxo/pull/5386) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [console: support version-constraints in `install:download`](https://github.com/redaxo/redaxo/pull/5385) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [more precise tip](https://github.com/symplify/symplify/pull/4429) on [symplify/symplify](https://github.com/symplify/symplify) (1 day ago)
 - [support yakamara directoy layout](https://github.com/FriendsOfREDAXO/rexstan/pull/180) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -54,7 +55,6 @@
 - [Add @param-out support](https://github.com/phpstan/phpstan-src/pull/1804) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [implement `@param-out` tag](https://github.com/phpstan/phpdoc-parser/pull/150) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
 - [removed always true condition](https://github.com/redaxo/redaxo/pull/5359) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
-- [removed useless `isset` calls](https://github.com/redaxo/redaxo/pull/5358) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
