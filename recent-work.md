@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [symplify/symplify](https://github.com/symplify/symplify) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [FriendsOfREDAXO/media_manager_plus](https://github.com/FriendsOfREDAXO/media_manager_plus) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [zf1s/zf1](https://github.com/zf1s/zf1) (1 week ago)
-- [symplify/symplify](https://github.com/symplify/symplify) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 weeks ago)
 
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [use rexstan namespace](https://github.com/FriendsOfREDAXO/rexstan/pull/182) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [prototype console autocomplete](https://github.com/redaxo/redaxo/pull/5386) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [console: support version-constraints in `install:download`](https://github.com/redaxo/redaxo/pull/5385) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [more precise tip](https://github.com/symplify/symplify/pull/4429) on [symplify/symplify](https://github.com/symplify/symplify) (1 day ago)
@@ -54,7 +55,6 @@
 - [fix phpdoc parsing with whitespaces/contents after values](https://github.com/staabm/phpstan-dba/pull/438) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [Add @param-out support](https://github.com/phpstan/phpstan-src/pull/1804) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [implement `@param-out` tag](https://github.com/phpstan/phpdoc-parser/pull/150) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
-- [removed always true condition](https://github.com/redaxo/redaxo/pull/5359) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
