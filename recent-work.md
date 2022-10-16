@@ -3,14 +3,14 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [symplify/symplify](https://github.com/symplify/symplify) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (3 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 - [FriendsOfREDAXO/media_manager_plus](https://github.com/FriendsOfREDAXO/media_manager_plus) (1 week ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [zf1s/zf1](https://github.com/zf1s/zf1) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 weeks ago)
 
@@ -48,7 +48,7 @@
 - [support yakamara directoy layout](https://github.com/FriendsOfREDAXO/rexstan/pull/180) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [auto-register `functions/` folder of addons](https://github.com/FriendsOfREDAXO/rexstan/pull/179) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [cover escape scenarios in tests](https://github.com/FriendsOfREDAXO/rexstan/pull/176) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [implement FunctionReflection-&gt;getDocComment()](https://github.com/phpstan/phpstan-src/pull/1834) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Implement FunctionReflection-&gt;getDocComment()](https://github.com/phpstan/phpstan-src/pull/1834) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1824) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [added bug 7692 regression test](https://github.com/phpstan/phpstan-src/pull/1820) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1819) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
