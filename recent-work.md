@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [MixedType: support subtracted in array-type methods](https://github.com/phpstan/phpstan-src/pull/1852) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [use rexstan namespace](https://github.com/FriendsOfREDAXO/rexstan/pull/182) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [prototype console autocomplete](https://github.com/redaxo/redaxo/pull/5386) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [console: support version-constraints in `install:download`](https://github.com/redaxo/redaxo/pull/5385) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
@@ -54,7 +55,6 @@
 - [Support `positive-int` IntersectionType in un-named preprared parameters](https://github.com/staabm/phpstan-dba/pull/440) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 - [fix phpdoc parsing with whitespaces/contents after values](https://github.com/staabm/phpstan-dba/pull/438) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 - [Add @param-out support](https://github.com/phpstan/phpstan-src/pull/1804) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [implement `@param-out` tag](https://github.com/phpstan/phpdoc-parser/pull/150) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
