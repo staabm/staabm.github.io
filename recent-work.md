@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (2 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
 - [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (4 days ago)
@@ -40,7 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix FunctionReflection-&gt;getDocCmments() regressions](https://github.com/phpstan/phpstan-src/pull/1862) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Regression tests](https://github.com/phpstan/phpstan-src/pull/1865) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Fix FunctionReflection::getDocCmments() regressions](https://github.com/phpstan/phpstan-src/pull/1862) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1854) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [MixedType: support subtracted in array-type methods](https://github.com/phpstan/phpstan-src/pull/1852) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [use rexstan namespace](https://github.com/FriendsOfREDAXO/rexstan/pull/182) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
@@ -54,7 +55,6 @@
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1824) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [added bug 7692 regression test](https://github.com/phpstan/phpstan-src/pull/1820) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1819) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Support `positive-int` IntersectionType in un-named preprared parameters](https://github.com/staabm/phpstan-dba/pull/440) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
