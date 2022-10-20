@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [added rex_file/dir assertions](https://github.com/redaxo/redaxo/pull/5388) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [remove IsFloat and IsNumeric TypeSpecifyingExtension](https://github.com/phpstan/phpstan-src/pull/1880) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [emit warnings when xdebug is not used according to cli-flags](https://github.com/phpstan/phpstan-src/pull/1878) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [support Countable in count()](https://github.com/phpstan/phpstan-src/pull/1876) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [support yakamara directoy layout](https://github.com/FriendsOfREDAXO/rexstan/pull/180) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [auto-register `functions/` folder of available addons](https://github.com/FriendsOfREDAXO/rexstan/pull/179) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [cover escape scenarios in tests](https://github.com/FriendsOfREDAXO/rexstan/pull/176) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [Implement FunctionReflection-&gt;getDocComment()](https://github.com/phpstan/phpstan-src/pull/1834) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
