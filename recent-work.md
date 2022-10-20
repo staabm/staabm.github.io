@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [remove IsFloat and IsNumeric TypeSpecifyingExtension](https://github.com/phpstan/phpstan-src/pull/1880) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [emit warnings when xdebug is not used according to cli-flags](https://github.com/phpstan/phpstan-src/pull/1878) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [support Countable in count()](https://github.com/phpstan/phpstan-src/pull/1876) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Regression tests](https://github.com/phpstan/phpstan-src/pull/1865) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -54,11 +55,11 @@
 - [auto-register `functions/` folder of available addons](https://github.com/FriendsOfREDAXO/rexstan/pull/179) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [cover escape scenarios in tests](https://github.com/FriendsOfREDAXO/rexstan/pull/176) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [Implement FunctionReflection-&gt;getDocComment()](https://github.com/phpstan/phpstan-src/pull/1834) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [added regression test](https://github.com/phpstan/phpstan-src/pull/1824) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.5](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.5) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.12.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.12.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.10](https://github.com/phpstan/phpstan/releases/tag/1.8.10) (3 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.3.0](https://github.com/Roave/BetterReflection/releases/tag/6.3.0) (5 days ago)
@@ -68,4 +69,3 @@
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.29.0](https://github.com/vimeo/psalm/releases/tag/4.29.0) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.48](https://github.com/staabm/phpstan-dba/releases/tag/0.2.48) (1 week ago)
 - [zf1s/zf1](https://github.com/zf1s/zf1) - [1.15.0](https://github.com/zf1s/zf1/releases/tag/1.15.0) (2 weeks ago)
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.1.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.1.0) (2 weeks ago)
