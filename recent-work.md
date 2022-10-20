@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [support Countable in count()](https://github.com/phpstan/phpstan-src/pull/1876) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Regression tests](https://github.com/phpstan/phpstan-src/pull/1865) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Fix FunctionReflection::getDocCmments() regressions](https://github.com/phpstan/phpstan-src/pull/1862) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1854) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -54,17 +55,16 @@
 - [Implement FunctionReflection-&gt;getDocComment()](https://github.com/phpstan/phpstan-src/pull/1834) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1824) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [added bug 7692 regression test](https://github.com/phpstan/phpstan-src/pull/1820) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [added regression test](https://github.com/phpstan/phpstan-src/pull/1819) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.12.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.12.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.10](https://github.com/phpstan/phpstan/releases/tag/1.8.10) (3 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.3.0](https://github.com/Roave/BetterReflection/releases/tag/6.3.0) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.52](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.52) (6 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.4.3](https://github.com/composer/composer/releases/tag/2.4.3) (6 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9) (6 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.11.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.11.0) (6 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.29.0](https://github.com/vimeo/psalm/releases/tag/4.29.0) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.48](https://github.com/staabm/phpstan-dba/releases/tag/0.2.48) (1 week ago)
 - [zf1s/zf1](https://github.com/zf1s/zf1) - [1.15.0](https://github.com/zf1s/zf1/releases/tag/1.15.0) (2 weeks ago)
