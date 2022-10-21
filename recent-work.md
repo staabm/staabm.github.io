@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.12.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.12.1) (today)
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.5](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.5) (1 day ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.12.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.12.0) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.10](https://github.com/phpstan/phpstan/releases/tag/1.8.10) (4 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.3.0](https://github.com/Roave/BetterReflection/releases/tag/6.3.0) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.52](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.52) (1 week ago)
