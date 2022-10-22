@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
-- [symplify/symplify](https://github.com/symplify/symplify) (6 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
+- [symplify/symplify](https://github.com/symplify/symplify) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [FriendsOfREDAXO/media_manager_plus](https://github.com/FriendsOfREDAXO/media_manager_plus) (2 weeks ago)
 - [zf1s/zf1](https://github.com/zf1s/zf1) (2 weeks ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 weeks ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -29,7 +29,7 @@
 - [kreatifIT](https://github.com/kreatifIT) (3 weeks ago)
 - [bitshiftersgmbh](https://github.com/bitshiftersgmbh) (1 month ago)
 - [tomasnorre](https://github.com/tomasnorre) (1 month ago)
-- [elricco](https://github.com/elricco) (3 months ago)
+- [elricco](https://github.com/elricco) (4 months ago)
 - [dhirtzbruch](https://github.com/dhirtzbruch) (4 months ago)
 - [orklah](https://github.com/orklah) (5 months ago)
 - [williamdes](https://github.com/williamdes) (5 months ago)
@@ -40,29 +40,29 @@
 
 #### 🔨 My recent Pull Requests
 
-- [test param-out in constructors](https://github.com/phpstan/phpstan-src/pull/1895) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [declare `@param-out` on preg_* and mb_parse_str()](https://github.com/phpstan/phpstan-src/pull/1891) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [fixed TypeCombinator-&gt;containsNull() with late resolvable type](https://github.com/phpstan/phpstan-src/pull/1890) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [added rex_file/dir assertions](https://github.com/redaxo/redaxo/pull/5388) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
-- [remove IsFloat and IsNumeric TypeSpecifyingExtension](https://github.com/phpstan/phpstan-src/pull/1880) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [emit warnings when xdebug is not used according to cli-flags](https://github.com/phpstan/phpstan-src/pull/1878) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [support Countable in count()](https://github.com/phpstan/phpstan-src/pull/1876) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Regression tests](https://github.com/phpstan/phpstan-src/pull/1865) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Fix FunctionReflection::getDocCmments() regressions](https://github.com/phpstan/phpstan-src/pull/1862) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [added regression test](https://github.com/phpstan/phpstan-src/pull/1854) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [MixedType: support subtracted in array-type methods](https://github.com/phpstan/phpstan-src/pull/1852) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [use rexstan namespace](https://github.com/FriendsOfREDAXO/rexstan/pull/182) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
-- [prototype console autocomplete](https://github.com/redaxo/redaxo/pull/5386) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
+- [test param-out in constructors](https://github.com/phpstan/phpstan-src/pull/1895) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [declare `@param-out` on preg_* and mb_parse_str()](https://github.com/phpstan/phpstan-src/pull/1891) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [fixed TypeCombinator-&gt;containsNull() with late resolvable type](https://github.com/phpstan/phpstan-src/pull/1890) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [added rex_file/dir assertions](https://github.com/redaxo/redaxo/pull/5388) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
+- [remove IsFloat and IsNumeric TypeSpecifyingExtension](https://github.com/phpstan/phpstan-src/pull/1880) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [emit warnings when xdebug is not used according to cli-flags](https://github.com/phpstan/phpstan-src/pull/1878) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [support Countable in count()](https://github.com/phpstan/phpstan-src/pull/1876) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Regression tests](https://github.com/phpstan/phpstan-src/pull/1865) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Fix FunctionReflection::getDocCmments() regressions](https://github.com/phpstan/phpstan-src/pull/1862) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [added regression test](https://github.com/phpstan/phpstan-src/pull/1854) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [MixedType: support subtracted in array-type methods](https://github.com/phpstan/phpstan-src/pull/1852) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [use rexstan namespace](https://github.com/FriendsOfREDAXO/rexstan/pull/182) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
+- [prototype console autocomplete](https://github.com/redaxo/redaxo/pull/5386) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [console: support version-constraints in `install:download`](https://github.com/redaxo/redaxo/pull/5385) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [more precise tip](https://github.com/symplify/symplify/pull/4429) on [symplify/symplify](https://github.com/symplify/symplify) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.13.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.13.0) (today)
-- [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.5](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.5) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.10](https://github.com/phpstan/phpstan/releases/tag/1.8.10) (4 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.3.0](https://github.com/Roave/BetterReflection/releases/tag/6.3.0) (6 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.13.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.13.0) (1 day ago)
+- [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.5](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.5) (2 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.10](https://github.com/phpstan/phpstan/releases/tag/1.8.10) (5 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.3.0](https://github.com/Roave/BetterReflection/releases/tag/6.3.0) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.52](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.52) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - [2.4.3](https://github.com/composer/composer/releases/tag/2.4.3) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9) (1 week ago)
