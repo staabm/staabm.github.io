@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [implement FunctionReflection/ExtendedMethodReflection returnsByReference()](https://github.com/phpstan/phpstan-src/pull/1899) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [added is_callable() param-out](https://github.com/phpstan/phpstan-src/pull/1898) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1897) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [declare more param-out types](https://github.com/phpstan/phpstan-src/pull/1896) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Fix FunctionReflection::getDocCmments() regressions](https://github.com/phpstan/phpstan-src/pull/1862) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1854) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [MixedType: support subtracted in array-type methods](https://github.com/phpstan/phpstan-src/pull/1852) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [use rexstan namespace](https://github.com/FriendsOfREDAXO/rexstan/pull/182) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
