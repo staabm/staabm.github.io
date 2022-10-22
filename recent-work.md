@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [added is_callable() param-out](https://github.com/phpstan/phpstan-src/pull/1898) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1897) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [declare more param-out types](https://github.com/phpstan/phpstan-src/pull/1896) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [test param-out in constructors](https://github.com/phpstan/phpstan-src/pull/1895) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1854) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [MixedType: support subtracted in array-type methods](https://github.com/phpstan/phpstan-src/pull/1852) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [use rexstan namespace](https://github.com/FriendsOfREDAXO/rexstan/pull/182) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [prototype console autocomplete](https://github.com/redaxo/redaxo/pull/5386) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
