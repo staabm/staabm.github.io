@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [refactor pow() return type extension to re-use BinaryOp\Pow](https://github.com/phpstan/phpstan-src/pull/1900) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [implement FunctionReflection/ExtendedMethodReflection returnsByReference()](https://github.com/phpstan/phpstan-src/pull/1899) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [added is_callable() param-out](https://github.com/phpstan/phpstan-src/pull/1898) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1897) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Regression tests](https://github.com/phpstan/phpstan-src/pull/1865) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Fix FunctionReflection::getDocCmments() regressions](https://github.com/phpstan/phpstan-src/pull/1862) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1854) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [MixedType: support subtracted in array-type methods](https://github.com/phpstan/phpstan-src/pull/1852) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
