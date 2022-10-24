@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.9.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.9.0) (today)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.5.1](https://github.com/doctrine/dbal/releases/tag/3.5.1) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.53](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.53) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.13.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.13.0) (3 days ago)
@@ -68,4 +69,3 @@
 - [composer/composer](https://github.com/composer/composer) - [2.4.3](https://github.com/composer/composer/releases/tag/2.4.3) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9) (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.29.0](https://github.com/vimeo/psalm/releases/tag/4.29.0) (1 week ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.48](https://github.com/staabm/phpstan-dba/releases/tag/0.2.48) (2 weeks ago)
