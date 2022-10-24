@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix typo](https://github.com/symplify/symplify/pull/4450) on [symplify/symplify](https://github.com/symplify/symplify) (today)
 - [make test-suite runnable independent from project path](https://github.com/FriendsOfREDAXO/rexstan/pull/187) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [refactor pow() return type extension to re-use BinaryOp\Pow](https://github.com/phpstan/phpstan-src/pull/1900) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [implement FunctionReflection/ExtendedMethodReflection returnsByReference()](https://github.com/phpstan/phpstan-src/pull/1899) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,13 +55,12 @@
 - [emit warnings when xdebug is not used according to cli-flags](https://github.com/phpstan/phpstan-src/pull/1878) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [support Countable in count()](https://github.com/phpstan/phpstan-src/pull/1876) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Regression tests](https://github.com/phpstan/phpstan-src/pull/1865) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix FunctionReflection::getDocCmments() regressions](https://github.com/phpstan/phpstan-src/pull/1862) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/dbal](https://github.com/doctrine/dbal) - [3.5.1](https://github.com/doctrine/dbal/releases/tag/3.5.1) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.53](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.53) (today)
-- [doctrine/dbal](https://github.com/doctrine/dbal) - [4.0.0-beta1](https://github.com/doctrine/dbal/releases/tag/4.0.0-beta1) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.13.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.13.0) (3 days ago)
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.5](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.5) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.10](https://github.com/phpstan/phpstan/releases/tag/1.8.10) (1 week ago)
