@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [make test-suite runnable independent from project path](https://github.com/FriendsOfREDAXO/rexstan/pull/187) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [refactor pow() return type extension to re-use BinaryOp\Pow](https://github.com/phpstan/phpstan-src/pull/1900) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [implement FunctionReflection/ExtendedMethodReflection returnsByReference()](https://github.com/phpstan/phpstan-src/pull/1899) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [added is_callable() param-out](https://github.com/phpstan/phpstan-src/pull/1898) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,17 +55,16 @@
 - [support Countable in count()](https://github.com/phpstan/phpstan-src/pull/1876) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Regression tests](https://github.com/phpstan/phpstan-src/pull/1865) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix FunctionReflection::getDocCmments() regressions](https://github.com/phpstan/phpstan-src/pull/1862) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [added regression test](https://github.com/phpstan/phpstan-src/pull/1854) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.53](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.53) (today)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [4.0.0-beta1](https://github.com/doctrine/dbal/releases/tag/4.0.0-beta1) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.13.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.13.0) (3 days ago)
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.5](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.5) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.10](https://github.com/phpstan/phpstan/releases/tag/1.8.10) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.3.0](https://github.com/Roave/BetterReflection/releases/tag/6.3.0) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.52](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.52) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - [2.4.3](https://github.com/composer/composer/releases/tag/2.4.3) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9) (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.29.0](https://github.com/vimeo/psalm/releases/tag/4.29.0) (1 week ago)
