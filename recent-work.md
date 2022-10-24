@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [support integer-ranges in pow()](https://github.com/phpstan/phpstan-src/pull/1904) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [fix typo](https://github.com/symplify/symplify/pull/4450) on [symplify/symplify](https://github.com/symplify/symplify) (today)
 - [make test-suite runnable independent from project path](https://github.com/FriendsOfREDAXO/rexstan/pull/187) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [refactor pow() return type extension to re-use BinaryOp\Pow](https://github.com/phpstan/phpstan-src/pull/1900) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [remove IsFloat and IsNumeric TypeSpecifyingExtension](https://github.com/phpstan/phpstan-src/pull/1880) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [emit warnings when xdebug is not used according to cli-flags](https://github.com/phpstan/phpstan-src/pull/1878) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [support Countable in count()](https://github.com/phpstan/phpstan-src/pull/1876) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Regression tests](https://github.com/phpstan/phpstan-src/pull/1865) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
