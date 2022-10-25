@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Declare `@param-out` on fscanf](https://github.com/phpstan/phpstan-src/pull/1918) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [cover ExtendedMethodReflection by bc-promise](https://github.com/ondrejmirtes/BackwardCompatibilityCheck/pull/23) on [ondrejmirtes/BackwardCompatibilityCheck](https://github.com/ondrejmirtes/BackwardCompatibilityCheck) (today)
 - [cover ExtendedMethodReflection by bc-promise](https://github.com/phpstan/phpstan-src/pull/1913) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [support integer-ranges in pow()](https://github.com/phpstan/phpstan-src/pull/1904) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [declare `@param-out` on preg_* and mb_parse_str()](https://github.com/phpstan/phpstan-src/pull/1891) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [fixed TypeCombinator-&gt;containsNull() with late resolvable type](https://github.com/phpstan/phpstan-src/pull/1890) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [added rex_file/dir assertions](https://github.com/redaxo/redaxo/pull/5388) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
-- [remove IsFloat and IsNumeric TypeSpecifyingExtension](https://github.com/phpstan/phpstan-src/pull/1880) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
