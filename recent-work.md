@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix rexstan console command](https://github.com/FriendsOfREDAXO/rexstan/pull/196) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [added tests github action](https://github.com/FriendsOfREDAXO/rexstan/pull/195) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [implement type inference on `rex_request::*`](https://github.com/FriendsOfREDAXO/rexstan/pull/193) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [added regression tests](https://github.com/phpstan/phpstan-src/pull/1921) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,12 +55,11 @@
 - [added is_callable() param-out](https://github.com/phpstan/phpstan-src/pull/1898) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1897) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [declare more param-out types](https://github.com/phpstan/phpstan-src/pull/1896) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [test param-out in constructors](https://github.com/phpstan/phpstan-src/pull/1895) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.54](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.54) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.55](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.55) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.11](https://github.com/phpstan/phpstan/releases/tag/1.8.11) (2 days ago)
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.9.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.9.0) (2 days ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.5.1](https://github.com/doctrine/dbal/releases/tag/3.5.1) (2 days ago)
