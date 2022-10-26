@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [added tests github action](https://github.com/FriendsOfREDAXO/rexstan/pull/195) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [implement type inference on `rex_request::*`](https://github.com/FriendsOfREDAXO/rexstan/pull/193) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [added regression tests](https://github.com/phpstan/phpstan-src/pull/1921) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Declare `@param-out` on fscanf](https://github.com/phpstan/phpstan-src/pull/1918) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [cover ExtendedMethodReflection by bc-promise](https://github.com/ondrejmirtes/BackwardCompatibilityCheck/pull/23) on [ondrejmirtes/BackwardCompatibilityCheck](https://github.com/ondrejmirtes/BackwardCompatibilityCheck) (1 day ago)
@@ -53,8 +55,6 @@
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1897) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [declare more param-out types](https://github.com/phpstan/phpstan-src/pull/1896) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [test param-out in constructors](https://github.com/phpstan/phpstan-src/pull/1895) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [declare `@param-out` on preg_* and mb_parse_str()](https://github.com/phpstan/phpstan-src/pull/1891) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [fixed TypeCombinator-&gt;containsNull() with late resolvable type](https://github.com/phpstan/phpstan-src/pull/1890) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
