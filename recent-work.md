@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [symplify/symplify](https://github.com/symplify/symplify) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [symplify/symplify](https://github.com/symplify/symplify) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (1 week ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
 - [FriendsOfREDAXO/media_manager_plus](https://github.com/FriendsOfREDAXO/media_manager_plus) (2 weeks ago)
 - [zf1s/zf1](https://github.com/zf1s/zf1) (3 weeks ago)
@@ -26,7 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
-- [kreatifIT](https://github.com/kreatifIT) (4 weeks ago)
+- [kreatifIT](https://github.com/kreatifIT) (1 month ago)
 - [bitshiftersgmbh](https://github.com/bitshiftersgmbh) (1 month ago)
 - [tomasnorre](https://github.com/tomasnorre) (2 months ago)
 - [elricco](https://github.com/elricco) (4 months ago)
@@ -40,31 +40,31 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Declare `@param-out` on fscanf](https://github.com/phpstan/phpstan-src/pull/1918) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [cover ExtendedMethodReflection by bc-promise](https://github.com/ondrejmirtes/BackwardCompatibilityCheck/pull/23) on [ondrejmirtes/BackwardCompatibilityCheck](https://github.com/ondrejmirtes/BackwardCompatibilityCheck) (today)
-- [cover ExtendedMethodReflection by bc-promise](https://github.com/phpstan/phpstan-src/pull/1913) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [support integer-ranges in pow()](https://github.com/phpstan/phpstan-src/pull/1904) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [fix typo](https://github.com/symplify/symplify/pull/4450) on [symplify/symplify](https://github.com/symplify/symplify) (1 day ago)
-- [make test-suite runnable independent from project path](https://github.com/FriendsOfREDAXO/rexstan/pull/187) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [refactor pow() return type extension to re-use BinaryOp\Pow](https://github.com/phpstan/phpstan-src/pull/1900) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [implement FunctionReflection/ExtendedMethodReflection returnsByReference()](https://github.com/phpstan/phpstan-src/pull/1899) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [added is_callable() param-out](https://github.com/phpstan/phpstan-src/pull/1898) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [added regression test](https://github.com/phpstan/phpstan-src/pull/1897) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [declare more param-out types](https://github.com/phpstan/phpstan-src/pull/1896) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [test param-out in constructors](https://github.com/phpstan/phpstan-src/pull/1895) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [declare `@param-out` on preg_* and mb_parse_str()](https://github.com/phpstan/phpstan-src/pull/1891) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [fixed TypeCombinator-&gt;containsNull() with late resolvable type](https://github.com/phpstan/phpstan-src/pull/1890) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [added rex_file/dir assertions](https://github.com/redaxo/redaxo/pull/5388) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
+- [Declare `@param-out` on fscanf](https://github.com/phpstan/phpstan-src/pull/1918) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [cover ExtendedMethodReflection by bc-promise](https://github.com/ondrejmirtes/BackwardCompatibilityCheck/pull/23) on [ondrejmirtes/BackwardCompatibilityCheck](https://github.com/ondrejmirtes/BackwardCompatibilityCheck) (1 day ago)
+- [cover ExtendedMethodReflection by bc-promise](https://github.com/phpstan/phpstan-src/pull/1913) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [support integer-ranges in pow()](https://github.com/phpstan/phpstan-src/pull/1904) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [fix typo](https://github.com/symplify/symplify/pull/4450) on [symplify/symplify](https://github.com/symplify/symplify) (2 days ago)
+- [make test-suite runnable independent from project path](https://github.com/FriendsOfREDAXO/rexstan/pull/187) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [refactor pow() return type extension to re-use BinaryOp\Pow](https://github.com/phpstan/phpstan-src/pull/1900) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [implement FunctionReflection/ExtendedMethodReflection returnsByReference()](https://github.com/phpstan/phpstan-src/pull/1899) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [added is_callable() param-out](https://github.com/phpstan/phpstan-src/pull/1898) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [added regression test](https://github.com/phpstan/phpstan-src/pull/1897) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [declare more param-out types](https://github.com/phpstan/phpstan-src/pull/1896) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [test param-out in constructors](https://github.com/phpstan/phpstan-src/pull/1895) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [declare `@param-out` on preg_* and mb_parse_str()](https://github.com/phpstan/phpstan-src/pull/1891) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [fixed TypeCombinator-&gt;containsNull() with late resolvable type](https://github.com/phpstan/phpstan-src/pull/1890) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [added rex_file/dir assertions](https://github.com/redaxo/redaxo/pull/5388) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.54](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.54) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.11](https://github.com/phpstan/phpstan/releases/tag/1.8.11) (1 day ago)
-- [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.9.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.9.0) (1 day ago)
-- [doctrine/dbal](https://github.com/doctrine/dbal) - [3.5.1](https://github.com/doctrine/dbal/releases/tag/3.5.1) (1 day ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.13.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.13.0) (4 days ago)
-- [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.5](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.5) (5 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.54](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.54) (2 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.11](https://github.com/phpstan/phpstan/releases/tag/1.8.11) (2 days ago)
+- [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.9.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.9.0) (2 days ago)
+- [doctrine/dbal](https://github.com/doctrine/dbal) - [3.5.1](https://github.com/doctrine/dbal/releases/tag/3.5.1) (2 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.13.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.13.0) (5 days ago)
+- [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.5](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.5) (6 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.3.0](https://github.com/Roave/BetterReflection/releases/tag/6.3.0) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - [2.4.3](https://github.com/composer/composer/releases/tag/2.4.3) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9) (1 week ago)
