@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/composer](https://github.com/composer/composer) - [2.4.4](https://github.com/composer/composer/releases/tag/2.4.4) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.55](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.55) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.11](https://github.com/phpstan/phpstan/releases/tag/1.8.11) (3 days ago)
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.9.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.9.0) (3 days ago)
@@ -66,6 +67,5 @@
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.13.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.13.0) (6 days ago)
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.5](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.5) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.3.0](https://github.com/Roave/BetterReflection/releases/tag/6.3.0) (1 week ago)
-- [composer/composer](https://github.com/composer/composer) - [2.4.3](https://github.com/composer/composer/releases/tag/2.4.3) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9) (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.29.0](https://github.com/vimeo/psalm/releases/tag/4.29.0) (2 weeks ago)
