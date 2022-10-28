@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.5](https://github.com/paratestphp/paratest/releases/tag/v6.6.5) (today)
 - [composer/composer](https://github.com/composer/composer) - [2.4.4](https://github.com/composer/composer/releases/tag/2.4.4) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.55](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.55) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.8.11](https://github.com/phpstan/phpstan/releases/tag/1.8.11) (4 days ago)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.5](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.5) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.3.0](https://github.com/Roave/BetterReflection/releases/tag/6.3.0) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9) (2 weeks ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [4.29.0](https://github.com/vimeo/psalm/releases/tag/4.29.0) (2 weeks ago)
