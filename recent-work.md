@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [added operator-specifiying test for the pow-operator](https://github.com/phpstan/phpstan-src/pull/1933) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [github actions: use rex-console setup](https://github.com/redaxo/redaxo/pull/5391) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [fix rexstan console command](https://github.com/FriendsOfREDAXO/rexstan/pull/196) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [added tests github action](https://github.com/FriendsOfREDAXO/rexstan/pull/195) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
@@ -54,7 +55,6 @@
 - [refactor pow() return type extension to re-use BinaryOp\Pow](https://github.com/phpstan/phpstan-src/pull/1900) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [implement FunctionReflection/ExtendedMethodReflection returnsByReference()](https://github.com/phpstan/phpstan-src/pull/1899) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [added is_callable() param-out](https://github.com/phpstan/phpstan-src/pull/1898) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [added regression test](https://github.com/phpstan/phpstan-src/pull/1897) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
