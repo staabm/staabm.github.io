@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ignore unreliable type errors in SchemaHasherMysql](https://github.com/staabm/phpstan-dba/pull/449) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [fix cs, ignore test-files](https://github.com/staabm/phpstan-dba/pull/448) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [reproduce bug 442](https://github.com/staabm/phpstan-dba/pull/447) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [try reproduce bug #394](https://github.com/staabm/phpstan-dba/pull/446) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [phpstan 1.9 fixes](https://github.com/staabm/phpstan-dba/pull/445) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
@@ -53,8 +55,6 @@
 - [Declare `@param-out` on fscanf](https://github.com/phpstan/phpstan-src/pull/1918) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [cover ExtendedMethodReflection by bc-promise](https://github.com/ondrejmirtes/BackwardCompatibilityCheck/pull/23) on [ondrejmirtes/BackwardCompatibilityCheck](https://github.com/ondrejmirtes/BackwardCompatibilityCheck) (4 days ago)
 - [cover ExtendedMethodReflection by bc-promise](https://github.com/phpstan/phpstan-src/pull/1913) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [support integer-ranges in pow()](https://github.com/phpstan/phpstan-src/pull/1904) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [fix typo](https://github.com/symplify/symplify/pull/4450) on [symplify/symplify](https://github.com/symplify/symplify) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
