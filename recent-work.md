@@ -42,7 +42,7 @@
 
 - [ignore unreliable type errors in SchemaHasherMysql](https://github.com/staabm/phpstan-dba/pull/449) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [fix cs, ignore test-files](https://github.com/staabm/phpstan-dba/pull/448) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [reproduce bug 442](https://github.com/staabm/phpstan-dba/pull/447) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [fix fatal error on mysql error 1103 / incorrect table](https://github.com/staabm/phpstan-dba/pull/447) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [try reproduce bug #394](https://github.com/staabm/phpstan-dba/pull/446) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [phpstan 1.9 fixes](https://github.com/staabm/phpstan-dba/pull/445) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [refactor `instanceof xxType`: use the type-system instead](https://github.com/staabm/phpstan-dba/pull/444) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.49](https://github.com/staabm/phpstan-dba/releases/tag/0.2.49) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.5](https://github.com/paratestphp/paratest/releases/tag/v6.6.5) (1 day ago)
 - [composer/composer](https://github.com/composer/composer) - [2.4.4](https://github.com/composer/composer/releases/tag/2.4.4) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.55](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.55) (3 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.13.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.13.0) (1 week ago)
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.5](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.5) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.3.0](https://github.com/Roave/BetterReflection/releases/tag/6.3.0) (2 weeks ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9) (2 weeks ago)
