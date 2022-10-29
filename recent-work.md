@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix node visitor with `.=` operator](https://github.com/staabm/phpstan-dba/pull/450) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [ignore unreliable type errors in SchemaHasherMysql](https://github.com/staabm/phpstan-dba/pull/449) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [fix cs, ignore test-files](https://github.com/staabm/phpstan-dba/pull/448) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [fix fatal error on mysql error 1103 / incorrect table](https://github.com/staabm/phpstan-dba/pull/447) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
@@ -54,7 +55,6 @@
 - [added regression tests](https://github.com/phpstan/phpstan-src/pull/1921) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Declare `@param-out` on fscanf](https://github.com/phpstan/phpstan-src/pull/1918) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [cover ExtendedMethodReflection by bc-promise](https://github.com/ondrejmirtes/BackwardCompatibilityCheck/pull/23) on [ondrejmirtes/BackwardCompatibilityCheck](https://github.com/ondrejmirtes/BackwardCompatibilityCheck) (4 days ago)
-- [cover ExtendedMethodReflection by bc-promise](https://github.com/phpstan/phpstan-src/pull/1913) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
