@@ -32,10 +32,10 @@
 - [dhirtzbruch](https://github.com/dhirtzbruch) (5 months ago)
 - [orklah](https://github.com/orklah) (5 months ago)
 - [williamdes](https://github.com/williamdes) (5 months ago)
-- [claudihey](https://github.com/claudihey) (3 years ago)
 - [itworks-development](https://github.com/itworks-development) (3 years ago)
 - [w-sk](https://github.com/w-sk) (3 years ago)
 - [polarpixel](https://github.com/polarpixel) (3 years ago)
+- [bloep](https://github.com/bloep) (3 years ago)
 
 
 #### 🔨 My recent Pull Requests
