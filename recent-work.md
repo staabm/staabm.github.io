@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [try reproduce bug #394](https://github.com/staabm/phpstan-dba/pull/446) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [phpstan 1.9 fixes](https://github.com/staabm/phpstan-dba/pull/445) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [refactor `instanceof xxType`: use the type-system instead](https://github.com/staabm/phpstan-dba/pull/444) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [added operator-specifiying test for the pow-operator](https://github.com/phpstan/phpstan-src/pull/1933) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [support integer-ranges in pow()](https://github.com/phpstan/phpstan-src/pull/1904) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [fix typo](https://github.com/symplify/symplify/pull/4450) on [symplify/symplify](https://github.com/symplify/symplify) (5 days ago)
 - [make test-suite runnable independent from project path](https://github.com/FriendsOfREDAXO/rexstan/pull/187) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
-- [refactor pow() return type extension to re-use BinaryOp\Pow](https://github.com/phpstan/phpstan-src/pull/1900) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
