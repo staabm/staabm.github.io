@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.4.0](https://github.com/Roave/BetterReflection/releases/tag/6.4.0) (today)
 - [voku/PHPDoctor](https://github.com/voku/PHPDoctor) - [0.6.5](https://github.com/voku/PHPDoctor/releases/tag/0.6.5) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.49](https://github.com/staabm/phpstan-dba/releases/tag/0.2.49) (2 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.5](https://github.com/paratestphp/paratest/releases/tag/v6.6.5) (3 days ago)
@@ -68,4 +69,3 @@
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.9.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.9.0) (1 week ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.5.1](https://github.com/doctrine/dbal/releases/tag/3.5.1) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.13.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.13.0) (1 week ago)
-- [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.5](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.5) (1 week ago)
