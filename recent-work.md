@@ -5,7 +5,7 @@
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [symplify/symplify](https://github.com/symplify/symplify) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
 - [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (2 weeks ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [support subtracted-mixed in toNumber()](https://github.com/phpstan/phpstan-src/pull/1949) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [fixed regression](https://github.com/staabm/phpstan-dba/pull/453) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1946) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [set relative paths](https://github.com/FriendsOfREDAXO/rexstan/pull/202) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [fix node visitor with `.=` operator](https://github.com/staabm/phpstan-dba/pull/450) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
@@ -53,16 +55,14 @@
 - [github actions: use rex-console setup](https://github.com/redaxo/redaxo/pull/5391) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
 - [fix rexstan console command](https://github.com/FriendsOfREDAXO/rexstan/pull/196) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [added tests github action](https://github.com/FriendsOfREDAXO/rexstan/pull/195) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
-- [implement type inference on `rex_request::*`](https://github.com/FriendsOfREDAXO/rexstan/pull/193) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
-- [added regression tests](https://github.com/phpstan/phpstan-src/pull/1921) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.50](https://github.com/staabm/phpstan-dba/releases/tag/0.2.50) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [0.12.100](https://github.com/phpstan/phpstan/releases/tag/0.12.100) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.4.0](https://github.com/Roave/BetterReflection/releases/tag/6.4.0) (1 day ago)
 - [voku/PHPDoctor](https://github.com/voku/PHPDoctor) - [0.6.5](https://github.com/voku/PHPDoctor/releases/tag/0.6.5) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.49](https://github.com/staabm/phpstan-dba/releases/tag/0.2.49) (3 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.5](https://github.com/paratestphp/paratest/releases/tag/v6.6.5) (4 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.4.4](https://github.com/composer/composer/releases/tag/2.4.4) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.55](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.55) (6 days ago)
