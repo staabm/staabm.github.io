@@ -4,8 +4,8 @@
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
 - [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (2 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix built](https://github.com/staabm/phpstan-dba/pull/457) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [prevent `Query error: Incorrect table name &#39;&#39; (1103).`](https://github.com/staabm/phpstan-dba/pull/456) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [prevent `Query error: Incorrect table name &#39;&#39; (1103).`](https://github.com/staabm/phpstan-dba/pull/455) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [support subtracted-mixed in toArray()](https://github.com/phpstan/phpstan-src/pull/1952) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [fix fatal error on mysql error 1103 / incorrect table](https://github.com/staabm/phpstan-dba/pull/447) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [try reproduce bug #394](https://github.com/staabm/phpstan-dba/pull/446) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [phpstan 1.9 fixes](https://github.com/staabm/phpstan-dba/pull/445) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [refactor `instanceof xxType`: use the type-system instead](https://github.com/staabm/phpstan-dba/pull/444) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
