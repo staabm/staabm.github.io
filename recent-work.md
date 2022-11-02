@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [error on from table-name create from function-call ](https://github.com/staabm/phpstan-dba/pull/459) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [fix built](https://github.com/staabm/phpstan-dba/pull/457) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [prevent `Query error: Incorrect table name &#39;&#39; (1103).`](https://github.com/staabm/phpstan-dba/pull/456) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [prevent `Query error: Incorrect table name &#39;&#39; (1103).`](https://github.com/staabm/phpstan-dba/pull/455) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
@@ -54,7 +55,6 @@
 - [fix cs, ignore test-files](https://github.com/staabm/phpstan-dba/pull/448) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [fix fatal error on mysql error 1103 / incorrect table](https://github.com/staabm/phpstan-dba/pull/447) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [try reproduce bug #394](https://github.com/staabm/phpstan-dba/pull/446) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [phpstan 1.9 fixes](https://github.com/staabm/phpstan-dba/pull/445) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
