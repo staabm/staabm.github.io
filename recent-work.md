@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [prevent `Query error: Incorrect table name &#39;&#39; (1103).`](https://github.com/staabm/phpstan-dba/pull/455) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [support subtracted-mixed in toArray()](https://github.com/phpstan/phpstan-src/pull/1952) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [don&#39;t overwrite reflection cache, when analyzing only a single file in phpstorm](https://github.com/staabm/phpstan-dba/pull/454) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [support subtracted-mixed in toNumber()](https://github.com/phpstan/phpstan-src/pull/1949) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [phpstan 1.9 fixes](https://github.com/staabm/phpstan-dba/pull/445) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [refactor `instanceof xxType`: use the type-system instead](https://github.com/staabm/phpstan-dba/pull/444) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [added operator-specifiying test for the pow-operator](https://github.com/phpstan/phpstan-src/pull/1933) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [github actions: use rex-console setup](https://github.com/redaxo/redaxo/pull/5391) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
