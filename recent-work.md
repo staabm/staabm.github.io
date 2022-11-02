@@ -49,7 +49,7 @@
 - [fixed regression](https://github.com/staabm/phpstan-dba/pull/453) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1946) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [set relative paths](https://github.com/FriendsOfREDAXO/rexstan/pull/202) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [fix node visitor with `.=` operator](https://github.com/staabm/phpstan-dba/pull/450) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
+- [fix fatal error on query reflection with `AssignOp` operators](https://github.com/staabm/phpstan-dba/pull/450) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [ignore unreliable type errors in SchemaHasherMysql](https://github.com/staabm/phpstan-dba/pull/449) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [fix cs, ignore test-files](https://github.com/staabm/phpstan-dba/pull/448) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [fix fatal error on mysql error 1103 / incorrect table](https://github.com/staabm/phpstan-dba/pull/447) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
