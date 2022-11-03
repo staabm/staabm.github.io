@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.0](https://github.com/phpstan/phpstan/releases/tag/1.9.0) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.50](https://github.com/staabm/phpstan-dba/releases/tag/0.2.50) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [0.12.100](https://github.com/phpstan/phpstan/releases/tag/0.12.100) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.4.0](https://github.com/Roave/BetterReflection/releases/tag/6.4.0) (3 days ago)
 - [voku/PHPDoctor](https://github.com/voku/PHPDoctor) - [0.6.5](https://github.com/voku/PHPDoctor/releases/tag/0.6.5) (3 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.5](https://github.com/paratestphp/paratest/releases/tag/v6.6.5) (6 days ago)
