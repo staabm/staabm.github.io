@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
-- [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (2 weeks ago)
+- [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (3 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (3 weeks ago)
 - [FriendsOfREDAXO/media_manager_plus](https://github.com/FriendsOfREDAXO/media_manager_plus) (3 weeks ago)
-- [zf1s/zf1](https://github.com/zf1s/zf1) (4 weeks ago)
+- [zf1s/zf1](https://github.com/zf1s/zf1) (1 month ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 month ago)
 
 
@@ -19,7 +19,7 @@
 
 - [Detect slow queries before they hit your production database](https://staabm.github.io/2022/08/16/phpstan-dba-query-plan-analysis.html) (2 months ago)
 - [Phpstan Non Falsy String](https://staabm.github.io/2022/08/11/phpstan-non-falsy-string.html) (2 months ago)
-- [Check your sql queries for errors](https://staabm.github.io/2022/08/05/phpstan-dba-syntax-error-detection.html) (2 months ago)
+- [Check your sql queries for errors](https://staabm.github.io/2022/08/05/phpstan-dba-syntax-error-detection.html) (3 months ago)
 - [Placeholder validation in sql queries](https://staabm.github.io/2022/07/30/phpstan-dba-placeholder-validation.html) (3 months ago)
 - [Type inference for dynamic sql queries](https://staabm.github.io/2022/07/23/phpstan-dba-inference-placeholder.html) (3 months ago)
 
@@ -40,31 +40,31 @@
 
 #### 🔨 My recent Pull Requests
 
-- [error on from table-name create from function-call ](https://github.com/staabm/phpstan-dba/pull/459) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [fix built](https://github.com/staabm/phpstan-dba/pull/457) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [prevent `Query error: Incorrect table name &#39;&#39; (1103).`](https://github.com/staabm/phpstan-dba/pull/456) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [prevent `Query error: Incorrect table name &#39;&#39; (1103).`](https://github.com/staabm/phpstan-dba/pull/455) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [support subtracted-mixed in toArray()](https://github.com/phpstan/phpstan-src/pull/1952) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [don&#39;t overwrite reflection cache, when analyzing only a single file in phpstorm](https://github.com/staabm/phpstan-dba/pull/454) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [support subtracted-mixed in toNumber()](https://github.com/phpstan/phpstan-src/pull/1949) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [fixed regression](https://github.com/staabm/phpstan-dba/pull/453) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
-- [added regression test](https://github.com/phpstan/phpstan-src/pull/1946) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [set relative paths](https://github.com/FriendsOfREDAXO/rexstan/pull/202) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [fix fatal error on query reflection with `AssignOp` operators](https://github.com/staabm/phpstan-dba/pull/450) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [ignore unreliable type errors in SchemaHasherMysql](https://github.com/staabm/phpstan-dba/pull/449) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [fix cs, ignore test-files](https://github.com/staabm/phpstan-dba/pull/448) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [fix fatal error on mysql error 1103 / incorrect table](https://github.com/staabm/phpstan-dba/pull/447) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [try reproduce bug #394](https://github.com/staabm/phpstan-dba/pull/446) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
+- [error on from table-name create from function-call ](https://github.com/staabm/phpstan-dba/pull/459) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [fix built](https://github.com/staabm/phpstan-dba/pull/457) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [prevent `Query error: Incorrect table name &#39;&#39; (1103).`](https://github.com/staabm/phpstan-dba/pull/456) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [prevent `Query error: Incorrect table name &#39;&#39; (1103).`](https://github.com/staabm/phpstan-dba/pull/455) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [support subtracted-mixed in toArray()](https://github.com/phpstan/phpstan-src/pull/1952) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [don&#39;t overwrite reflection cache, when analyzing only a single file in phpstorm](https://github.com/staabm/phpstan-dba/pull/454) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [support subtracted-mixed in toNumber()](https://github.com/phpstan/phpstan-src/pull/1949) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [fixed regression](https://github.com/staabm/phpstan-dba/pull/453) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
+- [added regression test](https://github.com/phpstan/phpstan-src/pull/1946) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [set relative paths](https://github.com/FriendsOfREDAXO/rexstan/pull/202) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
+- [fix fatal error on query reflection with `AssignOp` operators](https://github.com/staabm/phpstan-dba/pull/450) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
+- [ignore unreliable type errors in SchemaHasherMysql](https://github.com/staabm/phpstan-dba/pull/449) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
+- [fix cs, ignore test-files](https://github.com/staabm/phpstan-dba/pull/448) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
+- [fix fatal error on mysql error 1103 / incorrect table](https://github.com/staabm/phpstan-dba/pull/447) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
+- [try reproduce bug #394](https://github.com/staabm/phpstan-dba/pull/446) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.50](https://github.com/staabm/phpstan-dba/releases/tag/0.2.50) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [0.12.100](https://github.com/phpstan/phpstan/releases/tag/0.12.100) (1 day ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.4.0](https://github.com/Roave/BetterReflection/releases/tag/6.4.0) (2 days ago)
-- [voku/PHPDoctor](https://github.com/voku/PHPDoctor) - [0.6.5](https://github.com/voku/PHPDoctor/releases/tag/0.6.5) (2 days ago)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.5](https://github.com/paratestphp/paratest/releases/tag/v6.6.5) (5 days ago)
-- [composer/composer](https://github.com/composer/composer) - [2.4.4](https://github.com/composer/composer/releases/tag/2.4.4) (6 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.50](https://github.com/staabm/phpstan-dba/releases/tag/0.2.50) (2 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [0.12.100](https://github.com/phpstan/phpstan/releases/tag/0.12.100) (2 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.4.0](https://github.com/Roave/BetterReflection/releases/tag/6.4.0) (3 days ago)
+- [voku/PHPDoctor](https://github.com/voku/PHPDoctor) - [0.6.5](https://github.com/voku/PHPDoctor/releases/tag/0.6.5) (3 days ago)
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.5](https://github.com/paratestphp/paratest/releases/tag/v6.6.5) (6 days ago)
+- [composer/composer](https://github.com/composer/composer) - [2.4.4](https://github.com/composer/composer/releases/tag/2.4.4) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.55](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.55) (1 week ago)
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.9.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.9.0) (1 week ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.5.1](https://github.com/doctrine/dbal/releases/tag/3.5.1) (1 week ago)
