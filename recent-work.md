@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [`strtr` returns `non-empty-string`](https://github.com/phpstan/phpstan-src/pull/1963) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [declare more precise types](https://github.com/redaxo/redaxo/pull/5403) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [separate stdout and stderr input](https://github.com/FriendsOfREDAXO/rexstan/pull/210) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [fix `rex_media::get(&#34;REX_MEDIA[1]&#34;);` false positives](https://github.com/FriendsOfREDAXO/rexstan/pull/209) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -54,7 +55,6 @@
 - [support subtracted-mixed in toNumber()](https://github.com/phpstan/phpstan-src/pull/1949) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [fixed regression](https://github.com/staabm/phpstan-dba/pull/453) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1946) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [set relative paths](https://github.com/FriendsOfREDAXO/rexstan/pull/202) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
