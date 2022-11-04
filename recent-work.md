@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (1 week ago)
 - [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (3 weeks ago)
@@ -45,7 +45,7 @@
 - [declare more precise types](https://github.com/redaxo/redaxo/pull/5403) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [separate stdout and stderr input](https://github.com/FriendsOfREDAXO/rexstan/pull/210) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [fix `rex_media::get(&#34;REX_MEDIA[1]&#34;);` false positives](https://github.com/FriendsOfREDAXO/rexstan/pull/209) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [added RexModuleInputValueCollector](https://github.com/FriendsOfREDAXO/rexstan/pull/208) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [implement RexModuleVarsRule](https://github.com/FriendsOfREDAXO/rexstan/pull/208) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [run github actions on php 7.4](https://github.com/FriendsOfREDAXO/rexstan/pull/207) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [error on from table-name create from function-call ](https://github.com/staabm/phpstan-dba/pull/459) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [fix built](https://github.com/staabm/phpstan-dba/pull/457) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.1](https://github.com/phpstan/phpstan/releases/tag/1.9.1) (today)
 - [composer/pcre](https://github.com/composer/pcre) - [3.0.2](https://github.com/composer/pcre/releases/tag/3.0.2) (1 day ago)
 - [xsist10/cadfael](https://github.com/xsist10/cadfael) - [0.2.6](https://github.com/xsist10/cadfael/releases/tag/0.2.6) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.56](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.56) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.51](https://github.com/staabm/phpstan-dba/releases/tag/0.2.51) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.0](https://github.com/phpstan/phpstan/releases/tag/1.9.0) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.4.0](https://github.com/Roave/BetterReflection/releases/tag/6.4.0) (4 days ago)
 - [voku/PHPDoctor](https://github.com/voku/PHPDoctor) - [0.6.5](https://github.com/voku/PHPDoctor/releases/tag/0.6.5) (4 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.5](https://github.com/paratestphp/paratest/releases/tag/v6.6.5) (1 week ago)
