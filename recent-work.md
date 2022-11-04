@@ -3,11 +3,11 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (1 week ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 weeks ago)
 - [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (3 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (3 weeks ago)
 - [FriendsOfREDAXO/media_manager_plus](https://github.com/FriendsOfREDAXO/media_manager_plus) (4 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [declare more precise types](https://github.com/redaxo/redaxo/pull/5403) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [separate stdout and stderr input](https://github.com/FriendsOfREDAXO/rexstan/pull/210) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [fix `rex_media::get(&#34;REX_MEDIA[1]&#34;);` false positives](https://github.com/FriendsOfREDAXO/rexstan/pull/209) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [added RexModuleInputValueCollector](https://github.com/FriendsOfREDAXO/rexstan/pull/208) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -54,7 +55,6 @@
 - [fixed regression](https://github.com/staabm/phpstan-dba/pull/453) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1946) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [set relative paths](https://github.com/FriendsOfREDAXO/rexstan/pull/202) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [fix fatal error on query reflection with `AssignOp` operators](https://github.com/staabm/phpstan-dba/pull/450) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
