@@ -4,7 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (1 week ago)
@@ -26,6 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
+- [mgkimsal](https://github.com/mgkimsal) (today)
 - [bitshiftersgmbh](https://github.com/bitshiftersgmbh) (1 month ago)
 - [tomasnorre](https://github.com/tomasnorre) (2 months ago)
 - [elricco](https://github.com/elricco) (4 months ago)
@@ -35,7 +36,6 @@
 - [itworks-development](https://github.com/itworks-development) (3 years ago)
 - [w-sk](https://github.com/w-sk) (3 years ago)
 - [polarpixel](https://github.com/polarpixel) (3 years ago)
-- [bloep](https://github.com/bloep) (3 years ago)
 
 
 #### 🔨 My recent Pull Requests
