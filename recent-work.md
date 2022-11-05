@@ -40,12 +40,13 @@
 
 #### 🔨 My recent Pull Requests
 
+- [remove dangling output buffer](https://github.com/redaxo/redaxo/pull/5410) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [implement `rex_var::varsIterator()`](https://github.com/redaxo/redaxo/pull/5404) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [`strtr` returns `non-empty-string`](https://github.com/phpstan/phpstan-src/pull/1963) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [declare more precise types](https://github.com/redaxo/redaxo/pull/5403) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [separate stdout and stderr input](https://github.com/FriendsOfREDAXO/rexstan/pull/210) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [fix `rex_media::get(&#34;REX_MEDIA[1]&#34;);` false positives](https://github.com/FriendsOfREDAXO/rexstan/pull/209) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [implement RexModuleVarsRule](https://github.com/FriendsOfREDAXO/rexstan/pull/208) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [implement RexModuleVarsRule, RexTemplateVarsRule](https://github.com/FriendsOfREDAXO/rexstan/pull/208) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [run github actions on php 7.4](https://github.com/FriendsOfREDAXO/rexstan/pull/207) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [error on from table-name create from function-call ](https://github.com/staabm/phpstan-dba/pull/459) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [fix built](https://github.com/staabm/phpstan-dba/pull/457) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
@@ -54,7 +55,6 @@
 - [support subtracted-mixed in toArray()](https://github.com/phpstan/phpstan-src/pull/1952) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [don&#39;t overwrite reflection cache, when analyzing only a single file in phpstorm](https://github.com/staabm/phpstan-dba/pull/454) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [support subtracted-mixed in toNumber()](https://github.com/phpstan/phpstan-src/pull/1949) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [fixed regression](https://github.com/staabm/phpstan-dba/pull/453) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
