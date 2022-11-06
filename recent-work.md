@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [implement isInteger() on Type](https://github.com/phpstan/phpstan-src/pull/1971) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [implement isClassStringType() on Type](https://github.com/phpstan/phpstan-src/pull/1970) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [support &#39;HasMethodType&#39; on StaticCall](https://github.com/phpstan/phpstan-src/pull/1969) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [remove dangling output buffer](https://github.com/redaxo/redaxo/pull/5410) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
@@ -54,7 +55,6 @@
 - [fix built](https://github.com/staabm/phpstan-dba/pull/457) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [prevent `Query error: Incorrect table name &#39;&#39; (1103).`](https://github.com/staabm/phpstan-dba/pull/456) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [prevent `Query error: Incorrect table name &#39;&#39; (1103).`](https://github.com/staabm/phpstan-dba/pull/455) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [support subtracted-mixed in toArray()](https://github.com/phpstan/phpstan-src/pull/1952) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
