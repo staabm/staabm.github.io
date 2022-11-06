@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [4.30.0](https://github.com/vimeo/psalm/releases/tag/4.30.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.57](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.57) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.1](https://github.com/phpstan/phpstan/releases/tag/1.9.1) (2 days ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.0.2](https://github.com/composer/pcre/releases/tag/3.0.2) (3 days ago)
@@ -68,4 +69,3 @@
 - [voku/PHPDoctor](https://github.com/voku/PHPDoctor) - [0.6.5](https://github.com/voku/PHPDoctor/releases/tag/0.6.5) (6 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.5](https://github.com/paratestphp/paratest/releases/tag/v6.6.5) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - [2.4.4](https://github.com/composer/composer/releases/tag/2.4.4) (1 week ago)
-- [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.9.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.9.0) (1 week ago)
