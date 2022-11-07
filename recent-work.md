@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [implement isNull() on Type](https://github.com/phpstan/phpstan-src/pull/1978) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [implement isFloat() on Type](https://github.com/phpstan/phpstan-src/pull/1977) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [implement isBoolean() on Type](https://github.com/phpstan/phpstan-src/pull/1973) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1972) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [fix `rex_media::get(&#34;REX_MEDIA[1]&#34;);` false positives](https://github.com/FriendsOfREDAXO/rexstan/pull/209) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [implement RexModuleVarsRule, RexTemplateVarsRule](https://github.com/FriendsOfREDAXO/rexstan/pull/208) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [run github actions on php 7.4](https://github.com/FriendsOfREDAXO/rexstan/pull/207) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [error on from table-name create from function-call ](https://github.com/staabm/phpstan-dba/pull/459) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
