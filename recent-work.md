@@ -26,6 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
+- [SpiGAndromeda](https://github.com/SpiGAndromeda) (today)
 - [mgkimsal](https://github.com/mgkimsal) (2 days ago)
 - [bitshiftersgmbh](https://github.com/bitshiftersgmbh) (1 month ago)
 - [tomasnorre](https://github.com/tomasnorre) (2 months ago)
@@ -35,7 +36,6 @@
 - [williamdes](https://github.com/williamdes) (5 months ago)
 - [itworks-development](https://github.com/itworks-development) (3 years ago)
 - [w-sk](https://github.com/w-sk) (3 years ago)
-- [polarpixel](https://github.com/polarpixel) (3 years ago)
 
 
 #### 🔨 My recent Pull Requests
