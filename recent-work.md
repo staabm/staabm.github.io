@@ -26,6 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
+- [zonuexe](https://github.com/zonuexe) (today)
 - [SpiGAndromeda](https://github.com/SpiGAndromeda) (today)
 - [mgkimsal](https://github.com/mgkimsal) (2 days ago)
 - [bitshiftersgmbh](https://github.com/bitshiftersgmbh) (1 month ago)
@@ -35,11 +36,11 @@
 - [orklah](https://github.com/orklah) (5 months ago)
 - [williamdes](https://github.com/williamdes) (5 months ago)
 - [itworks-development](https://github.com/itworks-development) (3 years ago)
-- [w-sk](https://github.com/w-sk) (3 years ago)
 
 
 #### 🔨 My recent Pull Requests
 
+- [implement isFloat() on Type](https://github.com/phpstan/phpstan-src/pull/1977) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [implement isBoolean() on Type](https://github.com/phpstan/phpstan-src/pull/1973) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [added regression test](https://github.com/phpstan/phpstan-src/pull/1972) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [implement isInteger() on Type](https://github.com/phpstan/phpstan-src/pull/1971) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [implement RexModuleVarsRule, RexTemplateVarsRule](https://github.com/FriendsOfREDAXO/rexstan/pull/208) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [run github actions on php 7.4](https://github.com/FriendsOfREDAXO/rexstan/pull/207) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [error on from table-name create from function-call ](https://github.com/staabm/phpstan-dba/pull/459) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [fix built](https://github.com/staabm/phpstan-dba/pull/457) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
