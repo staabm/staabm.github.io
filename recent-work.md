@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [sea-level rules: improve language in error messages](https://github.com/symplify/symplify/pull/4470) on [symplify/symplify](https://github.com/symplify/symplify) (today)
+- [Sea-Level collectors: don&#39;t collect empty data](https://github.com/symplify/symplify/pull/4469) on [symplify/symplify](https://github.com/symplify/symplify) (today)
 - [Implement getConstantStrings() on Type](https://github.com/phpstan/phpstan-src/pull/1979) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [implement isNull() on Type](https://github.com/phpstan/phpstan-src/pull/1978) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [implement isFloat() on Type](https://github.com/phpstan/phpstan-src/pull/1977) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -53,8 +55,6 @@
 - [`strtr` returns `non-empty-string`](https://github.com/phpstan/phpstan-src/pull/1963) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [declare more precise types](https://github.com/redaxo/redaxo/pull/5403) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
 - [separate stdout and stderr input](https://github.com/FriendsOfREDAXO/rexstan/pull/210) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
-- [fix `rex_media::get(&#34;REX_MEDIA[1]&#34;);` false positives](https://github.com/FriendsOfREDAXO/rexstan/pull/209) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
-- [implement RexModuleVarsRule, RexTemplateVarsRule](https://github.com/FriendsOfREDAXO/rexstan/pull/208) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
