@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: Debug the configuration](https://github.com/phpstan/phpstan/pull/8341) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Fix false positive of access to static private property of parent class](https://github.com/phpstan/phpstan-src/pull/1989) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [sea-level rules: improve language in error messages](https://github.com/symplify/symplify/pull/4470) on [symplify/symplify](https://github.com/symplify/symplify) (1 day ago)
 - [Sea-Level collectors: don&#39;t collect empty data](https://github.com/symplify/symplify/pull/4469) on [symplify/symplify](https://github.com/symplify/symplify) (1 day ago)
@@ -54,7 +55,6 @@
 - [remove dangling output buffer](https://github.com/redaxo/redaxo/pull/5410) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
 - [implement `rex_var::varsIterator()`](https://github.com/redaxo/redaxo/pull/5404) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
 - [`strtr` returns `non-empty-string`](https://github.com/phpstan/phpstan-src/pull/1963) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [declare more precise types](https://github.com/redaxo/redaxo/pull/5403) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
