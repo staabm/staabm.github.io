@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
@@ -12,7 +13,6 @@
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 month ago)
 - [FriendsOfREDAXO/media_manager_plus](https://github.com/FriendsOfREDAXO/media_manager_plus) (1 month ago)
 - [zf1s/zf1](https://github.com/zf1s/zf1) (1 month ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 month ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix typo](https://github.com/staabm/phpstan-baseline-analysis/pull/77) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [docs: Debug the configuration](https://github.com/phpstan/phpstan/pull/8341) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [Fix false positive of access to static private property of parent class](https://github.com/phpstan/phpstan-src/pull/1989) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [sea-level rules: improve language in error messages](https://github.com/symplify/symplify/pull/4470) on [symplify/symplify](https://github.com/symplify/symplify) (2 days ago)
@@ -54,7 +55,6 @@
 - [support &#39;HasMethodType&#39; on StaticCall](https://github.com/phpstan/phpstan-src/pull/1969) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [remove dangling output buffer](https://github.com/redaxo/redaxo/pull/5410) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
 - [implement `rex_var::varsIterator()`](https://github.com/redaxo/redaxo/pull/5404) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
-- [`strtr` returns `non-empty-string`](https://github.com/phpstan/phpstan-src/pull/1963) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
