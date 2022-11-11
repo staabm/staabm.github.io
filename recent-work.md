@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [write progress on stderr](https://github.com/staabm/phpstan-baseline-analysis/pull/78) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [fix typo](https://github.com/staabm/phpstan-baseline-analysis/pull/77) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [docs: Debug the configuration](https://github.com/phpstan/phpstan/pull/8341) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [Fix false positive of access to static private property of parent class](https://github.com/phpstan/phpstan-src/pull/1989) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [implement isClassStringType() on Type](https://github.com/phpstan/phpstan-src/pull/1970) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [support &#39;HasMethodType&#39; on StaticCall](https://github.com/phpstan/phpstan-src/pull/1969) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [remove dangling output buffer](https://github.com/redaxo/redaxo/pull/5410) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
-- [implement `rex_var::varsIterator()`](https://github.com/redaxo/redaxo/pull/5404) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
