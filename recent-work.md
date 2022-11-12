@@ -5,6 +5,7 @@
 
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
@@ -12,7 +13,6 @@
 - [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (1 month ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 month ago)
 - [FriendsOfREDAXO/media_manager_plus](https://github.com/FriendsOfREDAXO/media_manager_plus) (1 month ago)
-- [zf1s/zf1](https://github.com/zf1s/zf1) (1 month ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [remove NodeTypeAnalyzer](https://github.com/rectorphp/rector-src/pull/3055) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [end2end test with symplify message format](https://github.com/staabm/phpstan-baseline-analysis/pull/80) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [handle exit-code in execCmd()](https://github.com/FriendsOfREDAXO/rexstan/pull/225) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Revert &#34;fix error while baseline generation (#223)&#34;](https://github.com/FriendsOfREDAXO/rexstan/pull/224) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [add `--version` flag](https://github.com/staabm/phpstan-baseline-analysis/pull/79) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
@@ -53,8 +55,6 @@
 - [Implement getConstantStrings() on Type](https://github.com/phpstan/phpstan-src/pull/1979) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [implement isNull() on Type](https://github.com/phpstan/phpstan-src/pull/1978) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [implement isFloat() on Type](https://github.com/phpstan/phpstan-src/pull/1977) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [implement isBoolean() on Type](https://github.com/phpstan/phpstan-src/pull/1973) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [added regression test](https://github.com/phpstan/phpstan-src/pull/1972) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
