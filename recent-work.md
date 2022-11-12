@@ -3,13 +3,13 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (2 weeks ago)
-- [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (4 weeks ago)
+- [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (1 month ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 month ago)
 - [FriendsOfREDAXO/media_manager_plus](https://github.com/FriendsOfREDAXO/media_manager_plus) (1 month ago)
 - [zf1s/zf1](https://github.com/zf1s/zf1) (1 month ago)
@@ -26,9 +26,9 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
-- [zonuexe](https://github.com/zonuexe) (4 days ago)
-- [SpiGAndromeda](https://github.com/SpiGAndromeda) (4 days ago)
-- [mgkimsal](https://github.com/mgkimsal) (6 days ago)
+- [zonuexe](https://github.com/zonuexe) (5 days ago)
+- [SpiGAndromeda](https://github.com/SpiGAndromeda) (5 days ago)
+- [mgkimsal](https://github.com/mgkimsal) (1 week ago)
 - [bitshiftersgmbh](https://github.com/bitshiftersgmbh) (1 month ago)
 - [tomasnorre](https://github.com/tomasnorre) (2 months ago)
 - [elricco](https://github.com/elricco) (4 months ago)
@@ -40,28 +40,28 @@
 
 #### 🔨 My recent Pull Requests
 
-- [write progress on stderr](https://github.com/staabm/phpstan-baseline-analysis/pull/78) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
-- [fix typo](https://github.com/staabm/phpstan-baseline-analysis/pull/77) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
-- [docs: Debug the configuration](https://github.com/phpstan/phpstan/pull/8341) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
-- [Fix false positive of access to static private property of parent class](https://github.com/phpstan/phpstan-src/pull/1989) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [sea-level rules: improve language in error messages](https://github.com/symplify/symplify/pull/4470) on [symplify/symplify](https://github.com/symplify/symplify) (2 days ago)
-- [Sea-Level collectors: don&#39;t collect empty data](https://github.com/symplify/symplify/pull/4469) on [symplify/symplify](https://github.com/symplify/symplify) (2 days ago)
-- [Implement getConstantStrings() on Type](https://github.com/phpstan/phpstan-src/pull/1979) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [implement isNull() on Type](https://github.com/phpstan/phpstan-src/pull/1978) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [implement isFloat() on Type](https://github.com/phpstan/phpstan-src/pull/1977) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [implement isBoolean() on Type](https://github.com/phpstan/phpstan-src/pull/1973) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [added regression test](https://github.com/phpstan/phpstan-src/pull/1972) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [implement isInteger() on Type](https://github.com/phpstan/phpstan-src/pull/1971) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [implement isClassStringType() on Type](https://github.com/phpstan/phpstan-src/pull/1970) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [support &#39;HasMethodType&#39; on StaticCall](https://github.com/phpstan/phpstan-src/pull/1969) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [remove dangling output buffer](https://github.com/redaxo/redaxo/pull/5410) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
+- [write progress on stderr](https://github.com/staabm/phpstan-baseline-analysis/pull/78) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
+- [fix typo](https://github.com/staabm/phpstan-baseline-analysis/pull/77) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
+- [docs: Debug the configuration](https://github.com/phpstan/phpstan/pull/8341) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
+- [Fix false positive of access to static private property of parent class](https://github.com/phpstan/phpstan-src/pull/1989) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [sea-level rules: improve language in error messages](https://github.com/symplify/symplify/pull/4470) on [symplify/symplify](https://github.com/symplify/symplify) (3 days ago)
+- [Sea-Level collectors: don&#39;t collect empty data](https://github.com/symplify/symplify/pull/4469) on [symplify/symplify](https://github.com/symplify/symplify) (3 days ago)
+- [Implement getConstantStrings() on Type](https://github.com/phpstan/phpstan-src/pull/1979) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [implement isNull() on Type](https://github.com/phpstan/phpstan-src/pull/1978) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [implement isFloat() on Type](https://github.com/phpstan/phpstan-src/pull/1977) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [implement isBoolean() on Type](https://github.com/phpstan/phpstan-src/pull/1973) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [added regression test](https://github.com/phpstan/phpstan-src/pull/1972) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [implement isInteger() on Type](https://github.com/phpstan/phpstan-src/pull/1971) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [implement isClassStringType() on Type](https://github.com/phpstan/phpstan-src/pull/1970) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [support &#39;HasMethodType&#39; on StaticCall](https://github.com/phpstan/phpstan-src/pull/1969) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [remove dangling output buffer](https://github.com/redaxo/redaxo/pull/5410) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.58](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.58) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.2](https://github.com/phpstan/phpstan/releases/tag/1.9.2) (1 day ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [4.30.0](https://github.com/vimeo/psalm/releases/tag/4.30.0) (5 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.58](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.58) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.2](https://github.com/phpstan/phpstan/releases/tag/1.9.2) (2 days ago)
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [4.30.0](https://github.com/vimeo/psalm/releases/tag/4.30.0) (6 days ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.0.2](https://github.com/composer/pcre/releases/tag/3.0.2) (1 week ago)
 - [xsist10/cadfael](https://github.com/xsist10/cadfael) - [0.2.6](https://github.com/xsist10/cadfael/releases/tag/0.2.6) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.51](https://github.com/staabm/phpstan-dba/releases/tag/0.2.51) (1 week ago)
