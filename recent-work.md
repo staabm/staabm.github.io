@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix error while baseline generation](https://github.com/FriendsOfREDAXO/rexstan/pull/223) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [write progress on stderr](https://github.com/staabm/phpstan-baseline-analysis/pull/78) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
 - [fix typo](https://github.com/staabm/phpstan-baseline-analysis/pull/77) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
 - [docs: Debug the configuration](https://github.com/phpstan/phpstan/pull/8341) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
@@ -54,7 +55,6 @@
 - [implement isInteger() on Type](https://github.com/phpstan/phpstan-src/pull/1971) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [implement isClassStringType() on Type](https://github.com/phpstan/phpstan-src/pull/1970) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [support &#39;HasMethodType&#39; on StaticCall](https://github.com/phpstan/phpstan-src/pull/1969) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [remove dangling output buffer](https://github.com/redaxo/redaxo/pull/5410) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
