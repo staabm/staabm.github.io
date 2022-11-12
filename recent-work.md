@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [rename &#39;code complexity&#39; to &#39;report mixed&#39;](https://github.com/FriendsOfREDAXO/rexstan/pull/226) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [remove NodeTypeAnalyzer](https://github.com/rectorphp/rector-src/pull/3055) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [end2end test with symplify message format](https://github.com/staabm/phpstan-baseline-analysis/pull/80) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [handle exit-code in execCmd()](https://github.com/FriendsOfREDAXO/rexstan/pull/225) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
@@ -54,7 +55,6 @@
 - [Sea-Level collectors: don&#39;t collect empty data](https://github.com/symplify/symplify/pull/4469) on [symplify/symplify](https://github.com/symplify/symplify) (3 days ago)
 - [Implement getConstantStrings() on Type](https://github.com/phpstan/phpstan-src/pull/1979) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [implement isNull() on Type](https://github.com/phpstan/phpstan-src/pull/1978) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [implement isFloat() on Type](https://github.com/phpstan/phpstan-src/pull/1977) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
