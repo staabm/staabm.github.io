@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (2 weeks ago)
@@ -26,8 +26,8 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
-- [zonuexe](https://github.com/zonuexe) (5 days ago)
-- [SpiGAndromeda](https://github.com/SpiGAndromeda) (5 days ago)
+- [zonuexe](https://github.com/zonuexe) (6 days ago)
+- [SpiGAndromeda](https://github.com/SpiGAndromeda) (6 days ago)
 - [mgkimsal](https://github.com/mgkimsal) (1 week ago)
 - [bitshiftersgmbh](https://github.com/bitshiftersgmbh) (1 month ago)
 - [tomasnorre](https://github.com/tomasnorre) (2 months ago)
@@ -40,29 +40,29 @@
 
 #### 🔨 My recent Pull Requests
 
-- [support reporting of native type coverage percentages in summary](https://github.com/FriendsOfREDAXO/rexstan/pull/227) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [report sea levels (native type coverage)](https://github.com/staabm/phpstan-baseline-analysis/pull/81) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
-- [rename &#39;code complexity&#39; to &#39;report mixed&#39;](https://github.com/FriendsOfREDAXO/rexstan/pull/226) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [remove NodeTypeAnalyzer](https://github.com/rectorphp/rector-src/pull/3055) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
-- [end2end test with symplify message format](https://github.com/staabm/phpstan-baseline-analysis/pull/80) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
-- [handle exit-code in execCmd()](https://github.com/FriendsOfREDAXO/rexstan/pull/225) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [Revert &#34;fix error while baseline generation (#223)&#34;](https://github.com/FriendsOfREDAXO/rexstan/pull/224) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [add `--version` flag](https://github.com/staabm/phpstan-baseline-analysis/pull/79) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
-- [fix error while baseline generation](https://github.com/FriendsOfREDAXO/rexstan/pull/223) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [write progress on stderr](https://github.com/staabm/phpstan-baseline-analysis/pull/78) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
-- [fix typo](https://github.com/staabm/phpstan-baseline-analysis/pull/77) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
-- [docs: Debug the configuration](https://github.com/phpstan/phpstan/pull/8341) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
-- [Fix false positive of access to static private property of parent class](https://github.com/phpstan/phpstan-src/pull/1989) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [sea-level rules: improve language in error messages](https://github.com/symplify/symplify/pull/4470) on [symplify/symplify](https://github.com/symplify/symplify) (3 days ago)
-- [Sea-Level collectors: don&#39;t collect empty data](https://github.com/symplify/symplify/pull/4469) on [symplify/symplify](https://github.com/symplify/symplify) (3 days ago)
+- [support reporting of native type coverage percentages in summary](https://github.com/FriendsOfREDAXO/rexstan/pull/227) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [report sea levels (native type coverage)](https://github.com/staabm/phpstan-baseline-analysis/pull/81) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
+- [rename &#39;code complexity&#39; to &#39;report mixed&#39;](https://github.com/FriendsOfREDAXO/rexstan/pull/226) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [remove NodeTypeAnalyzer](https://github.com/rectorphp/rector-src/pull/3055) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [end2end test with symplify message format](https://github.com/staabm/phpstan-baseline-analysis/pull/80) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
+- [handle exit-code in execCmd()](https://github.com/FriendsOfREDAXO/rexstan/pull/225) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [Revert &#34;fix error while baseline generation (#223)&#34;](https://github.com/FriendsOfREDAXO/rexstan/pull/224) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [add `--version` flag](https://github.com/staabm/phpstan-baseline-analysis/pull/79) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
+- [fix error while baseline generation](https://github.com/FriendsOfREDAXO/rexstan/pull/223) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [write progress on stderr](https://github.com/staabm/phpstan-baseline-analysis/pull/78) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
+- [fix typo](https://github.com/staabm/phpstan-baseline-analysis/pull/77) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
+- [docs: Debug the configuration](https://github.com/phpstan/phpstan/pull/8341) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
+- [Fix false positive of access to static private property of parent class](https://github.com/phpstan/phpstan-src/pull/1989) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [sea-level rules: improve language in error messages](https://github.com/symplify/symplify/pull/4470) on [symplify/symplify](https://github.com/symplify/symplify) (4 days ago)
+- [Sea-Level collectors: don&#39;t collect empty data](https://github.com/symplify/symplify/pull/4469) on [symplify/symplify](https://github.com/symplify/symplify) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.59](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.59) (today)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9.1](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9.1) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.2](https://github.com/phpstan/phpstan/releases/tag/1.9.2) (2 days ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [4.30.0](https://github.com/vimeo/psalm/releases/tag/4.30.0) (6 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.59](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.59) (1 day ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9.1](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9.1) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.2](https://github.com/phpstan/phpstan/releases/tag/1.9.2) (3 days ago)
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [4.30.0](https://github.com/vimeo/psalm/releases/tag/4.30.0) (1 week ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.0.2](https://github.com/composer/pcre/releases/tag/3.0.2) (1 week ago)
 - [xsist10/cadfael](https://github.com/xsist10/cadfael) - [0.2.6](https://github.com/xsist10/cadfael/releases/tag/0.2.6) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.51](https://github.com/staabm/phpstan-dba/releases/tag/0.2.51) (1 week ago)
