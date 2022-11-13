@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [parse_str() might return arrays by-ref](https://github.com/phpstan/phpstan-src/pull/1994) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [declare assert-if-true for filesystem functions](https://github.com/phpstan/phpstan-src/pull/1993) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [simplify test-suite config](https://github.com/staabm/phpstan-dba/pull/464) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [support reporting of native type coverage percentages in summary](https://github.com/FriendsOfREDAXO/rexstan/pull/227) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [report sea levels (native type coverage)](https://github.com/staabm/phpstan-baseline-analysis/pull/81) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
@@ -53,8 +55,6 @@
 - [write progress on stderr](https://github.com/staabm/phpstan-baseline-analysis/pull/78) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
 - [fix typo](https://github.com/staabm/phpstan-baseline-analysis/pull/77) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
 - [docs: Debug the configuration](https://github.com/phpstan/phpstan/pull/8341) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
-- [Fix false positive of access to static private property of parent class](https://github.com/phpstan/phpstan-src/pull/1989) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [sea-level rules: improve language in error messages](https://github.com/symplify/symplify/pull/4470) on [symplify/symplify](https://github.com/symplify/symplify) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
