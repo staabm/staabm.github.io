@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Utilize Type-&gt;isArray()](https://github.com/rectorphp/rector-src/pull/3065) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Utilize Type-&gt;isString() in rules/](https://github.com/rectorphp/rector-src/pull/3064) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Utilize Type-&gt;isString()](https://github.com/rectorphp/rector-src/pull/3063) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [parse_str() might return arrays by-ref](https://github.com/phpstan/phpstan-src/pull/1994) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Revert &#34;fix error while baseline generation (#223)&#34;](https://github.com/FriendsOfREDAXO/rexstan/pull/224) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [add `--version` flag](https://github.com/staabm/phpstan-baseline-analysis/pull/79) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
 - [fix error while baseline generation](https://github.com/FriendsOfREDAXO/rexstan/pull/223) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [write progress on stderr](https://github.com/staabm/phpstan-baseline-analysis/pull/78) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
