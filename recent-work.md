@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [travis: add php8 job](https://github.com/thePanz/MattermostClient/pull/11) on [thePanz/MattermostClient](https://github.com/thePanz/MattermostClient) (today)
 - [implement `rex_template::exists($id)`](https://github.com/redaxo/redaxo/pull/5419) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [Utilize Type-&gt;isArray()](https://github.com/rectorphp/rector-src/pull/3065) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Utilize Type-&gt;isString() in rules/](https://github.com/rectorphp/rector-src/pull/3064) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [end2end test with symplify message format](https://github.com/staabm/phpstan-baseline-analysis/pull/80) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
 - [handle exit-code in execCmd()](https://github.com/FriendsOfREDAXO/rexstan/pull/225) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [Revert &#34;fix error while baseline generation (#223)&#34;](https://github.com/FriendsOfREDAXO/rexstan/pull/224) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [add `--version` flag](https://github.com/staabm/phpstan-baseline-analysis/pull/79) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
