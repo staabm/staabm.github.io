@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (3 weeks ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [simplify return type extensions](https://github.com/staabm/phpstan-dba/pull/467) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [respect symplify sea-levels in total-errors](https://github.com/FriendsOfREDAXO/rexstan/pull/230) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [travis: add php8 job](https://github.com/thePanz/MattermostClient/pull/11) on [thePanz/MattermostClient](https://github.com/thePanz/MattermostClient) (today)
 - [implement `rex_template::exists($id)`](https://github.com/redaxo/redaxo/pull/5419) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [Utilize Type-&gt;isArray()](https://github.com/rectorphp/rector-src/pull/3065) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [rename &#39;code complexity&#39; to &#39;report mixed&#39;](https://github.com/FriendsOfREDAXO/rexstan/pull/226) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [remove NodeTypeAnalyzer](https://github.com/rectorphp/rector-src/pull/3055) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [end2end test with symplify message format](https://github.com/staabm/phpstan-baseline-analysis/pull/80) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
-- [handle exit-code in execCmd()](https://github.com/FriendsOfREDAXO/rexstan/pull/225) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [Revert &#34;fix error while baseline generation (#223)&#34;](https://github.com/FriendsOfREDAXO/rexstan/pull/224) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
