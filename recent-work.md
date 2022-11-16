@@ -5,8 +5,8 @@
 
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (3 weeks ago)
@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.60](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.60) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.61](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.61) (today)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9.1](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9.1) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.2](https://github.com/phpstan/phpstan/releases/tag/1.9.2) (6 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [4.30.0](https://github.com/vimeo/psalm/releases/tag/4.30.0) (1 week ago)
