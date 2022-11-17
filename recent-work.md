@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.6](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.6) (today)
 - [composer/pcre](https://github.com/composer/pcre) - [3.1.0](https://github.com/composer/pcre/releases/tag/3.1.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.61](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.61) (1 day ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9.1](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9.1) (5 days ago)
@@ -68,4 +69,3 @@
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.51](https://github.com/staabm/phpstan-dba/releases/tag/0.2.51) (2 weeks ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.4.0](https://github.com/Roave/BetterReflection/releases/tag/6.4.0) (2 weeks ago)
 - [voku/PHPDoctor](https://github.com/voku/PHPDoctor) - [0.6.5](https://github.com/voku/PHPDoctor/releases/tag/0.6.5) (2 weeks ago)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.6.5](https://github.com/paratestphp/paratest/releases/tag/v6.6.5) (2 weeks ago)
