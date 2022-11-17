@@ -41,7 +41,7 @@
 #### 🔨 My recent Pull Requests
 
 - [fix github action phpunit annotations](https://github.com/staabm/phpstan-dba/pull/471) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [Dibi phase two](https://github.com/staabm/phpstan-dba/pull/468) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [Dibi type inference](https://github.com/staabm/phpstan-dba/pull/468) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [simplify return type extensions](https://github.com/staabm/phpstan-dba/pull/467) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [respect symplify sea-levels in total-errors](https://github.com/FriendsOfREDAXO/rexstan/pull/230) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [travis: add php8 job](https://github.com/thePanz/MattermostClient/pull/11) on [thePanz/MattermostClient](https://github.com/thePanz/MattermostClient) (1 day ago)
