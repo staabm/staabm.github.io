@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix `pathinfo($s, PATHINFO_ALL)` return type](https://github.com/phpstan/phpstan-src/pull/2014) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [fix phpstan/phpunit](https://github.com/FriendsOfREDAXO/rexstan/pull/234) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [fix github action phpunit annotations](https://github.com/staabm/phpstan-dba/pull/471) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [Dibi type inference](https://github.com/staabm/phpstan-dba/pull/468) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
@@ -54,7 +55,6 @@
 - [declare assert-if-true for filesystem functions](https://github.com/phpstan/phpstan-src/pull/1993) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [simplify test-suite config](https://github.com/staabm/phpstan-dba/pull/464) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [support reporting of native type coverage percentages in summary](https://github.com/FriendsOfREDAXO/rexstan/pull/227) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [report sea levels (native type coverage)](https://github.com/staabm/phpstan-baseline-analysis/pull/81) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
