@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.0.0-rc1](https://github.com/vimeo/psalm/releases/tag/5.0.0-rc1) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.4.1](https://github.com/Roave/BetterReflection/releases/tag/6.4.1) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.52](https://github.com/staabm/phpstan-dba/releases/tag/0.2.52) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.13.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.13.1) (3 days ago)
@@ -67,5 +68,4 @@
 - [composer/pcre](https://github.com/composer/pcre) - [3.1.0](https://github.com/composer/pcre/releases/tag/3.1.0) (6 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9.1](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9.1) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.2](https://github.com/phpstan/phpstan/releases/tag/1.9.2) (1 week ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [4.30.0](https://github.com/vimeo/psalm/releases/tag/4.30.0) (2 weeks ago)
 - [xsist10/cadfael](https://github.com/xsist10/cadfael) - [0.2.6](https://github.com/xsist10/cadfael/releases/tag/0.2.6) (2 weeks ago)
