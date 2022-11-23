@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [test with empty result cache](https://github.com/staabm/phpstan-dba/pull/482) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Fix `pathinfo($s, PATHINFO_ALL)` return type](https://github.com/phpstan/phpstan-src/pull/2014) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [fix phpstan/phpunit](https://github.com/FriendsOfREDAXO/rexstan/pull/234) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [fix github action phpunit annotations](https://github.com/staabm/phpstan-dba/pull/471) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
@@ -54,7 +55,6 @@
 - [parse_str() might return arrays by-ref](https://github.com/phpstan/phpstan-src/pull/1994) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [declare assert-if-true for filesystem functions](https://github.com/phpstan/phpstan-src/pull/1993) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [simplify test-suite config](https://github.com/staabm/phpstan-dba/pull/464) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [support reporting of native type coverage percentages in summary](https://github.com/FriendsOfREDAXO/rexstan/pull/227) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
