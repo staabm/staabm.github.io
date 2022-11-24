@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (1 month ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix `@param-out` on methods](https://github.com/phpstan/phpstan-src/pull/2028) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [test with empty result cache](https://github.com/staabm/phpstan-dba/pull/482) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Fix `pathinfo($s, PATHINFO_ALL)` return type](https://github.com/phpstan/phpstan-src/pull/2014) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [fix phpstan/phpunit](https://github.com/FriendsOfREDAXO/rexstan/pull/234) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
@@ -54,7 +55,6 @@
 - [Utilize Type-&gt;isString()](https://github.com/rectorphp/rector-src/pull/3063) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [parse_str() might return arrays by-ref](https://github.com/phpstan/phpstan-src/pull/1994) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [declare assert-if-true for filesystem functions](https://github.com/phpstan/phpstan-src/pull/1993) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [simplify test-suite config](https://github.com/staabm/phpstan-dba/pull/464) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
