@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.14.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.14.0) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.0.0-rc1](https://github.com/vimeo/psalm/releases/tag/5.0.0-rc1) (4 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.4.1](https://github.com/Roave/BetterReflection/releases/tag/6.4.1) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.52](https://github.com/staabm/phpstan-dba/releases/tag/0.2.52) (6 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.13.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.13.1) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.62](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.62) (1 week ago)
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.6](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.6) (1 week ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.1.0](https://github.com/composer/pcre/releases/tag/3.1.0) (1 week ago)
