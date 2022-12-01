@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [type rex_var](https://github.com/redaxo/redaxo/pull/5432) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [GithubAction: added job to verify tests fail without src/ changes](https://github.com/phpstan/phpstan-src/pull/2029) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Fix `@param-out` on methods](https://github.com/phpstan/phpstan-src/pull/2028) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [test with empty result cache](https://github.com/staabm/phpstan-dba/pull/482) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
@@ -54,7 +55,6 @@
 - [Utilize Type-&gt;isArray()](https://github.com/rectorphp/rector-src/pull/3065) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 - [Utilize Type-&gt;isString() in rules/](https://github.com/rectorphp/rector-src/pull/3064) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 - [Utilize Type-&gt;isString()](https://github.com/rectorphp/rector-src/pull/3063) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
-- [parse_str() might return arrays by-ref](https://github.com/phpstan/phpstan-src/pull/1994) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
