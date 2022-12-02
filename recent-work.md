@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [enable native-type-coverage only in summary tab](https://github.com/FriendsOfREDAXO/rexstan/pull/239) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [bugfix release](https://github.com/staabm/phpstan-dba/pull/484) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [simplify PHPStanStaticTypeMapper](https://github.com/rectorphp/rector-src/pull/3143) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [type rex_var](https://github.com/redaxo/redaxo/pull/5432) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [GithubAction: added job to verify tests fail without src/ changes](https://github.com/phpstan/phpstan-src/pull/2029) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -53,16 +55,14 @@
 - [respect symplify sea-levels in total-errors](https://github.com/FriendsOfREDAXO/rexstan/pull/230) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
 - [travis: add php8 job](https://github.com/thePanz/MattermostClient/pull/11) on [thePanz/MattermostClient](https://github.com/thePanz/MattermostClient) (2 weeks ago)
 - [implement `rex_template::exists($id)`](https://github.com/redaxo/redaxo/pull/5419) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
-- [Utilize Type-&gt;isArray()](https://github.com/rectorphp/rector-src/pull/3065) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
-- [Utilize Type-&gt;isString() in rules/](https://github.com/rectorphp/rector-src/pull/3064) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.53](https://github.com/staabm/phpstan-dba/releases/tag/0.2.53) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.0.0](https://github.com/vimeo/psalm/releases/tag/5.0.0) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.14.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.14.0) (5 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.4.1](https://github.com/Roave/BetterReflection/releases/tag/6.4.1) (1 week ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.52](https://github.com/staabm/phpstan-dba/releases/tag/0.2.52) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.62](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.62) (2 weeks ago)
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.6](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.6) (2 weeks ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.1.0](https://github.com/composer/pcre/releases/tag/3.1.0) (2 weeks ago)
