@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix sprintf() argument count edge cases](https://github.com/phpstan/phpstan-src/pull/2041) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [added rexstan logo](https://github.com/FriendsOfREDAXO/rexstan/pull/243) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [cover #238 in tests](https://github.com/FriendsOfREDAXO/rexstan/pull/242) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [composer update](https://github.com/FriendsOfREDAXO/rexstan/pull/241) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -54,7 +55,6 @@
 - [fix phpstan/phpunit](https://github.com/FriendsOfREDAXO/rexstan/pull/234) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
 - [fix github action phpunit annotations](https://github.com/staabm/phpstan-dba/pull/471) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
 - [Dibi type inference](https://github.com/staabm/phpstan-dba/pull/468) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
-- [simplify return type extensions](https://github.com/staabm/phpstan-dba/pull/467) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
