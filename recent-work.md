@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix comparison with get_class() in traits always evaluate to true](https://github.com/phpstan/phpstan-src/pull/2044) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Fix resolving of __DIR__, __NAMESPACE__ in traits](https://github.com/phpstan/phpstan-src/pull/2043) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Non-static method `DOMDocument::loadHTML()` can be called statically](https://github.com/phpstan/phpstan-src/pull/2042) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix sprintf() argument count edge cases](https://github.com/phpstan/phpstan-src/pull/2041) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [added rexstan logo](https://github.com/FriendsOfREDAXO/rexstan/pull/243) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -53,8 +55,6 @@
 - [Fix `@param-out` on methods](https://github.com/phpstan/phpstan-src/pull/2028) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [test with empty result cache](https://github.com/staabm/phpstan-dba/pull/482) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [Fix `pathinfo($s, PATHINFO_ALL)` return type](https://github.com/phpstan/phpstan-src/pull/2014) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [fix phpstan/phpunit](https://github.com/FriendsOfREDAXO/rexstan/pull/234) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
-- [fix github action phpunit annotations](https://github.com/staabm/phpstan-dba/pull/471) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
