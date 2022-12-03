@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix class-const resolving will always evaluate to true/false in traits](https://github.com/phpstan/phpstan-src/pull/2046) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fixed &#39;$this instanceof X will always be false&#39; in traits](https://github.com/phpstan/phpstan-src/pull/2045) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix comparison with get_class() in traits always evaluate to true](https://github.com/phpstan/phpstan-src/pull/2044) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix resolving of __DIR__, __NAMESPACE__ in traits](https://github.com/phpstan/phpstan-src/pull/2043) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [type rex_var](https://github.com/redaxo/redaxo/pull/5432) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [GithubAction: added job to verify tests fail without src/ changes](https://github.com/phpstan/phpstan-src/pull/2029) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix `@param-out` on methods](https://github.com/phpstan/phpstan-src/pull/2028) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [test with empty result cache](https://github.com/staabm/phpstan-dba/pull/482) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
