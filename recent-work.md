@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [use rexstan dino in main-nav](https://github.com/FriendsOfREDAXO/rexstan/pull/247) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Fix class-const resolving will always evaluate to true/false in traits](https://github.com/phpstan/phpstan-src/pull/2046) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fixed &#39;$this instanceof X will always be false&#39; in traits](https://github.com/phpstan/phpstan-src/pull/2045) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix comparison with get_class() in traits always evaluate to true](https://github.com/phpstan/phpstan-src/pull/2044) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [simplify PHPStanStaticTypeMapper](https://github.com/rectorphp/rector-src/pull/3143) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [type rex_var](https://github.com/redaxo/redaxo/pull/5432) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
 - [GithubAction: added job to verify tests fail without src/ changes](https://github.com/phpstan/phpstan-src/pull/2029) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix `@param-out` on methods](https://github.com/phpstan/phpstan-src/pull/2028) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
