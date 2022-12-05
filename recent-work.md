@@ -29,13 +29,13 @@
 - [Marschl](https://github.com/Marschl) (5 days ago)
 - [zonuexe](https://github.com/zonuexe) (4 weeks ago)
 - [SpiGAndromeda](https://github.com/SpiGAndromeda) (4 weeks ago)
-- [mgkimsal](https://github.com/mgkimsal) (1 month ago)
 - [bitshiftersgmbh](https://github.com/bitshiftersgmbh) (2 months ago)
 - [tomasnorre](https://github.com/tomasnorre) (3 months ago)
 - [elricco](https://github.com/elricco) (5 months ago)
 - [dhirtzbruch](https://github.com/dhirtzbruch) (6 months ago)
 - [orklah](https://github.com/orklah) (6 months ago)
 - [williamdes](https://github.com/williamdes) (6 months ago)
+- [itworks-development](https://github.com/itworks-development) (3 years ago)
 
 
 #### 🔨 My recent Pull Requests
