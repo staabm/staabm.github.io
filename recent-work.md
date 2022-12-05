@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [restart phpcs/phpcbf when xdebug is loaded](https://github.com/squizlabs/PHP_CodeSniffer/pull/3724) on [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) (today)
 - [use rexstan dino in main-nav](https://github.com/FriendsOfREDAXO/rexstan/pull/247) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [Fix class-const resolving will always evaluate to true/false in traits](https://github.com/phpstan/phpstan-src/pull/2046) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fixed &#39;$this instanceof X will always be false&#39; in traits](https://github.com/phpstan/phpstan-src/pull/2045) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [bugfix release](https://github.com/staabm/phpstan-dba/pull/484) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [simplify PHPStanStaticTypeMapper](https://github.com/rectorphp/rector-src/pull/3143) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [type rex_var](https://github.com/redaxo/redaxo/pull/5432) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (4 days ago)
-- [GithubAction: added job to verify tests fail without src/ changes](https://github.com/phpstan/phpstan-src/pull/2029) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
