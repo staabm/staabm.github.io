@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [validate dataProvider return/parameter types](https://github.com/phpstan/phpstan-phpunit/pull/152) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [optimize searching the php executable for linux-like systems](https://github.com/FriendsOfREDAXO/rexstan/pull/251) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [restart phpcs/phpcbf when xdebug is loaded](https://github.com/squizlabs/PHP_CodeSniffer/pull/3724) on [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) (2 days ago)
 - [use rexstan dino in main-nav](https://github.com/FriendsOfREDAXO/rexstan/pull/247) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
@@ -54,7 +55,6 @@
 - [composer update](https://github.com/FriendsOfREDAXO/rexstan/pull/241) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [enable native-type-coverage only in summary tab](https://github.com/FriendsOfREDAXO/rexstan/pull/239) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [bugfix release](https://github.com/staabm/phpstan-dba/pull/484) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [simplify PHPStanStaticTypeMapper](https://github.com/rectorphp/rector-src/pull/3143) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
