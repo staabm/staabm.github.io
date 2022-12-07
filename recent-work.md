@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 weeks ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (1 month ago)
@@ -26,9 +26,9 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
-- [Marschl](https://github.com/Marschl) (6 days ago)
-- [zonuexe](https://github.com/zonuexe) (4 weeks ago)
-- [SpiGAndromeda](https://github.com/SpiGAndromeda) (4 weeks ago)
+- [Marschl](https://github.com/Marschl) (1 week ago)
+- [zonuexe](https://github.com/zonuexe) (1 month ago)
+- [SpiGAndromeda](https://github.com/SpiGAndromeda) (1 month ago)
 - [bitshiftersgmbh](https://github.com/bitshiftersgmbh) (2 months ago)
 - [tomasnorre](https://github.com/tomasnorre) (3 months ago)
 - [elricco](https://github.com/elricco) (5 months ago)
@@ -40,30 +40,30 @@
 
 #### 🔨 My recent Pull Requests
 
-- [restart phpcs/phpcbf when xdebug is loaded](https://github.com/squizlabs/PHP_CodeSniffer/pull/3724) on [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) (1 day ago)
-- [use rexstan dino in main-nav](https://github.com/FriendsOfREDAXO/rexstan/pull/247) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [Fix class-const resolving will always evaluate to true/false in traits](https://github.com/phpstan/phpstan-src/pull/2046) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Fixed &#39;$this instanceof X will always be false&#39; in traits](https://github.com/phpstan/phpstan-src/pull/2045) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Fix comparison with get_class() in traits always evaluate to true](https://github.com/phpstan/phpstan-src/pull/2044) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Fix resolving of __DIR__, __NAMESPACE__ in traits](https://github.com/phpstan/phpstan-src/pull/2043) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Non-static method `DOMDocument::loadHTML()` can be called statically](https://github.com/phpstan/phpstan-src/pull/2042) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Fix sprintf() argument count edge cases](https://github.com/phpstan/phpstan-src/pull/2041) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [added rexstan logo](https://github.com/FriendsOfREDAXO/rexstan/pull/243) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [cover #238 in tests](https://github.com/FriendsOfREDAXO/rexstan/pull/242) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [composer update](https://github.com/FriendsOfREDAXO/rexstan/pull/241) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [enable native-type-coverage only in summary tab](https://github.com/FriendsOfREDAXO/rexstan/pull/239) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [bugfix release](https://github.com/staabm/phpstan-dba/pull/484) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [simplify PHPStanStaticTypeMapper](https://github.com/rectorphp/rector-src/pull/3143) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
-- [type rex_var](https://github.com/redaxo/redaxo/pull/5432) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
+- [restart phpcs/phpcbf when xdebug is loaded](https://github.com/squizlabs/PHP_CodeSniffer/pull/3724) on [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) (2 days ago)
+- [use rexstan dino in main-nav](https://github.com/FriendsOfREDAXO/rexstan/pull/247) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
+- [Fix class-const resolving will always evaluate to true/false in traits](https://github.com/phpstan/phpstan-src/pull/2046) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Fixed &#39;$this instanceof X will always be false&#39; in traits](https://github.com/phpstan/phpstan-src/pull/2045) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Fix comparison with get_class() in traits always evaluate to true](https://github.com/phpstan/phpstan-src/pull/2044) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Fix resolving of __DIR__, __NAMESPACE__ in traits](https://github.com/phpstan/phpstan-src/pull/2043) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Non-static method `DOMDocument::loadHTML()` can be called statically](https://github.com/phpstan/phpstan-src/pull/2042) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Fix sprintf() argument count edge cases](https://github.com/phpstan/phpstan-src/pull/2041) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [added rexstan logo](https://github.com/FriendsOfREDAXO/rexstan/pull/243) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
+- [cover #238 in tests](https://github.com/FriendsOfREDAXO/rexstan/pull/242) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
+- [composer update](https://github.com/FriendsOfREDAXO/rexstan/pull/241) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
+- [enable native-type-coverage only in summary tab](https://github.com/FriendsOfREDAXO/rexstan/pull/239) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
+- [bugfix release](https://github.com/staabm/phpstan-dba/pull/484) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
+- [simplify PHPStanStaticTypeMapper](https://github.com/rectorphp/rector-src/pull/3143) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
+- [type rex_var](https://github.com/redaxo/redaxo/pull/5432) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.63](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.63) (3 days ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.1.0](https://github.com/vimeo/psalm/releases/tag/5.1.0) (4 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.53](https://github.com/staabm/phpstan-dba/releases/tag/0.2.53) (4 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.63](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.63) (4 days ago)
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.1.0](https://github.com/vimeo/psalm/releases/tag/5.1.0) (5 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.53](https://github.com/staabm/phpstan-dba/releases/tag/0.2.53) (5 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.14.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.14.0) (1 week ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.4.1](https://github.com/Roave/BetterReflection/releases/tag/6.4.1) (1 week ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.4.1](https://github.com/Roave/BetterReflection/releases/tag/6.4.1) (2 weeks ago)
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.6](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.6) (2 weeks ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.1.0](https://github.com/composer/pcre/releases/tag/3.1.0) (2 weeks ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9.1](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9.1) (3 weeks ago)
