@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [update vendored libraries](https://github.com/FriendsOfREDAXO/rexstan/pull/254) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [validate dataProvider return/parameter types](https://github.com/phpstan/phpstan-phpunit/pull/152) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
 - [optimize searching the php executable for linux-like systems](https://github.com/FriendsOfREDAXO/rexstan/pull/251) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [restart phpcs/phpcbf when xdebug is loaded](https://github.com/squizlabs/PHP_CodeSniffer/pull/3724) on [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) (3 days ago)
@@ -54,7 +55,6 @@
 - [cover #238 in tests](https://github.com/FriendsOfREDAXO/rexstan/pull/242) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [composer update](https://github.com/FriendsOfREDAXO/rexstan/pull/241) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [enable native-type-coverage only in summary tab](https://github.com/FriendsOfREDAXO/rexstan/pull/239) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
-- [bugfix release](https://github.com/staabm/phpstan-dba/pull/484) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
