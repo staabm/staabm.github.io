@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Reduce calls to Scope-&gt;getType(). Cheap checks first.](https://github.com/phpstan/phpstan-src/pull/2071) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Remove unnecessary file IO](https://github.com/phpstan/phpstan-src/pull/2069) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Optimize path related utils on windows](https://github.com/phpstan/phpstan-src/pull/2068) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [update vendored libraries](https://github.com/FriendsOfREDAXO/rexstan/pull/254) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -54,7 +55,6 @@
 - [Non-static method `DOMDocument::loadHTML()` can be called statically](https://github.com/phpstan/phpstan-src/pull/2042) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Fix sprintf() argument count edge cases](https://github.com/phpstan/phpstan-src/pull/2041) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [added rexstan logo](https://github.com/FriendsOfREDAXO/rexstan/pull/243) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [cover #238 in tests](https://github.com/FriendsOfREDAXO/rexstan/pull/242) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
