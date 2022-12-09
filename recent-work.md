@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove unnecessary file IO](https://github.com/phpstan/phpstan-src/pull/2069) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Optimize path related utils on windows](https://github.com/phpstan/phpstan-src/pull/2068) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [update vendored libraries](https://github.com/FriendsOfREDAXO/rexstan/pull/254) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [validate dataProvider return/parameter types](https://github.com/phpstan/phpstan-phpunit/pull/152) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
 - [optimize searching the php executable for linux-like systems](https://github.com/FriendsOfREDAXO/rexstan/pull/251) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
@@ -53,8 +55,6 @@
 - [Fix sprintf() argument count edge cases](https://github.com/phpstan/phpstan-src/pull/2041) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [added rexstan logo](https://github.com/FriendsOfREDAXO/rexstan/pull/243) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [cover #238 in tests](https://github.com/FriendsOfREDAXO/rexstan/pull/242) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [composer update](https://github.com/FriendsOfREDAXO/rexstan/pull/241) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [enable native-type-coverage only in summary tab](https://github.com/FriendsOfREDAXO/rexstan/pull/239) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
