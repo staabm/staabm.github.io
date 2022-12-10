@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Don&#39;t re-calculate node-key over and over again](https://github.com/phpstan/phpstan-src/pull/2073) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Cache resolved phpdoc in ClassReflection](https://github.com/phpstan/phpstan-src/pull/2072) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Reduce calls to Scope-&gt;getType(). Cheap checks first.](https://github.com/phpstan/phpstan-src/pull/2071) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Remove unnecessary file IO](https://github.com/phpstan/phpstan-src/pull/2069) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix comparison with get_class() in traits always evaluate to true](https://github.com/phpstan/phpstan-src/pull/2044) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix resolving of __DIR__, __NAMESPACE__ in traits](https://github.com/phpstan/phpstan-src/pull/2043) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Non-static method `DOMDocument::loadHTML()` can be called statically](https://github.com/phpstan/phpstan-src/pull/2042) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix sprintf() argument count edge cases](https://github.com/phpstan/phpstan-src/pull/2041) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
