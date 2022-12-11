@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove unnecessary regex matching](https://github.com/phpstan/phpstan-src/pull/2079) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix typo](https://github.com/PrestaShop/PrestaShop/pull/30549) on [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) (today)
 - [Don&#39;t re-calculate node-key over and over again - part 2](https://github.com/phpstan/phpstan-src/pull/2074) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Don&#39;t re-calculate node-key over and over again](https://github.com/phpstan/phpstan-src/pull/2073) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [use rexstan dino in main-nav](https://github.com/FriendsOfREDAXO/rexstan/pull/247) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [Fix class-const resolving will always evaluate to true/false in traits](https://github.com/phpstan/phpstan-src/pull/2046) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fixed &#39;$this instanceof X will always be false&#39; in traits](https://github.com/phpstan/phpstan-src/pull/2045) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix comparison with get_class() in traits always evaluate to true](https://github.com/phpstan/phpstan-src/pull/2044) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
