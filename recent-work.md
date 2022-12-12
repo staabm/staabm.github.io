@@ -3,14 +3,14 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 weeks ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 month ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (1 month ago)
-- [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (1 month ago)
+- [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (2 months ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 months ago)
 - [FriendsOfREDAXO/media_manager_plus](https://github.com/FriendsOfREDAXO/media_manager_plus) (2 months ago)
 
@@ -40,32 +40,32 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Faster ConstantArrayType-&gt;isSuperTypeOf()](https://github.com/phpstan/phpstan-src/pull/2086) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Faster and simpler TrinaryLogic-&gt;lazyExtremeIdentity()](https://github.com/phpstan/phpstan-src/pull/2083) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Faster ConstantStringType-&gt;toArrayKey()](https://github.com/phpstan/phpstan-src/pull/2081) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Faster ConstantFloatType-&gt;isSuperTypeOf(ConstantFloatType)](https://github.com/phpstan/phpstan-src/pull/2080) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Remove unnecessary regex matching](https://github.com/phpstan/phpstan-src/pull/2079) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Fix typo](https://github.com/PrestaShop/PrestaShop/pull/30549) on [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) (today)
-- [Don&#39;t re-calculate node-key over and over again - part 2](https://github.com/phpstan/phpstan-src/pull/2074) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Don&#39;t re-calculate node-key over and over again](https://github.com/phpstan/phpstan-src/pull/2073) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Cache resolved phpdoc in ClassReflection](https://github.com/phpstan/phpstan-src/pull/2072) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Reduce calls to Scope-&gt;getType(). Cheap checks first.](https://github.com/phpstan/phpstan-src/pull/2071) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Remove unnecessary file IO](https://github.com/phpstan/phpstan-src/pull/2069) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Optimize path related utils on windows](https://github.com/phpstan/phpstan-src/pull/2068) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [update vendored libraries](https://github.com/FriendsOfREDAXO/rexstan/pull/254) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [validate dataProvider return/parameter types](https://github.com/phpstan/phpstan-phpunit/pull/152) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
-- [optimize searching the php executable for linux-like systems](https://github.com/FriendsOfREDAXO/rexstan/pull/251) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
+- [Faster ConstantArrayType-&gt;isSuperTypeOf()](https://github.com/phpstan/phpstan-src/pull/2086) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Faster and simpler TrinaryLogic-&gt;lazyExtremeIdentity()](https://github.com/phpstan/phpstan-src/pull/2083) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Faster ConstantStringType-&gt;toArrayKey()](https://github.com/phpstan/phpstan-src/pull/2081) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Faster ConstantFloatType-&gt;isSuperTypeOf(ConstantFloatType)](https://github.com/phpstan/phpstan-src/pull/2080) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Remove unnecessary regex matching](https://github.com/phpstan/phpstan-src/pull/2079) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Fix typo](https://github.com/PrestaShop/PrestaShop/pull/30549) on [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) (1 day ago)
+- [Don&#39;t re-calculate node-key over and over again - part 2](https://github.com/phpstan/phpstan-src/pull/2074) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Don&#39;t re-calculate node-key over and over again](https://github.com/phpstan/phpstan-src/pull/2073) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Cache resolved phpdoc in ClassReflection](https://github.com/phpstan/phpstan-src/pull/2072) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Reduce calls to Scope-&gt;getType(). Cheap checks first.](https://github.com/phpstan/phpstan-src/pull/2071) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Remove unnecessary file IO](https://github.com/phpstan/phpstan-src/pull/2069) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Optimize path related utils on windows](https://github.com/phpstan/phpstan-src/pull/2068) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [update vendored libraries](https://github.com/FriendsOfREDAXO/rexstan/pull/254) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
+- [validate dataProvider return/parameter types](https://github.com/phpstan/phpstan-phpunit/pull/152) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
+- [optimize searching the php executable for linux-like systems](https://github.com/FriendsOfREDAXO/rexstan/pull/251) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.15.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.15.0) (4 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.15.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.15.0) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.63](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.63) (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.1.0](https://github.com/vimeo/psalm/releases/tag/5.1.0) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.53](https://github.com/staabm/phpstan-dba/releases/tag/0.2.53) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.4.1](https://github.com/Roave/BetterReflection/releases/tag/6.4.1) (2 weeks ago)
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.6](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.6) (3 weeks ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.1.0](https://github.com/composer/pcre/releases/tag/3.1.0) (3 weeks ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9.1](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9.1) (4 weeks ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9.1](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9.1) (1 month ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.2](https://github.com/phpstan/phpstan/releases/tag/1.9.2) (1 month ago)
 - [xsist10/cadfael](https://github.com/xsist10/cadfael) - [0.2.6](https://github.com/xsist10/cadfael/releases/tag/0.2.6) (1 month ago)
