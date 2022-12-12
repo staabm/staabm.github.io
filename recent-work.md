@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [remove duplicate mysqli_stmt stub definitions](https://github.com/staabm/phpstan-dba/pull/485) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Declare more PDOStatement method types](https://github.com/phpstan/phpstan-src/pull/2096) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement identical/equal comparisons on EnumCaseObjectType](https://github.com/phpstan/phpstan-src/pull/2095) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Remove unnecessary FileIO from FileReader](https://github.com/phpstan/phpstan-src/pull/2094) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Conditional return type for `IOInterface::select()`](https://github.com/composer/composer/pull/11219) on [composer/composer](https://github.com/composer/composer) (today)
@@ -53,12 +55,11 @@
 - [Don&#39;t re-calculate node-key over and over again - part 2](https://github.com/phpstan/phpstan-src/pull/2074) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Don&#39;t re-calculate node-key over and over again](https://github.com/phpstan/phpstan-src/pull/2073) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Cache resolved phpdoc in ClassReflection](https://github.com/phpstan/phpstan-src/pull/2072) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Reduce calls to Scope-&gt;getType(). Cheap checks first.](https://github.com/phpstan/phpstan-src/pull/2071) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Remove unnecessary file IO](https://github.com/phpstan/phpstan-src/pull/2069) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.5.0](https://github.com/Roave/BetterReflection/releases/tag/6.5.0) (today)
 - [zf1s/zf1](https://github.com/zf1s/zf1) - [1.15.1](https://github.com/zf1s/zf1/releases/tag/1.15.1) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.2.0](https://github.com/vimeo/psalm/releases/tag/5.2.0) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.7.0](https://github.com/paratestphp/paratest/releases/tag/v6.7.0) (today)
@@ -66,6 +67,5 @@
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.15.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.15.0) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.63](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.63) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.53](https://github.com/staabm/phpstan-dba/releases/tag/0.2.53) (1 week ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.4.1](https://github.com/Roave/BetterReflection/releases/tag/6.4.1) (2 weeks ago)
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.6](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.6) (3 weeks ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.1.0](https://github.com/composer/pcre/releases/tag/3.1.0) (3 weeks ago)
