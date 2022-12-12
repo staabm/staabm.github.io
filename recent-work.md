@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.7.0](https://github.com/paratestphp/paratest/releases/tag/v6.7.0) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.15.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.15.0) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.63](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.63) (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.1.0](https://github.com/vimeo/psalm/releases/tag/5.1.0) (1 week ago)
@@ -68,4 +69,3 @@
 - [composer/pcre](https://github.com/composer/pcre) - [3.1.0](https://github.com/composer/pcre/releases/tag/3.1.0) (3 weeks ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9.1](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9.1) (1 month ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.2](https://github.com/phpstan/phpstan/releases/tag/1.9.2) (1 month ago)
-- [xsist10/cadfael](https://github.com/xsist10/cadfael) - [0.2.6](https://github.com/xsist10/cadfael/releases/tag/0.2.6) (1 month ago)
