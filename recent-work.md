@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove unnecessary method call to already known value](https://github.com/phpstan/phpstan-src/pull/2092) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Faster ConstantArrayType-&gt;isSuperTypeOf()](https://github.com/phpstan/phpstan-src/pull/2086) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Faster and simpler TrinaryLogic-&gt;lazyExtremeIdentity()](https://github.com/phpstan/phpstan-src/pull/2083) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Faster ConstantStringType-&gt;toArrayKey()](https://github.com/phpstan/phpstan-src/pull/2081) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Optimize path related utils on windows](https://github.com/phpstan/phpstan-src/pull/2068) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [update vendored libraries](https://github.com/FriendsOfREDAXO/rexstan/pull/254) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [validate dataProvider return/parameter types](https://github.com/phpstan/phpstan-phpunit/pull/152) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
-- [optimize searching the php executable for linux-like systems](https://github.com/FriendsOfREDAXO/rexstan/pull/251) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
