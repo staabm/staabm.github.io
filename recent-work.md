@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove unnecessary FileIO from FileReader](https://github.com/phpstan/phpstan-src/pull/2094) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Conditional return type for `IOInterface::select()`](https://github.com/composer/composer/pull/11219) on [composer/composer](https://github.com/composer/composer) (today)
 - [Remove unnecessary method call to already known value](https://github.com/phpstan/phpstan-src/pull/2092) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Faster ConstantArrayType-&gt;isSuperTypeOf()](https://github.com/phpstan/phpstan-src/pull/2086) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,11 +55,11 @@
 - [Reduce calls to Scope-&gt;getType(). Cheap checks first.](https://github.com/phpstan/phpstan-src/pull/2071) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Remove unnecessary file IO](https://github.com/phpstan/phpstan-src/pull/2069) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Optimize path related utils on windows](https://github.com/phpstan/phpstan-src/pull/2068) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [update vendored libraries](https://github.com/FriendsOfREDAXO/rexstan/pull/254) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [zf1s/zf1](https://github.com/zf1s/zf1) - [1.15.1](https://github.com/zf1s/zf1/releases/tag/1.15.1) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.2.0](https://github.com/vimeo/psalm/releases/tag/5.2.0) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.7.0](https://github.com/paratestphp/paratest/releases/tag/v6.7.0) (today)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [1.7.8.8](https://github.com/PrestaShop/PrestaShop/releases/tag/1.7.8.8) (4 days ago)
@@ -68,4 +69,3 @@
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.4.1](https://github.com/Roave/BetterReflection/releases/tag/6.4.1) (2 weeks ago)
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.6](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.6) (3 weeks ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.1.0](https://github.com/composer/pcre/releases/tag/3.1.0) (3 weeks ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9.1](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9.1) (1 month ago)
