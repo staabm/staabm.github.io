@@ -4,6 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
@@ -12,7 +13,6 @@
 - [symplify/symplify](https://github.com/symplify/symplify) (1 month ago)
 - [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (2 months ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 months ago)
-- [FriendsOfREDAXO/media_manager_plus](https://github.com/FriendsOfREDAXO/media_manager_plus) (2 months ago)
 
 
 #### 📜 My recent blog posts
@@ -61,6 +61,7 @@
 
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.2.0](https://github.com/vimeo/psalm/releases/tag/5.2.0) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.7.0](https://github.com/paratestphp/paratest/releases/tag/v6.7.0) (today)
+- [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [1.7.8.8](https://github.com/PrestaShop/PrestaShop/releases/tag/1.7.8.8) (4 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.15.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.15.0) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.63](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.63) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.53](https://github.com/staabm/phpstan-dba/releases/tag/0.2.53) (1 week ago)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/2factor_auth](https://github.com/FriendsOfREDAXO/2factor_auth) - [2.0.6](https://github.com/FriendsOfREDAXO/2factor_auth/releases/tag/2.0.6) (3 weeks ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.1.0](https://github.com/composer/pcre/releases/tag/3.1.0) (3 weeks ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9.1](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9.1) (1 month ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.2](https://github.com/phpstan/phpstan/releases/tag/1.9.2) (1 month ago)
