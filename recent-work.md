@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement identical/equal comparisons on EnumCaseObjectType](https://github.com/phpstan/phpstan-src/pull/2095) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Remove unnecessary FileIO from FileReader](https://github.com/phpstan/phpstan-src/pull/2094) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Conditional return type for `IOInterface::select()`](https://github.com/composer/composer/pull/11219) on [composer/composer](https://github.com/composer/composer) (today)
 - [Remove unnecessary method call to already known value](https://github.com/phpstan/phpstan-src/pull/2092) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Cache resolved phpdoc in ClassReflection](https://github.com/phpstan/phpstan-src/pull/2072) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Reduce calls to Scope-&gt;getType(). Cheap checks first.](https://github.com/phpstan/phpstan-src/pull/2071) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Remove unnecessary file IO](https://github.com/phpstan/phpstan-src/pull/2069) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Optimize path related utils on windows](https://github.com/phpstan/phpstan-src/pull/2068) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
