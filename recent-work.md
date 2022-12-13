@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent overly greedy $scope-&gt;getType() calls in ImpossibleInstanceOfRule](https://github.com/phpstan/phpstan-src/pull/2098) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [remove duplicate mysqli_stmt stub definitions](https://github.com/staabm/phpstan-dba/pull/485) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Declare more PDOStatement method types](https://github.com/phpstan/phpstan-src/pull/2096) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Implement identical/equal comparisons on EnumCaseObjectType](https://github.com/phpstan/phpstan-src/pull/2095) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix typo](https://github.com/PrestaShop/PrestaShop/pull/30549) on [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) (2 days ago)
 - [Don&#39;t re-calculate node-key over and over again - part 2](https://github.com/phpstan/phpstan-src/pull/2074) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Don&#39;t re-calculate node-key over and over again](https://github.com/phpstan/phpstan-src/pull/2073) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Cache resolved phpdoc in ClassReflection](https://github.com/phpstan/phpstan-src/pull/2072) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
