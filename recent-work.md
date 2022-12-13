@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent overly greedy $scope-&gt;getType() calls in NodeScopeResolver](https://github.com/phpstan/phpstan-src/pull/2104) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Cheap checks first in TypeSpecifier](https://github.com/phpstan/phpstan-src/pull/2103) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Remove redundant getType() calls in MutatingScope](https://github.com/phpstan/phpstan-src/pull/2102) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent overly greedy $scope-&gt;getType() calls in Extensions](https://github.com/phpstan/phpstan-src/pull/2101) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent overly greedy $scope-&gt;getType() calls in Yield*Rules](https://github.com/phpstan/phpstan-src/pull/2100) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -53,8 +55,6 @@
 - [Remove unnecessary method call to already known value](https://github.com/phpstan/phpstan-src/pull/2092) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Faster ConstantArrayType-&gt;isSuperTypeOf()](https://github.com/phpstan/phpstan-src/pull/2086) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Faster and simpler TrinaryLogic-&gt;lazyExtremeIdentity()](https://github.com/phpstan/phpstan-src/pull/2083) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Faster ConstantStringType-&gt;toArrayKey()](https://github.com/phpstan/phpstan-src/pull/2081) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Faster ConstantFloatType-&gt;isSuperTypeOf(ConstantFloatType)](https://github.com/phpstan/phpstan-src/pull/2080) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
