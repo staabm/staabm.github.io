@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement identical/equal comparisons on EnumCaseObjectType](https://github.com/phpstan/phpstan-src/pull/2105) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent overly greedy $scope-&gt;getType() calls in NodeScopeResolver](https://github.com/phpstan/phpstan-src/pull/2104) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Cheap checks first in TypeSpecifier](https://github.com/phpstan/phpstan-src/pull/2103) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Remove redundant getType() calls in MutatingScope](https://github.com/phpstan/phpstan-src/pull/2102) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Conditional return type for `IOInterface::select()`](https://github.com/composer/composer/pull/11219) on [composer/composer](https://github.com/composer/composer) (1 day ago)
 - [Remove unnecessary method call to already known value](https://github.com/phpstan/phpstan-src/pull/2092) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Faster ConstantArrayType-&gt;isSuperTypeOf()](https://github.com/phpstan/phpstan-src/pull/2086) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Faster and simpler TrinaryLogic-&gt;lazyExtremeIdentity()](https://github.com/phpstan/phpstan-src/pull/2083) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
