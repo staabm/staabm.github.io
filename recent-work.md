@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) (3 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Throw exception in case we are not able to start a transaction](https://github.com/staabm/phpstan-dba/pull/487) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [fix phpstan 1.9.3 compat](https://github.com/staabm/phpstan-dba/pull/486) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [simplify ParametersAcceptorSelectorVariantsWrapper](https://github.com/rectorphp/rector-src/pull/3200) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Keep NeverType isExplicit-flag in TypeCombinator::intersect()](https://github.com/phpstan/phpstan-src/pull/2112) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [declare list types](https://github.com/nikic/PHP-Parser/pull/907) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
@@ -53,14 +55,13 @@
 - [Prevent overly greedy $scope-&gt;getType() calls in Yield*Rules](https://github.com/phpstan/phpstan-src/pull/2100) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Prevent overly greedy $scope-&gt;getType() calls in Comparison*Rules](https://github.com/phpstan/phpstan-src/pull/2099) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Prevent overly greedy $scope-&gt;getType() calls in ImpossibleInstanceOfRule](https://github.com/phpstan/phpstan-src/pull/2098) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [remove duplicate mysqli_stmt stub definitions](https://github.com/staabm/phpstan-dba/pull/485) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
-- [Declare more PDOStatement method types](https://github.com/phpstan/phpstan-src/pull/2096) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.65](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.65) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.54](https://github.com/staabm/phpstan-dba/releases/tag/0.2.54) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.14.2](https://github.com/redaxo/redaxo/releases/tag/5.14.2) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.64](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.64) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.3](https://github.com/phpstan/phpstan/releases/tag/1.9.3) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.5.0](https://github.com/Roave/BetterReflection/releases/tag/6.5.0) (2 days ago)
 - [zf1s/zf1](https://github.com/zf1s/zf1) - [1.15.1](https://github.com/zf1s/zf1/releases/tag/1.15.1) (2 days ago)
@@ -68,4 +69,3 @@
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.7.0](https://github.com/paratestphp/paratest/releases/tag/v6.7.0) (2 days ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [1.7.8.8](https://github.com/PrestaShop/PrestaShop/releases/tag/1.7.8.8) (6 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.15.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.15.0) (1 week ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.53](https://github.com/staabm/phpstan-dba/releases/tag/0.2.53) (1 week ago)
