@@ -45,7 +45,7 @@
 - [simplify ParametersAcceptorSelectorVariantsWrapper](https://github.com/rectorphp/rector-src/pull/3200) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Keep NeverType isExplicit-flag in TypeCombinator::intersect()](https://github.com/phpstan/phpstan-src/pull/2112) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [declare list types](https://github.com/nikic/PHP-Parser/pull/907) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
-- [removed dead statement](https://github.com/nikic/PHP-Parser/pull/906) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
+- [rewrote overly magic code to make it readable ](https://github.com/nikic/PHP-Parser/pull/906) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
 - [Resolve parameter types only when checkArgumentTypes=true](https://github.com/phpstan/phpstan-src/pull/2106) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Implement identical/equal comparisons on EnumCaseObjectType](https://github.com/phpstan/phpstan-src/pull/2105) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Prevent overly greedy $scope-&gt;getType() calls in NodeScopeResolver](https://github.com/phpstan/phpstan-src/pull/2104) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
