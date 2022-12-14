@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Keep NeverType isExplicit-flag in TypeCombinator::intersect()](https://github.com/phpstan/phpstan-src/pull/2112) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [declare list types](https://github.com/nikic/PHP-Parser/pull/907) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
 - [removed dead statement](https://github.com/nikic/PHP-Parser/pull/906) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
 - [Resolve parameter types only when checkArgumentTypes=true](https://github.com/phpstan/phpstan-src/pull/2106) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [remove duplicate mysqli_stmt stub definitions](https://github.com/staabm/phpstan-dba/pull/485) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [Declare more PDOStatement method types](https://github.com/phpstan/phpstan-src/pull/2096) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Implement identical/equal comparisons on EnumCaseObjectType](https://github.com/phpstan/phpstan-src/pull/2095) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Remove unnecessary FileIO from FileReader](https://github.com/phpstan/phpstan-src/pull/2094) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
