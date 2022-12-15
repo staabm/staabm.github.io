@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement OversizedArrayVisitor to improve huge constant array performance](https://github.com/phpstan/phpstan-src/pull/2116) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [test](https://github.com/redaxo/redaxo/pull/5445) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [Keep NeverType isExplicit-flag in InitializerExprTypeResolver](https://github.com/phpstan/phpstan-src/pull/2114) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Remove unnecessary md5 hashing in TypeCombinator](https://github.com/phpstan/phpstan-src/pull/2113) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Prevent overly greedy $scope-&gt;getType() calls in NodeScopeResolver](https://github.com/phpstan/phpstan-src/pull/2104) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Cheap checks first in TypeSpecifier](https://github.com/phpstan/phpstan-src/pull/2103) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Remove redundant getType() calls in MutatingScope](https://github.com/phpstan/phpstan-src/pull/2102) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Prevent overly greedy $scope-&gt;getType() calls in Extensions](https://github.com/phpstan/phpstan-src/pull/2101) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
