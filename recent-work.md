@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.15.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.15.1) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.65](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.65) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.54](https://github.com/staabm/phpstan-dba/releases/tag/0.2.54) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.14.2](https://github.com/redaxo/redaxo/releases/tag/5.14.2) (2 days ago)
@@ -68,4 +69,3 @@
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.2.0](https://github.com/vimeo/psalm/releases/tag/5.2.0) (3 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.7.0](https://github.com/paratestphp/paratest/releases/tag/v6.7.0) (3 days ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [1.7.8.8](https://github.com/PrestaShop/PrestaShop/releases/tag/1.7.8.8) (1 week ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.15.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.15.0) (1 week ago)
