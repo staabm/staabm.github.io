@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove unnecessary md5 hashing in TypeCombinator](https://github.com/phpstan/phpstan-src/pull/2113) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Throw exception in case we are not able to start a transaction](https://github.com/staabm/phpstan-dba/pull/487) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [fix phpstan 1.9.3 compat](https://github.com/staabm/phpstan-dba/pull/486) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [simplify ParametersAcceptorSelectorVariantsWrapper](https://github.com/rectorphp/rector-src/pull/3200) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Prevent overly greedy $scope-&gt;getType() calls in Extensions](https://github.com/phpstan/phpstan-src/pull/2101) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Prevent overly greedy $scope-&gt;getType() calls in Yield*Rules](https://github.com/phpstan/phpstan-src/pull/2100) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Prevent overly greedy $scope-&gt;getType() calls in Comparison*Rules](https://github.com/phpstan/phpstan-src/pull/2099) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Prevent overly greedy $scope-&gt;getType() calls in ImpossibleInstanceOfRule](https://github.com/phpstan/phpstan-src/pull/2098) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
