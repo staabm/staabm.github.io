@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.15.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.15.1) (1 day ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.15.2](https://github.com/phpstan/phpdoc-parser/releases/tag/1.15.2) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.65](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.65) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.54](https://github.com/staabm/phpstan-dba/releases/tag/0.2.54) (2 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.14.2](https://github.com/redaxo/redaxo/releases/tag/5.14.2) (3 days ago)
