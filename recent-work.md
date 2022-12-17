@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.4](https://github.com/phpstan/phpstan/releases/tag/1.9.4) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.15.2](https://github.com/phpstan/phpdoc-parser/releases/tag/1.15.2) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.65](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.65) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.54](https://github.com/staabm/phpstan-dba/releases/tag/0.2.54) (3 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.14.2](https://github.com/redaxo/redaxo/releases/tag/5.14.2) (4 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.3](https://github.com/phpstan/phpstan/releases/tag/1.9.3) (4 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.5.0](https://github.com/Roave/BetterReflection/releases/tag/6.5.0) (5 days ago)
 - [zf1s/zf1](https://github.com/zf1s/zf1) - [1.15.1](https://github.com/zf1s/zf1/releases/tag/1.15.1) (5 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.2.0](https://github.com/vimeo/psalm/releases/tag/5.2.0) (5 days ago)
