@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [composer/composer](https://github.com/composer/composer) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) (6 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 month ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (1 month ago)
 - [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) (2 months ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 months ago)
 
 
 #### 📜 My recent blog posts
