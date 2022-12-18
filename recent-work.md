@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [composer/composer](https://github.com/composer/composer) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [remove tool config files from release artifacts](https://github.com/TomasVotruba/unused-public/pull/2) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Implement OversizedArrayVisitor to improve huge constant array performance](https://github.com/phpstan/phpstan-src/pull/2116) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [test](https://github.com/redaxo/redaxo/pull/5445) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
 - [Keep NeverType isExplicit-flag in InitializerExprTypeResolver](https://github.com/phpstan/phpstan-src/pull/2114) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -54,7 +55,6 @@
 - [Implement identical/equal comparisons on EnumCaseObjectType](https://github.com/phpstan/phpstan-src/pull/2105) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Prevent overly greedy $scope-&gt;getType() calls in NodeScopeResolver](https://github.com/phpstan/phpstan-src/pull/2104) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Cheap checks first in TypeSpecifier](https://github.com/phpstan/phpstan-src/pull/2103) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Remove redundant getType() calls in MutatingScope](https://github.com/phpstan/phpstan-src/pull/2102) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
