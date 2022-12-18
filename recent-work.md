@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor to use TomasVotruba/unused-public](https://github.com/FriendsOfREDAXO/rexstan/pull/264) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [remove tool config files from release artifacts](https://github.com/TomasVotruba/unused-public/pull/2) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Implement OversizedArrayVisitor to improve huge constant array performance](https://github.com/phpstan/phpstan-src/pull/2116) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [test](https://github.com/redaxo/redaxo/pull/5445) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
@@ -54,14 +55,13 @@
 - [Resolve parameter types only when checkArgumentTypes=true](https://github.com/phpstan/phpstan-src/pull/2106) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Implement identical/equal comparisons on EnumCaseObjectType](https://github.com/phpstan/phpstan-src/pull/2105) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Prevent overly greedy $scope-&gt;getType() calls in NodeScopeResolver](https://github.com/phpstan/phpstan-src/pull/2104) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Cheap checks first in TypeSpecifier](https://github.com/phpstan/phpstan-src/pull/2103) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.66](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.66) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.4](https://github.com/phpstan/phpstan/releases/tag/1.9.4) (1 day ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.15.2](https://github.com/phpstan/phpdoc-parser/releases/tag/1.15.2) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.65](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.65) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.54](https://github.com/staabm/phpstan-dba/releases/tag/0.2.54) (4 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.14.2](https://github.com/redaxo/redaxo/releases/tag/5.14.2) (5 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.5.0](https://github.com/Roave/BetterReflection/releases/tag/6.5.0) (6 days ago)
