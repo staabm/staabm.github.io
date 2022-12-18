@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Validate usages of assert*-methods in TypeInferenceTestCase](https://github.com/phpstan/phpstan-src/pull/2121) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Refactor to use TomasVotruba/unused-public](https://github.com/FriendsOfREDAXO/rexstan/pull/264) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [remove tool config files from release artifacts](https://github.com/TomasVotruba/unused-public/pull/2) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Implement OversizedArrayVisitor to improve huge constant array performance](https://github.com/phpstan/phpstan-src/pull/2116) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -54,7 +55,6 @@
 - [rewrote overly magic code to make it readable ](https://github.com/nikic/PHP-Parser/pull/906) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (4 days ago)
 - [Resolve parameter types only when checkArgumentTypes=true](https://github.com/phpstan/phpstan-src/pull/2106) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Implement identical/equal comparisons on EnumCaseObjectType](https://github.com/phpstan/phpstan-src/pull/2105) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Prevent overly greedy $scope-&gt;getType() calls in NodeScopeResolver](https://github.com/phpstan/phpstan-src/pull/2104) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
