@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.3.0](https://github.com/vimeo/psalm/releases/tag/5.3.0) (1 day ago)
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.4.0](https://github.com/vimeo/psalm/releases/tag/5.4.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.66](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.66) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.4](https://github.com/phpstan/phpstan/releases/tag/1.9.4) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.15.2](https://github.com/phpstan/phpdoc-parser/releases/tag/1.15.2) (3 days ago)
