@@ -17,11 +17,11 @@
 
 #### 📜 My recent blog posts
 
+- [2022 Wrap Up](https://staabm.github.io/2022/12/20/2022-wrap-up.html) (today)
 - [Detect slow queries before they hit your production database](https://staabm.github.io/2022/08/16/phpstan-dba-query-plan-analysis.html) (4 months ago)
 - [Phpstan Non Falsy String](https://staabm.github.io/2022/08/11/phpstan-non-falsy-string.html) (4 months ago)
 - [Check your sql queries for errors](https://staabm.github.io/2022/08/05/phpstan-dba-syntax-error-detection.html) (4 months ago)
 - [Placeholder validation in sql queries](https://staabm.github.io/2022/07/30/phpstan-dba-placeholder-validation.html) (4 months ago)
-- [Type inference for dynamic sql queries](https://staabm.github.io/2022/07/23/phpstan-dba-inference-placeholder.html) (5 months ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
