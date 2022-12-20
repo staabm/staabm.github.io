@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/dbal](https://github.com/doctrine/dbal) - [3.5.2](https://github.com/doctrine/dbal/releases/tag/3.5.2) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.4.0](https://github.com/vimeo/psalm/releases/tag/5.4.0) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.66](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.66) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.4](https://github.com/phpstan/phpstan/releases/tag/1.9.4) (3 days ago)
@@ -68,4 +69,3 @@
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.5.0](https://github.com/Roave/BetterReflection/releases/tag/6.5.0) (1 week ago)
 - [zf1s/zf1](https://github.com/zf1s/zf1) - [1.15.1](https://github.com/zf1s/zf1/releases/tag/1.15.1) (1 week ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.7.0](https://github.com/paratestphp/paratest/releases/tag/v6.7.0) (1 week ago)
-- [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [1.7.8.8](https://github.com/PrestaShop/PrestaShop/releases/tag/1.7.8.8) (1 week ago)
