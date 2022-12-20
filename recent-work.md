@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
 - [composer/composer](https://github.com/composer/composer) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [remove tool config files from release artifacts](https://github.com/TomasVotruba/type-coverage/pull/2) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (today)
 - [OversizedArrayType contains at least 1 element](https://github.com/phpstan/phpstan-src/pull/2126) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Validate usages of assert*-methods in TypeInferenceTestCase](https://github.com/phpstan/phpstan-src/pull/2121) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Refactor to use TomasVotruba/unused-public](https://github.com/FriendsOfREDAXO/rexstan/pull/264) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
@@ -54,15 +55,14 @@
 - [Keep NeverType isExplicit-flag in TypeCombinator::intersect()](https://github.com/phpstan/phpstan-src/pull/2112) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [declare list types](https://github.com/nikic/PHP-Parser/pull/907) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (6 days ago)
 - [rewrote overly magic code to make it readable ](https://github.com/nikic/PHP-Parser/pull/906) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (6 days ago)
-- [Resolve parameter types only when checkArgumentTypes=true](https://github.com/phpstan/phpstan-src/pull/2106) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.67](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.67) (today)
 - [composer/composer](https://github.com/composer/composer) - [2.5.0](https://github.com/composer/composer/releases/tag/2.5.0) (today)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.5.2](https://github.com/doctrine/dbal/releases/tag/3.5.2) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.4.0](https://github.com/vimeo/psalm/releases/tag/5.4.0) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.66](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.66) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.4](https://github.com/phpstan/phpstan/releases/tag/1.9.4) (3 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.15.2](https://github.com/phpstan/phpdoc-parser/releases/tag/1.15.2) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.54](https://github.com/staabm/phpstan-dba/releases/tag/0.2.54) (6 days ago)
