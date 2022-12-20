@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Create 2022-12-20-2022-wrap-up.md](https://github.com/staabm/staabm.github.io/pull/33) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [remove tool config files from release artifacts](https://github.com/TomasVotruba/type-coverage/pull/2) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (today)
 - [OversizedArrayType contains at least 1 element](https://github.com/phpstan/phpstan-src/pull/2126) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Validate usages of assert*-methods in TypeInferenceTestCase](https://github.com/phpstan/phpstan-src/pull/2121) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [simplify ParametersAcceptorSelectorVariantsWrapper](https://github.com/rectorphp/rector-src/pull/3200) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
 - [Keep NeverType isExplicit-flag in TypeCombinator::intersect()](https://github.com/phpstan/phpstan-src/pull/2112) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [declare list types](https://github.com/nikic/PHP-Parser/pull/907) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (6 days ago)
-- [rewrote overly magic code to make it readable ](https://github.com/nikic/PHP-Parser/pull/906) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
