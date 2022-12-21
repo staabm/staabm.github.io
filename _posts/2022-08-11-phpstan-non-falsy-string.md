@@ -7,7 +7,7 @@ image: "images/og-images/phpstan-non-falsy-string-type.jpg"
 ogImage:
   title: "New PHPStan type: non-falsy-string"
   imageUrl: "https://staabm.github.io/staabm.svg"
-  filename: "phpstan-non-falsy-string-type"
+  fileName: "phpstan-non-falsy-string-type"
 ---
 
 Recently my [pull request was merged which adds `non-falsy-string`](https://github.com/phpstan/phpstan-src/pull/1542) to the PHPStan type system.

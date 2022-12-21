@@ -8,7 +8,7 @@ ogImage:
   title: "Achievement unlocked: 75 pull requests merged"
   subtitle: "How I started contributing to PHPStan"
   imageUrl: "https://staabm.github.io/staabm.svg"
-  filename: "75th-pull-request-to-PHPStan"
+  fileName: "75th-pull-request-to-PHPStan"
 ---
 
 This post describes how I started into [PHPStan](https://phpstan.org/). You can get a feeling of how I approach complex things and start building a mental model about a new problem domain.

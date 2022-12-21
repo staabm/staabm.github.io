@@ -9,7 +9,7 @@ ogImage:
   title: "detect slow queries before they hit your production database"
   subtitle: "phpstan-dba query plan analysis"
   imageUrl: "https://staabm.github.io/staabm.svg"
-  filename: "phpstan-dba-query-plan-analysis"
+  fileName: "phpstan-dba-query-plan-analysis"
 ---
 
 ## Detect slow queries before they hit your production database

@@ -8,7 +8,7 @@ ogImage:
   title: "PHPStan result caching in a monorepo"
   subtitle: "scanning several project is no longer slow"
   imageUrl: "https://staabm.github.io/staabm.svg"
-  filename: "phpstan-monorepo-result-cache"
+  fileName: "phpstan-monorepo-result-cache"
 ---
 
 I worked on improvements to the PHPStan result cache recently.
