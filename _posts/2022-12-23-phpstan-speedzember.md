@@ -96,13 +96,13 @@ PHPStan implements rules on top of the type system. Reducing calls into the `Sco
 - https://github.com/phpstan/phpstan-src/pull/2098
 - https://github.com/phpstan/phpstan-src/pull/2106
 
+Our internal benchmarks looked pretty good:
+<img width="918" alt="grafik" src="https://user-images.githubusercontent.com/120441/208891903-d7ccc2e5-32aa-442b-ab2a-845cde12e99d.png">
+
 ## End-user Feedback
 
 In the end all this work only pays off, when it really helps the end-users within their projects.
 Whether performance improvements we measured on small reduced snippets also make a difference for the whole project analysis is a different story.
-
-Our internal benchmarks looked pretty good though:
-<img width="918" alt="grafik" src="https://user-images.githubusercontent.com/120441/208891903-d7ccc2e5-32aa-442b-ab2a-845cde12e99d.png">
 
 After release we got a lot of positive reports though, which makes me confident that we are on the right track.
 
