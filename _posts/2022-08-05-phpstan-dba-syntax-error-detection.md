@@ -9,7 +9,7 @@ ogImage:
   title: "detect sql errors using static analysis"
   subtitle: "code <-> db schema consistency checks with phpstan-dba"
   imageUrl: "https://staabm.github.io/staabm.svg"
-  filename: "phpstan-dba-syntax-error-detection"
+  fileName: "phpstan-dba-syntax-error-detection"
 ---
 
 ## Check your sql queries for errors

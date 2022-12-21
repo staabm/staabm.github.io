@@ -9,7 +9,7 @@ ogImage:
   title: "validate sql query placeholders with phpstan-dba"
   subtitle: "Refactor sql queries without fear"
   imageUrl: "https://staabm.github.io/staabm.svg"
-  filename: "phpstan-dba-placeholder-validation"
+  fileName: "phpstan-dba-placeholder-validation"
 ---
 
 ## Placeholder validation in sql queries
