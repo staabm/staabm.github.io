@@ -48,6 +48,8 @@ People usually find it surprising when a final patch, which changes just a few l
 See for example [`Faster ConstantFloatType->isSuperTypeOf(ConstantFloatType)`](https://github.com/phpstan/phpstan-src/pull/2080).
 It is a tiny change resulting in a big speedup for some very specific code snippet.
 
+<img width="715" alt="grafik" src="https://user-images.githubusercontent.com/120441/208913014-26a2efaf-8220-4a23-9cd2-2911b779538f.png">
+
 The actual code changes are easy to grasp… the hard part is to identify which lines to change.
 Usually it takes a few hours of trial and error, watching profiles, or thinking about it while going out for a walk.
 It is pretty normal, that I think about a problem for a few days, and then suddenly I have an idea how to solve it.
