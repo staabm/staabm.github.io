@@ -7,7 +7,7 @@ image: "images/og-images/phpstan-speedzember.png"
 ogImage:
   title: "PHPStan got a speed boost in december"
   imageUrl: "https://staabm.github.io/staabm.svg"
-  filename: "phpstan-speedzember"
+  fileName: "phpstan-speedzember"
 ---
 
 In december I was on vacation from my daily job.
