@@ -4,9 +4,9 @@
 #### 💻 Check out what I'm currently working on
 
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
 - [composer/composer](https://github.com/composer/composer) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Faster Scope-&gt;shouldInvalidateExpression()](https://github.com/phpstan/phpstan-src/pull/2139) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [more precise `--memory-limit` description](https://github.com/phpstan/phpstan/pull/8572) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Create 2022-12-23-phpstan-speedzember.md](https://github.com/staabm/staabm.github.io/pull/34) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Fix constant-string handling in union-types](https://github.com/phpstan/phpstan-src/pull/2134) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Keep NeverType isExplicit-flag in InitializerExprTypeResolver](https://github.com/phpstan/phpstan-src/pull/2114) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Remove unnecessary md5 hashing in TypeCombinator](https://github.com/phpstan/phpstan-src/pull/2113) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Throw exception in case we are not able to start a transaction](https://github.com/staabm/phpstan-dba/pull/487) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [fix phpstan 1.9.3 compat](https://github.com/staabm/phpstan-dba/pull/486) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
