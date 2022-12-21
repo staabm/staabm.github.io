@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Create 2022-12-23-phpstan-speedzember.md](https://github.com/staabm/staabm.github.io/pull/34) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Fix constant-string handling in union-types](https://github.com/phpstan/phpstan-src/pull/2134) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Create 2022-12-20-2022-wrap-up.md](https://github.com/staabm/staabm.github.io/pull/33) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [remove tool config files from release artifacts](https://github.com/TomasVotruba/type-coverage/pull/2) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (1 day ago)
@@ -54,7 +55,6 @@
 - [Throw exception in case we are not able to start a transaction](https://github.com/staabm/phpstan-dba/pull/487) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [fix phpstan 1.9.3 compat](https://github.com/staabm/phpstan-dba/pull/486) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [simplify ParametersAcceptorSelectorVariantsWrapper](https://github.com/rectorphp/rector-src/pull/3200) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [Keep NeverType isExplicit-flag in TypeCombinator::intersect()](https://github.com/phpstan/phpstan-src/pull/2112) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
