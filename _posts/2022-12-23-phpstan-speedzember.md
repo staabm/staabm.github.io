@@ -93,6 +93,7 @@ PHPStan does a lot of work within the Scope-class which reflects the state of ty
 It decides how the types flow thru the code, and how logic influence the types.
 - https://github.com/phpstan/phpstan-src/pull/2092
 - https://github.com/phpstan/phpstan-src/pull/2116
+- https://github.com/phpstan/phpstan-src/pull/2139
 
 PHPStan implements rules on top of the type system. Reducing calls into the `Scope`-class to a minimal can help keep things fast.
 - https://github.com/phpstan/phpstan-src/pull/2071
