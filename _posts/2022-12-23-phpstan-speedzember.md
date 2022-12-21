@@ -31,6 +31,8 @@ I used [Blackfire](https://blackfire.io/) for this.
 After that you can open the profile in your browser and start digging into the results.
 Watching these profiles needs a bit of practice, but you will get better over time.
 
+<img width="657" alt="grafik" src="https://user-images.githubusercontent.com/120441/208893476-e7d44943-201f-44cf-a662-e66ffba16a84.png">
+
 Look only for the things which clearly dominate the profile. Usually there are a few functions/methods taking most of the time.
 After we have an idea what is slow, lets think about how the logic could be made faster.
 
