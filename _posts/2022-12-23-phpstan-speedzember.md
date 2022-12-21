@@ -13,6 +13,7 @@ ogImage:
 In december I was on vacation from my daily job.
 As the weather was either too cold or too rainy to go outside I decided to spend some time on PHPStan.
 
+
 ## Speed it is ⚡️
 
 Since it was likely I had several hours a day in a row available, I decided to focus on PHPStan's performance issues.
@@ -40,6 +41,7 @@ I usually try a few quick and dirty changes, and afterwards running the profilin
 In case these changes lead to a considerable speedup I think about how the fix should be structured and engineered properly.
 In case the changes don't lead to a measurable speedup, I will usually discard the changes and try something different.
 
+
 ## Surprising gifts 🎁
 
 People usually find it surprising when a final patch, which changes just a few lines of code can make such a difference. 
@@ -53,6 +55,7 @@ It is pretty normal, that I think about a problem for a few days, and then sudde
 In other words: You don't see at all how much time went into a pull request.
 Most of the time it is even the other way around: the simpler a solution is, the more time it took to engineer it.
 
+
 ## How to find slow files in my project?
 
 You should have an idea when running PHPStan across your project, which files consume the most time to analyse.
@@ -61,6 +64,7 @@ It happens that analyzing a project containing thousands or even millions of fil
 In case you want to get an idea how PHPStan is measing your project, [have a look at this great small writeup](https://gist.github.com/ruudk/41897eb59ff497b271fc9fa3c7d5fb27) of [Ruud Kamphuis](https://gist.github.com/ruudk).
 If you find stuff which is slow, try to reduce it as much as you can. Just make sure the performance characteristics of the code don't change.
 [Open a issue on PHPStan](https://github.com/phpstan/phpstan/issues) so we can investigate what can be done about it.
+
 
 ## PHPStan speedzember 🎄
 
@@ -100,6 +104,29 @@ PHPStan implements rules on top of the type system. Reducing calls into the `Sco
 
 Our internal benchmarks looked pretty good:
 <img width="918" alt="grafik" src="https://user-images.githubusercontent.com/120441/208891903-d7ccc2e5-32aa-442b-ab2a-845cde12e99d.png">
+
+
+## The oversized array case
+
+One topic stood out of all the ones mentioned above.
+In [the oversized array pull request](https://github.com/phpstan/phpstan-src/pull/2116) I came up with [an idea to improve runtime](https://github.com/phpstan/phpstan-src/pull/2116#issuecomment-1354395469) on files with huge constant arrays (> 256 elements).
+[A early protoype](https://twitter.com/markusstaab/status/1604417771416100865) suggested that the basic idea works.
+
+The code went thru a lot of iterations and was re-structured a few times. My initial prototype was implemented as a [NodeVisitor](https://github.com/nikic/PHP-Parser/blob/3182d12b55895a2e71ed6684f9bd5cd13527e94e/lib/PhpParser/NodeVisitor.php),
+but lead thru the code review process the code was refactored. My thinking was building this thing based on pure AST would be the only way to make the snippets at hand fast enough.
+At some point we even reached a point where all tests went green and one might think the patch would be considered acceptable.
+
+Another batch of review comments later, we saw a different picture.
+After I worked thru the feedback, it got clear that we can utilize the existing type-classes to re-model the logic at the PHPStan core.
+We made it work for most but a few test cases. For at least 15 hours I tried to make the pull request pass for the few remaining test cases.
+I did not succeed though.
+
+Even if I did not talk about loosing my motivation to get this PR merged, 
+[ondrej seemed to realize](https://github.com/phpstan/phpstan-src/pull/2116#issuecomment-1359006986) that it was best to take the state at that time for a last polish.
+He refactored the implementation once again, [prepared existing ground](https://github.com/phpstan/phpstan-src/pull/2131) for the coming adjustments and merged the PR.
+
+It was so great to see the PR getting merged, as I invested so much time into it.
+
 
 ## End-user Feedback
 
