@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [More strict static analysis](https://github.com/staabm/phpstan-dba/pull/488) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [setup more strict static analysis rules](https://github.com/staabm/phpstan-baseline-analysis/pull/88) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [support tomasvotruba/cognitive-complexity](https://github.com/staabm/phpstan-baseline-analysis/pull/87) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [Declare PHP 8.1/8.2 compat](https://github.com/TomasVotruba/unused-public/pull/11) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
@@ -54,7 +55,6 @@
 - [remove tool config files from release artifacts](https://github.com/TomasVotruba/type-coverage/pull/2) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (3 days ago)
 - [OversizedArrayType contains at least 1 element](https://github.com/phpstan/phpstan-src/pull/2126) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Validate usages of assert*-methods in TypeInferenceTestCase](https://github.com/phpstan/phpstan-src/pull/2121) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Refactor to use TomasVotruba/unused-public](https://github.com/FriendsOfREDAXO/rexstan/pull/264) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
