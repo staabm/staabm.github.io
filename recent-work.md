@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [setup more strict static analysis rules](https://github.com/staabm/phpstan-baseline-analysis/pull/88) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [support tomasvotruba/cognitive-complexity](https://github.com/staabm/phpstan-baseline-analysis/pull/87) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [Declare PHP 8.1/8.2 compat](https://github.com/TomasVotruba/unused-public/pull/11) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Declare PHP 8.1/8.2 compat](https://github.com/TomasVotruba/type-coverage/pull/5) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (today)
@@ -54,13 +55,12 @@
 - [OversizedArrayType contains at least 1 element](https://github.com/phpstan/phpstan-src/pull/2126) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Validate usages of assert*-methods in TypeInferenceTestCase](https://github.com/phpstan/phpstan-src/pull/2121) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Refactor to use TomasVotruba/unused-public](https://github.com/FriendsOfREDAXO/rexstan/pull/264) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
-- [remove tool config files from release artifacts](https://github.com/TomasVotruba/unused-public/pull/2) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9.3](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9.3) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.68](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.68) (today)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9.2](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9.2) (today)
 - [composer/composer](https://github.com/composer/composer) - [2.5.1](https://github.com/composer/composer/releases/tag/2.5.1) (1 day ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.15.3](https://github.com/phpstan/phpdoc-parser/releases/tag/1.15.3) (3 days ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.5.2](https://github.com/doctrine/dbal/releases/tag/3.5.2) (3 days ago)
