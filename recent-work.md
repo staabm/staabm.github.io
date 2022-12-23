@@ -5,9 +5,9 @@
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (3 days ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
 - [composer/composer](https://github.com/composer/composer) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) (1 week ago)
@@ -40,6 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Declare PHP 8.1/8.2 compat](https://github.com/TomasVotruba/unused-public/pull/11) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
+- [Declare PHP 8.1/8.2 compat](https://github.com/TomasVotruba/type-coverage/pull/5) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (today)
+- [fix tomasvotruba/type-coverage compat](https://github.com/staabm/phpstan-baseline-analysis/pull/86) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
+- [added failling test](https://github.com/TomasVotruba/unused-public/pull/10) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Faster Scope-&gt;shouldInvalidateExpression()](https://github.com/phpstan/phpstan-src/pull/2139) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [more precise `--memory-limit` description](https://github.com/phpstan/phpstan/pull/8572) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [Create 2022-12-23-phpstan-speedzember.md](https://github.com/staabm/staabm.github.io/pull/34) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
@@ -51,10 +55,6 @@
 - [Refactor to use TomasVotruba/unused-public](https://github.com/FriendsOfREDAXO/rexstan/pull/264) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [remove tool config files from release artifacts](https://github.com/TomasVotruba/unused-public/pull/2) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
 - [Implement OversizedArrayVisitor to improve huge constant array performance](https://github.com/phpstan/phpstan-src/pull/2116) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [test](https://github.com/redaxo/redaxo/pull/5445) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
-- [Keep NeverType isExplicit-flag in InitializerExprTypeResolver](https://github.com/phpstan/phpstan-src/pull/2114) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Remove unnecessary md5 hashing in TypeCombinator](https://github.com/phpstan/phpstan-src/pull/2113) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Throw exception in case we are not able to start a transaction](https://github.com/staabm/phpstan-dba/pull/487) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
