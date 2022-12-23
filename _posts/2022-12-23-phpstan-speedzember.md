@@ -143,3 +143,16 @@ After release we got a lot of positive reports though, which makes me confident 
 <img width="910" alt="grafik" src="https://user-images.githubusercontent.com/120441/208891732-fbe8dbbf-d6c9-4c26-bff6-26e1121cdd82.png">
 
 <img width="911" alt="grafik" src="https://user-images.githubusercontent.com/120441/208892101-bb9ba37d-21f6-4fd5-9c6c-13b64a10ce95.png">
+
+## Save the planet; keep people in focus
+
+We expect this changes to considerably reduce the amount of energy used in CI pipelines.
+So thats my take on saving the planet and don't waste energy.
+
+If you are using PHPStan in projects this will also [considerably reduce the wait time](https://twitter.com/OndrejMirtes/status/1601514447159578624) for the engineers.
+A shorter feedback loop helps developers to stay in focus and work more efficiently.
+
+Chances are high, that you or your company is saving a lot of money with recent releases.
+[Please consider supporting my work](https://github.com/sponsors/staabm), so I can make sure PHPStan keeps as fast as possible and evolves to the next level.
+
+All this performance work have been developed while holiday of my primary job. 
