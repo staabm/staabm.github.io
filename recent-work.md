@@ -7,10 +7,10 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (3 days ago)
 - [composer/composer](https://github.com/composer/composer) (6 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 weeks ago)
 
