@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Error in TypeInferenceTestCase when missing namespace](https://github.com/phpstan/phpstan-src/pull/2148) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [improved error message wording](https://github.com/TomasVotruba/unused-public/pull/16) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
 - [More strict static analysis](https://github.com/staabm/phpstan-dba/pull/488) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [setup more strict static analysis rules](https://github.com/staabm/phpstan-baseline-analysis/pull/88) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
@@ -54,7 +55,6 @@
 - [Fix constant-string handling in union-types](https://github.com/phpstan/phpstan-src/pull/2134) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Create 2022-12-20-2022-wrap-up.md](https://github.com/staabm/staabm.github.io/pull/33) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [remove tool config files from release artifacts](https://github.com/TomasVotruba/type-coverage/pull/2) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (1 week ago)
-- [OversizedArrayType contains at least 1 element](https://github.com/phpstan/phpstan-src/pull/2126) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
