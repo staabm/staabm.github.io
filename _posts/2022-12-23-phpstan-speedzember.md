@@ -37,7 +37,7 @@ Watching these profiles needs a bit of practice, but you will get better over ti
 Look only for the things which clearly dominate the profile. Usually there are a few functions/methods taking most of the time.
 After we have an idea what is slow, lets think about how the logic could be made faster.
 
-I usually try a few quick and dirty changes, and afterwards running the profiling again.
+I usually try a few quick and dirty changes, and afterwards run the profiling again.
 In case these changes lead to a considerable speedup I think about how the fix should be structured and engineered properly.
 In case the changes don't lead to a measurable speedup, I will usually discard the changes and try something different.
 
