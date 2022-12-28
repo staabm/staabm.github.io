@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
+- [symplify/symplify](https://github.com/symplify/symplify) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 - [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) (1 week ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) (2 weeks ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fixed reading of *.twig files recursively](https://github.com/TomasVotruba/unused-public/pull/22) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Removed unused NodeList class](https://github.com/phpstan/phpstan-src/pull/2151) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Removed unused fileName in FetchedNode](https://github.com/phpstan/phpstan-src/pull/2150) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [more precise skip() parameter type](https://github.com/symplify/symplify/pull/4517) on [symplify/symplify](https://github.com/symplify/symplify) (today)
@@ -54,7 +55,6 @@
 - [setup more strict static analysis rules](https://github.com/staabm/phpstan-baseline-analysis/pull/88) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
 - [support tomasvotruba/cognitive-complexity](https://github.com/staabm/phpstan-baseline-analysis/pull/87) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
 - [Declare PHP 8.1/8.2 compat](https://github.com/TomasVotruba/unused-public/pull/11) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
-- [Declare PHP 8.1/8.2 compat](https://github.com/TomasVotruba/type-coverage/pull/5) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
