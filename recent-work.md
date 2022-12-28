@@ -4,11 +4,11 @@
 #### 💻 Check out what I'm currently working on
 
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) (1 week ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) (2 weeks ago)
@@ -40,6 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Removed unused NodeList class](https://github.com/phpstan/phpstan-src/pull/2151) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Removed unused fileName in FetchedNode](https://github.com/phpstan/phpstan-src/pull/2150) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [more precise skip() parameter type](https://github.com/symplify/symplify/pull/4517) on [symplify/symplify](https://github.com/symplify/symplify) (today)
+- [more precise skip() parameter type](https://github.com/symplify/easy-coding-standard/pull/20) on [symplify/easy-coding-standard](https://github.com/symplify/easy-coding-standard) (today)
 - [drop nette/utils dependency](https://github.com/TomasVotruba/unused-public/pull/21) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Drop symfony/finder dependency](https://github.com/TomasVotruba/unused-public/pull/20) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [mark parameters as optional](https://github.com/TomasVotruba/unused-public/pull/19) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
@@ -51,10 +55,6 @@
 - [support tomasvotruba/cognitive-complexity](https://github.com/staabm/phpstan-baseline-analysis/pull/87) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
 - [Declare PHP 8.1/8.2 compat](https://github.com/TomasVotruba/unused-public/pull/11) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
 - [Declare PHP 8.1/8.2 compat](https://github.com/TomasVotruba/type-coverage/pull/5) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (5 days ago)
-- [fix tomasvotruba/type-coverage compat](https://github.com/staabm/phpstan-baseline-analysis/pull/86) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
-- [added failling test](https://github.com/TomasVotruba/unused-public/pull/10) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
-- [Faster Scope-&gt;shouldInvalidateExpression()](https://github.com/phpstan/phpstan-src/pull/2139) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [more precise `--memory-limit` description](https://github.com/phpstan/phpstan/pull/8572) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
