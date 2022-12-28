@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [relax symfony/finder constraint](https://github.com/TomasVotruba/unused-public/pull/18) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Error in TypeInferenceTestCase when missing namespace](https://github.com/phpstan/phpstan-src/pull/2148) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [improved error message wording](https://github.com/TomasVotruba/unused-public/pull/16) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
 - [More strict static analysis](https://github.com/staabm/phpstan-dba/pull/488) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
@@ -54,7 +55,6 @@
 - [Create 2022-12-23-phpstan-speedzember.md](https://github.com/staabm/staabm.github.io/pull/34) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [Fix constant-string handling in union-types](https://github.com/phpstan/phpstan-src/pull/2134) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Create 2022-12-20-2022-wrap-up.md](https://github.com/staabm/staabm.github.io/pull/33) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
-- [remove tool config files from release artifacts](https://github.com/TomasVotruba/type-coverage/pull/2) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
