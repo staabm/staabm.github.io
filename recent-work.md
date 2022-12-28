@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [symplify/symplify](https://github.com/symplify/symplify) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix `rex_extension::registerPoint` return type](https://github.com/redaxo/redaxo/pull/5455) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [Revert &#34;drop nette/utils dependency (#21)&#34;](https://github.com/TomasVotruba/unused-public/pull/23) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Fixed reading of *.twig files recursively](https://github.com/TomasVotruba/unused-public/pull/22) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Removed unused NodeList class](https://github.com/phpstan/phpstan-src/pull/2151) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [improved error message wording](https://github.com/TomasVotruba/unused-public/pull/16) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
 - [More strict static analysis](https://github.com/staabm/phpstan-dba/pull/488) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [setup more strict static analysis rules](https://github.com/staabm/phpstan-baseline-analysis/pull/88) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
-- [support tomasvotruba/cognitive-complexity](https://github.com/staabm/phpstan-baseline-analysis/pull/87) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
