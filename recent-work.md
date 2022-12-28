@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) (1 week ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) (2 weeks ago)
@@ -17,7 +17,7 @@
 
 #### 📜 My recent blog posts
 
-- [Phpstan Speedzember](https://staabm.github.io/2022/12/23/phpstan-speedzember.html) (4 days ago)
+- [Phpstan Speedzember](https://staabm.github.io/2022/12/23/phpstan-speedzember.html) (5 days ago)
 - [2022 Wrap Up](https://staabm.github.io/2022/12/20/2022-wrap-up.html) (1 week ago)
 - [Detect slow queries before they hit your production database](https://staabm.github.io/2022/08/16/phpstan-dba-query-plan-analysis.html) (4 months ago)
 - [Phpstan Non Falsy String](https://staabm.github.io/2022/08/11/phpstan-non-falsy-string.html) (4 months ago)
@@ -26,8 +26,8 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
-- [skerbis](https://github.com/skerbis) (1 week ago)
-- [Marschl](https://github.com/Marschl) (3 weeks ago)
+- [skerbis](https://github.com/skerbis) (2 weeks ago)
+- [Marschl](https://github.com/Marschl) (4 weeks ago)
 - [zonuexe](https://github.com/zonuexe) (1 month ago)
 - [SpiGAndromeda](https://github.com/SpiGAndromeda) (1 month ago)
 - [bitshiftersgmbh](https://github.com/bitshiftersgmbh) (3 months ago)
@@ -40,32 +40,32 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Error in TypeInferenceTestCase when missing namespace](https://github.com/phpstan/phpstan-src/pull/2148) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [improved error message wording](https://github.com/TomasVotruba/unused-public/pull/16) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
-- [More strict static analysis](https://github.com/staabm/phpstan-dba/pull/488) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [setup more strict static analysis rules](https://github.com/staabm/phpstan-baseline-analysis/pull/88) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
-- [support tomasvotruba/cognitive-complexity](https://github.com/staabm/phpstan-baseline-analysis/pull/87) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
-- [Declare PHP 8.1/8.2 compat](https://github.com/TomasVotruba/unused-public/pull/11) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
-- [Declare PHP 8.1/8.2 compat](https://github.com/TomasVotruba/type-coverage/pull/5) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (4 days ago)
-- [fix tomasvotruba/type-coverage compat](https://github.com/staabm/phpstan-baseline-analysis/pull/86) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
-- [added failling test](https://github.com/TomasVotruba/unused-public/pull/10) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
-- [Faster Scope-&gt;shouldInvalidateExpression()](https://github.com/phpstan/phpstan-src/pull/2139) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [more precise `--memory-limit` description](https://github.com/phpstan/phpstan/pull/8572) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
-- [Create 2022-12-23-phpstan-speedzember.md](https://github.com/staabm/staabm.github.io/pull/34) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
-- [Fix constant-string handling in union-types](https://github.com/phpstan/phpstan-src/pull/2134) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Error in TypeInferenceTestCase when missing namespace](https://github.com/phpstan/phpstan-src/pull/2148) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [improved error message wording](https://github.com/TomasVotruba/unused-public/pull/16) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
+- [More strict static analysis](https://github.com/staabm/phpstan-dba/pull/488) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
+- [setup more strict static analysis rules](https://github.com/staabm/phpstan-baseline-analysis/pull/88) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
+- [support tomasvotruba/cognitive-complexity](https://github.com/staabm/phpstan-baseline-analysis/pull/87) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
+- [Declare PHP 8.1/8.2 compat](https://github.com/TomasVotruba/unused-public/pull/11) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
+- [Declare PHP 8.1/8.2 compat](https://github.com/TomasVotruba/type-coverage/pull/5) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (5 days ago)
+- [fix tomasvotruba/type-coverage compat](https://github.com/staabm/phpstan-baseline-analysis/pull/86) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
+- [added failling test](https://github.com/TomasVotruba/unused-public/pull/10) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
+- [Faster Scope-&gt;shouldInvalidateExpression()](https://github.com/phpstan/phpstan-src/pull/2139) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [more precise `--memory-limit` description](https://github.com/phpstan/phpstan/pull/8572) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
+- [Create 2022-12-23-phpstan-speedzember.md](https://github.com/staabm/staabm.github.io/pull/34) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
+- [Fix constant-string handling in union-types](https://github.com/phpstan/phpstan-src/pull/2134) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Create 2022-12-20-2022-wrap-up.md](https://github.com/staabm/staabm.github.io/pull/33) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [remove tool config files from release artifacts](https://github.com/TomasVotruba/type-coverage/pull/2) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9.3](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9.3) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.68](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.68) (4 days ago)
-- [composer/composer](https://github.com/composer/composer) - [2.5.1](https://github.com/composer/composer/releases/tag/2.5.1) (5 days ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9.3](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9.3) (5 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.68](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.68) (5 days ago)
+- [composer/composer](https://github.com/composer/composer) - [2.5.1](https://github.com/composer/composer/releases/tag/2.5.1) (6 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.15.3](https://github.com/phpstan/phpdoc-parser/releases/tag/1.15.3) (1 week ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.5.2](https://github.com/doctrine/dbal/releases/tag/3.5.2) (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.4.0](https://github.com/vimeo/psalm/releases/tag/5.4.0) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.4](https://github.com/phpstan/phpstan/releases/tag/1.9.4) (1 week ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.54](https://github.com/staabm/phpstan-dba/releases/tag/0.2.54) (1 week ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.54](https://github.com/staabm/phpstan-dba/releases/tag/0.2.54) (2 weeks ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.14.2](https://github.com/redaxo/redaxo/releases/tag/5.14.2) (2 weeks ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.5.0](https://github.com/Roave/BetterReflection/releases/tag/6.5.0) (2 weeks ago)
