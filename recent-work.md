@@ -3,11 +3,11 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [drop nette/utils dependency](https://github.com/TomasVotruba/unused-public/pull/21) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Drop symfony/finder dependency](https://github.com/TomasVotruba/unused-public/pull/20) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [mark parameters as optional](https://github.com/TomasVotruba/unused-public/pull/19) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [relax symfony/finder constraint](https://github.com/TomasVotruba/unused-public/pull/18) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
@@ -54,7 +55,6 @@
 - [added failling test](https://github.com/TomasVotruba/unused-public/pull/10) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
 - [Faster Scope-&gt;shouldInvalidateExpression()](https://github.com/phpstan/phpstan-src/pull/2139) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [more precise `--memory-limit` description](https://github.com/phpstan/phpstan/pull/8572) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
-- [Create 2022-12-23-phpstan-speedzember.md](https://github.com/staabm/staabm.github.io/pull/34) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
