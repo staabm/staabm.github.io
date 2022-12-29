@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.2.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.2.0) (today)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9.3](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9.3) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.68](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.68) (6 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.5.1](https://github.com/composer/composer/releases/tag/2.5.1) (1 week ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.4](https://github.com/phpstan/phpstan/releases/tag/1.9.4) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.54](https://github.com/staabm/phpstan-dba/releases/tag/0.2.54) (2 weeks ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.14.2](https://github.com/redaxo/redaxo/releases/tag/5.14.2) (2 weeks ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.5.0](https://github.com/Roave/BetterReflection/releases/tag/6.5.0) (2 weeks ago)
