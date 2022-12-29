@@ -56,7 +56,8 @@ If you use the code as shown above you will get a [false positive from PHPStan](
 
 function myController(HttpSession $session):void {
     if ($session->sessionExists()) {
-        $session->getSession()->doSomething(); // PHPStan error: Cannot call method doSomething() on UserSession|null.
+        // PHPStan error: Cannot call method doSomething() on UserSession|null.
+        $session->getSession()->doSomething();
     }
 }
 
@@ -68,8 +69,9 @@ This means that I would need an additional null-check, even though from a busine
 
 function myController(HttpSession $session):void {
     if ($session->sessionExists()) {
+        // no error, but unnecessarry complexity
         if ($session->getSession() !== null) {
-            $session->getSession()->doSomething(); // no error, but unnecessarry complexity
+            $session->getSession()->doSomething();
         }
     }
 }
@@ -114,7 +116,8 @@ class UserSession {
 
 function myController(HttpSession $session):void {
     if ($session->sessionExists()) {
-        $session->getSession()->doSomething(); // no error: PHPStan is aware of `getSession()` cannot return null
+        // no error: PHPStan is aware of `getSession()` cannot return null
+        $session->getSession()->doSomething();
     }
 }
 
@@ -131,7 +134,8 @@ function myController(HttpSession $session):void {
         return;
     }
 
-    $session->getSession()->doSomething(); // no error: PHPStan is aware of `getSession()` cannot return null
+    // no error: PHPStan is aware of `getSession()` cannot return null
+    $session->getSession()->doSomething();
 }
 
 ```
