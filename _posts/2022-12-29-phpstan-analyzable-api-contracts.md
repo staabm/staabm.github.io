@@ -21,15 +21,15 @@ From time to time I have to implement APIs like this:
 class HttpSession {
     /**
      * checks whether the current user has a session
-     */ 
+     */
     public function sessionExists(): bool
     {
         // implement me
         return (bool) rand(0,1);
     }
-    
+
     /**
-     * Returns the current user session if it exists. otherwise returns null. 
+     * Returns the current user session if it exists. otherwise returns null.
      * @return UserSession|null
      */
     public function getSession(): ?UserSession
@@ -76,7 +76,7 @@ function myController(HttpSession $session):void {
 
 ```
 
-## `@phpstan-assert*` to the rescue 
+## `@phpstan-assert*` to the rescue
 
 As of [PHPStan 1.9.0](https://phpstan.org/blog/phpstan-1-9-0-with-phpdoc-asserts-list-type#phpdoc-asserts) you can give a hint about the API contract, so it knows about the implications of the API.
 By adding a single line of PHPDoc `@phpstan-assert-if-true !null $this->getSession()`, PHPStan can handle the case like you would expect.
@@ -87,15 +87,15 @@ class HttpSession {
     /**
      * checks whether the current user has a session
      * @phpstan-assert-if-true !null $this->getSession()
-     */ 
+     */
     public function sessionExists(): bool
     {
         // implement me
         return (bool) rand(0,1);
     }
-    
+
     /**
-     * Returns the current user session if it exists. otherwise returns null. 
+     * Returns the current user session if it exists. otherwise returns null.
      * @return UserSession|null
      */
     public function getSession(): ?UserSession
@@ -122,7 +122,7 @@ function myController(HttpSession $session):void {
 
 The added assertion tells PHPStan that `$session->getSession()` will not return `null` when used within the truethy-context of `$session->sessionExists()`.
 
-Here you can see the same hint at play:  
+Here you can see the same hint at play:
 
 ```php
 
@@ -130,7 +130,7 @@ function myController(HttpSession $session):void {
     if (!$session->sessionExists()) {
         return;
     }
-    
+
     $session->getSession()->doSomething(); // no error: PHPStan is aware of `getSession()` cannot return null
 }
 

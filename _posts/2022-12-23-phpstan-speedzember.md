@@ -24,7 +24,7 @@ Since Ondrej is doing a great job in issue triage, that was rather ease - just l
 Next step is to run your profiling tool of choice against the reproducing code snippet mentioned in these issues.
 I used [Blackfire](https://blackfire.io/) for this.
 
-1. make sure your profile tooling setup works 
+1. make sure your profile tooling setup works
 1. take code from snippet
 1. put code into a `bug-$issueNumber.php` file
 1. run `blackfire run php bin/phpstan analyze bug-$issueNumber.php --debug` - we use `--debug` to make sure the PHPStan result cache is not used.
@@ -44,7 +44,7 @@ In case the changes don't lead to a measurable speedup, I will usually discard t
 
 ## Surprising gifts 🎁
 
-People usually find it surprising when a final patch, which changes just a few lines of code can make such a difference. 
+People usually find it surprising when a final patch, which changes just a few lines of code can make such a difference.
 See for example [`Faster ConstantFloatType->isSuperTypeOf(ConstantFloatType)`](https://github.com/phpstan/phpstan-src/pull/2080).
 It is a tiny change resulting in a big speedup for some very specific code snippet.
 
@@ -124,7 +124,7 @@ After I worked thru the feedback, it got clear that we can utilize the existing 
 We made it work for most but a few test cases. For at least 15 hours I tried to make the pull request pass for the few remaining test cases.
 I did not succeed though.
 
-Even if I did not talk about loosing my motivation to get this PR merged, 
+Even if I did not talk about loosing my motivation to get this PR merged,
 [ondrej seemed to realize](https://github.com/phpstan/phpstan-src/pull/2116#issuecomment-1359006986) that it was best to take the state at that time for a last polish.
 He refactored the implementation once again, [prepared existing ground](https://github.com/phpstan/phpstan-src/pull/2131) for the coming adjustments and merged the PR.
 
