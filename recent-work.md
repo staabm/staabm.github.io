@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Declare FileReadTrapStreamWrapper::$context property](https://github.com/phpstan/phpstan-src/pull/2153) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [`!rex_package::isInstalled()` asserts `rex_package::isAvailable()` returns `false`](https://github.com/redaxo/redaxo/pull/5456) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [fix `rex_extension::registerPoint` return type](https://github.com/redaxo/redaxo/pull/5455) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [Revert &#34;drop nette/utils dependency (#21)&#34;](https://github.com/TomasVotruba/unused-public/pull/23) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
@@ -54,7 +55,6 @@
 - [relax symfony/finder constraint](https://github.com/TomasVotruba/unused-public/pull/18) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
 - [Error in TypeInferenceTestCase when missing namespace](https://github.com/phpstan/phpstan-src/pull/2148) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [improved error message wording](https://github.com/TomasVotruba/unused-public/pull/16) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
-- [More strict static analysis](https://github.com/staabm/phpstan-dba/pull/488) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
