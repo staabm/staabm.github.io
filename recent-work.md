@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [symplify/symplify](https://github.com/symplify/symplify) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
-- [symplify/symplify](https://github.com/symplify/symplify) (1 day ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 - [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) (1 week ago)
-- [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix fatal error when autoloader open directories](https://github.com/phpstan/phpstan-src/pull/2154) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Reproduce bug8610](https://github.com/phpstan/phpstan/pull/8611) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Post: Make PHPStan aware of your api implications](https://github.com/staabm/staabm.github.io/pull/35) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Declare FileReadTrapStreamWrapper::$context property](https://github.com/phpstan/phpstan-src/pull/2153) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [drop nette/utils dependency](https://github.com/TomasVotruba/unused-public/pull/21) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
 - [Drop symfony/finder dependency](https://github.com/TomasVotruba/unused-public/pull/20) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
 - [mark parameters as optional](https://github.com/TomasVotruba/unused-public/pull/19) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
-- [relax symfony/finder constraint](https://github.com/TomasVotruba/unused-public/pull/18) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
