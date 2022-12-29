@@ -48,7 +48,7 @@ class UserSession {
 
 In this case the 2 API methods are kind of interconnected. When `sessionExists` returns `true`, `getSession` will return a `UserSession` - in other words it won't return `null`.
 
-From a API consumer point of view I can call `getSession` and check whether the return value is null, or use the dedicated `sessionExists` method.
+From a API consumer point of view I can call `getSession` and check whether the return value is `null`, or use the dedicated `sessionExists` method.
 
 If you use the code as shown above you will get a [false positive from PHPStan](https://phpstan.org/r/3aab2663-be6a-4489-80c2-a2361d8b7d04) though, when using the more readable `sessionExists` in combination with `getSession`:
 
