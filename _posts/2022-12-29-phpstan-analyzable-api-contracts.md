@@ -107,6 +107,7 @@ function myController(HttpSession $session):void {
 ```
 
 The added assertion tells PHPStan that `$session->getSession()` will not return `null` when used within the truethy-context of `$session->sessionExists()`.
+
 Here you can see the same hint at play:  
 
 ```php
