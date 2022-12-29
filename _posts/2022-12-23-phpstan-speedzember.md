@@ -2,7 +2,7 @@
 tags:
 - PHPStan
 
-image: "images/og-images/phpstan-speedzember.png"
+image: "images/og-images/phpstan-speedzember.jpg"
 
 ogImage:
   title: "PHPStan got a speed boost in december"
