@@ -25,7 +25,7 @@ class HttpSession {
     public function sessionExists(): bool
     {
         // implement me
-		return (bool) rand(0,1);
+        return (bool) rand(0,1);
     }
     
     /**
@@ -35,7 +35,7 @@ class HttpSession {
     public function getSession(): ?UserSession
     {
         // implement me
-		return rand(0,1) ? new UserSession() : null;
+        return rand(0,1) ? new UserSession() : null;
     }
 }
 
@@ -91,7 +91,7 @@ class HttpSession {
     public function sessionExists(): bool
     {
         // implement me
-		return (bool) rand(0,1);
+        return (bool) rand(0,1);
     }
     
     /**
@@ -101,7 +101,7 @@ class HttpSession {
     public function getSession(): ?UserSession
     {
         // implement me
-		return rand(0,1) ? new UserSession() : null;
+        return rand(0,1) ? new UserSession() : null;
     }
 }
 
