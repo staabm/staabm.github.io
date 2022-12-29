@@ -62,6 +62,8 @@ function myController(HttpSession $session):void {
 
 ```
 
+## `@phpstan-assert*` to the rescue 
+
 As of [PHPStan 1.9.0](https://phpstan.org/blog/phpstan-1-9-0-with-phpdoc-asserts-list-type#phpdoc-asserts) you can give a hint about the API contract, so it knows about the implications of the API.
 By adding a single line of PHPDoc `@phpstan-assert-if-true !null $this->getSession()`, PHPStan can handle the case like you would expect.
 
