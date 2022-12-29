@@ -62,6 +62,20 @@ function myController(HttpSession $session):void {
 
 ```
 
+This means that I would need an additional null-check, even though from a business logic point of view this is not necessary:
+
+```php
+
+function myController(HttpSession $session):void {
+    if ($session->sessionExists()) {
+        if ($session->getSession() !== null) {
+            $session->getSession()->doSomething(); // no error, but unnecessarry complexity
+        }
+    }
+}
+
+```
+
 ## `@phpstan-assert*` to the rescue 
 
 As of [PHPStan 1.9.0](https://phpstan.org/blog/phpstan-1-9-0-with-phpdoc-asserts-list-type#phpdoc-asserts) you can give a hint about the API contract, so it knows about the implications of the API.
@@ -123,3 +137,4 @@ function myController(HttpSession $session):void {
 ```
 
 See the [example at the PHPStan playground](https://phpstan.org/r/b1e54906-1ad7-4108-b33f-e8c45f1f5d16).
+Also, make sure you [read the PHPStan release announcement](https://phpstan.org/blog/phpstan-1-9-0-with-phpdoc-asserts-list-type#phpdoc-asserts) which contains even more details.
