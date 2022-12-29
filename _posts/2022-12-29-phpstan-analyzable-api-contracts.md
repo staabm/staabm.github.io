@@ -10,7 +10,7 @@ ogImage:
   fileName: "phpstan-analyzable-api-contracts"
 ---
 
-It's of really great help, when your api contracts are covered by static analysis.
+It's of really great help, when your APIs' contracts are covered by static analysis.
 
 ## Make PHPStan aware of your APIs' implications️
 
