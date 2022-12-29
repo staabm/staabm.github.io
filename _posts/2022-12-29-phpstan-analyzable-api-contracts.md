@@ -54,7 +54,6 @@ If you use the code as shown above you will get a [false positive from PHPStan](
 
 ```php
 
-
 function myController(HttpSession $session):void {
     if ($session->sessionExists()) {
         $session->getSession()->doSomething(); // PHPStan error: Cannot call method doSomething() on UserSession|null.
@@ -94,6 +93,8 @@ class UserSession {
     // implement me
     function doSomething(): void {}
 }
+
+// ...
 
 function myController(HttpSession $session):void {
     if ($session->sessionExists()) {
