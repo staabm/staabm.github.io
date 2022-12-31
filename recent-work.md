@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added missing namespaces in tests](https://github.com/phpstan/phpstan-src/pull/2156) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Utilize `null`-default return to simplify extensions](https://github.com/phpstan/phpstan-symfony/pull/319) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (2 days ago)
 - [Fix test expectations of bug 8610 reproducer](https://github.com/phpstan/phpstan/pull/8613) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [Reproduce deprecation warning](https://github.com/phpstan/phpstan/pull/8612) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
@@ -54,7 +55,6 @@
 - [Removed unused NodeList class](https://github.com/phpstan/phpstan-src/pull/2151) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Removed unused fileName in FetchedNode](https://github.com/phpstan/phpstan-src/pull/2150) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [more precise skip() parameter type](https://github.com/symplify/symplify/pull/4517) on [symplify/symplify](https://github.com/symplify/symplify) (3 days ago)
-- [more precise skip() parameter type](https://github.com/symplify/easy-coding-standard/pull/20) on [symplify/easy-coding-standard](https://github.com/symplify/easy-coding-standard) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
