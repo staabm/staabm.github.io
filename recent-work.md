@@ -3,13 +3,13 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
-- [symplify/symplify](https://github.com/symplify/symplify) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
+- [symplify/symplify](https://github.com/symplify/symplify) (4 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (1 week ago)
@@ -17,7 +17,7 @@
 
 #### 📜 My recent blog posts
 
-- [Phpstan Analyzable Api Contracts](https://staabm.github.io/2022/12/29/phpstan-analyzable-api-contracts.html) (2 days ago)
+- [Phpstan Analyzable Api Contracts](https://staabm.github.io/2022/12/29/phpstan-analyzable-api-contracts.html) (3 days ago)
 - [Phpstan Speedzember](https://staabm.github.io/2022/12/23/phpstan-speedzember.html) (1 week ago)
 - [2022 Wrap Up](https://staabm.github.io/2022/12/20/2022-wrap-up.html) (1 week ago)
 - [Detect slow queries before they hit your production database](https://staabm.github.io/2022/08/16/phpstan-dba-query-plan-analysis.html) (4 months ago)
@@ -40,27 +40,27 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Added missing namespaces in tests](https://github.com/phpstan/phpstan-src/pull/2156) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Utilize `null`-default return to simplify extensions](https://github.com/phpstan/phpstan-symfony/pull/319) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (2 days ago)
-- [Fix test expectations of bug 8610 reproducer](https://github.com/phpstan/phpstan/pull/8613) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
-- [Reproduce deprecation warning](https://github.com/phpstan/phpstan/pull/8612) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
-- [Fix fatal error when autoloader open directories](https://github.com/phpstan/phpstan-src/pull/2154) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Reproduce bug8610](https://github.com/phpstan/phpstan/pull/8611) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
-- [Post: Make PHPStan aware of your api implications](https://github.com/staabm/staabm.github.io/pull/35) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
-- [Declare FileReadTrapStreamWrapper::$context property](https://github.com/phpstan/phpstan-src/pull/2153) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [`!rex_package::isInstalled()` asserts `rex_package::isAvailable()` returns `false`](https://github.com/redaxo/redaxo/pull/5456) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
-- [fix `rex_extension::registerPoint` return type](https://github.com/redaxo/redaxo/pull/5455) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
-- [Revert &#34;drop nette/utils dependency (#21)&#34;](https://github.com/TomasVotruba/unused-public/pull/23) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
-- [Fixed reading of *.twig files recursively](https://github.com/TomasVotruba/unused-public/pull/22) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
-- [Removed unused NodeList class](https://github.com/phpstan/phpstan-src/pull/2151) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Removed unused fileName in FetchedNode](https://github.com/phpstan/phpstan-src/pull/2150) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [more precise skip() parameter type](https://github.com/symplify/symplify/pull/4517) on [symplify/symplify](https://github.com/symplify/symplify) (3 days ago)
+- [Added missing namespaces in tests](https://github.com/phpstan/phpstan-src/pull/2156) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Utilize `null`-default return to simplify extensions](https://github.com/phpstan/phpstan-symfony/pull/319) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (3 days ago)
+- [Fix test expectations of bug 8610 reproducer](https://github.com/phpstan/phpstan/pull/8613) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
+- [Reproduce deprecation warning](https://github.com/phpstan/phpstan/pull/8612) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
+- [Fix fatal error when autoloader open directories](https://github.com/phpstan/phpstan-src/pull/2154) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Reproduce bug8610](https://github.com/phpstan/phpstan/pull/8611) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
+- [Post: Make PHPStan aware of your api implications](https://github.com/staabm/staabm.github.io/pull/35) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
+- [Declare FileReadTrapStreamWrapper::$context property](https://github.com/phpstan/phpstan-src/pull/2153) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [`!rex_package::isInstalled()` asserts `rex_package::isAvailable()` returns `false`](https://github.com/redaxo/redaxo/pull/5456) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
+- [fix `rex_extension::registerPoint` return type](https://github.com/redaxo/redaxo/pull/5455) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (4 days ago)
+- [Revert &#34;drop nette/utils dependency (#21)&#34;](https://github.com/TomasVotruba/unused-public/pull/23) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
+- [Fixed reading of *.twig files recursively](https://github.com/TomasVotruba/unused-public/pull/22) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
+- [Removed unused NodeList class](https://github.com/phpstan/phpstan-src/pull/2151) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Removed unused fileName in FetchedNode](https://github.com/phpstan/phpstan-src/pull/2150) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [more precise skip() parameter type](https://github.com/symplify/symplify/pull/4517) on [symplify/symplify](https://github.com/symplify/symplify) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.8.0](https://github.com/paratestphp/paratest/releases/tag/v6.8.0) (2 days ago)
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.2.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.2.0) (2 days ago)
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.8.0](https://github.com/paratestphp/paratest/releases/tag/v6.8.0) (3 days ago)
+- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.2.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.2.0) (3 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9.3](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9.3) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.68](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.68) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - [2.5.1](https://github.com/composer/composer/releases/tag/2.5.1) (1 week ago)
