@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.5](https://github.com/phpstan/phpstan/releases/tag/1.9.5) (today)
 - [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) - [3.9.2](https://github.com/FriendsOfREDAXO/developer/releases/tag/3.9.2) (1 day ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.8.0](https://github.com/paratestphp/paratest/releases/tag/v6.8.0) (4 days ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.2.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.2.0) (4 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.15.3](https://github.com/phpstan/phpdoc-parser/releases/tag/1.15.3) (1 week ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.5.2](https://github.com/doctrine/dbal/releases/tag/3.5.2) (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.4.0](https://github.com/vimeo/psalm/releases/tag/5.4.0) (2 weeks ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.4](https://github.com/phpstan/phpstan/releases/tag/1.9.4) (2 weeks ago)
