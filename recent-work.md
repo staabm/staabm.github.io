@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [max()/min() should expect non-empty-array](https://github.com/phpstan/phpstan-src/pull/2163) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [min() and max() do not return false on php8](https://github.com/phpstan/phpstan-src/pull/2161) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Added missing namespaces in tests](https://github.com/phpstan/phpstan-src/pull/2156) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Utilize `null`-default return to simplify extensions](https://github.com/phpstan/phpstan-symfony/pull/319) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (6 days ago)
@@ -54,7 +55,6 @@
 - [Revert &#34;drop nette/utils dependency (#21)&#34;](https://github.com/TomasVotruba/unused-public/pull/23) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [Fixed reading of *.twig files recursively](https://github.com/TomasVotruba/unused-public/pull/22) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [Removed unused NodeList class](https://github.com/phpstan/phpstan-src/pull/2151) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Removed unused fileName in FetchedNode](https://github.com/phpstan/phpstan-src/pull/2150) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
