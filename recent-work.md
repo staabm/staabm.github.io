@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.7](https://github.com/phpstan/phpstan/releases/tag/1.9.7) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.70](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.70) (1 day ago)
 - [xsist10/cadfael](https://github.com/xsist10/cadfael) - [0.3.1](https://github.com/xsist10/cadfael/releases/tag/0.3.1) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.6](https://github.com/phpstan/phpstan/releases/tag/1.9.6) (1 day ago)
 - [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) - [3.9.2](https://github.com/FriendsOfREDAXO/developer/releases/tag/3.9.2) (3 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.8.0](https://github.com/paratestphp/paratest/releases/tag/v6.8.0) (6 days ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.2.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.2.0) (6 days ago)
