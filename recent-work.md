@@ -3,11 +3,11 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (1 week ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
@@ -17,7 +17,7 @@
 
 #### 📜 My recent blog posts
 
-- [Phpstan Analyzable Api Contracts](https://staabm.github.io/2022/12/29/phpstan-analyzable-api-contracts.html) (6 days ago)
+- [Phpstan Analyzable Api Contracts](https://staabm.github.io/2022/12/29/phpstan-analyzable-api-contracts.html) (1 week ago)
 - [Phpstan Speedzember](https://staabm.github.io/2022/12/23/phpstan-speedzember.html) (1 week ago)
 - [2022 Wrap Up](https://staabm.github.io/2022/12/20/2022-wrap-up.html) (2 weeks ago)
 - [Detect slow queries before they hit your production database](https://staabm.github.io/2022/08/16/phpstan-dba-query-plan-analysis.html) (4 months ago)
@@ -40,17 +40,17 @@
 
 #### 🔨 My recent Pull Requests
 
-- [max()/min() should expect non-empty-array](https://github.com/phpstan/phpstan-src/pull/2163) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [min() and max() do not return false on php8](https://github.com/phpstan/phpstan-src/pull/2161) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Added missing namespaces in tests](https://github.com/phpstan/phpstan-src/pull/2156) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Utilize `null`-default return to simplify extensions](https://github.com/phpstan/phpstan-symfony/pull/319) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (6 days ago)
-- [Fix test expectations of bug 8610 reproducer](https://github.com/phpstan/phpstan/pull/8613) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
-- [Reproduce deprecation warning](https://github.com/phpstan/phpstan/pull/8612) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
-- [Fix fatal error when autoloader open directories](https://github.com/phpstan/phpstan-src/pull/2154) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Reproduce bug8610](https://github.com/phpstan/phpstan/pull/8611) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
-- [Post: Make PHPStan aware of your api implications](https://github.com/staabm/staabm.github.io/pull/35) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
-- [Declare FileReadTrapStreamWrapper::$context property](https://github.com/phpstan/phpstan-src/pull/2153) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [`!rex_package::isInstalled()` asserts `rex_package::isAvailable()` returns `false`](https://github.com/redaxo/redaxo/pull/5456) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
+- [max()/min() should expect non-empty-array](https://github.com/phpstan/phpstan-src/pull/2163) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [min() and max() do not return false on php8](https://github.com/phpstan/phpstan-src/pull/2161) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Added missing namespaces in tests](https://github.com/phpstan/phpstan-src/pull/2156) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Utilize `null`-default return to simplify extensions](https://github.com/phpstan/phpstan-symfony/pull/319) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
+- [Fix test expectations of bug 8610 reproducer](https://github.com/phpstan/phpstan/pull/8613) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
+- [Reproduce deprecation warning](https://github.com/phpstan/phpstan/pull/8612) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
+- [Fix fatal error when autoloader open directories](https://github.com/phpstan/phpstan-src/pull/2154) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [Reproduce bug8610](https://github.com/phpstan/phpstan/pull/8611) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
+- [Post: Make PHPStan aware of your api implications](https://github.com/staabm/staabm.github.io/pull/35) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
+- [Declare FileReadTrapStreamWrapper::$context property](https://github.com/phpstan/phpstan-src/pull/2153) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [`!rex_package::isInstalled()` asserts `rex_package::isAvailable()` returns `false`](https://github.com/redaxo/redaxo/pull/5456) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [fix `rex_extension::registerPoint` return type](https://github.com/redaxo/redaxo/pull/5455) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [Revert &#34;drop nette/utils dependency (#21)&#34;](https://github.com/TomasVotruba/unused-public/pull/23) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [Fixed reading of *.twig files recursively](https://github.com/TomasVotruba/unused-public/pull/22) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.7](https://github.com/phpstan/phpstan/releases/tag/1.9.7) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.70](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.70) (1 day ago)
-- [xsist10/cadfael](https://github.com/xsist10/cadfael) - [0.3.1](https://github.com/xsist10/cadfael/releases/tag/0.3.1) (1 day ago)
-- [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) - [3.9.2](https://github.com/FriendsOfREDAXO/developer/releases/tag/3.9.2) (3 days ago)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.8.0](https://github.com/paratestphp/paratest/releases/tag/v6.8.0) (6 days ago)
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.2.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.2.0) (6 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.7](https://github.com/phpstan/phpstan/releases/tag/1.9.7) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.70](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.70) (2 days ago)
+- [xsist10/cadfael](https://github.com/xsist10/cadfael) - [0.3.1](https://github.com/xsist10/cadfael/releases/tag/0.3.1) (2 days ago)
+- [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) - [3.9.2](https://github.com/FriendsOfREDAXO/developer/releases/tag/3.9.2) (4 days ago)
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.8.0](https://github.com/paratestphp/paratest/releases/tag/v6.8.0) (1 week ago)
+- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.2.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.2.0) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9.3](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9.3) (1 week ago)
-- [composer/composer](https://github.com/composer/composer) - [2.5.1](https://github.com/composer/composer/releases/tag/2.5.1) (1 week ago)
+- [composer/composer](https://github.com/composer/composer) - [2.5.1](https://github.com/composer/composer/releases/tag/2.5.1) (2 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.15.3](https://github.com/phpstan/phpdoc-parser/releases/tag/1.15.3) (2 weeks ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.5.2](https://github.com/doctrine/dbal/releases/tag/3.5.2) (2 weeks ago)
