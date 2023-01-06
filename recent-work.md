@@ -4,6 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
@@ -11,7 +12,6 @@
 - [symplify/symplify](https://github.com/symplify/symplify) (1 week ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 weeks ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
 - [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (2 weeks ago)
 
 
