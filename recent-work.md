@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [phpstan-dba: enable analysis of writable queries](https://github.com/composer/packagist/pull/1350) on [composer/packagist](https://github.com/composer/packagist) (today)
 - [Declare types](https://github.com/redaxo/redaxo/pull/5491) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [update end-of-life warning dates](https://github.com/redaxo/redaxo/pull/5488) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [max()/min() should expect non-empty-array](https://github.com/phpstan/phpstan-src/pull/2163) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,15 +55,14 @@
 - [Declare FileReadTrapStreamWrapper::$context property](https://github.com/phpstan/phpstan-src/pull/2153) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [`!rex_package::isInstalled()` asserts `rex_package::isAvailable()` returns `false`](https://github.com/redaxo/redaxo/pull/5456) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [fix `rex_extension::registerPoint` return type](https://github.com/redaxo/redaxo/pull/5455) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
-- [Revert &#34;drop nette/utils dependency (#21)&#34;](https://github.com/TomasVotruba/unused-public/pull/23) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.71](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.71) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.55](https://github.com/staabm/phpstan-dba/releases/tag/0.2.55) (today)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.0.1](https://github.com/PrestaShop/PrestaShop/releases/tag/8.0.1) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.7](https://github.com/phpstan/phpstan/releases/tag/1.9.7) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.70](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.70) (3 days ago)
 - [xsist10/cadfael](https://github.com/xsist10/cadfael) - [0.3.1](https://github.com/xsist10/cadfael/releases/tag/0.3.1) (3 days ago)
 - [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) - [3.9.2](https://github.com/FriendsOfREDAXO/developer/releases/tag/3.9.2) (5 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.8.0](https://github.com/paratestphp/paratest/releases/tag/v6.8.0) (1 week ago)
