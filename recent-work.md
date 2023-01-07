@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
