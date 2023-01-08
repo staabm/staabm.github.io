@@ -5,8 +5,8 @@
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix typo](https://github.com/phpstan/phpstan-src/pull/2170) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [transform write query into read query](https://github.com/staabm/phpstan-dba/pull/497) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [phpstan-dba: enable analysis of writable queries](https://github.com/composer/packagist/pull/1350) on [composer/packagist](https://github.com/composer/packagist) (2 days ago)
 - [Declare types](https://github.com/redaxo/redaxo/pull/5491) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
@@ -54,7 +55,6 @@
 - [Reproduce bug8610](https://github.com/phpstan/phpstan/pull/8611) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [Post: Make PHPStan aware of your api implications](https://github.com/staabm/staabm.github.io/pull/35) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [Declare FileReadTrapStreamWrapper::$context property](https://github.com/phpstan/phpstan-src/pull/2153) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [`!rex_package::isInstalled()` asserts `rex_package::isAvailable()` returns `false`](https://github.com/redaxo/redaxo/pull/5456) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
