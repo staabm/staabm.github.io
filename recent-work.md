@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.71](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.71) (2 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.55](https://github.com/staabm/phpstan-dba/releases/tag/0.2.55) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.73](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.73) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.56](https://github.com/staabm/phpstan-dba/releases/tag/0.2.56) (today)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.0.1](https://github.com/PrestaShop/PrestaShop/releases/tag/8.0.1) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.7](https://github.com/phpstan/phpstan/releases/tag/1.9.7) (4 days ago)
 - [xsist10/cadfael](https://github.com/xsist10/cadfael) - [0.3.1](https://github.com/xsist10/cadfael/releases/tag/0.3.1) (5 days ago)
