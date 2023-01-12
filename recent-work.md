@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [don&#39;t use ctype_digit() which behaves strange for small integers](https://github.com/redaxo/redaxo/pull/5514) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [fix typo](https://github.com/phpstan/phpstan-src/pull/2170) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [transform write query into read query](https://github.com/staabm/phpstan-dba/pull/497) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [phpstan-dba: enable analysis of writable queries](https://github.com/composer/packagist/pull/1350) on [composer/packagist](https://github.com/composer/packagist) (6 days ago)
@@ -54,11 +55,11 @@
 - [Fix fatal error when autoloader open directories](https://github.com/phpstan/phpstan-src/pull/2154) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Reproduce bug8610](https://github.com/phpstan/phpstan/pull/8611) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
 - [Post: Make PHPStan aware of your api implications](https://github.com/staabm/staabm.github.io/pull/35) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
-- [Declare FileReadTrapStreamWrapper::$context property](https://github.com/phpstan/phpstan-src/pull/2153) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/dbal](https://github.com/doctrine/dbal) - [3.5.3](https://github.com/doctrine/dbal/releases/tag/3.5.3) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.75](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.75) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.9](https://github.com/phpstan/phpstan/releases/tag/1.9.9) (1 day ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.5](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.5) (1 day ago)
@@ -68,4 +69,3 @@
 - [xsist10/cadfael](https://github.com/xsist10/cadfael) - [0.3.1](https://github.com/xsist10/cadfael/releases/tag/0.3.1) (1 week ago)
 - [FriendsOfREDAXO/developer](https://github.com/FriendsOfREDAXO/developer) - [3.9.2](https://github.com/FriendsOfREDAXO/developer/releases/tag/3.9.2) (1 week ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.8.0](https://github.com/paratestphp/paratest/releases/tag/v6.8.0) (2 weeks ago)
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.2.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.2.0) (2 weeks ago)
