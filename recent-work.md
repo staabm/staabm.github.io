@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Reduce unnecessary work](https://github.com/phpstan/phpstan-src/pull/2181) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [don&#39;t use ctype_digit() which behaves strange for small integers](https://github.com/redaxo/redaxo/pull/5514) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [fix typo](https://github.com/phpstan/phpstan-src/pull/2170) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [transform write query into read query](https://github.com/staabm/phpstan-dba/pull/497) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
@@ -54,7 +55,6 @@
 - [Reproduce deprecation warning](https://github.com/phpstan/phpstan/pull/8612) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
 - [Fix fatal error when autoloader open directories](https://github.com/phpstan/phpstan-src/pull/2154) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Reproduce bug8610](https://github.com/phpstan/phpstan/pull/8611) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
-- [Post: Make PHPStan aware of your api implications](https://github.com/staabm/staabm.github.io/pull/35) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
