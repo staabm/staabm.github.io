@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.1.2](https://github.com/deployphp/deployer/releases/tag/v7.1.2) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.11](https://github.com/phpstan/phpstan/releases/tag/1.9.11) (4 days ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.5.3](https://github.com/doctrine/dbal/releases/tag/3.5.3) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.75](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.75) (5 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.5](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.5) (5 days ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.1.1](https://github.com/deployphp/deployer/releases/tag/v7.1.1) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.56](https://github.com/staabm/phpstan-dba/releases/tag/0.2.56) (1 week ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.0.1](https://github.com/PrestaShop/PrestaShop/releases/tag/8.0.1) (1 week ago)
 - [xsist10/cadfael](https://github.com/xsist10/cadfael) - [0.3.1](https://github.com/xsist10/cadfael/releases/tag/0.3.1) (1 week ago)
