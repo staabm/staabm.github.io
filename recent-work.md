@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [use fixed dependency versions](https://github.com/FriendsOfREDAXO/rexstan/pull/305) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Support type narrowing with casted parameters](https://github.com/phpstan/phpstan-src/pull/2186) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Reduce unnecessary work](https://github.com/phpstan/phpstan-src/pull/2181) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [don&#39;t use ctype_digit() which behaves strange for small integers](https://github.com/redaxo/redaxo/pull/5514) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
@@ -54,16 +55,15 @@
 - [Utilize `null`-default return to simplify extensions](https://github.com/phpstan/phpstan-symfony/pull/319) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (2 weeks ago)
 - [Fix test expectations of bug 8610 reproducer](https://github.com/phpstan/phpstan/pull/8613) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
 - [Reproduce deprecation warning](https://github.com/phpstan/phpstan/pull/8612) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
-- [Fix fatal error when autoloader open directories](https://github.com/phpstan/phpstan-src/pull/2154) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.76](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.76) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.12](https://github.com/phpstan/phpstan/releases/tag/1.9.12) (1 day ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.8.1](https://github.com/paratestphp/paratest/releases/tag/v6.8.1) (1 day ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.1.2](https://github.com/deployphp/deployer/releases/tag/v7.1.2) (2 days ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.5.3](https://github.com/doctrine/dbal/releases/tag/3.5.3) (6 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.75](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.75) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.5](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.5) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.56](https://github.com/staabm/phpstan-dba/releases/tag/0.2.56) (1 week ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.0.1](https://github.com/PrestaShop/PrestaShop/releases/tag/8.0.1) (1 week ago)
