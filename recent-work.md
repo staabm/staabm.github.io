@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.13](https://github.com/phpstan/phpstan/releases/tag/1.9.13) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.76](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.76) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.12](https://github.com/phpstan/phpstan/releases/tag/1.9.12) (1 day ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.8.1](https://github.com/paratestphp/paratest/releases/tag/v6.8.1) (1 day ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.1.2](https://github.com/deployphp/deployer/releases/tag/v7.1.2) (2 days ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.5.3](https://github.com/doctrine/dbal/releases/tag/3.5.3) (6 days ago)
