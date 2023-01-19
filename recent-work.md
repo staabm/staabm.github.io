@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/2191) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix types after ctype_digit() with casted parameter](https://github.com/phpstan/phpstan-src/pull/2189) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [close pdo cursor after handling results](https://github.com/staabm/phpstan-dba/pull/500) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [use fixed dependency versions](https://github.com/FriendsOfREDAXO/rexstan/pull/305) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -54,14 +55,13 @@
 - [max()/min() should expect non-empty-array](https://github.com/phpstan/phpstan-src/pull/2163) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [min() and max() do not return false on php8](https://github.com/phpstan/phpstan-src/pull/2161) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Added missing namespaces in tests](https://github.com/phpstan/phpstan-src/pull/2156) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [Utilize `null`-default return to simplify extensions](https://github.com/phpstan/phpstan-symfony/pull/319) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (3 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.77](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.77) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.14](https://github.com/phpstan/phpstan/releases/tag/1.9.14) (today)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.1.3](https://github.com/deployphp/deployer/releases/tag/v7.1.3) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.76](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.76) (1 day ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.8.1](https://github.com/paratestphp/paratest/releases/tag/v6.8.1) (2 days ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.5.3](https://github.com/doctrine/dbal/releases/tag/3.5.3) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.5](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.5) (1 week ago)
