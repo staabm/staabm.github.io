@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 weeks ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 weeks ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (3 weeks ago)
@@ -26,7 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
-- [TomasVotruba](https://github.com/TomasVotruba) (6 days ago)
+- [TomasVotruba](https://github.com/TomasVotruba) (1 week ago)
 - [timetape-de](https://github.com/timetape-de) (2 weeks ago)
 - [Marschl](https://github.com/Marschl) (1 month ago)
 - [zonuexe](https://github.com/zonuexe) (2 months ago)
@@ -40,13 +40,13 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fixed method_exists() on class-string&amp;literal-string](https://github.com/phpstan/phpstan-src/pull/2193) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/2191) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Fix types after ctype_digit() with casted parameter](https://github.com/phpstan/phpstan-src/pull/2189) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [close pdo cursor after handling results](https://github.com/staabm/phpstan-dba/pull/500) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
-- [use fixed dependency versions](https://github.com/FriendsOfREDAXO/rexstan/pull/305) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [Support type narrowing with casted parameters](https://github.com/phpstan/phpstan-src/pull/2186) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Reduce unnecessary work](https://github.com/phpstan/phpstan-src/pull/2181) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Fixed method_exists() on class-string&amp;literal-string](https://github.com/phpstan/phpstan-src/pull/2193) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/2191) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Fix types after ctype_digit() with casted parameter](https://github.com/phpstan/phpstan-src/pull/2189) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [close pdo cursor after handling results](https://github.com/staabm/phpstan-dba/pull/500) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
+- [use fixed dependency versions](https://github.com/FriendsOfREDAXO/rexstan/pull/305) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
+- [Support type narrowing with casted parameters](https://github.com/phpstan/phpstan-src/pull/2186) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Reduce unnecessary work](https://github.com/phpstan/phpstan-src/pull/2181) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [don&#39;t use ctype_digit() which behaves strange for small integers](https://github.com/redaxo/redaxo/pull/5514) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [fix typo](https://github.com/phpstan/phpstan-src/pull/2170) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [transform write query into read query](https://github.com/staabm/phpstan-dba/pull/497) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.77](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.77) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.14](https://github.com/phpstan/phpstan/releases/tag/1.9.14) (1 day ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.1.3](https://github.com/deployphp/deployer/releases/tag/v7.1.3) (2 days ago)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.8.1](https://github.com/paratestphp/paratest/releases/tag/v6.8.1) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.77](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.77) (2 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.14](https://github.com/phpstan/phpstan/releases/tag/1.9.14) (2 days ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.1.3](https://github.com/deployphp/deployer/releases/tag/v7.1.3) (3 days ago)
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.8.1](https://github.com/paratestphp/paratest/releases/tag/v6.8.1) (4 days ago)
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.5.3](https://github.com/doctrine/dbal/releases/tag/3.5.3) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.5](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.5) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.56](https://github.com/staabm/phpstan-dba/releases/tag/0.2.56) (1 week ago)
