@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [remove dead code in UnionType](https://github.com/phpstan/phpstan-src/pull/2194) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fixed method_exists() on class-string&amp;literal-string](https://github.com/phpstan/phpstan-src/pull/2193) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/2191) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fix types after ctype_digit() with casted parameter](https://github.com/phpstan/phpstan-src/pull/2189) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Declare types](https://github.com/redaxo/redaxo/pull/5491) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
 - [update end-of-life warning dates](https://github.com/redaxo/redaxo/pull/5488) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
 - [max()/min() should expect non-empty-array](https://github.com/phpstan/phpstan-src/pull/2163) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [min() and max() do not return false on php8](https://github.com/phpstan/phpstan-src/pull/2161) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
