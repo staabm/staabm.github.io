@@ -9,8 +9,8 @@
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 weeks ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 weeks ago)
-- [symplify/symplify](https://github.com/symplify/symplify) (3 weeks ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 weeks ago)
+- [symplify/symplify](https://github.com/symplify/symplify) (3 weeks ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 month ago)
 - [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (1 month ago)
 
