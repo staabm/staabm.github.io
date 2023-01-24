@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.78](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.78) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.6.0](https://github.com/vimeo/psalm/releases/tag/5.6.0) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.77](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.77) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.14](https://github.com/phpstan/phpstan/releases/tag/1.9.14) (5 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.1.3](https://github.com/deployphp/deployer/releases/tag/v7.1.3) (6 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.8.1](https://github.com/paratestphp/paratest/releases/tag/v6.8.1) (1 week ago)
