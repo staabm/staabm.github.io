@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-My name is Markus and I am a open source enthusiast since 2008 ✨.
+My name is Markus Staab and I am a open source enthusiast since 2008 ✨.
 
 I am the developer behind [cs2pr](https://staabm.github.io/2022/04/03/annotate-pull-request-from-checkstyle.html), [phpstan-dba](https://staabm.github.io/2022/05/01/phpstan-dba.html), [rexstan](https://staabm.github.io/2022/06/18/rexstan-REDAXO-AddOn.html) and a few more projects.
 
