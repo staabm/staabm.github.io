@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [PropertyFetch used in by-ref arg is a PropertyWrite](https://github.com/phpstan/phpstan-src/pull/2200) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix big constant arrays not recognized as oversized](https://github.com/phpstan/phpstan-src/pull/2199) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [remove dead code in UnionType](https://github.com/phpstan/phpstan-src/pull/2194) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Fixed method_exists() on class-string&amp;literal-string](https://github.com/phpstan/phpstan-src/pull/2193) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -54,7 +55,6 @@
 - [transform write query into read query](https://github.com/staabm/phpstan-dba/pull/497) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
 - [phpstan-dba: enable analysis of writable queries](https://github.com/composer/packagist/pull/1350) on [composer/packagist](https://github.com/composer/packagist) (3 weeks ago)
 - [Declare types](https://github.com/redaxo/redaxo/pull/5491) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 weeks ago)
-- [update end-of-life warning dates](https://github.com/redaxo/redaxo/pull/5488) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
