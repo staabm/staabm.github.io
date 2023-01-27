@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [yakamara/yak](https://github.com/yakamara/yak) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 weeks ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 month ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (1 month ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 month ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 month ago)
-- [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (1 month ago)
 
 
 #### 📜 My recent blog posts
