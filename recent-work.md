@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.16.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.16.0) (today)
 - [tbaddade/redaxo_url](https://github.com/tbaddade/redaxo_url) - [2.1.0](https://github.com/tbaddade/redaxo_url/releases/tag/2.1.0) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.79](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.79) (5 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.6.0](https://github.com/vimeo/psalm/releases/tag/5.6.0) (6 days ago)
@@ -68,4 +69,3 @@
 - [doctrine/dbal](https://github.com/doctrine/dbal) - [3.5.3](https://github.com/doctrine/dbal/releases/tag/3.5.3) (2 weeks ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.4.5](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.4.5) (2 weeks ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.56](https://github.com/staabm/phpstan-dba/releases/tag/0.2.56) (3 weeks ago)
-- [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.0.1](https://github.com/PrestaShop/PrestaShop/releases/tag/8.0.1) (3 weeks ago)
