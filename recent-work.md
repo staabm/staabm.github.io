@@ -10,8 +10,8 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 weeks ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 month ago)
-- [symplify/symplify](https://github.com/symplify/symplify) (1 month ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 month ago)
+- [symplify/symplify](https://github.com/symplify/symplify) (1 month ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 month ago)
 
 
