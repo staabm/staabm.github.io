@@ -3,11 +3,11 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
-- [yakamara/yak](https://github.com/yakamara/yak) (2 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
+- [yakamara/yak](https://github.com/yakamara/yak) (3 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 weeks ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 month ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 month ago)
@@ -40,9 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [added autocomplete for package commands](https://github.com/redaxo/redaxo/pull/5544) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
-- [PropertyFetch used in by-ref arg is a PropertyWrite](https://github.com/phpstan/phpstan-src/pull/2200) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Fix big constant arrays not recognized as oversized](https://github.com/phpstan/phpstan-src/pull/2199) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [added autocomplete for package commands](https://github.com/redaxo/redaxo/pull/5544) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
+- [PropertyFetch used in by-ref arg is a PropertyWrite](https://github.com/phpstan/phpstan-src/pull/2200) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Fix big constant arrays not recognized as oversized](https://github.com/phpstan/phpstan-src/pull/2199) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [remove dead code in UnionType](https://github.com/phpstan/phpstan-src/pull/2194) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fixed method_exists() on class-string&amp;literal-string](https://github.com/phpstan/phpstan-src/pull/2193) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/2191) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.16.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.16.0) (today)
-- [tbaddade/redaxo_url](https://github.com/tbaddade/redaxo_url) - [2.1.0](https://github.com/tbaddade/redaxo_url/releases/tag/2.1.0) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.79](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.79) (5 days ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.6.0](https://github.com/vimeo/psalm/releases/tag/5.6.0) (6 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.16.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.16.0) (1 day ago)
+- [tbaddade/redaxo_url](https://github.com/tbaddade/redaxo_url) - [2.1.0](https://github.com/tbaddade/redaxo_url/releases/tag/2.1.0) (5 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.79](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.79) (6 days ago)
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.6.0](https://github.com/vimeo/psalm/releases/tag/5.6.0) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.14](https://github.com/phpstan/phpstan/releases/tag/1.9.14) (1 week ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.1.3](https://github.com/deployphp/deployer/releases/tag/v7.1.3) (1 week ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.8.1](https://github.com/paratestphp/paratest/releases/tag/v6.8.1) (1 week ago)
