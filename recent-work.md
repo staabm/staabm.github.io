@@ -34,8 +34,8 @@
 - [bitshiftersgmbh](https://github.com/bitshiftersgmbh) (4 months ago)
 - [tomasnorre](https://github.com/tomasnorre) (5 months ago)
 - [elricco](https://github.com/elricco) (7 months ago)
-- [dhirtzbruch](https://github.com/dhirtzbruch) (8 months ago)
 - [orklah](https://github.com/orklah) (8 months ago)
+- [williamdes](https://github.com/williamdes) (8 months ago)
 
 
 #### 🔨 My recent Pull Requests
