@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
-- [yakamara/yak](https://github.com/yakamara/yak) (6 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
+- [yakamara/yak](https://github.com/yakamara/yak) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 weeks ago)
@@ -40,12 +40,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Implement Type-&gt;looseCompare(type)](https://github.com/phpstan/phpstan-src/pull/2216) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [added autocomplete for package commands](https://github.com/redaxo/redaxo/pull/5544) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
-- [PropertyFetch used in by-ref arg is a PropertyWrite](https://github.com/phpstan/phpstan-src/pull/2200) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Implement Type-&gt;looseCompare(type)](https://github.com/phpstan/phpstan-src/pull/2216) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [added autocomplete for package commands](https://github.com/redaxo/redaxo/pull/5544) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
+- [PropertyFetch used in by-ref arg is a PropertyWrite](https://github.com/phpstan/phpstan-src/pull/2200) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix big constant arrays not recognized as oversized](https://github.com/phpstan/phpstan-src/pull/2199) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [remove dead code in UnionType](https://github.com/phpstan/phpstan-src/pull/2194) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fixed method_exists() on class-string&amp;literal-string](https://github.com/phpstan/phpstan-src/pull/2193) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [Fixed method_exists() on class-string&amp;literal-string](https://github.com/phpstan/phpstan-src/pull/2193) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/2191) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Fix types after ctype_digit() with casted parameter](https://github.com/phpstan/phpstan-src/pull/2189) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [close pdo cursor after handling results](https://github.com/staabm/phpstan-dba/pull/500) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.16.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.16.0) (4 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.16.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.16.0) (5 days ago)
 - [tbaddade/redaxo_url](https://github.com/tbaddade/redaxo_url) - [2.1.0](https://github.com/tbaddade/redaxo_url/releases/tag/2.1.0) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.79](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.79) (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.6.0](https://github.com/vimeo/psalm/releases/tag/5.6.0) (1 week ago)
