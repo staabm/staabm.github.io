@@ -59,7 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.0.0](https://github.com/paratestphp/paratest/releases/tag/v7.0.0) (today)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.6.0](https://github.com/Roave/BetterReflection/releases/tag/6.6.0) (today)
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.0.1](https://github.com/paratestphp/paratest/releases/tag/v7.0.1) (today)
 - [composer/composer](https://github.com/composer/composer) - [2.2.19](https://github.com/composer/composer/releases/tag/2.2.19) (today)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.3.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.3.0) (1 day ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.16.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.16.0) (6 days ago)
@@ -68,4 +69,3 @@
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.6.0](https://github.com/vimeo/psalm/releases/tag/5.6.0) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.14](https://github.com/phpstan/phpstan/releases/tag/1.9.14) (2 weeks ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.1.3](https://github.com/deployphp/deployer/releases/tag/v7.1.3) (2 weeks ago)
-- [doctrine/dbal](https://github.com/doctrine/dbal) - [3.5.3](https://github.com/doctrine/dbal/releases/tag/3.5.3) (3 weeks ago)
