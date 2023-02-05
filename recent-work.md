@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement php version dependent loose const comparison](https://github.com/phpstan/phpstan-src/pull/2220) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement Type-&gt;looseCompare(type)](https://github.com/phpstan/phpstan-src/pull/2216) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [added autocomplete for package commands](https://github.com/redaxo/redaxo/pull/5544) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [PropertyFetch used in by-ref arg is a PropertyWrite](https://github.com/phpstan/phpstan-src/pull/2200) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -54,7 +55,6 @@
 - [Reduce unnecessary work](https://github.com/phpstan/phpstan-src/pull/2181) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
 - [don&#39;t use ctype_digit() which behaves strange for small integers](https://github.com/redaxo/redaxo/pull/5514) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 weeks ago)
 - [fix typo](https://github.com/phpstan/phpstan-src/pull/2170) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 weeks ago)
-- [transform write query into read query](https://github.com/staabm/phpstan-dba/pull/497) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
