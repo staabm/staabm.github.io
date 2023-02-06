@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Preparational refactoring to ease implementation of `Type-&gt;looseCompare(type, phpVersion)`](https://github.com/phpstan/phpstan-src/pull/2225) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement php version dependent loose const comparison](https://github.com/phpstan/phpstan-src/pull/2220) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Implement Type-&gt;looseCompare(type)](https://github.com/phpstan/phpstan-src/pull/2216) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [added autocomplete for package commands](https://github.com/redaxo/redaxo/pull/5544) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
@@ -54,7 +55,6 @@
 - [Support type narrowing with casted parameters](https://github.com/phpstan/phpstan-src/pull/2186) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Reduce unnecessary work](https://github.com/phpstan/phpstan-src/pull/2181) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
 - [don&#39;t use ctype_digit() which behaves strange for small integers](https://github.com/redaxo/redaxo/pull/5514) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 weeks ago)
-- [fix typo](https://github.com/phpstan/phpstan-src/pull/2170) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
