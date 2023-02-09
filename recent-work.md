@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [PHPStan: Fixed handling of union types in ConfigReturnTypeExtension](https://github.com/composer/composer/pull/11312) on [composer/composer](https://github.com/composer/composer) (today)
+- [Removed unused private `Solver::enableDisableLearnedRules` method](https://github.com/composer/composer/pull/11311) on [composer/composer](https://github.com/composer/composer) (today)
 - [Skip `testEditorUrlWithRelativePath()` test on PHPStorm console](https://github.com/phpstan/phpstan-src/pull/2229) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Refactor `InitializerExprTypeResolver-&gt;resolveEqualType()`](https://github.com/phpstan/phpstan-src/pull/2228) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Preparational refactoring to ease implementation of `Type-&gt;looseCompare(type, phpVersion)`](https://github.com/phpstan/phpstan-src/pull/2225) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -53,8 +55,6 @@
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/2191) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
 - [Fix types after ctype_digit() with casted parameter](https://github.com/phpstan/phpstan-src/pull/2189) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
 - [close pdo cursor after handling results](https://github.com/staabm/phpstan-dba/pull/500) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 weeks ago)
-- [use fixed dependency versions](https://github.com/FriendsOfREDAXO/rexstan/pull/305) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 weeks ago)
-- [Support type narrowing with casted parameters](https://github.com/phpstan/phpstan-src/pull/2186) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
