@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.0.5](https://github.com/paratestphp/paratest/releases/tag/v7.0.5) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.7.0](https://github.com/Roave/BetterReflection/releases/tag/6.7.0) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.17](https://github.com/phpstan/phpstan/releases/tag/1.9.17) (1 day ago)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.0.4](https://github.com/paratestphp/paratest/releases/tag/v7.0.4) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.80](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.80) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.16.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.16.1) (2 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.1.4](https://github.com/deployphp/deployer/releases/tag/v7.1.4) (4 days ago)
