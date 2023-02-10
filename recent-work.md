@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (today)
 - [composer/composer](https://github.com/composer/composer) (today)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
+- [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [yakamara/yak](https://github.com/yakamara/yak) (2 weeks ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 month ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 month ago)
-- [symplify/symplify](https://github.com/symplify/symplify) (1 month ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 month ago)
 
 
 #### 📜 My recent blog posts
@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) - [2.5.3](https://github.com/composer/composer/releases/tag/2.5.3) (today)
+- [composer/composer](https://github.com/composer/composer) - [2.2.20](https://github.com/composer/composer/releases/tag/2.2.20) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.0.5](https://github.com/paratestphp/paratest/releases/tag/v7.0.5) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.7.0](https://github.com/Roave/BetterReflection/releases/tag/6.7.0) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.17](https://github.com/phpstan/phpstan/releases/tag/1.9.17) (2 days ago)
