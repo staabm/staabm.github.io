@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (today)
 - [composer/composer](https://github.com/composer/composer) (today)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (today)
+- [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (today)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [yakamara/yak](https://github.com/yakamara/yak) (2 weeks ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 month ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix version constraint](https://github.com/staabm/phpstan-baseline-analysis/pull/92) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
+- [Sort files by modification timestamp](https://github.com/staabm/phpstan-baseline-analysis/pull/91) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [link phpstan extension installer](https://github.com/TomasVotruba/type-coverage/pull/12) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (today)
 - [link phpstan extension installer](https://github.com/TomasVotruba/unused-public/pull/29) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [link extension installer](https://github.com/TomasVotruba/cognitive-complexity/pull/2) on [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (today)
@@ -53,8 +55,6 @@
 - [added autocomplete for package commands](https://github.com/redaxo/redaxo/pull/5544) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [PropertyFetch used in by-ref arg is a PropertyWrite](https://github.com/phpstan/phpstan-src/pull/2200) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Fix big constant arrays not recognized as oversized](https://github.com/phpstan/phpstan-src/pull/2199) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [remove dead code in UnionType](https://github.com/phpstan/phpstan-src/pull/2194) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [Fixed method_exists() on class-string&amp;literal-string](https://github.com/phpstan/phpstan-src/pull/2193) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
