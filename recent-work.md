@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [composer/composer](https://github.com/composer/composer) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
@@ -10,9 +11,8 @@
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 month ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 month ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 month ago)
 - [symplify/symplify](https://github.com/symplify/symplify) (1 month ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 month ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 month ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [link phpstan extension installer](https://github.com/TomasVotruba/type-coverage/pull/12) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (today)
+- [link phpstan extension installer](https://github.com/TomasVotruba/unused-public/pull/29) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
+- [link extension installer](https://github.com/TomasVotruba/cognitive-complexity/pull/2) on [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (today)
 - [PHPStan: Fixed handling of union types in ConfigReturnTypeExtension](https://github.com/composer/composer/pull/11312) on [composer/composer](https://github.com/composer/composer) (1 day ago)
 - [Removed unused private `Solver::enableDisableLearnedRules` method](https://github.com/composer/composer/pull/11311) on [composer/composer](https://github.com/composer/composer) (1 day ago)
 - [Skip `testEditorUrlWithRelativePath()` test on PHPStorm console](https://github.com/phpstan/phpstan-src/pull/2229) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -52,13 +55,11 @@
 - [Fix big constant arrays not recognized as oversized](https://github.com/phpstan/phpstan-src/pull/2199) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [remove dead code in UnionType](https://github.com/phpstan/phpstan-src/pull/2194) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Fixed method_exists() on class-string&amp;literal-string](https://github.com/phpstan/phpstan-src/pull/2193) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/2191) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
-- [Fix types after ctype_digit() with casted parameter](https://github.com/phpstan/phpstan-src/pull/2189) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
-- [close pdo cursor after handling results](https://github.com/staabm/phpstan-dba/pull/500) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/composer](https://github.com/composer/composer) - [2.5.3](https://github.com/composer/composer/releases/tag/2.5.3) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.0.5](https://github.com/paratestphp/paratest/releases/tag/v7.0.5) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.7.0](https://github.com/Roave/BetterReflection/releases/tag/6.7.0) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.17](https://github.com/phpstan/phpstan/releases/tag/1.9.17) (2 days ago)
@@ -66,6 +67,5 @@
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.16.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.16.1) (3 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.1.4](https://github.com/deployphp/deployer/releases/tag/v7.1.4) (5 days ago)
 - [xsist10/cadfael](https://github.com/xsist10/cadfael) - [0.3.2](https://github.com/xsist10/cadfael/releases/tag/0.3.2) (6 days ago)
-- [composer/composer](https://github.com/composer/composer) - [2.2.19](https://github.com/composer/composer/releases/tag/2.2.19) (6 days ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.3.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.3.0) (1 week ago)
 - [tbaddade/redaxo_url](https://github.com/tbaddade/redaxo_url) - [2.1.0](https://github.com/tbaddade/redaxo_url/releases/tag/2.1.0) (2 weeks ago)
