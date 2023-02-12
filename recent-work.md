@@ -5,10 +5,10 @@
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (2 days ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
-- [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (2 days ago)
 - [composer/composer](https://github.com/composer/composer) (2 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
+- [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (2 days ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
 - [yakamara/yak](https://github.com/yakamara/yak) (2 weeks ago)
