@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.3.1](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.3.1) (today)
+- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.4.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.4.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.81](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.81) (1 day ago)
 - [composer/composer](https://github.com/composer/composer) - [2.2.20](https://github.com/composer/composer/releases/tag/2.2.20) (2 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.0.5](https://github.com/paratestphp/paratest/releases/tag/v7.0.5) (3 days ago)
