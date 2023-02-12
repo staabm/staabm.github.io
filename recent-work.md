@@ -26,6 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
+- [hemberger](https://github.com/hemberger) (today)
 - [TomasVotruba](https://github.com/TomasVotruba) (4 weeks ago)
 - [timetape-de](https://github.com/timetape-de) (1 month ago)
 - [Marschl](https://github.com/Marschl) (2 months ago)
@@ -35,7 +36,6 @@
 - [tomasnorre](https://github.com/tomasnorre) (5 months ago)
 - [elricco](https://github.com/elricco) (7 months ago)
 - [orklah](https://github.com/orklah) (8 months ago)
-- [williamdes](https://github.com/williamdes) (8 months ago)
 
 
 #### 🔨 My recent Pull Requests
