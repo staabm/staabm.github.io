@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement sqlftw/sqlftw sql parser based type narrowing](https://github.com/staabm/phpstan-dba/pull/505) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Fix readme typo](https://github.com/SQLFTW/sqlftw/pull/14) on [SQLFTW/sqlftw](https://github.com/SQLFTW/sqlftw) (today)
 - [fix version constraint](https://github.com/staabm/phpstan-baseline-analysis/pull/92) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
 - [Sort files by modification timestamp](https://github.com/staabm/phpstan-baseline-analysis/pull/91) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
@@ -54,7 +55,6 @@
 - [Implement php version dependent loose const comparison](https://github.com/phpstan/phpstan-src/pull/2220) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Implement Type-&gt;looseCompare(type)](https://github.com/phpstan/phpstan-src/pull/2216) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [added autocomplete for package commands](https://github.com/redaxo/redaxo/pull/5544) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
-- [PropertyFetch used in by-ref arg is a PropertyWrite](https://github.com/phpstan/phpstan-src/pull/2200) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
