@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (4 days ago)
 - [composer/composer](https://github.com/composer/composer) (4 days ago)
@@ -12,7 +13,6 @@
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
 - [yakamara/yak](https://github.com/yakamara/yak) (2 weeks ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix CS](https://github.com/staabm/phpstan-dba/pull/507) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Implement sqlftw/sqlftw sql parser based type narrowing](https://github.com/staabm/phpstan-dba/pull/505) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Fix readme typo](https://github.com/SQLFTW/sqlftw/pull/14) on [SQLFTW/sqlftw](https://github.com/SQLFTW/sqlftw) (1 day ago)
 - [fix version constraint](https://github.com/staabm/phpstan-baseline-analysis/pull/92) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
@@ -54,7 +55,6 @@
 - [Preparational refactoring to ease implementation of `Type-&gt;looseCompare(type, phpVersion)`](https://github.com/phpstan/phpstan-src/pull/2225) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Implement php version dependent loose const comparison](https://github.com/phpstan/phpstan-src/pull/2220) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Implement Type-&gt;looseCompare(type)](https://github.com/phpstan/phpstan-src/pull/2216) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [added autocomplete for package commands](https://github.com/redaxo/redaxo/pull/5544) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
