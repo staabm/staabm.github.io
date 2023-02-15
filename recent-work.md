@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/composer](https://github.com/composer/composer) - [2.5.4](https://github.com/composer/composer/releases/tag/2.5.4) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.0.6](https://github.com/paratestphp/paratest/releases/tag/v7.0.6) (2 days ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.4.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.4.0) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.81](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.81) (4 days ago)
-- [composer/composer](https://github.com/composer/composer) - [2.2.20](https://github.com/composer/composer/releases/tag/2.2.20) (5 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.7.0](https://github.com/Roave/BetterReflection/releases/tag/6.7.0) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.17](https://github.com/phpstan/phpstan/releases/tag/1.9.17) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.16.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.16.1) (1 week ago)
