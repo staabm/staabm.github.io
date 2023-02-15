@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
+- [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (5 days ago)
 - [composer/composer](https://github.com/composer/composer) (5 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
 - [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (5 days ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
+- [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (5 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
-- [yakamara/yak](https://github.com/yakamara/yak) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,21 +40,21 @@
 
 #### 🔨 My recent Pull Requests
 
+- [DX: Add composer keywords](https://github.com/staabm/phpstan-baseline-analysis/pull/96) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
+- [DX: Add composer keywords](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/107) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (today)
+- [DX: Add composer keywords](https://github.com/TomasVotruba/cognitive-complexity/pull/3) on [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (today)
+- [DX: Add composer keywords](https://github.com/TomasVotruba/unused-public/pull/30) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
+- [DX: Add composer keywords](https://github.com/TomasVotruba/type-coverage/pull/13) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (today)
+- [DX: Add composer keywords](https://github.com/symplify/phpstan-rules/pull/14) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (today)
+- [DX: Add composer keywords](https://github.com/staabm/phpstan-dba/pull/509) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [DX: Add composer keywords](https://github.com/rectorphp/rector-src/pull/3386) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [DX: Add composer keywords](https://github.com/easy-coding-standard/easy-coding-standard/pull/55) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
+- [DX: Add composer keywords](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6781) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (today)
 - [fix CS](https://github.com/staabm/phpstan-dba/pull/507) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Implement sqlftw/sqlftw sql parser based type narrowing](https://github.com/staabm/phpstan-dba/pull/505) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [Fix readme typo](https://github.com/SQLFTW/sqlftw/pull/14) on [SQLFTW/sqlftw](https://github.com/SQLFTW/sqlftw) (2 days ago)
 - [fix version constraint](https://github.com/staabm/phpstan-baseline-analysis/pull/92) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
 - [Sort files by modification timestamp](https://github.com/staabm/phpstan-baseline-analysis/pull/91) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
-- [link phpstan extension installer](https://github.com/TomasVotruba/type-coverage/pull/12) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (5 days ago)
-- [link phpstan extension installer](https://github.com/TomasVotruba/unused-public/pull/29) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
-- [link extension installer](https://github.com/TomasVotruba/cognitive-complexity/pull/2) on [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (5 days ago)
-- [PHPStan: Fixed handling of union types in ConfigReturnTypeExtension](https://github.com/composer/composer/pull/11312) on [composer/composer](https://github.com/composer/composer) (6 days ago)
-- [Removed unused private `Solver::enableDisableLearnedRules` method](https://github.com/composer/composer/pull/11311) on [composer/composer](https://github.com/composer/composer) (6 days ago)
-- [Skip `testEditorUrlWithRelativePath()` test on PHPStorm console](https://github.com/phpstan/phpstan-src/pull/2229) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Refactor `InitializerExprTypeResolver-&gt;resolveEqualType()`](https://github.com/phpstan/phpstan-src/pull/2228) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Preparational refactoring to ease implementation of `Type-&gt;looseCompare(type, phpVersion)`](https://github.com/phpstan/phpstan-src/pull/2225) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Implement php version dependent loose const comparison](https://github.com/phpstan/phpstan-src/pull/2220) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Implement Type-&gt;looseCompare(type)](https://github.com/phpstan/phpstan-src/pull/2216) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
