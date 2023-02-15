@@ -3,14 +3,14 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (4 days ago)
-- [composer/composer](https://github.com/composer/composer) (4 days ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
-- [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (4 days ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
+- [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (5 days ago)
+- [composer/composer](https://github.com/composer/composer) (5 days ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
+- [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (5 days ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
 - [yakamara/yak](https://github.com/yakamara/yak) (2 weeks ago)
 
@@ -26,7 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
-- [hemberger](https://github.com/hemberger) (2 days ago)
+- [hemberger](https://github.com/hemberger) (3 days ago)
 - [TomasVotruba](https://github.com/TomasVotruba) (1 month ago)
 - [timetape-de](https://github.com/timetape-de) (1 month ago)
 - [Marschl](https://github.com/Marschl) (2 months ago)
@@ -35,22 +35,22 @@
 - [bitshiftersgmbh](https://github.com/bitshiftersgmbh) (4 months ago)
 - [tomasnorre](https://github.com/tomasnorre) (5 months ago)
 - [elricco](https://github.com/elricco) (7 months ago)
-- [orklah](https://github.com/orklah) (8 months ago)
+- [orklah](https://github.com/orklah) (9 months ago)
 
 
 #### 🔨 My recent Pull Requests
 
-- [fix CS](https://github.com/staabm/phpstan-dba/pull/507) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [Implement sqlftw/sqlftw sql parser based type narrowing](https://github.com/staabm/phpstan-dba/pull/505) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
-- [Fix readme typo](https://github.com/SQLFTW/sqlftw/pull/14) on [SQLFTW/sqlftw](https://github.com/SQLFTW/sqlftw) (1 day ago)
-- [fix version constraint](https://github.com/staabm/phpstan-baseline-analysis/pull/92) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
-- [Sort files by modification timestamp](https://github.com/staabm/phpstan-baseline-analysis/pull/91) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
-- [link phpstan extension installer](https://github.com/TomasVotruba/type-coverage/pull/12) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (4 days ago)
-- [link phpstan extension installer](https://github.com/TomasVotruba/unused-public/pull/29) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
-- [link extension installer](https://github.com/TomasVotruba/cognitive-complexity/pull/2) on [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (4 days ago)
-- [PHPStan: Fixed handling of union types in ConfigReturnTypeExtension](https://github.com/composer/composer/pull/11312) on [composer/composer](https://github.com/composer/composer) (5 days ago)
-- [Removed unused private `Solver::enableDisableLearnedRules` method](https://github.com/composer/composer/pull/11311) on [composer/composer](https://github.com/composer/composer) (5 days ago)
-- [Skip `testEditorUrlWithRelativePath()` test on PHPStorm console](https://github.com/phpstan/phpstan-src/pull/2229) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [fix CS](https://github.com/staabm/phpstan-dba/pull/507) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [Implement sqlftw/sqlftw sql parser based type narrowing](https://github.com/staabm/phpstan-dba/pull/505) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
+- [Fix readme typo](https://github.com/SQLFTW/sqlftw/pull/14) on [SQLFTW/sqlftw](https://github.com/SQLFTW/sqlftw) (2 days ago)
+- [fix version constraint](https://github.com/staabm/phpstan-baseline-analysis/pull/92) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
+- [Sort files by modification timestamp](https://github.com/staabm/phpstan-baseline-analysis/pull/91) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
+- [link phpstan extension installer](https://github.com/TomasVotruba/type-coverage/pull/12) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (5 days ago)
+- [link phpstan extension installer](https://github.com/TomasVotruba/unused-public/pull/29) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
+- [link extension installer](https://github.com/TomasVotruba/cognitive-complexity/pull/2) on [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (5 days ago)
+- [PHPStan: Fixed handling of union types in ConfigReturnTypeExtension](https://github.com/composer/composer/pull/11312) on [composer/composer](https://github.com/composer/composer) (6 days ago)
+- [Removed unused private `Solver::enableDisableLearnedRules` method](https://github.com/composer/composer/pull/11311) on [composer/composer](https://github.com/composer/composer) (6 days ago)
+- [Skip `testEditorUrlWithRelativePath()` test on PHPStorm console](https://github.com/phpstan/phpstan-src/pull/2229) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Refactor `InitializerExprTypeResolver-&gt;resolveEqualType()`](https://github.com/phpstan/phpstan-src/pull/2228) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Preparational refactoring to ease implementation of `Type-&gt;looseCompare(type, phpVersion)`](https://github.com/phpstan/phpstan-src/pull/2225) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Implement php version dependent loose const comparison](https://github.com/phpstan/phpstan-src/pull/2220) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.0.6](https://github.com/paratestphp/paratest/releases/tag/v7.0.6) (1 day ago)
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.4.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.4.0) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.81](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.81) (3 days ago)
-- [composer/composer](https://github.com/composer/composer) - [2.2.20](https://github.com/composer/composer/releases/tag/2.2.20) (4 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.7.0](https://github.com/Roave/BetterReflection/releases/tag/6.7.0) (6 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.17](https://github.com/phpstan/phpstan/releases/tag/1.9.17) (6 days ago)
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.0.6](https://github.com/paratestphp/paratest/releases/tag/v7.0.6) (2 days ago)
+- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.4.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.4.0) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.81](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.81) (4 days ago)
+- [composer/composer](https://github.com/composer/composer) - [2.2.20](https://github.com/composer/composer/releases/tag/2.2.20) (5 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.7.0](https://github.com/Roave/BetterReflection/releases/tag/6.7.0) (1 week ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.17](https://github.com/phpstan/phpstan/releases/tag/1.9.17) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.16.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.16.1) (1 week ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.1.4](https://github.com/deployphp/deployer/releases/tag/v7.1.4) (1 week ago)
 - [xsist10/cadfael](https://github.com/xsist10/cadfael) - [0.3.2](https://github.com/xsist10/cadfael/releases/tag/0.3.2) (1 week ago)
-- [tbaddade/redaxo_url](https://github.com/tbaddade/redaxo_url) - [2.1.0](https://github.com/tbaddade/redaxo_url/releases/tag/2.1.0) (2 weeks ago)
+- [tbaddade/redaxo_url](https://github.com/tbaddade/redaxo_url) - [2.1.0](https://github.com/tbaddade/redaxo_url/releases/tag/2.1.0) (3 weeks ago)
