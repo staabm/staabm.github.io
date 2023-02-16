@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix comparison of ThisType and GenericObjectType with equal class-names](https://github.com/phpstan/phpstan-src/pull/2240) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [DX: Add composer keywords](https://github.com/staabm/phpstan-baseline-analysis/pull/96) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
 - [DX: Add composer keywords](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/107) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 day ago)
 - [DX: Add composer keywords](https://github.com/TomasVotruba/cognitive-complexity/pull/3) on [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (1 day ago)
@@ -54,7 +55,6 @@
 - [Implement sqlftw/sqlftw sql parser based type narrowing](https://github.com/staabm/phpstan-dba/pull/505) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [Fix readme typo](https://github.com/SQLFTW/sqlftw/pull/14) on [SQLFTW/sqlftw](https://github.com/SQLFTW/sqlftw) (3 days ago)
 - [fix version constraint](https://github.com/staabm/phpstan-baseline-analysis/pull/92) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (6 days ago)
-- [Sort files by modification timestamp](https://github.com/staabm/phpstan-baseline-analysis/pull/91) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
