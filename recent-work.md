@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [implement case-expression inference](https://github.com/staabm/phpstan-dba/pull/522) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [implement if-expression inference](https://github.com/staabm/phpstan-dba/pull/521) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Enable query-alias-test for pdo-mysql](https://github.com/staabm/phpstan-dba/pull/520) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [`coalesce()` unions only types until the first non-nullable](https://github.com/staabm/phpstan-dba/pull/519) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
@@ -54,7 +55,6 @@
 - [DX: Add composer keywords](https://github.com/symplify/phpstan-rules/pull/14) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 days ago)
 - [DX: Add composer keywords](https://github.com/staabm/phpstan-dba/pull/509) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [DX: Add composer keywords](https://github.com/rectorphp/rector-src/pull/3386) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [DX: Add composer keywords](https://github.com/easy-coding-standard/easy-coding-standard/pull/55) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
