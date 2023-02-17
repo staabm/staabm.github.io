@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.82-beta2](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.82-beta2) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.60](https://github.com/staabm/phpstan-dba/releases/tag/0.2.60) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.18](https://github.com/phpstan/phpstan/releases/tag/1.9.18) (today)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.59](https://github.com/staabm/phpstan-dba/releases/tag/0.2.59) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.82-beta1](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.82-beta1) (today)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.1.0-beta.1](https://github.com/PrestaShop/PrestaShop/releases/tag/8.1.0-beta.1) (1 day ago)
 - [zenstruck/browser](https://github.com/zenstruck/browser) - [v1.3.0](https://github.com/zenstruck/browser/releases/tag/v1.3.0) (2 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.5.4](https://github.com/composer/composer/releases/tag/2.5.4) (2 days ago)
