@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Cover complex `ifnull(max(...))` in tests](https://github.com/staabm/phpstan-dba/pull/526) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Cover `count(*)` in tests](https://github.com/staabm/phpstan-dba/pull/525) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [implement `sum()` inference](https://github.com/staabm/phpstan-dba/pull/524) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Test PHP 7.2 in github action](https://github.com/staabm/phpstan-dba/pull/523) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [implement case-expression inference](https://github.com/staabm/phpstan-dba/pull/522) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [implement if-expression inference](https://github.com/staabm/phpstan-dba/pull/521) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
@@ -52,9 +55,6 @@
 - [DX: Add composer keywords](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/107) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 days ago)
 - [DX: Add composer keywords](https://github.com/TomasVotruba/cognitive-complexity/pull/3) on [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (2 days ago)
 - [DX: Add composer keywords](https://github.com/TomasVotruba/unused-public/pull/30) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
-- [DX: Add composer keywords](https://github.com/TomasVotruba/type-coverage/pull/13) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (2 days ago)
-- [DX: Add composer keywords](https://github.com/symplify/phpstan-rules/pull/14) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 days ago)
-- [DX: Add composer keywords](https://github.com/staabm/phpstan-dba/pull/509) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
