@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Enable query-alias-test for pdo-mysql](https://github.com/staabm/phpstan-dba/pull/520) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [`coalesce()` unions only types until the first non-nullable](https://github.com/staabm/phpstan-dba/pull/519) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [`avg(nullable)` can return `null`. `avg(non-nullable)` can&#39;t return `null`.](https://github.com/staabm/phpstan-dba/pull/518) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Stringify types later in the chain.](https://github.com/staabm/phpstan-dba/pull/513) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
@@ -54,13 +55,12 @@
 - [DX: Add composer keywords](https://github.com/rectorphp/rector-src/pull/3386) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [DX: Add composer keywords](https://github.com/easy-coding-standard/easy-coding-standard/pull/55) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (2 days ago)
 - [DX: Add composer keywords](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6781) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (2 days ago)
-- [fix CS](https://github.com/staabm/phpstan-dba/pull/507) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.59](https://github.com/staabm/phpstan-dba/releases/tag/0.2.59) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.82-beta1](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.82-beta1) (today)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.58](https://github.com/staabm/phpstan-dba/releases/tag/0.2.58) (1 day ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.1.0-beta.1](https://github.com/PrestaShop/PrestaShop/releases/tag/8.1.0-beta.1) (1 day ago)
 - [zenstruck/browser](https://github.com/zenstruck/browser) - [v1.3.0](https://github.com/zenstruck/browser/releases/tag/v1.3.0) (2 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.5.4](https://github.com/composer/composer/releases/tag/2.5.4) (2 days ago)
