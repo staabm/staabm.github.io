@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Test PHP 7.2 in github action](https://github.com/staabm/phpstan-dba/pull/523) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [implement case-expression inference](https://github.com/staabm/phpstan-dba/pull/522) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [implement if-expression inference](https://github.com/staabm/phpstan-dba/pull/521) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Enable query-alias-test for pdo-mysql](https://github.com/staabm/phpstan-dba/pull/520) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
@@ -54,7 +55,6 @@
 - [DX: Add composer keywords](https://github.com/TomasVotruba/type-coverage/pull/13) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (2 days ago)
 - [DX: Add composer keywords](https://github.com/symplify/phpstan-rules/pull/14) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 days ago)
 - [DX: Add composer keywords](https://github.com/staabm/phpstan-dba/pull/509) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
-- [DX: Add composer keywords](https://github.com/rectorphp/rector-src/pull/3386) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
