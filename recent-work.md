@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [implement if-expression inference](https://github.com/staabm/phpstan-dba/pull/521) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Enable query-alias-test for pdo-mysql](https://github.com/staabm/phpstan-dba/pull/520) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [`coalesce()` unions only types until the first non-nullable](https://github.com/staabm/phpstan-dba/pull/519) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [`avg(nullable)` can return `null`. `avg(non-nullable)` can&#39;t return `null`.](https://github.com/staabm/phpstan-dba/pull/518) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
@@ -54,7 +55,6 @@
 - [DX: Add composer keywords](https://github.com/staabm/phpstan-dba/pull/509) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [DX: Add composer keywords](https://github.com/rectorphp/rector-src/pull/3386) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [DX: Add composer keywords](https://github.com/easy-coding-standard/easy-coding-standard/pull/55) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (2 days ago)
-- [DX: Add composer keywords](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6781) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
