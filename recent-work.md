@@ -4,7 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
 - [composer/composer](https://github.com/composer/composer) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [`coalesce()` unions only types until the first non-nullable](https://github.com/staabm/phpstan-dba/pull/519) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [`avg(nullable)` can return `null`. `avg(non-nullable)` can&#39;t return `null`.](https://github.com/staabm/phpstan-dba/pull/518) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Stringify types later in the chain.](https://github.com/staabm/phpstan-dba/pull/513) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Fix comparison of ThisType and GenericObjectType with equal class-names](https://github.com/phpstan/phpstan-src/pull/2240) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [DX: Add composer keywords](https://github.com/easy-coding-standard/easy-coding-standard/pull/55) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (2 days ago)
 - [DX: Add composer keywords](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6781) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (2 days ago)
 - [fix CS](https://github.com/staabm/phpstan-dba/pull/507) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
-- [Implement sqlftw/sqlftw sql parser based type narrowing](https://github.com/staabm/phpstan-dba/pull/505) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
