@@ -7,10 +7,10 @@
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (4 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
+- [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) (1 week ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (1 week ago)
-- [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 weeks ago)
 
