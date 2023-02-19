@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (4 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support working with the phpstan baseline](https://github.com/FriendsOfREDAXO/rexstan/pull/327) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Support type inferrence in `rex_sql::factory()-&gt;setQuery()`](https://github.com/FriendsOfREDAXO/rexstan/pull/326) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [Cover complex `ifnull(max(...))` in tests](https://github.com/staabm/phpstan-dba/pull/526) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [Cover `count(*)` in tests](https://github.com/staabm/phpstan-dba/pull/525) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
@@ -54,12 +55,11 @@
 - [Fix comparison of ThisType and GenericObjectType with equal class-names](https://github.com/phpstan/phpstan-src/pull/2240) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [DX: Add composer keywords](https://github.com/staabm/phpstan-baseline-analysis/pull/96) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
 - [DX: Add composer keywords](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/107) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (4 days ago)
-- [DX: Add composer keywords](https://github.com/TomasVotruba/cognitive-complexity/pull/3) on [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.82-beta3](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.82-beta3) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.82-beta4](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.82-beta4) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.60](https://github.com/staabm/phpstan-dba/releases/tag/0.2.60) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.18](https://github.com/phpstan/phpstan/releases/tag/1.9.18) (2 days ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.1.0-beta.1](https://github.com/PrestaShop/PrestaShop/releases/tag/8.1.0-beta.1) (3 days ago)
