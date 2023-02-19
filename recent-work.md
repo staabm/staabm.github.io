@@ -4,7 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (4 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
 - [composer/composer](https://github.com/composer/composer) (1 week ago)
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.7.0](https://github.com/vimeo/psalm/releases/tag/5.7.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.82-beta4](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.82-beta4) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.60](https://github.com/staabm/phpstan-dba/releases/tag/0.2.60) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.9.18](https://github.com/phpstan/phpstan/releases/tag/1.9.18) (2 days ago)
@@ -68,4 +69,3 @@
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.0.6](https://github.com/paratestphp/paratest/releases/tag/v7.0.6) (6 days ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.4.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.4.0) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.7.0](https://github.com/Roave/BetterReflection/releases/tag/6.7.0) (1 week ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.16.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.16.1) (1 week ago)
