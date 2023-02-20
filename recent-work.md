@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [DX: Add composer keywords](https://github.com/php-parallel-lint/PHP-Parallel-Lint/pull/134) on [php-parallel-lint/PHP-Parallel-Lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) (today)
 - [Support working with the phpstan baseline](https://github.com/FriendsOfREDAXO/rexstan/pull/327) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [Support type inferrence in `rex_sql::factory()-&gt;setQuery()`](https://github.com/FriendsOfREDAXO/rexstan/pull/326) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [Cover complex `ifnull(max(...))` in tests](https://github.com/staabm/phpstan-dba/pull/526) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
@@ -54,7 +55,6 @@
 - [Stringify types later in the chain.](https://github.com/staabm/phpstan-dba/pull/513) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [Fix comparison of ThisType and GenericObjectType with equal class-names](https://github.com/phpstan/phpstan-src/pull/2240) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [DX: Add composer keywords](https://github.com/staabm/phpstan-baseline-analysis/pull/96) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
-- [DX: Add composer keywords](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/107) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
