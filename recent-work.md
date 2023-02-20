@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (5 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
 - [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (1 week ago)
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [support sqlftw/sqlftw 0.1.7](https://github.com/staabm/phpstan-dba/pull/533) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Added join expectations](https://github.com/staabm/phpstan-dba/pull/531) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [enable rules for project internal analysis](https://github.com/staabm/phpstan-dba/pull/530) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [docs: make example easier to copy/paste](https://github.com/rectorphp/getrector-com/pull/1082) on [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (today)
 - [DX: Add composer keywords](https://github.com/php-parallel-lint/PHP-Parallel-Lint/pull/134) on [php-parallel-lint/PHP-Parallel-Lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) (today)
 - [Support working with the phpstan baseline](https://github.com/FriendsOfREDAXO/rexstan/pull/327) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -52,9 +55,6 @@
 - [implement if-expression inference](https://github.com/staabm/phpstan-dba/pull/521) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [Enable query-alias-test for pdo-mysql](https://github.com/staabm/phpstan-dba/pull/520) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [`coalesce()` unions only types until the first non-nullable](https://github.com/staabm/phpstan-dba/pull/519) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
-- [`avg(nullable)` can return `null`. `avg(non-nullable)` can&#39;t return `null`.](https://github.com/staabm/phpstan-dba/pull/518) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
-- [Stringify types later in the chain.](https://github.com/staabm/phpstan-dba/pull/513) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [Fix comparison of ThisType and GenericObjectType with equal class-names](https://github.com/phpstan/phpstan-src/pull/2240) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
