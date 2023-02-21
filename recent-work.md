@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.7.3](https://github.com/vimeo/psalm/releases/tag/5.7.3) (1 day ago)
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.7.4](https://github.com/vimeo/psalm/releases/tag/5.7.4) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.14.3](https://github.com/redaxo/redaxo/releases/tag/5.14.3) (1 day ago)
 - [zf1s/zf1](https://github.com/zf1s/zf1) - [1.15.2](https://github.com/zf1s/zf1/releases/tag/1.15.2) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.82-beta4](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.82-beta4) (2 days ago)
