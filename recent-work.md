@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (6 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (6 days ago)
 - [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [use redaxo local phpstan `tmpDir`](https://github.com/FriendsOfREDAXO/rexstan/pull/329) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [support sqlftw/sqlftw 0.1.7](https://github.com/staabm/phpstan-dba/pull/533) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Added join expectations](https://github.com/staabm/phpstan-dba/pull/531) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [enable rules for project internal analysis](https://github.com/staabm/phpstan-dba/pull/530) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
@@ -54,11 +55,11 @@
 - [implement case-expression inference](https://github.com/staabm/phpstan-dba/pull/522) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [implement if-expression inference](https://github.com/staabm/phpstan-dba/pull/521) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [Enable query-alias-test for pdo-mysql](https://github.com/staabm/phpstan-dba/pull/520) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [`coalesce()` unions only types until the first non-nullable](https://github.com/staabm/phpstan-dba/pull/519) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.61](https://github.com/staabm/phpstan-dba/releases/tag/0.2.61) (today)
 - [zenstruck/browser](https://github.com/zenstruck/browser) - [v1.4.0](https://github.com/zenstruck/browser/releases/tag/v1.4.0) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.15.0-beta1](https://github.com/redaxo/redaxo/releases/tag/5.15.0-beta1) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.7.5](https://github.com/vimeo/psalm/releases/tag/5.7.5) (today)
@@ -66,6 +67,5 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.0](https://github.com/phpstan/phpstan/releases/tag/1.10.0) (today)
 - [zf1s/zf1](https://github.com/zf1s/zf1) - [1.15.2](https://github.com/zf1s/zf1/releases/tag/1.15.2) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.82-beta4](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.82-beta4) (2 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.60](https://github.com/staabm/phpstan-dba/releases/tag/0.2.60) (4 days ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.1.0-beta.1](https://github.com/PrestaShop/PrestaShop/releases/tag/8.1.0-beta.1) (5 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.5.4](https://github.com/composer/composer/releases/tag/2.5.4) (6 days ago)
