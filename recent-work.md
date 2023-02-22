@@ -4,7 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (1 week ago)
@@ -40,7 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Prefer inference placeholder over `taint-escape sql`](https://github.com/staabm/phpstan-dba/pull/536) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [utilize composer autoloading in tests](https://github.com/staabm/phpstan-dba/pull/537) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Prefer `inference-placeholder` over `taint-escape sql`](https://github.com/staabm/phpstan-dba/pull/536) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [fix errors and deprecations](https://github.com/FriendsOfREDAXO/rexstan/pull/339) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [fix phpstan errors](https://github.com/FriendsOfREDAXO/rexstan/pull/332) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [use redaxo local phpstan `tmpDir`](https://github.com/FriendsOfREDAXO/rexstan/pull/329) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -54,15 +55,14 @@
 - [Cover complex `ifnull(max(...))` in tests](https://github.com/staabm/phpstan-dba/pull/526) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [Cover `count(*)` in tests](https://github.com/staabm/phpstan-dba/pull/525) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [implement `sum()` inference](https://github.com/staabm/phpstan-dba/pull/524) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [Test PHP 7.2 in github action](https://github.com/staabm/phpstan-dba/pull/523) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.62](https://github.com/staabm/phpstan-dba/releases/tag/0.2.62) (today)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.2.0](https://github.com/deployphp/deployer/releases/tag/v7.2.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.1](https://github.com/phpstan/phpstan/releases/tag/1.10.1) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.83](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.83) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.61](https://github.com/staabm/phpstan-dba/releases/tag/0.2.61) (1 day ago)
 - [zenstruck/browser](https://github.com/zenstruck/browser) - [v1.4.0](https://github.com/zenstruck/browser/releases/tag/v1.4.0) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.15.0-beta1](https://github.com/redaxo/redaxo/releases/tag/5.15.0-beta1) (1 day ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.7.5](https://github.com/vimeo/psalm/releases/tag/5.7.5) (1 day ago)
