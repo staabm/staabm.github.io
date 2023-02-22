@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Prefer inference placeholder over sql-taint-escape](https://github.com/staabm/phpstan-dba/pull/536) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Prefer inference placeholder over `taint-escape sql`](https://github.com/staabm/phpstan-dba/pull/536) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [fix errors and deprecations](https://github.com/FriendsOfREDAXO/rexstan/pull/339) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [fix phpstan errors](https://github.com/FriendsOfREDAXO/rexstan/pull/332) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [use redaxo local phpstan `tmpDir`](https://github.com/FriendsOfREDAXO/rexstan/pull/329) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
