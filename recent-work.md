@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prefer inference placeholder over sql-taint-escape](https://github.com/staabm/phpstan-dba/pull/536) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [fix errors and deprecations](https://github.com/FriendsOfREDAXO/rexstan/pull/339) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [fix phpstan errors](https://github.com/FriendsOfREDAXO/rexstan/pull/332) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [use redaxo local phpstan `tmpDir`](https://github.com/FriendsOfREDAXO/rexstan/pull/329) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -54,7 +55,6 @@
 - [Cover `count(*)` in tests](https://github.com/staabm/phpstan-dba/pull/525) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [implement `sum()` inference](https://github.com/staabm/phpstan-dba/pull/524) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [Test PHP 7.2 in github action](https://github.com/staabm/phpstan-dba/pull/523) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [implement case-expression inference](https://github.com/staabm/phpstan-dba/pull/522) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
