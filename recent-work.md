@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix errors and deprecations](https://github.com/FriendsOfREDAXO/rexstan/pull/339) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [fix phpstan errors](https://github.com/FriendsOfREDAXO/rexstan/pull/332) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [use redaxo local phpstan `tmpDir`](https://github.com/FriendsOfREDAXO/rexstan/pull/329) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [support sqlftw/sqlftw 0.1.7](https://github.com/staabm/phpstan-dba/pull/533) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
@@ -54,7 +55,6 @@
 - [implement `sum()` inference](https://github.com/staabm/phpstan-dba/pull/524) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [Test PHP 7.2 in github action](https://github.com/staabm/phpstan-dba/pull/523) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [implement case-expression inference](https://github.com/staabm/phpstan-dba/pull/522) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [implement if-expression inference](https://github.com/staabm/phpstan-dba/pull/521) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
