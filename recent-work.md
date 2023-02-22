@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.2.0](https://github.com/deployphp/deployer/releases/tag/v7.2.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.1](https://github.com/phpstan/phpstan/releases/tag/1.10.1) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.83](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.83) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.61](https://github.com/staabm/phpstan-dba/releases/tag/0.2.61) (1 day ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.5.0](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.5.0) (1 day ago)
 - [zf1s/zf1](https://github.com/zf1s/zf1) - [1.15.2](https://github.com/zf1s/zf1/releases/tag/1.15.2) (3 days ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.1.0-beta.1](https://github.com/PrestaShop/PrestaShop/releases/tag/8.1.0-beta.1) (6 days ago)
-- [composer/composer](https://github.com/composer/composer) - [2.5.4](https://github.com/composer/composer/releases/tag/2.5.4) (1 week ago)
