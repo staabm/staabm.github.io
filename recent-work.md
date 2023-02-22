@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix deprecations](https://github.com/FriendsOfREDAXO/rexstan/pull/341) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [utilize composer autoloading in tests](https://github.com/staabm/phpstan-dba/pull/537) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Prefer `inference-placeholder` over `taint-escape sql`](https://github.com/staabm/phpstan-dba/pull/536) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [fix errors and deprecations](https://github.com/FriendsOfREDAXO/rexstan/pull/339) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
@@ -54,7 +55,6 @@
 - [Support type inferrence in `rex_sql::factory()-&gt;setQuery()`](https://github.com/FriendsOfREDAXO/rexstan/pull/326) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [Cover complex `ifnull(max(...))` in tests](https://github.com/staabm/phpstan-dba/pull/526) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [Cover `count(*)` in tests](https://github.com/staabm/phpstan-dba/pull/525) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [implement `sum()` inference](https://github.com/staabm/phpstan-dba/pull/524) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
