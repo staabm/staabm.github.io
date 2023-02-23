@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [extracted `DBA_MODE` constants](https://github.com/staabm/phpstan-dba/pull/540) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [implement `REPLACE()` inference](https://github.com/staabm/phpstan-dba/pull/539) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [fix deprecations](https://github.com/FriendsOfREDAXO/rexstan/pull/341) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [utilize composer autoloading in tests](https://github.com/staabm/phpstan-dba/pull/537) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
@@ -54,7 +55,6 @@
 - [DX: Add composer keywords](https://github.com/php-parallel-lint/PHP-Parallel-Lint/pull/134) on [php-parallel-lint/PHP-Parallel-Lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) (3 days ago)
 - [Support working with the phpstan baseline](https://github.com/FriendsOfREDAXO/rexstan/pull/327) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [Support type inferrence in `rex_sql::factory()-&gt;setQuery()`](https://github.com/FriendsOfREDAXO/rexstan/pull/326) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
-- [Cover complex `ifnull(max(...))` in tests](https://github.com/staabm/phpstan-dba/pull/526) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
