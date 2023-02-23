@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [implement REPLACE() inference](https://github.com/staabm/phpstan-dba/pull/539) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [implement `REPLACE()` inference](https://github.com/staabm/phpstan-dba/pull/539) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [fix deprecations](https://github.com/FriendsOfREDAXO/rexstan/pull/341) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [utilize composer autoloading in tests](https://github.com/staabm/phpstan-dba/pull/537) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Prefer `inference-placeholder` over `taint-escape sql`](https://github.com/staabm/phpstan-dba/pull/536) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
