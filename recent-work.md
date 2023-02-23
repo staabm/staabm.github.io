@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.2](https://github.com/phpstan/phpstan/releases/tag/1.10.2) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.62](https://github.com/staabm/phpstan-dba/releases/tag/0.2.62) (1 day ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.2.0](https://github.com/deployphp/deployer/releases/tag/v7.2.0) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.1](https://github.com/phpstan/phpstan/releases/tag/1.10.1) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.83](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.83) (2 days ago)
 - [zenstruck/browser](https://github.com/zenstruck/browser) - [v1.4.0](https://github.com/zenstruck/browser/releases/tag/v1.4.0) (2 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.15.0-beta1](https://github.com/redaxo/redaxo/releases/tag/5.15.0-beta1) (2 days ago)
