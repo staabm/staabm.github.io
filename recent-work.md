@@ -66,6 +66,6 @@
 - [zenstruck/browser](https://github.com/zenstruck/browser) - [v1.4.0](https://github.com/zenstruck/browser/releases/tag/v1.4.0) (2 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.15.0-beta1](https://github.com/redaxo/redaxo/releases/tag/5.15.0-beta1) (2 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.7.5](https://github.com/vimeo/psalm/releases/tag/5.7.5) (2 days ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.5.0](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.5.0) (2 days ago)
 - [zf1s/zf1](https://github.com/zf1s/zf1) - [1.15.2](https://github.com/zf1s/zf1/releases/tag/1.15.2) (4 days ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.1.0-beta.1](https://github.com/PrestaShop/PrestaShop/releases/tag/8.1.0-beta.1) (1 week ago)
+- [composer/composer](https://github.com/composer/composer) - [2.5.4](https://github.com/composer/composer/releases/tag/2.5.4) (1 week ago)
