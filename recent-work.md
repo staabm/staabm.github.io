@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support json format in dump-parameters cli command](https://github.com/phpstan/phpstan-src/pull/2256) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [validate maybe existent value in `rex_sql-&gt;getValue()`](https://github.com/FriendsOfREDAXO/rexstan/pull/348) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [warn when core was updated to rex 5.15](https://github.com/FriendsOfREDAXO/rexstan/pull/347) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [enable `phpstan/phpstan-deprecation-rules`](https://github.com/staabm/phpstan-dba/pull/544) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [run tests in php 7.2 with lowest](https://github.com/staabm/phpstan-dba/pull/543) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
@@ -53,17 +55,15 @@
 - [fix phpstan errors](https://github.com/FriendsOfREDAXO/rexstan/pull/332) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [use redaxo local phpstan `tmpDir`](https://github.com/FriendsOfREDAXO/rexstan/pull/329) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [support sqlftw/sqlftw 0.1.7](https://github.com/staabm/phpstan-dba/pull/533) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [Added join expectations](https://github.com/staabm/phpstan-dba/pull/531) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [enable rules for project internal analysis](https://github.com/staabm/phpstan-dba/pull/530) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.84](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.84) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.63](https://github.com/staabm/phpstan-dba/releases/tag/0.2.63) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.7.7](https://github.com/vimeo/psalm/releases/tag/5.7.7) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.2](https://github.com/phpstan/phpstan/releases/tag/1.10.2) (2 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.2.0](https://github.com/deployphp/deployer/releases/tag/v7.2.0) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.83](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.83) (4 days ago)
 - [zenstruck/browser](https://github.com/zenstruck/browser) - [v1.4.0](https://github.com/zenstruck/browser/releases/tag/v1.4.0) (4 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.15.0-beta1](https://github.com/redaxo/redaxo/releases/tag/5.15.0-beta1) (4 days ago)
 - [zf1s/zf1](https://github.com/zf1s/zf1) - [1.15.2](https://github.com/zf1s/zf1/releases/tag/1.15.2) (6 days ago)
