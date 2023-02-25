@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (2 weeks ago)
@@ -40,6 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [warn when core was updated to rex 5.15](https://github.com/FriendsOfREDAXO/rexstan/pull/347) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [enable `phpstan/phpstan-deprecation-rules`](https://github.com/staabm/phpstan-dba/pull/544) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [run tests in php 7.2 with lowest](https://github.com/staabm/phpstan-dba/pull/543) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Fix query building with constant assignments](https://github.com/staabm/phpstan-dba/pull/542) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [extracted `DBA_MODE` constants](https://github.com/staabm/phpstan-dba/pull/540) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [implement `REPLACE()` inference](https://github.com/staabm/phpstan-dba/pull/539) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [fix deprecations](https://github.com/FriendsOfREDAXO/rexstan/pull/341) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
@@ -51,17 +55,13 @@
 - [support sqlftw/sqlftw 0.1.7](https://github.com/staabm/phpstan-dba/pull/533) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [Added join expectations](https://github.com/staabm/phpstan-dba/pull/531) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [enable rules for project internal analysis](https://github.com/staabm/phpstan-dba/pull/530) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [docs: make example easier to copy/paste](https://github.com/rectorphp/getrector-com/pull/1082) on [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (5 days ago)
-- [DX: Add composer keywords](https://github.com/php-parallel-lint/PHP-Parallel-Lint/pull/134) on [php-parallel-lint/PHP-Parallel-Lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) (5 days ago)
-- [Support working with the phpstan baseline](https://github.com/FriendsOfREDAXO/rexstan/pull/327) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
-- [Support type inferrence in `rex_sql::factory()-&gt;setQuery()`](https://github.com/FriendsOfREDAXO/rexstan/pull/326) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.63](https://github.com/staabm/phpstan-dba/releases/tag/0.2.63) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.7.7](https://github.com/vimeo/psalm/releases/tag/5.7.7) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.2](https://github.com/phpstan/phpstan/releases/tag/1.10.2) (2 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.62](https://github.com/staabm/phpstan-dba/releases/tag/0.2.62) (3 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.2.0](https://github.com/deployphp/deployer/releases/tag/v7.2.0) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.83](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.83) (4 days ago)
 - [zenstruck/browser](https://github.com/zenstruck/browser) - [v1.4.0](https://github.com/zenstruck/browser/releases/tag/v1.4.0) (4 days ago)
