@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.7.6](https://github.com/vimeo/psalm/releases/tag/5.7.6) (1 day ago)
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.7.7](https://github.com/vimeo/psalm/releases/tag/5.7.7) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.2](https://github.com/phpstan/phpstan/releases/tag/1.10.2) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.62](https://github.com/staabm/phpstan-dba/releases/tag/0.2.62) (3 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.2.0](https://github.com/deployphp/deployer/releases/tag/v7.2.0) (3 days ago)
