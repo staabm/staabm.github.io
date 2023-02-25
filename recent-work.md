@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement faster FilteredRecursiveDirectoryIterator](https://github.com/php-parallel-lint/PHP-Parallel-Lint/pull/136) on [php-parallel-lint/PHP-Parallel-Lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) (today)
 - [Create php-linter.yml](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/108) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (today)
 - [Create php-linter.yml](https://github.com/staabm/phpstan-baseline-analysis/pull/97) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [added lint github action](https://github.com/FriendsOfREDAXO/rexstan/pull/357) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
@@ -54,7 +55,6 @@
 - [enable `phpstan/phpstan-deprecation-rules`](https://github.com/staabm/phpstan-dba/pull/544) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [run tests in php 7.2 with lowest](https://github.com/staabm/phpstan-dba/pull/543) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Fix query building with constant assignments](https://github.com/staabm/phpstan-dba/pull/542) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [extracted `DBA_MODE` constants](https://github.com/staabm/phpstan-dba/pull/540) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
