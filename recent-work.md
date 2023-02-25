@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [extracted DeveloperAddonIntegration](https://github.com/FriendsOfREDAXO/rexstan/pull/350) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [added new syntax check tab (php linter)](https://github.com/FriendsOfREDAXO/rexstan/pull/349) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Support json format in dump-parameters cli command](https://github.com/phpstan/phpstan-src/pull/2256) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [validate maybe existent value in `rex_sql-&gt;getValue()`](https://github.com/FriendsOfREDAXO/rexstan/pull/348) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [warn when core was updated to rex 5.15](https://github.com/FriendsOfREDAXO/rexstan/pull/347) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
@@ -53,8 +55,6 @@
 - [Prefer `inference-placeholder` over `taint-escape sql`](https://github.com/staabm/phpstan-dba/pull/536) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [fix errors and deprecations](https://github.com/FriendsOfREDAXO/rexstan/pull/339) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [fix phpstan errors](https://github.com/FriendsOfREDAXO/rexstan/pull/332) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [use redaxo local phpstan `tmpDir`](https://github.com/FriendsOfREDAXO/rexstan/pull/329) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [support sqlftw/sqlftw 0.1.7](https://github.com/staabm/phpstan-dba/pull/533) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
