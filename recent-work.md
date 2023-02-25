@@ -3,14 +3,14 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
-- [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
-- [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (2 weeks ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [composer/composer](https://github.com/composer/composer) (2 weeks ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 weeks ago)
+- [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (2 weeks ago)
 - [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (2 weeks ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Create php-linter.yml](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/108) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (today)
+- [Create php-linter.yml](https://github.com/staabm/phpstan-baseline-analysis/pull/97) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
+- [added lint github action](https://github.com/FriendsOfREDAXO/rexstan/pull/357) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [developer-integration: return path only if exists](https://github.com/FriendsOfREDAXO/rexstan/pull/353) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Print linted paths](https://github.com/FriendsOfREDAXO/rexstan/pull/351) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [fix typo](https://github.com/redaxo/redaxo/pull/5607) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
@@ -52,14 +55,11 @@
 - [run tests in php 7.2 with lowest](https://github.com/staabm/phpstan-dba/pull/543) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Fix query building with constant assignments](https://github.com/staabm/phpstan-dba/pull/542) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [extracted `DBA_MODE` constants](https://github.com/staabm/phpstan-dba/pull/540) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
-- [implement `REPLACE()` inference](https://github.com/staabm/phpstan-dba/pull/539) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
-- [fix deprecations](https://github.com/FriendsOfREDAXO/rexstan/pull/341) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [utilize composer autoloading in tests](https://github.com/staabm/phpstan-dba/pull/537) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.87](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.87) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.88](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.88) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.3](https://github.com/phpstan/phpstan/releases/tag/1.10.3) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.63](https://github.com/staabm/phpstan-dba/releases/tag/0.2.63) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.7.7](https://github.com/vimeo/psalm/releases/tag/5.7.7) (today)
