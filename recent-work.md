@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [developer-integration: return path only if exists](https://github.com/FriendsOfREDAXO/rexstan/pull/353) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Print linted paths](https://github.com/FriendsOfREDAXO/rexstan/pull/351) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [fix typo](https://github.com/redaxo/redaxo/pull/5607) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [extracted DeveloperAddonIntegration](https://github.com/FriendsOfREDAXO/rexstan/pull/350) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
@@ -54,7 +55,6 @@
 - [implement `REPLACE()` inference](https://github.com/staabm/phpstan-dba/pull/539) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [fix deprecations](https://github.com/FriendsOfREDAXO/rexstan/pull/341) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [utilize composer autoloading in tests](https://github.com/staabm/phpstan-dba/pull/537) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
-- [Prefer `inference-placeholder` over `taint-escape sql`](https://github.com/staabm/phpstan-dba/pull/536) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
