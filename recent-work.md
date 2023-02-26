@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [added failling test](https://github.com/staabm/phpstan-dba/pull/550) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Fix query simulation leading to query error](https://github.com/staabm/phpstan-dba/pull/549) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [fix deprecations](https://github.com/staabm/phpstan-dba/pull/546) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [handle optional dependencies in build step](https://github.com/staabm/phpstan-dba/pull/545) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Implement faster FilteredRecursiveDirectoryIterator](https://github.com/php-parallel-lint/PHP-Parallel-Lint/pull/136) on [php-parallel-lint/PHP-Parallel-Lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) (1 day ago)
@@ -53,8 +55,6 @@
 - [added new syntax check tab (php linter)](https://github.com/FriendsOfREDAXO/rexstan/pull/349) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [Support json format in dump-parameters cli command](https://github.com/phpstan/phpstan-src/pull/2256) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [validate maybe existent value in `rex_sql-&gt;getValue()`](https://github.com/FriendsOfREDAXO/rexstan/pull/348) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [warn when core was updated to rex 5.15](https://github.com/FriendsOfREDAXO/rexstan/pull/347) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [enable `phpstan/phpstan-deprecation-rules`](https://github.com/staabm/phpstan-dba/pull/544) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
