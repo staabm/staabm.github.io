@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 day ago)
-- [composer/composer](https://github.com/composer/composer) (2 weeks ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 weeks ago)
 - [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (2 weeks ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 weeks ago)
+- [composer/composer](https://github.com/composer/composer) (2 weeks ago)
 - [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (2 weeks ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support `PDO::FETCH_KEY_PAIR` in `rex_sql-&gt;getArray()` type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/361) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Support `PDO::FETCH_KEY_PAIR` in `rex_sql-&gt;getArray()`](https://github.com/redaxo/redaxo/pull/5615) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [Report invalid query after simulation as unresolvable](https://github.com/staabm/phpstan-dba/pull/551) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Fix another query simulation leading to query error](https://github.com/staabm/phpstan-dba/pull/550) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
@@ -54,13 +55,12 @@
 - [Print linted paths](https://github.com/FriendsOfREDAXO/rexstan/pull/351) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [fix typo](https://github.com/redaxo/redaxo/pull/5607) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [extracted DeveloperAddonIntegration](https://github.com/FriendsOfREDAXO/rexstan/pull/350) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [added new syntax check tab (php linter)](https://github.com/FriendsOfREDAXO/rexstan/pull/349) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.89](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.89) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.64](https://github.com/staabm/phpstan-dba/releases/tag/0.2.64) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.88](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.88) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.3](https://github.com/phpstan/phpstan/releases/tag/1.10.3) (1 day ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.7.7](https://github.com/vimeo/psalm/releases/tag/5.7.7) (1 day ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.2.0](https://github.com/deployphp/deployer/releases/tag/v7.2.0) (4 days ago)
