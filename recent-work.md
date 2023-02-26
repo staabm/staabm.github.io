@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
 - [composer/composer](https://github.com/composer/composer) (2 weeks ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix deprecations](https://github.com/staabm/phpstan-dba/pull/546) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [handle optional dependencies in build step](https://github.com/staabm/phpstan-dba/pull/545) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Implement faster FilteredRecursiveDirectoryIterator](https://github.com/php-parallel-lint/PHP-Parallel-Lint/pull/136) on [php-parallel-lint/PHP-Parallel-Lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) (1 day ago)
 - [Create php-linter.yml](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/108) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 day ago)
 - [Create php-linter.yml](https://github.com/staabm/phpstan-baseline-analysis/pull/97) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
@@ -53,8 +55,6 @@
 - [validate maybe existent value in `rex_sql-&gt;getValue()`](https://github.com/FriendsOfREDAXO/rexstan/pull/348) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [warn when core was updated to rex 5.15](https://github.com/FriendsOfREDAXO/rexstan/pull/347) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [enable `phpstan/phpstan-deprecation-rules`](https://github.com/staabm/phpstan-dba/pull/544) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
-- [run tests in php 7.2 with lowest](https://github.com/staabm/phpstan-dba/pull/543) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
-- [Fix query building with constant assignments](https://github.com/staabm/phpstan-dba/pull/542) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
