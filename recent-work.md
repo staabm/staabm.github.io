@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Create QueryReflection lazily to prevent eager creation of a database connection](https://github.com/staabm/phpstan-dba/pull/554) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Support `PDO::FETCH_KEY_PAIR` in `rex_sql-&gt;getArray()` type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/361) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [Support `PDO::FETCH_KEY_PAIR` in `rex_sql-&gt;getArray()`](https://github.com/redaxo/redaxo/pull/5615) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [Report invalid query after simulation as unresolvable](https://github.com/staabm/phpstan-dba/pull/551) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
@@ -54,13 +55,12 @@
 - [developer-integration: return path only if exists](https://github.com/FriendsOfREDAXO/rexstan/pull/353) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [Print linted paths](https://github.com/FriendsOfREDAXO/rexstan/pull/351) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [fix typo](https://github.com/redaxo/redaxo/pull/5607) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
-- [extracted DeveloperAddonIntegration](https://github.com/FriendsOfREDAXO/rexstan/pull/350) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.65](https://github.com/staabm/phpstan-dba/releases/tag/0.2.65) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.89](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.89) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.64](https://github.com/staabm/phpstan-dba/releases/tag/0.2.64) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.3](https://github.com/phpstan/phpstan/releases/tag/1.10.3) (2 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.7.7](https://github.com/vimeo/psalm/releases/tag/5.7.7) (2 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.2.0](https://github.com/deployphp/deployer/releases/tag/v7.2.0) (5 days ago)
