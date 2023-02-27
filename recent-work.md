@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [test gh](https://github.com/staabm/phpstan-dba/pull/555) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [lint build/ and config/ folder](https://github.com/easy-coding-standard/easy-coding-standard/pull/61) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
 - [Create QueryReflection lazily to prevent eager creation of a database connection](https://github.com/staabm/phpstan-dba/pull/554) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Support `PDO::FETCH_KEY_PAIR` in `rex_sql-&gt;getArray()` type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/361) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [Support `PDO::FETCH_KEY_PAIR` in `rex_sql-&gt;getArray()`](https://github.com/redaxo/redaxo/pull/5615) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
@@ -53,8 +55,6 @@
 - [Create php-linter.yml](https://github.com/staabm/phpstan-baseline-analysis/pull/97) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
 - [added lint github action](https://github.com/FriendsOfREDAXO/rexstan/pull/357) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [developer-integration: return path only if exists](https://github.com/FriendsOfREDAXO/rexstan/pull/353) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [Print linted paths](https://github.com/FriendsOfREDAXO/rexstan/pull/351) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [fix typo](https://github.com/redaxo/redaxo/pull/5607) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
