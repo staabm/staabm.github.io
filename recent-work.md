@@ -4,9 +4,9 @@
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (2 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (3 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [prevent excessive sql queries in DoctrineKeyValueStyleRule](https://github.com/staabm/phpstan-dba/pull/557) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Simplify FileCacheStorage](https://github.com/easy-coding-standard/easy-coding-standard/pull/62) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (2 days ago)
 - [test gh](https://github.com/staabm/phpstan-dba/pull/555) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [lint build/ and config/ folder](https://github.com/easy-coding-standard/easy-coding-standard/pull/61) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (2 days ago)
@@ -54,7 +55,6 @@
 - [Implement faster FilteredRecursiveDirectoryIterator](https://github.com/php-parallel-lint/PHP-Parallel-Lint/pull/136) on [php-parallel-lint/PHP-Parallel-Lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) (4 days ago)
 - [Create php-linter.yml](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/108) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (4 days ago)
 - [Create php-linter.yml](https://github.com/staabm/phpstan-baseline-analysis/pull/97) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
-- [added lint github action](https://github.com/FriendsOfREDAXO/rexstan/pull/357) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
