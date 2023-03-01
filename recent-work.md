@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
-- [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (2 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
+- [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (2 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (4 days ago)
-- [composer/composer](https://github.com/composer/composer) (2 weeks ago)
 - [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (2 weeks ago)
+- [composer/composer](https://github.com/composer/composer) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.90](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.90) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.15.0](https://github.com/redaxo/redaxo/releases/tag/5.15.0) (1 day ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.1.0](https://github.com/paratestphp/paratest/releases/tag/v7.1.0) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.65](https://github.com/staabm/phpstan-dba/releases/tag/0.2.65) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.89](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.89) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.3](https://github.com/phpstan/phpstan/releases/tag/1.10.3) (4 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.7.7](https://github.com/vimeo/psalm/releases/tag/5.7.7) (4 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.2.0](https://github.com/deployphp/deployer/releases/tag/v7.2.0) (1 week ago)
