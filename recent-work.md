@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.9.1](https://github.com/paratestphp/paratest/releases/tag/v6.9.1) (today)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.2.1](https://github.com/deployphp/deployer/releases/tag/v7.2.1) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.90](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.90) (2 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.15.0](https://github.com/redaxo/redaxo/releases/tag/5.15.0) (3 days ago)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.1.0](https://github.com/paratestphp/paratest/releases/tag/v7.1.0) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.65](https://github.com/staabm/phpstan-dba/releases/tag/0.2.65) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.3](https://github.com/phpstan/phpstan/releases/tag/1.10.3) (6 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.7.7](https://github.com/vimeo/psalm/releases/tag/5.7.7) (6 days ago)
