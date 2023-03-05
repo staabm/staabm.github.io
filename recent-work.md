@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [bildbeschreibung verwenden](https://github.com/redaxo/docs/pull/266) on [redaxo/docs](https://github.com/redaxo/docs) (today)
+- [whoops bildbeschreibung verwenden](https://github.com/redaxo/docs/pull/265) on [redaxo/docs](https://github.com/redaxo/docs) (today)
 - [Validate `rex_sql-&gt;setValue()`, `rex_sql-&gt;setArrayValue()`](https://github.com/FriendsOfREDAXO/rexstan/pull/367) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [validate constant values in `rex_sql-&gt;setTable()`](https://github.com/FriendsOfREDAXO/rexstan/pull/366) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [prevent excessive sql queries in DoctrineKeyValueStyleRule](https://github.com/staabm/phpstan-dba/pull/557) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
@@ -53,8 +55,6 @@
 - [Fix another query simulation leading to query error](https://github.com/staabm/phpstan-dba/pull/550) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [Fix query simulation leading to query error](https://github.com/staabm/phpstan-dba/pull/549) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [fix deprecations](https://github.com/staabm/phpstan-dba/pull/546) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [handle optional dependencies in build step](https://github.com/staabm/phpstan-dba/pull/545) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [Implement faster FilteredRecursiveDirectoryIterator](https://github.com/php-parallel-lint/PHP-Parallel-Lint/pull/136) on [php-parallel-lint/PHP-Parallel-Lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
