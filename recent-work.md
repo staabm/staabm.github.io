@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
@@ -10,9 +11,8 @@
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
 - [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (6 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 week ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
-- [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (3 weeks ago)
+- [composer/composer](https://github.com/composer/composer) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [CI: enable php 8.2](https://github.com/staabm/phpstan-baseline-analysis/pull/101) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
+- [Report php-src native errors to stderr](https://github.com/staabm/phpstan-baseline-analysis/pull/100) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
+- [CI: enable php 8.1/8.2 coverage](https://github.com/thecodingmachine/safe/pull/412) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (today)
 - [bildbeschreibung verwenden](https://github.com/redaxo/docs/pull/266) on [redaxo/docs](https://github.com/redaxo/docs) (today)
 - [whoops bildbeschreibung verwenden](https://github.com/redaxo/docs/pull/265) on [redaxo/docs](https://github.com/redaxo/docs) (today)
 - [Validate `rex_sql-&gt;setValue()`, `rex_sql-&gt;setArrayValue()`](https://github.com/FriendsOfREDAXO/rexstan/pull/367) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
@@ -52,9 +55,6 @@
 - [Support `PDO::FETCH_KEY_PAIR` in `rex_sql-&gt;getArray()` type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/361) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [Support `PDO::FETCH_KEY_PAIR` in `rex_sql-&gt;getArray()`](https://github.com/redaxo/redaxo/pull/5615) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [Report invalid query after simulation as unresolvable](https://github.com/staabm/phpstan-dba/pull/551) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [Fix another query simulation leading to query error](https://github.com/staabm/phpstan-dba/pull/550) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [Fix query simulation leading to query error](https://github.com/staabm/phpstan-dba/pull/549) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [fix deprecations](https://github.com/staabm/phpstan-dba/pull/546) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
