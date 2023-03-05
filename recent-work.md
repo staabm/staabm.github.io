@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [validate `rex_sql-&gt;setValue()`](https://github.com/FriendsOfREDAXO/rexstan/pull/367) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
+- [Validate `rex_sql-&gt;setValue()`, `rex_sql-&gt;setArrayValue()`](https://github.com/FriendsOfREDAXO/rexstan/pull/367) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [validate constant values in `rex_sql-&gt;setTable()`](https://github.com/FriendsOfREDAXO/rexstan/pull/366) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [prevent excessive sql queries in DoctrineKeyValueStyleRule](https://github.com/staabm/phpstan-dba/pull/557) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [Simplify FileCacheStorage](https://github.com/easy-coding-standard/easy-coding-standard/pull/62) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (6 days ago)
@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.91](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.91) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.9.1](https://github.com/paratestphp/paratest/releases/tag/v6.9.1) (2 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.2.1](https://github.com/deployphp/deployer/releases/tag/v7.2.1) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.90](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.90) (4 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.15.0](https://github.com/redaxo/redaxo/releases/tag/5.15.0) (5 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.65](https://github.com/staabm/phpstan-dba/releases/tag/0.2.65) (6 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.3](https://github.com/phpstan/phpstan/releases/tag/1.10.3) (1 week ago)
