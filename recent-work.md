@@ -5,6 +5,7 @@
 
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
@@ -12,7 +13,6 @@
 - [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (1 week ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 week ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
-- [composer/composer](https://github.com/composer/composer) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support `rex_sql-&gt;select()` in combination with `rex_sql-&gt;setTable()`](https://github.com/FriendsOfREDAXO/rexstan/pull/378) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Drop inline `@var`](https://github.com/phpstan/phpstan-src/pull/2275) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Use ReflectionProvider instead of Broker](https://github.com/phpstan/phpstan-doctrine/pull/431) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [Drop inline `@var`](https://github.com/phpstan/phpstan-doctrine/pull/430) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
@@ -54,7 +55,6 @@
 - [validate constant values in `rex_sql-&gt;setTable()`](https://github.com/FriendsOfREDAXO/rexstan/pull/366) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [prevent excessive sql queries in DoctrineKeyValueStyleRule](https://github.com/staabm/phpstan-dba/pull/557) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [Simplify FileCacheStorage](https://github.com/easy-coding-standard/easy-coding-standard/pull/62) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 week ago)
-- [test gh](https://github.com/staabm/phpstan-dba/pull/555) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
