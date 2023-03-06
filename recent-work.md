@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Drop inline `@var`](https://github.com/phpstan/phpstan-src/pull/2275) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Use ReflectionProvider instead of Broker](https://github.com/phpstan/phpstan-doctrine/pull/431) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
+- [Drop inline `@var`](https://github.com/phpstan/phpstan-doctrine/pull/430) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [Prevent rendering of line `-1`, which means unknown line](https://github.com/FriendsOfREDAXO/rexstan/pull/376) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [fix use of classes, before autoloading](https://github.com/staabm/phpstan-baseline-analysis/pull/104) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [CI: enable php 8.2](https://github.com/staabm/phpstan-baseline-analysis/pull/101) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
@@ -52,9 +55,6 @@
 - [prevent excessive sql queries in DoctrineKeyValueStyleRule](https://github.com/staabm/phpstan-dba/pull/557) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [Simplify FileCacheStorage](https://github.com/easy-coding-standard/easy-coding-standard/pull/62) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 week ago)
 - [test gh](https://github.com/staabm/phpstan-dba/pull/555) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [lint build/ and config/ folder](https://github.com/easy-coding-standard/easy-coding-standard/pull/61) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 week ago)
-- [Create QueryReflection lazily to prevent eager creation of a database connection](https://github.com/staabm/phpstan-dba/pull/554) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [Support `PDO::FETCH_KEY_PAIR` in `rex_sql-&gt;getArray()` type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/361) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
