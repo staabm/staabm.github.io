@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent rendering of line `-1`, which means unknown line](https://github.com/FriendsOfREDAXO/rexstan/pull/376) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [fix use of classes, before autoloading](https://github.com/staabm/phpstan-baseline-analysis/pull/104) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [CI: enable php 8.2](https://github.com/staabm/phpstan-baseline-analysis/pull/101) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
 - [Report php-src native errors to stderr](https://github.com/staabm/phpstan-baseline-analysis/pull/100) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
 - [CI: enable php 8.1/8.2 coverage](https://github.com/thecodingmachine/safe/pull/412) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (1 day ago)
@@ -53,13 +55,12 @@
 - [lint build/ and config/ folder](https://github.com/easy-coding-standard/easy-coding-standard/pull/61) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 week ago)
 - [Create QueryReflection lazily to prevent eager creation of a database connection](https://github.com/staabm/phpstan-dba/pull/554) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [Support `PDO::FETCH_KEY_PAIR` in `rex_sql-&gt;getArray()` type inference](https://github.com/FriendsOfREDAXO/rexstan/pull/361) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [Support `PDO::FETCH_KEY_PAIR` in `rex_sql-&gt;getArray()`](https://github.com/redaxo/redaxo/pull/5615) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
-- [Report invalid query after simulation as unresolvable](https://github.com/staabm/phpstan-dba/pull/551) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.92](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.92) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.94](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.94) (today)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9.5](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9.5) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.9.1](https://github.com/paratestphp/paratest/releases/tag/v6.9.1) (3 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.2.1](https://github.com/deployphp/deployer/releases/tag/v7.2.1) (5 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.15.0](https://github.com/redaxo/redaxo/releases/tag/5.15.0) (6 days ago)
@@ -68,4 +69,3 @@
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.7.7](https://github.com/vimeo/psalm/releases/tag/5.7.7) (1 week ago)
 - [zenstruck/browser](https://github.com/zenstruck/browser) - [v1.4.0](https://github.com/zenstruck/browser/releases/tag/v1.4.0) (1 week ago)
 - [zf1s/zf1](https://github.com/zf1s/zf1) - [1.15.2](https://github.com/zf1s/zf1/releases/tag/1.15.2) (2 weeks ago)
-- [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.1.0-beta.1](https://github.com/PrestaShop/PrestaShop/releases/tag/8.1.0-beta.1) (2 weeks ago)
