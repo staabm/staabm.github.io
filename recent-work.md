@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.4](https://github.com/phpstan/phpstan/releases/tag/1.10.4) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.8.0](https://github.com/Roave/BetterReflection/releases/tag/6.8.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.94](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.94) (today)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9.5](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9.5) (today)
@@ -66,6 +67,5 @@
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.2.1](https://github.com/deployphp/deployer/releases/tag/v7.2.1) (5 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.15.0](https://github.com/redaxo/redaxo/releases/tag/5.15.0) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.65](https://github.com/staabm/phpstan-dba/releases/tag/0.2.65) (1 week ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.3](https://github.com/phpstan/phpstan/releases/tag/1.10.3) (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.7.7](https://github.com/vimeo/psalm/releases/tag/5.7.7) (1 week ago)
 - [zenstruck/browser](https://github.com/zenstruck/browser) - [v1.4.0](https://github.com/zenstruck/browser/releases/tag/v1.4.0) (1 week ago)
