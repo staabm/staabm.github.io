@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix false positive with `array_combine()` on php8](https://github.com/phpstan/phpstan-src/pull/2276) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Support `rex_sql-&gt;select()` in combination with `rex_sql-&gt;setTable()`](https://github.com/FriendsOfREDAXO/rexstan/pull/378) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [Drop inline `@var`](https://github.com/phpstan/phpstan-src/pull/2275) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Use ReflectionProvider instead of Broker](https://github.com/phpstan/phpstan-doctrine/pull/431) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
@@ -54,12 +55,11 @@
 - [Validate `rex_sql-&gt;setValue()`, `rex_sql-&gt;setArrayValue()`](https://github.com/FriendsOfREDAXO/rexstan/pull/367) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [validate constant values in `rex_sql-&gt;setTable()`](https://github.com/FriendsOfREDAXO/rexstan/pull/366) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [prevent excessive sql queries in DoctrineKeyValueStyleRule](https://github.com/staabm/phpstan-dba/pull/557) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
-- [Simplify FileCacheStorage](https://github.com/easy-coding-standard/easy-coding-standard/pull/62) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.4](https://github.com/phpstan/phpstan/releases/tag/1.10.4) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.5](https://github.com/phpstan/phpstan/releases/tag/1.10.5) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.8.0](https://github.com/Roave/BetterReflection/releases/tag/6.8.0) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.94](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.94) (1 day ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9.5](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9.5) (1 day ago)
