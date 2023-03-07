@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use separate php-version list with R5.15&#43;](https://github.com/FriendsOfREDAXO/rexstan/pull/381) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Prevent false positive on `method_exists()` and `function_exists()`](https://github.com/phpstan/phpstan-src/pull/2277) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix false positive with `array_combine()` on php8](https://github.com/phpstan/phpstan-src/pull/2276) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Support `rex_sql-&gt;select()` in combination with `rex_sql-&gt;setTable()`](https://github.com/FriendsOfREDAXO/rexstan/pull/378) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -54,7 +55,6 @@
 - [bildbeschreibung verwenden](https://github.com/redaxo/docs/pull/266) on [redaxo/docs](https://github.com/redaxo/docs) (2 days ago)
 - [whoops bildbeschreibung verwenden](https://github.com/redaxo/docs/pull/265) on [redaxo/docs](https://github.com/redaxo/docs) (2 days ago)
 - [Validate `rex_sql-&gt;setValue()`, `rex_sql-&gt;setArrayValue()`](https://github.com/FriendsOfREDAXO/rexstan/pull/367) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
-- [validate constant values in `rex_sql-&gt;setTable()`](https://github.com/FriendsOfREDAXO/rexstan/pull/366) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
