@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Typo](https://github.com/TomasVotruba/tomasvotruba.com/pull/1391) on [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (today)
 - [remove duplicate `*/tests/*` path in release downgrade path](https://github.com/easy-coding-standard/easy-coding-standard/pull/67) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
 - [remove unnecessary bootstrap.php inclusion while composer autoload](https://github.com/easy-coding-standard/easy-coding-standard/pull/66) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
 - [Prevent error in phpstorm, when calling `rex_fragment-&gt;parse()`](https://github.com/redaxo/redaxo/pull/5628) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
@@ -54,7 +55,6 @@
 - [fix use of classes, before autoloading](https://github.com/staabm/phpstan-baseline-analysis/pull/104) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
 - [CI: enable php 8.2](https://github.com/staabm/phpstan-baseline-analysis/pull/101) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
 - [Report php-src native errors to stderr](https://github.com/staabm/phpstan-baseline-analysis/pull/100) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
-- [CI: enable php 8.1/8.2 coverage](https://github.com/thecodingmachine/safe/pull/412) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
