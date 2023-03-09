@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [remove duplicate `*/tests/*` path in release downgrade path](https://github.com/easy-coding-standard/easy-coding-standard/pull/67) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
+- [remove unnecessary bootstrap.php inclusion while composer autoload](https://github.com/easy-coding-standard/easy-coding-standard/pull/66) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
 - [Prevent error in phpstorm, when calling `rex_fragment-&gt;parse()`](https://github.com/redaxo/redaxo/pull/5628) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [Use separate php-version list with R5.15&#43;](https://github.com/FriendsOfREDAXO/rexstan/pull/381) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [Prevent false positive on `method_exists()` and `function_exists()`](https://github.com/phpstan/phpstan-src/pull/2277) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -53,8 +55,6 @@
 - [CI: enable php 8.2](https://github.com/staabm/phpstan-baseline-analysis/pull/101) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
 - [Report php-src native errors to stderr](https://github.com/staabm/phpstan-baseline-analysis/pull/100) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
 - [CI: enable php 8.1/8.2 coverage](https://github.com/thecodingmachine/safe/pull/412) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (4 days ago)
-- [bildbeschreibung verwenden](https://github.com/redaxo/docs/pull/266) on [redaxo/docs](https://github.com/redaxo/docs) (4 days ago)
-- [whoops bildbeschreibung verwenden](https://github.com/redaxo/docs/pull/265) on [redaxo/docs](https://github.com/redaxo/docs) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
