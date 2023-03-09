@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.6](https://github.com/phpstan/phpstan/releases/tag/1.10.6) (today)
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.10.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.10.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.95](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.95) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.5](https://github.com/phpstan/phpstan/releases/tag/1.10.5) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.8.0](https://github.com/Roave/BetterReflection/releases/tag/6.8.0) (3 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9.5](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9.5) (3 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.9.1](https://github.com/paratestphp/paratest/releases/tag/v6.9.1) (6 days ago)
