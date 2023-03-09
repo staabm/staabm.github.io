@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.10.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.10.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.95](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.95) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.5](https://github.com/phpstan/phpstan/releases/tag/1.10.5) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.8.0](https://github.com/Roave/BetterReflection/releases/tag/6.8.0) (3 days ago)
@@ -68,4 +69,3 @@
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.15.0](https://github.com/redaxo/redaxo/releases/tag/5.15.0) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.65](https://github.com/staabm/phpstan-dba/releases/tag/0.2.65) (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.7.7](https://github.com/vimeo/psalm/releases/tag/5.7.7) (1 week ago)
-- [zenstruck/browser](https://github.com/zenstruck/browser) - [v1.4.0](https://github.com/zenstruck/browser/releases/tag/v1.4.0) (2 weeks ago)
