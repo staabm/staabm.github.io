@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [rector: enable ReturnTypeFromStrictTypedCallRector](https://github.com/redaxo/redaxo/pull/5630) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [github actions: added a rexstan job](https://github.com/redaxo/redaxo/pull/5629) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [Typo](https://github.com/TomasVotruba/tomasvotruba.com/pull/1391) on [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (1 day ago)
 - [remove duplicate `*/tests/*` path in release downgrade path](https://github.com/easy-coding-standard/easy-coding-standard/pull/67) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 day ago)
@@ -54,7 +55,6 @@
 - [Drop inline `@var`](https://github.com/phpstan/phpstan-doctrine/pull/430) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (4 days ago)
 - [Prevent rendering of line `-1`, which means unknown line](https://github.com/FriendsOfREDAXO/rexstan/pull/376) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [fix use of classes, before autoloading](https://github.com/staabm/phpstan-baseline-analysis/pull/104) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
-- [CI: enable php 8.2](https://github.com/staabm/phpstan-baseline-analysis/pull/101) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
