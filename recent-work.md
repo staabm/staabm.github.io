@@ -26,7 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
-- [code-lts](https://github.com/code-lts) (today)
+- [wdes](https://github.com/wdes) (today)
 - [hemberger](https://github.com/hemberger) (3 weeks ago)
 - [TomasVotruba](https://github.com/TomasVotruba) (1 month ago)
 - [timetape-de](https://github.com/timetape-de) (2 months ago)
