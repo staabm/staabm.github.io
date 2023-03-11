@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [update tools](https://github.com/redaxo/redaxo/pull/5635) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [Added failling test](https://github.com/symplify/coding-standard/pull/18) on [symplify/coding-standard](https://github.com/symplify/coding-standard) (today)
 - [rector: enable ReturnTypeFromStrictTypedCallRector](https://github.com/redaxo/redaxo/pull/5630) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [github actions: added a rexstan job](https://github.com/redaxo/redaxo/pull/5629) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [Typo](https://github.com/TomasVotruba/tomasvotruba.com/pull/1391) on [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (2 days ago)
@@ -53,8 +55,6 @@
 - [Drop inline `@var`](https://github.com/phpstan/phpstan-src/pull/2275) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Use ReflectionProvider instead of Broker](https://github.com/phpstan/phpstan-doctrine/pull/431) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (5 days ago)
 - [Drop inline `@var`](https://github.com/phpstan/phpstan-doctrine/pull/430) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (5 days ago)
-- [Prevent rendering of line `-1`, which means unknown line](https://github.com/FriendsOfREDAXO/rexstan/pull/376) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
-- [fix use of classes, before autoloading](https://github.com/staabm/phpstan-baseline-analysis/pull/104) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
