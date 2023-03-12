@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.15.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.15.0) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.35](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.35) (2 days ago)
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.11.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.11.0) (2 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.8.0](https://github.com/vimeo/psalm/releases/tag/5.8.0) (2 days ago)
@@ -68,4 +69,3 @@
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9.5](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9.5) (6 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.9.1](https://github.com/paratestphp/paratest/releases/tag/v6.9.1) (1 week ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.2.1](https://github.com/deployphp/deployer/releases/tag/v7.2.1) (1 week ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.15.0](https://github.com/redaxo/redaxo/releases/tag/5.15.0) (1 week ago)
