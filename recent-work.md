@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [readme: fix typo](https://github.com/rectorphp/rector-phpunit/pull/164) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
 - [implement rexstan:analyze path arg and level option](https://github.com/FriendsOfREDAXO/rexstan/pull/387) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [update tools](https://github.com/redaxo/redaxo/pull/5635) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [Added failling test](https://github.com/symplify/coding-standard/pull/18) on [symplify/coding-standard](https://github.com/symplify/coding-standard) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix false positive with `array_combine()` on php8](https://github.com/phpstan/phpstan-src/pull/2276) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Support `rex_sql-&gt;select()` in combination with `rex_sql-&gt;setTable()`](https://github.com/FriendsOfREDAXO/rexstan/pull/378) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [Drop inline `@var`](https://github.com/phpstan/phpstan-src/pull/2275) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Use ReflectionProvider instead of Broker](https://github.com/phpstan/phpstan-doctrine/pull/431) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
