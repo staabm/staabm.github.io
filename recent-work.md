@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Added failling union-type test](https://github.com/TomasVotruba/unused-public/pull/39) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
+- [Support union types](https://github.com/TomasVotruba/unused-public/pull/39) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [DX: Add composer keywords](https://github.com/redaxo/php-cs-fixer-config/pull/3) on [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) (today)
 - [readme: fix typo](https://github.com/rectorphp/rector-phpunit/pull/164) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 day ago)
 - [implement rexstan:analyze path arg and level option](https://github.com/FriendsOfREDAXO/rexstan/pull/387) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.0.2](https://github.com/PrestaShop/PrestaShop/releases/tag/8.0.2) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.1.1](https://github.com/paratestphp/paratest/releases/tag/v7.1.1) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.15.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.15.0) (1 day ago)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.1.1](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.1.1) (1 day ago)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.96](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.96) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.6](https://github.com/phpstan/phpstan/releases/tag/1.10.6) (4 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.8.0](https://github.com/Roave/BetterReflection/releases/tag/6.8.0) (1 week ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9.5](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9.5) (1 week ago)
