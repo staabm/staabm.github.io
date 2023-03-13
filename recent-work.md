@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (4 days ago)
 - [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (4 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added failling union-type test](https://github.com/TomasVotruba/unused-public/pull/39) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [DX: Add composer keywords](https://github.com/redaxo/php-cs-fixer-config/pull/3) on [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) (today)
 - [readme: fix typo](https://github.com/rectorphp/rector-phpunit/pull/164) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 day ago)
 - [implement rexstan:analyze path arg and level option](https://github.com/FriendsOfREDAXO/rexstan/pull/387) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
@@ -54,7 +55,6 @@
 - [Use separate php-version list with R5.15&#43;](https://github.com/FriendsOfREDAXO/rexstan/pull/381) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [Prevent false positive on `method_exists()` and `function_exists()`](https://github.com/phpstan/phpstan-src/pull/2277) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Fix false positive with `array_combine()` on php8](https://github.com/phpstan/phpstan-src/pull/2276) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Support `rex_sql-&gt;select()` in combination with `rex_sql-&gt;setTable()`](https://github.com/FriendsOfREDAXO/rexstan/pull/378) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
