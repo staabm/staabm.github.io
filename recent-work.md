@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.1.1](https://github.com/paratestphp/paratest/releases/tag/v7.1.1) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.15.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.15.0) (1 day ago)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.1.1](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.1.1) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.35](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.35) (3 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.6](https://github.com/phpstan/phpstan/releases/tag/1.10.6) (4 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.8.0](https://github.com/Roave/BetterReflection/releases/tag/6.8.0) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9.5](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9.5) (1 week ago)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v6.9.1](https://github.com/paratestphp/paratest/releases/tag/v6.9.1) (1 week ago)
