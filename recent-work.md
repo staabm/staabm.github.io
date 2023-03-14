@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [test methods annotated with `@test`](https://github.com/TomasVotruba/unused-public/pull/41) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Added MinimalSharedStringSolver tests](https://github.com/rectorphp/rector-symfony/pull/380) on [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (today)
 - [Drop triun/longest-common-substring dependency](https://github.com/rectorphp/rector-symfony/pull/379) on [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (today)
 - [Support union types](https://github.com/TomasVotruba/unused-public/pull/39) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
@@ -54,7 +55,6 @@
 - [remove duplicate `*/tests/*` path in release downgrade path](https://github.com/easy-coding-standard/easy-coding-standard/pull/67) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (5 days ago)
 - [remove unnecessary bootstrap.php inclusion while composer autoload](https://github.com/easy-coding-standard/easy-coding-standard/pull/66) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (5 days ago)
 - [Prevent error in phpstorm, when calling `rex_fragment-&gt;parse()`](https://github.com/redaxo/redaxo/pull/5628) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
-- [Use separate php-version list with R5.15&#43;](https://github.com/FriendsOfREDAXO/rexstan/pull/381) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
