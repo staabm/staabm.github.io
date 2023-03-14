@@ -4,6 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (today)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
@@ -12,7 +13,6 @@
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 
 
 #### 📜 My recent blog posts
