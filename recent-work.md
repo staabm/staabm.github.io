@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Drop triun/longest-common-substring dependency](https://github.com/rectorphp/rector-symfony/pull/379) on [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (today)
 - [Support union types](https://github.com/TomasVotruba/unused-public/pull/39) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
 - [DX: Add composer keywords](https://github.com/redaxo/php-cs-fixer-config/pull/3) on [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) (1 day ago)
 - [readme: fix typo](https://github.com/rectorphp/rector-phpunit/pull/164) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 days ago)
@@ -54,7 +55,6 @@
 - [Prevent error in phpstorm, when calling `rex_fragment-&gt;parse()`](https://github.com/redaxo/redaxo/pull/5628) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
 - [Use separate php-version list with R5.15&#43;](https://github.com/FriendsOfREDAXO/rexstan/pull/381) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [Prevent false positive on `method_exists()` and `function_exists()`](https://github.com/phpstan/phpstan-src/pull/2277) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix false positive with `array_combine()` on php8](https://github.com/phpstan/phpstan-src/pull/2276) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
