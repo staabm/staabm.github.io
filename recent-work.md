@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [make rexstan aware of AddOns&#39; vendor/ libraries](https://github.com/FriendsOfREDAXO/rexstan/pull/394) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [detect non-nullable `rex_clang::get()`](https://github.com/FriendsOfREDAXO/rexstan/pull/393) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Handling transactions manually is error prone. Prefer using `rex_sql::transactional()` instead.](https://github.com/FriendsOfREDAXO/rexstan/pull/392) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [test methods annotated with `@test`](https://github.com/TomasVotruba/unused-public/pull/41) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Added MinimalSharedStringSolver tests](https://github.com/rectorphp/rector-symfony/pull/380) on [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (today)
@@ -53,8 +55,6 @@
 - [rector: enable ReturnTypeFromStrictTypedCallRector](https://github.com/redaxo/redaxo/pull/5630) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (4 days ago)
 - [github actions: added a rexstan job](https://github.com/redaxo/redaxo/pull/5629) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
 - [Typo](https://github.com/TomasVotruba/tomasvotruba.com/pull/1391) on [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (5 days ago)
-- [remove duplicate `*/tests/*` path in release downgrade path](https://github.com/easy-coding-standard/easy-coding-standard/pull/67) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (5 days ago)
-- [remove unnecessary bootstrap.php inclusion while composer autoload](https://github.com/easy-coding-standard/easy-coding-standard/pull/66) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
