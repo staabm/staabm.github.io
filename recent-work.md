@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) (today)
+- [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (today)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (2 days ago)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) (3 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
-- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 week ago)
 - [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (1 week ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
+- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [added supportpage](https://github.com/AndiLeni/media_negotiator/pull/7) on [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) (today)
+- [DX: Add composer keywords](https://github.com/TomasVotruba/bladestan/pull/28) on [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (today)
 - [CI: added PHP 8.2 PHPStan job](https://github.com/staabm/phpstan-dba/pull/574) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [SQL AST inference is only supported for mysql backends for now](https://github.com/staabm/phpstan-dba/pull/567) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [make rexstan aware of AddOns&#39; vendor/ libraries](https://github.com/FriendsOfREDAXO/rexstan/pull/394) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
@@ -53,8 +55,6 @@
 - [readme: fix typo](https://github.com/rectorphp/rector-phpunit/pull/164) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (4 days ago)
 - [implement rexstan:analyze path arg and level option](https://github.com/FriendsOfREDAXO/rexstan/pull/387) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [update tools](https://github.com/redaxo/redaxo/pull/5635) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
-- [Added failling test](https://github.com/symplify/coding-standard/pull/18) on [symplify/coding-standard](https://github.com/symplify/coding-standard) (5 days ago)
-- [rector: enable ReturnTypeFromStrictTypedCallRector](https://github.com/redaxo/redaxo/pull/5630) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
