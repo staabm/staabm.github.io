@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (2 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (2 days ago)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) (3 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [CI: added PHP 8.2 PHPStan job](https://github.com/staabm/phpstan-dba/pull/574) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [SQL AST inference is only supported for mysql backends for now](https://github.com/staabm/phpstan-dba/pull/567) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [make rexstan aware of AddOns&#39; vendor/ libraries](https://github.com/FriendsOfREDAXO/rexstan/pull/394) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [detect non-nullable `rex_clang::get()`](https://github.com/FriendsOfREDAXO/rexstan/pull/393) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
@@ -54,13 +55,12 @@
 - [update tools](https://github.com/redaxo/redaxo/pull/5635) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
 - [Added failling test](https://github.com/symplify/coding-standard/pull/18) on [symplify/coding-standard](https://github.com/symplify/coding-standard) (5 days ago)
 - [rector: enable ReturnTypeFromStrictTypedCallRector](https://github.com/redaxo/redaxo/pull/5630) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
-- [github actions: added a rexstan job](https://github.com/redaxo/redaxo/pull/5629) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.67](https://github.com/staabm/phpstan-dba/releases/tag/0.2.67) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.36](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.36) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.66](https://github.com/staabm/phpstan-dba/releases/tag/0.2.66) (2 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.15.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.15.1) (3 days ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.0.2](https://github.com/PrestaShop/PrestaShop/releases/tag/8.0.2) (3 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.1.1](https://github.com/paratestphp/paratest/releases/tag/v7.1.1) (3 days ago)
