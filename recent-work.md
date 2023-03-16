@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.97](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.97) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.67](https://github.com/staabm/phpstan-dba/releases/tag/0.2.67) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.36](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.36) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.15.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.15.1) (3 days ago)
@@ -67,5 +68,4 @@
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.1.1](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.1.1) (4 days ago)
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.11.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.11.0) (6 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.8.0](https://github.com/vimeo/psalm/releases/tag/5.8.0) (6 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.96](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.96) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.6](https://github.com/phpstan/phpstan/releases/tag/1.10.6) (1 week ago)
