@@ -40,6 +40,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [composer: dump `tests/*` autoloading only in dev-mode](https://github.com/paranoiq/dogma/pull/22) on [paranoiq/dogma](https://github.com/paranoiq/dogma) (today)
+- [composer: dump `tests/*` autoloading only in dev-mode](https://github.com/SQLFTW/sqlftw/pull/24) on [SQLFTW/sqlftw](https://github.com/SQLFTW/sqlftw) (today)
+- [run post-update cleanup hook which reduces rexstan filesize/filecount](https://github.com/FriendsOfREDAXO/rexstan/pull/404) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [added composer-post-update cleanup hook](https://github.com/FriendsOfREDAXO/rexstan/pull/403) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [ignore build-cs folder in releases](https://github.com/phpstan/phpstan-strict-rules/pull/206) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
 - [try to fix installer ignore](https://github.com/FriendsOfREDAXO/rexstan/pull/402) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [baseline: warn on non-ignorable errors](https://github.com/FriendsOfREDAXO/rexstan/pull/400) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [added supportpage](https://github.com/AndiLeni/media_negotiator/pull/7) on [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) (today)
@@ -50,16 +55,11 @@
 - [detect non-nullable `rex_clang::get()`](https://github.com/FriendsOfREDAXO/rexstan/pull/393) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [Handling transactions manually is error prone. Prefer using `rex_sql::transactional()` instead.](https://github.com/FriendsOfREDAXO/rexstan/pull/392) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [test methods annotated with `@test`](https://github.com/TomasVotruba/unused-public/pull/41) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
-- [Added MinimalSharedStringSolver tests](https://github.com/rectorphp/rector-symfony/pull/380) on [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (2 days ago)
-- [Drop triun/longest-common-substring dependency](https://github.com/rectorphp/rector-symfony/pull/379) on [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (2 days ago)
-- [Support union types](https://github.com/TomasVotruba/unused-public/pull/39) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
-- [DX: Add composer keywords](https://github.com/redaxo/php-cs-fixer-config/pull/3) on [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) (3 days ago)
-- [readme: fix typo](https://github.com/rectorphp/rector-phpunit/pull/164) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.98](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.98) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.99](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.99) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.7](https://github.com/phpstan/phpstan/releases/tag/1.10.7) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.67](https://github.com/staabm/phpstan-dba/releases/tag/0.2.67) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.36](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.36) (1 day ago)
