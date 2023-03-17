@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.37](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.37) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.99](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.99) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.7](https://github.com/phpstan/phpstan/releases/tag/1.10.7) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.67](https://github.com/staabm/phpstan-dba/releases/tag/0.2.67) (1 day ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.36](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.36) (2 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.15.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.15.1) (4 days ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.0.2](https://github.com/PrestaShop/PrestaShop/releases/tag/8.0.2) (4 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.1.1](https://github.com/paratestphp/paratest/releases/tag/v7.1.1) (4 days ago)
