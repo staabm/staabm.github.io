@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Sql AST: avg/min/max/count can get null on empty result sets](https://github.com/staabm/phpstan-dba/pull/579) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [remove old config values on update](https://github.com/FriendsOfREDAXO/rexstan/pull/412) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [yorm: mark `dataset-&gt;setRelatedCollection()` as internal](https://github.com/yakamara/redaxo_yform/pull/1396) on [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (today)
 - [implement YOrm dynamic return type extension](https://github.com/FriendsOfREDAXO/rexstan/pull/408) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [composer: dump `tests/*` autoloading only in dev-mode](https://github.com/paranoiq/dogma/pull/22) on [paranoiq/dogma](https://github.com/paranoiq/dogma) (2 days ago)
@@ -53,8 +55,6 @@
 - [DX: Add composer keywords](https://github.com/TomasVotruba/bladestan/pull/28) on [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (2 days ago)
 - [CI: added PHP 8.2 PHPStan job](https://github.com/staabm/phpstan-dba/pull/574) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [SQL AST inference is only supported for mysql backends for now](https://github.com/staabm/phpstan-dba/pull/567) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [make rexstan aware of AddOns&#39; vendor/ libraries](https://github.com/FriendsOfREDAXO/rexstan/pull/394) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [detect non-nullable `rex_clang::get()`](https://github.com/FriendsOfREDAXO/rexstan/pull/393) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
