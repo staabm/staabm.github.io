@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [implement YOrm dynamic return type extension](https://github.com/FriendsOfREDAXO/rexstan/pull/408) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [composer: dump `tests/*` autoloading only in dev-mode](https://github.com/paranoiq/dogma/pull/22) on [paranoiq/dogma](https://github.com/paranoiq/dogma) (2 days ago)
 - [composer: dump `tests/*` autoloading only in dev-mode](https://github.com/SQLFTW/sqlftw/pull/24) on [SQLFTW/sqlftw](https://github.com/SQLFTW/sqlftw) (2 days ago)
 - [run post-update cleanup hook which reduces rexstan filesize/filecount](https://github.com/FriendsOfREDAXO/rexstan/pull/404) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
@@ -54,7 +55,6 @@
 - [make rexstan aware of AddOns&#39; vendor/ libraries](https://github.com/FriendsOfREDAXO/rexstan/pull/394) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [detect non-nullable `rex_clang::get()`](https://github.com/FriendsOfREDAXO/rexstan/pull/393) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [Handling transactions manually is error prone. Prefer using `rex_sql::transactional()` instead.](https://github.com/FriendsOfREDAXO/rexstan/pull/392) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [test methods annotated with `@test`](https://github.com/TomasVotruba/unused-public/pull/41) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
