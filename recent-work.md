@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.15.1](https://github.com/redaxo/redaxo/releases/tag/5.15.1) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.37](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.37) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.99](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.99) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.7](https://github.com/phpstan/phpstan/releases/tag/1.10.7) (2 days ago)
@@ -68,4 +69,3 @@
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.1.1](https://github.com/paratestphp/paratest/releases/tag/v7.1.1) (5 days ago)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.1.1](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.1.1) (6 days ago)
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.11.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.11.0) (1 week ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.8.0](https://github.com/vimeo/psalm/releases/tag/5.8.0) (1 week ago)
