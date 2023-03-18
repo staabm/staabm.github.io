@@ -5,8 +5,8 @@
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (2 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
 - [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) (2 days ago)
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (4 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Don&#39;t report unknown class in inline-@var after class_exists()](https://github.com/phpstan/phpstan-src/pull/2292) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Sql AST: avg/min/max/count can get null on empty result sets](https://github.com/staabm/phpstan-dba/pull/579) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [remove old config values on update](https://github.com/FriendsOfREDAXO/rexstan/pull/412) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [yorm: mark `dataset-&gt;setRelatedCollection()` as internal](https://github.com/yakamara/redaxo_yform/pull/1396) on [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (today)
@@ -54,7 +55,6 @@
 - [added supportpage](https://github.com/AndiLeni/media_negotiator/pull/7) on [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) (2 days ago)
 - [DX: Add composer keywords](https://github.com/TomasVotruba/bladestan/pull/28) on [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (2 days ago)
 - [CI: added PHP 8.2 PHPStan job](https://github.com/staabm/phpstan-dba/pull/574) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
-- [SQL AST inference is only supported for mysql backends for now](https://github.com/staabm/phpstan-dba/pull/567) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
