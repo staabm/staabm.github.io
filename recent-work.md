@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (today)
 - [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (2 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
 - [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) (2 days ago)
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (4 days ago)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) (5 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
-- [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (1 week ago)
 
 
 #### 📜 My recent blog posts
