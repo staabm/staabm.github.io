@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (1 day ago)
@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.100](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.100) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.15.1](https://github.com/redaxo/redaxo/releases/tag/5.15.1) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.37](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.37) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.99](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.99) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.7](https://github.com/phpstan/phpstan/releases/tag/1.10.7) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.67](https://github.com/staabm/phpstan-dba/releases/tag/0.2.67) (3 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.15.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.15.1) (6 days ago)
