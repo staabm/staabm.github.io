@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [DX: Added info about use of `setUp()` and `tearDown()` in `TypeInferenceTestCase`](https://github.com/phpstan/phpstan-src/pull/2293) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Don&#39;t report unknown class in inline-@var after class_exists()](https://github.com/phpstan/phpstan-src/pull/2292) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Sql AST: avg/min/max/count can get null on empty result sets](https://github.com/staabm/phpstan-dba/pull/579) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [remove old config values on update](https://github.com/FriendsOfREDAXO/rexstan/pull/412) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -54,7 +55,6 @@
 - [baseline: warn on non-ignorable errors](https://github.com/FriendsOfREDAXO/rexstan/pull/400) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [added supportpage](https://github.com/AndiLeni/media_negotiator/pull/7) on [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) (3 days ago)
 - [DX: Add composer keywords](https://github.com/TomasVotruba/bladestan/pull/28) on [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (3 days ago)
-- [CI: added PHP 8.2 PHPStan job](https://github.com/staabm/phpstan-dba/pull/574) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
