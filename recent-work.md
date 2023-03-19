@@ -4,12 +4,12 @@
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
-- [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (1 day ago)
+- [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) (3 days ago)
 - [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (3 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
-- [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) (3 days ago)
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (5 days ago)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) (6 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
