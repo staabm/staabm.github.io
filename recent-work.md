@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) (4 days ago)
 - [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (4 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
