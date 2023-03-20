@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [remove thecodingmachine/safe dependency](https://github.com/FriendsOfREDAXO/rexstan/pull/423) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [Bump staabm/phpstan-dba from 0.2.67 to 0.2.68](https://github.com/FriendsOfREDAXO/rexstan/pull/422) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Implemented YOrmDatasetOptionalTableRule](https://github.com/FriendsOfREDAXO/rexstan/pull/419) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [fix warning: &#34;stripos(): Passing null to parameter #1&#34;](https://github.com/FriendsOfREDAXO/rexstan/pull/418) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [`method_exists()` to prevent error in update.php](https://github.com/FriendsOfREDAXO/rexstan/pull/417) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -53,12 +55,11 @@
 - [composer: dump `tests/*` autoloading only in dev-mode](https://github.com/SQLFTW/sqlftw/pull/24) on [SQLFTW/sqlftw](https://github.com/SQLFTW/sqlftw) (4 days ago)
 - [run post-update cleanup hook which reduces rexstan filesize/filecount](https://github.com/FriendsOfREDAXO/rexstan/pull/404) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [added composer-post-update cleanup hook](https://github.com/FriendsOfREDAXO/rexstan/pull/403) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [ignore build-cs folder in releases](https://github.com/phpstan/phpstan-strict-rules/pull/206) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (4 days ago)
-- [try to fix installer ignore](https://github.com/FriendsOfREDAXO/rexstan/pull/402) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.1.2](https://github.com/paratestphp/paratest/releases/tag/v7.1.2) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.68](https://github.com/staabm/phpstan-dba/releases/tag/0.2.68) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.101](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.101) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.15.1](https://github.com/redaxo/redaxo/releases/tag/5.15.1) (2 days ago)
@@ -66,6 +67,5 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.7](https://github.com/phpstan/phpstan/releases/tag/1.10.7) (4 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.15.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.15.1) (1 week ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.0.2](https://github.com/PrestaShop/PrestaShop/releases/tag/8.0.2) (1 week ago)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.1.1](https://github.com/paratestphp/paratest/releases/tag/v7.1.1) (1 week ago)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.1.1](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.1.1) (1 week ago)
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.11.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.11.0) (1 week ago)
