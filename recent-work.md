@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix deprecation in RexGetValueRule](https://github.com/FriendsOfREDAXO/rexstan/pull/425) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [rex_finder: more precise parameter types](https://github.com/redaxo/redaxo/pull/5659) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [remove non-source files from releases](https://github.com/staabm/phpstan-baseline-analysis/pull/110) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [Remove non-source files from releases](https://github.com/lstrojny/uffff/pull/12) on [lstrojny/uffff](https://github.com/lstrojny/uffff) (today)
@@ -54,7 +55,6 @@
 - [Don&#39;t report unknown class in inline-@var after class_exists()](https://github.com/phpstan/phpstan-src/pull/2292) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Sql AST: avg/min/max/count can get null on empty result sets](https://github.com/staabm/phpstan-dba/pull/579) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [remove old config values on update](https://github.com/FriendsOfREDAXO/rexstan/pull/412) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [yorm: mark `dataset-&gt;setRelatedCollection()` as internal](https://github.com/yakamara/redaxo_yform/pull/1396) on [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
