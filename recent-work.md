@@ -32,10 +32,10 @@
 - [Marschl](https://github.com/Marschl) (3 months ago)
 - [zonuexe](https://github.com/zonuexe) (4 months ago)
 - [SpiGAndromeda](https://github.com/SpiGAndromeda) (4 months ago)
-- [bitshiftersgmbh](https://github.com/bitshiftersgmbh) (6 months ago)
 - [tomasnorre](https://github.com/tomasnorre) (6 months ago)
 - [elricco](https://github.com/elricco) (9 months ago)
 - [w-sk](https://github.com/w-sk) (3 years ago)
+- [polarpixel](https://github.com/polarpixel) (3 years ago)
 
 
 #### 🔨 My recent Pull Requests
