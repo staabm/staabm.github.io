@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
+- [lstrojny/uffff](https://github.com/lstrojny/uffff) (today)
 - [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (3 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (5 days ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
 - [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) (5 days ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (1 week ago)
-- [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -35,13 +35,13 @@
 - [bitshiftersgmbh](https://github.com/bitshiftersgmbh) (6 months ago)
 - [tomasnorre](https://github.com/tomasnorre) (6 months ago)
 - [elricco](https://github.com/elricco) (9 months ago)
-- [williamdes](https://github.com/williamdes) (10 months ago)
+- [w-sk](https://github.com/w-sk) (3 years ago)
 
 
 #### 🔨 My recent Pull Requests
 
 - [remove non-source files from releases](https://github.com/staabm/phpstan-baseline-analysis/pull/110) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
-- [remove non-source files from releases](https://github.com/lstrojny/uffff/pull/12) on [lstrojny/uffff](https://github.com/lstrojny/uffff) (today)
+- [Remove non-source files from releases](https://github.com/lstrojny/uffff/pull/12) on [lstrojny/uffff](https://github.com/lstrojny/uffff) (today)
 - [remove non-source files from releases](https://github.com/igorw/evenement/pull/82) on [igorw/evenement](https://github.com/igorw/evenement) (today)
 - [remove non-source files from releases](https://github.com/staabm/evenement/pull/1) on [staabm/evenement](https://github.com/staabm/evenement) (today)
 - [remove thecodingmachine/safe dependency](https://github.com/FriendsOfREDAXO/rexstan/pull/423) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.102](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.102) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.1.2](https://github.com/paratestphp/paratest/releases/tag/v7.1.2) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.68](https://github.com/staabm/phpstan-dba/releases/tag/0.2.68) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.101](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.101) (2 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.15.1](https://github.com/redaxo/redaxo/releases/tag/5.15.1) (3 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.37](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.37) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.7](https://github.com/phpstan/phpstan/releases/tag/1.10.7) (5 days ago)
