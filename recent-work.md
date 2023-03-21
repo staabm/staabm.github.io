@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/composer](https://github.com/composer/composer) - [2.5.5](https://github.com/composer/composer/releases/tag/2.5.5) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.102](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.102) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.1.2](https://github.com/paratestphp/paratest/releases/tag/v7.1.2) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.68](https://github.com/staabm/phpstan-dba/releases/tag/0.2.68) (1 day ago)
@@ -68,4 +69,3 @@
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.15.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.15.1) (1 week ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.0.2](https://github.com/PrestaShop/PrestaShop/releases/tag/8.0.2) (1 week ago)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.1.1](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.1.1) (1 week ago)
-- [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - [v3.11.0](https://github.com/KnpLabs/php-github-api/releases/tag/v3.11.0) (1 week ago)
