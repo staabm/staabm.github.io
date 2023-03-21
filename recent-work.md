@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
-- [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) (5 days ago)
+- [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (3 days ago)
 - [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (5 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
+- [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) (5 days ago)
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (1 week ago)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) (1 week ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [remove non-source files from releases](https://github.com/staabm/phpstan-baseline-analysis/pull/110) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
+- [remove non-source files from releases](https://github.com/lstrojny/uffff/pull/12) on [lstrojny/uffff](https://github.com/lstrojny/uffff) (today)
+- [remove non-source files from releases](https://github.com/igorw/evenement/pull/82) on [igorw/evenement](https://github.com/igorw/evenement) (today)
+- [remove non-source files from releases](https://github.com/staabm/evenement/pull/1) on [staabm/evenement](https://github.com/staabm/evenement) (today)
 - [remove thecodingmachine/safe dependency](https://github.com/FriendsOfREDAXO/rexstan/pull/423) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [Bump staabm/phpstan-dba from 0.2.67 to 0.2.68](https://github.com/FriendsOfREDAXO/rexstan/pull/422) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [Implemented YOrmDatasetOptionalTableRule](https://github.com/FriendsOfREDAXO/rexstan/pull/419) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
@@ -51,10 +55,6 @@
 - [remove old config values on update](https://github.com/FriendsOfREDAXO/rexstan/pull/412) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [yorm: mark `dataset-&gt;setRelatedCollection()` as internal](https://github.com/yakamara/redaxo_yform/pull/1396) on [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (3 days ago)
 - [implement YOrm dynamic return type extension](https://github.com/FriendsOfREDAXO/rexstan/pull/408) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [composer: dump `tests/*` autoloading only in dev-mode](https://github.com/paranoiq/dogma/pull/22) on [paranoiq/dogma](https://github.com/paranoiq/dogma) (5 days ago)
-- [composer: dump `tests/*` autoloading only in dev-mode](https://github.com/SQLFTW/sqlftw/pull/24) on [SQLFTW/sqlftw](https://github.com/SQLFTW/sqlftw) (5 days ago)
-- [run post-update cleanup hook which reduces rexstan filesize/filecount](https://github.com/FriendsOfREDAXO/rexstan/pull/404) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
-- [added composer-post-update cleanup hook](https://github.com/FriendsOfREDAXO/rexstan/pull/403) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
