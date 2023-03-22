@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update PHPCS](https://github.com/phpstan/phpstan-strict-rules/pull/208) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
 - [fix deprecation in RexGetValueRule](https://github.com/FriendsOfREDAXO/rexstan/pull/425) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [rex_finder: more precise parameter types](https://github.com/redaxo/redaxo/pull/5659) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [remove non-source files from releases](https://github.com/staabm/phpstan-baseline-analysis/pull/110) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
@@ -54,7 +55,6 @@
 - [DX: Added info about use of `setUp()` and `tearDown()` in `TypeInferenceTestCase`](https://github.com/phpstan/phpstan-src/pull/2293) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Don&#39;t report unknown class in inline-@var after class_exists()](https://github.com/phpstan/phpstan-src/pull/2292) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Sql AST: avg/min/max/count can get null on empty result sets](https://github.com/staabm/phpstan-dba/pull/579) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [remove old config values on update](https://github.com/FriendsOfREDAXO/rexstan/pull/412) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
