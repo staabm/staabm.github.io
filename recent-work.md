@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (today)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
+- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (today)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
-- [lstrojny/uffff](https://github.com/lstrojny/uffff) (1 day ago)
-- [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (4 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) (6 days ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (6 days ago)
-- [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (6 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
+- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (today)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (today)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
 
 
 #### 📜 My recent blog posts
@@ -40,21 +40,21 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update PHPCS](https://github.com/phpstan/extension-installer/pull/69) on [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (today)
+- [Update PHPCS](https://github.com/phpstan/phpstan-phpunit/pull/173) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
+- [Update PHPCS](https://github.com/phpstan/phpstan-symfony/pull/341) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (today)
+- [Update PHPCS](https://github.com/phpstan/phpstan-webmozart-assert/pull/162) on [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (today)
+- [Update PHPCS](https://github.com/phpstan/phpstan-beberlei-assert/pull/51) on [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (today)
+- [Update PHPCS](https://github.com/phpstan/phpstan-nette/pull/121) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
+- [Update PHPCS](https://github.com/phpstan/phpstan-php-parser/pull/36) on [phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan-php-parser) (today)
+- [Update PHPCS](https://github.com/phpstan/phpdoc-parser/pull/181) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
+- [Update PHPCS](https://github.com/phpstan/phpstan-doctrine/pull/440) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
+- [Update PHPCS](https://github.com/phpstan/phpstan-dibi/pull/35) on [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (today)
+- [Update PHPCS](https://github.com/phpstan/phpstan-mockery/pull/62) on [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (today)
+- [Update PHPCS](https://github.com/phpstan/phpstan-deprecation-rules/pull/93) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
 - [myREDAXO -&gt; MyREDAXO](https://github.com/redaxo/redaxo/pull/5660) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [Update PHPCS](https://github.com/phpstan/phpstan-strict-rules/pull/208) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
 - [fix deprecation in RexGetValueRule](https://github.com/FriendsOfREDAXO/rexstan/pull/425) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [rex_finder: more precise parameter types](https://github.com/redaxo/redaxo/pull/5659) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
-- [remove non-source files from releases](https://github.com/staabm/phpstan-baseline-analysis/pull/110) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
-- [Remove non-source files from releases](https://github.com/lstrojny/uffff/pull/12) on [lstrojny/uffff](https://github.com/lstrojny/uffff) (1 day ago)
-- [remove non-source files from releases](https://github.com/igorw/evenement/pull/82) on [igorw/evenement](https://github.com/igorw/evenement) (1 day ago)
-- [remove non-source files from releases](https://github.com/staabm/evenement/pull/1) on [staabm/evenement](https://github.com/staabm/evenement) (1 day ago)
-- [remove thecodingmachine/safe dependency](https://github.com/FriendsOfREDAXO/rexstan/pull/423) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [Bump staabm/phpstan-dba from 0.2.67 to 0.2.68](https://github.com/FriendsOfREDAXO/rexstan/pull/422) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [Implemented YOrmDatasetOptionalTableRule](https://github.com/FriendsOfREDAXO/rexstan/pull/419) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [fix warning: &#34;stripos(): Passing null to parameter #1&#34;](https://github.com/FriendsOfREDAXO/rexstan/pull/418) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [`method_exists()` to prevent error in update.php](https://github.com/FriendsOfREDAXO/rexstan/pull/417) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [DX: Added info about use of `setUp()` and `tearDown()` in `TypeInferenceTestCase`](https://github.com/phpstan/phpstan-src/pull/2293) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Don&#39;t report unknown class in inline-@var after class_exists()](https://github.com/phpstan/phpstan-src/pull/2292) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
@@ -65,7 +65,7 @@
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.68](https://github.com/staabm/phpstan-dba/releases/tag/0.2.68) (2 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.15.1](https://github.com/redaxo/redaxo/releases/tag/5.15.1) (4 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.37](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.37) (5 days ago)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.1.3](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.1.3) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.7](https://github.com/phpstan/phpstan/releases/tag/1.10.7) (6 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.15.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.15.1) (1 week ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.0.2](https://github.com/PrestaShop/PrestaShop/releases/tag/8.0.2) (1 week ago)
-- [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.1.1](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.1.1) (1 week ago)
