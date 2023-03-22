@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [add upper bound to feeds version constraint](https://github.com/FriendsOfREDAXO/feeds_github_markdown/pull/2) on [FriendsOfREDAXO/feeds_github_markdown](https://github.com/FriendsOfREDAXO/feeds_github_markdown) (today)
+- [debug: use optimized autoloader](https://github.com/redaxo/redaxo/pull/5662) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [build optimized composer autoloader](https://github.com/FriendsOfREDAXO/rexstan/pull/429) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [lint php files in project root](https://github.com/FriendsOfREDAXO/rexstan/pull/428) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Update PHPCS](https://github.com/phpstan/extension-installer/pull/69) on [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (today)
@@ -53,8 +55,6 @@
 - [Update PHPCS](https://github.com/phpstan/phpstan-doctrine/pull/440) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [Update PHPCS](https://github.com/phpstan/phpstan-dibi/pull/35) on [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (today)
 - [Update PHPCS](https://github.com/phpstan/phpstan-mockery/pull/62) on [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (today)
-- [Update PHPCS](https://github.com/phpstan/phpstan-deprecation-rules/pull/93) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
-- [myREDAXO -&gt; MyREDAXO](https://github.com/redaxo/redaxo/pull/5660) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 
 
 #### 🔭 Latest releases I've contributed to
