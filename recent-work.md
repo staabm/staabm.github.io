@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (today)
@@ -11,7 +11,7 @@
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (today)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (today)
 
 
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [build optimized composer autoloader](https://github.com/FriendsOfREDAXO/rexstan/pull/429) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [lint php files in project root](https://github.com/FriendsOfREDAXO/rexstan/pull/428) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Update PHPCS](https://github.com/phpstan/extension-installer/pull/69) on [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (today)
 - [Update PHPCS](https://github.com/phpstan/phpstan-phpunit/pull/173) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [Update PHPCS](https://github.com/phpstan/phpstan-symfony/pull/341) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (today)
@@ -53,8 +55,6 @@
 - [Update PHPCS](https://github.com/phpstan/phpstan-mockery/pull/62) on [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (today)
 - [Update PHPCS](https://github.com/phpstan/phpstan-deprecation-rules/pull/93) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
 - [myREDAXO -&gt; MyREDAXO](https://github.com/redaxo/redaxo/pull/5660) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
-- [Update PHPCS](https://github.com/phpstan/phpstan-strict-rules/pull/208) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
-- [fix deprecation in RexGetValueRule](https://github.com/FriendsOfREDAXO/rexstan/pull/425) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
