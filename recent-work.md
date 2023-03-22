@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [lstrojny/uffff](https://github.com/lstrojny/uffff) (1 day ago)
 - [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (6 days ago)
 - [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) (6 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (6 days ago)
-- [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (1 week ago)
+- [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (6 days ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [myREDAXO -&gt; MyREDAXO](https://github.com/redaxo/redaxo/pull/5660) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [Update PHPCS](https://github.com/phpstan/phpstan-strict-rules/pull/208) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
 - [fix deprecation in RexGetValueRule](https://github.com/FriendsOfREDAXO/rexstan/pull/425) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [rex_finder: more precise parameter types](https://github.com/redaxo/redaxo/pull/5659) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
@@ -54,7 +55,6 @@
 - [`method_exists()` to prevent error in update.php](https://github.com/FriendsOfREDAXO/rexstan/pull/417) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [DX: Added info about use of `setUp()` and `tearDown()` in `TypeInferenceTestCase`](https://github.com/phpstan/phpstan-src/pull/2293) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Don&#39;t report unknown class in inline-@var after class_exists()](https://github.com/phpstan/phpstan-src/pull/2292) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Sql AST: avg/min/max/count can get null on empty result sets](https://github.com/staabm/phpstan-dba/pull/579) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
