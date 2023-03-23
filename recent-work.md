@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 day ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (1 day ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 day ago)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (1 day ago)
 
 
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [render baseline count in summary](https://github.com/FriendsOfREDAXO/rexstan/pull/434) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [simplify `pathinfo()` logic](https://github.com/FriendsOfREDAXO/rexstan/pull/433) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [fix baseline generation button was not displayed](https://github.com/FriendsOfREDAXO/rexstan/pull/432) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [add upper bound to feeds version constraint](https://github.com/FriendsOfREDAXO/feeds_github_markdown/pull/2) on [FriendsOfREDAXO/feeds_github_markdown](https://github.com/FriendsOfREDAXO/feeds_github_markdown) (1 day ago)
 - [debug: use optimized autoloader](https://github.com/redaxo/redaxo/pull/5662) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [build optimized composer autoloader](https://github.com/FriendsOfREDAXO/rexstan/pull/429) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -52,9 +55,6 @@
 - [Update PHPCS](https://github.com/phpstan/phpstan-nette/pull/121) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
 - [Update PHPCS](https://github.com/phpstan/phpstan-php-parser/pull/36) on [phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan-php-parser) (1 day ago)
 - [Update PHPCS](https://github.com/phpstan/phpdoc-parser/pull/181) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
-- [Update PHPCS](https://github.com/phpstan/phpstan-doctrine/pull/440) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
-- [Update PHPCS](https://github.com/phpstan/phpstan-dibi/pull/35) on [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (1 day ago)
-- [Update PHPCS](https://github.com/phpstan/phpstan-mockery/pull/62) on [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
