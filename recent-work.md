@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.69](https://github.com/staabm/phpstan-dba/releases/tag/0.2.69) (today)
 - [composer/composer](https://github.com/composer/composer) - [2.5.5](https://github.com/composer/composer/releases/tag/2.5.5) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.102](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.102) (2 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.1.2](https://github.com/paratestphp/paratest/releases/tag/v7.1.2) (3 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.68](https://github.com/staabm/phpstan-dba/releases/tag/0.2.68) (3 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.15.1](https://github.com/redaxo/redaxo/releases/tag/5.15.1) (5 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.37](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.37) (6 days ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.1.3](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.1.3) (6 days ago)
