@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [better baseline hint on level-summary](https://github.com/FriendsOfREDAXO/rexstan/pull/435) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [render baseline count in summary](https://github.com/FriendsOfREDAXO/rexstan/pull/434) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [simplify `pathinfo()` logic](https://github.com/FriendsOfREDAXO/rexstan/pull/433) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [fix baseline generation button was not displayed](https://github.com/FriendsOfREDAXO/rexstan/pull/432) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
@@ -54,7 +55,6 @@
 - [Update PHPCS](https://github.com/phpstan/phpstan-beberlei-assert/pull/51) on [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (1 day ago)
 - [Update PHPCS](https://github.com/phpstan/phpstan-nette/pull/121) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
 - [Update PHPCS](https://github.com/phpstan/phpstan-php-parser/pull/36) on [phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan-php-parser) (1 day ago)
-- [Update PHPCS](https://github.com/phpstan/phpdoc-parser/pull/181) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
