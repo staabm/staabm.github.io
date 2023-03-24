@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (2 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (2 days ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
-- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (2 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (2 days ago)
-- [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (2 days ago)
+- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (2 days ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
+- [phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan-php-parser) (2 days ago)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (2 days ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 days ago)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (2 days ago)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (2 days ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/21) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [implement YOrmDatasetGetValueDynamicReturnTypeExtension](https://github.com/FriendsOfREDAXO/rexstan/pull/442) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [ignore module/template false-positives in yakme dir layout](https://github.com/FriendsOfREDAXO/rexstan/pull/441) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [fix typo](https://github.com/FriendsOfREDAXO/rexstan/pull/438) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
@@ -50,16 +51,16 @@
 - [add upper bound to feeds version constraint](https://github.com/FriendsOfREDAXO/feeds_github_markdown/pull/2) on [FriendsOfREDAXO/feeds_github_markdown](https://github.com/FriendsOfREDAXO/feeds_github_markdown) (2 days ago)
 - [debug: use optimized autoloader](https://github.com/redaxo/redaxo/pull/5662) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [build optimized composer autoloader](https://github.com/FriendsOfREDAXO/rexstan/pull/429) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [build optimized composer autoloader](https://github.com/FriendsOfREDAXO/rexfactor/pull/19) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
+- [fix build](https://github.com/FriendsOfREDAXO/rexfactor/pull/18) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
+- [CI: setup phpstan](https://github.com/FriendsOfREDAXO/rexfactor/pull/16) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
 - [lint php files in project root](https://github.com/FriendsOfREDAXO/rexstan/pull/428) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [Update PHPCS](https://github.com/phpstan/extension-installer/pull/69) on [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (2 days ago)
-- [Update PHPCS](https://github.com/phpstan/phpstan-phpunit/pull/173) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
-- [Update PHPCS](https://github.com/phpstan/phpstan-symfony/pull/341) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (2 days ago)
-- [Update PHPCS](https://github.com/phpstan/phpstan-webmozart-assert/pull/162) on [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.104](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.104) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.105](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.105) (today)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.1](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.1) (today)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.3.0](https://github.com/deployphp/deployer/releases/tag/v7.3.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.8](https://github.com/phpstan/phpstan/releases/tag/1.10.8) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.69](https://github.com/staabm/phpstan-dba/releases/tag/0.2.69) (1 day ago)
@@ -68,4 +69,3 @@
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.15.1](https://github.com/redaxo/redaxo/releases/tag/5.15.1) (6 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.37](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.37) (1 week ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.1.3](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.1.3) (1 week ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.15.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.15.1) (1 week ago)
