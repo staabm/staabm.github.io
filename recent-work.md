@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (2 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (2 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix typo](https://github.com/FriendsOfREDAXO/rexstan/pull/438) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [better baseline hint on level-summary](https://github.com/FriendsOfREDAXO/rexstan/pull/435) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [render baseline count in summary](https://github.com/FriendsOfREDAXO/rexstan/pull/434) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [simplify `pathinfo()` logic](https://github.com/FriendsOfREDAXO/rexstan/pull/433) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -54,7 +55,6 @@
 - [Update PHPCS](https://github.com/phpstan/phpstan-webmozart-assert/pull/162) on [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (2 days ago)
 - [Update PHPCS](https://github.com/phpstan/phpstan-beberlei-assert/pull/51) on [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (2 days ago)
 - [Update PHPCS](https://github.com/phpstan/phpstan-nette/pull/121) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 days ago)
-- [Update PHPCS](https://github.com/phpstan/phpstan-php-parser/pull/36) on [phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan-php-parser) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
