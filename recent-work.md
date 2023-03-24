@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [implement YOrmDatasetGetValueDynamicReturnTypeExtension](https://github.com/FriendsOfREDAXO/rexstan/pull/442) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [ignore module/template false-positives in yakme dir layout](https://github.com/FriendsOfREDAXO/rexstan/pull/441) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [fix typo](https://github.com/FriendsOfREDAXO/rexstan/pull/438) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [better baseline hint on level-summary](https://github.com/FriendsOfREDAXO/rexstan/pull/435) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -54,7 +55,6 @@
 - [Update PHPCS](https://github.com/phpstan/phpstan-phpunit/pull/173) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
 - [Update PHPCS](https://github.com/phpstan/phpstan-symfony/pull/341) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (2 days ago)
 - [Update PHPCS](https://github.com/phpstan/phpstan-webmozart-assert/pull/162) on [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (2 days ago)
-- [Update PHPCS](https://github.com/phpstan/phpstan-beberlei-assert/pull/51) on [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
