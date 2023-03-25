@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 days ago)
 - [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (3 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update README.md](https://github.com/FriendsOfREDAXO/rexfactor/pull/22) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/21) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 - [implement YOrmDatasetGetValueDynamicReturnTypeExtension](https://github.com/FriendsOfREDAXO/rexstan/pull/442) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [ignore module/template false-positives in yakme dir layout](https://github.com/FriendsOfREDAXO/rexstan/pull/441) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -54,7 +55,6 @@
 - [build optimized composer autoloader](https://github.com/FriendsOfREDAXO/rexfactor/pull/19) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 - [fix build](https://github.com/FriendsOfREDAXO/rexfactor/pull/18) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 - [CI: setup phpstan](https://github.com/FriendsOfREDAXO/rexfactor/pull/16) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
-- [lint php files in project root](https://github.com/FriendsOfREDAXO/rexstan/pull/428) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
