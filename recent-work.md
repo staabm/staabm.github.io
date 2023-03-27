@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
-- [FriendsOfREDAXO/friendsofredaxo.github.io](https://github.com/FriendsOfREDAXO/friendsofredaxo.github.io) (today)
+- [FriendsOfREDAXO/linter](https://github.com/FriendsOfREDAXO/linter) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [FriendsOfREDAXO/friendsofredaxo.github.io](https://github.com/FriendsOfREDAXO/friendsofredaxo.github.io) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (5 days ago)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (5 days ago)
 - [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (5 days ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
 - [phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan-php-parser) (5 days ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (5 days ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (5 days ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (5 days ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Create .github/FUNDING.yml](https://github.com/FriendsOfREDAXO/rexfactor/pull/27) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
+- [prepare next release](https://github.com/FriendsOfREDAXO/rexfactor/pull/26) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
+- [implement reportUnmatchedIgnoredErrors setting](https://github.com/FriendsOfREDAXO/rexstan/pull/449) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [rexfactor: use early returns](https://github.com/FriendsOfREDAXO/rexstan/pull/447) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [fix package name](https://github.com/FriendsOfREDAXO/graphql/pull/4) on [FriendsOfREDAXO/graphql](https://github.com/FriendsOfREDAXO/graphql) (today)
 - [init github actions](https://github.com/FriendsOfREDAXO/graphql/pull/1) on [FriendsOfREDAXO/graphql](https://github.com/FriendsOfREDAXO/graphql) (today)
@@ -52,17 +55,14 @@
 - [fix typo](https://github.com/FriendsOfREDAXO/rexstan/pull/438) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [better baseline hint on level-summary](https://github.com/FriendsOfREDAXO/rexstan/pull/435) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [render baseline count in summary](https://github.com/FriendsOfREDAXO/rexstan/pull/434) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [simplify `pathinfo()` logic](https://github.com/FriendsOfREDAXO/rexstan/pull/433) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [fix baseline generation button was not displayed](https://github.com/FriendsOfREDAXO/rexstan/pull/432) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [add upper bound to feeds version constraint](https://github.com/FriendsOfREDAXO/feeds_github_markdown/pull/2) on [FriendsOfREDAXO/feeds_github_markdown](https://github.com/FriendsOfREDAXO/feeds_github_markdown) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.2](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.2) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.106](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.106) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.70](https://github.com/staabm/phpstan-dba/releases/tag/0.2.70) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.11](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.11) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.105](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.105) (3 days ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.1](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.1) (3 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.3.0](https://github.com/deployphp/deployer/releases/tag/v7.3.0) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.8](https://github.com/phpstan/phpstan/releases/tag/1.10.8) (3 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.5.5](https://github.com/composer/composer/releases/tag/2.5.5) (6 days ago)
