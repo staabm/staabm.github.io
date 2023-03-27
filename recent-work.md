@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/friendsofredaxo.github.io](https://github.com/FriendsOfREDAXO/friendsofredaxo.github.io) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (5 days ago)
-- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (5 days ago)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (5 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
 - [phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan-php-parser) (5 days ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (5 days ago)
+- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (5 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (5 days ago)
-- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (5 days ago)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (5 days ago)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (5 days ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (5 days ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix package name](https://github.com/FriendsOfREDAXO/graphql/pull/4) on [FriendsOfREDAXO/graphql](https://github.com/FriendsOfREDAXO/graphql) (today)
+- [init github actions](https://github.com/FriendsOfREDAXO/graphql/pull/1) on [FriendsOfREDAXO/graphql](https://github.com/FriendsOfREDAXO/graphql) (today)
 - [Reproduce bug 8538](https://github.com/phpstan/phpstan/pull/9093) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [implement YOrmDatasetPropertyClassReflectionExtension](https://github.com/FriendsOfREDAXO/rexstan/pull/444) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [Update README.md](https://github.com/FriendsOfREDAXO/rexfactor/pull/22) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
@@ -53,8 +55,6 @@
 - [fix baseline generation button was not displayed](https://github.com/FriendsOfREDAXO/rexstan/pull/432) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [add upper bound to feeds version constraint](https://github.com/FriendsOfREDAXO/feeds_github_markdown/pull/2) on [FriendsOfREDAXO/feeds_github_markdown](https://github.com/FriendsOfREDAXO/feeds_github_markdown) (5 days ago)
 - [debug: use optimized autoloader](https://github.com/redaxo/redaxo/pull/5662) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
-- [build optimized composer autoloader](https://github.com/FriendsOfREDAXO/rexstan/pull/429) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
-- [build optimized composer autoloader](https://github.com/FriendsOfREDAXO/rexfactor/pull/19) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
