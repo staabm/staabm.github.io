@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Reproduce bug 8538](https://github.com/phpstan/phpstan/pull/9093) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [implement YOrmDatasetPropertyClassReflectionExtension](https://github.com/FriendsOfREDAXO/rexstan/pull/444) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [Update README.md](https://github.com/FriendsOfREDAXO/rexfactor/pull/22) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/21) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
@@ -54,7 +55,6 @@
 - [debug: use optimized autoloader](https://github.com/redaxo/redaxo/pull/5662) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
 - [build optimized composer autoloader](https://github.com/FriendsOfREDAXO/rexstan/pull/429) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [build optimized composer autoloader](https://github.com/FriendsOfREDAXO/rexfactor/pull/19) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (5 days ago)
-- [fix build](https://github.com/FriendsOfREDAXO/rexfactor/pull/18) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
