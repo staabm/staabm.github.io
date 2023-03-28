@@ -6,13 +6,13 @@
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [FriendsOfREDAXO/linter](https://github.com/FriendsOfREDAXO/linter) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [FriendsOfREDAXO/friendsofredaxo.github.io](https://github.com/FriendsOfREDAXO/friendsofredaxo.github.io) (1 day ago)
+- [FriendsOfREDAXO/graphql](https://github.com/FriendsOfREDAXO/graphql) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (6 days ago)
-- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (6 days ago)
+- [FriendsOfREDAXO/friendsofredaxo.github.io](https://github.com/FriendsOfREDAXO/friendsofredaxo.github.io) (1 day ago)
+- [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (6 days ago)
 - [phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan-php-parser) (6 days ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (6 days ago)
+- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (6 days ago)
 
 
 #### 📜 My recent blog posts
