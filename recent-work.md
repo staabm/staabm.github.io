@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [FriendsOfREDAXO/linter](https://github.com/FriendsOfREDAXO/linter) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [FriendsOfREDAXO/graphql](https://github.com/FriendsOfREDAXO/graphql) (2 days ago)
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [js: extract rex_loader class](https://github.com/redaxo/redaxo/pull/5664) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [Don&#39;t process developer addon itself](https://github.com/FriendsOfREDAXO/rexfactor/pull/35) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
+- [skip system addons](https://github.com/FriendsOfREDAXO/rexfactor/pull/34) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [Create .github/FUNDING.yml](https://github.com/FriendsOfREDAXO/rexfactor/pull/27) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
 - [prepare next release](https://github.com/FriendsOfREDAXO/rexfactor/pull/26) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
 - [implement reportUnmatchedIgnoredErrors setting](https://github.com/FriendsOfREDAXO/rexstan/pull/449) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
@@ -52,9 +55,6 @@
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/21) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (5 days ago)
 - [implement YOrmDatasetGetValueDynamicReturnTypeExtension](https://github.com/FriendsOfREDAXO/rexstan/pull/442) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [ignore module/template false-positives in yakme dir layout](https://github.com/FriendsOfREDAXO/rexstan/pull/441) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
-- [fix typo](https://github.com/FriendsOfREDAXO/rexstan/pull/438) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
-- [better baseline hint on level-summary](https://github.com/FriendsOfREDAXO/rexstan/pull/435) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
-- [render baseline count in summary](https://github.com/FriendsOfREDAXO/rexstan/pull/434) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
