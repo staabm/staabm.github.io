@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.5.1](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.5.1) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.3](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.3) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.106](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.106) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.70](https://github.com/staabm/phpstan-dba/releases/tag/0.2.70) (2 days ago)
@@ -68,4 +69,3 @@
 - [composer/composer](https://github.com/composer/composer) - [2.5.5](https://github.com/composer/composer/releases/tag/2.5.5) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.15.1](https://github.com/redaxo/redaxo/releases/tag/5.15.1) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.37](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.37) (1 week ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.1.3](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.1.3) (1 week ago)
