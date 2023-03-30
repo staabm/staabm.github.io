@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [CI: added Roave Backwards Compatibility Check](https://github.com/redaxo/redaxo/pull/5665) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/40) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/39) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 - [skip test-only use-cases when no tests found in target-AddOn](https://github.com/FriendsOfREDAXO/rexfactor/pull/38) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
@@ -54,7 +55,6 @@
 - [rexfactor: use early returns](https://github.com/FriendsOfREDAXO/rexstan/pull/447) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [fix package name](https://github.com/FriendsOfREDAXO/graphql/pull/4) on [FriendsOfREDAXO/graphql](https://github.com/FriendsOfREDAXO/graphql) (3 days ago)
 - [init github actions](https://github.com/FriendsOfREDAXO/graphql/pull/1) on [FriendsOfREDAXO/graphql](https://github.com/FriendsOfREDAXO/graphql) (3 days ago)
-- [Reproduce bug 8538](https://github.com/phpstan/phpstan/pull/9093) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
