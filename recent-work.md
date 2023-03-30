@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.9.0](https://github.com/vimeo/psalm/releases/tag/5.9.0) (today)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.5.1](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.5.1) (1 day ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.3](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.3) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.106](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.106) (3 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.8](https://github.com/phpstan/phpstan/releases/tag/1.10.8) (6 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.5.5](https://github.com/composer/composer/releases/tag/2.5.5) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.15.1](https://github.com/redaxo/redaxo/releases/tag/5.15.1) (1 week ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.37](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.37) (1 week ago)
