@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [rex_sql: escape database name in sql](https://github.com/redaxo/redaxo/pull/5676) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [declare more precise types](https://github.com/FriendsOfREDAXO/graphql/pull/6) on [FriendsOfREDAXO/graphql](https://github.com/FriendsOfREDAXO/graphql) (1 day ago)
 - [Fix phpstan deprecation errors](https://github.com/symplify/phpstan-rules/pull/21) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 day ago)
 - [Added failling RemoveUnusedPrivatePropertyRector test-case](https://github.com/rectorphp/rector-src/pull/3539) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [skip system addons](https://github.com/FriendsOfREDAXO/rexfactor/pull/34) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
 - [Create .github/FUNDING.yml](https://github.com/FriendsOfREDAXO/rexfactor/pull/27) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
 - [prepare next release](https://github.com/FriendsOfREDAXO/rexfactor/pull/26) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
-- [implement reportUnmatchedIgnoredErrors setting](https://github.com/FriendsOfREDAXO/rexstan/pull/449) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
