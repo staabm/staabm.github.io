@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [package-schema: define installer_ignore pattern](https://github.com/redaxo/redaxo/pull/5681) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [Implemented linting of AddOns package.yml](https://github.com/FriendsOfREDAXO/rexstan/pull/460) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [drop `treatPhpDocTypesAsCertain: false`](https://github.com/FriendsOfREDAXO/rexstan/pull/459) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [enable `CheckTypehintCallerTypeRule` &amp; `CheckSprintfMatchingTypesRule`](https://github.com/FriendsOfREDAXO/rexstan/pull/458) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Fix cs-fixing on developer modules/templates](https://github.com/FriendsOfREDAXO/rexfactor/pull/44) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
@@ -53,8 +55,6 @@
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/39) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 - [skip test-only use-cases when no tests found in target-AddOn](https://github.com/FriendsOfREDAXO/rexfactor/pull/38) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 - [describe the migration result in more detail](https://github.com/FriendsOfREDAXO/rexfactor/pull/37) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
-- [use loader on use-case selection](https://github.com/FriendsOfREDAXO/rexfactor/pull/36) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
-- [js: extract rex_loader api](https://github.com/redaxo/redaxo/pull/5664) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
