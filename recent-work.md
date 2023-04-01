@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/461) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [removed unused variable in UndefinedConstraint](https://github.com/justinrainbow/json-schema/pull/698) on [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) (today)
 - [package-schema: define installer_ignore pattern](https://github.com/redaxo/redaxo/pull/5681) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [Implemented linting of AddOns package.yml](https://github.com/FriendsOfREDAXO/rexstan/pull/460) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
@@ -54,17 +55,16 @@
 - [CI: added Roave Backwards Compatibility Check](https://github.com/redaxo/redaxo/pull/5665) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/40) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/39) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
-- [skip test-only use-cases when no tests found in target-AddOn](https://github.com/FriendsOfREDAXO/rexfactor/pull/38) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.107](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.107) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.9](https://github.com/phpstan/phpstan/releases/tag/1.10.9) (2 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.2.24](https://github.com/phpstan/phpstan-symfony/releases/tag/1.2.24) (2 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.9.0](https://github.com/vimeo/psalm/releases/tag/5.9.0) (2 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.5.1](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.5.1) (3 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.3](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.3) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.106](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.106) (5 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.70](https://github.com/staabm/phpstan-dba/releases/tag/0.2.70) (5 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.11](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.11) (1 week ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.3.0](https://github.com/deployphp/deployer/releases/tag/v7.3.0) (1 week ago)
