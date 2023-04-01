@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [removed unused variable in UndefinedConstraint](https://github.com/justinrainbow/json-schema/pull/698) on [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) (today)
 - [package-schema: define installer_ignore pattern](https://github.com/redaxo/redaxo/pull/5681) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [Implemented linting of AddOns package.yml](https://github.com/FriendsOfREDAXO/rexstan/pull/460) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [drop `treatPhpDocTypesAsCertain: false`](https://github.com/FriendsOfREDAXO/rexstan/pull/459) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
@@ -54,7 +55,6 @@
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/40) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/39) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 - [skip test-only use-cases when no tests found in target-AddOn](https://github.com/FriendsOfREDAXO/rexfactor/pull/38) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
-- [describe the migration result in more detail](https://github.com/FriendsOfREDAXO/rexfactor/pull/37) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
