@@ -4,8 +4,8 @@
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 day ago)
 - [FriendsOfREDAXO/linter](https://github.com/FriendsOfREDAXO/linter) (4 days ago)
 - [FriendsOfREDAXO/graphql](https://github.com/FriendsOfREDAXO/graphql) (5 days ago)
