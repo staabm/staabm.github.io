@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 day ago)
 - [FriendsOfREDAXO/linter](https://github.com/FriendsOfREDAXO/linter) (4 days ago)
 - [FriendsOfREDAXO/graphql](https://github.com/FriendsOfREDAXO/graphql) (5 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [drop `treatPhpDocTypesAsCertain: false`](https://github.com/FriendsOfREDAXO/rexstan/pull/459) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [enable `CheckTypehintCallerTypeRule` &amp; `CheckSprintfMatchingTypesRule`](https://github.com/FriendsOfREDAXO/rexstan/pull/458) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [Fix cs-fixing on developer modules/templates](https://github.com/FriendsOfREDAXO/rexfactor/pull/44) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [Skip generic types in CheckTypehintCallerTypeRule](https://github.com/symplify/phpstan-rules/pull/22) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 day ago)
 - [rex_sql: escape database name in sql](https://github.com/redaxo/redaxo/pull/5676) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [declare more precise types](https://github.com/FriendsOfREDAXO/graphql/pull/6) on [FriendsOfREDAXO/graphql](https://github.com/FriendsOfREDAXO/graphql) (2 days ago)
@@ -52,9 +55,6 @@
 - [describe the migration result in more detail](https://github.com/FriendsOfREDAXO/rexfactor/pull/37) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 - [use loader on use-case selection](https://github.com/FriendsOfREDAXO/rexfactor/pull/36) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 - [js: extract rex_loader api](https://github.com/redaxo/redaxo/pull/5664) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
-- [Don&#39;t process developer addon itself](https://github.com/FriendsOfREDAXO/rexfactor/pull/35) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
-- [skip system addons](https://github.com/FriendsOfREDAXO/rexfactor/pull/34) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
-- [Create .github/FUNDING.yml](https://github.com/FriendsOfREDAXO/rexfactor/pull/27) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
