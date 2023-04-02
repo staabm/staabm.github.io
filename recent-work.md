@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 days ago)
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [redaxo core bug reproduzieren](https://github.com/FriendsOfREDAXO/rexstan/pull/462) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [fix error pages on huge errors](https://github.com/redaxo/redaxo/pull/5683) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [fix typo in package.json schema](https://github.com/redaxo/redaxo/pull/5682) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/461) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [removed unused variable in UndefinedConstraint](https://github.com/justinrainbow/json-schema/pull/698) on [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) (1 day ago)
 - [package-schema: define installer_ignore pattern](https://github.com/redaxo/redaxo/pull/5681) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
@@ -52,9 +55,6 @@
 - [declare more precise types](https://github.com/FriendsOfREDAXO/graphql/pull/6) on [FriendsOfREDAXO/graphql](https://github.com/FriendsOfREDAXO/graphql) (3 days ago)
 - [Fix phpstan deprecation errors](https://github.com/symplify/phpstan-rules/pull/21) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (3 days ago)
 - [Added failling RemoveUnusedPrivatePropertyRector test-case](https://github.com/rectorphp/rector-src/pull/3539) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [CI: added Roave Backwards Compatibility Check](https://github.com/redaxo/redaxo/pull/5665) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
-- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/40) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
-- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/39) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
