@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 days ago)
 - [FriendsOfREDAXO/linter](https://github.com/FriendsOfREDAXO/linter) (5 days ago)
-- [FriendsOfREDAXO/graphql](https://github.com/FriendsOfREDAXO/graphql) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
+- [FriendsOfREDAXO/graphql](https://github.com/FriendsOfREDAXO/graphql) (6 days ago)
 - [FriendsOfREDAXO/friendsofredaxo.github.io](https://github.com/FriendsOfREDAXO/friendsofredaxo.github.io) (6 days ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 
 
 #### 📜 My recent blog posts
