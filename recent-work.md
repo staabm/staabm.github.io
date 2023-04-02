@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [indicate used redaxo cs-fixer version](https://github.com/FriendsOfREDAXO/rexfactor/pull/56) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
+- [rexfactor: modernize strpos](https://github.com/FriendsOfREDAXO/rexstan/pull/466) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [redaxo code style: `modernize_strpos` per default](https://github.com/FriendsOfREDAXO/rexfactor/pull/54) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [Simplify `runRexFactor()`](https://github.com/FriendsOfREDAXO/rexfactor/pull/53) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [Use better default rectors](https://github.com/FriendsOfREDAXO/rexfactor/pull/52) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [try different way to detect uncommitted changes](https://github.com/FriendsOfREDAXO/rexfactor/pull/51) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
@@ -52,9 +55,6 @@
 - [redaxo core bug reproduzieren](https://github.com/FriendsOfREDAXO/rexstan/pull/462) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [fix error pages on huge errors](https://github.com/redaxo/redaxo/pull/5683) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [fix package.json schema for pages/main-pages](https://github.com/redaxo/redaxo/pull/5682) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
-- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/461) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [removed unused variable in UndefinedConstraint](https://github.com/justinrainbow/json-schema/pull/698) on [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) (1 day ago)
-- [package-schema: define installer_ignore pattern](https://github.com/redaxo/redaxo/pull/5681) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
