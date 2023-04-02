@@ -6,11 +6,11 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 days ago)
 - [FriendsOfREDAXO/linter](https://github.com/FriendsOfREDAXO/linter) (5 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 - [FriendsOfREDAXO/graphql](https://github.com/FriendsOfREDAXO/graphql) (6 days ago)
 - [FriendsOfREDAXO/friendsofredaxo.github.io](https://github.com/FriendsOfREDAXO/friendsofredaxo.github.io) (6 days ago)
 
