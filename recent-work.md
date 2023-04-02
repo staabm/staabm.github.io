@@ -40,11 +40,14 @@
 
 #### 🔨 My recent Pull Requests
 
+- [de-yoda styles](https://github.com/FriendsOfREDAXO/rexfactor/pull/50) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
+- [ignore tests/ when fixing cs](https://github.com/FriendsOfREDAXO/rexfactor/pull/49) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
+- [disable yoda styles in redaxo style](https://github.com/FriendsOfREDAXO/rexfactor/pull/48) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [rexfactor redaxo code-style](https://github.com/FriendsOfREDAXO/rexstan/pull/463) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [rexfactor redaxo code-style](https://github.com/FriendsOfREDAXO/rexfactor/pull/47) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [redaxo core bug reproduzieren](https://github.com/FriendsOfREDAXO/rexstan/pull/462) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [fix error pages on huge errors](https://github.com/redaxo/redaxo/pull/5683) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
-- [fix typo in package.json schema](https://github.com/redaxo/redaxo/pull/5682) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [fix package.json schema for pages/main-pages](https://github.com/redaxo/redaxo/pull/5682) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/461) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [removed unused variable in UndefinedConstraint](https://github.com/justinrainbow/json-schema/pull/698) on [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) (1 day ago)
 - [package-schema: define installer_ignore pattern](https://github.com/redaxo/redaxo/pull/5681) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
@@ -52,9 +55,6 @@
 - [drop `treatPhpDocTypesAsCertain: false`](https://github.com/FriendsOfREDAXO/rexstan/pull/459) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [enable `CheckTypehintCallerTypeRule` &amp; `CheckSprintfMatchingTypesRule`](https://github.com/FriendsOfREDAXO/rexstan/pull/458) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [Fix cs-fixing on developer modules/templates](https://github.com/FriendsOfREDAXO/rexfactor/pull/44) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
-- [Skip generic types in CheckTypehintCallerTypeRule](https://github.com/symplify/phpstan-rules/pull/22) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 days ago)
-- [rex_sql: escape database name in sql](https://github.com/redaxo/redaxo/pull/5676) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
-- [declare more precise types](https://github.com/FriendsOfREDAXO/graphql/pull/6) on [FriendsOfREDAXO/graphql](https://github.com/FriendsOfREDAXO/graphql) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
