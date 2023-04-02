@@ -7,8 +7,8 @@
 - [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 days ago)
 - [FriendsOfREDAXO/linter](https://github.com/FriendsOfREDAXO/linter) (5 days ago)
 - [FriendsOfREDAXO/graphql](https://github.com/FriendsOfREDAXO/graphql) (6 days ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [rexfactor redaxo code-style](https://github.com/FriendsOfREDAXO/rexstan/pull/463) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [rexfactor redaxo code-style](https://github.com/FriendsOfREDAXO/rexfactor/pull/47) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [redaxo core bug reproduzieren](https://github.com/FriendsOfREDAXO/rexstan/pull/462) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [fix error pages on huge errors](https://github.com/redaxo/redaxo/pull/5683) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [fix typo in package.json schema](https://github.com/redaxo/redaxo/pull/5682) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
@@ -53,8 +55,6 @@
 - [Skip generic types in CheckTypehintCallerTypeRule](https://github.com/symplify/phpstan-rules/pull/22) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 days ago)
 - [rex_sql: escape database name in sql](https://github.com/redaxo/redaxo/pull/5676) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [declare more precise types](https://github.com/FriendsOfREDAXO/graphql/pull/6) on [FriendsOfREDAXO/graphql](https://github.com/FriendsOfREDAXO/graphql) (3 days ago)
-- [Fix phpstan deprecation errors](https://github.com/symplify/phpstan-rules/pull/21) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (3 days ago)
-- [Added failling RemoveUnusedPrivatePropertyRector test-case](https://github.com/rectorphp/rector-src/pull/3539) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
