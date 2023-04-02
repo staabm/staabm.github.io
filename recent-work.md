@@ -40,6 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify `runRexFactor()`](https://github.com/FriendsOfREDAXO/rexfactor/pull/53) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
+- [Use better default rectors](https://github.com/FriendsOfREDAXO/rexfactor/pull/52) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
+- [try different way to detect uncommitted changes](https://github.com/FriendsOfREDAXO/rexfactor/pull/51) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
+- [trust package.json schema only in 5.15.2-dev](https://github.com/FriendsOfREDAXO/rexstan/pull/464) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [de-yoda styles](https://github.com/FriendsOfREDAXO/rexfactor/pull/50) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [ignore tests/ when fixing cs](https://github.com/FriendsOfREDAXO/rexfactor/pull/49) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [disable yoda styles in redaxo style](https://github.com/FriendsOfREDAXO/rexfactor/pull/48) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
@@ -51,10 +55,6 @@
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/461) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [removed unused variable in UndefinedConstraint](https://github.com/justinrainbow/json-schema/pull/698) on [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) (1 day ago)
 - [package-schema: define installer_ignore pattern](https://github.com/redaxo/redaxo/pull/5681) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
-- [Implemented linting of AddOns package.yml](https://github.com/FriendsOfREDAXO/rexstan/pull/460) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [drop `treatPhpDocTypesAsCertain: false`](https://github.com/FriendsOfREDAXO/rexstan/pull/459) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [enable `CheckTypehintCallerTypeRule` &amp; `CheckSprintfMatchingTypesRule`](https://github.com/FriendsOfREDAXO/rexstan/pull/458) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [Fix cs-fixing on developer modules/templates](https://github.com/FriendsOfREDAXO/rexfactor/pull/44) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
