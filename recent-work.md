@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [remove PdoStatement stub](https://github.com/staabm/phpstan-dba/pull/594) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [indicate used redaxo cs-fixer version](https://github.com/FriendsOfREDAXO/rexfactor/pull/56) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 - [rexfactor: modernize strpos](https://github.com/FriendsOfREDAXO/rexstan/pull/466) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [redaxo code style: `modernize_strpos` per default](https://github.com/FriendsOfREDAXO/rexfactor/pull/54) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
@@ -54,7 +55,6 @@
 - [rexfactor redaxo code-style](https://github.com/FriendsOfREDAXO/rexfactor/pull/47) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 - [redaxo core bug reproduzieren](https://github.com/FriendsOfREDAXO/rexstan/pull/462) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [fix error pages on huge errors](https://github.com/redaxo/redaxo/pull/5683) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
-- [fix package.json schema for pages/main-pages](https://github.com/redaxo/redaxo/pull/5682) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
