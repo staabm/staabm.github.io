@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Error when on closed-resources is passed to io functions](https://github.com/phpstan/phpstan-src/pull/2322) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Ignore abstract base-classes in CheckTypehintCallerTypeRule  ](https://github.com/symplify/phpstan-rules/pull/26) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 day ago)
 - [remove PdoStatement stub](https://github.com/staabm/phpstan-dba/pull/594) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [indicate used redaxo cs-fixer version](https://github.com/FriendsOfREDAXO/rexfactor/pull/56) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
@@ -54,7 +55,6 @@
 - [disable yoda styles in redaxo style](https://github.com/FriendsOfREDAXO/rexfactor/pull/48) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
 - [rexfactor redaxo code-style](https://github.com/FriendsOfREDAXO/rexstan/pull/463) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [rexfactor redaxo code-style](https://github.com/FriendsOfREDAXO/rexfactor/pull/47) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
-- [redaxo core bug reproduzieren](https://github.com/FriendsOfREDAXO/rexstan/pull/462) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
