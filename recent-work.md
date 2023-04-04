@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.17.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.17.0) (today)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.0.3](https://github.com/PrestaShop/PrestaShop/releases/tag/8.0.3) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.16.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.16.0) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.10](https://github.com/phpstan/phpstan/releases/tag/1.10.10) (3 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.5.1](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.5.1) (6 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.3](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.3) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.70](https://github.com/staabm/phpstan-dba/releases/tag/0.2.70) (1 week ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.11](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.11) (1 week ago)
