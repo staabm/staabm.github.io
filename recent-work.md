@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.11](https://github.com/phpstan/phpstan/releases/tag/1.10.11) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.17.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.17.1) (today)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.0.3](https://github.com/PrestaShop/PrestaShop/releases/tag/8.0.3) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.16.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.16.0) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.10](https://github.com/phpstan/phpstan/releases/tag/1.10.10) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.107](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.107) (3 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.2.24](https://github.com/phpstan/phpstan-symfony/releases/tag/1.2.24) (5 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.9.0](https://github.com/vimeo/psalm/releases/tag/5.9.0) (5 days ago)
