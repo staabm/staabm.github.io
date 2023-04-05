@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Validate usages of assert*-methods in TypeInferenceTestCase](https://github.com/phpstan/phpstan-src/pull/2326) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Disable duplicate stub validation for now](https://github.com/staabm/phpstan-dba/pull/595) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Error when on closed-resources is passed to io functions](https://github.com/phpstan/phpstan-src/pull/2322) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Ignore abstract base-classes in CheckTypehintCallerTypeRule  ](https://github.com/symplify/phpstan-rules/pull/26) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 days ago)
@@ -54,7 +55,6 @@
 - [de-yoda styles](https://github.com/FriendsOfREDAXO/rexfactor/pull/50) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 - [ignore tests/ when fixing cs](https://github.com/FriendsOfREDAXO/rexfactor/pull/49) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 - [disable yoda styles in redaxo style](https://github.com/FriendsOfREDAXO/rexfactor/pull/48) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
-- [rexfactor redaxo code-style](https://github.com/FriendsOfREDAXO/rexstan/pull/463) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
