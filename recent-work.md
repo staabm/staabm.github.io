@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.2.25](https://github.com/phpstan/phpstan-symfony/releases/tag/1.2.25) (today)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.3.1](https://github.com/deployphp/deployer/releases/tag/v7.3.1) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.71](https://github.com/staabm/phpstan-dba/releases/tag/0.2.71) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.11](https://github.com/phpstan/phpstan/releases/tag/1.10.11) (1 day ago)
@@ -66,6 +67,5 @@
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.0.3](https://github.com/PrestaShop/PrestaShop/releases/tag/8.0.3) (2 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.16.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.16.0) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.107](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.107) (4 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.2.24](https://github.com/phpstan/phpstan-symfony/releases/tag/1.2.24) (6 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.9.0](https://github.com/vimeo/psalm/releases/tag/5.9.0) (6 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.5.1](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.5.1) (1 week ago)
