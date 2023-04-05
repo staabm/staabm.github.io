@@ -4,10 +4,10 @@
 #### 💻 Check out what I'm currently working on
 
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (4 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (5 days ago)
 - [FriendsOfREDAXO/linter](https://github.com/FriendsOfREDAXO/linter) (1 week ago)
