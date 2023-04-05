@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) (3 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (4 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (5 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Disable duplicate stub validation for now](https://github.com/staabm/phpstan-dba/pull/595) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Error when on closed-resources is passed to io functions](https://github.com/phpstan/phpstan-src/pull/2322) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Ignore abstract base-classes in CheckTypehintCallerTypeRule  ](https://github.com/symplify/phpstan-rules/pull/26) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 days ago)
 - [remove PdoStatement stub](https://github.com/staabm/phpstan-dba/pull/594) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
@@ -54,11 +55,11 @@
 - [ignore tests/ when fixing cs](https://github.com/FriendsOfREDAXO/rexfactor/pull/49) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 - [disable yoda styles in redaxo style](https://github.com/FriendsOfREDAXO/rexfactor/pull/48) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 - [rexfactor redaxo code-style](https://github.com/FriendsOfREDAXO/rexstan/pull/463) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [rexfactor redaxo code-style](https://github.com/FriendsOfREDAXO/rexfactor/pull/47) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.71](https://github.com/staabm/phpstan-dba/releases/tag/0.2.71) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.11](https://github.com/phpstan/phpstan/releases/tag/1.10.11) (1 day ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.17.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.17.1) (1 day ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.0.3](https://github.com/PrestaShop/PrestaShop/releases/tag/8.0.3) (2 days ago)
@@ -68,4 +69,3 @@
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.9.0](https://github.com/vimeo/psalm/releases/tag/5.9.0) (6 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.5.1](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.5.1) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.3](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.3) (1 week ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.70](https://github.com/staabm/phpstan-dba/releases/tag/0.2.70) (1 week ago)
