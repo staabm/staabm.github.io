@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.18.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.18.1) (today)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) - [1.8.4](https://github.com/staabm/annotate-pull-request-from-checkstyle/releases/tag/1.8.4) (today)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.18.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.18.0) (1 day ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9.6](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9.6) (1 day ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.4](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.4) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.108](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.108) (2 days ago)
