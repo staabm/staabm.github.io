@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Lint only configured AddOns to improve performance](https://github.com/FriendsOfREDAXO/rexstan/pull/474) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [include readme](https://github.com/FriendsOfREDAXO/rexfactor/pull/62) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/61) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
 - [sponsoring](https://github.com/FriendsOfREDAXO/rexfactor/pull/60) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
@@ -54,7 +55,6 @@
 - [Simplify `runRexFactor()`](https://github.com/FriendsOfREDAXO/rexfactor/pull/53) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (5 days ago)
 - [Use better default rectors](https://github.com/FriendsOfREDAXO/rexfactor/pull/52) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (5 days ago)
 - [try different way to detect uncommitted changes](https://github.com/FriendsOfREDAXO/rexfactor/pull/51) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (5 days ago)
-- [trust package.json schema only in 5.15.2-dev](https://github.com/FriendsOfREDAXO/rexstan/pull/464) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
