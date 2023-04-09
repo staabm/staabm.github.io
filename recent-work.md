@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [profile picture](https://github.com/staabm/staabm.github.io/pull/44) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [typo](https://github.com/staabm/staabm.github.io/pull/43) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [typos](https://github.com/staabm/staabm.github.io/pull/42) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [fix typo](https://github.com/redaxo/redaxo/pull/5687) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
@@ -54,7 +55,6 @@
 - [detect uncommitted changes only when git executable exists](https://github.com/FriendsOfREDAXO/rexfactor/pull/63) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/478) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Manually patch parallel-lint to make it faster](https://github.com/FriendsOfREDAXO/rexstan/pull/477) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [use loader on slow pages](https://github.com/FriendsOfREDAXO/rexstan/pull/476) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 
 
 #### 🔭 Latest releases I've contributed to
