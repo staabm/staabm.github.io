@@ -37,7 +37,7 @@ Using a simple 4 step wizzard right from your REDAXO web UI its just a matter of
     <img width="910" alt="Step 3: Preview Diff" src="https://user-images.githubusercontent.com/120441/230765378-e0113cef-08dc-4ff2-b41d-857929986593.png">
 4. done
 
-In case you are working with the `project` or `theme` AddOn to manage your projects' sources in files, you might even use this workflow to upgrade your project itself.
+In case you are working with the `developer`, `project` or `theme` AddOn to manage your projects' sources in files, you might even use this workflow to upgrade your project itself.
 
 ## Migration use-cases
 
