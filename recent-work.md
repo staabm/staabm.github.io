@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix profile](https://github.com/staabm/staabm.github.io/pull/45) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [profile picture](https://github.com/staabm/staabm.github.io/pull/44) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [typo](https://github.com/staabm/staabm.github.io/pull/43) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [typos](https://github.com/staabm/staabm.github.io/pull/42) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
@@ -54,7 +55,6 @@
 - [don&#39;t print analysed linting paths](https://github.com/FriendsOfREDAXO/rexstan/pull/479) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [detect uncommitted changes only when git executable exists](https://github.com/FriendsOfREDAXO/rexfactor/pull/63) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/478) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [Manually patch parallel-lint to make it faster](https://github.com/FriendsOfREDAXO/rexstan/pull/477) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 
 
 #### 🔭 Latest releases I've contributed to
