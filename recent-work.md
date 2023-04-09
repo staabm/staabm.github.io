@@ -4,9 +4,9 @@
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 days ago)
 - [FriendsOfREDAXO/quick_navigation](https://github.com/FriendsOfREDAXO/quick_navigation) (4 days ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Create 2023-04-09-rexfactor-introduction.md](https://github.com/staabm/staabm.github.io/pull/36) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [don&#39;t print analysed linting paths](https://github.com/FriendsOfREDAXO/rexstan/pull/479) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [detect uncommitted changes only when git executable exists](https://github.com/FriendsOfREDAXO/rexfactor/pull/63) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/478) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Manually patch parallel-lint to make it faster](https://github.com/FriendsOfREDAXO/rexstan/pull/477) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [use loader on slow pages](https://github.com/FriendsOfREDAXO/rexstan/pull/476) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
@@ -52,9 +55,6 @@
 - [sponsoring](https://github.com/FriendsOfREDAXO/rexfactor/pull/60) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
 - [Validate usages of assert*-methods in TypeInferenceTestCase](https://github.com/phpstan/phpstan-src/pull/2326) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Disable duplicate stub validation for now](https://github.com/staabm/phpstan-dba/pull/595) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [Error when on closed-resources is passed to io functions](https://github.com/phpstan/phpstan-src/pull/2322) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Ignore abstract base-classes in CheckTypehintCallerTypeRule  ](https://github.com/symplify/phpstan-rules/pull/26) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (6 days ago)
-- [remove PdoStatement stub](https://github.com/staabm/phpstan-dba/pull/594) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
