@@ -14,14 +14,15 @@ ogImage:
   fileName: "rexfactor-introduction"
 ---
 
-After bringing [static code analysis to REDAXO CMS with rexstan](https://staabm.github.io/2022/06/18/rexstan-REDAXO-AddOn.html) lets take a look at the next step:
+After bringing [static code analysis to REDAXO CMS with rexstan](https://staabm.github.io/2022/06/18/rexstan-REDAXO-AddOn.html) lets take a look at the next logical step
 
 ## Automated code migrations with rexfactor REDAXO AddOn
 
-As usual, `rexfactor` is a REDAXO CMS AddOn available thru the REDAXO Installer and can be installed in a few clicks.
-
-The AddOn integrates [rector](https://github.com/rectorphp/rector) with the developer in mind, meaning it eases use for often used migration/upgrade use-cases.
+The `rexfactor` AddOn integrates [rector](https://github.com/rectorphp/rector) with the developer in mind, meaning it eases use for often used migration/upgrade use-cases.
 Primary purpose is to allow people less experienced with developer tooling to automate migration tasks.
+
+As usual the REDAXO CMS AddOn is available thru [the REDAXO Installer and can be installed in a few clicks](https://redaxo.org/doku/main/installer).
+The idea is to use `rexfactor` in your local development environment.
 
 Using a simple 4 step wizzard you can automate tedious manual tasks to upgrade your own AddOns source code.
 1) select the AddOn you want to upgrade
@@ -56,5 +57,10 @@ This use cases involve improving the quality of test code by making it more main
 - `More Explicit Coding Style:` ensures that code is expressed in a more explicit and clear manner
 
 
+## Support rexfactor development
 
+Chances are high, that you or your company is saving a lot of time and money with help of rexfactor.
+[Please consider supporting my work](https://github.com/sponsors/staabm), so I can make sure rexfactor can help you automate as much manual and error prone tasks as possible.
 
+The AddOn is developed and maintained in my free time for the lovely REDAXO community.
+I haven't used REDAXO for my personal use for a very long time.
