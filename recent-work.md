@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 days ago)
 - [FriendsOfREDAXO/quick_navigation](https://github.com/FriendsOfREDAXO/quick_navigation) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) (1 week ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/478) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [Manually patch parallel-lint to make it faster](https://github.com/FriendsOfREDAXO/rexstan/pull/477) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [use loader on slow pages](https://github.com/FriendsOfREDAXO/rexstan/pull/476) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [prepare next iteration](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/111) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 days ago)
 - [prepare release](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/110) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 days ago)
@@ -53,17 +55,15 @@
 - [Error when on closed-resources is passed to io functions](https://github.com/phpstan/phpstan-src/pull/2322) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Ignore abstract base-classes in CheckTypehintCallerTypeRule  ](https://github.com/symplify/phpstan-rules/pull/26) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (6 days ago)
 - [remove PdoStatement stub](https://github.com/staabm/phpstan-dba/pull/594) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
-- [indicate used redaxo cs-fixer version](https://github.com/FriendsOfREDAXO/rexfactor/pull/56) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
-- [rexfactor: modernize strpos](https://github.com/FriendsOfREDAXO/rexstan/pull/466) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.109](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.109) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.18.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.18.1) (2 days ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) - [1.8.4](https://github.com/staabm/annotate-pull-request-from-checkstyle/releases/tag/1.8.4) (2 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9.6](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9.6) (3 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.4](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.4) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.108](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.108) (4 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.2.25](https://github.com/phpstan/phpstan-symfony/releases/tag/1.2.25) (4 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.3.1](https://github.com/deployphp/deployer/releases/tag/v7.3.1) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.71](https://github.com/staabm/phpstan-dba/releases/tag/0.2.71) (4 days ago)
