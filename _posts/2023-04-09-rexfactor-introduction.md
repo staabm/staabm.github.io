@@ -14,7 +14,7 @@ ogImage:
   fileName: "rexfactor-introduction"
 ---
 
-After bringing PHPStan [static code analysis to REDAXO CMS with rexstan](https://staabm.github.io/2022/06/18/rexstan-REDAXO-AddOn.html) lets take a look at the next logical step
+After bringing PHPStan [static code analysis to REDAXO CMS with rexstan](https://staabm.github.io/2022/06/18/rexstan-REDAXO-AddOn.html), lets take a look at the next logical step.
 
 ## Automated code migrations with rexfactor
 
