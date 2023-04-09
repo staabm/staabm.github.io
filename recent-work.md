@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix typos](https://github.com/staabm/staabm.github.io/pull/47) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/65) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [fix profile](https://github.com/staabm/staabm.github.io/pull/46) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [fix profile](https://github.com/staabm/staabm.github.io/pull/45) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
@@ -54,7 +55,6 @@
 - [use numbered lists](https://github.com/staabm/staabm.github.io/pull/38) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [simplify &amp; images](https://github.com/staabm/staabm.github.io/pull/37) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Create 2023-04-09-rexfactor-introduction.md](https://github.com/staabm/staabm.github.io/pull/36) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [don&#39;t print analysed linting paths](https://github.com/FriendsOfREDAXO/rexstan/pull/479) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 
 
 #### 🔭 Latest releases I've contributed to
