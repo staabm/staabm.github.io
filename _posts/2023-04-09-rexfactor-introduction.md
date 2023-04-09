@@ -24,7 +24,7 @@ Primary purpose is to allow people less experienced with developer tooling to au
 As usual the REDAXO CMS AddOn is available thru [the REDAXO Installer and can be installed in a few clicks](https://redaxo.org/doku/main/installer).
 The idea is to use `rexfactor` in your local development environment.
 
-Using a simple 4 step wizzard you can automate tedious manual tasks to upgrade your own AddOns source code.
+Using a simple 4 step wizzard right from your REDAXO web UI you can automate tedious manual tasks to upgrade your own AddOns source code.
 1) select the AddOn you want to upgrade
 2) select the migration use-case
 3) get a rich inline preview diff of suggested changes for you to review and confirm
