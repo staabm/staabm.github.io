@@ -14,11 +14,11 @@ ogImage:
   fileName: "rexfactor-introduction"
 ---
 
-After bringing [static code analysis to REDAXO CMS with rexstan](https://staabm.github.io/2022/06/18/rexstan-REDAXO-AddOn.html) lets take a look at the next logical step
+After bringing PHPStan [static code analysis to REDAXO CMS with rexstan](https://staabm.github.io/2022/06/18/rexstan-REDAXO-AddOn.html), lets take a look at the next logical step.
 
 ## Automated code migrations with rexfactor
 
-The `rexfactor` AddOn integrates [rector](https://github.com/rectorphp/rector) with the developer UX in mind, meaning it eases use for often needed use-cases.
+The `rexfactor` AddOn integrates [Rector](https://github.com/rectorphp/rector) with the developer UX in mind, meaning it eases use for often needed use-cases.
 Primary purpose is to allow people less experienced with developer tooling to automate manual and error-prone code migration tasks.
 
 As usual the REDAXO CMS AddOn is available thru [the REDAXO Installer and can be installed in a few clicks](https://redaxo.org/doku/main/installer).
