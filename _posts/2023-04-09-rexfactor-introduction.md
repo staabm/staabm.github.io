@@ -16,18 +16,21 @@ ogImage:
 
 After bringing [static code analysis to REDAXO CMS with rexstan](https://staabm.github.io/2022/06/18/rexstan-REDAXO-AddOn.html) lets take a look at the next logical step
 
-## Automated code migrations with rexfactor REDAXO AddOn
+## Automated code migrations with rexfactor
 
-The `rexfactor` AddOn integrates [rector](https://github.com/rectorphp/rector) with the developer in mind, meaning it eases use for often used migration/upgrade use-cases.
-Primary purpose is to allow people less experienced with developer tooling to automate migration tasks.
+The `rexfactor` AddOn integrates [rector](https://github.com/rectorphp/rector) with the developer UX in mind, meaning it eases use for often needed use-cases.
+Primary purpose is to allow people less experienced with developer tooling to automate manual and error-prone code migration tasks.
 
 As usual the REDAXO CMS AddOn is available thru [the REDAXO Installer and can be installed in a few clicks](https://redaxo.org/doku/main/installer).
 The idea is to use `rexfactor` in your local development environment.
 
 Using a simple 4 step wizzard right from your REDAXO web UI you can automate tedious manual tasks to upgrade your own AddOns source code.
 1) select the AddOn you want to upgrade
+   <img width="910" alt="Step 1: AddOn selector in the REDAXO Backend" src="https://user-images.githubusercontent.com/120441/230765277-846af6a0-5f4d-4fe2-be7d-780c3fb71758.png">
 2) select the migration use-case
+   <img width="910" alt="Step 2: Migration use-case selector in the REDAXO Backend" src="https://user-images.githubusercontent.com/120441/230765344-7be5546d-725c-4dd6-8178-89627dfb76b3.png">
 3) get a rich inline preview diff of suggested changes for you to review and confirm
+   <img width="910" alt="Step 3: Preview Diff" src="https://user-images.githubusercontent.com/120441/230765378-e0113cef-08dc-4ff2-b41d-857929986593.png">
 4) done
 
 In case you are working with the `project` or `theme` AddOn to manage your projects' sources in files, you might even use this workflow to upgrade your project itself.
