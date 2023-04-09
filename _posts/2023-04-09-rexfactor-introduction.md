@@ -36,7 +36,7 @@ In case you are working with the `project` or `theme` AddOn to manage your proje
 
 Starting with the first version published version a bunch of use-cases are already available:
 
-- `PHP Version Migrations`: helps updating the PHP version according to the official php.net migration guide
+- `PHP Version Migrations`: helps migrate your source according to the official php.net migration guides
 - `Unify Code Quality:` ensures code in your project adheres to the coding standards and best practices
 - `Remove Dead Code:` identifying and removing code that is no longer used
 - `Infer Type Declarations:` infer native return-types or parameter-types of methods&functions to improve type coverage
@@ -60,7 +60,6 @@ This use cases involve improving the quality of test code by making it more main
 ## Support rexfactor development
 
 Chances are high, that you or your company is saving a lot of time and money with help of rexfactor.
-[Please consider supporting my work](https://github.com/sponsors/staabm), so I can make sure rexfactor can help you automate as much manual and error prone tasks as possible.
+[Please consider supporting my work](https://github.com/sponsors/staabm), so I can make sure rexfactor can help you automate as much manual and error-prone tasks as possible.
 
-The AddOn was [created as a headlining feature for the REDAXO Tag in Bozen](https://redaxo.org/cms/news/redaxo-community-trifft-sich-in-bozen-austausch%2C-workshops-und-neue-tools-zur-verbesserung-von-code-qualitaet/) and is maintained in my free time for the lovely REDAXO community.
-I haven't used REDAXO for my personal use for a very long time.
+The AddOn was [created as a surprise for the REDAXO Tag in Bozen](https://redaxo.org/cms/news/redaxo-community-trifft-sich-in-bozen-austausch%2C-workshops-und-neue-tools-zur-verbesserung-von-code-qualitaet/) and is maintained in my free time for the lovely REDAXO community.
