@@ -62,5 +62,5 @@ This use cases involve improving the quality of test code by making it more main
 Chances are high, that you or your company is saving a lot of time and money with help of rexfactor.
 [Please consider supporting my work](https://github.com/sponsors/staabm), so I can make sure rexfactor can help you automate as much manual and error prone tasks as possible.
 
-The AddOn is developed and maintained in my free time for the lovely REDAXO community.
+The AddOn was [created as a headlining feature for the REDAXO Tag in Bozen](https://redaxo.org/cms/news/redaxo-community-trifft-sich-in-bozen-austausch%2C-workshops-und-neue-tools-zur-verbesserung-von-code-qualitaet/) and is maintained in my free time for the lovely REDAXO community.
 I haven't used REDAXO for my personal use for a very long time.
