@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update 2023-04-09-rexfactor-introduction.md](https://github.com/staabm/staabm.github.io/pull/39) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [use numbered lists](https://github.com/staabm/staabm.github.io/pull/38) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [simplify &amp; images](https://github.com/staabm/staabm.github.io/pull/37) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Create 2023-04-09-rexfactor-introduction.md](https://github.com/staabm/staabm.github.io/pull/36) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
@@ -54,7 +55,6 @@
 - [Lint only configured AddOns to improve performance](https://github.com/FriendsOfREDAXO/rexstan/pull/474) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [include readme](https://github.com/FriendsOfREDAXO/rexfactor/pull/62) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/61) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
-- [sponsoring](https://github.com/FriendsOfREDAXO/rexfactor/pull/60) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
