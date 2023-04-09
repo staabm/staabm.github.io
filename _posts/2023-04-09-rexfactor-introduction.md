@@ -16,7 +16,7 @@ ogImage:
 
 After bringing [static code analysis to REDAXO CMS with rexstan](https://staabm.github.io/2022/06/18/rexstan-REDAXO-AddOn.html) lets take a look at the next logical step
 
-## Automated code migrations with rexfactor REDAXO AddOn
+## Automated code migrations with rexfactor
 
 The `rexfactor` AddOn integrates [rector](https://github.com/rectorphp/rector) with the developer in mind, meaning it eases use for often used migration/upgrade use-cases.
 Primary purpose is to allow people less experienced with developer tooling to automate migration tasks.
