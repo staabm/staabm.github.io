@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [typo](https://github.com/staabm/staabm.github.io/pull/43) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [typos](https://github.com/staabm/staabm.github.io/pull/42) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [fix typo](https://github.com/redaxo/redaxo/pull/5687) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [link rexstan intro blog post](https://github.com/FriendsOfREDAXO/rexfactor/pull/64) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
@@ -54,7 +55,6 @@
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/478) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Manually patch parallel-lint to make it faster](https://github.com/FriendsOfREDAXO/rexstan/pull/477) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [use loader on slow pages](https://github.com/FriendsOfREDAXO/rexstan/pull/476) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [prepare next iteration](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/111) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
