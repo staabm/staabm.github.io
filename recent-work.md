@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [use loader on slow pages](https://github.com/FriendsOfREDAXO/rexstan/pull/476) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [prepare next iteration](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/111) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 days ago)
 - [prepare release](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/110) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 days ago)
 - [run tests on php 8.2](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/109) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 days ago)
@@ -54,7 +55,6 @@
 - [remove PdoStatement stub](https://github.com/staabm/phpstan-dba/pull/594) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 - [indicate used redaxo cs-fixer version](https://github.com/FriendsOfREDAXO/rexfactor/pull/56) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [rexfactor: modernize strpos](https://github.com/FriendsOfREDAXO/rexstan/pull/466) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [redaxo code style: `modernize_strpos` per default](https://github.com/FriendsOfREDAXO/rexfactor/pull/54) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
