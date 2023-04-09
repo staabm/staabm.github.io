@@ -24,7 +24,7 @@ Primary purpose is to allow people less experienced with developer tooling to au
 As usual the REDAXO CMS AddOn is available thru [the REDAXO Installer and can be installed in a few clicks](https://redaxo.org/doku/main/installer).
 The idea is to use `rexfactor` in your local development environment.
 
-Using a simple 4 step wizzard right from your REDAXO web UI its just a matter of a few clicks.
+Using a simple 4 step wizzard right from your REDAXO Web UI is just a matter of a few clicks.
 
 1. select the AddOn you want to upgrade
 
@@ -44,9 +44,9 @@ In case you are working with the `developer`, `project` or `theme` AddOn to mana
 Starting with the first version published version a bunch of use-cases are already available:
 
 - `PHP Version Migrations`: helps migrate your source according to the official php.net migration guides
-- `Unify Code Quality:` ensures code in your project adheres to the coding standards and best practices
+- `Unify Code Quality:` ensures code in your project adheres to coding standards and best practices
 - `Remove Dead Code:` identifying and removing code that is no longer used
-- `Infer Type Declarations:` infer native return-types or parameter-types of methods&functions to improve type coverage
+- `Infer Type Declarations:` infer native return-types or parameter-types of methods and functions to improve type coverage
 - `Reduce Symbol Visibility (Privatization):` reduce the visibility of symbols in the codebase to ease future refactoring and reduce the chance of unintended use
 - `Use Early Returns:` reduce complexity by using early returns
 
