@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [typos](https://github.com/staabm/staabm.github.io/pull/42) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [fix typo](https://github.com/redaxo/redaxo/pull/5687) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [link rexstan intro blog post](https://github.com/FriendsOfREDAXO/rexfactor/pull/64) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [fix](https://github.com/staabm/staabm.github.io/pull/41) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [fix](https://github.com/staabm/staabm.github.io/pull/40) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Update 2023-04-09-rexfactor-introduction.md](https://github.com/staabm/staabm.github.io/pull/39) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
@@ -52,9 +55,6 @@
 - [Manually patch parallel-lint to make it faster](https://github.com/FriendsOfREDAXO/rexstan/pull/477) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [use loader on slow pages](https://github.com/FriendsOfREDAXO/rexstan/pull/476) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [prepare next iteration](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/111) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 days ago)
-- [prepare release](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/110) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 days ago)
-- [run tests on php 8.2](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/109) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 days ago)
-- [Lint only configured AddOns to improve performance](https://github.com/FriendsOfREDAXO/rexstan/pull/474) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
