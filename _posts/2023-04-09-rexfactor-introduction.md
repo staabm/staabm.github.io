@@ -41,14 +41,14 @@ In case you are working with the `developer`, `project` or `theme` AddOn to mana
 
 ## Migration use-cases
 
-Starting with the first version published version a bunch of use-cases are already available:
+Starting with the first published version a bunch of use-cases are already available:
 
 - `PHP Version Migrations`: helps migrate your source according to the official php.net migration guides
-- `Unify Code Quality:` ensures code in your project adheres to coding standards and best practices
-- `Remove Dead Code:` identifying and removing code that is no longer used
-- `Infer Type Declarations:` infer native return-types or parameter-types of methods and functions to improve type coverage
-- `Reduce Symbol Visibility (Privatization):` reduce the visibility of symbols in the codebase to ease future refactoring and reduce the chance of unintended use
-- `Use Early Returns:` reduce complexity by using early returns
+- `Unify Code Quality`: ensures code in your project adheres to coding standards and best practices
+- `Remove Dead Code`: identifying and removing code that is no longer used
+- `Infer Type Declarations`: infer native return-types or parameter-types of methods and functions to improve type coverage
+- `Reduce Symbol Visibility (Privatization)`: reduce the visibility of symbols in the codebase to ease future refactoring and reduce the chance of unintended use
+- `Use Early Returns`: reduce complexity by using early returns
 
 ### PHPUnit Version Migrations
 
@@ -60,8 +60,8 @@ This use cases involve improving the quality of test code by making it more main
 
 ### Misc
 
-- `REDAXO Specific Code Style:` ensures that code follows the [REDAXO code style guidelines](https://github.com/redaxo/php-cs-fixer-config)
-- `More Explicit Coding Style:` ensures that code is expressed in a more explicit and clear manner
+- `REDAXO Specific Code Style`: ensures that code follows the [REDAXO code style guidelines](https://github.com/redaxo/php-cs-fixer-config)
+- `More Explicit Coding Style`: ensures that code is expressed in a more explicit and clear manner
 
 
 ## Support rexfactor development
