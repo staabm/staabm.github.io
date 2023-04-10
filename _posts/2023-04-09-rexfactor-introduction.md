@@ -50,13 +50,16 @@ Starting with the first published version a bunch of use-cases are already avail
 - `Reduce Symbol Visibility (Privatization)`: reduce the visibility of symbols in the codebase to ease future refactoring and reduce the chance of unintended use
 - `Use Early Returns`: reduce complexity by using early returns
 
+
 ### PHPUnit Version Migrations
 
 This use cases involve updating the version of PHPUnit used in a project to a newer one. This can involve migrating test code to be compatible with the new version and updating any deprecated features to the recommended replacements.
 
+
 ### Improve Test-Code Quality
 
 This use cases involve improving the quality of test code by making it more maintainable, readable, and efficient. This can include refactoring existing test code to follow best practices, removing duplication, and improving the structure of test suites.
+
 
 ### Misc
 
