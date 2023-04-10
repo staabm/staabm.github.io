@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent false-positive in get_parent_class() on interfaces](https://github.com/phpstan/phpstan-src/pull/2336) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix class-const resolving will always evaluate to true/false in traits](https://github.com/phpstan/phpstan-src/pull/2335) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [fix typos](https://github.com/staabm/staabm.github.io/pull/47) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/65) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
@@ -54,7 +55,6 @@
 - [fix](https://github.com/staabm/staabm.github.io/pull/40) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [Update 2023-04-09-rexfactor-introduction.md](https://github.com/staabm/staabm.github.io/pull/39) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [use numbered lists](https://github.com/staabm/staabm.github.io/pull/38) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
-- [simplify &amp; images](https://github.com/staabm/staabm.github.io/pull/37) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
