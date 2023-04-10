@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [CI: update BoyWithSilverWings/generate-og-image@1.0.5](https://github.com/staabm/staabm.github.io/pull/48) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Prevent false-positive in get_parent_class() on interfaces](https://github.com/phpstan/phpstan-src/pull/2336) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix class-const resolving will always evaluate to true/false in traits](https://github.com/phpstan/phpstan-src/pull/2335) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [fix typos](https://github.com/staabm/staabm.github.io/pull/47) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
@@ -54,11 +55,11 @@
 - [fix](https://github.com/staabm/staabm.github.io/pull/41) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [fix](https://github.com/staabm/staabm.github.io/pull/40) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [Update 2023-04-09-rexfactor-introduction.md](https://github.com/staabm/staabm.github.io/pull/39) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
-- [use numbered lists](https://github.com/staabm/staabm.github.io/pull/38) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [agneym/generate-og-image](https://github.com/agneym/generate-og-image) - [1.0.5](https://github.com/agneym/generate-og-image/releases/tag/1.0.5) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.5](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.5) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.109](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.109) (1 day ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.18.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.18.1) (3 days ago)
@@ -68,4 +69,3 @@
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.3.1](https://github.com/deployphp/deployer/releases/tag/v7.3.1) (5 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.71](https://github.com/staabm/phpstan-dba/releases/tag/0.2.71) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.11](https://github.com/phpstan/phpstan/releases/tag/1.10.11) (6 days ago)
-- [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.0.3](https://github.com/PrestaShop/PrestaShop/releases/tag/8.0.3) (1 week ago)
