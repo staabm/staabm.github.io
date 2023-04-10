@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [agneym/generate-og-image](https://github.com/agneym/generate-og-image) - [1.0.5](https://github.com/agneym/generate-og-image/releases/tag/1.0.5) (today)
+- [agneym/generate-og-image](https://github.com/agneym/generate-og-image) - [1.0.6](https://github.com/agneym/generate-og-image/releases/tag/1.0.6) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.5](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.5) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.109](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.109) (1 day ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.18.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.18.1) (3 days ago)
