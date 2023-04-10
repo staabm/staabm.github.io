@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update 2023-04-09-rexfactor-introduction.md](https://github.com/staabm/staabm.github.io/pull/50) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [CI: update BoyWithSilverWings/generate-og-image@1.0.6](https://github.com/staabm/staabm.github.io/pull/48) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Prevent false-positive in get_parent_class() on interfaces](https://github.com/phpstan/phpstan-src/pull/2336) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix class-const resolving will always evaluate to true/false in traits](https://github.com/phpstan/phpstan-src/pull/2335) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [link rexstan intro blog post](https://github.com/FriendsOfREDAXO/rexfactor/pull/64) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 - [fix](https://github.com/staabm/staabm.github.io/pull/41) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [fix](https://github.com/staabm/staabm.github.io/pull/40) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
-- [Update 2023-04-09-rexfactor-introduction.md](https://github.com/staabm/staabm.github.io/pull/39) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
