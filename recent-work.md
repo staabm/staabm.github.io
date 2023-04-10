@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (3 days ago)
@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [CI: update BoyWithSilverWings/generate-og-image@1.0.5](https://github.com/staabm/staabm.github.io/pull/48) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [CI: update BoyWithSilverWings/generate-og-image@1.0.6](https://github.com/staabm/staabm.github.io/pull/48) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Prevent false-positive in get_parent_class() on interfaces](https://github.com/phpstan/phpstan-src/pull/2336) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix class-const resolving will always evaluate to true/false in traits](https://github.com/phpstan/phpstan-src/pull/2335) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [fix typos](https://github.com/staabm/staabm.github.io/pull/47) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
