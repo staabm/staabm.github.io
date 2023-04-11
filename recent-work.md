@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.2.5](https://github.com/phpstan/phpstan-nette/releases/tag/1.2.5) (today)
 - [agneym/generate-og-image](https://github.com/agneym/generate-og-image) - [1.0.6](https://github.com/agneym/generate-og-image/releases/tag/1.0.6) (1 day ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.5](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.5) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.109](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.109) (2 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.2.25](https://github.com/phpstan/phpstan-symfony/releases/tag/1.2.25) (6 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.3.1](https://github.com/deployphp/deployer/releases/tag/v7.3.1) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.71](https://github.com/staabm/phpstan-dba/releases/tag/0.2.71) (6 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.11](https://github.com/phpstan/phpstan/releases/tag/1.10.11) (1 week ago)
