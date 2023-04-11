@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update 2022-12-20-2022-wrap-up.md](https://github.com/staabm/staabm.github.io/pull/53) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [Update 2022-12-23-phpstan-speedzember.md](https://github.com/staabm/staabm.github.io/pull/52) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [Update 2022-12-29-phpstan-analyzable-api-contracts.md](https://github.com/staabm/staabm.github.io/pull/51) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Update 2023-04-09-rexfactor-introduction.md](https://github.com/staabm/staabm.github.io/pull/50) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [CI: update BoyWithSilverWings/generate-og-image@1.0.6](https://github.com/staabm/staabm.github.io/pull/48) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [Prevent false-positive in get_parent_class() on interfaces](https://github.com/phpstan/phpstan-src/pull/2336) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -52,9 +55,6 @@
 - [typo](https://github.com/staabm/staabm.github.io/pull/43) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [typos](https://github.com/staabm/staabm.github.io/pull/42) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [fix typo](https://github.com/redaxo/redaxo/pull/5687) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
-- [link rexstan intro blog post](https://github.com/FriendsOfREDAXO/rexfactor/pull/64) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
-- [fix](https://github.com/staabm/staabm.github.io/pull/41) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
-- [fix](https://github.com/staabm/staabm.github.io/pull/40) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
