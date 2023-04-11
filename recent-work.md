@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update 2022-12-20-2022-wrap-up.md](https://github.com/staabm/staabm.github.io/pull/55) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Update 2023-04-09-rexfactor-introduction.md](https://github.com/staabm/staabm.github.io/pull/54) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Update 2022-12-20-2022-wrap-up.md](https://github.com/staabm/staabm.github.io/pull/53) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Update 2022-12-23-phpstan-speedzember.md](https://github.com/staabm/staabm.github.io/pull/52) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
@@ -54,7 +55,6 @@
 - [fix profile](https://github.com/staabm/staabm.github.io/pull/45) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [profile picture](https://github.com/staabm/staabm.github.io/pull/44) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [typo](https://github.com/staabm/staabm.github.io/pull/43) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
-- [typos](https://github.com/staabm/staabm.github.io/pull/42) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
