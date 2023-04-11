@@ -6,13 +6,13 @@ tags:
     - Rector
 
 
-image: "images/og-images/rexfactor-introduction.jpg"
+image: "images/og-images/rexfactor-addon-introduction.jpg"
 
 ogImage:
   title: "new project: rexfactor"
   subtitle: "Automated code migrations of your REDAXO AddOn"
   imageUrl: "https://staabm.github.io/staabm.svg"
-  fileName: "rexfactor-introduction"
+  fileName: "rexfactor-addon-introduction"
 ---
 
 After bringing PHPStan [static code analysis to REDAXO CMS with rexstan](https://staabm.github.io/2022/06/18/rexstan-REDAXO-AddOn.html), lets take a look at the next logical step.
