@@ -156,3 +156,4 @@ Chances are high, that you or your company is saving a lot of money with recent 
 [Please consider supporting my work](https://github.com/sponsors/staabm), so I can make sure PHPStan keeps as fast as possible and evolves to the next level.
 
 All this performance work have been developed while holiday of my primary job.
+
