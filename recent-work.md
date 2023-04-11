@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (4 days ago)
 - [FriendsOfREDAXO/quick_navigation](https://github.com/FriendsOfREDAXO/quick_navigation) (6 days ago)
 - [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
 
 
 #### 📜 My recent blog posts
