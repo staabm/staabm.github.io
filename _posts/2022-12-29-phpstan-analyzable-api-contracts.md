@@ -142,3 +142,4 @@ function myController(HttpSession $session):void {
 
 See the [example at the PHPStan playground](https://phpstan.org/r/b1e54906-1ad7-4108-b33f-e8c45f1f5d16).
 Also, make sure you [read the PHPStan release announcement](https://phpstan.org/blog/phpstan-1-9-0-with-phpdoc-asserts-list-type#phpdoc-asserts) which contains even more details.
+
