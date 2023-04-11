@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.2.5](https://github.com/phpstan/phpstan-nette/releases/tag/1.2.5) (today)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.2.6](https://github.com/phpstan/phpstan-nette/releases/tag/1.2.6) (today)
 - [agneym/generate-og-image](https://github.com/agneym/generate-og-image) - [1.0.6](https://github.com/agneym/generate-og-image/releases/tag/1.0.6) (1 day ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.5](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.5) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.109](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.109) (2 days ago)
