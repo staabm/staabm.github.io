@@ -9,7 +9,8 @@ tags:
 image: "images/og-images/rexfactor-introduction.jpg"
 
 ogImage:
-  title: "Automated code migrations of your REDAXO AddOns using rexfactor"
+  title: "new project: rexfactor"
+  subtitle: "Automated code migrations of your REDAXO AddOn"
   imageUrl: "https://staabm.github.io/staabm.svg"
   fileName: "rexfactor-introduction"
 ---
