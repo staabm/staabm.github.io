@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.12](https://github.com/phpstan/phpstan/releases/tag/1.10.12) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.2.6](https://github.com/phpstan/phpstan-nette/releases/tag/1.2.6) (1 day ago)
 - [agneym/generate-og-image](https://github.com/agneym/generate-og-image) - [1.0.6](https://github.com/agneym/generate-og-image/releases/tag/1.0.6) (2 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.5](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.5) (3 days ago)
@@ -68,4 +69,3 @@
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9.6](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9.6) (6 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.2.25](https://github.com/phpstan/phpstan-symfony/releases/tag/1.2.25) (1 week ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.3.1](https://github.com/deployphp/deployer/releases/tag/v7.3.1) (1 week ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.71](https://github.com/staabm/phpstan-dba/releases/tag/0.2.71) (1 week ago)
