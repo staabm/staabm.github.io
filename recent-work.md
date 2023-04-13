@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support detection of unused Enum-methods](https://github.com/TomasVotruba/unused-public/pull/43) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Skip methods defined on traits](https://github.com/TomasVotruba/unused-public/pull/42) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Update 2022-12-20-2022-wrap-up.md](https://github.com/staabm/staabm.github.io/pull/55) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [Update 2023-04-09-rexfactor-introduction.md](https://github.com/staabm/staabm.github.io/pull/54) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
@@ -54,7 +55,6 @@
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/65) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
 - [fix profile](https://github.com/staabm/staabm.github.io/pull/46) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 - [fix profile](https://github.com/staabm/staabm.github.io/pull/45) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
-- [profile picture](https://github.com/staabm/staabm.github.io/pull/44) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
