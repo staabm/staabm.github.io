@@ -5,10 +5,10 @@
 
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (6 days ago)
 - [FriendsOfREDAXO/quick_navigation](https://github.com/FriendsOfREDAXO/quick_navigation) (1 week ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support enum in LocalOnlyPublicClassMethodRule](https://github.com/TomasVotruba/unused-public/pull/47) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
+- [remove readme link](https://github.com/FriendsOfREDAXO/rexfactor/pull/72) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/483) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [update tomasvotruba/type-coverage](https://github.com/TomasVotruba/unused-public/pull/46) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Fix false positive on method name case mismatches](https://github.com/TomasVotruba/unused-public/pull/45) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
@@ -53,8 +55,6 @@
 - [Update 2022-12-29-phpstan-analyzable-api-contracts.md](https://github.com/staabm/staabm.github.io/pull/51) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [Update 2023-04-09-rexfactor-introduction.md](https://github.com/staabm/staabm.github.io/pull/50) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
 - [CI: update BoyWithSilverWings/generate-og-image@1.0.6](https://github.com/staabm/staabm.github.io/pull/48) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
-- [Prevent false-positive in get_parent_class() on interfaces](https://github.com/phpstan/phpstan-src/pull/2336) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Fix class-const resolving will always evaluate to true/false in traits](https://github.com/phpstan/phpstan-src/pull/2335) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
