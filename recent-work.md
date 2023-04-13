@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [update tomasvotruba/type-coverage](https://github.com/TomasVotruba/unused-public/pull/46) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
+- [Fix false positive on method name case mismatches](https://github.com/TomasVotruba/unused-public/pull/45) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Support callback methods passed to `call_user_func`](https://github.com/TomasVotruba/unused-public/pull/44) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Support detection of unused Enum-methods](https://github.com/TomasVotruba/unused-public/pull/43) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Skip methods defined on traits](https://github.com/TomasVotruba/unused-public/pull/42) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
@@ -53,8 +55,6 @@
 - [Prevent false-positive in get_parent_class() on interfaces](https://github.com/phpstan/phpstan-src/pull/2336) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Fix class-const resolving will always evaluate to true/false in traits](https://github.com/phpstan/phpstan-src/pull/2335) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [fix typos](https://github.com/staabm/staabm.github.io/pull/47) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
-- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/65) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
-- [fix profile](https://github.com/staabm/staabm.github.io/pull/46) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
