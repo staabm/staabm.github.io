@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Skip callback methods passed to `call_user_func`](https://github.com/TomasVotruba/unused-public/pull/44) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
+- [Support callback methods passed to `call_user_func`](https://github.com/TomasVotruba/unused-public/pull/44) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Support detection of unused Enum-methods](https://github.com/TomasVotruba/unused-public/pull/43) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Skip methods defined on traits](https://github.com/TomasVotruba/unused-public/pull/42) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Update 2022-12-20-2022-wrap-up.md](https://github.com/staabm/staabm.github.io/pull/55) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
