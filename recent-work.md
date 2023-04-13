@@ -7,9 +7,9 @@
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (6 days ago)
 - [FriendsOfREDAXO/quick_navigation](https://github.com/FriendsOfREDAXO/quick_navigation) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Skip callback methods passed to `call_user_func`](https://github.com/TomasVotruba/unused-public/pull/44) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Support detection of unused Enum-methods](https://github.com/TomasVotruba/unused-public/pull/43) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Skip methods defined on traits](https://github.com/TomasVotruba/unused-public/pull/42) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Update 2022-12-20-2022-wrap-up.md](https://github.com/staabm/staabm.github.io/pull/55) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
@@ -54,7 +55,6 @@
 - [fix typos](https://github.com/staabm/staabm.github.io/pull/47) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/65) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
 - [fix profile](https://github.com/staabm/staabm.github.io/pull/46) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
-- [fix profile](https://github.com/staabm/staabm.github.io/pull/45) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
