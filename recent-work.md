@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.0](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.110](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.110) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.72](https://github.com/staabm/phpstan-dba/releases/tag/0.2.72) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.13](https://github.com/phpstan/phpstan/releases/tag/1.10.13) (2 days ago)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.5](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.5) (5 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.18.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.18.1) (1 week ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) - [1.8.4](https://github.com/staabm/annotate-pull-request-from-checkstyle/releases/tag/1.8.4) (1 week ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.9.6](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.9.6) (1 week ago)
