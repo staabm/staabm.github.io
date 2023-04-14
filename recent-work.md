@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [remove share links](https://github.com/staabm/staabm.github.io/pull/56) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Micro optimize analysis](https://github.com/TomasVotruba/unused-public/pull/51) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Improve analyzing speed](https://github.com/TomasVotruba/unused-public/pull/50) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Skip properties annotated `@api`](https://github.com/TomasVotruba/unused-public/pull/48) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
@@ -54,7 +55,6 @@
 - [Update 2022-12-20-2022-wrap-up.md](https://github.com/staabm/staabm.github.io/pull/55) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
 - [Update 2023-04-09-rexfactor-introduction.md](https://github.com/staabm/staabm.github.io/pull/54) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
 - [Update 2022-12-20-2022-wrap-up.md](https://github.com/staabm/staabm.github.io/pull/53) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
-- [Update 2022-12-23-phpstan-speedzember.md](https://github.com/staabm/staabm.github.io/pull/52) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
