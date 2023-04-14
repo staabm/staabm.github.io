@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Micro optimize analysis](https://github.com/TomasVotruba/unused-public/pull/51) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Improve analyzing speed](https://github.com/TomasVotruba/unused-public/pull/50) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Skip properties annotated `@api`](https://github.com/TomasVotruba/unused-public/pull/48) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Support enum in LocalOnlyPublicClassMethodRule](https://github.com/TomasVotruba/unused-public/pull/47) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
@@ -54,7 +55,6 @@
 - [Update 2023-04-09-rexfactor-introduction.md](https://github.com/staabm/staabm.github.io/pull/54) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
 - [Update 2022-12-20-2022-wrap-up.md](https://github.com/staabm/staabm.github.io/pull/53) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
 - [Update 2022-12-23-phpstan-speedzember.md](https://github.com/staabm/staabm.github.io/pull/52) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
-- [Update 2022-12-29-phpstan-analyzable-api-contracts.md](https://github.com/staabm/staabm.github.io/pull/51) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
