@@ -8,7 +8,7 @@ I am the developer behind [cs2pr](https://staabm.github.io/2022/04/03/annotate-p
 
 For fun and educating myself I actively contribute to various projects - [REDAXO](https://redaxo.org/), [filp/whoops](https://github.com/filp/whoops), [sabre/dav](https://github.com/sabre-io/dav), [stomp-php](https://github.com/stomp-php/stomp-php), [propelorm](https://github.com/propelorm) - to name a few of them.
 
-Turns out right now I am one of the top contributors💫 to [PHPStan](https://github.com/phpstan/phpstan-src/pulls?q=is%3Amerged+author%3Astaabm) and [Rector](https://github.com/rectorphp/rector-src/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Astaabm+is%3Amerged). It's likely you read my name in the changelog or release notes somewhere.
+Turns out I am one of the top contributors💫 to [PHPStan](https://github.com/phpstan/phpstan-src/pulls?q=is%3Amerged+author%3Astaabm) and [Rector](https://github.com/rectorphp/rector-src/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Astaabm+is%3Amerged). It's likely you read my name in the changelog or release notes somewhere.
 
 If one of those open source projects is critical for your business, [please consider supporting my work with your sponsoring 💕](https://github.com/sponsors/staabm)
 
