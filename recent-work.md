@@ -4,9 +4,9 @@
 #### 💻 Check out what I'm currently working on
 
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[PHP81] Support  conditional assignment in ReadOnlyPropertyRector](https://github.com/rectorphp/rector-src/pull/3620) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [ReadOnlyPropertyRector: do cheaper checks first](https://github.com/rectorphp/rector-src/pull/3618) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [StaticDataProviderClassMethodRector should only run if `$this` is not used in dataProvider](https://github.com/rectorphp/rector-phpunit/pull/171) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
 - [Keep `#[CoversClass]` attribute on method, and don&#39;t move it to class scope](https://github.com/rectorphp/rector-phpunit/pull/168) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 day ago)
@@ -54,7 +55,6 @@
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/483) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [update tomasvotruba/type-coverage](https://github.com/TomasVotruba/unused-public/pull/46) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
 - [Fix false positive on method name case mismatches](https://github.com/TomasVotruba/unused-public/pull/45) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
-- [Support callback methods passed to `call_user_func`](https://github.com/TomasVotruba/unused-public/pull/44) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
