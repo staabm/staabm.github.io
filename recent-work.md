@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added a NodeTypeResolver cache](https://github.com/rectorphp/rector-src/pull/3622) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [NodeTypeResolver: cheap checks first in isObjectTypeOfObjectType()](https://github.com/rectorphp/rector-src/pull/3621) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [[PHP81] Support  conditional assignment in ReadOnlyPropertyRector](https://github.com/rectorphp/rector-src/pull/3620) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [ReadOnlyPropertyRector: do cheaper checks first](https://github.com/rectorphp/rector-src/pull/3618) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
@@ -54,7 +55,6 @@
 - [Support enum in LocalOnlyPublicClassMethodRule](https://github.com/TomasVotruba/unused-public/pull/47) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
 - [remove readme link](https://github.com/FriendsOfREDAXO/rexfactor/pull/72) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/483) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [update tomasvotruba/type-coverage](https://github.com/TomasVotruba/unused-public/pull/46) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
