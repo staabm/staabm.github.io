@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
@@ -12,7 +13,6 @@
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
-- [FriendsOfREDAXO/quick_navigation](https://github.com/FriendsOfREDAXO/quick_navigation) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ReadOnlyPropertyRector: do cheaper checks first](https://github.com/rectorphp/rector-src/pull/3618) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [StaticDataProviderClassMethodRector should only run if `$this` is not used in dataProvider](https://github.com/rectorphp/rector-phpunit/pull/171) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
 - [Keep `#[CoversClass]` attribute on method, and don&#39;t move it to class scope](https://github.com/rectorphp/rector-phpunit/pull/168) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 day ago)
 - [Use `#[DataProviderExternal]` instead of `#[DataProvider]` attribute](https://github.com/rectorphp/rector-phpunit/pull/167) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 day ago)
@@ -54,7 +55,6 @@
 - [update tomasvotruba/type-coverage](https://github.com/TomasVotruba/unused-public/pull/46) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
 - [Fix false positive on method name case mismatches](https://github.com/TomasVotruba/unused-public/pull/45) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
 - [Support callback methods passed to `call_user_func`](https://github.com/TomasVotruba/unused-public/pull/44) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
-- [Support detection of unused Enum-methods](https://github.com/TomasVotruba/unused-public/pull/43) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
