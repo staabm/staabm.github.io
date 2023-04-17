@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify isObjectTypeOfObjectType()](https://github.com/rectorphp/rector-src/pull/3627) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [NodeTypeResolver: Do cheaper check first](https://github.com/rectorphp/rector-src/pull/3626) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Cover case-insensitive classnames with test](https://github.com/TomasVotruba/unused-public/pull/55) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Added a NodeTypeResolver cache](https://github.com/rectorphp/rector-src/pull/3622) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [NodeTypeResolver: cheap checks first in isObjectTypeOfObjectType()](https://github.com/rectorphp/rector-src/pull/3621) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Micro optimize analysis](https://github.com/TomasVotruba/unused-public/pull/51) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
 - [Improve analyzing speed](https://github.com/TomasVotruba/unused-public/pull/50) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
 - [Skip properties annotated `@api`](https://github.com/TomasVotruba/unused-public/pull/48) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
-- [Support enum in LocalOnlyPublicClassMethodRule](https://github.com/TomasVotruba/unused-public/pull/47) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
-- [remove readme link](https://github.com/FriendsOfREDAXO/rexfactor/pull/72) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
