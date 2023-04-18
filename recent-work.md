@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support method calls via subclasses](https://github.com/TomasVotruba/unused-public/pull/56) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [VarDumperTestTraitMethodArgsRector: Autoload the test-trait](https://github.com/rectorphp/rector-symfony/pull/391) on [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (today)
 - [Simplify isObjectTypeOfObjectType()](https://github.com/rectorphp/rector-src/pull/3627) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [NodeTypeResolver: Do cheaper check first](https://github.com/rectorphp/rector-src/pull/3626) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Update index.md](https://github.com/staabm/staabm.github.io/pull/57) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 - [remove share links](https://github.com/staabm/staabm.github.io/pull/56) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 - [Micro optimize analysis](https://github.com/TomasVotruba/unused-public/pull/51) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
-- [Improve analyzing speed](https://github.com/TomasVotruba/unused-public/pull/50) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
