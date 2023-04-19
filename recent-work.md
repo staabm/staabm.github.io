@@ -44,7 +44,7 @@
 - [Fix `get_class()` on HasMethodType](https://github.com/phpstan/phpstan-src/pull/2350) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Support method calls via subclasses](https://github.com/TomasVotruba/unused-public/pull/56) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
 - [VarDumperTestTraitMethodArgsRector: Autoload the test-trait](https://github.com/rectorphp/rector-symfony/pull/391) on [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (1 day ago)
-- [Simplify isObjectTypeOfObjectType()](https://github.com/rectorphp/rector-src/pull/3627) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
+- [Remove runtime autoloading from NodeTypeResolver](https://github.com/rectorphp/rector-src/pull/3627) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [NodeTypeResolver: Do cheaper check first](https://github.com/rectorphp/rector-src/pull/3626) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Cover case-insensitive classnames with test](https://github.com/TomasVotruba/unused-public/pull/55) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
 - [Added a NodeTypeResolver cache](https://github.com/rectorphp/rector-src/pull/3622) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
