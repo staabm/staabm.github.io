@@ -4,11 +4,11 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (1 day ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (6 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/487) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Fix `get_class()` on HasMethodType](https://github.com/phpstan/phpstan-src/pull/2350) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Support method calls via subclasses](https://github.com/TomasVotruba/unused-public/pull/56) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
 - [VarDumperTestTraitMethodArgsRector: Autoload the test-trait](https://github.com/rectorphp/rector-symfony/pull/391) on [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (1 day ago)
@@ -54,17 +55,16 @@
 - [Keep `#[CoversClass]` attribute on method, and don&#39;t move it to class scope](https://github.com/rectorphp/rector-phpunit/pull/168) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (4 days ago)
 - [Use `#[DataProviderExternal]` instead of `#[DataProvider]` attribute](https://github.com/rectorphp/rector-phpunit/pull/167) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (4 days ago)
 - [Update index.md](https://github.com/staabm/staabm.github.io/pull/57) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
-- [remove share links](https://github.com/staabm/staabm.github.io/pull/56) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.111](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.111) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.14](https://github.com/phpstan/phpstan/releases/tag/1.10.14) (today)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - [1.3.0](https://github.com/phpstan/extension-installer/releases/tag/1.3.0) (1 day ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.19.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.19.1) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.9.0](https://github.com/Roave/BetterReflection/releases/tag/6.9.0) (3 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.1](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.1) (5 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.110](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.110) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.72](https://github.com/staabm/phpstan-dba/releases/tag/0.2.72) (6 days ago)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.1.2](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.1.2) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.2.9](https://github.com/phpstan/phpstan-nette/releases/tag/1.2.9) (1 week ago)
