@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify GenericClassStringTypeCorrector](https://github.com/rectorphp/rector-src/pull/3638) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [Use faster paratest in &#34;complete-check&#34; composer script](https://github.com/rectorphp/rector-src/pull/3637) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [Simplify AccessoryNonEmptyStringTypeCorrector](https://github.com/rectorphp/rector-src/pull/3636) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Support unused-symbols in trend analysis](https://github.com/staabm/phpstan-baseline-analysis/pull/117) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [Support counting of unused elements](https://github.com/staabm/phpstan-baseline-analysis/pull/116) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [fix missing quoting](https://github.com/staabm/phpstan-baseline-analysis/pull/115) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
@@ -52,9 +55,6 @@
 - [Cover case-insensitive classnames with test](https://github.com/TomasVotruba/unused-public/pull/55) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
 - [Added a NodeTypeResolver cache](https://github.com/rectorphp/rector-src/pull/3622) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [NodeTypeResolver: cheap checks first in isObjectTypeOfObjectType()](https://github.com/rectorphp/rector-src/pull/3621) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
-- [[PHP81] Support  conditional assignment in ReadOnlyPropertyRector](https://github.com/rectorphp/rector-src/pull/3620) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
-- [ReadOnlyPropertyRector: do cheaper checks first](https://github.com/rectorphp/rector-src/pull/3618) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
-- [StaticDataProviderClassMethodRector should only run if `$this` is not used in dataProvider](https://github.com/rectorphp/rector-phpunit/pull/171) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
