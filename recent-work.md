@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (2 days ago)
-- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (3 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
+- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (3 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix missing quoting](https://github.com/staabm/phpstan-baseline-analysis/pull/115) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/487) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [Fix `get_class()` on HasMethodType](https://github.com/phpstan/phpstan-src/pull/2350) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Support method calls via subclasses](https://github.com/TomasVotruba/unused-public/pull/56) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
@@ -54,7 +55,6 @@
 - [StaticDataProviderClassMethodRector should only run if `$this` is not used in dataProvider](https://github.com/rectorphp/rector-phpunit/pull/171) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (4 days ago)
 - [Keep `#[CoversClass]` attribute on method, and don&#39;t move it to class scope](https://github.com/rectorphp/rector-phpunit/pull/168) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (5 days ago)
 - [Use `#[DataProviderExternal]` instead of `#[DataProvider]` attribute](https://github.com/rectorphp/rector-phpunit/pull/167) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (5 days ago)
-- [Update index.md](https://github.com/staabm/staabm.github.io/pull/57) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
