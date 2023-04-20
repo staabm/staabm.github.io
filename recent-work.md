@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (2 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (3 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/75) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [Simplify GenericClassStringTypeCorrector](https://github.com/rectorphp/rector-src/pull/3638) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Use faster paratest in &#34;complete-check&#34; composer script](https://github.com/rectorphp/rector-src/pull/3637) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Simplify AccessoryNonEmptyStringTypeCorrector](https://github.com/rectorphp/rector-src/pull/3636) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
@@ -54,11 +55,11 @@
 - [NodeTypeResolver: remove unnecessary check](https://github.com/rectorphp/rector-src/pull/3626) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Cover case-insensitive classnames with test](https://github.com/TomasVotruba/unused-public/pull/55) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
 - [Added a NodeTypeResolver cache](https://github.com/rectorphp/rector-src/pull/3622) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
-- [NodeTypeResolver: cheap checks first in isObjectTypeOfObjectType()](https://github.com/rectorphp/rector-src/pull/3621) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.6](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.6) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.20.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.20.0) (today)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.10.1](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.10.1) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.111](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.111) (1 day ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.1](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.1) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.72](https://github.com/staabm/phpstan-dba/releases/tag/0.2.72) (1 week ago)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.1.2](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.1.2) (1 week ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.2.9](https://github.com/phpstan/phpstan-nette/releases/tag/1.2.9) (1 week ago)
