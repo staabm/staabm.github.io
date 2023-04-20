@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support unused-symbols in trend analysis](https://github.com/staabm/phpstan-baseline-analysis/pull/117) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
+- [Support counting of unused elements](https://github.com/staabm/phpstan-baseline-analysis/pull/116) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [fix missing quoting](https://github.com/staabm/phpstan-baseline-analysis/pull/115) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/487) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [Fix `get_class()` on HasMethodType](https://github.com/phpstan/phpstan-src/pull/2350) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,12 +55,11 @@
 - [[PHP81] Support  conditional assignment in ReadOnlyPropertyRector](https://github.com/rectorphp/rector-src/pull/3620) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [ReadOnlyPropertyRector: do cheaper checks first](https://github.com/rectorphp/rector-src/pull/3618) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [StaticDataProviderClassMethodRector should only run if `$this` is not used in dataProvider](https://github.com/rectorphp/rector-phpunit/pull/171) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (4 days ago)
-- [Keep `#[CoversClass]` attribute on method, and don&#39;t move it to class scope](https://github.com/rectorphp/rector-phpunit/pull/168) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (5 days ago)
-- [Use `#[DataProviderExternal]` instead of `#[DataProvider]` attribute](https://github.com/rectorphp/rector-phpunit/pull/167) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.10.1](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.10.1) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.111](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.111) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.14](https://github.com/phpstan/phpstan/releases/tag/1.10.14) (1 day ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - [1.3.0](https://github.com/phpstan/extension-installer/releases/tag/1.3.0) (2 days ago)
@@ -68,4 +69,3 @@
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.72](https://github.com/staabm/phpstan-dba/releases/tag/0.2.72) (1 week ago)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.1.2](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.1.2) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.2.9](https://github.com/phpstan/phpstan-nette/releases/tag/1.2.9) (1 week ago)
-- [agneym/generate-og-image](https://github.com/agneym/generate-og-image) - [1.0.6](https://github.com/agneym/generate-og-image/releases/tag/1.0.6) (1 week ago)
