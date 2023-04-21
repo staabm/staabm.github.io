@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[Cache] Fix success interpretation when pruning cache](https://github.com/symfony/symfony/pull/50099) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- [[Cache] Prevent unnecessary file IO](https://github.com/symfony/symfony/pull/50095) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [[Config] Improve GlobResource performance](https://github.com/symfony/symfony/pull/50087) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/75) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 - [Simplify GenericClassStringTypeCorrector](https://github.com/rectorphp/rector-src/pull/3638) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Support method calls via subclasses](https://github.com/TomasVotruba/unused-public/pull/56) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
 - [VarDumperTestTraitMethodArgsRector: Autoload the test-trait](https://github.com/rectorphp/rector-symfony/pull/391) on [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (3 days ago)
 - [Remove runtime autoloading from NodeTypeResolver](https://github.com/rectorphp/rector-src/pull/3627) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
-- [NodeTypeResolver: remove unnecessary check](https://github.com/rectorphp/rector-src/pull/3626) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
-- [Cover case-insensitive classnames with test](https://github.com/TomasVotruba/unused-public/pull/55) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
