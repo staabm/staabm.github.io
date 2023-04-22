@@ -40,6 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Minor ParamTypeFromStrictTypedPropertyRector improvements](https://github.com/rectorphp/rector-src/pull/3661) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [Improve ParentClassMethodTypeOverrideGuard performance](https://github.com/rectorphp/rector-src/pull/3660) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [Improve NodeComparator performance](https://github.com/rectorphp/rector-src/pull/3659) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [Improve ReflectionResolver performance](https://github.com/rectorphp/rector-src/pull/3658) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [fix typo](https://github.com/rectorphp/rector-src/pull/3657) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [[BetterPhpDocParser] Simplify BetterTokenIterator](https://github.com/rectorphp/rector-src/pull/3656) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Improve PropertyFetchAnalyzer performance](https://github.com/rectorphp/rector-src/pull/3654) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
@@ -51,10 +55,6 @@
 - [Added new strict-types use-case](https://github.com/FriendsOfREDAXO/rexfactor/pull/77) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [Added failling declare-strict test](https://github.com/rectorphp/rector-src/pull/3646) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [[Cache] Fix success interpretation when pruning cache](https://github.com/symfony/symfony/pull/50099) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- [[Cache] Prevent unnecessary file IO](https://github.com/symfony/symfony/pull/50095) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- [[Config] Improve GlobResource performance](https://github.com/symfony/symfony/pull/50087) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/75) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
-- [Simplify GenericClassStringTypeCorrector](https://github.com/rectorphp/rector-src/pull/3638) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
