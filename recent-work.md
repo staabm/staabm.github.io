@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[BetterPhpDocParser] Simplify BetterTokenIterator](https://github.com/rectorphp/rector-src/pull/3656) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [Improve PropertyFetchAnalyzer performance](https://github.com/rectorphp/rector-src/pull/3654) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [Improve LocalConstantFinder performance](https://github.com/rectorphp/rector-src/pull/3652) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Improve LocalMethodCallFinder performance](https://github.com/rectorphp/rector-src/pull/3651) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Prevent unnecessary IO in ChangedFilesDetector](https://github.com/rectorphp/rector-src/pull/3650) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [PhpFilesFinder: More efficient file filter](https://github.com/rectorphp/rector-src/pull/3649) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
@@ -52,9 +55,6 @@
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/75) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
 - [Simplify GenericClassStringTypeCorrector](https://github.com/rectorphp/rector-src/pull/3638) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Use faster paratest in &#34;complete-check&#34; composer script](https://github.com/rectorphp/rector-src/pull/3637) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [Simplify AccessoryNonEmptyStringTypeCorrector](https://github.com/rectorphp/rector-src/pull/3636) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [Support unused-symbols in trend analysis](https://github.com/staabm/phpstan-baseline-analysis/pull/117) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
-- [Support counting of unused elements](https://github.com/staabm/phpstan-baseline-analysis/pull/116) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
