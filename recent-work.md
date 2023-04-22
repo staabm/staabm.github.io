@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improve LocalMethodCallFinder performance](https://github.com/rectorphp/rector-src/pull/3651) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Prevent unnecessary IO in ChangedFilesDetector](https://github.com/rectorphp/rector-src/pull/3650) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [PhpFilesFinder: More efficient file filter](https://github.com/rectorphp/rector-src/pull/3649) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [NodeTypeResolver: prevent unncessary reflection calls](https://github.com/rectorphp/rector-src/pull/3647) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
@@ -54,7 +55,6 @@
 - [Simplify AccessoryNonEmptyStringTypeCorrector](https://github.com/rectorphp/rector-src/pull/3636) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Support unused-symbols in trend analysis](https://github.com/staabm/phpstan-baseline-analysis/pull/117) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
 - [Support counting of unused elements](https://github.com/staabm/phpstan-baseline-analysis/pull/116) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
-- [fix missing quoting](https://github.com/staabm/phpstan-baseline-analysis/pull/115) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
