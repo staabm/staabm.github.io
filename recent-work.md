@@ -7,11 +7,11 @@
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (4 days ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (5 days ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix typo](https://github.com/rectorphp/rector-src/pull/3657) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [[BetterPhpDocParser] Simplify BetterTokenIterator](https://github.com/rectorphp/rector-src/pull/3656) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Improve PropertyFetchAnalyzer performance](https://github.com/rectorphp/rector-src/pull/3654) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Improve LocalConstantFinder performance](https://github.com/rectorphp/rector-src/pull/3652) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
@@ -54,7 +55,6 @@
 - [[Config] Improve GlobResource performance](https://github.com/symfony/symfony/pull/50087) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/75) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
 - [Simplify GenericClassStringTypeCorrector](https://github.com/rectorphp/rector-src/pull/3638) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [Use faster paratest in &#34;complete-check&#34; composer script](https://github.com/rectorphp/rector-src/pull/3637) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
