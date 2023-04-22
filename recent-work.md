@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (4 days ago)
@@ -40,6 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [PhpFilesFinder: More efficient file filter](https://github.com/rectorphp/rector-src/pull/3649) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [NodeTypeResolver: prevent unncessary reflection calls](https://github.com/rectorphp/rector-src/pull/3647) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [Added new strict-types use-case](https://github.com/FriendsOfREDAXO/rexfactor/pull/77) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
+- [Added failling declare-strict test](https://github.com/rectorphp/rector-src/pull/3646) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [[Cache] Fix success interpretation when pruning cache](https://github.com/symfony/symfony/pull/50099) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - [[Cache] Prevent unnecessary file IO](https://github.com/symfony/symfony/pull/50095) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - [[Config] Improve GlobResource performance](https://github.com/symfony/symfony/pull/50087) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
@@ -51,10 +55,6 @@
 - [Support counting of unused elements](https://github.com/staabm/phpstan-baseline-analysis/pull/116) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
 - [fix missing quoting](https://github.com/staabm/phpstan-baseline-analysis/pull/115) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/487) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [Fix `get_class()` on HasMethodType](https://github.com/phpstan/phpstan-src/pull/2350) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Support method calls via subclasses](https://github.com/TomasVotruba/unused-public/pull/56) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
-- [VarDumperTestTraitMethodArgsRector: Autoload the test-trait](https://github.com/rectorphp/rector-symfony/pull/391) on [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (4 days ago)
-- [Remove runtime autoloading from NodeTypeResolver](https://github.com/rectorphp/rector-src/pull/3627) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
