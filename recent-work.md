@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improve ClassMethodAssignManipulator performance](https://github.com/rectorphp/rector-src/pull/3662) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Minor ParamTypeFromStrictTypedPropertyRector improvements](https://github.com/rectorphp/rector-src/pull/3661) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Improve ParentClassMethodTypeOverrideGuard performance](https://github.com/rectorphp/rector-src/pull/3660) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Improve NodeComparator performance](https://github.com/rectorphp/rector-src/pull/3659) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
@@ -54,7 +55,6 @@
 - [NodeTypeResolver: prevent unncessary reflection calls](https://github.com/rectorphp/rector-src/pull/3647) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Added new strict-types use-case](https://github.com/FriendsOfREDAXO/rexfactor/pull/77) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [Added failling declare-strict test](https://github.com/rectorphp/rector-src/pull/3646) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
-- [[Cache] Fix success interpretation when pruning cache](https://github.com/symfony/symfony/pull/50099) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
