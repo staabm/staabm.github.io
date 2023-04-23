@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[ChangesReporting] Added more efficient ConsoleFileDiffFactory](https://github.com/rectorphp/rector-src/pull/3665) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [[Skipper] Prevent unnecessary IO](https://github.com/rectorphp/rector-src/pull/3664) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Minor ClassMethodAssignManipulator improvements](https://github.com/rectorphp/rector-src/pull/3662) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Minor ParamTypeFromStrictTypedPropertyRector improvements](https://github.com/rectorphp/rector-src/pull/3661) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Prevent unnecessary IO in ChangedFilesDetector](https://github.com/rectorphp/rector-src/pull/3650) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [PhpFilesFinder: More efficient file filter](https://github.com/rectorphp/rector-src/pull/3649) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [NodeTypeResolver: prevent unncessary reflection calls](https://github.com/rectorphp/rector-src/pull/3647) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
-- [Added new strict-types use-case](https://github.com/FriendsOfREDAXO/rexfactor/pull/77) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
