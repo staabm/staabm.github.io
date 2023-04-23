@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Ignore class-const in NoRelativeFilePathRule](https://github.com/symplify/phpstan-rules/pull/35) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (today)
 - [[ChangesReporting] Added more efficient ConsoleFileDiffFactory](https://github.com/rectorphp/rector-src/pull/3665) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [[Skipper] Prevent unnecessary IO](https://github.com/rectorphp/rector-src/pull/3664) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Minor ClassMethodAssignManipulator improvements](https://github.com/rectorphp/rector-src/pull/3662) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Improve LocalMethodCallFinder performance](https://github.com/rectorphp/rector-src/pull/3651) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Prevent unnecessary IO in ChangedFilesDetector](https://github.com/rectorphp/rector-src/pull/3650) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Simplify PhpFilesFinder](https://github.com/rectorphp/rector-src/pull/3649) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
-- [NodeTypeResolver: prevent unncessary reflection calls](https://github.com/rectorphp/rector-src/pull/3647) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
