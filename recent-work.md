@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Improve ClassMethodAssignManipulator performance](https://github.com/rectorphp/rector-src/pull/3662) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [Minor ClassMethodAssignManipulator improvements](https://github.com/rectorphp/rector-src/pull/3662) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Minor ParamTypeFromStrictTypedPropertyRector improvements](https://github.com/rectorphp/rector-src/pull/3661) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Improve ParentClassMethodTypeOverrideGuard performance](https://github.com/rectorphp/rector-src/pull/3660) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Improve NodeComparator performance](https://github.com/rectorphp/rector-src/pull/3659) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
