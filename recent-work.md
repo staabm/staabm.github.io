@@ -53,13 +53,13 @@
 - [Improve LocalConstantFinder performance](https://github.com/rectorphp/rector-src/pull/3652) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Improve LocalMethodCallFinder performance](https://github.com/rectorphp/rector-src/pull/3651) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Prevent unnecessary IO in ChangedFilesDetector](https://github.com/rectorphp/rector-src/pull/3650) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
-- [PhpFilesFinder: More efficient file filter](https://github.com/rectorphp/rector-src/pull/3649) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [Simplify PhpFilesFinder](https://github.com/rectorphp/rector-src/pull/3649) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [NodeTypeResolver: prevent unncessary reflection calls](https://github.com/rectorphp/rector-src/pull/3647) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.20.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.20.1) (1 day ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.20.2](https://github.com/phpstan/phpdoc-parser/releases/tag/1.20.2) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.6](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.6) (3 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.10.1](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.10.1) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.111](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.111) (4 days ago)
