@@ -3,11 +3,11 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (6 days ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement IniGetReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/2362) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Ignore class-const in NoRelativeFilePathRule](https://github.com/symplify/phpstan-rules/pull/35) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 day ago)
 - [[ChangesReporting] Added more efficient ConsoleFileDiffFactory](https://github.com/rectorphp/rector-src/pull/3665) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [[Skipper] Prevent unnecessary IO](https://github.com/rectorphp/rector-src/pull/3664) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Improve LocalConstantFinder performance](https://github.com/rectorphp/rector-src/pull/3652) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Improve LocalMethodCallFinder performance](https://github.com/rectorphp/rector-src/pull/3651) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Prevent unnecessary IO in ChangedFilesDetector](https://github.com/rectorphp/rector-src/pull/3650) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [Simplify PhpFilesFinder](https://github.com/rectorphp/rector-src/pull/3649) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
