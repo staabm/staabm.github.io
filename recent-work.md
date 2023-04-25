@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add type for ini_get() &#39;default_socket_timeout&#39; and &#39;precision&#39;](https://github.com/phpstan/phpstan-src/pull/2365) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement IniGetReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/2362) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Ignore class-const in NoRelativeFilePathRule](https://github.com/symplify/phpstan-rules/pull/35) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 days ago)
 - [[ChangesReporting] Added more efficient ConsoleFileDiffFactory](https://github.com/rectorphp/rector-src/pull/3665) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Improve PropertyFetchAnalyzer performance](https://github.com/rectorphp/rector-src/pull/3654) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Improve LocalConstantFinder performance](https://github.com/rectorphp/rector-src/pull/3652) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Improve LocalMethodCallFinder performance](https://github.com/rectorphp/rector-src/pull/3651) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Prevent unnecessary IO in ChangedFilesDetector](https://github.com/rectorphp/rector-src/pull/3650) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
