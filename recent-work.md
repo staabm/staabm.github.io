@@ -29,13 +29,13 @@
 - [CapnFelix](https://github.com/CapnFelix) (1 week ago)
 - [iluuu1994](https://github.com/iluuu1994) (1 week ago)
 - [simonsinus](https://github.com/simonsinus) (4 weeks ago)
-- [maikwause](https://github.com/maikwause) (1 month ago)
 - [omphteliba](https://github.com/omphteliba) (1 month ago)
 - [wdes](https://github.com/wdes) (1 month ago)
 - [TomasVotruba](https://github.com/TomasVotruba) (3 months ago)
 - [timetape-de](https://github.com/timetape-de) (3 months ago)
 - [Marschl](https://github.com/Marschl) (4 months ago)
 - [zonuexe](https://github.com/zonuexe) (5 months ago)
+- [SpiGAndromeda](https://github.com/SpiGAndromeda) (5 months ago)
 
 
 #### 🔨 My recent Pull Requests
