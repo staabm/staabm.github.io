@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added more precise return types on Zend_Controller_Request_Http](https://github.com/Shardj/zf1-future/pull/347) on [Shardj/zf1-future](https://github.com/Shardj/zf1-future) (today)
 - [Add type for ini_get() &#39;default_socket_timeout&#39; and &#39;precision&#39;](https://github.com/phpstan/phpstan-src/pull/2365) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Implement IniGetReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/2362) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Ignore class-const in NoRelativeFilePathRule](https://github.com/symplify/phpstan-rules/pull/35) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (3 days ago)
@@ -54,7 +55,6 @@
 - [[BetterPhpDocParser] Simplify BetterTokenIterator](https://github.com/rectorphp/rector-src/pull/3656) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [Improve PropertyFetchAnalyzer performance](https://github.com/rectorphp/rector-src/pull/3654) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [Improve LocalConstantFinder performance](https://github.com/rectorphp/rector-src/pull/3652) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
-- [Improve LocalMethodCallFinder performance](https://github.com/rectorphp/rector-src/pull/3651) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
