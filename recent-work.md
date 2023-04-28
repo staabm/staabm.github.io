@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (6 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[Renaming] Prevent overly greedy type resolving in RenamePropertyRector](https://github.com/rectorphp/rector-src/pull/3700) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Added more precise return types on Zend_Controller_Request_Http](https://github.com/Shardj/zf1-future/pull/347) on [Shardj/zf1-future](https://github.com/Shardj/zf1-future) (2 days ago)
 - [Add type for ini_get() &#39;default_socket_timeout&#39; and &#39;precision&#39;](https://github.com/phpstan/phpstan-src/pull/2365) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Implement IniGetReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/2362) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -54,7 +55,6 @@
 - [fix typo](https://github.com/rectorphp/rector-src/pull/3657) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
 - [[BetterPhpDocParser] Simplify BetterTokenIterator](https://github.com/rectorphp/rector-src/pull/3656) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
 - [Improve PropertyFetchAnalyzer performance](https://github.com/rectorphp/rector-src/pull/3654) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
-- [Improve LocalConstantFinder performance](https://github.com/rectorphp/rector-src/pull/3652) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
