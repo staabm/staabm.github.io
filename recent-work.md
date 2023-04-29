@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Calculate diff only once per file after refactoring](https://github.com/rectorphp/rector-src/pull/3711) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Don&#39;t calculate diffs when `--no-diffs` is given](https://github.com/rectorphp/rector-src/pull/3710) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Improve file-diffing performance](https://github.com/rectorphp/rector-src/pull/3705) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [[Renaming] Prevent overly greedy type resolving in RenamePropertyRector](https://github.com/rectorphp/rector-src/pull/3700) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Improve ParentClassMethodTypeOverrideGuard performance](https://github.com/rectorphp/rector-src/pull/3660) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Improve NodeComparator performance](https://github.com/rectorphp/rector-src/pull/3659) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Improve ReflectionResolver performance](https://github.com/rectorphp/rector-src/pull/3658) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [fix typo](https://github.com/rectorphp/rector-src/pull/3657) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
