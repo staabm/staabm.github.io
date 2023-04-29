@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Don&#39;t calculate diffs when `--no-diffs` is given](https://github.com/rectorphp/rector-src/pull/3710) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Improve file-diffing performance](https://github.com/rectorphp/rector-src/pull/3705) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [[Renaming] Prevent overly greedy type resolving in RenamePropertyRector](https://github.com/rectorphp/rector-src/pull/3700) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Added more precise return types on Zend_Controller_Request_Http](https://github.com/Shardj/zf1-future/pull/347) on [Shardj/zf1-future](https://github.com/Shardj/zf1-future) (3 days ago)
@@ -54,7 +55,6 @@
 - [Improve NodeComparator performance](https://github.com/rectorphp/rector-src/pull/3659) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Improve ReflectionResolver performance](https://github.com/rectorphp/rector-src/pull/3658) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [fix typo](https://github.com/rectorphp/rector-src/pull/3657) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [[BetterPhpDocParser] Simplify BetterTokenIterator](https://github.com/rectorphp/rector-src/pull/3656) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
