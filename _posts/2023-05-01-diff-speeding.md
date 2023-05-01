@@ -89,7 +89,7 @@ So finally [applying the same `max()` fix to `TimeEfficientLongestCommonSubseque
 
 In the end sebastian/diff got a nice perf boost by the work described above.
 The fixes are already released and you can easily already benefit from it by updating the dependency to the latest release.
-[A lot of Tools use Sebastian Bergmanns diffing library](https://packagist.org/packages/sebastian/diff/dependents?order_by=downloads) e.g. PHPUnit, PHP-CS-Fixer which now benefit from these changes.
+[A lot of Tools use Sebastian Bergmanns diffing library](https://packagist.org/packages/sebastian/diff/dependents?order_by=downloads) e.g. PHPUnit, Psalm, PHP-CS-Fixer, Codeception which now benefit from these changes.
 
 We expect this changes to considerably reduce the amount of energy used in CI pipelines.
 So that's my take on saving the planet and don't waste energy.
