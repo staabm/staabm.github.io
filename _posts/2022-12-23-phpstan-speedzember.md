@@ -1,6 +1,7 @@
 ---
 tags:
-- PHPStan
+    - PHPStan
+    - performance
 
 image: "images/og-images/phpstan-speedzember.jpg"
 
