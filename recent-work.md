@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[Util]: Use `instanceof` instead of `is_a()`](https://github.com/rectorphp/rector-src/pull/3723) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [add #performance keyword](https://github.com/staabm/staabm.github.io/pull/63) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [add #performance keyword](https://github.com/staabm/staabm.github.io/pull/62) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [remove rexfactor keyword](https://github.com/staabm/staabm.github.io/pull/61) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
@@ -54,7 +55,6 @@
 - [Calculate diff only once per file after refactoring](https://github.com/rectorphp/rector-src/pull/3711) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Don&#39;t calculate diffs when `--no-diffs` is given](https://github.com/rectorphp/rector-src/pull/3710) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Improve file-diffing performance](https://github.com/rectorphp/rector-src/pull/3705) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [[Renaming] Prevent overly greedy type resolving in RenamePropertyRector](https://github.com/rectorphp/rector-src/pull/3700) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
