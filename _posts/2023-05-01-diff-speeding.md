@@ -7,7 +7,7 @@ image: "images/og-images/diff-speeding.jpg"
 
 ogImage:
   title: "Got diff up to speed"
-  subtitle: "Performance optimizing Rector"
+  subtitle: "Performance optimizing Rector, Psalm, PHPUnit and friends."
   imageUrl: "https://staabm.github.io/staabm.svg"
   fileName: "diff-speeding"
 ---
