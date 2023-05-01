@@ -94,11 +94,11 @@ The fixes are already released and you can easily already benefit from it by upd
 We expect this changes to considerably reduce the amount of energy used in CI pipelines.
 So that's my take on saving the planet and don't waste energy.
 
-If you are using Rector in projects this should also considerably reduce the wait time for the engineers.
+If you are using above-mentioned tools in projects this should also considerably reduce the wait time for the engineers.
 A shorter feedback loop helps developers to stay in focus and work more efficiently.
 
 Chances are high, that you or your company is saving a lot of money with recent releases.
-[Please consider supporting my work](https://github.com/sponsors/staabm), so I can make sure Rector keeps as fast as possible and evolves to the next level.
+[Please consider supporting my work](https://github.com/sponsors/staabm), so I can make sure open source tools keeps as fast as possible and evolves to the next level.
 
 All this performance work have been developed while holiday of my primary job.
 
