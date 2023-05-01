@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
@@ -12,7 +13,6 @@
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (1 week ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 weeks ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 weeks ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improve performance of `TimeEfficientLongestCommonSubsequenceCalculator`](https://github.com/sebastianbergmann/diff/pull/119) on [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) (today)
+- [Improve performance of `MemoryEfficientLongestCommonSubsequenceCalculator`](https://github.com/sebastianbergmann/diff/pull/118) on [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) (today)
 - [update tomasvotruba/unused-public](https://github.com/rectorphp/rector-src/pull/3716) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Simplify PhpFileProcessor](https://github.com/rectorphp/rector-src/pull/3715) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Calculate diff only once per file after refactoring](https://github.com/rectorphp/rector-src/pull/3711) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
@@ -53,13 +55,11 @@
 - [[ChangesReporting] Added more efficient ConsoleFileDiffFactory](https://github.com/rectorphp/rector-src/pull/3665) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [[Skipper] Prevent unnecessary IO](https://github.com/rectorphp/rector-src/pull/3664) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Minor ClassMethodAssignManipulator improvements](https://github.com/rectorphp/rector-src/pull/3662) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [Minor ParamTypeFromStrictTypedPropertyRector improvements](https://github.com/rectorphp/rector-src/pull/3661) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [Improve ParentClassMethodTypeOverrideGuard performance](https://github.com/rectorphp/rector-src/pull/3660) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) - [v6.2.10](https://github.com/symfony/symfony/releases/tag/v6.2.10) (3 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA1) (today)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.0.4](https://github.com/PrestaShop/PrestaShop/releases/tag/8.0.4) (6 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.20.3](https://github.com/phpstan/phpdoc-parser/releases/tag/1.20.3) (6 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.6](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.6) (1 week ago)
