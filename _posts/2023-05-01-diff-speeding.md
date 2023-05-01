@@ -25,6 +25,8 @@ I found it pretty suprising as my initial guess would be a slow type-resolving o
 At this point we only know which things are slow, but have not yet a good idea on how it can be improved.
 First I [reported a new issue at the Rector repo](https://github.com/rectorphp/rector/issues/7899) with my findings, to get in touch with maintainers and other users.
 
+The issue reported contains [all relevant data to reproduce](https://github.com/rectorphp/rector/issues/7899) the following findings.
+
 ## Trying different things
 
 We need to start somewhere to explore the code and build a basic understanding of the relevant parts.
