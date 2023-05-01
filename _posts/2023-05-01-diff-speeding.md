@@ -1,7 +1,6 @@
 ---
 tags:
     - Rector
-    - rexfactor
 
 image: "images/og-images/diff-speeding.jpg"
 
