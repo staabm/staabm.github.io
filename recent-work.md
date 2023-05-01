@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [add #performance keyword](https://github.com/staabm/staabm.github.io/pull/63) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [add #performance keyword](https://github.com/staabm/staabm.github.io/pull/62) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [remove rexfactor keyword](https://github.com/staabm/staabm.github.io/pull/61) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [`CURLOPT_HTTPHEADER` should not accept a dictionary](https://github.com/phpstan/phpstan-src/pull/2369) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [link reproduction details](https://github.com/staabm/staabm.github.io/pull/60) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
@@ -53,8 +55,6 @@
 - [Don&#39;t calculate diffs when `--no-diffs` is given](https://github.com/rectorphp/rector-src/pull/3710) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Improve file-diffing performance](https://github.com/rectorphp/rector-src/pull/3705) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [[Renaming] Prevent overly greedy type resolving in RenamePropertyRector](https://github.com/rectorphp/rector-src/pull/3700) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Added more precise return types on Zend_Controller_Request_Http](https://github.com/Shardj/zf1-future/pull/347) on [Shardj/zf1-future](https://github.com/Shardj/zf1-future) (5 days ago)
-- [Add type for ini_get() &#39;default_socket_timeout&#39; and &#39;precision&#39;](https://github.com/phpstan/phpstan-src/pull/2365) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
