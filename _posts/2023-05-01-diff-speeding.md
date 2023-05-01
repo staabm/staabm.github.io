@@ -1,6 +1,7 @@
 ---
 tags:
     - Rector
+    - performance
 
 image: "images/og-images/diff-speeding.jpg"
 
