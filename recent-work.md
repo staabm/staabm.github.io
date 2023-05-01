@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (1 week ago)
-- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 week ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
+- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 weeks ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 weeks ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 
 
@@ -40,15 +40,15 @@
 
 #### 🔨 My recent Pull Requests
 
-- [update tomasvotruba/unused-public](https://github.com/rectorphp/rector-src/pull/3716) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
-- [Simplify PhpFileProcessor](https://github.com/rectorphp/rector-src/pull/3715) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
-- [Calculate diff only once per file after refactoring](https://github.com/rectorphp/rector-src/pull/3711) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
-- [Don&#39;t calculate diffs when `--no-diffs` is given](https://github.com/rectorphp/rector-src/pull/3710) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
-- [Improve file-diffing performance](https://github.com/rectorphp/rector-src/pull/3705) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
-- [[Renaming] Prevent overly greedy type resolving in RenamePropertyRector](https://github.com/rectorphp/rector-src/pull/3700) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [Added more precise return types on Zend_Controller_Request_Http](https://github.com/Shardj/zf1-future/pull/347) on [Shardj/zf1-future](https://github.com/Shardj/zf1-future) (4 days ago)
-- [Add type for ini_get() &#39;default_socket_timeout&#39; and &#39;precision&#39;](https://github.com/phpstan/phpstan-src/pull/2365) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Implement IniGetReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/2362) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [update tomasvotruba/unused-public](https://github.com/rectorphp/rector-src/pull/3716) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [Simplify PhpFileProcessor](https://github.com/rectorphp/rector-src/pull/3715) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [Calculate diff only once per file after refactoring](https://github.com/rectorphp/rector-src/pull/3711) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
+- [Don&#39;t calculate diffs when `--no-diffs` is given](https://github.com/rectorphp/rector-src/pull/3710) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
+- [Improve file-diffing performance](https://github.com/rectorphp/rector-src/pull/3705) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
+- [[Renaming] Prevent overly greedy type resolving in RenamePropertyRector](https://github.com/rectorphp/rector-src/pull/3700) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
+- [Added more precise return types on Zend_Controller_Request_Http](https://github.com/Shardj/zf1-future/pull/347) on [Shardj/zf1-future](https://github.com/Shardj/zf1-future) (5 days ago)
+- [Add type for ini_get() &#39;default_socket_timeout&#39; and &#39;precision&#39;](https://github.com/phpstan/phpstan-src/pull/2365) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Implement IniGetReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/2362) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Ignore class-const in NoRelativeFilePathRule](https://github.com/symplify/phpstan-rules/pull/35) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
 - [[ChangesReporting] Added more efficient ConsoleFileDiffFactory](https://github.com/rectorphp/rector-src/pull/3665) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [[Skipper] Prevent unnecessary IO](https://github.com/rectorphp/rector-src/pull/3664) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) - [v6.2.10](https://github.com/symfony/symfony/releases/tag/v6.2.10) (2 days ago)
-- [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.0.4](https://github.com/PrestaShop/PrestaShop/releases/tag/8.0.4) (5 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.20.3](https://github.com/phpstan/phpdoc-parser/releases/tag/1.20.3) (5 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - [v6.2.10](https://github.com/symfony/symfony/releases/tag/v6.2.10) (3 days ago)
+- [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.0.4](https://github.com/PrestaShop/PrestaShop/releases/tag/8.0.4) (6 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.20.3](https://github.com/phpstan/phpdoc-parser/releases/tag/1.20.3) (6 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.6](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.6) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.10.1](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.10.1) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.111](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.111) (1 week ago)
