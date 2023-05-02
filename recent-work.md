@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) (1 day ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [nits](https://github.com/staabm/staabm.github.io/pull/64) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [[Util]: Use `instanceof` instead of `is_a()`](https://github.com/rectorphp/rector-src/pull/3723) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [add #performance keyword](https://github.com/staabm/staabm.github.io/pull/63) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [add #performance keyword](https://github.com/staabm/staabm.github.io/pull/62) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
@@ -54,7 +55,6 @@
 - [Simplify PhpFileProcessor](https://github.com/rectorphp/rector-src/pull/3715) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Calculate diff only once per file after refactoring](https://github.com/rectorphp/rector-src/pull/3711) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Don&#39;t calculate diffs when `--no-diffs` is given](https://github.com/rectorphp/rector-src/pull/3710) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Improve file-diffing performance](https://github.com/rectorphp/rector-src/pull/3705) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
