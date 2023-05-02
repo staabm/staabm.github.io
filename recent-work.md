@@ -4,6 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) (1 day ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -12,7 +13,6 @@
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (2 weeks ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use latest stable sebastian/diff](https://github.com/easy-coding-standard/easy-coding-standard/pull/78) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
 - [fix](https://github.com/staabm/staabm.github.io/pull/65) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [nits](https://github.com/staabm/staabm.github.io/pull/64) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [[Util]: Use `instanceof` instead of `is_a()`](https://github.com/rectorphp/rector-src/pull/3723) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -54,14 +55,13 @@
 - [Improve performance of `MemoryEfficientLongestCommonSubsequenceCalculator`](https://github.com/sebastianbergmann/diff/pull/118) on [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) (1 day ago)
 - [update tomasvotruba/unused-public](https://github.com/rectorphp/rector-src/pull/3716) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Simplify PhpFileProcessor](https://github.com/rectorphp/rector-src/pull/3715) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [Calculate diff only once per file after refactoring](https://github.com/rectorphp/rector-src/pull/3711) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.20.4](https://github.com/phpstan/phpdoc-parser/releases/tag/1.20.4) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA1) (1 day ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.0.4](https://github.com/PrestaShop/PrestaShop/releases/tag/8.0.4) (1 week ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.20.3](https://github.com/phpstan/phpdoc-parser/releases/tag/1.20.3) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.6](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.6) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.10.1](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.10.1) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.111](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.111) (1 week ago)
