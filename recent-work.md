@@ -3,21 +3,21 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) (today)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) (1 day ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (1 week ago)
+- [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (2 weeks ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
 
-- [Diff Speeding](https://staabm.github.io/2023/05/01/diff-speeding.html) (today)
+- [Diff Speeding](https://staabm.github.io/2023/05/01/diff-speeding.html) (1 day ago)
 - [Rexfactor Introduction](https://staabm.github.io/2023/04/09/rexfactor-introduction.html) (3 weeks ago)
 - [Phpstan Analyzable Api Contracts](https://staabm.github.io/2022/12/29/phpstan-analyzable-api-contracts.html) (4 months ago)
 - [Phpstan Speedzember](https://staabm.github.io/2022/12/23/phpstan-speedzember.html) (4 months ago)
@@ -26,7 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
-- [icanhazstring](https://github.com/icanhazstring) (today)
+- [icanhazstring](https://github.com/icanhazstring) (1 day ago)
 - [CapnFelix](https://github.com/CapnFelix) (2 weeks ago)
 - [iluuu1994](https://github.com/iluuu1994) (2 weeks ago)
 - [simonsinus](https://github.com/simonsinus) (1 month ago)
@@ -40,32 +40,32 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[Util]: Use `instanceof` instead of `is_a()`](https://github.com/rectorphp/rector-src/pull/3723) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
-- [add #performance keyword](https://github.com/staabm/staabm.github.io/pull/63) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [add #performance keyword](https://github.com/staabm/staabm.github.io/pull/62) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [remove rexfactor keyword](https://github.com/staabm/staabm.github.io/pull/61) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [`CURLOPT_HTTPHEADER` should not accept a dictionary](https://github.com/phpstan/phpstan-src/pull/2369) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [link reproduction details](https://github.com/staabm/staabm.github.io/pull/60) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [mention ecs](https://github.com/staabm/staabm.github.io/pull/59) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [Create 2023-05-01-diff-speeding.md](https://github.com/staabm/staabm.github.io/pull/58) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [Improve performance of `TimeEfficientLongestCommonSubsequenceCalculator`](https://github.com/sebastianbergmann/diff/pull/119) on [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) (today)
-- [Improve performance of `MemoryEfficientLongestCommonSubsequenceCalculator`](https://github.com/sebastianbergmann/diff/pull/118) on [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) (today)
-- [update tomasvotruba/unused-public](https://github.com/rectorphp/rector-src/pull/3716) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
-- [Simplify PhpFileProcessor](https://github.com/rectorphp/rector-src/pull/3715) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
-- [Calculate diff only once per file after refactoring](https://github.com/rectorphp/rector-src/pull/3711) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [Don&#39;t calculate diffs when `--no-diffs` is given](https://github.com/rectorphp/rector-src/pull/3710) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [Improve file-diffing performance](https://github.com/rectorphp/rector-src/pull/3705) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
+- [[Util]: Use `instanceof` instead of `is_a()`](https://github.com/rectorphp/rector-src/pull/3723) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [add #performance keyword](https://github.com/staabm/staabm.github.io/pull/63) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [add #performance keyword](https://github.com/staabm/staabm.github.io/pull/62) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [remove rexfactor keyword](https://github.com/staabm/staabm.github.io/pull/61) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [`CURLOPT_HTTPHEADER` should not accept a dictionary](https://github.com/phpstan/phpstan-src/pull/2369) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [link reproduction details](https://github.com/staabm/staabm.github.io/pull/60) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [mention ecs](https://github.com/staabm/staabm.github.io/pull/59) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [Create 2023-05-01-diff-speeding.md](https://github.com/staabm/staabm.github.io/pull/58) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [Improve performance of `TimeEfficientLongestCommonSubsequenceCalculator`](https://github.com/sebastianbergmann/diff/pull/119) on [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) (1 day ago)
+- [Improve performance of `MemoryEfficientLongestCommonSubsequenceCalculator`](https://github.com/sebastianbergmann/diff/pull/118) on [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) (1 day ago)
+- [update tomasvotruba/unused-public](https://github.com/rectorphp/rector-src/pull/3716) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
+- [Simplify PhpFileProcessor](https://github.com/rectorphp/rector-src/pull/3715) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
+- [Calculate diff only once per file after refactoring](https://github.com/rectorphp/rector-src/pull/3711) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
+- [Don&#39;t calculate diffs when `--no-diffs` is given](https://github.com/rectorphp/rector-src/pull/3710) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
+- [Improve file-diffing performance](https://github.com/rectorphp/rector-src/pull/3705) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA1) (today)
-- [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.0.4](https://github.com/PrestaShop/PrestaShop/releases/tag/8.0.4) (6 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.20.3](https://github.com/phpstan/phpdoc-parser/releases/tag/1.20.3) (6 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA1) (1 day ago)
+- [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.0.4](https://github.com/PrestaShop/PrestaShop/releases/tag/8.0.4) (1 week ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.20.3](https://github.com/phpstan/phpdoc-parser/releases/tag/1.20.3) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.6](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.6) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.10.1](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.10.1) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.111](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.111) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.14](https://github.com/phpstan/phpstan/releases/tag/1.10.14) (1 week ago)
-- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - [1.3.0](https://github.com/phpstan/extension-installer/releases/tag/1.3.0) (1 week ago)
+- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - [1.3.0](https://github.com/phpstan/extension-installer/releases/tag/1.3.0) (2 weeks ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.9.0](https://github.com/Roave/BetterReflection/releases/tag/6.9.0) (2 weeks ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.1](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.1) (2 weeks ago)
