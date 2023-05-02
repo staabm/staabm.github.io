@@ -76,11 +76,11 @@ As I was looking at the profiles again it was still surprising that even after I
 
 This made me think about looking into the underlying [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) library.
 I realized that the actual slowdown seems to be related to an innocent `max()` function call in `MemoryEfficientLongestCommonSubsequenceCalculator`.
-Proving it was pretty easy. Just [replace the `max` by a small `if`](https://github.com/sebastianbergmann/diff/pull/118) and re-measure the workload:
+Proving it was pretty easy. Just [replace the `max()` by a small `if`](https://github.com/sebastianbergmann/diff/pull/118) and re-measure the workload:
 
 <img width="524" alt="grafik" src="https://user-images.githubusercontent.com/120441/235421208-e21d763e-8744-4544-a848-01ef24c6e39f.png">
 
-Tadaa: the whole workload is now equal fast, no matter whether diffing is enabled or not.
+Tadaa: the whole workload is now equal fast, no matter whether diffing is enabled or not. Starting from the initial 7min 35s we are now down to 3min 25s in a real project workload.
 
 Since I am curious I decided to hack sebastian/diff so it uses a different algorithm named `TimeEfficientLongestCommonSubsequenceCalculator`.
 Measuring the workload again showed, that the previously worked out patch for `MemoryEfficientLongestCommonSubsequenceCalculator` made it even faster then `TimeEfficientLongestCommonSubsequenceCalculator`.
