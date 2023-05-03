@@ -3,8 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (today)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 day ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) (2 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -12,7 +13,6 @@
 - [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
-- [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
