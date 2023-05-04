@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 day ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (2 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) (3 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [CI: make linting errors appear in PRs &#39;Files Changed&#39; tab](https://github.com/easy-coding-standard/easy-coding-standard/pull/79) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
 - [CI: make linting errors appear in PRs &#39;Files Changed&#39; tab](https://github.com/rectorphp/rector-src/pull/3729) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Enforce magic __serialize() and __unserialize() return types](https://github.com/phpstan/phpstan-src/pull/2372) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Use latest stable sebastian/diff](https://github.com/easy-coding-standard/easy-coding-standard/pull/78) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (2 days ago)
@@ -54,7 +55,6 @@
 - [mention ecs](https://github.com/staabm/staabm.github.io/pull/59) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
 - [Create 2023-05-01-diff-speeding.md](https://github.com/staabm/staabm.github.io/pull/58) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
 - [Improve performance of `TimeEfficientLongestCommonSubsequenceCalculator`](https://github.com/sebastianbergmann/diff/pull/119) on [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) (3 days ago)
-- [Improve performance of `MemoryEfficientLongestCommonSubsequenceCalculator`](https://github.com/sebastianbergmann/diff/pull/118) on [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
