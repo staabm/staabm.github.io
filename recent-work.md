@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.11.0](https://github.com/vimeo/psalm/releases/tag/5.11.0) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.38](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.38) (today)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.10.0](https://github.com/vimeo/psalm/releases/tag/5.10.0) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.20.4](https://github.com/phpstan/phpdoc-parser/releases/tag/1.20.4) (2 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA1) (3 days ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.0.4](https://github.com/PrestaShop/PrestaShop/releases/tag/8.0.4) (1 week ago)
