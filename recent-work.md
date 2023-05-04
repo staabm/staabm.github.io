@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Enforce magic __serialize() and __unserialize() return types](https://github.com/phpstan/phpstan-src/pull/2372) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Use latest stable sebastian/diff](https://github.com/easy-coding-standard/easy-coding-standard/pull/78) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (2 days ago)
 - [fix](https://github.com/staabm/staabm.github.io/pull/65) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [nits](https://github.com/staabm/staabm.github.io/pull/64) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
@@ -54,7 +55,6 @@
 - [Improve performance of `TimeEfficientLongestCommonSubsequenceCalculator`](https://github.com/sebastianbergmann/diff/pull/119) on [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) (3 days ago)
 - [Improve performance of `MemoryEfficientLongestCommonSubsequenceCalculator`](https://github.com/sebastianbergmann/diff/pull/118) on [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) (3 days ago)
 - [update tomasvotruba/unused-public](https://github.com/rectorphp/rector-src/pull/3716) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
-- [Simplify PhpFileProcessor](https://github.com/rectorphp/rector-src/pull/3715) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
