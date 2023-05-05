@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 day ago)
+- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improve SkippedPathsResolver performance](https://github.com/easy-coding-standard/easy-coding-standard/pull/80) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
 - [CI: make linting errors appear in PRs &#39;Files Changed&#39; tab](https://github.com/easy-coding-standard/easy-coding-standard/pull/79) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 day ago)
 - [CI: make linting errors appear in PRs &#39;Files Changed&#39; tab](https://github.com/rectorphp/rector-src/pull/3729) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Enforce magic __serialize() and __unserialize() return types](https://github.com/phpstan/phpstan-src/pull/2372) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [link reproduction details](https://github.com/staabm/staabm.github.io/pull/60) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 - [mention ecs](https://github.com/staabm/staabm.github.io/pull/59) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 - [Create 2023-05-01-diff-speeding.md](https://github.com/staabm/staabm.github.io/pull/58) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
-- [Improve performance of `TimeEfficientLongestCommonSubsequenceCalculator`](https://github.com/sebastianbergmann/diff/pull/119) on [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
