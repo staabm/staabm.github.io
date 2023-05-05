@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [DX: Improve performance of FunctionsAnalyzer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6939) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (today)
+- [fix typo](https://github.com/easy-coding-standard/easy-coding-standard/pull/81) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
 - [Improve SkippedPathsResolver performance](https://github.com/easy-coding-standard/easy-coding-standard/pull/80) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
 - [CI: make linting errors appear in PRs &#39;Files Changed&#39; tab](https://github.com/easy-coding-standard/easy-coding-standard/pull/79) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 day ago)
 - [CI: make linting errors appear in PRs &#39;Files Changed&#39; tab](https://github.com/rectorphp/rector-src/pull/3729) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [remove rexfactor keyword](https://github.com/staabm/staabm.github.io/pull/61) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 - [`CURLOPT_HTTPHEADER` should not accept a dictionary](https://github.com/phpstan/phpstan-src/pull/2369) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [link reproduction details](https://github.com/staabm/staabm.github.io/pull/60) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
-- [mention ecs](https://github.com/staabm/staabm.github.io/pull/59) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
-- [Create 2023-05-01-diff-speeding.md](https://github.com/staabm/staabm.github.io/pull/58) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
