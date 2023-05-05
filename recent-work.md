@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (today)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -12,7 +13,6 @@
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 weeks ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -26,6 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
+- [bluehorndigital](https://github.com/bluehorndigital) (today)
 - [drupol](https://github.com/drupol) (today)
 - [icanhazstring](https://github.com/icanhazstring) (4 days ago)
 - [CapnFelix](https://github.com/CapnFelix) (2 weeks ago)
@@ -35,7 +36,6 @@
 - [wdes](https://github.com/wdes) (1 month ago)
 - [TomasVotruba](https://github.com/TomasVotruba) (3 months ago)
 - [timetape-de](https://github.com/timetape-de) (4 months ago)
-- [Marschl](https://github.com/Marschl) (5 months ago)
 
 
 #### 🔨 My recent Pull Requests
