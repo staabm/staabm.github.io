@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [DX: cancel running builds on subsequent pushes in CI](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6940) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (today)
 - [DX: Improve performance of FunctionsAnalyzer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6939) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (today)
 - [fix typo](https://github.com/easy-coding-standard/easy-coding-standard/pull/81) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
 - [Improve SkippedPathsResolver performance](https://github.com/easy-coding-standard/easy-coding-standard/pull/80) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
@@ -54,7 +55,6 @@
 - [add #performance keyword](https://github.com/staabm/staabm.github.io/pull/62) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 - [remove rexfactor keyword](https://github.com/staabm/staabm.github.io/pull/61) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 - [`CURLOPT_HTTPHEADER` should not accept a dictionary](https://github.com/phpstan/phpstan-src/pull/2369) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [link reproduction details](https://github.com/staabm/staabm.github.io/pull/60) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
