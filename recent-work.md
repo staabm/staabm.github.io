@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 day ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (3 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) (5 days ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 weeks ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/497) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/81) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [DX: Use $tokens-&gt;getNamespaceDeclarations() to improve performance](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6942) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (today)
 - [DX: cancel running builds on subsequent pushes in CI](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6940) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 day ago)
 - [DX: Improve performance of FunctionsAnalyzer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6939) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 day ago)
@@ -53,19 +55,17 @@
 - [nits](https://github.com/staabm/staabm.github.io/pull/64) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 - [[Util]: Use `instanceof` instead of `is_a()`](https://github.com/rectorphp/rector-src/pull/3723) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 - [add #performance keyword](https://github.com/staabm/staabm.github.io/pull/63) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
-- [add #performance keyword](https://github.com/staabm/staabm.github.io/pull/62) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
-- [remove rexfactor keyword](https://github.com/staabm/staabm.github.io/pull/61) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.112](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.112) (today)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.7](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.7) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.11.0](https://github.com/vimeo/psalm/releases/tag/5.11.0) (2 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.38](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.38) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.20.4](https://github.com/phpstan/phpdoc-parser/releases/tag/1.20.4) (4 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA1) (5 days ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.0.4](https://github.com/PrestaShop/PrestaShop/releases/tag/8.0.4) (1 week ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.6](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.6) (2 weeks ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.10.1](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.10.1) (2 weeks ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.111](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.111) (2 weeks ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.14](https://github.com/phpstan/phpstan/releases/tag/1.10.14) (2 weeks ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - [1.3.0](https://github.com/phpstan/extension-installer/releases/tag/1.3.0) (2 weeks ago)
