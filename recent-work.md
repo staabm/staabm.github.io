@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update 2023-05-06-racing-rector.md](https://github.com/staabm/staabm.github.io/pull/67) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [The way to the fastest Rector version ever](https://github.com/staabm/staabm.github.io/pull/66) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/497) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/81) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
@@ -54,7 +55,6 @@
 - [Use latest stable sebastian/diff](https://github.com/easy-coding-standard/easy-coding-standard/pull/78) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (4 days ago)
 - [fix](https://github.com/staabm/staabm.github.io/pull/65) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 - [nits](https://github.com/staabm/staabm.github.io/pull/64) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
-- [[Util]: Use `instanceof` instead of `is_a()`](https://github.com/rectorphp/rector-src/pull/3723) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
