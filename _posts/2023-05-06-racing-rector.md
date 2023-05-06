@@ -8,7 +8,7 @@ image: "images/og-images/racing-rector.jpg"
 ogImage:
   title: "The way to the fastest Rector version ever"
   imageUrl: "https://staabm.github.io/staabm.svg"
-  fileName: "diff-speeding"
+  fileName: "racing-rector"
 ---
 
 The next episode of the PHP performance series:
