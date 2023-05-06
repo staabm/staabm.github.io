@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [DX: Use $tokens-&gt;getNamespaceDeclarations() to improve performance](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6942) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (today)
 - [DX: cancel running builds on subsequent pushes in CI](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6940) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 day ago)
 - [DX: Improve performance of FunctionsAnalyzer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/6939) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 day ago)
 - [fix typo](https://github.com/easy-coding-standard/easy-coding-standard/pull/81) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 day ago)
@@ -54,7 +55,6 @@
 - [add #performance keyword](https://github.com/staabm/staabm.github.io/pull/63) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 - [add #performance keyword](https://github.com/staabm/staabm.github.io/pull/62) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 - [remove rexfactor keyword](https://github.com/staabm/staabm.github.io/pull/61) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
-- [`CURLOPT_HTTPHEADER` should not accept a dictionary](https://github.com/phpstan/phpstan-src/pull/2369) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
