@@ -17,11 +17,11 @@
 
 #### 📜 My recent blog posts
 
+- [Racing Rector](https://staabm.github.io/2023/05/06/racing-rector.html) (today)
 - [Diff Speeding](https://staabm.github.io/2023/05/01/diff-speeding.html) (5 days ago)
 - [Rexfactor Introduction](https://staabm.github.io/2023/04/09/rexfactor-introduction.html) (3 weeks ago)
 - [Phpstan Analyzable Api Contracts](https://staabm.github.io/2022/12/29/phpstan-analyzable-api-contracts.html) (4 months ago)
 - [Phpstan Speedzember](https://staabm.github.io/2022/12/23/phpstan-speedzember.html) (4 months ago)
-- [2022 Wrap Up](https://staabm.github.io/2022/12/20/2022-wrap-up.html) (4 months ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
