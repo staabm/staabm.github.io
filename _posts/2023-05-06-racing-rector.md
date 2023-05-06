@@ -11,7 +11,7 @@ ogImage:
   fileName: "diff-speeding"
 ---
 
-Lets have a look at the next episode of the PHP Performance series.
+The next episode of the PHP performance series:
 
 After bringing a performance boost to PHPStan in [Speedzember](https://staabm.github.io/2022/12/23/phpstan-speedzember.html)
 and a side step in [Diff Speeding](https://staabm.github.io/2023/05/01/diff-speeding.html) lets have a look how the fastest Rector version ever was created.
