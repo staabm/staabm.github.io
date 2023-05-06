@@ -74,13 +74,8 @@ In the above I described just a few things I had a look at. The sum of all these
 
 [<img width="582" alt="grafik" src="https://user-images.githubusercontent.com/120441/236643238-75083d73-4685-4c1e-a317-3bf7e540cc05.png">](https://twitter.com/VotrubaT/status/1654486734250311680)
 
-Also be aware that not all my changes improve things a some idea will just be put into the trash-bin after a few hours.
+Also be aware that not all my changes improve things and some ideas will just be put into the trash-bin after a few hours.
 Feel free to [look through the full list](https://github.com/rectorphp/rector-src/pulls?q=is%3Apr+author%3Astaabm+sort%3Aupdated-desc)… not all things I try are successful or land in the project in the end.
 
 Chances are high, that you or your company is saving a lot of money with recent releases.
 [Please consider supporting my work](https://github.com/sponsors/staabm), so I can make sure open source tools keeps as fast as possible and evolves to the next level.
-
-All this performance work have been developed while holiday of my primary job.
-
-
-
