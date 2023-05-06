@@ -6,7 +6,7 @@ tags:
 image: "images/og-images/racing-rector.jpg"
 
 ogImage:
-  title: "The way to the fastest Rector version ever"
+  title: "The road to the fastest Rector version ever"
   imageUrl: "https://staabm.github.io/staabm.svg"
   fileName: "racing-rector"
 ---
