@@ -38,6 +38,8 @@ Later on this optimization was mentioned on the symfony blog: [New in Symfony 6.
 
 ### Defer IO
 
+_IO means input/output and is a term for operations which read or write data from/to a file, network, database, …_
+
 The initial profile revealed a few more small costs, which I worked through with some small pull requests:
 
 - https://github.com/rectorphp/rector-src/pull/3664
@@ -50,8 +52,6 @@ Bottom line of these changes is:
 - Do non-IO related stuff before IO related stuff - cheap checks first
 
 File IO is not only expensive but also very unpredictable. Executing the same workload over and over on the same machine can vary a lot.
-
-_IO means input/output and is a term for operations which read or write data from/to a file, network, database, …_
 
 ### Defer type resolving and AST traversal
 
