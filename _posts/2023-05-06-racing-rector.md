@@ -32,7 +32,7 @@ This means - where possible - I changed the code so file IO was only triggered a
 The result is a [~18% performance improvement](https://github.com/symfony/symfony/pull/50087) in symfony GlobResource
 which in turn will make a lot of code faster relying on the symfony-config component - obviously even outside of Rector.
 
-<img width="600" alt="grafik" src="https://user-images.githubusercontent.com/120441/233592449-2844bad8-6217-4ec9-a387-a83bd18a6269.png">
+<img width="1144" alt="grafik" src="https://user-images.githubusercontent.com/120441/233592449-2844bad8-6217-4ec9-a387-a83bd18a6269.png">
 
 Later on this optimization was mentioned on the symfony blog: [New in Symfony 6.3: Performance Improvements](https://symfony.com/blog/new-in-symfony-6-3-performance-improvements)
 
