@@ -24,6 +24,9 @@ They will give you a idea on how I approach such a task.
 ### symfony GlobResource
 
 Looking at the profiles of my workload I noticed that Rector had a bottleneck at file IO operations.
+
+_IO means input/output and is a term for operations which read or write data from/to a file, network, database, …_
+
 With this finding in mind I had a closer look at the file-finding stage and saw some considerable time was spent there.
 
 The file traversal utilizes symfony GlobResource class, and looking into it made me realize that we could re-order some operations.
@@ -37,8 +40,6 @@ which in turn will make a lot of code faster relying on the symfony-config compo
 Later on this optimization was mentioned on the symfony blog: [New in Symfony 6.3: Performance Improvements](https://symfony.com/blog/new-in-symfony-6-3-performance-improvements)
 
 ### Defer IO
-
-_IO means input/output and is a term for operations which read or write data from/to a file, network, database, …_
 
 The initial profile revealed a few more small costs, which I worked through with some small pull requests:
 
