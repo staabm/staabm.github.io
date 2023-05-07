@@ -11,14 +11,14 @@ ogImage:
   fileName: "racing-rector"
 ---
 
-The next episode of the PHP performance series:
+The next episode of the [PHP performance series](https://staabm.github.io/archive.html#performance):
 
 After bringing a performance boost to PHPStan in [Speedzember](https://staabm.github.io/2022/12/23/phpstan-speedzember.html)
 and a side step in [Diff Speeding](https://staabm.github.io/2023/05/01/diff-speeding.html) lets have a look how the fastest Rector version ever was created.
 
 ## Kick start
 
-If you are interessted in how I start a performance investigation, please read the previous mentioned articles beforehand.
+If you are interested in how I start a performance investigation, please read the previous mentioned articles beforehand.
 They will give you a idea on how I approach such a task.
 
 ### symfony GlobResource
@@ -29,7 +29,7 @@ _IO means input/output and is a term for operations which read or write data fro
 
 With this finding in mind I had a closer look at the file-finding stage and saw some considerable time was spent there.
 
-The file traversal utilizes symfony GlobResource class, and looking into it made me realize that we could re-order some operations.
+The file traversal utilizes [symfony GlobResource class](https://github.com/symfony/symfony/blob/ba94e953df22d7e24915cfbd5479ed415214144f/src/Symfony/Component/Config/Resource/GlobResource.php), and looking into it made me realize that we could re-order some operations.
 This means - where possible - I changed the code so file IO was only triggered after all other operations succeeded.
 
 The result is a [~18% performance improvement](https://github.com/symfony/symfony/pull/50087) in symfony GlobResource
