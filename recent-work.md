@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Defer type-resolving in UseIdenticalOverEqualWithSameTypeRector](https://github.com/rectorphp/rector-src/pull/3755) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Utilize MinPhpVersionInterface in more rules](https://github.com/rectorphp/rector-src/pull/3752) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Improve TypedPropertyFromAssignsRector performance](https://github.com/rectorphp/rector-src/pull/3749) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [fix](https://github.com/staabm/staabm.github.io/pull/68) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
@@ -54,7 +55,6 @@
 - [Improve SkippedPathsResolver performance](https://github.com/easy-coding-standard/easy-coding-standard/pull/80) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (2 days ago)
 - [CI: make linting errors appear in PRs &#39;Files Changed&#39; tab](https://github.com/easy-coding-standard/easy-coding-standard/pull/79) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (3 days ago)
 - [CI: make linting errors appear in PRs &#39;Files Changed&#39; tab](https://github.com/rectorphp/rector-src/pull/3729) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Enforce magic __serialize() and __unserialize() return types](https://github.com/phpstan/phpstan-src/pull/2372) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
