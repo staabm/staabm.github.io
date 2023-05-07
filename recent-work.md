@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improve TypedPropertyFromAssignsRector performance](https://github.com/rectorphp/rector-src/pull/3749) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [fix](https://github.com/staabm/staabm.github.io/pull/68) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Update 2023-05-06-racing-rector.md](https://github.com/staabm/staabm.github.io/pull/67) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [The way to the fastest Rector version ever](https://github.com/staabm/staabm.github.io/pull/66) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
@@ -54,7 +55,6 @@
 - [CI: make linting errors appear in PRs &#39;Files Changed&#39; tab](https://github.com/rectorphp/rector-src/pull/3729) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Enforce magic __serialize() and __unserialize() return types](https://github.com/phpstan/phpstan-src/pull/2372) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Use latest stable sebastian/diff](https://github.com/easy-coding-standard/easy-coding-standard/pull/78) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (5 days ago)
-- [fix](https://github.com/staabm/staabm.github.io/pull/65) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
