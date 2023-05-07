@@ -27,7 +27,7 @@ Looking at the profiles of my workload I noticed that Rector had a bottleneck at
 
 _IO means input/output and is a term for operations which read or write data from/to a file, network, database, …_
 
-With this finding in mind I had a closer look at the file-finding stage and saw some considerable time was spent there.
+With this finding in mind I had a closer look at the file-finding stage and saw considerable time was spent there.
 
 The file traversal utilizes [symfony GlobResource class](https://github.com/symfony/symfony/blob/ba94e953df22d7e24915cfbd5479ed415214144f/src/Symfony/Component/Config/Resource/GlobResource.php), and looking into it made me realize that we could re-order some operations.
 This means - where possible - I changed the code so file IO was only triggered after all other operations succeeded.
