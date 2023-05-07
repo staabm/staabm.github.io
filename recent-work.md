@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 day ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (2 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix](https://github.com/staabm/staabm.github.io/pull/68) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Update 2023-05-06-racing-rector.md](https://github.com/staabm/staabm.github.io/pull/67) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [The way to the fastest Rector version ever](https://github.com/staabm/staabm.github.io/pull/66) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/497) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -54,7 +55,6 @@
 - [Enforce magic __serialize() and __unserialize() return types](https://github.com/phpstan/phpstan-src/pull/2372) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Use latest stable sebastian/diff](https://github.com/easy-coding-standard/easy-coding-standard/pull/78) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (5 days ago)
 - [fix](https://github.com/staabm/staabm.github.io/pull/65) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
-- [nits](https://github.com/staabm/staabm.github.io/pull/64) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
