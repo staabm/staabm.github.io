@@ -43,9 +43,9 @@ Later on this optimization was mentioned on the symfony blog: [New in Symfony 6.
 
 The initial profile revealed a few more small costs, which I worked through with some small pull requests:
 
-- https://github.com/rectorphp/rector-src/pull/3664
-- https://github.com/rectorphp/rector-src/pull/3649
-- https://github.com/rectorphp/rector-src/pull/3650
+- [https://github.com/rectorphp/rector-src/pull/3664](https://github.com/rectorphp/rector-src/pull/3664)
+- [https://github.com/rectorphp/rector-src/pull/3649](https://github.com/rectorphp/rector-src/pull/3649)
+- [https://github.com/rectorphp/rector-src/pull/3650](https://github.com/rectorphp/rector-src/pull/3650)
 
 Bottom line of these changes is:
 - Don't do IO when not necessary
@@ -60,9 +60,9 @@ In a similar fashion as in the paragraph before, there is another class of opera
 We are talking about type resolving - e.g. `$scope->getType()` and friends - or AST traversal - e.g. `$nodeFinder->find(…)` or `$nodeTraverser->traverse(…)`.
 
 Examples for this approach can be found in
-- https://github.com/rectorphp/rector-src/pull/3652
-- https://github.com/rectorphp/rector-src/pull/3651
-- https://github.com/rectorphp/rector-src/pull/3654
+- [https://github.com/rectorphp/rector-src/pull/3652](https://github.com/rectorphp/rector-src/pull/3652)
+- [https://github.com/rectorphp/rector-src/pull/3651](https://github.com/rectorphp/rector-src/pull/3651)
+- [https://github.com/rectorphp/rector-src/pull/3654](https://github.com/rectorphp/rector-src/pull/3654)
 
 and some of them were really fruitful:
 
