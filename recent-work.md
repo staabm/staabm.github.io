@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support different error levels in GithubErrorFormatter](https://github.com/phpstan/phpstan-src/pull/2375) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [link PRs](https://github.com/staabm/staabm.github.io/pull/70) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Defer type-resolving in BinaryOpBetweenNumberAndStringRector](https://github.com/rectorphp/rector-src/pull/3763) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Defer type-resolving in SideEffectNodeDetector](https://github.com/rectorphp/rector-src/pull/3762) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Improve TypedPropertyFromAssignsRector performance](https://github.com/rectorphp/rector-src/pull/3749) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [fix](https://github.com/staabm/staabm.github.io/pull/68) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [Update 2023-05-06-racing-rector.md](https://github.com/staabm/staabm.github.io/pull/67) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
-- [The way to the fastest Rector version ever](https://github.com/staabm/staabm.github.io/pull/66) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
