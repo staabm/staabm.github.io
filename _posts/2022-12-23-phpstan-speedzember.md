@@ -75,36 +75,36 @@ Working thru existing performance issues revealed a few different things.
 Most specific to the code snippet at hand, but a few even more general - e.g. [Windows only issues](https://github.com/phpstan/phpstan-src/pull/2068).
 
 Things which often are visible in profiles are IO related. IO is very unpredictable and can be slow even on fast SSDs.
-- https://github.com/phpstan/phpstan-src/pull/2069
-- https://github.com/phpstan/phpstan-src/pull/2068
-- https://github.com/phpstan/phpstan-src/pull/2094
+- [https://github.com/phpstan/phpstan-src/pull/2069](https://github.com/phpstan/phpstan-src/pull/2069)
+- [https://github.com/phpstan/phpstan-src/pull/2068](https://github.com/phpstan/phpstan-src/pull/2068)
+- [https://github.com/phpstan/phpstan-src/pull/2094](https://github.com/phpstan/phpstan-src/pull/2094)
 
 Most interesting are optimization opportunities within the PHPStan core. These help to speedup the analysis in general:
-- https://github.com/phpstan/phpstan-src/pull/2073
-- https://github.com/phpstan/phpstan-src/pull/2074
-- https://github.com/phpstan/phpstan-src/pull/2072
+- [https://github.com/phpstan/phpstan-src/pull/2073](https://github.com/phpstan/phpstan-src/pull/2073)
+- [https://github.com/phpstan/phpstan-src/pull/2074](https://github.com/phpstan/phpstan-src/pull/2074)
+- [https://github.com/phpstan/phpstan-src/pull/2072](https://github.com/phpstan/phpstan-src/pull/2072)
 
 Especially within the type system improvements help a lot:
-- https://github.com/phpstan/phpstan-src/pull/2081
-- https://github.com/phpstan/phpstan-src/pull/2080
-- https://github.com/phpstan/phpstan-src/pull/2083
-- https://github.com/phpstan/phpstan-src/pull/2086
+- [https://github.com/phpstan/phpstan-src/pull/2081](https://github.com/phpstan/phpstan-src/pull/2081)
+- [https://github.com/phpstan/phpstan-src/pull/2080](https://github.com/phpstan/phpstan-src/pull/2080)
+- [https://github.com/phpstan/phpstan-src/pull/2083](https://github.com/phpstan/phpstan-src/pull/2083)
+- [https://github.com/phpstan/phpstan-src/pull/2086](https://github.com/phpstan/phpstan-src/pull/2086)
 
 PHPStan does a lot of work within the Scope-class which reflects the state of types of the given code at hand.
 It decides how the types flow thru the code, and how logic influence the types.
-- https://github.com/phpstan/phpstan-src/pull/2092
-- https://github.com/phpstan/phpstan-src/pull/2116
-- https://github.com/phpstan/phpstan-src/pull/2139
+- [https://github.com/phpstan/phpstan-src/pull/2092](https://github.com/phpstan/phpstan-src/pull/2092)
+- [https://github.com/phpstan/phpstan-src/pull/2116](https://github.com/phpstan/phpstan-src/pull/2116)
+- [https://github.com/phpstan/phpstan-src/pull/2139](https://github.com/phpstan/phpstan-src/pull/2139)
 
 PHPStan implements rules on top of the type system. Reducing calls into the `Scope`-class to a minimal can help keep things fast.
-- https://github.com/phpstan/phpstan-src/pull/2071
-- https://github.com/phpstan/phpstan-src/pull/2099
-- https://github.com/phpstan/phpstan-src/pull/2100
-- https://github.com/phpstan/phpstan-src/pull/2101
-- https://github.com/phpstan/phpstan-src/pull/2104
-- https://github.com/phpstan/phpstan-src/pull/2103
-- https://github.com/phpstan/phpstan-src/pull/2098
-- https://github.com/phpstan/phpstan-src/pull/2106
+- [https://github.com/phpstan/phpstan-src/pull/2071](https://github.com/phpstan/phpstan-src/pull/2071)
+- [https://github.com/phpstan/phpstan-src/pull/2099](https://github.com/phpstan/phpstan-src/pull/2099)
+- [https://github.com/phpstan/phpstan-src/pull/2100](https://github.com/phpstan/phpstan-src/pull/2100)
+- [https://github.com/phpstan/phpstan-src/pull/2101](https://github.com/phpstan/phpstan-src/pull/2101)
+- [https://github.com/phpstan/phpstan-src/pull/2104](https://github.com/phpstan/phpstan-src/pull/2104)
+- [https://github.com/phpstan/phpstan-src/pull/2103](https://github.com/phpstan/phpstan-src/pull/2103)
+- [https://github.com/phpstan/phpstan-src/pull/2098](https://github.com/phpstan/phpstan-src/pull/2098)
+- [https://github.com/phpstan/phpstan-src/pull/2106](https://github.com/phpstan/phpstan-src/pull/2106)
 
 Our internal benchmarks looked pretty good:
 <img width="918" alt="grafik" src="https://user-images.githubusercontent.com/120441/208891903-d7ccc2e5-32aa-442b-ab2a-845cde12e99d.png">
