@@ -4,6 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
@@ -12,7 +13,6 @@
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (5 days ago)
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) (1 week ago)
-- [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [prepare next iteration](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/114) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (today)
+- [prepare 1.8.5 release](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/113) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (today)
+- [Support downgrading of errors as warnings](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/112) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (today)
 - [Support different error levels in GithubErrorFormatter](https://github.com/phpstan/phpstan-src/pull/2375) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [link PRs](https://github.com/staabm/staabm.github.io/pull/70) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Defer type-resolving in BinaryOpBetweenNumberAndStringRector](https://github.com/rectorphp/rector-src/pull/3763) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -52,13 +55,11 @@
 - [Defer type-resolving in ForeachToInArrayRector](https://github.com/rectorphp/rector-src/pull/3756) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Defer type-resolving in UseIdenticalOverEqualWithSameTypeRector](https://github.com/rectorphp/rector-src/pull/3755) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Utilize MinPhpVersionInterface in more rules](https://github.com/rectorphp/rector-src/pull/3752) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
-- [Improve TypedPropertyFromAssignsRector performance](https://github.com/rectorphp/rector-src/pull/3749) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
-- [fix](https://github.com/staabm/staabm.github.io/pull/68) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
-- [Update 2023-05-06-racing-rector.md](https://github.com/staabm/staabm.github.io/pull/67) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) - [1.8.5](https://github.com/staabm/annotate-pull-request-from-checkstyle/releases/tag/1.8.5) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA2) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.112](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.112) (2 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.7](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.7) (2 days ago)
@@ -68,4 +69,3 @@
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.0.4](https://github.com/PrestaShop/PrestaShop/releases/tag/8.0.4) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.10.1](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.10.1) (2 weeks ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.14](https://github.com/phpstan/phpstan/releases/tag/1.10.14) (2 weeks ago)
-- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - [1.3.0](https://github.com/phpstan/extension-installer/releases/tag/1.3.0) (2 weeks ago)
