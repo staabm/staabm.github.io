@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [De-duplicate isAnonymous check](https://github.com/rectorphp/rector-src/pull/3782) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Get rid of `AttributeKey::SCOPE` in the NodeNameResolver subsystem](https://github.com/rectorphp/rector-src/pull/3780) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Fix typo](https://github.com/TomasVotruba/unused-public/pull/59) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [prepare next iteration](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/114) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 day ago)
@@ -54,7 +55,6 @@
 - [Defer type-resolving in AssignVariableTypeResolver](https://github.com/rectorphp/rector-src/pull/3759) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Defer type-resolving in TernaryEmptyArrayArrayDimFetchToCoalesceRector](https://github.com/rectorphp/rector-src/pull/3758) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Defer type-resolving in SimplifyBoolIdenticalTrueRector](https://github.com/rectorphp/rector-src/pull/3757) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [Defer type-resolving in ForeachToInArrayRector](https://github.com/rectorphp/rector-src/pull/3756) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
