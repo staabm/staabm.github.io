@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix typo](https://github.com/TomasVotruba/unused-public/pull/59) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [prepare next iteration](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/114) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 day ago)
 - [prepare 1.8.5 release](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/113) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 day ago)
 - [Support downgrading of errors as warnings](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/112) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 day ago)
@@ -54,7 +55,6 @@
 - [Defer type-resolving in SimplifyBoolIdenticalTrueRector](https://github.com/rectorphp/rector-src/pull/3757) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Defer type-resolving in ForeachToInArrayRector](https://github.com/rectorphp/rector-src/pull/3756) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Defer type-resolving in UseIdenticalOverEqualWithSameTypeRector](https://github.com/rectorphp/rector-src/pull/3755) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [Utilize MinPhpVersionInterface in more rules](https://github.com/rectorphp/rector-src/pull/3752) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
