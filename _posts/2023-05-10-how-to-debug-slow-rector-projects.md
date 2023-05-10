@@ -15,6 +15,8 @@ ogImage:
 After [initial investigation into Rector performance 🏎️](https://staabm.github.io/2023/05/06/racing-rector.html), we are now at a point where we need more detailed data to get it even faster.
 That's why we [added more debug information to the Rector output](https://github.com/rectorphp/rector-src/pull/3785) - inspired by Ruud Kamphuis script to [find slowest PHPStan files](https://gist.github.com/ruudk/41897eb59ff497b271fc9fa3c7d5fb27).
 
+> You want to [look into PHPStan performance](https://staabm.github.io/2022/12/23/phpstan-speedzember.html#how-to-find-slow-files-in-my-project) instead?
+
 ## How to find out why Rector is slow on your project?
 
 _Requires Rector 0.16.1 or later - not yet released_
