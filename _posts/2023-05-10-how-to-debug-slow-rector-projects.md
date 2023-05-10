@@ -74,7 +74,10 @@ In case you [support my engagement with a GitHub sponsoring](https://github.com/
 
 ----
 
-[^parseSource]: Script to analyse and sort the `rector.log`:
+## Script to analyse and sort the `rector.log`:
+
+[^parseSource]:
+
 ```php
 <?php // parse.php
 declare(strict_types=1);
