@@ -33,7 +33,7 @@ We need to start somewhere to explore the code and build a basic understanding o
 
 ### Disable diffing should be fast
 
-One thing I wanted to rule out first is, whether the diff creation also slows down the whole process when using the `--no-diff` option.
+One thing I wanted to rule out first is, whether the diff creation also slows down the whole process when using the `--no-diffs` option.
 
 Turned out when running Rector and we are not interested in the diff, we still pay for it:
 
