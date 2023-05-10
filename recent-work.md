@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [How to debug rector performance](https://github.com/staabm/staabm.github.io/pull/72) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [Ease finding slow files](https://github.com/rectorphp/rector-src/pull/3785) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [typo](https://github.com/staabm/staabm.github.io/pull/71) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [De-duplicate isAnonymous check](https://github.com/rectorphp/rector-src/pull/3782) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Get rid of `AttributeKey::SCOPE` in the NodeNameResolver subsystem](https://github.com/rectorphp/rector-src/pull/3780) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Defer type-resolving in SideEffectNodeDetector](https://github.com/rectorphp/rector-src/pull/3762) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Defer type-resolving in RemoveJustPropertyFetchRector](https://github.com/rectorphp/rector-src/pull/3761) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Defer type-resolving in IterableTypeAnalyzer](https://github.com/rectorphp/rector-src/pull/3760) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Defer type-resolving in AssignVariableTypeResolver](https://github.com/rectorphp/rector-src/pull/3759) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Defer type-resolving in TernaryEmptyArrayArrayDimFetchToCoalesceRector](https://github.com/rectorphp/rector-src/pull/3758) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
