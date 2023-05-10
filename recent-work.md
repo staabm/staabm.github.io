@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update 2023-05-10-how-to-debug-slow-rector-projects.md](https://github.com/staabm/staabm.github.io/pull/74) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Update 2023-05-10-how-to-debug-slow-rector-projects.md](https://github.com/staabm/staabm.github.io/pull/73) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/499) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [How to debug rector performance](https://github.com/staabm/staabm.github.io/pull/72) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
@@ -54,7 +55,6 @@
 - [Support different error levels in GithubErrorFormatter](https://github.com/phpstan/phpstan-src/pull/2375) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [link PRs](https://github.com/staabm/staabm.github.io/pull/70) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [Defer type-resolving in BinaryOpBetweenNumberAndStringRector](https://github.com/rectorphp/rector-src/pull/3763) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Defer type-resolving in SideEffectNodeDetector](https://github.com/rectorphp/rector-src/pull/3762) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
