@@ -105,7 +105,11 @@ while (! $log->eof()) {
         continue;
     }
     if (preg_match('/took (?<seconds>[\d.]+) s/', $line, $matches) === 1) {
-        $logs[] = [(float) $matches['seconds'], $file];
+        $accu = 0.0;
+        if (array_key_exists($file, $logs)) {
+            $accu = $logs[$file][0];
+        }
+        $logs[$file] = [$accu + ((float) $matches['seconds']), $file];
         $file = null;
     }
 }
