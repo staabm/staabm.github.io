@@ -15,7 +15,7 @@ ogImage:
 After [initial investigation into Rector performance 🏎️](https://staabm.github.io/2023/05/06/racing-rector.html), we are now at a point where we need more detailed data to get it even faster.
 That's why we [added more debug information to the Rector output](https://github.com/rectorphp/rector-src/pull/3785) - inspired by Ruud Kamphuis script to [find slowest PHPStan files](https://gist.github.com/ruudk/41897eb59ff497b271fc9fa3c7d5fb27).
 
-## How to find out why rector is slow on your project?
+## How to find out why Rector is slow on your project?
 
 _Requires Rector 0.16.1 or higher_
 
@@ -57,19 +57,12 @@ Slowest files
 0.62 seconds: [file] rules/CodingStyle/Rector/ClassConst/VarConstantCommentRector.php
 0.60 seconds: [file] packages/PhpAttribute/NodeAnalyzer/ExprParameterReflectionTypeCorrector.php
 0.56 seconds: [file] packages/PhpAttribute/AnnotationToAttributeMapper/ArrayItemNodeAnnotationToAttributeMapper.php
-0.45 seconds: [file] packages/Testing/PHPUnit/AbstractRectorTestCase.php
-0.38 seconds: [file] rules/CodeQuality/Rector/ClassMethod/NarrowUnionTypeDocRector.php
-0.35 seconds: [file] packages-tests/Comments/CommentRemover/CommentRemoverTest.php
-0.34 seconds: [file] packages/PhpAttribute/Enum/DocTagNodeState.php
-0.34 seconds: [file] packages/PostRector/Collector/NodesToAddCollector.php
-0.32 seconds: [file] packages/StaticTypeMapper/PhpDocParser/IdentifierTypeMapper.php
-0.31 seconds: [file] packages/BetterPhpDocParser/PhpDocNodeVisitor/TemplatePhpDocNode
 ...
 ```
 
 Starting from here you can use your favorite profiler to analyse only the slowest files in isolation.
 
-Example with [blackfire](https://blackfire.io/):
+Example with [blackfire](https://blackfire.io/) and the path to a slow file:
 ```
 blackfire run --ignore-exit-status php vendor/bin/rector -vvv --debug --no-diffs packages/Testing/PHPUnit/AbstractRectorTestCase.php
 ```
@@ -82,7 +75,6 @@ In case you [support my engagement with a GitHub sponsoring](https://github.com/
 ----
 
 [^parseSource]: Script to analyse and sort the `rector.log`:
-
 ```php
 <?php // parse.php
 declare(strict_types=1);
