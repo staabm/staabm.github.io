@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Drop AttributeKey::SCOPE in Rector classes](https://github.com/rectorphp/rector-src/pull/3792) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Drop AttributeKey::SCOPE in Rector classes](https://github.com/rectorphp/rector-src/pull/3791) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Drop AttributeKey::SCOPE in Rector-classes](https://github.com/rectorphp/rector-src/pull/3790) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [accumulate rector runs](https://github.com/staabm/staabm.github.io/pull/76) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
@@ -54,7 +55,6 @@
 - [De-duplicate isAnonymous check](https://github.com/rectorphp/rector-src/pull/3782) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Get rid of `AttributeKey::SCOPE` in the NodeNameResolver subsystem](https://github.com/rectorphp/rector-src/pull/3780) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Fix typo](https://github.com/TomasVotruba/unused-public/pull/59) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
-- [prepare next iteration](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/114) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
