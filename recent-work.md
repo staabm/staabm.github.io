@@ -6,11 +6,11 @@
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (4 days ago)
-- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (5 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [accumulate rector runs](https://github.com/staabm/staabm.github.io/pull/76) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Remove codesniffer tests in releases](https://github.com/easy-coding-standard/easy-coding-standard/pull/82) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
 - [Update 2023-05-10-how-to-debug-slow-rector-projects.md](https://github.com/staabm/staabm.github.io/pull/75) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Update 2023-05-10-how-to-debug-slow-rector-projects.md](https://github.com/staabm/staabm.github.io/pull/74) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
@@ -54,7 +55,6 @@
 - [prepare next iteration](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/114) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 days ago)
 - [prepare 1.8.5 release](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/113) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 days ago)
 - [Support downgrading of errors as warnings](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/112) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 days ago)
-- [Support different error levels in GithubErrorFormatter](https://github.com/phpstan/phpstan-src/pull/2375) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
