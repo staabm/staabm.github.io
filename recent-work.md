@@ -17,11 +17,11 @@
 
 #### 📜 My recent blog posts
 
+- [How To Debug Slow Rector Projects](https://staabm.github.io/2023/05/10/how-to-debug-slow-rector-projects.html) (today)
 - [Racing Rector](https://staabm.github.io/2023/05/06/racing-rector.html) (4 days ago)
 - [Diff Speeding](https://staabm.github.io/2023/05/01/diff-speeding.html) (1 week ago)
 - [Rexfactor Introduction](https://staabm.github.io/2023/04/09/rexfactor-introduction.html) (1 month ago)
 - [Phpstan Analyzable Api Contracts](https://staabm.github.io/2022/12/29/phpstan-analyzable-api-contracts.html) (4 months ago)
-- [Phpstan Speedzember](https://staabm.github.io/2022/12/23/phpstan-speedzember.html) (4 months ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update 2023-05-10-how-to-debug-slow-rector-projects.md](https://github.com/staabm/staabm.github.io/pull/73) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/499) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [How to debug rector performance](https://github.com/staabm/staabm.github.io/pull/72) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Ease finding slow files](https://github.com/rectorphp/rector-src/pull/3785) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
@@ -54,7 +55,6 @@
 - [link PRs](https://github.com/staabm/staabm.github.io/pull/70) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [Defer type-resolving in BinaryOpBetweenNumberAndStringRector](https://github.com/rectorphp/rector-src/pull/3763) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Defer type-resolving in SideEffectNodeDetector](https://github.com/rectorphp/rector-src/pull/3762) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Defer type-resolving in RemoveJustPropertyFetchRector](https://github.com/rectorphp/rector-src/pull/3761) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
