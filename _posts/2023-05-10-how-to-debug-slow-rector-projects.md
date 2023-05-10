@@ -79,8 +79,9 @@ Its important all files and configs required to reproduce your performance issue
 
 In case you [support my engagement with a GitHub sponsoring](https://github.com/sponsors/staabm), I can have a look at your performance problem.
 
+----
 
-[^parseSource]:
+[^parseSource]: Script to analyse and sort the `rector.log`:
 
 ```php
 <?php // parse.php
@@ -121,20 +122,3 @@ foreach ($logs as $log) {
 }
 ```
 
-
-## Summary
-
-In the above I described just a few things I had a look at. The sum of all these - and a lot more not mentioned here at all - lead to a really awesome Rector 0.16 release:
-
-[<img width="582" alt="grafik" src="https://user-images.githubusercontent.com/120441/236643238-75083d73-4685-4c1e-a317-3bf7e540cc05.png">](https://twitter.com/VotrubaT/status/1654486734250311680)
-
-Also be aware that not all my changes improve things and some ideas will just be put into the trash-bin after a few hours.
-Feel free to [look through the full list](https://github.com/rectorphp/rector-src/pulls?q=is%3Apr+author%3Astaabm+sort%3Aupdated-desc)… not all things I try are successful or land in the project in the end.
-
-💡Tip: Don't apply the above concepts blindly to your code.
-Make sure you have evidence with some sort of timing tool (e.g. a profiler) before diving deep into the performance optimizing process.
-As you can see in most PRs: oftentimes only a few lines of code need to be tweaked.
-The actual challenge is to find those in between a few hundred thousand/million lines of code.
-
-Chances are high, that you or your company is saving a lot of money with recent releases.
-[Please consider supporting my work](https://github.com/sponsors/staabm), so I can make sure open source tools keeps as fast as possible and evolves to the next level.
