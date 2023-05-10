@@ -7,7 +7,7 @@ image: "images/og-images/debug-rector-performance.jpg"
 
 ogImage:
   title: "How to debug rector performance"
-  subtitle: "Step by step guide on how to find out why rector is slow on your project"
+  subtitle: "Step by step guide on how to find out why Rector is slow on your project"
   imageUrl: "https://staabm.github.io/staabm.svg"
   fileName: "debug-rector-performance"
 ---
