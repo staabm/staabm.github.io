@@ -4,10 +4,10 @@
 #### 💻 Check out what I'm currently working on
 
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (4 days ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (5 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/499) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [How to debug rector performance](https://github.com/staabm/staabm.github.io/pull/72) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Ease finding slow files](https://github.com/rectorphp/rector-src/pull/3785) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [typo](https://github.com/staabm/staabm.github.io/pull/71) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
@@ -54,15 +55,14 @@
 - [Defer type-resolving in BinaryOpBetweenNumberAndStringRector](https://github.com/rectorphp/rector-src/pull/3763) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Defer type-resolving in SideEffectNodeDetector](https://github.com/rectorphp/rector-src/pull/3762) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Defer type-resolving in RemoveJustPropertyFetchRector](https://github.com/rectorphp/rector-src/pull/3761) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Defer type-resolving in IterableTypeAnalyzer](https://github.com/rectorphp/rector-src/pull/3760) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.113](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.113) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.15](https://github.com/phpstan/phpstan/releases/tag/1.10.15) (1 day ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) - [1.8.5](https://github.com/staabm/annotate-pull-request-from-checkstyle/releases/tag/1.8.5) (2 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA2) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.112](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.112) (4 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.7](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.7) (4 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.11.0](https://github.com/vimeo/psalm/releases/tag/5.11.0) (6 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.38](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.38) (6 days ago)
