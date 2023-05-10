@@ -17,7 +17,7 @@ That's why we [added more debug information to the Rector output](https://github
 
 ## How to find out why Rector is slow on your project?
 
-_Requires Rector 0.16.1 or higher - not yet released_
+_Requires Rector 0.16.1 or later - not yet released_
 
 First we need a single run across the whole project which collects some useful information we can later look into:
 
