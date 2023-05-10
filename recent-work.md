@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove codesniffer tests in releases](https://github.com/easy-coding-standard/easy-coding-standard/pull/82) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
 - [Update 2023-05-10-how-to-debug-slow-rector-projects.md](https://github.com/staabm/staabm.github.io/pull/75) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Update 2023-05-10-how-to-debug-slow-rector-projects.md](https://github.com/staabm/staabm.github.io/pull/74) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Update 2023-05-10-how-to-debug-slow-rector-projects.md](https://github.com/staabm/staabm.github.io/pull/73) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
@@ -54,7 +55,6 @@
 - [prepare 1.8.5 release](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/113) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 days ago)
 - [Support downgrading of errors as warnings](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/112) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 days ago)
 - [Support different error levels in GithubErrorFormatter](https://github.com/phpstan/phpstan-src/pull/2375) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [link PRs](https://github.com/staabm/staabm.github.io/pull/70) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
