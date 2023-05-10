@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
