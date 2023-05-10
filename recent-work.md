@@ -9,8 +9,8 @@
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 days ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (4 days ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
 
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Drop AttributeKey::SCOPE in Rector classes](https://github.com/rectorphp/rector-src/pull/3791) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [Drop AttributeKey::SCOPE in Rector-classes](https://github.com/rectorphp/rector-src/pull/3790) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [accumulate rector runs](https://github.com/staabm/staabm.github.io/pull/76) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Remove codesniffer tests in releases](https://github.com/easy-coding-standard/easy-coding-standard/pull/82) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
 - [Update 2023-05-10-how-to-debug-slow-rector-projects.md](https://github.com/staabm/staabm.github.io/pull/75) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
@@ -53,8 +55,6 @@
 - [Get rid of `AttributeKey::SCOPE` in the NodeNameResolver subsystem](https://github.com/rectorphp/rector-src/pull/3780) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Fix typo](https://github.com/TomasVotruba/unused-public/pull/59) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
 - [prepare next iteration](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/114) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 days ago)
-- [prepare 1.8.5 release](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/113) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 days ago)
-- [Support downgrading of errors as warnings](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/112) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
