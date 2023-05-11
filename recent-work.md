@@ -40,6 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Drop AttributeKey::SCOPE in FuncCallStaticCallToMethodCallAnalyzer](https://github.com/rectorphp/rector-src/pull/3807) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [Drop AttributeKey::SCOPE in ClassRenamer](https://github.com/rectorphp/rector-src/pull/3806) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [Drop AttributeKey::SCOPE in FullyQualifyStmtsAnalyzer](https://github.com/rectorphp/rector-src/pull/3805) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [Drop AttributeKey::SCOPE in CountableAnalyzer](https://github.com/rectorphp/rector-src/pull/3804) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Drop AttributeKey::SCOPE in CurrentAndParentClassMethodComparator](https://github.com/rectorphp/rector-src/pull/3803) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Don&#39;t neon-decode phpstan configs over and over again](https://github.com/rectorphp/rector-src/pull/3796) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [[DependencyInjection] Drop IO in FileLoader](https://github.com/symfony/symfony/pull/50298) on [symfony/symfony](https://github.com/symfony/symfony) (today)
@@ -51,10 +55,6 @@
 - [Remove codesniffer tests in releases](https://github.com/easy-coding-standard/easy-coding-standard/pull/82) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 day ago)
 - [Update 2023-05-10-how-to-debug-slow-rector-projects.md](https://github.com/staabm/staabm.github.io/pull/75) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [Update 2023-05-10-how-to-debug-slow-rector-projects.md](https://github.com/staabm/staabm.github.io/pull/74) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
-- [Update 2023-05-10-how-to-debug-slow-rector-projects.md](https://github.com/staabm/staabm.github.io/pull/73) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
-- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/499) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [How to debug rector performance](https://github.com/staabm/staabm.github.io/pull/72) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
-- [Ease finding slow files](https://github.com/rectorphp/rector-src/pull/3785) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
