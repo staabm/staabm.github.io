@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[DependencyInjection] Defer IO in FileLoader](https://github.com/symfony/symfony/pull/50298) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- [Improve ParamTypeFromStrictTypedPropertyRector performance](https://github.com/rectorphp/rector-src/pull/3795) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Drop AttributeKey::SCOPE in Rector classes](https://github.com/rectorphp/rector-src/pull/3792) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Drop AttributeKey::SCOPE in Rector classes](https://github.com/rectorphp/rector-src/pull/3791) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Drop AttributeKey::SCOPE in Rector-classes](https://github.com/rectorphp/rector-src/pull/3790) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -53,19 +55,17 @@
 - [Ease finding slow files](https://github.com/rectorphp/rector-src/pull/3785) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [typo](https://github.com/staabm/staabm.github.io/pull/71) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [De-duplicate isAnonymous check](https://github.com/rectorphp/rector-src/pull/3782) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [Get rid of `AttributeKey::SCOPE` in the NodeNameResolver subsystem](https://github.com/rectorphp/rector-src/pull/3780) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [Fix typo](https://github.com/TomasVotruba/unused-public/pull/59) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.39](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.39) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.113](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.113) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.15](https://github.com/phpstan/phpstan/releases/tag/1.10.15) (2 days ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) - [1.8.5](https://github.com/staabm/annotate-pull-request-from-checkstyle/releases/tag/1.8.5) (3 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA2) (4 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.7](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.7) (5 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.11.0](https://github.com/vimeo/psalm/releases/tag/5.11.0) (1 week ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.38](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.38) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.20.4](https://github.com/phpstan/phpdoc-parser/releases/tag/1.20.4) (1 week ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.0.4](https://github.com/PrestaShop/PrestaShop/releases/tag/8.0.4) (2 weeks ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.10.1](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.10.1) (3 weeks ago)
