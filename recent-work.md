@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Drop AttributeKey::SCOPE in CurrentAndParentClassMethodComparator](https://github.com/rectorphp/rector-src/pull/3803) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Don&#39;t neon-decode phpstan configs over and over again](https://github.com/rectorphp/rector-src/pull/3796) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [[DependencyInjection] Drop IO in FileLoader](https://github.com/symfony/symfony/pull/50298) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [Improve ParamTypeFromStrictTypedPropertyRector performance](https://github.com/rectorphp/rector-src/pull/3795) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
@@ -54,7 +55,6 @@
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/499) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [How to debug rector performance](https://github.com/staabm/staabm.github.io/pull/72) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [Ease finding slow files](https://github.com/rectorphp/rector-src/pull/3785) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
-- [typo](https://github.com/staabm/staabm.github.io/pull/71) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
