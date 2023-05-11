@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.39](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.39) (today)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.40](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.40) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.113](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.113) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.15](https://github.com/phpstan/phpstan/releases/tag/1.10.15) (2 days ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) - [1.8.5](https://github.com/staabm/annotate-pull-request-from-checkstyle/releases/tag/1.8.5) (3 days ago)
