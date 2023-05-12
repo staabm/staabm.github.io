@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (4 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (6 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (6 days ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (6 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Dump dependency container and re-use it](https://github.com/rectorphp/rector-src/pull/3809) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Drop AttributeKey::SCOPE in FuncCallStaticCallToMethodCallAnalyzer](https://github.com/rectorphp/rector-src/pull/3807) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Drop AttributeKey::SCOPE in ClassRenamer](https://github.com/rectorphp/rector-src/pull/3806) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Drop AttributeKey::SCOPE in FullyQualifyStmtsAnalyzer](https://github.com/rectorphp/rector-src/pull/3805) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [accumulate rector runs](https://github.com/staabm/staabm.github.io/pull/76) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [Remove codesniffer tests in releases](https://github.com/easy-coding-standard/easy-coding-standard/pull/82) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (2 days ago)
 - [Update 2023-05-10-how-to-debug-slow-rector-projects.md](https://github.com/staabm/staabm.github.io/pull/75) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
-- [Update 2023-05-10-how-to-debug-slow-rector-projects.md](https://github.com/staabm/staabm.github.io/pull/74) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
