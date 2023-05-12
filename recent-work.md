@@ -46,7 +46,7 @@
 - [CI: Fix composer unused job](https://github.com/rectorphp/rector-src/pull/3812) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Fix WorkerCommandLineFactoryTest](https://github.com/rectorphp/rector-src/pull/3811) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Drop RectorKernel-&gt;getContainer()](https://github.com/rectorphp/rector-src/pull/3810) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
-- [Dump dependency container and re-use it](https://github.com/rectorphp/rector-src/pull/3809) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [Dump dependency container and re-use it - 35% faster test-suite](https://github.com/rectorphp/rector-src/pull/3809) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Drop AttributeKey::SCOPE in FuncCallStaticCallToMethodCallAnalyzer](https://github.com/rectorphp/rector-src/pull/3807) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Drop AttributeKey::SCOPE in ClassRenamer](https://github.com/rectorphp/rector-src/pull/3806) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Drop AttributeKey::SCOPE in FullyQualifyStmtsAnalyzer](https://github.com/rectorphp/rector-src/pull/3805) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
