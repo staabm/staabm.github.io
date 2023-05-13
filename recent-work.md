@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Define default test-suite](https://github.com/rectorphp/rector-src/pull/3819) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [CI: separate rules-tests in 2 parallel jobs](https://github.com/rectorphp/rector-src/pull/3815) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Prevent unnecessary IO](https://github.com/rectorphp/rector-src/pull/3814) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Find slow phpunit tests in CI](https://github.com/rectorphp/rector-src/pull/3813) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Drop AttributeKey::SCOPE in CurrentAndParentClassMethodComparator](https://github.com/rectorphp/rector-src/pull/3803) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Don&#39;t neon-decode phpstan configs over and over again](https://github.com/rectorphp/rector-src/pull/3796) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [[DependencyInjection] Drop IO in FileLoader](https://github.com/symfony/symfony/pull/50298) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
-- [Improve ParamTypeFromStrictTypedPropertyRector performance](https://github.com/rectorphp/rector-src/pull/3795) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
