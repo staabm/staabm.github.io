@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (3 days ago)
@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA3) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.40](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.40) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.113](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.113) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.15](https://github.com/phpstan/phpstan/releases/tag/1.10.15) (4 days ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) - [1.8.5](https://github.com/staabm/annotate-pull-request-from-checkstyle/releases/tag/1.8.5) (5 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA2) (6 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.7](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.7) (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.11.0](https://github.com/vimeo/psalm/releases/tag/5.11.0) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.20.4](https://github.com/phpstan/phpdoc-parser/releases/tag/1.20.4) (1 week ago)
