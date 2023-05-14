@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Drop AttributeKey::SCOPE in various classes](https://github.com/rectorphp/rector-src/pull/3836) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [ArrayCallableMethodMatcher type fixes](https://github.com/rectorphp/rector-symfony/pull/398) on [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (today)
 - [Drop AttributeKey::SCOPE in ArrayCallableMethodMatcher](https://github.com/rectorphp/rector-src/pull/3835) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Introduce FileHasher](https://github.com/rectorphp/rector-src/pull/3833) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
@@ -54,7 +55,6 @@
 - [Dump dependency container and re-use it - 35% faster test-suite](https://github.com/rectorphp/rector-src/pull/3809) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Drop AttributeKey::SCOPE in FuncCallStaticCallToMethodCallAnalyzer](https://github.com/rectorphp/rector-src/pull/3807) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Drop AttributeKey::SCOPE in ClassRenamer](https://github.com/rectorphp/rector-src/pull/3806) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Drop AttributeKey::SCOPE in FullyQualifyStmtsAnalyzer](https://github.com/rectorphp/rector-src/pull/3805) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
