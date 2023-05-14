@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ArrayCallableMethodMatcher type fixes](https://github.com/rectorphp/rector-symfony/pull/398) on [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (today)
+- [Drop AttributeKey::SCOPE in ArrayCallableMethodMatcher](https://github.com/rectorphp/rector-src/pull/3835) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [Introduce FileHasher](https://github.com/rectorphp/rector-src/pull/3833) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Remove useless clear cache](https://github.com/rectorphp/rector-src/pull/3828) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Define default test-suite](https://github.com/rectorphp/rector-src/pull/3819) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [CI: separate rules-tests in 2 parallel jobs](https://github.com/rectorphp/rector-src/pull/3815) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
@@ -52,9 +55,6 @@
 - [Drop AttributeKey::SCOPE in FuncCallStaticCallToMethodCallAnalyzer](https://github.com/rectorphp/rector-src/pull/3807) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Drop AttributeKey::SCOPE in ClassRenamer](https://github.com/rectorphp/rector-src/pull/3806) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Drop AttributeKey::SCOPE in FullyQualifyStmtsAnalyzer](https://github.com/rectorphp/rector-src/pull/3805) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Drop AttributeKey::SCOPE in CountableAnalyzer](https://github.com/rectorphp/rector-src/pull/3804) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Drop AttributeKey::SCOPE in CurrentAndParentClassMethodComparator](https://github.com/rectorphp/rector-src/pull/3803) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Don&#39;t neon-decode phpstan configs over and over again](https://github.com/rectorphp/rector-src/pull/3796) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
