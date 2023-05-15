@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Do less file IO in CachedParser](https://github.com/phpstan/phpstan-src/pull/2404) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Remove slow assertReadableFile() check](https://github.com/Roave/BetterReflection/pull/1345) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [Update test expectations](https://github.com/rectorphp/rector-src/pull/3837) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Drop AttributeKey::SCOPE in various classes](https://github.com/rectorphp/rector-src/pull/3836) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [CI: Fix composer unused job](https://github.com/rectorphp/rector-src/pull/3812) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Fix WorkerCommandLineFactoryTest](https://github.com/rectorphp/rector-src/pull/3811) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Drop RectorKernel-&gt;getContainer()](https://github.com/rectorphp/rector-src/pull/3810) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Dump dependency container and re-use it - 35% faster test-suite](https://github.com/rectorphp/rector-src/pull/3809) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
