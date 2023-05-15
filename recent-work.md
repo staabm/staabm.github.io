@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Drop AttributeKey::SCOPE in BreakingVariableRenameGuard](https://github.com/rectorphp/rector-src/pull/3862) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [Drop AttributeKey::SCOPE in AssignAndBinaryMap](https://github.com/rectorphp/rector-src/pull/3861) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Do less file IO in CachedParser](https://github.com/phpstan/phpstan-src/pull/2404) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Remove slow assertReadableFile() check](https://github.com/Roave/BetterReflection/pull/1345) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [Update test expectations](https://github.com/rectorphp/rector-src/pull/3837) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Prevent unnecessary IO](https://github.com/rectorphp/rector-src/pull/3814) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Find slow phpunit tests in CI](https://github.com/rectorphp/rector-src/pull/3813) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [CI: Fix composer unused job](https://github.com/rectorphp/rector-src/pull/3812) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Fix WorkerCommandLineFactoryTest](https://github.com/rectorphp/rector-src/pull/3811) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Drop RectorKernel-&gt;getContainer()](https://github.com/rectorphp/rector-src/pull/3810) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
