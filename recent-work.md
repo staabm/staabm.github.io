@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
-- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
+- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (5 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (6 days ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 week ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove slow assertReadableFile() check](https://github.com/Roave/BetterReflection/pull/1345) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [Update test expectations](https://github.com/rectorphp/rector-src/pull/3837) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Drop AttributeKey::SCOPE in various classes](https://github.com/rectorphp/rector-src/pull/3836) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [ArrayCallableMethodMatcher type fixes](https://github.com/rectorphp/rector-symfony/pull/398) on [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix WorkerCommandLineFactoryTest](https://github.com/rectorphp/rector-src/pull/3811) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Drop RectorKernel-&gt;getContainer()](https://github.com/rectorphp/rector-src/pull/3810) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Dump dependency container and re-use it - 35% faster test-suite](https://github.com/rectorphp/rector-src/pull/3809) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Drop AttributeKey::SCOPE in FuncCallStaticCallToMethodCallAnalyzer](https://github.com/rectorphp/rector-src/pull/3807) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
