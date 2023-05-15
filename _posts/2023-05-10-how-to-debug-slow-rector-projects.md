@@ -69,7 +69,7 @@ Example with [blackfire](https://blackfire.io/) and the path to a slow file:
 blackfire run --ignore-exit-status php vendor/bin/rector -vvv --debug --no-diffs packages/Testing/PHPUnit/AbstractRectorTestCase.php
 ```
 
-If performance analysis is not your thing, feel free to [open am issue on Rector](https://github.com/rectorphp/rector/issues/new/choose) and bring with you all the information you already gathered in the above process.
+If performance analysis is not your thing, feel free to [open an issue on Rector](https://github.com/rectorphp/rector/issues/new/choose) and bring with you all the information you already gathered in the above process.
 Its important you bring all files and configs required to reproduce your performance issue as part of the report.
 
 In case you [support my engagement with a GitHub sponsoring](https://github.com/sponsors/staabm), I can have a look at your performance problem.
