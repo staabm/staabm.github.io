@@ -5,13 +5,13 @@
 
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (today)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (5 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (6 days ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 week ago)
 
 
@@ -43,7 +43,7 @@
 - [Drop AttributeKey::SCOPE in BreakingVariableRenameGuard](https://github.com/rectorphp/rector-src/pull/3862) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Drop AttributeKey::SCOPE in AssignAndBinaryMap](https://github.com/rectorphp/rector-src/pull/3861) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Do less file IO in CachedParser](https://github.com/phpstan/phpstan-src/pull/2404) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Remove slow assertReadableFile() check](https://github.com/Roave/BetterReflection/pull/1345) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
+- [Remove slow `assertReadableFile()` check](https://github.com/Roave/BetterReflection/pull/1345) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [Update test expectations](https://github.com/rectorphp/rector-src/pull/3837) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Drop AttributeKey::SCOPE in various classes](https://github.com/rectorphp/rector-src/pull/3836) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [ArrayCallableMethodMatcher type fixes](https://github.com/rectorphp/rector-symfony/pull/398) on [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (1 day ago)
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.10.0](https://github.com/Roave/BetterReflection/releases/tag/6.10.0) (today)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.5.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.5.0) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA3) (2 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.40](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.40) (4 days ago)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.7](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.7) (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.11.0](https://github.com/vimeo/psalm/releases/tag/5.11.0) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.20.4](https://github.com/phpstan/phpdoc-parser/releases/tag/1.20.4) (1 week ago)
-- [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.0.4](https://github.com/PrestaShop/PrestaShop/releases/tag/8.0.4) (2 weeks ago)
