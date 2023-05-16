@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Micro optimize parseParamTagValue()](https://github.com/phpstan/phpdoc-parser/pull/193) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
 - [Drop AttributeKey::SCOPE in CatchExceptionNameMatchingTypeRector](https://github.com/rectorphp/rector-src/pull/3875) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Drop AttributeKey::SCOPE in PropertyManipulator](https://github.com/rectorphp/rector-src/pull/3874) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Drop AttributeKey::SCOPE in MethodParameterTypeResolver](https://github.com/rectorphp/rector-src/pull/3873) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
@@ -54,7 +55,6 @@
 - [Drop AttributeKey::SCOPE in various classes](https://github.com/rectorphp/rector-src/pull/3836) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [ArrayCallableMethodMatcher type fixes](https://github.com/rectorphp/rector-symfony/pull/398) on [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (2 days ago)
 - [Drop AttributeKey::SCOPE in ArrayCallableMethodMatcher](https://github.com/rectorphp/rector-src/pull/3835) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [[Util] Introduce FileHasher](https://github.com/rectorphp/rector-src/pull/3833) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
