@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Drop AttributeKey::SCOPE in MagicPropertyFetchAnalyzer](https://github.com/rectorphp/rector-src/pull/3868) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Cleanup CachedContainer invalidation](https://github.com/rectorphp/rector-src/pull/3867) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Drop AttributeKey::SCOPE in BreakingVariableRenameGuard](https://github.com/rectorphp/rector-src/pull/3862) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Drop AttributeKey::SCOPE in AssignAndBinaryMap](https://github.com/rectorphp/rector-src/pull/3861) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Define default test-suite](https://github.com/rectorphp/rector-src/pull/3819) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [CI: separate rules-tests in 2 parallel jobs](https://github.com/rectorphp/rector-src/pull/3815) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [Prevent unnecessary IO](https://github.com/rectorphp/rector-src/pull/3814) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
-- [Find slow phpunit tests in CI](https://github.com/rectorphp/rector-src/pull/3813) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
