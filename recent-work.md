@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.2](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.2) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.10.0](https://github.com/Roave/BetterReflection/releases/tag/6.10.0) (1 day ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.5.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.5.0) (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA3) (3 days ago)
@@ -68,4 +69,3 @@
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) - [1.8.5](https://github.com/staabm/annotate-pull-request-from-checkstyle/releases/tag/1.8.5) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.7](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.7) (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.11.0](https://github.com/vimeo/psalm/releases/tag/5.11.0) (1 week ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.20.4](https://github.com/phpstan/phpdoc-parser/releases/tag/1.20.4) (2 weeks ago)
