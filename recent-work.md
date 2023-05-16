@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Drop AttributeKey::SCOPE in MethodParameterTypeResolver](https://github.com/rectorphp/rector-src/pull/3873) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [[Kernel] Make check more explicit](https://github.com/rectorphp/rector-src/pull/3869) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Drop AttributeKey::SCOPE in MagicPropertyFetchAnalyzer](https://github.com/rectorphp/rector-src/pull/3868) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Cleanup CachedContainer invalidation](https://github.com/rectorphp/rector-src/pull/3867) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
@@ -54,7 +55,6 @@
 - [[Util] Introduce FileHasher](https://github.com/rectorphp/rector-src/pull/3833) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Remove useless clear cache](https://github.com/rectorphp/rector-src/pull/3828) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Define default test-suite](https://github.com/rectorphp/rector-src/pull/3819) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [CI: separate rules-tests in 2 parallel jobs](https://github.com/rectorphp/rector-src/pull/3815) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
