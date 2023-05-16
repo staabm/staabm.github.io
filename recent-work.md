@@ -7,12 +7,12 @@
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (6 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 week ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Drop AttributeKey::SCOPE in CatchExceptionNameMatchingTypeRector](https://github.com/rectorphp/rector-src/pull/3875) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [Drop AttributeKey::SCOPE in PropertyManipulator](https://github.com/rectorphp/rector-src/pull/3874) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Drop AttributeKey::SCOPE in MethodParameterTypeResolver](https://github.com/rectorphp/rector-src/pull/3873) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [[Kernel] Make check more explicit](https://github.com/rectorphp/rector-src/pull/3869) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Drop AttributeKey::SCOPE in MagicPropertyFetchAnalyzer](https://github.com/rectorphp/rector-src/pull/3868) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
@@ -53,8 +55,6 @@
 - [ArrayCallableMethodMatcher type fixes](https://github.com/rectorphp/rector-symfony/pull/398) on [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (2 days ago)
 - [Drop AttributeKey::SCOPE in ArrayCallableMethodMatcher](https://github.com/rectorphp/rector-src/pull/3835) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [[Util] Introduce FileHasher](https://github.com/rectorphp/rector-src/pull/3833) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [Remove useless clear cache](https://github.com/rectorphp/rector-src/pull/3828) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Define default test-suite](https://github.com/rectorphp/rector-src/pull/3819) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
