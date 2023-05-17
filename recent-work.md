@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ListTrait: Prevent excessive use of `$lines-&gt;current()`](https://github.com/OskarStark/doctor-rst/pull/1410) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
 - [DirectiveTrait: Prevent excessive use of `$lines-&gt;current()`](https://github.com/OskarStark/doctor-rst/pull/1409) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
 - [`RstParser-&gt;isFootnote()`: Prevent excessive use of `preg_match()`](https://github.com/OskarStark/doctor-rst/pull/1408) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
 - [Perf optimize `Line::isDefaultDirective()`](https://github.com/OskarStark/doctor-rst/pull/1407) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
@@ -54,7 +55,6 @@
 - [Drop AttributeKey::SCOPE in MethodParameterTypeResolver](https://github.com/rectorphp/rector-src/pull/3873) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [[Kernel] Make check more explicit](https://github.com/rectorphp/rector-src/pull/3869) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Drop AttributeKey::SCOPE in MagicPropertyFetchAnalyzer](https://github.com/rectorphp/rector-src/pull/3868) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
-- [Cleanup CachedContainer invalidation](https://github.com/rectorphp/rector-src/pull/3867) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
