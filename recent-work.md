@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Perf optimize Line::isDefaultDirective()](https://github.com/OskarStark/doctor-rst/pull/1407) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
 - [Prevent excessive use of `preg_match()`](https://github.com/OskarStark/doctor-rst/pull/1405) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
 - [Reduce IO in RstAnalyzer](https://github.com/OskarStark/doctor-rst/pull/1404) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
 - [exclude `vendor/` dir from analysis](https://github.com/OskarStark/doctor-rst/pull/1403) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
@@ -54,7 +55,6 @@
 - [Cleanup CachedContainer invalidation](https://github.com/rectorphp/rector-src/pull/3867) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Drop AttributeKey::SCOPE in BreakingVariableRenameGuard](https://github.com/rectorphp/rector-src/pull/3862) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Drop AttributeKey::SCOPE in AssignAndBinaryMap](https://github.com/rectorphp/rector-src/pull/3861) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [Do less file IO in CachedParser](https://github.com/phpstan/phpstan-src/pull/2404) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
