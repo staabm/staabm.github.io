@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 days ago)
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (2 days ago)
@@ -42,7 +42,7 @@
 
 - [DirectiveTrait: Prevent excessive use of `$lines-&gt;current()`](https://github.com/OskarStark/doctor-rst/pull/1409) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
 - [`RstParser-&gt;isFootnote()`: Prevent excessive use of `preg_match()`](https://github.com/OskarStark/doctor-rst/pull/1408) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
-- [Perf optimize Line::isDefaultDirective()](https://github.com/OskarStark/doctor-rst/pull/1407) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
+- [Perf optimize `Line::isDefaultDirective()`](https://github.com/OskarStark/doctor-rst/pull/1407) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
 - [Prevent excessive use of `preg_match()`](https://github.com/OskarStark/doctor-rst/pull/1405) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
 - [Reduce IO in RstAnalyzer](https://github.com/OskarStark/doctor-rst/pull/1404) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
 - [exclude `vendor/` dir from analysis](https://github.com/OskarStark/doctor-rst/pull/1403) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
