@@ -6,8 +6,8 @@
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
-- [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 days ago)
+- [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (2 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [DirectiveTrait: Prevent excessive use of `$lines-&gt;current()`](https://github.com/OskarStark/doctor-rst/pull/1409) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
+- [`RstParser-&gt;isFootnote()`: Prevent excessive use of `preg_match()`](https://github.com/OskarStark/doctor-rst/pull/1408) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
 - [Perf optimize Line::isDefaultDirective()](https://github.com/OskarStark/doctor-rst/pull/1407) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
 - [Prevent excessive use of `preg_match()`](https://github.com/OskarStark/doctor-rst/pull/1405) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
 - [Reduce IO in RstAnalyzer](https://github.com/OskarStark/doctor-rst/pull/1404) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
@@ -53,8 +55,6 @@
 - [[Kernel] Make check more explicit](https://github.com/rectorphp/rector-src/pull/3869) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Drop AttributeKey::SCOPE in MagicPropertyFetchAnalyzer](https://github.com/rectorphp/rector-src/pull/3868) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Cleanup CachedContainer invalidation](https://github.com/rectorphp/rector-src/pull/3867) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
-- [Drop AttributeKey::SCOPE in BreakingVariableRenameGuard](https://github.com/rectorphp/rector-src/pull/3862) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [Drop AttributeKey::SCOPE in AssignAndBinaryMap](https://github.com/rectorphp/rector-src/pull/3861) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
