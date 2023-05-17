@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (2 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
+- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 week ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
-- [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent excessive use of `preg_match()`](https://github.com/OskarStark/doctor-rst/pull/1405) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
+- [Reduce IO in RstAnalyzer](https://github.com/OskarStark/doctor-rst/pull/1404) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
+- [exclude `vendor/` dir from analysis](https://github.com/OskarStark/doctor-rst/pull/1403) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
+- [output currently analyzed filename when running `-vvv`](https://github.com/OskarStark/doctor-rst/pull/1402) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
 - [composer: declare bin](https://github.com/OskarStark/doctor-rst/pull/1401) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
 - [Micro optimize parseParamTagValue()](https://github.com/phpstan/phpdoc-parser/pull/193) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
 - [Drop AttributeKey::SCOPE in CatchExceptionNameMatchingTypeRector](https://github.com/rectorphp/rector-src/pull/3875) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -51,14 +55,11 @@
 - [Drop AttributeKey::SCOPE in BreakingVariableRenameGuard](https://github.com/rectorphp/rector-src/pull/3862) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Drop AttributeKey::SCOPE in AssignAndBinaryMap](https://github.com/rectorphp/rector-src/pull/3861) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Do less file IO in CachedParser](https://github.com/phpstan/phpstan-src/pull/2404) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Remove slow `assertReadableFile()` check](https://github.com/Roave/BetterReflection/pull/1345) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 days ago)
-- [Update test expectations](https://github.com/rectorphp/rector-src/pull/3837) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Drop AttributeKey::SCOPE in various classes](https://github.com/rectorphp/rector-src/pull/3836) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [ArrayCallableMethodMatcher type fixes](https://github.com/rectorphp/rector-symfony/pull/398) on [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.46.1](https://github.com/OskarStark/doctor-rst/releases/tag/1.46.1) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.2](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.2) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.10.0](https://github.com/Roave/BetterReflection/releases/tag/6.10.0) (2 days ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.5.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.5.0) (2 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.15](https://github.com/phpstan/phpstan/releases/tag/1.10.15) (1 week ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) - [1.8.5](https://github.com/staabm/annotate-pull-request-from-checkstyle/releases/tag/1.8.5) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.7](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.7) (1 week ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.11.0](https://github.com/vimeo/psalm/releases/tag/5.11.0) (1 week ago)
