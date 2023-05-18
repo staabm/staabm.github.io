@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 day ago)
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 days ago)
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (3 days ago)
