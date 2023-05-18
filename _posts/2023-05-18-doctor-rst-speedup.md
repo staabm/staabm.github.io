@@ -65,7 +65,7 @@ For a sanity check, I added a memory debug out at the end of the analysis proces
 PHP reports a peak memory of 12MB, so it was not that high.
 At this point I concluded we are likely facing a memory issue in the profiler and reported the issue to the blackfire team.
 
-To get the analysis process running nevertheless, I then to reduce the number of *.rst files to analyse.
+To get the analysis process running nevertheless, I then decided to reduce the number of *.rst files to analyse.
 Therefore I locally deleted *.rst files in the my symfony-docs checkout until blackfire did run without memory issues.
 Its not a perfect situation but we could get at least a first idea of the performance characteristics of the workload.
 
