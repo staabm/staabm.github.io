@@ -89,6 +89,9 @@ These functions are known to be inefficient in PHP - even though with the latest
 
 The profiles show us a memory bottleneck on said calls:
 
+<img width="1140" alt="grafik" src="https://github.com/staabm/staabm.github.io/assets/120441/ad84fef1-8ba7-4916-9b3e-ff9d56de7d73">
+
+
 One experience I had in the past is that in most cases using regular string functions are way more efficient.
 I had a look at all used `->matches(…)` invocation and decided to concentrate on a few simple ones, which can be expressed without regular expressions.
 
