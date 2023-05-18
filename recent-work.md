@@ -17,11 +17,11 @@
 
 #### 📜 My recent blog posts
 
+- [Doctor Rst Speedup](https://staabm.github.io/2023/05/18/doctor-rst-speedup.html) (today)
 - [How To Debug Slow Rector Projects](https://staabm.github.io/2023/05/10/how-to-debug-slow-rector-projects.html) (1 week ago)
 - [Racing Rector](https://staabm.github.io/2023/05/06/racing-rector.html) (1 week ago)
 - [Diff Speeding](https://staabm.github.io/2023/05/01/diff-speeding.html) (2 weeks ago)
 - [Rexfactor Introduction](https://staabm.github.io/2023/04/09/rexfactor-introduction.html) (1 month ago)
-- [Phpstan Analyzable Api Contracts](https://staabm.github.io/2022/12/29/phpstan-analyzable-api-contracts.html) (4 months ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [typo](https://github.com/staabm/staabm.github.io/pull/79) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Create 2023-05-18-doctor-rst-speedup.md](https://github.com/staabm/staabm.github.io/pull/78) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [ListTrait: Prevent excessive use of `$lines-&gt;current()`](https://github.com/OskarStark/doctor-rst/pull/1410) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 day ago)
 - [DirectiveTrait: Prevent excessive use of `$lines-&gt;current()`](https://github.com/OskarStark/doctor-rst/pull/1409) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 day ago)
@@ -54,7 +55,6 @@
 - [Drop AttributeKey::SCOPE in CatchExceptionNameMatchingTypeRector](https://github.com/rectorphp/rector-src/pull/3875) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Drop AttributeKey::SCOPE in PropertyManipulator](https://github.com/rectorphp/rector-src/pull/3874) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Drop AttributeKey::SCOPE in MethodParameterTypeResolver](https://github.com/rectorphp/rector-src/pull/3873) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [[Kernel] Make check more explicit](https://github.com/rectorphp/rector-src/pull/3869) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
