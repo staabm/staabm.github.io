@@ -56,7 +56,7 @@ PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to al
 It's not that unusual that a running a profiler requires more memory on a workload, therefore I raised the php memory limit to 16GB.
 Still I am running in out of memory errors... 🤔
 
-For a sanity check, I added a memory debug out at the end of the analysis process with into the `AnalyzeCommand` and ran it again without blackfire:
+For a sanity check, I added a memory debug out at the end of the analysis process into the `AnalyzeCommand` and ran it again without blackfire:
 
 ```php
     $output->writeln(memory_get_peak_usage(true) / 1024 / 1024 . ' MB');
