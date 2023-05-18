@@ -134,7 +134,7 @@ $ time php bin/doctor-rst analyze ../symfony-docs/ --no-cache
 20.35s user 0.30s system 99% cpu 21.689 total
 ```
 
-It seems we are now able to run the workload ~10 seconds faster then the initial ~30 seconds.
+We are now able to run the workload ~10 seconds faster then the initial ~30 seconds.
 This should reduce wait time when contributing to the symfony-docs.
 
 As always, this improvements were crafted in my freetime. I am not a symfony framework user either.
