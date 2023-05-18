@@ -66,6 +66,8 @@ To get the analysis process running nevertheless, I then to reduce the number of
 Therefore I locally deleted *.rst files in the my symfony-docs checkout until blackfire did run without memory issues.
 Its not a perfect situation but we could get at least a first idea of the performance characteristics of the workload.
 
+<img width="854" alt="grafik" src="https://github.com/staabm/staabm.github.io/assets/120441/e0c8ecc0-0ee4-486e-a071-1ff4b53c7575">
+
 
 ### The findings
 
