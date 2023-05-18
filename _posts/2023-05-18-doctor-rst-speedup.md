@@ -56,7 +56,7 @@ PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to al
 It's not that unusual that a running a profiler requires more memory on a workload, therefore I raised the php memory limit to 16GB.
 Still I am running in out of memory errors... 🤔
 
-For a sanity check, I added a memory debug out at the end of the analysis process with into the `AnalyzeCommand` and ran it again without blackfire:
+For a sanity check, I added a memory debug out at the end of the analysis process into the `AnalyzeCommand` and ran it again without blackfire:
 
 ```php
     $output->writeln(memory_get_peak_usage(true) / 1024 / 1024 . ' MB');
@@ -134,7 +134,7 @@ $ time php bin/doctor-rst analyze ../symfony-docs/ --no-cache
 20.35s user 0.30s system 99% cpu 21.689 total
 ```
 
-It seems we are now able to run the workload ~10 seconds faster, which is a improvent by ~50%.
+We are now able to run the workload ~10 seconds faster then the initial ~30 seconds.
 This should reduce wait time when contributing to the symfony-docs.
 
 As always, this improvements were crafted in my freetime. I am not a symfony framework user either.
