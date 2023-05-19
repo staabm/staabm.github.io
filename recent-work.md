@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.47.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.47.0) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.21.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.21.0) (2 days ago)
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.46.1](https://github.com/OskarStark/doctor-rst/releases/tag/1.46.1) (2 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.2](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.2) (3 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.10.0](https://github.com/Roave/BetterReflection/releases/tag/6.10.0) (4 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA3) (6 days ago)
