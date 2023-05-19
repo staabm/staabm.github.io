@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 day ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (3 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [typo](https://github.com/staabm/staabm.github.io/pull/80) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [typo](https://github.com/staabm/staabm.github.io/pull/79) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [Create 2023-05-18-doctor-rst-speedup.md](https://github.com/staabm/staabm.github.io/pull/78) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [ListTrait: Prevent excessive use of `$lines-&gt;current()`](https://github.com/OskarStark/doctor-rst/pull/1410) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 days ago)
@@ -54,7 +55,6 @@
 - [Micro optimize parseParamTagValue()](https://github.com/phpstan/phpdoc-parser/pull/193) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (3 days ago)
 - [Drop AttributeKey::SCOPE in CatchExceptionNameMatchingTypeRector](https://github.com/rectorphp/rector-src/pull/3875) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Drop AttributeKey::SCOPE in PropertyManipulator](https://github.com/rectorphp/rector-src/pull/3874) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Drop AttributeKey::SCOPE in MethodParameterTypeResolver](https://github.com/rectorphp/rector-src/pull/3873) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
