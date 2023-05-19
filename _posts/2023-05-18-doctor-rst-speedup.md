@@ -18,16 +18,16 @@ Since I have published the last [performance article about Rector](https://staab
 
 > @markusstaab we run OskarStark/doctor-rst on all PRs in symfony/symfony-docs 😃 maybe you will check this package for performance too 😍
 
-He is a member of the [symfony](https://symfony.com/) core team and he is working on the symfony-docs.
+He is a member of the [symfony](https://symfony.com/) core team and is working on the symfony-docs.
 
 ## DOCtor who?
 
 [DOCtor-RST](https://github.com/OskarStark/doctor-rst) is a linter used in the symfony-docs repo to check *.rst files.
-Like other static analysis tool it is scanning the sources at hand and provides feedback about common errors and best practices.
+Like other static analysis tools it is scanning the sources at hand and provides feedback about common errors and best practices.
 
 Disclaimer: I had never used this tool before and also have zero experience with RST file format.
 
-At the time of writing running the linter over the symfony-docs repo takes about 50 seconds in the GitHub Actions workflow.
+At the time of writing running the linter run over the symfony-docs repo takes about 50 seconds in the GitHub Actions workflow.
 Lets run DOCtor-RST version 1.46.0 locally on my mac against symfony-docs@ff62e1203 to get a baseline:
 
 ```
@@ -77,6 +77,7 @@ Its not a perfect situation but we could get at least a first idea of the perfor
 #### reduce IO
 
 As we already saw in previous investigations [reducing IO](https://github.com/OskarStark/doctor-rst/pull/1404) is a good first thing.
+In the following graph you can see a lot of calls to `SplFileInfo->getRealPath()`:
 
 ![grafik](https://github.com/OskarStark/doctor-rst/assets/120441/31e9a44e-e186-4c19-aca2-edcffb068dd7)
 
@@ -92,8 +93,8 @@ The profiles show us a memory bottleneck on said calls:
 <img width="1140" alt="grafik" src="https://github.com/staabm/staabm.github.io/assets/120441/ad84fef1-8ba7-4916-9b3e-ff9d56de7d73">
 
 
-One experience I had in the past is that in most cases using regular string functions are way more efficient.
-I had a look at all used `->matches(…)` invocation and decided to concentrate on a few simple ones, which can be expressed without regular expressions.
+One experience I had in the past is that in most cases using regular string functions is way more efficient.
+I had a look at all used `->matches(…)` invocations and decided to concentrate on a few simple ones, which can be expressed without regular expressions.
 
 <img width="795" alt="grafik" src="https://github.com/OskarStark/doctor-rst/assets/120441/be37dfe0-216f-42dd-b688-b468b189b086">
 
@@ -117,8 +118,8 @@ These yielded another great improvement in memory consumption and a small improv
 
 ----
 
-Even if these optimizations were focused on memory oftentimes it turns out they also improve runtime performance,
-because PHP needs to handle huge amounts of data in memory and therefore this managment results in slower executed scripts.
+Even if these optimizations were focused on memory oftentimes it turns out they also improve runtime performance.
+PHP needs to handle huge amounts of data in memory and therefore this managment results in slower executed scripts.
 Also garbage collection needs to be heavily involved which takes time to track the memory.
 
 I did [a few more performance oriented pull requests](https://github.com/OskarStark/doctor-rst/pulls?q=is%3Apr++sort%3Aupdated-desc+author%3Astaabm+label%3APerformance+) but nothing of big interesst which needs further explaination.
