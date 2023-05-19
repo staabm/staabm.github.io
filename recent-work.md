@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Move method call out of hot loop](https://github.com/OskarStark/doctor-rst/pull/1413) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
+- [Perf optimize `Line::isDirective()`](https://github.com/OskarStark/doctor-rst/pull/1412) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
 - [Enforce magic signatures](https://github.com/phpstan/phpstan-src/pull/2409) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [typo](https://github.com/staabm/staabm.github.io/pull/80) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [typo](https://github.com/staabm/staabm.github.io/pull/79) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
@@ -53,8 +55,6 @@
 - [exclude `vendor/` dir from analysis](https://github.com/OskarStark/doctor-rst/pull/1403) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 days ago)
 - [output currently analyzed filename when running `-vvv`](https://github.com/OskarStark/doctor-rst/pull/1402) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 days ago)
 - [composer: declare bin](https://github.com/OskarStark/doctor-rst/pull/1401) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 days ago)
-- [Micro optimize parseParamTagValue()](https://github.com/phpstan/phpdoc-parser/pull/193) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (3 days ago)
-- [Drop AttributeKey::SCOPE in CatchExceptionNameMatchingTypeRector](https://github.com/rectorphp/rector-src/pull/3875) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
