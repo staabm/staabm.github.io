@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Run integration tests on PHP 8.2](https://github.com/phpstan/phpstan-src/pull/2413) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Run Rules-Tests in 2 parallel CI jobs](https://github.com/phpstan/phpstan-src/pull/2412) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Disable result-cache in LevelsTestCase](https://github.com/phpstan/phpstan-src/pull/2411) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Move method call out of hot loop](https://github.com/OskarStark/doctor-rst/pull/1413) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 day ago)
 - [Perf optimize `Line::isDirective()`](https://github.com/OskarStark/doctor-rst/pull/1412) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 day ago)
 - [Enforce magic signatures](https://github.com/phpstan/phpstan-src/pull/2409) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -52,9 +55,6 @@
 - [Perf optimize `Line::isDefaultDirective()`](https://github.com/OskarStark/doctor-rst/pull/1407) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (3 days ago)
 - [Prevent excessive use of `preg_match()`](https://github.com/OskarStark/doctor-rst/pull/1405) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (3 days ago)
 - [Reduce IO in RstAnalyzer](https://github.com/OskarStark/doctor-rst/pull/1404) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (3 days ago)
-- [exclude `vendor/` dir from analysis](https://github.com/OskarStark/doctor-rst/pull/1403) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (3 days ago)
-- [output currently analyzed filename when running `-vvv`](https://github.com/OskarStark/doctor-rst/pull/1402) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (3 days ago)
-- [composer: declare bin](https://github.com/OskarStark/doctor-rst/pull/1401) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
