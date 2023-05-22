@@ -27,7 +27,7 @@ Like other static analysis tools it is scanning the sources at hand and provides
 
 Disclaimer: I had never used this tool before and also have zero experience with RST file format.
 
-At the time of writing running the linter run over the symfony-docs repo takes about 50 seconds in the GitHub Actions workflow.
+At the time of writing running the linter over the symfony-docs repo takes about 50 seconds in the GitHub Actions workflow.
 Lets run DOCtor-RST version 1.46.0 locally on my mac against symfony-docs@ff62e1203 to get a baseline:
 
 ```
