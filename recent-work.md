@@ -5,8 +5,8 @@
 
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (6 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix `PrivatesAccessor: use selectFromArgs() instead`](https://github.com/rectorphp/rector-src/pull/3923) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [typo](https://github.com/staabm/staabm.github.io/pull/81) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/505) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [Fixed matching directives ending in newline](https://github.com/OskarStark/doctor-rst/pull/1414) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 day ago)
@@ -54,7 +55,6 @@
 - [Create 2023-05-18-doctor-rst-speedup.md](https://github.com/staabm/staabm.github.io/pull/78) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 - [ListTrait: Prevent excessive use of `$lines-&gt;current()`](https://github.com/OskarStark/doctor-rst/pull/1410) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (5 days ago)
 - [DirectiveTrait: Prevent excessive use of `$lines-&gt;current()`](https://github.com/OskarStark/doctor-rst/pull/1409) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (5 days ago)
-- [`RstParser-&gt;isFootnote()`: Prevent excessive use of `preg_match()`](https://github.com/OskarStark/doctor-rst/pull/1408) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
