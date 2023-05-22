@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (3 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (6 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.47.1](https://github.com/OskarStark/doctor-rst/releases/tag/1.47.1) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.114](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.114) (1 day ago)
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.47.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.47.0) (3 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.21.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.21.0) (5 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.2](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.2) (6 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.10.0](https://github.com/Roave/BetterReflection/releases/tag/6.10.0) (1 week ago)
