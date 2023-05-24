@@ -17,5 +17,5 @@ If one of those open source projects is critical for your business, [please cons
 
 ## Talks
 
-<a href="https://staabm.github.io/talks/phpstan-dba@phpugffm/">phpstan-dba - check your sql queries like a boss</a>
+<a href="/talks/phpstan-dba@phpugffm/">phpstan-dba - check your sql queries like a boss</a>
 <br />May 2023, at PHP Usergroup in Frankfurt Main (Germany).
