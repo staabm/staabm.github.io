@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added phpstan-dba@phpugffm slides](https://github.com/staabm/staabm.github.io/pull/82) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Fix `PrivatesAccessor: use selectFromArgs() instead`](https://github.com/rectorphp/rector-src/pull/3923) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [typo](https://github.com/staabm/staabm.github.io/pull/81) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [Prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/505) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
@@ -54,7 +55,6 @@
 - [typo](https://github.com/staabm/staabm.github.io/pull/79) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 - [Create 2023-05-18-doctor-rst-speedup.md](https://github.com/staabm/staabm.github.io/pull/78) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 - [ListTrait: Prevent excessive use of `$lines-&gt;current()`](https://github.com/OskarStark/doctor-rst/pull/1410) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 week ago)
-- [DirectiveTrait: Prevent excessive use of `$lines-&gt;current()`](https://github.com/OskarStark/doctor-rst/pull/1409) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
