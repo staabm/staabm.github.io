@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [typo](https://github.com/staabm/staabm.github.io/pull/83) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Added phpstan-dba@phpugffm slides](https://github.com/staabm/staabm.github.io/pull/82) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Fix `PrivatesAccessor: use selectFromArgs() instead`](https://github.com/rectorphp/rector-src/pull/3923) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [typo](https://github.com/staabm/staabm.github.io/pull/81) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
@@ -54,7 +55,6 @@
 - [typo](https://github.com/staabm/staabm.github.io/pull/80) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 - [typo](https://github.com/staabm/staabm.github.io/pull/79) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 - [Create 2023-05-18-doctor-rst-speedup.md](https://github.com/staabm/staabm.github.io/pull/78) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
-- [ListTrait: Prevent excessive use of `$lines-&gt;current()`](https://github.com/OskarStark/doctor-rst/pull/1410) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
