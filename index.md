@@ -13,3 +13,9 @@ Turns out I am one of the top contributors💫 to [PHPStan](https://github.com/p
 If one of those open source projects is critical for your business, [please consider supporting my work with your sponsoring 💕](https://github.com/sponsors/staabm)
 
 <a rel="me" href="https://phpc.social/@markusstaab" style="display: none">Mastodon</a>
+
+
+## Talks
+
+<a href="/talks/phpstan-dba@phpugffm/">phpstan-dba - check your sql queries like a boss</a>
+<br />May 2023, at PHP Usergroup in Frankfurt Main (Germany).
