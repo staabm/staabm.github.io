@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (3 days ago)
@@ -12,7 +13,6 @@
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (2 weeks ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
