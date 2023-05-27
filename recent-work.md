@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Call `SuperGlobalToken::allowedNames()` just once](https://github.com/qossmic/deptrac/pull/1198) on [qossmic/deptrac](https://github.com/qossmic/deptrac) (today)
 - [Link to talks](https://github.com/staabm/staabm.github.io/pull/85) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
 - [regenerate talk for subroute](https://github.com/staabm/staabm.github.io/pull/84) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
 - [typo](https://github.com/staabm/staabm.github.io/pull/83) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
@@ -54,7 +55,6 @@
 - [Move method call out of hot loop](https://github.com/OskarStark/doctor-rst/pull/1413) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 week ago)
 - [Perf optimize `Line::isDirective()`](https://github.com/OskarStark/doctor-rst/pull/1412) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 week ago)
 - [Enforce magic signatures](https://github.com/phpstan/phpstan-src/pull/2409) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [typo](https://github.com/staabm/staabm.github.io/pull/80) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
