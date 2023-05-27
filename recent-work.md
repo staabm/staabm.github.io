@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) - [v5.4.24](https://github.com/symfony/symfony/releases/tag/v5.4.24) (today)
+- [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.0-RC2](https://github.com/symfony/symfony/releases/tag/v6.3.0-RC2) (today)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.1.0-rc.1](https://github.com/PrestaShop/PrestaShop/releases/tag/8.1.0-rc.1) (2 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.5.7](https://github.com/composer/composer/releases/tag/2.5.7) (3 days ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - [1.3.1](https://github.com/phpstan/extension-installer/releases/tag/1.3.1) (3 days ago)
