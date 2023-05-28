@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Static methods are no longer callable](https://github.com/phpstan/phpstan-src/pull/2420) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent excessive php-doc parsing in FileReferenceVisitor](https://github.com/qossmic/deptrac/pull/1199) on [qossmic/deptrac](https://github.com/qossmic/deptrac) (1 day ago)
 - [Call `SuperGlobalToken::allowedNames()` just once](https://github.com/qossmic/deptrac/pull/1198) on [qossmic/deptrac](https://github.com/qossmic/deptrac) (1 day ago)
 - [Link to talks](https://github.com/staabm/staabm.github.io/pull/85) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
@@ -54,7 +55,6 @@
 - [Run Rules-Tests in 2 parallel CI jobs](https://github.com/phpstan/phpstan-src/pull/2412) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Disable result-cache in LevelsTestCase](https://github.com/phpstan/phpstan-src/pull/2411) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Move method call out of hot loop](https://github.com/OskarStark/doctor-rst/pull/1413) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 week ago)
-- [Perf optimize `Line::isDirective()`](https://github.com/OskarStark/doctor-rst/pull/1412) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
