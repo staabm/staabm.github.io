@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.21.2](https://github.com/phpstan/phpdoc-parser/releases/tag/1.21.2) (today)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.21.3](https://github.com/phpstan/phpdoc-parser/releases/tag/1.21.3) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.13](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.13) (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.0-RC2](https://github.com/symfony/symfony/releases/tag/v6.3.0-RC2) (2 days ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.1.0-rc.1](https://github.com/PrestaShop/PrestaShop/releases/tag/8.1.0-rc.1) (4 days ago)
