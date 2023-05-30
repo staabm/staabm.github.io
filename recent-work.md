@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fixed typo in ConstantTest](https://github.com/vimeo/psalm/pull/9835) on [vimeo/psalm](https://github.com/vimeo/psalm) (today)
 - [Static methods are no longer callable](https://github.com/phpstan/phpstan-src/pull/2420) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Prevent excessive php-doc parsing in FileReferenceVisitor](https://github.com/qossmic/deptrac/pull/1199) on [qossmic/deptrac](https://github.com/qossmic/deptrac) (3 days ago)
 - [Call `SuperGlobalToken::allowedNames()` just once](https://github.com/qossmic/deptrac/pull/1198) on [qossmic/deptrac](https://github.com/qossmic/deptrac) (3 days ago)
@@ -54,7 +55,6 @@
 - [Run integration tests on PHP 8.2](https://github.com/phpstan/phpstan-src/pull/2413) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Run Rules-Tests in 2 parallel CI jobs](https://github.com/phpstan/phpstan-src/pull/2412) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Disable result-cache in LevelsTestCase](https://github.com/phpstan/phpstan-src/pull/2411) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Move method call out of hot loop](https://github.com/OskarStark/doctor-rst/pull/1413) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
