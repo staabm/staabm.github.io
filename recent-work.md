@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 week ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 weeks ago)
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (2 weeks ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 weeks ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
-- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.0](https://github.com/symfony/symfony/releases/tag/v6.3.0) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.21.3](https://github.com/phpstan/phpdoc-parser/releases/tag/1.21.3) (1 day ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.13](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.13) (2 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.0-RC2](https://github.com/symfony/symfony/releases/tag/v6.3.0-RC2) (3 days ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.1.0-rc.1](https://github.com/PrestaShop/PrestaShop/releases/tag/8.1.0-rc.1) (5 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.5.7](https://github.com/composer/composer/releases/tag/2.5.7) (6 days ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - [1.3.1](https://github.com/phpstan/extension-installer/releases/tag/1.3.1) (6 days ago)
