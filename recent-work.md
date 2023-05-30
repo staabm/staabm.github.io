@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 weeks ago)
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (2 weeks ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (2 weeks ago)
@@ -26,8 +26,8 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
-- [pleo-io](https://github.com/pleo-io) (6 days ago)
-- [DaveLiddament](https://github.com/DaveLiddament) (6 days ago)
+- [pleo-io](https://github.com/pleo-io) (1 week ago)
+- [DaveLiddament](https://github.com/DaveLiddament) (1 week ago)
 - [kamil-tekiela](https://github.com/kamil-tekiela) (2 weeks ago)
 - [SecuMailer](https://github.com/SecuMailer) (3 weeks ago)
 - [bluehorndigital](https://github.com/bluehorndigital) (3 weeks ago)
@@ -40,13 +40,13 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Static methods are no longer callable](https://github.com/phpstan/phpstan-src/pull/2420) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Prevent excessive php-doc parsing in FileReferenceVisitor](https://github.com/qossmic/deptrac/pull/1199) on [qossmic/deptrac](https://github.com/qossmic/deptrac) (2 days ago)
-- [Call `SuperGlobalToken::allowedNames()` just once](https://github.com/qossmic/deptrac/pull/1198) on [qossmic/deptrac](https://github.com/qossmic/deptrac) (2 days ago)
-- [Link to talks](https://github.com/staabm/staabm.github.io/pull/85) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
-- [regenerate talk for subroute](https://github.com/staabm/staabm.github.io/pull/84) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
-- [typo](https://github.com/staabm/staabm.github.io/pull/83) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
-- [Added phpstan-dba@phpugffm slides](https://github.com/staabm/staabm.github.io/pull/82) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
+- [Static methods are no longer callable](https://github.com/phpstan/phpstan-src/pull/2420) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Prevent excessive php-doc parsing in FileReferenceVisitor](https://github.com/qossmic/deptrac/pull/1199) on [qossmic/deptrac](https://github.com/qossmic/deptrac) (3 days ago)
+- [Call `SuperGlobalToken::allowedNames()` just once](https://github.com/qossmic/deptrac/pull/1198) on [qossmic/deptrac](https://github.com/qossmic/deptrac) (3 days ago)
+- [Link to talks](https://github.com/staabm/staabm.github.io/pull/85) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
+- [regenerate talk for subroute](https://github.com/staabm/staabm.github.io/pull/84) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
+- [typo](https://github.com/staabm/staabm.github.io/pull/83) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
+- [Added phpstan-dba@phpugffm slides](https://github.com/staabm/staabm.github.io/pull/82) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 - [Fix `PrivatesAccessor: use selectFromArgs() instead`](https://github.com/rectorphp/rector-src/pull/3923) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [typo](https://github.com/staabm/staabm.github.io/pull/81) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [Prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/505) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
@@ -59,12 +59,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.21.3](https://github.com/phpstan/phpdoc-parser/releases/tag/1.21.3) (today)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.13](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.13) (1 day ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.0-RC2](https://github.com/symfony/symfony/releases/tag/v6.3.0-RC2) (2 days ago)
-- [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.1.0-rc.1](https://github.com/PrestaShop/PrestaShop/releases/tag/8.1.0-rc.1) (4 days ago)
-- [composer/composer](https://github.com/composer/composer) - [2.5.7](https://github.com/composer/composer/releases/tag/2.5.7) (5 days ago)
-- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - [1.3.1](https://github.com/phpstan/extension-installer/releases/tag/1.3.1) (5 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.21.3](https://github.com/phpstan/phpdoc-parser/releases/tag/1.21.3) (1 day ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.13](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.13) (2 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.0-RC2](https://github.com/symfony/symfony/releases/tag/v6.3.0-RC2) (3 days ago)
+- [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.1.0-rc.1](https://github.com/PrestaShop/PrestaShop/releases/tag/8.1.0-rc.1) (5 days ago)
+- [composer/composer](https://github.com/composer/composer) - [2.5.7](https://github.com/composer/composer/releases/tag/2.5.7) (6 days ago)
+- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - [1.3.1](https://github.com/phpstan/extension-installer/releases/tag/1.3.1) (6 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.12.0](https://github.com/vimeo/psalm/releases/tag/5.12.0) (1 week ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.17.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.17.0) (1 week ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.47.1](https://github.com/OskarStark/doctor-rst/releases/tag/1.47.1) (1 week ago)
