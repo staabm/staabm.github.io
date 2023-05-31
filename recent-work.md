@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [`error_log` errors with `message_type=2`](https://github.com/phpstan/phpstan-src/pull/2428) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fixed typo in ConstantTest](https://github.com/vimeo/psalm/pull/9835) on [vimeo/psalm](https://github.com/vimeo/psalm) (1 day ago)
 - [Static methods are no longer callable](https://github.com/phpstan/phpstan-src/pull/2420) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Prevent excessive php-doc parsing in FileReferenceVisitor](https://github.com/qossmic/deptrac/pull/1199) on [qossmic/deptrac](https://github.com/qossmic/deptrac) (4 days ago)
@@ -54,7 +55,6 @@
 - [Fixed matching directives ending in newline](https://github.com/OskarStark/doctor-rst/pull/1414) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 week ago)
 - [Run integration tests on PHP 8.2](https://github.com/phpstan/phpstan-src/pull/2413) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Run Rules-Tests in 2 parallel CI jobs](https://github.com/phpstan/phpstan-src/pull/2412) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Disable result-cache in LevelsTestCase](https://github.com/phpstan/phpstan-src/pull/2411) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
