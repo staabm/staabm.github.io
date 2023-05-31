@@ -32,10 +32,10 @@
 - [SecuMailer](https://github.com/SecuMailer) (3 weeks ago)
 - [bluehorndigital](https://github.com/bluehorndigital) (3 weeks ago)
 - [drupol](https://github.com/drupol) (3 weeks ago)
-- [icanhazstring](https://github.com/icanhazstring) (1 month ago)
 - [CapnFelix](https://github.com/CapnFelix) (1 month ago)
 - [iluuu1994](https://github.com/iluuu1994) (1 month ago)
 - [simonsinus](https://github.com/simonsinus) (2 months ago)
+- [omphteliba](https://github.com/omphteliba) (2 months ago)
 
 
 #### 🔨 My recent Pull Requests
