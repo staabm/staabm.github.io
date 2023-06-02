@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) (3 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 week ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (2 weeks ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Allow running rexfactor on project AddOn](https://github.com/FriendsOfREDAXO/rexfactor/pull/85) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [`error_log` errors with `message_type=2`](https://github.com/phpstan/phpstan-src/pull/2428) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fixed typo in ConstantTest](https://github.com/vimeo/psalm/pull/9835) on [vimeo/psalm](https://github.com/vimeo/psalm) (3 days ago)
 - [Static methods are no longer callable](https://github.com/phpstan/phpstan-src/pull/2420) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
@@ -54,7 +55,6 @@
 - [Prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/505) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [Fixed matching directives ending in newline](https://github.com/OskarStark/doctor-rst/pull/1414) on [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 week ago)
 - [Run integration tests on PHP 8.2](https://github.com/phpstan/phpstan-src/pull/2413) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Run Rules-Tests in 2 parallel CI jobs](https://github.com/phpstan/phpstan-src/pull/2412) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
