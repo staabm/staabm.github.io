@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
-- [qossmic/deptrac](https://github.com/qossmic/deptrac) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) (3 days ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
+- [qossmic/deptrac](https://github.com/qossmic/deptrac) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [vimeo/psalm](https://github.com/vimeo/psalm) (4 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 week ago)
@@ -19,7 +19,7 @@
 
 - [Doctor Rst Speedup](https://staabm.github.io/2023/05/18/doctor-rst-speedup.html) (2 weeks ago)
 - [How To Debug Slow Rector Projects](https://staabm.github.io/2023/05/10/how-to-debug-slow-rector-projects.html) (3 weeks ago)
-- [Racing Rector](https://staabm.github.io/2023/05/06/racing-rector.html) (3 weeks ago)
+- [Racing Rector](https://staabm.github.io/2023/05/06/racing-rector.html) (4 weeks ago)
 - [Diff Speeding](https://staabm.github.io/2023/05/01/diff-speeding.html) (1 month ago)
 - [Rexfactor Introduction](https://staabm.github.io/2023/04/09/rexfactor-introduction.html) (1 month ago)
 
@@ -40,14 +40,14 @@
 
 #### 🔨 My recent Pull Requests
 
-- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/87) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
-- [Support skip/unskip of rector rules](https://github.com/FriendsOfREDAXO/rexfactor/pull/86) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
-- [Allow running rexfactor on project AddOn](https://github.com/FriendsOfREDAXO/rexfactor/pull/85) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
-- [`error_log` errors with `message_type=2`](https://github.com/phpstan/phpstan-src/pull/2428) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Fixed typo in ConstantTest](https://github.com/vimeo/psalm/pull/9835) on [vimeo/psalm](https://github.com/vimeo/psalm) (3 days ago)
-- [Static methods are no longer callable](https://github.com/phpstan/phpstan-src/pull/2420) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Prevent excessive php-doc parsing in FileReferenceVisitor](https://github.com/qossmic/deptrac/pull/1199) on [qossmic/deptrac](https://github.com/qossmic/deptrac) (6 days ago)
-- [Call `SuperGlobalToken::allowedNames()` just once](https://github.com/qossmic/deptrac/pull/1198) on [qossmic/deptrac](https://github.com/qossmic/deptrac) (6 days ago)
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/87) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
+- [Support skip/unskip of rector rules](https://github.com/FriendsOfREDAXO/rexfactor/pull/86) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
+- [Allow running rexfactor on project AddOn](https://github.com/FriendsOfREDAXO/rexfactor/pull/85) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
+- [`error_log` errors with `message_type=2`](https://github.com/phpstan/phpstan-src/pull/2428) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Fixed typo in ConstantTest](https://github.com/vimeo/psalm/pull/9835) on [vimeo/psalm](https://github.com/vimeo/psalm) (4 days ago)
+- [Static methods are no longer callable](https://github.com/phpstan/phpstan-src/pull/2420) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Prevent excessive php-doc parsing in FileReferenceVisitor](https://github.com/qossmic/deptrac/pull/1199) on [qossmic/deptrac](https://github.com/qossmic/deptrac) (1 week ago)
+- [Call `SuperGlobalToken::allowedNames()` just once](https://github.com/qossmic/deptrac/pull/1198) on [qossmic/deptrac](https://github.com/qossmic/deptrac) (1 week ago)
 - [Link to talks](https://github.com/staabm/staabm.github.io/pull/85) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [regenerate talk for subroute](https://github.com/staabm/staabm.github.io/pull/84) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [typo](https://github.com/staabm/staabm.github.io/pull/83) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.8](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.8) (today)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.22.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.22.0) (1 day ago)
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.47.2](https://github.com/OskarStark/doctor-rst/releases/tag/1.47.2) (1 day ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.0](https://github.com/symfony/symfony/releases/tag/v6.3.0) (3 days ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.13](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.13) (5 days ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.8](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.8) (1 day ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.22.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.22.0) (2 days ago)
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.47.2](https://github.com/OskarStark/doctor-rst/releases/tag/1.47.2) (2 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.0](https://github.com/symfony/symfony/releases/tag/v6.3.0) (4 days ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.13](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.13) (6 days ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.1.0-rc.1](https://github.com/PrestaShop/PrestaShop/releases/tag/8.1.0-rc.1) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - [2.5.7](https://github.com/composer/composer/releases/tag/2.5.7) (1 week ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - [1.3.1](https://github.com/phpstan/extension-installer/releases/tag/1.3.1) (1 week ago)
