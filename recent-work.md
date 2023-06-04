@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify DowngradeThrowableTypeDeclarationRector](https://github.com/rectorphp/rector-downgrade-php/pull/88) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (today)
+- [Drop AttributeKey::SCOPE in ReflectionResolver](https://github.com/rectorphp/rector-downgrade-php/pull/87) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (today)
+- [Drop AttributeKey::SCOPE in ReflectionResolver](https://github.com/rectorphp/rector-src/pull/4068) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/87) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
 - [Support skip/unskip of rector rules](https://github.com/FriendsOfREDAXO/rexfactor/pull/86) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
 - [Allow running rexfactor on project AddOn](https://github.com/FriendsOfREDAXO/rexfactor/pull/85) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
@@ -52,9 +55,6 @@
 - [regenerate talk for subroute](https://github.com/staabm/staabm.github.io/pull/84) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [typo](https://github.com/staabm/staabm.github.io/pull/83) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [Added phpstan-dba@phpugffm slides](https://github.com/staabm/staabm.github.io/pull/82) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
-- [Fix `PrivatesAccessor: use selectFromArgs() instead`](https://github.com/rectorphp/rector-src/pull/3923) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [typo](https://github.com/staabm/staabm.github.io/pull/81) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
-- [Prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/505) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
