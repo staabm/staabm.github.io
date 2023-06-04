@@ -9,10 +9,10 @@
 - [vimeo/psalm](https://github.com/vimeo/psalm) (5 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
-- [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (2 weeks ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
