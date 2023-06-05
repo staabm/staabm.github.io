@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) (6 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/511) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Simplify DowngradeThrowableTypeDeclarationRector](https://github.com/rectorphp/rector-downgrade-php/pull/88) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (1 day ago)
 - [Drop AttributeKey::SCOPE in ReflectionResolver](https://github.com/rectorphp/rector-downgrade-php/pull/87) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (1 day ago)
 - [Drop AttributeKey::SCOPE in ReflectionResolver](https://github.com/rectorphp/rector-src/pull/4068) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -54,11 +55,11 @@
 - [Link to talks](https://github.com/staabm/staabm.github.io/pull/85) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [regenerate talk for subroute](https://github.com/staabm/staabm.github.io/pull/84) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [typo](https://github.com/staabm/staabm.github.io/pull/83) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
-- [Added phpstan-dba@phpugffm slides](https://github.com/staabm/staabm.github.io/pull/82) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.115](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.115) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.16](https://github.com/phpstan/phpstan/releases/tag/1.10.16) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.8](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.8) (3 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.22.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.22.0) (4 days ago)
@@ -68,4 +69,3 @@
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.1.0-rc.1](https://github.com/PrestaShop/PrestaShop/releases/tag/8.1.0-rc.1) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) - [2.5.7](https://github.com/composer/composer/releases/tag/2.5.7) (1 week ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - [1.3.1](https://github.com/phpstan/extension-installer/releases/tag/1.3.1) (1 week ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.12.0](https://github.com/vimeo/psalm/releases/tag/5.12.0) (2 weeks ago)
