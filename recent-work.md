@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added failling test for bug 9391](https://github.com/phpstan/phpstan-src/pull/2435) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/511) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Simplify DowngradeThrowableTypeDeclarationRector](https://github.com/rectorphp/rector-downgrade-php/pull/88) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (1 day ago)
 - [Drop AttributeKey::SCOPE in ReflectionResolver](https://github.com/rectorphp/rector-downgrade-php/pull/87) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (1 day ago)
@@ -54,7 +55,6 @@
 - [Call `SuperGlobalToken::allowedNames()` just once](https://github.com/qossmic/deptrac/pull/1198) on [qossmic/deptrac](https://github.com/qossmic/deptrac) (1 week ago)
 - [Link to talks](https://github.com/staabm/staabm.github.io/pull/85) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [regenerate talk for subroute](https://github.com/staabm/staabm.github.io/pull/84) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
-- [typo](https://github.com/staabm/staabm.github.io/pull/83) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
