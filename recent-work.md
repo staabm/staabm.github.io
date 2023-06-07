@@ -4,7 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (5 days ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) (6 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/513) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Fix param-type specification interferes with root-expression types](https://github.com/phpstan/phpstan-src/pull/2439) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [More precise `getimagesize*` return type](https://github.com/phpstan/phpstan-src/pull/2438) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [implement gettype() return type extension](https://github.com/phpstan/phpstan-src/pull/2437) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,13 +55,12 @@
 - [`error_log` errors with `message_type=2`](https://github.com/phpstan/phpstan-src/pull/2428) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fixed typo in ConstantTest](https://github.com/vimeo/psalm/pull/9835) on [vimeo/psalm](https://github.com/vimeo/psalm) (1 week ago)
 - [Static methods are no longer callable](https://github.com/phpstan/phpstan-src/pull/2420) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Prevent excessive php-doc parsing in FileReferenceVisitor](https://github.com/qossmic/deptrac/pull/1199) on [qossmic/deptrac](https://github.com/qossmic/deptrac) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.116](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.116) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.17](https://github.com/phpstan/phpstan/releases/tag/1.10.17) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.115](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.115) (2 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.8](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.8) (5 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.22.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.22.0) (6 days ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.47.2](https://github.com/OskarStark/doctor-rst/releases/tag/1.47.2) (6 days ago)
