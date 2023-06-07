@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix param-type specification interferes with root-expression types](https://github.com/phpstan/phpstan-src/pull/2439) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [More precise `getimagesize*` return type](https://github.com/phpstan/phpstan-src/pull/2438) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [implement gettype() return type extension](https://github.com/phpstan/phpstan-src/pull/2437) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Added failling test for bug 9391](https://github.com/phpstan/phpstan-src/pull/2435) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Fixed typo in ConstantTest](https://github.com/vimeo/psalm/pull/9835) on [vimeo/psalm](https://github.com/vimeo/psalm) (1 week ago)
 - [Static methods are no longer callable](https://github.com/phpstan/phpstan-src/pull/2420) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Prevent excessive php-doc parsing in FileReferenceVisitor](https://github.com/qossmic/deptrac/pull/1199) on [qossmic/deptrac](https://github.com/qossmic/deptrac) (1 week ago)
-- [Call `SuperGlobalToken::allowedNames()` just once](https://github.com/qossmic/deptrac/pull/1198) on [qossmic/deptrac](https://github.com/qossmic/deptrac) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
