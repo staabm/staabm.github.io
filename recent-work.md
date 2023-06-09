@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Drop AttributeKey::SCOPE in NodeTypeResolver&#39;s](https://github.com/rectorphp/rector-src/pull/4146) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Drop AttributeKey::SCOPE in ClassMethodReturnTypeOverrideGuard](https://github.com/rectorphp/rector-src/pull/4144) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Drop AttributeKey::SCOPE in RemoveUnusedVariableAssignRector](https://github.com/rectorphp/rector-src/pull/4141) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Drop AttributeKey::SCOPE in PrivatizeFinalClassMethodRector](https://github.com/rectorphp/rector-src/pull/4140) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
@@ -54,7 +55,6 @@
 - [Added failling test for bug 9391](https://github.com/phpstan/phpstan-src/pull/2435) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/511) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [Simplify DowngradeThrowableTypeDeclarationRector](https://github.com/rectorphp/rector-downgrade-php/pull/88) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (5 days ago)
-- [Drop AttributeKey::SCOPE in ReflectionResolver](https://github.com/rectorphp/rector-downgrade-php/pull/87) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
