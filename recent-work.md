@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (6 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
@@ -18,7 +18,7 @@
 #### 📜 My recent blog posts
 
 - [Doctor Rst Speedup](https://staabm.github.io/2023/05/18/doctor-rst-speedup.html) (3 weeks ago)
-- [How To Debug Slow Rector Projects](https://staabm.github.io/2023/05/10/how-to-debug-slow-rector-projects.html) (4 weeks ago)
+- [How To Debug Slow Rector Projects](https://staabm.github.io/2023/05/10/how-to-debug-slow-rector-projects.html) (1 month ago)
 - [Racing Rector](https://staabm.github.io/2023/05/06/racing-rector.html) (1 month ago)
 - [Diff Speeding](https://staabm.github.io/2023/05/01/diff-speeding.html) (1 month ago)
 - [Rexfactor Introduction](https://staabm.github.io/2023/04/09/rexfactor-introduction.html) (2 months ago)
@@ -40,28 +40,28 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix int-mask-of to work well with operations on the int mask](https://github.com/phpstan/phpstan-src/pull/2441) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/513) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [Fix param-type specification interferes with root-expression types](https://github.com/phpstan/phpstan-src/pull/2439) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [More precise `getimagesize*` return type](https://github.com/phpstan/phpstan-src/pull/2438) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [implement gettype() return type extension](https://github.com/phpstan/phpstan-src/pull/2437) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Added failling test for bug 9391](https://github.com/phpstan/phpstan-src/pull/2435) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/511) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [Simplify DowngradeThrowableTypeDeclarationRector](https://github.com/rectorphp/rector-downgrade-php/pull/88) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (4 days ago)
-- [Drop AttributeKey::SCOPE in ReflectionResolver](https://github.com/rectorphp/rector-downgrade-php/pull/87) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (4 days ago)
-- [Drop AttributeKey::SCOPE in ReflectionResolver](https://github.com/rectorphp/rector-src/pull/4068) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
-- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/87) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (6 days ago)
-- [Support skip/unskip of rector rules](https://github.com/FriendsOfREDAXO/rexfactor/pull/86) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (6 days ago)
-- [Allow running rexfactor on project AddOn](https://github.com/FriendsOfREDAXO/rexfactor/pull/85) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (6 days ago)
+- [Fix int-mask-of to work well with operations on the int mask](https://github.com/phpstan/phpstan-src/pull/2441) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/513) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [Fix param-type specification interferes with root-expression types](https://github.com/phpstan/phpstan-src/pull/2439) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [More precise `getimagesize*` return type](https://github.com/phpstan/phpstan-src/pull/2438) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [implement gettype() return type extension](https://github.com/phpstan/phpstan-src/pull/2437) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Added failling test for bug 9391](https://github.com/phpstan/phpstan-src/pull/2435) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/511) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
+- [Simplify DowngradeThrowableTypeDeclarationRector](https://github.com/rectorphp/rector-downgrade-php/pull/88) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (5 days ago)
+- [Drop AttributeKey::SCOPE in ReflectionResolver](https://github.com/rectorphp/rector-downgrade-php/pull/87) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (5 days ago)
+- [Drop AttributeKey::SCOPE in ReflectionResolver](https://github.com/rectorphp/rector-src/pull/4068) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/87) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
+- [Support skip/unskip of rector rules](https://github.com/FriendsOfREDAXO/rexfactor/pull/86) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
+- [Allow running rexfactor on project AddOn](https://github.com/FriendsOfREDAXO/rexfactor/pull/85) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [`error_log` errors with `message_type=2`](https://github.com/phpstan/phpstan-src/pull/2428) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fixed typo in ConstantTest](https://github.com/vimeo/psalm/pull/9835) on [vimeo/psalm](https://github.com/vimeo/psalm) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.18](https://github.com/phpstan/phpstan/releases/tag/1.10.18) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.116](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.116) (1 day ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.8](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.8) (6 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.18](https://github.com/phpstan/phpstan/releases/tag/1.10.18) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.116](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.116) (2 days ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.8](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.8) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.22.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.22.0) (1 week ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.47.2](https://github.com/OskarStark/doctor-rst/releases/tag/1.47.2) (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.0](https://github.com/symfony/symfony/releases/tag/v6.3.0) (1 week ago)
