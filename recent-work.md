@@ -3,13 +3,13 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (3 weeks ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (3 weeks ago)
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Drop AttributeKey::SCOPE in RemoveUnusedVariableAssignRector](https://github.com/rectorphp/rector-src/pull/4141) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [Drop AttributeKey::SCOPE in PrivatizeFinalClassMethodRector](https://github.com/rectorphp/rector-src/pull/4140) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [Drop AttributeKey::SCOPE in AlwaysStrictScalarExprAnalyzer](https://github.com/rectorphp/rector-src/pull/4139) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Deprecate AttributeKey::SCOPE](https://github.com/rectorphp/rector-src/pull/4135) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Manager: Fix &#34;Unable to rollback, no transaction started before&#34;](https://github.com/yakamara/redaxo_yform/pull/1430) on [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (today)
 - [Fix int-mask-of to work well with operations on the int mask](https://github.com/phpstan/phpstan-src/pull/2441) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -52,9 +55,6 @@
 - [Simplify DowngradeThrowableTypeDeclarationRector](https://github.com/rectorphp/rector-downgrade-php/pull/88) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (5 days ago)
 - [Drop AttributeKey::SCOPE in ReflectionResolver](https://github.com/rectorphp/rector-downgrade-php/pull/87) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (5 days ago)
 - [Drop AttributeKey::SCOPE in ReflectionResolver](https://github.com/rectorphp/rector-src/pull/4068) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
-- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/87) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
-- [Support skip/unskip of rector rules](https://github.com/FriendsOfREDAXO/rexfactor/pull/86) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
-- [Allow running rexfactor on project AddOn](https://github.com/FriendsOfREDAXO/rexfactor/pull/85) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
