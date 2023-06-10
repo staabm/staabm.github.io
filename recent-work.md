@@ -28,7 +28,6 @@
 
 - [pleo-io](https://github.com/pleo-io) (2 weeks ago)
 - [DaveLiddament](https://github.com/DaveLiddament) (2 weeks ago)
-- [kamil-tekiela](https://github.com/kamil-tekiela) (1 month ago)
 - [SecuMailer](https://github.com/SecuMailer) (1 month ago)
 - [bluehorndigital](https://github.com/bluehorndigital) (1 month ago)
 - [drupol](https://github.com/drupol) (1 month ago)
@@ -36,6 +35,7 @@
 - [iluuu1994](https://github.com/iluuu1994) (1 month ago)
 - [simonsinus](https://github.com/simonsinus) (2 months ago)
 - [omphteliba](https://github.com/omphteliba) (2 months ago)
+- [wdes](https://github.com/wdes) (3 months ago)
 
 
 #### 🔨 My recent Pull Requests
