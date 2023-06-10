@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Try use of nette/utils fork](https://github.com/rectorphp/rector-src/pull/4158) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Utilize PhpToken::tokenize() when available](https://github.com/nette/utils/pull/296) on [nette/utils](https://github.com/nette/utils) (today)
 - [Skipping: Use plain string functions instead of regex matching](https://github.com/rectorphp/rector-src/pull/4153) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Reduce memory-consumption by simpler skip-patterns](https://github.com/rectorphp/rector-src/pull/4152) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
@@ -54,7 +55,6 @@
 - [Manager: Fix &#34;Unable to rollback, no transaction started before&#34;](https://github.com/yakamara/redaxo_yform/pull/1430) on [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (1 day ago)
 - [Fix int-mask-of to work well with operations on the int mask](https://github.com/phpstan/phpstan-src/pull/2441) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/513) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [Fix param-type specification interferes with root-expression types](https://github.com/phpstan/phpstan-src/pull/2439) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
