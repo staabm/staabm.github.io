@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Utilize PhpToken::tokenize() when available](https://github.com/nette/utils/pull/296) on [nette/utils](https://github.com/nette/utils) (today)
 - [Skipping: Use plain string functions instead of regex matching](https://github.com/rectorphp/rector-src/pull/4153) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Reduce memory-consumption by simpler skip-patterns](https://github.com/rectorphp/rector-src/pull/4152) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Added `assets/styles.css` to gitignore](https://github.com/FriendsOfREDAXO/rexfactor/pull/89) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
@@ -54,7 +55,6 @@
 - [Fix int-mask-of to work well with operations on the int mask](https://github.com/phpstan/phpstan-src/pull/2441) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/513) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [Fix param-type specification interferes with root-expression types](https://github.com/phpstan/phpstan-src/pull/2439) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [More precise `getimagesize*` return type](https://github.com/phpstan/phpstan-src/pull/2438) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
