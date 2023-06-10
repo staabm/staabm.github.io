@@ -4,9 +4,9 @@
 #### 💻 Check out what I'm currently working on
 
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Reduce memory-consumption by simpler skip-patterns](https://github.com/rectorphp/rector-src/pull/4152) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [Added `assets/styles.css` to gitignore](https://github.com/FriendsOfREDAXO/rexfactor/pull/89) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [StringClassNameToClassConstantRector: cheap checks first](https://github.com/rectorphp/rector-src/pull/4151) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Drop AttributeKey::SCOPE in NodeTypeResolver&#39;s](https://github.com/rectorphp/rector-src/pull/4146) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Drop AttributeKey::SCOPE in ClassMethodReturnTypeOverrideGuard](https://github.com/rectorphp/rector-src/pull/4144) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Fix param-type specification interferes with root-expression types](https://github.com/phpstan/phpstan-src/pull/2439) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [More precise `getimagesize*` return type](https://github.com/phpstan/phpstan-src/pull/2438) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [implement gettype() return type extension](https://github.com/phpstan/phpstan-src/pull/2437) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Added failling test for bug 9391](https://github.com/phpstan/phpstan-src/pull/2435) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/511) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
