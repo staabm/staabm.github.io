@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix broken scoped build with double quotes in commit messages](https://github.com/rectorphp/rector-src/pull/4175) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Performance: Prevent sorting of files in PhpFilesFinder](https://github.com/rectorphp/rector-src/pull/4164) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Try use of nette/utils fork](https://github.com/rectorphp/rector-src/pull/4158) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Utilize PhpToken::tokenize() when available](https://github.com/nette/utils/pull/296) on [nette/utils](https://github.com/nette/utils) (1 day ago)
@@ -54,7 +55,6 @@
 - [Drop AttributeKey::SCOPE in AlwaysStrictScalarExprAnalyzer](https://github.com/rectorphp/rector-src/pull/4139) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Deprecate AttributeKey::SCOPE](https://github.com/rectorphp/rector-src/pull/4135) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Manager: Fix &#34;Unable to rollback, no transaction started before&#34;](https://github.com/yakamara/redaxo_yform/pull/1430) on [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (2 days ago)
-- [Fix int-mask-of to work well with operations on the int mask](https://github.com/phpstan/phpstan-src/pull/2441) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
