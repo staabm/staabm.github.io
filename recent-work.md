@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (2 weeks ago)
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (3 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (3 weeks ago)
-- [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (3 weeks ago)
+- [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (4 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,28 +40,28 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Try 2: Fix broken scoped build with double quotes in commit messages](https://github.com/rectorphp/rector-src/pull/4178) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
-- [Fix broken scoped build with double quotes in commit messages](https://github.com/rectorphp/rector-src/pull/4175) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
-- [Performance: Prevent sorting of files in PhpFilesFinder](https://github.com/rectorphp/rector-src/pull/4164) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
-- [Try use of nette/utils fork](https://github.com/rectorphp/rector-src/pull/4158) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
-- [Utilize PhpToken::tokenize() when available](https://github.com/nette/utils/pull/296) on [nette/utils](https://github.com/nette/utils) (1 day ago)
-- [Skipping: Use plain string functions instead of regex matching](https://github.com/rectorphp/rector-src/pull/4153) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
-- [Reduce memory-consumption by simpler skip-patterns](https://github.com/rectorphp/rector-src/pull/4152) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
-- [Added `assets/styles.css` to gitignore](https://github.com/FriendsOfREDAXO/rexfactor/pull/89) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
-- [StringClassNameToClassConstantRector: cheap checks first](https://github.com/rectorphp/rector-src/pull/4151) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
-- [Drop AttributeKey::SCOPE in NodeTypeResolver&#39;s](https://github.com/rectorphp/rector-src/pull/4146) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [Drop AttributeKey::SCOPE in ClassMethodReturnTypeOverrideGuard](https://github.com/rectorphp/rector-src/pull/4144) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [Drop AttributeKey::SCOPE in RemoveUnusedVariableAssignRector](https://github.com/rectorphp/rector-src/pull/4141) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [Drop AttributeKey::SCOPE in PrivatizeFinalClassMethodRector](https://github.com/rectorphp/rector-src/pull/4140) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [Drop AttributeKey::SCOPE in AlwaysStrictScalarExprAnalyzer](https://github.com/rectorphp/rector-src/pull/4139) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [Deprecate AttributeKey::SCOPE](https://github.com/rectorphp/rector-src/pull/4135) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
+- [Try 2: Fix broken scoped build with double quotes in commit messages](https://github.com/rectorphp/rector-src/pull/4178) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [Fix broken scoped build with double quotes in commit messages](https://github.com/rectorphp/rector-src/pull/4175) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [Performance: Prevent sorting of files in PhpFilesFinder](https://github.com/rectorphp/rector-src/pull/4164) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
+- [Try use of nette/utils fork](https://github.com/rectorphp/rector-src/pull/4158) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
+- [Utilize PhpToken::tokenize() when available](https://github.com/nette/utils/pull/296) on [nette/utils](https://github.com/nette/utils) (2 days ago)
+- [Skipping: Use plain string functions instead of regex matching](https://github.com/rectorphp/rector-src/pull/4153) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
+- [Reduce memory-consumption by simpler skip-patterns](https://github.com/rectorphp/rector-src/pull/4152) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
+- [Added `assets/styles.css` to gitignore](https://github.com/FriendsOfREDAXO/rexfactor/pull/89) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
+- [StringClassNameToClassConstantRector: cheap checks first](https://github.com/rectorphp/rector-src/pull/4151) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
+- [Drop AttributeKey::SCOPE in NodeTypeResolver&#39;s](https://github.com/rectorphp/rector-src/pull/4146) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
+- [Drop AttributeKey::SCOPE in ClassMethodReturnTypeOverrideGuard](https://github.com/rectorphp/rector-src/pull/4144) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
+- [Drop AttributeKey::SCOPE in RemoveUnusedVariableAssignRector](https://github.com/rectorphp/rector-src/pull/4141) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
+- [Drop AttributeKey::SCOPE in PrivatizeFinalClassMethodRector](https://github.com/rectorphp/rector-src/pull/4140) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
+- [Drop AttributeKey::SCOPE in AlwaysStrictScalarExprAnalyzer](https://github.com/rectorphp/rector-src/pull/4139) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
+- [Deprecate AttributeKey::SCOPE](https://github.com/rectorphp/rector-src/pull/4135) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) - [2.5.8](https://github.com/composer/composer/releases/tag/2.5.8) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.18](https://github.com/phpstan/phpstan/releases/tag/1.10.18) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.116](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.116) (4 days ago)
+- [composer/composer](https://github.com/composer/composer) - [2.5.8](https://github.com/composer/composer/releases/tag/2.5.8) (3 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.18](https://github.com/phpstan/phpstan/releases/tag/1.10.18) (5 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.116](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.116) (5 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.8](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.8) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.22.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.22.0) (1 week ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.47.2](https://github.com/OskarStark/doctor-rst/releases/tag/1.47.2) (1 week ago)
