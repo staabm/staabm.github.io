@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.19](https://github.com/phpstan/phpstan/releases/tag/1.10.19) (today)
 - [composer/composer](https://github.com/composer/composer) - [2.5.8](https://github.com/composer/composer/releases/tag/2.5.8) (5 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.18](https://github.com/phpstan/phpstan/releases/tag/1.10.18) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.116](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.116) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.8](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.8) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.22.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.22.0) (1 week ago)
