@@ -3,13 +3,13 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) (2 weeks ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) (2 weeks ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 weeks ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (3 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 month ago)
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (1 month ago)
