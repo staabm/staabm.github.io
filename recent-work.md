@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (6 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) (2 weeks ago)
@@ -17,7 +17,7 @@
 
 #### 📜 My recent blog posts
 
-- [Doctor Rst Speedup](https://staabm.github.io/2023/05/18/doctor-rst-speedup.html) (4 weeks ago)
+- [Doctor Rst Speedup](https://staabm.github.io/2023/05/18/doctor-rst-speedup.html) (1 month ago)
 - [How To Debug Slow Rector Projects](https://staabm.github.io/2023/05/10/how-to-debug-slow-rector-projects.html) (1 month ago)
 - [Racing Rector](https://staabm.github.io/2023/05/06/racing-rector.html) (1 month ago)
 - [Diff Speeding](https://staabm.github.io/2023/05/01/diff-speeding.html) (1 month ago)
@@ -40,15 +40,15 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Try 2: Fix broken scoped build with double quotes in commit messages](https://github.com/rectorphp/rector-src/pull/4178) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
-- [Fix broken scoped build with double quotes in commit messages](https://github.com/rectorphp/rector-src/pull/4175) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
-- [Performance: Prevent sorting of files in PhpFilesFinder](https://github.com/rectorphp/rector-src/pull/4164) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
-- [Try use of nette/utils fork](https://github.com/rectorphp/rector-src/pull/4158) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
-- [Utilize PhpToken::tokenize() when available](https://github.com/nette/utils/pull/296) on [nette/utils](https://github.com/nette/utils) (6 days ago)
-- [Skipping: Use plain string functions instead of regex matching](https://github.com/rectorphp/rector-src/pull/4153) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
-- [Reduce memory-consumption by simpler skip-patterns](https://github.com/rectorphp/rector-src/pull/4152) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
-- [Added `assets/styles.css` to gitignore](https://github.com/FriendsOfREDAXO/rexfactor/pull/89) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (6 days ago)
-- [StringClassNameToClassConstantRector: cheap checks first](https://github.com/rectorphp/rector-src/pull/4151) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
+- [Try 2: Fix broken scoped build with double quotes in commit messages](https://github.com/rectorphp/rector-src/pull/4178) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
+- [Fix broken scoped build with double quotes in commit messages](https://github.com/rectorphp/rector-src/pull/4175) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
+- [Performance: Prevent sorting of files in PhpFilesFinder](https://github.com/rectorphp/rector-src/pull/4164) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
+- [Try use of nette/utils fork](https://github.com/rectorphp/rector-src/pull/4158) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
+- [Utilize PhpToken::tokenize() when available](https://github.com/nette/utils/pull/296) on [nette/utils](https://github.com/nette/utils) (1 week ago)
+- [Skipping: Use plain string functions instead of regex matching](https://github.com/rectorphp/rector-src/pull/4153) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
+- [Reduce memory-consumption by simpler skip-patterns](https://github.com/rectorphp/rector-src/pull/4152) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
+- [Added `assets/styles.css` to gitignore](https://github.com/FriendsOfREDAXO/rexfactor/pull/89) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
+- [StringClassNameToClassConstantRector: cheap checks first](https://github.com/rectorphp/rector-src/pull/4151) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Drop AttributeKey::SCOPE in NodeTypeResolver&#39;s](https://github.com/rectorphp/rector-src/pull/4146) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Drop AttributeKey::SCOPE in ClassMethodReturnTypeOverrideGuard](https://github.com/rectorphp/rector-src/pull/4144) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Drop AttributeKey::SCOPE in RemoveUnusedVariableAssignRector](https://github.com/rectorphp/rector-src/pull/4141) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.19](https://github.com/phpstan/phpstan/releases/tag/1.10.19) (2 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.19](https://github.com/phpstan/phpstan/releases/tag/1.10.19) (3 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.5.8](https://github.com/composer/composer/releases/tag/2.5.8) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.116](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.116) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.8](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.8) (2 weeks ago)
