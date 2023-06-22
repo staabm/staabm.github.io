@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement call_user_func() DynamicFunctionReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/2479) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Bleeding edge - More precise flock() operation flags](https://github.com/phpstan/phpstan-src/pull/2477) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/92) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 - [More precise file() flags args in bleedingEdge](https://github.com/phpstan/phpstan-src/pull/2476) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Try 2: Fix broken scoped build with double quotes in commit messages](https://github.com/rectorphp/rector-src/pull/4178) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
@@ -53,8 +55,6 @@
 - [StringClassNameToClassConstantRector: cheap checks first](https://github.com/rectorphp/rector-src/pull/4151) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Drop AttributeKey::SCOPE in NodeTypeResolver&#39;s](https://github.com/rectorphp/rector-src/pull/4146) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Drop AttributeKey::SCOPE in ClassMethodReturnTypeOverrideGuard](https://github.com/rectorphp/rector-src/pull/4144) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [Drop AttributeKey::SCOPE in RemoveUnusedVariableAssignRector](https://github.com/rectorphp/rector-src/pull/4141) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [Drop AttributeKey::SCOPE in PrivatizeFinalClassMethodRector](https://github.com/rectorphp/rector-src/pull/4140) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
