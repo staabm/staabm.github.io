@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support `FILE_NO_DEFAULT_CONTEXT` in `file()`](https://github.com/phpstan/phpstan-src/pull/2482) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Added missing `FILE_NO_DEFAULT_CONTEXT` for file()](https://github.com/php/doc-en/pull/2540) on [php/doc-en](https://github.com/php/doc-en) (today)
 - [Implement call_user_func() DynamicFunctionReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/2479) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Bleeding edge - More precise flock() operation flags](https://github.com/phpstan/phpstan-src/pull/2477) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Reduce memory-consumption by simpler skip-patterns](https://github.com/rectorphp/rector-src/pull/4152) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Added `assets/styles.css` to gitignore](https://github.com/FriendsOfREDAXO/rexfactor/pull/89) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [StringClassNameToClassConstantRector: cheap checks first](https://github.com/rectorphp/rector-src/pull/4151) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [Drop AttributeKey::SCOPE in NodeTypeResolver&#39;s](https://github.com/rectorphp/rector-src/pull/4146) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
