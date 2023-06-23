@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) (3 weeks ago)
@@ -40,10 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Implement call_user_func() DynamicFunctionReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/2479) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Bleeding edge - More precise flock() operation flags](https://github.com/phpstan/phpstan-src/pull/2477) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/92) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
-- [More precise file() flags args in bleedingEdge](https://github.com/phpstan/phpstan-src/pull/2476) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Implement call_user_func() DynamicFunctionReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/2479) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Bleeding edge - More precise flock() operation flags](https://github.com/phpstan/phpstan-src/pull/2477) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/92) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
+- [More precise file() flags args in bleedingEdge](https://github.com/phpstan/phpstan-src/pull/2476) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Try 2: Fix broken scoped build with double quotes in commit messages](https://github.com/rectorphp/rector-src/pull/4178) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Fix broken scoped build with double quotes in commit messages](https://github.com/rectorphp/rector-src/pull/4175) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Performance: Prevent sorting of files in PhpFilesFinder](https://github.com/rectorphp/rector-src/pull/4164) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
@@ -53,18 +53,18 @@
 - [Reduce memory-consumption by simpler skip-patterns](https://github.com/rectorphp/rector-src/pull/4152) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Added `assets/styles.css` to gitignore](https://github.com/FriendsOfREDAXO/rexfactor/pull/89) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [StringClassNameToClassConstantRector: cheap checks first](https://github.com/rectorphp/rector-src/pull/4151) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [Drop AttributeKey::SCOPE in NodeTypeResolver&#39;s](https://github.com/rectorphp/rector-src/pull/4146) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [Drop AttributeKey::SCOPE in ClassMethodReturnTypeOverrideGuard](https://github.com/rectorphp/rector-src/pull/4144) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
+- [Drop AttributeKey::SCOPE in NodeTypeResolver&#39;s](https://github.com/rectorphp/rector-src/pull/4146) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
+- [Drop AttributeKey::SCOPE in ClassMethodReturnTypeOverrideGuard](https://github.com/rectorphp/rector-src/pull/4144) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.118](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.118) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.21](https://github.com/phpstan/phpstan/releases/tag/1.10.21) (1 day ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.9](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.9) (1 day ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.11](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.11) (1 day ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.18.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.18.0) (4 days ago)
-- [composer/composer](https://github.com/composer/composer) - [2.5.8](https://github.com/composer/composer/releases/tag/2.5.8) (1 week ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.118](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.118) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.21](https://github.com/phpstan/phpstan/releases/tag/1.10.21) (2 days ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.9](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.9) (2 days ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.11](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.11) (2 days ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.18.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.18.0) (5 days ago)
+- [composer/composer](https://github.com/composer/composer) - [2.5.8](https://github.com/composer/composer/releases/tag/2.5.8) (2 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.22.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.22.0) (3 weeks ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.47.2](https://github.com/OskarStark/doctor-rst/releases/tag/1.47.2) (3 weeks ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.0](https://github.com/symfony/symfony/releases/tag/v6.3.0) (3 weeks ago)
