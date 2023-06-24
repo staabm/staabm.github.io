@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/yform_flexible_content](https://github.com/FriendsOfREDAXO/yform_flexible_content) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
@@ -12,7 +13,6 @@
 - [vimeo/psalm](https://github.com/vimeo/psalm) (3 weeks ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) (1 month ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 month ago)
-- [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (1 month ago)
 
 
 #### 📜 My recent blog posts
