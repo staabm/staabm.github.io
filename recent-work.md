@@ -3,11 +3,11 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [php/doc-en](https://github.com/php/doc-en) (2 days ago)
 - [FriendsOfREDAXO/yform_flexible_content](https://github.com/FriendsOfREDAXO/yform_flexible_content) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (5 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) (3 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/94) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [simplify workflow](https://github.com/FriendsOfREDAXO/yform_flexible_content/pull/8) on [FriendsOfREDAXO/yform_flexible_content](https://github.com/FriendsOfREDAXO/yform_flexible_content) (2 days ago)
 - [Fix `Public method &#34;rexstan\RexLint::getPathsToLint()&#34; is never used`](https://github.com/FriendsOfREDAXO/rexstan/pull/525) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [use non-zero exit code on rexstan:analyse command errors](https://github.com/FriendsOfREDAXO/rexstan/pull/524) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
@@ -54,18 +55,17 @@
 - [Fix broken scoped build with double quotes in commit messages](https://github.com/rectorphp/rector-src/pull/4175) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 - [Performance: Prevent sorting of files in PhpFilesFinder](https://github.com/rectorphp/rector-src/pull/4164) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 - [Try use of nette/utils fork](https://github.com/rectorphp/rector-src/pull/4158) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
-- [Utilize PhpToken::tokenize() when available](https://github.com/nette/utils/pull/296) on [nette/utils](https://github.com/nette/utils) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) - [v5.4.25](https://github.com/symfony/symfony/releases/tag/v5.4.25) (today)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.10](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.10) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.19.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.19.2) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.119](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.119) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.21](https://github.com/phpstan/phpstan/releases/tag/1.10.21) (5 days ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.9](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.9) (5 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.11](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.11) (5 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.5.8](https://github.com/composer/composer/releases/tag/2.5.8) (2 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.22.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.22.0) (3 weeks ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.47.2](https://github.com/OskarStark/doctor-rst/releases/tag/1.47.2) (3 weeks ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.0](https://github.com/symfony/symfony/releases/tag/v6.3.0) (3 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.13](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.13) (4 weeks ago)
