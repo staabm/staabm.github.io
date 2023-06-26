@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify PublicClassMethodCollector](https://github.com/TomasVotruba/unused-public/pull/65) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
+- [extracted `ClassTypeDetector` to ease re-use](https://github.com/TomasVotruba/unused-public/pull/64) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
+- [extracted `MethodTypeDetector` to ease re-use](https://github.com/TomasVotruba/unused-public/pull/63) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [More precise ignore_user_abort() return type](https://github.com/phpstan/phpstan-src/pull/2489) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Bleeding Edge - More precise json_decode parameter types](https://github.com/phpstan/phpstan-src/pull/2488) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Use variadics/splat instead of call_user_func_array()/func_get_args()](https://github.com/matomo-org/matomo/pull/20934) on [matomo-org/matomo](https://github.com/matomo-org/matomo) (today)
@@ -52,9 +55,6 @@
 - [Support `FILE_NO_DEFAULT_CONTEXT` in `file()`](https://github.com/phpstan/phpstan-src/pull/2482) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Added missing `FILE_NO_DEFAULT_CONTEXT` for file()](https://github.com/php/doc-en/pull/2540) on [php/doc-en](https://github.com/php/doc-en) (3 days ago)
 - [Implement call_user_func() DynamicFunctionReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/2479) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Bleeding edge - More precise flock() operation flags](https://github.com/phpstan/phpstan-src/pull/2477) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/92) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (5 days ago)
-- [More precise file() flags args in bleedingEdge](https://github.com/phpstan/phpstan-src/pull/2476) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
