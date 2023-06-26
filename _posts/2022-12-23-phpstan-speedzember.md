@@ -14,6 +14,7 @@ ogImage:
 In december I was on vacation from my daily job.
 As the weather was either too cold or too rainy to go outside I decided to spend some time on PHPStan.
 
+_This was the first post of the [PHP performance series](https://staabm.github.io/archive.html#performance)._
 
 ## Speed it is ⚡️
 
