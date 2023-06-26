@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) (today)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) (today)
 - [FriendsOfREDAXO/yform_flexible_content](https://github.com/FriendsOfREDAXO/yform_flexible_content) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [php/doc-en](https://github.com/php/doc-en) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) (3 weeks ago)
 
 
