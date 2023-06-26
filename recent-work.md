@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) - [v5.4.25](https://github.com/symfony/symfony/releases/tag/v5.4.25) (today)
+- [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.1](https://github.com/symfony/symfony/releases/tag/v6.3.1) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.10](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.10) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.19.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.19.2) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.119](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.119) (2 days ago)
