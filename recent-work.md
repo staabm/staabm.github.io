@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added test-case covering property referenced via &#34;static&#34; keyword](https://github.com/TomasVotruba/unused-public/pull/66) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Simplify PublicClassMethodCollector](https://github.com/TomasVotruba/unused-public/pull/65) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [extracted `ClassTypeDetector` to ease re-use](https://github.com/TomasVotruba/unused-public/pull/64) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [extracted `MethodTypeDetector` to ease re-use](https://github.com/TomasVotruba/unused-public/pull/63) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
@@ -54,7 +55,6 @@
 - [error when no files will be processed](https://github.com/rectorphp/rector-src/pull/4326) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Support `FILE_NO_DEFAULT_CONTEXT` in `file()`](https://github.com/phpstan/phpstan-src/pull/2482) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Added missing `FILE_NO_DEFAULT_CONTEXT` for file()](https://github.com/php/doc-en/pull/2540) on [php/doc-en](https://github.com/php/doc-en) (3 days ago)
-- [Implement call_user_func() DynamicFunctionReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/2479) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
