@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use variadics/splat instead of call_user_func_array()/func_get_args()](https://github.com/matomo-org/matomo/pull/20934) on [matomo-org/matomo](https://github.com/matomo-org/matomo) (today)
 - [Update 2022-12-23-phpstan-speedzember.md](https://github.com/staabm/staabm.github.io/pull/86) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/94) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [simplify workflow](https://github.com/FriendsOfREDAXO/yform_flexible_content/pull/8) on [FriendsOfREDAXO/yform_flexible_content](https://github.com/FriendsOfREDAXO/yform_flexible_content) (2 days ago)
@@ -54,18 +55,17 @@
 - [More precise file() flags args in bleedingEdge](https://github.com/phpstan/phpstan-src/pull/2476) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Try 2: Fix broken scoped build with double quotes in commit messages](https://github.com/rectorphp/rector-src/pull/4178) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 - [Fix broken scoped build with double quotes in commit messages](https://github.com/rectorphp/rector-src/pull/4175) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
-- [Performance: Prevent sorting of files in PhpFilesFinder](https://github.com/rectorphp/rector-src/pull/4164) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.11.1](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.11.1) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.13.0](https://github.com/vimeo/psalm/releases/tag/5.13.0) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.1](https://github.com/symfony/symfony/releases/tag/v6.3.1) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.10](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.10) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.19.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.19.2) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.119](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.119) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.21](https://github.com/phpstan/phpstan/releases/tag/1.10.21) (5 days ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.11](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.11) (5 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.5.8](https://github.com/composer/composer/releases/tag/2.5.8) (2 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.22.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.22.0) (3 weeks ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.47.2](https://github.com/OskarStark/doctor-rst/releases/tag/1.47.2) (3 weeks ago)
