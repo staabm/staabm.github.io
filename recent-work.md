@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [More precise ignore_user_abort() return type](https://github.com/phpstan/phpstan-src/pull/2489) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Bleeding Edge - More precise json_decode parameter types](https://github.com/phpstan/phpstan-src/pull/2488) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Use variadics/splat instead of call_user_func_array()/func_get_args()](https://github.com/matomo-org/matomo/pull/20934) on [matomo-org/matomo](https://github.com/matomo-org/matomo) (today)
 - [Update 2022-12-23-phpstan-speedzember.md](https://github.com/staabm/staabm.github.io/pull/86) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/94) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
@@ -53,12 +55,11 @@
 - [Bleeding edge - More precise flock() operation flags](https://github.com/phpstan/phpstan-src/pull/2477) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/92) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (5 days ago)
 - [More precise file() flags args in bleedingEdge](https://github.com/phpstan/phpstan-src/pull/2476) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Try 2: Fix broken scoped build with double quotes in commit messages](https://github.com/rectorphp/rector-src/pull/4178) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
-- [Fix broken scoped build with double quotes in commit messages](https://github.com/rectorphp/rector-src/pull/4175) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.73](https://github.com/staabm/phpstan-dba/releases/tag/0.2.73) (today)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.11.1](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.11.1) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.13.0](https://github.com/vimeo/psalm/releases/tag/5.13.0) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.1](https://github.com/symfony/symfony/releases/tag/v6.3.1) (today)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.21](https://github.com/phpstan/phpstan/releases/tag/1.10.21) (5 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.5.8](https://github.com/composer/composer/releases/tag/2.5.8) (2 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.22.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.22.0) (3 weeks ago)
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.47.2](https://github.com/OskarStark/doctor-rst/releases/tag/1.47.2) (3 weeks ago)
