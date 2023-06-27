@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement ProtectedMethodInFinalClassRule](https://github.com/TomasVotruba/unused-public/pull/68) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Cheap checks first](https://github.com/TomasVotruba/unused-public/pull/67) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Added test-case covering property referenced via &#34;static&#34; keyword](https://github.com/TomasVotruba/unused-public/pull/66) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
 - [Simplify PublicClassMethodCollector](https://github.com/TomasVotruba/unused-public/pull/65) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix `Public method &#34;rexstan\RexLint::getPathsToLint()&#34; is never used`](https://github.com/FriendsOfREDAXO/rexstan/pull/525) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [use non-zero exit code on rexstan:analyse command errors](https://github.com/FriendsOfREDAXO/rexstan/pull/524) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [error when no files will be processed](https://github.com/rectorphp/rector-src/pull/4326) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
-- [Support `FILE_NO_DEFAULT_CONTEXT` in `file()`](https://github.com/phpstan/phpstan-src/pull/2482) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
