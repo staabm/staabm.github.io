@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.13.1](https://github.com/vimeo/psalm/releases/tag/5.13.1) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.74](https://github.com/staabm/phpstan-dba/releases/tag/0.2.74) (today)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.1.0](https://github.com/PrestaShop/PrestaShop/releases/tag/8.1.0) (1 day ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.11.1](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.11.1) (1 day ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.13.0](https://github.com/vimeo/psalm/releases/tag/5.13.0) (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.1](https://github.com/symfony/symfony/releases/tag/v6.3.1) (1 day ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.10](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.10) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.19.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.19.2) (2 days ago)
