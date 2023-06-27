@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement JsonValidateTypeSpecifyingExtension](https://github.com/phpstan/phpstan-src/pull/2491) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Support wrapping a RecordingReflector in LazyQueryReflector](https://github.com/staabm/phpstan-dba/pull/607) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Implement ProtectedMethodInFinalClassRule](https://github.com/TomasVotruba/unused-public/pull/68) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Cheap checks first](https://github.com/TomasVotruba/unused-public/pull/67) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
@@ -54,7 +55,6 @@
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/94) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 - [simplify workflow](https://github.com/FriendsOfREDAXO/yform_flexible_content/pull/8) on [FriendsOfREDAXO/yform_flexible_content](https://github.com/FriendsOfREDAXO/yform_flexible_content) (3 days ago)
 - [Fix `Public method &#34;rexstan\RexLint::getPathsToLint()&#34; is never used`](https://github.com/FriendsOfREDAXO/rexstan/pull/525) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [use non-zero exit code on rexstan:analyse command errors](https://github.com/FriendsOfREDAXO/rexstan/pull/524) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
