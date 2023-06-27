@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Cheap checks first](https://github.com/TomasVotruba/unused-public/pull/67) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Added test-case covering property referenced via &#34;static&#34; keyword](https://github.com/TomasVotruba/unused-public/pull/66) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
 - [Simplify PublicClassMethodCollector](https://github.com/TomasVotruba/unused-public/pull/65) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
 - [extracted `ClassTypeDetector` to ease re-use](https://github.com/TomasVotruba/unused-public/pull/64) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
@@ -54,7 +55,6 @@
 - [use non-zero exit code on rexstan:analyse command errors](https://github.com/FriendsOfREDAXO/rexstan/pull/524) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [error when no files will be processed](https://github.com/rectorphp/rector-src/pull/4326) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [Support `FILE_NO_DEFAULT_CONTEXT` in `file()`](https://github.com/phpstan/phpstan-src/pull/2482) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Added missing `FILE_NO_DEFAULT_CONTEXT` for file()](https://github.com/php/doc-en/pull/2540) on [php/doc-en](https://github.com/php/doc-en) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
