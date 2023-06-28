@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sabre-io/xml](https://github.com/sabre-io/xml) - [3.0.1](https://github.com/sabre-io/xml/releases/tag/3.0.1) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.20.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.20.0) (1 day ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.13.1](https://github.com/vimeo/psalm/releases/tag/5.13.1) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.74](https://github.com/staabm/phpstan-dba/releases/tag/0.2.74) (1 day ago)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.10](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.10) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.119](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.119) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.21](https://github.com/phpstan/phpstan/releases/tag/1.10.21) (1 week ago)
-- [composer/composer](https://github.com/composer/composer) - [2.5.8](https://github.com/composer/composer/releases/tag/2.5.8) (2 weeks ago)
