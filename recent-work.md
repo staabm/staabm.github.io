@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sabre-io/xml](https://github.com/sabre-io/xml) - [4.0.1](https://github.com/sabre-io/xml/releases/tag/4.0.1) (today)
+- [sabre-io/xml](https://github.com/sabre-io/xml) - [4.0.2](https://github.com/sabre-io/xml/releases/tag/4.0.2) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.20.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.20.0) (1 day ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.13.1](https://github.com/vimeo/psalm/releases/tag/5.13.1) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.74](https://github.com/staabm/phpstan-dba/releases/tag/0.2.74) (1 day ago)
