@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/2496) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [ignore node_modules folder](https://github.com/FriendsOfREDAXO/rexfactor/pull/96) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 - [Fix int-mask in file()](https://github.com/phpstan/phpstan-src/pull/2492) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Implement JsonValidateTypeSpecifyingExtension](https://github.com/phpstan/phpstan-src/pull/2491) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Bleeding Edge - More precise json_decode parameter types](https://github.com/phpstan/phpstan-src/pull/2488) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Use variadics/splat instead of call_user_func_array()/func_get_args()](https://github.com/matomo-org/matomo/pull/20934) on [matomo-org/matomo](https://github.com/matomo-org/matomo) (3 days ago)
 - [Update 2022-12-23-phpstan-speedzember.md](https://github.com/staabm/staabm.github.io/pull/86) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
-- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/94) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
