@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support IntegerRangeType in NumericReturnTypeFromStrictScalarReturnsRector](https://github.com/rectorphp/rector-src/pull/4380) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [Cleanup test fixtures for NumericReturnTypeFromStrictScalarReturnsRector](https://github.com/rectorphp/rector-src/pull/4379) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/2496) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [ignore node_modules folder](https://github.com/FriendsOfREDAXO/rexfactor/pull/96) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
 - [Fix int-mask in file()](https://github.com/phpstan/phpstan-src/pull/2492) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -53,8 +55,6 @@
 - [extracted `MethodTypeDetector` to ease re-use](https://github.com/TomasVotruba/unused-public/pull/63) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
 - [More precise ignore_user_abort() return type](https://github.com/phpstan/phpstan-src/pull/2489) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Bleeding Edge - More precise json_decode parameter types](https://github.com/phpstan/phpstan-src/pull/2488) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Use variadics/splat instead of call_user_func_array()/func_get_args()](https://github.com/matomo-org/matomo/pull/20934) on [matomo-org/matomo](https://github.com/matomo-org/matomo) (4 days ago)
-- [Update 2022-12-23-phpstan-speedzember.md](https://github.com/staabm/staabm.github.io/pull/86) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
