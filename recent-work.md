@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement `call_user_func_array()` DynamicFunctionReturnTypeExtension and rule](https://github.com/phpstan/phpstan-src/pull/2501) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/98) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [PHPStanDba: Use LazyQueryReflector](https://github.com/FriendsOfREDAXO/rexstan/pull/533) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Cleanup NodeScopeResolver](https://github.com/phpstan/phpstan-src/pull/2499) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Cheap checks first](https://github.com/TomasVotruba/unused-public/pull/67) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
 - [Added test-case covering property referenced via &#34;static&#34; keyword](https://github.com/TomasVotruba/unused-public/pull/66) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
 - [Simplify PublicClassMethodCollector](https://github.com/TomasVotruba/unused-public/pull/65) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
-- [extracted `ClassTypeDetector` to ease re-use](https://github.com/TomasVotruba/unused-public/pull/64) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
