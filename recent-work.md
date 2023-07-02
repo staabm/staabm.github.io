@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.22.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.22.1) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.11](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.11) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.120](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.120) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.22](https://github.com/phpstan/phpstan/releases/tag/1.10.22) (2 days ago)
@@ -68,4 +69,3 @@
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.74](https://github.com/staabm/phpstan-dba/releases/tag/0.2.74) (5 days ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.1.0](https://github.com/PrestaShop/PrestaShop/releases/tag/8.1.0) (6 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.11.1](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.11.1) (6 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.1](https://github.com/symfony/symfony/releases/tag/v6.3.1) (6 days ago)
