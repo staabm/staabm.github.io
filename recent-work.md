@@ -7,10 +7,10 @@
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) (6 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 - [FriendsOfREDAXO/yform_flexible_content](https://github.com/FriendsOfREDAXO/yform_flexible_content) (1 week ago)
 - [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 
