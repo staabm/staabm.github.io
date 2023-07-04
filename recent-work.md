@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Allow null in mysqli*real_connect](https://github.com/phpstan/phpstan-src/pull/2508) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement `call_user_func_array()` DynamicFunctionReturnTypeExtension and rule](https://github.com/phpstan/phpstan-src/pull/2501) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/98) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 - [PHPStanDba: Use LazyQueryReflector](https://github.com/FriendsOfREDAXO/rexstan/pull/533) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
@@ -54,7 +55,6 @@
 - [Implement ProtectedMethodInFinalClassRule](https://github.com/TomasVotruba/unused-public/pull/68) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [Cheap checks first](https://github.com/TomasVotruba/unused-public/pull/67) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [Added test-case covering property referenced via &#34;static&#34; keyword](https://github.com/TomasVotruba/unused-public/pull/66) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
-- [Simplify PublicClassMethodCollector](https://github.com/TomasVotruba/unused-public/pull/65) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
