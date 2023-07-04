@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [More precise session_status() return type](https://github.com/phpstan/phpstan-src/pull/2509) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Allow null in mysqli*real_connect](https://github.com/phpstan/phpstan-src/pull/2508) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement `call_user_func_array()` DynamicFunctionReturnTypeExtension and rule](https://github.com/phpstan/phpstan-src/pull/2501) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/98) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
@@ -54,11 +55,11 @@
 - [Support wrapping a RecordingReflector in LazyQueryReflector](https://github.com/staabm/phpstan-dba/pull/607) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [Implement ProtectedMethodInFinalClassRule](https://github.com/TomasVotruba/unused-public/pull/68) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [Cheap checks first](https://github.com/TomasVotruba/unused-public/pull/67) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
-- [Added test-case covering property referenced via &#34;static&#34; keyword](https://github.com/TomasVotruba/unused-public/pull/66) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/quick_navigation](https://github.com/FriendsOfREDAXO/quick_navigation) - [6.0.3](https://github.com/FriendsOfREDAXO/quick_navigation/releases/tag/6.0.3) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.23](https://github.com/phpstan/phpstan/releases/tag/1.10.23) (today)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.2.0](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.2.0) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.22.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.22.1) (2 days ago)
@@ -68,4 +69,3 @@
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.20.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.20.0) (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.13.1](https://github.com/vimeo/psalm/releases/tag/5.13.1) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.74](https://github.com/staabm/phpstan-dba/releases/tag/0.2.74) (1 week ago)
-- [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.1.0](https://github.com/PrestaShop/PrestaShop/releases/tag/8.1.0) (1 week ago)
