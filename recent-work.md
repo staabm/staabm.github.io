@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.23](https://github.com/phpstan/phpstan/releases/tag/1.10.23) (today)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.2.0](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.2.0) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.22.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.22.1) (2 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.11](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.11) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.120](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.120) (3 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.22](https://github.com/phpstan/phpstan/releases/tag/1.10.22) (4 days ago)
 - [sabre-io/xml](https://github.com/sabre-io/xml) - [4.0.2](https://github.com/sabre-io/xml/releases/tag/4.0.2) (6 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.20.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.20.0) (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.13.1](https://github.com/vimeo/psalm/releases/tag/5.13.1) (1 week ago)
