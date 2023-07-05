@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.24](https://github.com/phpstan/phpstan/releases/tag/1.10.24) (today)
 - [FriendsOfREDAXO/quick_navigation](https://github.com/FriendsOfREDAXO/quick_navigation) - [6.0.3](https://github.com/FriendsOfREDAXO/quick_navigation/releases/tag/6.0.3) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.23](https://github.com/phpstan/phpstan/releases/tag/1.10.23) (1 day ago)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.2.0](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.2.0) (3 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.22.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.22.1) (3 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.11](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.11) (4 days ago)
