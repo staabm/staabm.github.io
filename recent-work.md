@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (5 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) (1 week ago)
@@ -40,15 +40,15 @@
 
 #### 🔨 My recent Pull Requests
 
-- [More precise session_status() return type](https://github.com/phpstan/phpstan-src/pull/2509) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Allow null in mysqli*real_connect](https://github.com/phpstan/phpstan-src/pull/2508) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Implement `call_user_func_array()` DynamicFunctionReturnTypeExtension and rule](https://github.com/phpstan/phpstan-src/pull/2501) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/98) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
-- [PHPStanDba: Use LazyQueryReflector](https://github.com/FriendsOfREDAXO/rexstan/pull/533) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [Cleanup NodeScopeResolver](https://github.com/phpstan/phpstan-src/pull/2499) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Fix NumericReturnTypeFromStrictScalarReturnsRector for non-natively-typed parameters](https://github.com/rectorphp/rector-src/pull/4380) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
-- [Cleanup test fixtures for NumericReturnTypeFromStrictScalarReturnsRector](https://github.com/rectorphp/rector-src/pull/4379) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/2496) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [More precise session_status() return type](https://github.com/phpstan/phpstan-src/pull/2509) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Allow null in mysqli*real_connect](https://github.com/phpstan/phpstan-src/pull/2508) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Implement `call_user_func_array()` DynamicFunctionReturnTypeExtension and rule](https://github.com/phpstan/phpstan-src/pull/2501) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/98) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (5 days ago)
+- [PHPStanDba: Use LazyQueryReflector](https://github.com/FriendsOfREDAXO/rexstan/pull/533) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
+- [Cleanup NodeScopeResolver](https://github.com/phpstan/phpstan-src/pull/2499) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Fix NumericReturnTypeFromStrictScalarReturnsRector for non-natively-typed parameters](https://github.com/rectorphp/rector-src/pull/4380) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
+- [Cleanup test fixtures for NumericReturnTypeFromStrictScalarReturnsRector](https://github.com/rectorphp/rector-src/pull/4379) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/2496) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [ignore node_modules folder](https://github.com/FriendsOfREDAXO/rexfactor/pull/96) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [Fix int-mask in file()](https://github.com/phpstan/phpstan-src/pull/2492) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Implement JsonValidateTypeSpecifyingExtension](https://github.com/phpstan/phpstan-src/pull/2491) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.21.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.21.1) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.24](https://github.com/phpstan/phpstan/releases/tag/1.10.24) (today)
-- [FriendsOfREDAXO/quick_navigation](https://github.com/FriendsOfREDAXO/quick_navigation) - [6.0.3](https://github.com/FriendsOfREDAXO/quick_navigation/releases/tag/6.0.3) (1 day ago)
-- [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.2.0](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.2.0) (3 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.22.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.22.1) (3 days ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.11](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.11) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.120](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.120) (4 days ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.21.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.21.1) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.24](https://github.com/phpstan/phpstan/releases/tag/1.10.24) (1 day ago)
+- [FriendsOfREDAXO/quick_navigation](https://github.com/FriendsOfREDAXO/quick_navigation) - [6.0.3](https://github.com/FriendsOfREDAXO/quick_navigation/releases/tag/6.0.3) (2 days ago)
+- [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.2.0](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.2.0) (4 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.22.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.22.1) (4 days ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.11](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.11) (5 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.120](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.120) (5 days ago)
 - [sabre-io/xml](https://github.com/sabre-io/xml) - [4.0.2](https://github.com/sabre-io/xml/releases/tag/4.0.2) (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.13.1](https://github.com/vimeo/psalm/releases/tag/5.13.1) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.74](https://github.com/staabm/phpstan-dba/releases/tag/0.2.74) (1 week ago)
