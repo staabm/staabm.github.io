@@ -53,7 +53,7 @@ Fatal error: Allowed memory size of 1073741824 bytes exhausted (tried to allocat
 PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 4096 bytes) in /Users/staabm/workspace/doctor-rst/vendor/symfony/string/AbstractUnicodeString.php on line 236
 ```
 
-It's not that unusual that a running a profiler requires more memory on a workload, therefore I raised the php memory limit to 16GB.
+It's not that unusual that running a profiler requires more memory on a workload, therefore I raised the php memory limit to 16GB.
 Still I am running in out of memory errors... 🤔
 
 For a sanity check, I added a memory debug out at the end of the analysis process into the `AnalyzeCommand` and ran it again without blackfire:
@@ -81,7 +81,7 @@ In the following graph you can see a lot of calls to `SplFileInfo->getRealPath()
 
 ![grafik](https://github.com/OskarStark/doctor-rst/assets/120441/31e9a44e-e186-4c19-aca2-edcffb068dd7)
 
-We just had to introduce a local variable and call it a day.
+We just had to [introduce a local variable and call it a day](https://github.com/OskarStark/doctor-rst/pull/1404).
 
 ### excessive use of preg_match()
 
