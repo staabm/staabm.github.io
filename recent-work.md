@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Bleeding edge - More precise ftp_* mode parameter type](https://github.com/phpstan/phpstan-src/pull/2513) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Make query in SchemaHashMysql independent from internal sorting](https://github.com/staabm/phpstan-dba/pull/608) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [More precise session_status() return type](https://github.com/phpstan/phpstan-src/pull/2509) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Allow null in mysqli*real_connect](https://github.com/phpstan/phpstan-src/pull/2508) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -54,7 +55,6 @@
 - [Fix int-mask in file()](https://github.com/phpstan/phpstan-src/pull/2492) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Implement JsonValidateTypeSpecifyingExtension](https://github.com/phpstan/phpstan-src/pull/2491) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Support wrapping a RecordingReflector in LazyQueryReflector](https://github.com/staabm/phpstan-dba/pull/607) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [Implement ProtectedMethodInFinalClassRule](https://github.com/TomasVotruba/unused-public/pull/68) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
