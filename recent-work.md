@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Bleeding edge - more precise stream_socket_client() signature](https://github.com/phpstan/phpstan-src/pull/2519) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Bleeding edge - more precise scandir() signature](https://github.com/phpstan/phpstan-src/pull/2518) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Bleeding edge - more precise extract() signature](https://github.com/phpstan/phpstan-src/pull/2517) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Bleeding edge - More precise ftp_* mode parameter type](https://github.com/phpstan/phpstan-src/pull/2513) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Make query in SchemaHashMysql independent from internal sorting](https://github.com/staabm/phpstan-dba/pull/608) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [More precise session_status() return type](https://github.com/phpstan/phpstan-src/pull/2509) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -52,9 +55,6 @@
 - [Cleanup test fixtures for NumericReturnTypeFromStrictScalarReturnsRector](https://github.com/rectorphp/rector-src/pull/4379) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/2496) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [ignore node_modules folder](https://github.com/FriendsOfREDAXO/rexfactor/pull/96) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
-- [Fix int-mask in file()](https://github.com/phpstan/phpstan-src/pull/2492) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Implement JsonValidateTypeSpecifyingExtension](https://github.com/phpstan/phpstan-src/pull/2491) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Support wrapping a RecordingReflector in LazyQueryReflector](https://github.com/staabm/phpstan-dba/pull/607) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
