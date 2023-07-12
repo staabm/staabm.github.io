@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 weeks ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) (2 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix StrictArrayParamDimFetchRector on `is_*` calls](https://github.com/rectorphp/rector-src/pull/4486) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Bleeding edge - more precise stream_socket_client() signature](https://github.com/phpstan/phpstan-src/pull/2519) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Bleeding edge - more precise scandir() signature](https://github.com/phpstan/phpstan-src/pull/2518) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Bleeding edge - more precise extract() signature](https://github.com/phpstan/phpstan-src/pull/2517) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -54,7 +55,6 @@
 - [Fix NumericReturnTypeFromStrictScalarReturnsRector for non-natively-typed parameters](https://github.com/rectorphp/rector-src/pull/4380) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Cleanup test fixtures for NumericReturnTypeFromStrictScalarReturnsRector](https://github.com/rectorphp/rector-src/pull/4379) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/2496) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [ignore node_modules folder](https://github.com/FriendsOfREDAXO/rexfactor/pull/96) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
