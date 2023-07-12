@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix StrictArrayParamDimFetchRector on same named property](https://github.com/rectorphp/rector-src/pull/4488) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Fix StrictArrayParamDimFetchRector on `is_*` calls](https://github.com/rectorphp/rector-src/pull/4486) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Bleeding edge - more precise stream_socket_client() signature](https://github.com/phpstan/phpstan-src/pull/2519) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Bleeding edge - more precise scandir() signature](https://github.com/phpstan/phpstan-src/pull/2518) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -54,7 +55,6 @@
 - [Cleanup NodeScopeResolver](https://github.com/phpstan/phpstan-src/pull/2499) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix NumericReturnTypeFromStrictScalarReturnsRector for non-natively-typed parameters](https://github.com/rectorphp/rector-src/pull/4380) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Cleanup test fixtures for NumericReturnTypeFromStrictScalarReturnsRector](https://github.com/rectorphp/rector-src/pull/4379) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/2496) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
