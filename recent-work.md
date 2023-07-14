@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Micro optimizations: cheap checks first](https://github.com/rectorphp/rector-src/pull/4510) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [Support final methods in ClassMethodReturnTypeOverrideGuard](https://github.com/rectorphp/rector-src/pull/4509) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Implement ReturnTypeFromStrictParamRector](https://github.com/rectorphp/rector-src/pull/4501) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Fix StrictArrayParamDimFetchRector on same named property](https://github.com/rectorphp/rector-src/pull/4488) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Fix StrictArrayParamDimFetchRector on `is_*` calls](https://github.com/rectorphp/rector-src/pull/4486) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
@@ -53,8 +55,6 @@
 - [Implement `call_user_func_array()` DynamicFunctionReturnTypeExtension and rule](https://github.com/phpstan/phpstan-src/pull/2501) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/98) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [PHPStanDba: Use LazyQueryReflector](https://github.com/FriendsOfREDAXO/rexstan/pull/533) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [Cleanup NodeScopeResolver](https://github.com/phpstan/phpstan-src/pull/2499) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [Fix NumericReturnTypeFromStrictScalarReturnsRector for non-natively-typed parameters](https://github.com/rectorphp/rector-src/pull/4380) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
