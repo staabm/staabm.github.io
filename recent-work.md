@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support literals in ReturnTypeFromStrictTypedCallRector](https://github.com/rectorphp/rector-src/pull/4511) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Micro optimizations: cheap checks first](https://github.com/rectorphp/rector-src/pull/4510) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Support final methods in ClassMethodReturnTypeOverrideGuard](https://github.com/rectorphp/rector-src/pull/4509) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Implement ReturnTypeFromStrictParamRector](https://github.com/rectorphp/rector-src/pull/4501) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Allow null in mysqli*real_connect](https://github.com/phpstan/phpstan-src/pull/2508) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Implement `call_user_func_array()` DynamicFunctionReturnTypeExtension and rule](https://github.com/phpstan/phpstan-src/pull/2501) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/98) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
-- [PHPStanDba: Use LazyQueryReflector](https://github.com/FriendsOfREDAXO/rexstan/pull/533) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
