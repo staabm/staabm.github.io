@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support class-const-fetch in ReturnTypeFromStrictTypedCallRector](https://github.com/rectorphp/rector-src/pull/4520) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [ReturnTypeFromStrictTernaryRector: Support complex ternaries](https://github.com/rectorphp/rector-src/pull/4515) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Support literals in ReturnTypeFromStrictTypedCallRector](https://github.com/rectorphp/rector-src/pull/4511) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Micro optimizations: cheap checks first](https://github.com/rectorphp/rector-src/pull/4510) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Make query in SchemaHashMysql independent from internal sorting](https://github.com/staabm/phpstan-dba/pull/608) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [More precise session_status() return type](https://github.com/phpstan/phpstan-src/pull/2509) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Allow null in mysqli*real_connect](https://github.com/phpstan/phpstan-src/pull/2508) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Implement `call_user_func_array()` DynamicFunctionReturnTypeExtension and rule](https://github.com/phpstan/phpstan-src/pull/2501) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
