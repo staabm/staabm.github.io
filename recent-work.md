@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (today)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 weeks ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 weeks ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) (2 weeks ago)
-- [php/doc-en](https://github.com/php/doc-en) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.0](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.0) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.121](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.121) (1 week ago)
 - [FriendsOfREDAXO/quick_navigation](https://github.com/FriendsOfREDAXO/quick_navigation) - [6.1.0](https://github.com/FriendsOfREDAXO/quick_navigation/releases/tag/6.1.0) (1 week ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.15.0](https://github.com/matomo-org/matomo/releases/tag/4.15.0) (1 week ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.22.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.22.1) (2 weeks ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.11](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.11) (2 weeks ago)
 - [sabre-io/xml](https://github.com/sabre-io/xml) - [4.0.2](https://github.com/sabre-io/xml/releases/tag/4.0.2) (2 weeks ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.13.1](https://github.com/vimeo/psalm/releases/tag/5.13.1) (2 weeks ago)
