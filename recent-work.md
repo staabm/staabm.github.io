@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (1 day ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
-- [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (1 day ago)
 - [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
