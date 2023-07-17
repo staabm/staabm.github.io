@@ -3,21 +3,21 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
-- [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (today)
-- [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (5 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
+- [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (1 day ago)
+- [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (6 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 weeks ago)
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) (2 weeks ago)
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
 
-- [Doctor Rst Speedup](https://staabm.github.io/2023/05/18/doctor-rst-speedup.html) (1 month ago)
+- [Doctor Rst Speedup](https://staabm.github.io/2023/05/18/doctor-rst-speedup.html) (2 months ago)
 - [How To Debug Slow Rector Projects](https://staabm.github.io/2023/05/10/how-to-debug-slow-rector-projects.html) (2 months ago)
 - [Racing Rector](https://staabm.github.io/2023/05/06/racing-rector.html) (2 months ago)
 - [Diff Speeding](https://staabm.github.io/2023/05/01/diff-speeding.html) (2 months ago)
@@ -40,15 +40,15 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix warning mangles output format](https://github.com/rectorphp/rector-src/pull/4529) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
-- [Support class-const-fetch in ReturnTypeFromStrictTypedCallRector](https://github.com/rectorphp/rector-src/pull/4520) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
-- [ReturnTypeFromStrictTernaryRector: Support complex ternaries](https://github.com/rectorphp/rector-src/pull/4515) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [Support literals in ReturnTypeFromStrictTypedCallRector](https://github.com/rectorphp/rector-src/pull/4511) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [Micro optimizations: cheap checks first](https://github.com/rectorphp/rector-src/pull/4510) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [Support final methods in ClassMethodReturnTypeOverrideGuard](https://github.com/rectorphp/rector-src/pull/4509) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [Implement ReturnTypeFromStrictParamRector](https://github.com/rectorphp/rector-src/pull/4501) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Fix StrictArrayParamDimFetchRector on same named property](https://github.com/rectorphp/rector-src/pull/4488) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
-- [Fix StrictArrayParamDimFetchRector on `is_*` calls](https://github.com/rectorphp/rector-src/pull/4486) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
+- [fix warning mangles output format](https://github.com/rectorphp/rector-src/pull/4529) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [Support class-const-fetch in ReturnTypeFromStrictTypedCallRector](https://github.com/rectorphp/rector-src/pull/4520) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
+- [ReturnTypeFromStrictTernaryRector: Support complex ternaries](https://github.com/rectorphp/rector-src/pull/4515) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
+- [Support literals in ReturnTypeFromStrictTypedCallRector](https://github.com/rectorphp/rector-src/pull/4511) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
+- [Micro optimizations: cheap checks first](https://github.com/rectorphp/rector-src/pull/4510) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
+- [Support final methods in ClassMethodReturnTypeOverrideGuard](https://github.com/rectorphp/rector-src/pull/4509) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
+- [Implement ReturnTypeFromStrictParamRector](https://github.com/rectorphp/rector-src/pull/4501) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
+- [Fix StrictArrayParamDimFetchRector on same named property](https://github.com/rectorphp/rector-src/pull/4488) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
+- [Fix StrictArrayParamDimFetchRector on `is_*` calls](https://github.com/rectorphp/rector-src/pull/4486) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 - [Bleeding edge - more precise stream_socket_client() signature](https://github.com/phpstan/phpstan-src/pull/2519) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Bleeding edge - more precise scandir() signature](https://github.com/phpstan/phpstan-src/pull/2518) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Bleeding edge - more precise extract() signature](https://github.com/phpstan/phpstan-src/pull/2517) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.21.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.21.3) (today)
-- [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.0](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.0) (3 days ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.22.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.22.0) (1 day ago)
+- [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.0](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.0) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.121](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.121) (1 week ago)
 - [FriendsOfREDAXO/quick_navigation](https://github.com/FriendsOfREDAXO/quick_navigation) - [6.1.0](https://github.com/FriendsOfREDAXO/quick_navigation/releases/tag/6.1.0) (1 week ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.15.0](https://github.com/matomo-org/matomo/releases/tag/4.15.0) (1 week ago)
