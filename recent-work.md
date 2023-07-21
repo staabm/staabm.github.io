@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [StaticMapper: added fast path for IdentifierTypeNode](https://github.com/rectorphp/rector-src/pull/4565) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [NameImportingPhpDocNodeVisitor: Cheap checks first](https://github.com/rectorphp/rector-src/pull/4563) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Prevent unnecessary scope creation](https://github.com/rectorphp/rector-src/pull/4562) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Support immutable classes in TypedPropertyFromStrictConstructorRector](https://github.com/rectorphp/rector-src/pull/4552) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix StrictArrayParamDimFetchRector on same named property](https://github.com/rectorphp/rector-src/pull/4488) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Fix StrictArrayParamDimFetchRector on `is_*` calls](https://github.com/rectorphp/rector-src/pull/4486) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Bleeding edge - more precise stream_socket_client() signature](https://github.com/phpstan/phpstan-src/pull/2519) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Bleeding edge - more precise scandir() signature](https://github.com/phpstan/phpstan-src/pull/2518) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
