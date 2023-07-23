@@ -45,13 +45,13 @@ The preparation steps and the linked articles in the "overall plan"-chapter shou
 ## Adding Types with Rector
 
 Start with [Rector as described in the introduction](https://getrector.com/documentation).
-Make sure you have all relevant source paths are configured and the setup works as expected.
+Make sure you have all relevant source paths configured and the setup works as expected.
 
 We will run Rector in the command line on your workstation.
 Later on you may configure Rector as part of your CI pipeline, but that's a topic for another article.
 
 Working with Rector usually means you start by adding one Rector rule at a time.
-Let the tool do its magic and review the generated changes. Make sure you feel confident them.
+Let the tool do its magic and review the generated changes. Make sure you feel confident with them.
 If you get overwhelmed by the amount of changes,
 revert the working state and run your current Rector rule only against a few paths instead of the whole project.
 
