@@ -17,11 +17,11 @@
 
 #### 📜 My recent blog posts
 
+- [Rector In Legacy Projects](https://staabm.github.io/2023/07/23/rector-in-legacy-projects.html) (today)
 - [Doctor Rst Speedup](https://staabm.github.io/2023/05/18/doctor-rst-speedup.html) (2 months ago)
 - [How To Debug Slow Rector Projects](https://staabm.github.io/2023/05/10/how-to-debug-slow-rector-projects.html) (2 months ago)
 - [Racing Rector](https://staabm.github.io/2023/05/06/racing-rector.html) (2 months ago)
 - [Diff Speeding](https://staabm.github.io/2023/05/01/diff-speeding.html) (2 months ago)
-- [Rexfactor Introduction](https://staabm.github.io/2023/04/09/rexfactor-introduction.html) (3 months ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
