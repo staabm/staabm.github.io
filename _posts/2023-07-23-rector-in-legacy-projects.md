@@ -37,7 +37,6 @@ These are the top level steps I try to follow:
    3. Add parameter types
 3. re-generate and re-analyze your baseline to see the improvements / you might create a [PHPStan baseline trend report](https://github.com/staabm/phpstan-baseline-analysis#example-trend-analysis)
 
-Between these steps you should commit the intermediate states. This also eases seeing the actual differences between the steps.
 
 ## Preparation
 
@@ -55,6 +54,8 @@ revert the working state and run your current Rector rule only against a few pat
 
 Repeat using smaller steps as long as you feel the result is not reviewable.
 How often you need to divide the steps into smaller ones depends on the rule being applied and your codebase.
+
+Between these steps you should commit the intermediate states. This also eases seeing the actual differences between the steps.
 
 ### Add return types
 
