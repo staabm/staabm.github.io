@@ -77,6 +77,8 @@ In the next step in my experience it's best to add property types.
 Start with `private` properties and later move on to `protected` ones of `final` classes.
 If you are not sure about nullability, keep using nullable types for now.
 
+Last add types to `protected` properties of non-final classes and `public` properties.
+
 I had the most success using the [`PropertyTypeFromStrict*` Rector rules](https://github.com/rectorphp/rector/blob/main/docs/rector_rules_overview.md) first.
 After that try the `TypedPropertyFrom*` rules.
 
