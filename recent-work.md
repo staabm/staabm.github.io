@@ -3,14 +3,14 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
-- [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
+- [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 weeks ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) (3 weeks ago)
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [How to introduce Rector to legacy projects](https://github.com/staabm/staabm.github.io/pull/87) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Simplify TypedPropertyFromStrictConstructorRector](https://github.com/rectorphp/rector-src/pull/4587) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Array is non-empty when in_array is not strict](https://github.com/phpstan/phpstan-src/pull/2539) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [StaticMapper: added fast path for IdentifierTypeNode](https://github.com/rectorphp/rector-src/pull/4565) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Micro optimizations: cheap checks first](https://github.com/rectorphp/rector-src/pull/4510) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Support final methods in ClassMethodReturnTypeOverrideGuard](https://github.com/rectorphp/rector-src/pull/4509) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Implement ReturnTypeFromStrictParamRector](https://github.com/rectorphp/rector-src/pull/4501) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [Fix StrictArrayParamDimFetchRector on same named property](https://github.com/rectorphp/rector-src/pull/4488) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
