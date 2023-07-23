@@ -5,7 +5,7 @@ tags:
 image: "images/og-images/rector-in-legacy-projects.jpg"
 
 ogImage:
-  title: "Introduce Rector to legacy projects"
+  title: "Rector in legacy projects"
   subtitle: "level up type coverage to ease maintenance and find bugs"
   imageUrl: "https://staabm.github.io/staabm.svg"
   fileName: "rector-in-legacy-projects"
