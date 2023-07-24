@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.23.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.23.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.26](https://github.com/phpstan/phpstan/releases/tag/1.10.26) (5 days ago)
 - [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.1](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.1) (6 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.22.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.22.0) (1 week ago)
@@ -66,6 +67,5 @@
 - [FriendsOfREDAXO/quick_navigation](https://github.com/FriendsOfREDAXO/quick_navigation) - [6.1.0](https://github.com/FriendsOfREDAXO/quick_navigation/releases/tag/6.1.0) (2 weeks ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.15.0](https://github.com/matomo-org/matomo/releases/tag/4.15.0) (2 weeks ago)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.2.0](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.2.0) (3 weeks ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.22.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.22.1) (3 weeks ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.11](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.11) (3 weeks ago)
 - [sabre-io/xml](https://github.com/sabre-io/xml) - [4.0.2](https://github.com/sabre-io/xml/releases/tag/4.0.2) (3 weeks ago)
