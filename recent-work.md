@@ -3,21 +3,21 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (1 week ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
+- [yakamara/redaxo_yform](https://github.com/yakamara/redaxo_yform) (2 weeks ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 weeks ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 weeks ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) (4 weeks ago)
 
 
 #### 📜 My recent blog posts
 
-- [Rector In Legacy Projects](https://staabm.github.io/2023/07/23/rector-in-legacy-projects.html) (1 day ago)
+- [Rector In Legacy Projects](https://staabm.github.io/2023/07/23/rector-in-legacy-projects.html) (2 days ago)
 - [Doctor Rst Speedup](https://staabm.github.io/2023/05/18/doctor-rst-speedup.html) (2 months ago)
 - [How To Debug Slow Rector Projects](https://staabm.github.io/2023/05/10/how-to-debug-slow-rector-projects.html) (2 months ago)
 - [Racing Rector](https://staabm.github.io/2023/05/06/racing-rector.html) (2 months ago)
@@ -33,21 +33,21 @@
 - [CapnFelix](https://github.com/CapnFelix) (3 months ago)
 - [iluuu1994](https://github.com/iluuu1994) (3 months ago)
 - [simonsinus](https://github.com/simonsinus) (3 months ago)
-- [omphteliba](https://github.com/omphteliba) (3 months ago)
+- [omphteliba](https://github.com/omphteliba) (4 months ago)
 - [wdes](https://github.com/wdes) (4 months ago)
 - [TomasVotruba](https://github.com/TomasVotruba) (6 months ago)
 
 
 #### 🔨 My recent Pull Requests
 
-- [Fixed constant types handling in TypedPropertyFromStrictConstructorRector](https://github.com/rectorphp/rector-src/pull/4588) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
-- [How to introduce Rector to legacy projects](https://github.com/staabm/staabm.github.io/pull/87) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
-- [Simplify TypedPropertyFromStrictConstructorRector](https://github.com/rectorphp/rector-src/pull/4587) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
-- [Array is non-empty when in_array is not strict](https://github.com/phpstan/phpstan-src/pull/2539) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [StaticMapper: added fast path for IdentifierTypeNode](https://github.com/rectorphp/rector-src/pull/4565) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [NameImportingPhpDocNodeVisitor: Cheap checks first](https://github.com/rectorphp/rector-src/pull/4563) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Prevent unnecessary scope creation](https://github.com/rectorphp/rector-src/pull/4562) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [implemented TypedPropertyFromStrictConstructorReadonlyClassRector](https://github.com/rectorphp/rector-src/pull/4552) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
+- [Fixed constant types handling in TypedPropertyFromStrictConstructorRector](https://github.com/rectorphp/rector-src/pull/4588) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [How to introduce Rector to legacy projects](https://github.com/staabm/staabm.github.io/pull/87) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
+- [Simplify TypedPropertyFromStrictConstructorRector](https://github.com/rectorphp/rector-src/pull/4587) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
+- [Array is non-empty when in_array is not strict](https://github.com/phpstan/phpstan-src/pull/2539) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [StaticMapper: added fast path for IdentifierTypeNode](https://github.com/rectorphp/rector-src/pull/4565) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
+- [NameImportingPhpDocNodeVisitor: Cheap checks first](https://github.com/rectorphp/rector-src/pull/4563) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
+- [Prevent unnecessary scope creation](https://github.com/rectorphp/rector-src/pull/4562) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
+- [implemented TypedPropertyFromStrictConstructorReadonlyClassRector](https://github.com/rectorphp/rector-src/pull/4552) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 - [Separate sets for return/parameter/property-type declarations](https://github.com/rectorphp/rector-src/pull/4531) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [fix warning mangles output format](https://github.com/rectorphp/rector-src/pull/4529) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Support class-const-fetch in ReturnTypeFromStrictTypedCallRector](https://github.com/rectorphp/rector-src/pull/4520) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.23.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.23.0) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.26](https://github.com/phpstan/phpstan/releases/tag/1.10.26) (5 days ago)
-- [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.1](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.1) (6 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.23.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.23.0) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.26](https://github.com/phpstan/phpstan/releases/tag/1.10.26) (6 days ago)
+- [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.1](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.1) (1 week ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.22.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.22.0) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.121](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.121) (2 weeks ago)
 - [FriendsOfREDAXO/quick_navigation](https://github.com/FriendsOfREDAXO/quick_navigation) - [6.1.0](https://github.com/FriendsOfREDAXO/quick_navigation/releases/tag/6.1.0) (2 weeks ago)
