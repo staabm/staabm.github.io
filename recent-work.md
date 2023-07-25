@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [abort on disconnect in `rex_response-&gt;sendFile()`](https://github.com/redaxo/redaxo/pull/5749) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [Fixed constant types handling in TypedPropertyFromStrictConstructorRector](https://github.com/rectorphp/rector-src/pull/4588) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [How to introduce Rector to legacy projects](https://github.com/staabm/staabm.github.io/pull/87) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [Simplify TypedPropertyFromStrictConstructorRector](https://github.com/rectorphp/rector-src/pull/4587) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [ReturnTypeFromStrictTernaryRector: Support complex ternaries](https://github.com/rectorphp/rector-src/pull/4515) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Support literals in ReturnTypeFromStrictTypedCallRector](https://github.com/rectorphp/rector-src/pull/4511) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Micro optimizations: cheap checks first](https://github.com/rectorphp/rector-src/pull/4510) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [Support final methods in ClassMethodReturnTypeOverrideGuard](https://github.com/rectorphp/rector-src/pull/4509) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
