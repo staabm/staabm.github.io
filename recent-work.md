@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Detect public properties only used in tests](https://github.com/TomasVotruba/unused-public/pull/81) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Detect constants only used in tests](https://github.com/TomasVotruba/unused-public/pull/80) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Take calls from plain php files into account](https://github.com/TomasVotruba/unused-public/pull/79) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [abort on disconnect in `rex_response-&gt;sendFile()`](https://github.com/redaxo/redaxo/pull/5749) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
@@ -54,7 +55,6 @@
 - [Separate sets for return/parameter/property-type declarations](https://github.com/rectorphp/rector-src/pull/4531) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [fix warning mangles output format](https://github.com/rectorphp/rector-src/pull/4529) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Support class-const-fetch in ReturnTypeFromStrictTypedCallRector](https://github.com/rectorphp/rector-src/pull/4520) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [ReturnTypeFromStrictTernaryRector: Support complex ternaries](https://github.com/rectorphp/rector-src/pull/4515) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
