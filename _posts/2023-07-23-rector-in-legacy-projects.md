@@ -60,7 +60,8 @@ How often you need to divide the steps into smaller ones depends on the rule bei
 
 Between these steps you should commit the intermediate states. This also eases seeing the actual differences between the steps.
 
-**NOTE: Especially in legacy projects its important to make sure rector is not relying on PHPDoc types. This is what `*Strict*` rector rules are for. If you apply non-Strict rector rules, take special care your PHPDoc is precise.**
+**NOTE:**
+Especially in legacy projects its important to make sure rector is not relying on PHPDoc types. This is what `*Strict*` rector rules are for. If you apply non-Strict rector rules, take special care your PHPDoc is precise.
 
 ### Add return types
 
