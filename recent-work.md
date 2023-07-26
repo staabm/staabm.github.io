@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Resolve native return-type from native union-type in short ternary](https://github.com/rectorphp/rector-src/pull/4606) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Reduce ConstExprClassNameDecorator overhead](https://github.com/rectorphp/rector-src/pull/4603) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Detect public properties only used in tests](https://github.com/TomasVotruba/unused-public/pull/81) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
 - [Detect constants only used in tests](https://github.com/TomasVotruba/unused-public/pull/80) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
@@ -54,7 +55,6 @@
 - [Prevent unnecessary scope creation](https://github.com/rectorphp/rector-src/pull/4562) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 - [implemented TypedPropertyFromStrictConstructorReadonlyClassRector](https://github.com/rectorphp/rector-src/pull/4552) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
 - [Separate sets for return/parameter/property-type declarations](https://github.com/rectorphp/rector-src/pull/4531) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [fix warning mangles output format](https://github.com/rectorphp/rector-src/pull/4529) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
