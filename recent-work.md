@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support type-coverage in trend reports](https://github.com/staabm/phpstan-baseline-analysis/pull/123) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [AddMethodCallBasedStrictParamTypeRector: Support changing protected methods in final classes](https://github.com/rectorphp/rector-src/pull/4611) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Resolve native return-type from native union-type in short ternary](https://github.com/rectorphp/rector-src/pull/4606) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Reduce ConstExprClassNameDecorator overhead](https://github.com/rectorphp/rector-src/pull/4603) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [StaticMapper: added fast path for IdentifierTypeNode](https://github.com/rectorphp/rector-src/pull/4565) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
 - [NameImportingPhpDocNodeVisitor: Cheap checks first](https://github.com/rectorphp/rector-src/pull/4563) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
 - [Prevent unnecessary scope creation](https://github.com/rectorphp/rector-src/pull/4562) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
-- [implemented TypedPropertyFromStrictConstructorReadonlyClassRector](https://github.com/rectorphp/rector-src/pull/4552) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
