@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [2.1.0](https://github.com/AndiLeni/media_negotiator/releases/tag/2.1.0) (1 day ago)
+- [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [2.2.0](https://github.com/AndiLeni/media_negotiator/releases/tag/2.2.0) (today)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.12](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.12) (1 day ago)
 - [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.3](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.3) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.23.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.23.0) (4 days ago)
