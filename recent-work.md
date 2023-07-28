@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.15.1-rc1](https://github.com/matomo-org/matomo/releases/tag/4.15.1-rc1) (today)
 - [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [2.2.1](https://github.com/AndiLeni/media_negotiator/releases/tag/2.2.1) (today)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.12](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.12) (1 day ago)
 - [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.3](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.3) (2 days ago)
@@ -67,5 +68,4 @@
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.22.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.22.0) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.121](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.121) (2 weeks ago)
 - [FriendsOfREDAXO/quick_navigation](https://github.com/FriendsOfREDAXO/quick_navigation) - [6.1.0](https://github.com/FriendsOfREDAXO/quick_navigation/releases/tag/6.1.0) (3 weeks ago)
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.15.0](https://github.com/matomo-org/matomo/releases/tag/4.15.0) (3 weeks ago)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.2.0](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.2.0) (3 weeks ago)
