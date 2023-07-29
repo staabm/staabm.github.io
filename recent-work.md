@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added failling tests regarding unknown parents](https://github.com/rectorphp/rector-src/pull/4619) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [mark connection_status() and connection_aborted() impure](https://github.com/JetBrains/phpstorm-stubs/pull/1560) on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (today)
 - [connection_* functions are impure](https://github.com/phpstan/phpstan-src/pull/2555) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent unnecessary work in MutatingScope](https://github.com/phpstan/phpstan-src/pull/2554) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Take calls from plain php files into account](https://github.com/TomasVotruba/unused-public/pull/79) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
 - [abort on disconnect in `rex_response-&gt;sendFile()`](https://github.com/redaxo/redaxo/pull/5749) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (4 days ago)
 - [Fixed constant types handling in TypedPropertyFromStrictConstructorRector](https://github.com/rectorphp/rector-src/pull/4588) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
-- [How to introduce Rector to legacy projects](https://github.com/staabm/staabm.github.io/pull/87) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
