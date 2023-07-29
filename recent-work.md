@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent unnecessary work in MutatingScope](https://github.com/phpstan/phpstan-src/pull/2554) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/107) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 - [fix invalid php version constraint](https://github.com/staabm/phpstan-baseline-analysis/pull/125) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
 - [Support type-coverage in trend reports](https://github.com/staabm/phpstan-baseline-analysis/pull/123) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
@@ -54,7 +55,6 @@
 - [How to introduce Rector to legacy projects](https://github.com/staabm/staabm.github.io/pull/87) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 - [Simplify TypedPropertyFromStrictConstructorRector](https://github.com/rectorphp/rector-src/pull/4587) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
 - [Array is non-empty when in_array is not strict](https://github.com/phpstan/phpstan-src/pull/2539) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [StaticMapper: added fast path for IdentifierTypeNode](https://github.com/rectorphp/rector-src/pull/4565) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
