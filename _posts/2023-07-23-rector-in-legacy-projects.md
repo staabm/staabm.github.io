@@ -72,6 +72,9 @@ It's important to add return types first, as it's the least risky change and sho
 - Give classes some extra attention which somehow integrate with libraries you use, like e.g. Doctrine-Collections.
 - If classes implement magic methods (e.g. `__get`), review related changes properly.
 
+If rector changes things you don't like, you may [ignore source files for single rules or even skip the source file completly](https://getrector.com/documentation/ignoring-rules-or-paths).
+You can re-visit the skipped cases later again. You may feel more confident after the codebase got enriched with types and PHPStan can better understand the code in question.
+
 I had the most success using the [`ReturnTypeFromStrict*` Rector rules](https://github.com/rectorphp/rector/blob/main/docs/rector_rules_overview.md) first.
 Do so one rule at a time, like described above.
 
