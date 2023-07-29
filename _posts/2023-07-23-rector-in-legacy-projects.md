@@ -68,7 +68,7 @@ Especially in legacy projects its important to make sure rector is not relying o
 It's important to add return types first, as it's the least risky change and should be backwards compatible most of the time.
 
 - If your codebase is pretty large, you may start with `final` classes first.
-- As long as you don't add new return types to methods which gets overridden in a subclass, you should be fine.
+- As long as you [don't add new return types to methods which gets overridden in a subclass](https://3v4l.org/I5bh6), you should be fine.
 - Give classes some extra attention which somehow integrate with libraries you use, like e.g. Doctrine-Collections.
 - If classes implement magic methods (e.g. `__get`), review related changes properly.
 
