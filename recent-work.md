@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix MariaDB health check](https://github.com/staabm/phpstan-dba/pull/618) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Added failling tests regarding unknown parents](https://github.com/rectorphp/rector-src/pull/4619) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [mark connection_status() and connection_aborted() impure](https://github.com/JetBrains/phpstorm-stubs/pull/1560) on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (1 day ago)
 - [connection_* functions are impure](https://github.com/phpstan/phpstan-src/pull/2555) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Detect constants only used in tests](https://github.com/TomasVotruba/unused-public/pull/80) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
 - [Take calls from plain php files into account](https://github.com/TomasVotruba/unused-public/pull/79) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
 - [abort on disconnect in `rex_response-&gt;sendFile()`](https://github.com/redaxo/redaxo/pull/5749) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
-- [Fixed constant types handling in TypedPropertyFromStrictConstructorRector](https://github.com/rectorphp/rector-src/pull/4588) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
