@@ -30,13 +30,14 @@ These are the top level steps I try to follow:
    1. make sure you have [PHPStan configured for your project](https://phpstan.org/user-guide/getting-started), at least at level 5.
    2. add [TomasVotruba/type-coverage](https://tomasvotruba.com/blog/how-to-measure-your-type-coverage/) to create type coverage information
    3. create a [PHPStan baseline](https://phpstan.org/blog/phpstans-baseline-feature-lets-you-hold-new-code-to-a-higher-standard) with all existing errors
-   4. [analyze your baseline](https://github.com/staabm/phpstan-baseline-analysis), to get an idea of the overall type coverage of the project
+   4. [analyze your baseline](https://staabm.github.io/2022/07/04/phpstan-baseline-analysis.html), to get an idea of the overall type coverage of the project
 2. Adding Types - order is important!
    1. Add return types
    2. Add property types
    3. Add parameter types
 3. re-generate and re-analyze your baseline to see the improvements / you might create a [PHPStan baseline trend report](https://github.com/staabm/phpstan-baseline-analysis#example-trend-analysis)
 
+Analysing the baseline is technically not required. Crunching the numbers can help keep a dev team motivated or these can be used to convince managment people about your current state and potential goals.
 
 ## Preparation
 
