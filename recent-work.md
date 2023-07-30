@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support PHP 8.3](https://github.com/nette/utils/pull/297) on [nette/utils](https://github.com/nette/utils) (today)
+- [fix tomasvotruba/unused-public version constraint](https://github.com/staabm/phpstan-dba/pull/619) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [test installation on PHP 8.2/8.3](https://github.com/TomasVotruba/unused-public/pull/82) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Fix MariaDB health check](https://github.com/staabm/phpstan-dba/pull/618) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Added failling tests regarding unknown parents](https://github.com/rectorphp/rector-src/pull/4619) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [mark connection_status() and connection_aborted() impure](https://github.com/JetBrains/phpstorm-stubs/pull/1560) on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (1 day ago)
@@ -52,14 +55,12 @@
 - [Resolve native return-type from native union-type in short ternary](https://github.com/rectorphp/rector-src/pull/4606) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [Reduce ConstExprClassNameDecorator overhead](https://github.com/rectorphp/rector-src/pull/4603) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 - [Detect public properties only used in tests](https://github.com/TomasVotruba/unused-public/pull/81) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
-- [Detect constants only used in tests](https://github.com/TomasVotruba/unused-public/pull/80) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
-- [Take calls from plain php files into account](https://github.com/TomasVotruba/unused-public/pull/79) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
-- [abort on disconnect in `rex_response-&gt;sendFile()`](https://github.com/redaxo/redaxo/pull/5749) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) - [v5.4.26](https://github.com/symfony/symfony/releases/tag/v5.4.26) (1 day ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.75](https://github.com/staabm/phpstan-dba/releases/tag/0.2.75) (today)
+- [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.2](https://github.com/symfony/symfony/releases/tag/v6.3.2) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.12](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.12) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.122](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.122) (2 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.15.1-rc1](https://github.com/matomo-org/matomo/releases/tag/4.15.1-rc1) (2 days ago)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.3](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.3) (4 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.23.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.23.0) (6 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.26](https://github.com/phpstan/phpstan/releases/tag/1.10.26) (1 week ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.22.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.22.0) (2 weeks ago)
