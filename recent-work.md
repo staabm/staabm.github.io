@@ -4,14 +4,14 @@
 #### 💻 Check out what I'm currently working on
 
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [nette/utils](https://github.com/nette/utils) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [update readme](https://github.com/staabm/phpstan-baseline-analysis/pull/126) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [Support PHP 8.3](https://github.com/nette/utils/pull/297) on [nette/utils](https://github.com/nette/utils) (today)
 - [fix tomasvotruba/unused-public version constraint](https://github.com/staabm/phpstan-dba/pull/619) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [test installation on PHP 8.2/8.3](https://github.com/TomasVotruba/unused-public/pull/82) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
@@ -54,7 +55,6 @@
 - [AddMethodCallBasedStrictParamTypeRector: Support changing protected methods in final classes](https://github.com/rectorphp/rector-src/pull/4611) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Resolve native return-type from native union-type in short ternary](https://github.com/rectorphp/rector-src/pull/4606) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [Reduce ConstExprClassNameDecorator overhead](https://github.com/rectorphp/rector-src/pull/4603) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
-- [Detect public properties only used in tests](https://github.com/TomasVotruba/unused-public/pull/81) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
