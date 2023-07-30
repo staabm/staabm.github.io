@@ -3,8 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [nette/utils](https://github.com/nette/utils) (today)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [nette/utils](https://github.com/nette/utils) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
@@ -12,7 +13,6 @@
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nette/utils](https://github.com/nette/utils) - [v4.0.1](https://github.com/nette/utils/releases/tag/v4.0.1) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.75](https://github.com/staabm/phpstan-dba/releases/tag/0.2.75) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.2](https://github.com/symfony/symfony/releases/tag/v6.3.2) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.12](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.12) (2 days ago)
@@ -68,4 +69,3 @@
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.12](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.12) (3 days ago)
 - [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.3](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.3) (4 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.23.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.23.0) (6 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.26](https://github.com/phpstan/phpstan/releases/tag/1.10.26) (1 week ago)
