@@ -22,6 +22,9 @@ The more types are defined in the codebase the better the results of your IDE or
 This is usually the first thing you should do, before applying more advanced rector code transformations.
 Rector can be used in a similar way to apply other Rules or [Rulesets](https://getrector.com/documentation/set-lists).
 
+Additionally more type coverage is a great first step after a PHPStan/Psalm setup, to make sure static analysis can find relevant bugs efficiently.
+Otherwise adding types to a old codebase can take a lot of time. Doing it manually is also prone to errors.
+
 ## Overall plan
 
 These are the top level steps I try to follow:
