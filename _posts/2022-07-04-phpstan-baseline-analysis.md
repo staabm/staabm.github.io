@@ -64,11 +64,16 @@ $ phpstan-baseline-analyze *phpstan-baseline.neon --json > reference.json
 
 $ phpstan-baseline-trend reference.json now.json
 Analyzing Trend for app/portal/phpstan-baseline.neon
+  Overall-Errors: 30 -> 17 => improved
   Classes-Cognitive-Complexity: 309 -> 177 => improved
   Deprecations: 1 -> 2 => worse
   Invalid-Phpdocs: 3 -> 1 => good
   Unknown-Types: 5 -> 15 => worse
   Anonymous-Variables: 4 -> 3 => good
+  Unused-Symbols: 1 -> 1 => good
+  Native-Return-Type-Coverage: 20 -> 2 => worse
+  Native-Property-Type-Coverage: 3 -> 3 => good
+  Native-Param-Type-Coverage: 4 -> 40 => improved
 ```
 
 Tracking the teams progress over time is great way to make the work you put into the software visible, either to gamify the process for developers involved, but also to make this metrics transparent for the management.
