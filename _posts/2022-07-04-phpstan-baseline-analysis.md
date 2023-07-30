@@ -32,11 +32,16 @@ It contains all errors you did not yet have time to dig into.
 ```
 $ phpstan-baseline-analyze *phpstan-baseline.neon
 Analyzing app/portal/phpstan-baseline.neon
-  Classes-Cognitive-Complexity: 270
+  Overall-Errors: 41
+  Classes-Cognitive-Complexity: 70
   Deprecations: 2
   Invalid-Phpdocs: 5
   Unknown-Types: 1
   Anonymous-Variables: 4
+  Native-Property-Type-Coverage: 1
+  Native-Param-Type-Coverage: 27
+  Native-Return-Type-Coverage: 4
+  Unused-Symbols: 3
 ```
 
 As you can see, it aggregates different kind of errors and sum their occurrences.
