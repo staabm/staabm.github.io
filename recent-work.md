@@ -5,13 +5,13 @@
 
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [nette/utils](https://github.com/nette/utils) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Try CI on 8.3](https://github.com/TomasVotruba/unused-public/pull/85) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [configure dependabot](https://github.com/TomasVotruba/unused-public/pull/84) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [update readme](https://github.com/staabm/phpstan-baseline-analysis/pull/126) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [Support PHP 8.3](https://github.com/nette/utils/pull/297) on [nette/utils](https://github.com/nette/utils) (today)
@@ -54,11 +55,11 @@
 - [fix invalid php version constraint](https://github.com/staabm/phpstan-baseline-analysis/pull/125) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
 - [Support type-coverage in trend reports](https://github.com/staabm/phpstan-baseline-analysis/pull/123) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
 - [AddMethodCallBasedStrictParamTypeRector: Support changing protected methods in final classes](https://github.com/rectorphp/rector-src/pull/4611) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Resolve native return-type from native union-type in short ternary](https://github.com/rectorphp/rector-src/pull/4606) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.14.0](https://github.com/vimeo/psalm/releases/tag/5.14.0) (today)
 - [nette/utils](https://github.com/nette/utils) - [v4.0.1](https://github.com/nette/utils/releases/tag/v4.0.1) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.75](https://github.com/staabm/phpstan-dba/releases/tag/0.2.75) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.2](https://github.com/symfony/symfony/releases/tag/v6.3.2) (today)
@@ -68,4 +69,3 @@
 - [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [2.2.1](https://github.com/AndiLeni/media_negotiator/releases/tag/2.2.1) (2 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.12](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.12) (3 days ago)
 - [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.3](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.3) (4 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.23.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.23.0) (6 days ago)
