@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
@@ -12,7 +13,6 @@
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 
 
 #### 📜 My recent blog posts
@@ -59,6 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-b5](https://github.com/matomo-org/matomo/releases/tag/5.0.0-b5) (today)
+- [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [2.2.2](https://github.com/AndiLeni/media_negotiator/releases/tag/2.2.2) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v6.2.14](https://github.com/symfony/symfony/releases/tag/v6.2.14) (today)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.48.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.48.0) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.14.0](https://github.com/vimeo/psalm/releases/tag/5.14.0) (1 day ago)
@@ -66,6 +68,4 @@
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.75](https://github.com/staabm/phpstan-dba/releases/tag/0.2.75) (1 day ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.12](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.12) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.122](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.122) (3 days ago)
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.15.1-rc1](https://github.com/matomo-org/matomo/releases/tag/4.15.1-rc1) (3 days ago)
-- [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [2.2.1](https://github.com/AndiLeni/media_negotiator/releases/tag/2.2.1) (3 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.12](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.12) (4 days ago)
