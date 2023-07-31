@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.11.0](https://github.com/Roave/BetterReflection/releases/tag/6.11.0) (today)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-b5](https://github.com/matomo-org/matomo/releases/tag/5.0.0-b5) (today)
 - [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [2.2.2](https://github.com/AndiLeni/media_negotiator/releases/tag/2.2.2) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v6.2.14](https://github.com/symfony/symfony/releases/tag/v6.2.14) (today)
@@ -68,4 +69,3 @@
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.75](https://github.com/staabm/phpstan-dba/releases/tag/0.2.75) (1 day ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.12](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.12) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.122](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.122) (3 days ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.12](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.12) (4 days ago)
