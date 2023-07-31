@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.48.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.48.0) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.14.0](https://github.com/vimeo/psalm/releases/tag/5.14.0) (1 day ago)
 - [nette/utils](https://github.com/nette/utils) - [v4.0.1](https://github.com/nette/utils/releases/tag/v4.0.1) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.75](https://github.com/staabm/phpstan-dba/releases/tag/0.2.75) (1 day ago)
@@ -68,4 +69,3 @@
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.15.1-rc1](https://github.com/matomo-org/matomo/releases/tag/4.15.1-rc1) (3 days ago)
 - [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [2.2.1](https://github.com/AndiLeni/media_negotiator/releases/tag/2.2.1) (3 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.12](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.12) (4 days ago)
-- [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.3](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.3) (5 days ago)
