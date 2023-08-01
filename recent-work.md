@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.48.1](https://github.com/OskarStark/doctor-rst/releases/tag/1.48.1) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.14.1](https://github.com/vimeo/psalm/releases/tag/5.14.1) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.123](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.123) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.11.0](https://github.com/Roave/BetterReflection/releases/tag/6.11.0) (1 day ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-b5](https://github.com/matomo-org/matomo/releases/tag/5.0.0-b5) (1 day ago)
 - [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [2.2.2](https://github.com/AndiLeni/media_negotiator/releases/tag/2.2.2) (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v6.2.14](https://github.com/symfony/symfony/releases/tag/v6.2.14) (1 day ago)
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.48.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.48.0) (1 day ago)
 - [nette/utils](https://github.com/nette/utils) - [v4.0.1](https://github.com/nette/utils/releases/tag/v4.0.1) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.75](https://github.com/staabm/phpstan-dba/releases/tag/0.2.75) (2 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.12](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.12) (4 days ago)
