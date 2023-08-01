@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [nette/utils](https://github.com/nette/utils) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
 
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix &#34;TypeError: count() in analysis.php&#34;](https://github.com/FriendsOfREDAXO/rexstan/pull/551) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Try CI on 8.3](https://github.com/TomasVotruba/unused-public/pull/85) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
 - [configure dependabot](https://github.com/TomasVotruba/unused-public/pull/84) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
 - [update readme](https://github.com/staabm/phpstan-baseline-analysis/pull/126) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
@@ -54,18 +55,17 @@
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/107) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
 - [fix invalid php version constraint](https://github.com/staabm/phpstan-baseline-analysis/pull/125) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
 - [Support type-coverage in trend reports](https://github.com/staabm/phpstan-baseline-analysis/pull/123) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
-- [AddMethodCallBasedStrictParamTypeRector: Support changing protected methods in final classes](https://github.com/rectorphp/rector-src/pull/4611) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.14.1](https://github.com/vimeo/psalm/releases/tag/5.14.1) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.123](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.123) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.11.0](https://github.com/Roave/BetterReflection/releases/tag/6.11.0) (1 day ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-b5](https://github.com/matomo-org/matomo/releases/tag/5.0.0-b5) (1 day ago)
 - [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [2.2.2](https://github.com/AndiLeni/media_negotiator/releases/tag/2.2.2) (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v6.2.14](https://github.com/symfony/symfony/releases/tag/v6.2.14) (1 day ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.48.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.48.0) (1 day ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.14.0](https://github.com/vimeo/psalm/releases/tag/5.14.0) (2 days ago)
 - [nette/utils](https://github.com/nette/utils) - [v4.0.1](https://github.com/nette/utils/releases/tag/v4.0.1) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.75](https://github.com/staabm/phpstan-dba/releases/tag/0.2.75) (2 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.12](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.12) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.122](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.122) (4 days ago)
