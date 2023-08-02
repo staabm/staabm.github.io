@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [MethodExtensions class-name is case-insensitive](https://github.com/phpstan/phpstan-src/pull/2562) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Fix internal error in SimpleXMLElementConstructorThrowTypeExtension](https://github.com/phpstan/phpstan-src/pull/2561) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Added bug9714 regression test](https://github.com/phpstan/phpstan/pull/9716) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Implement PregGrepDynamicReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/2560) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix &#34;TypeError: count() in analysis.php&#34;](https://github.com/FriendsOfREDAXO/rexstan/pull/551) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -53,8 +55,6 @@
 - [Added failling tests regarding unknown parents](https://github.com/rectorphp/rector-src/pull/4619) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [mark connection_status() and connection_aborted() impure](https://github.com/JetBrains/phpstorm-stubs/pull/1560) on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (4 days ago)
 - [connection_* functions are impure](https://github.com/phpstan/phpstan-src/pull/2555) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Prevent unnecessary work in MutatingScope](https://github.com/phpstan/phpstan-src/pull/2554) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/107) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
