@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement PregGrepDynamicReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/2560) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix &#34;TypeError: count() in analysis.php&#34;](https://github.com/FriendsOfREDAXO/rexstan/pull/551) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [Try CI on 8.3](https://github.com/TomasVotruba/unused-public/pull/85) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
 - [configure dependabot](https://github.com/TomasVotruba/unused-public/pull/84) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
@@ -54,7 +55,6 @@
 - [Prevent unnecessary work in MutatingScope](https://github.com/phpstan/phpstan-src/pull/2554) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/107) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (5 days ago)
 - [fix invalid php version constraint](https://github.com/staabm/phpstan-baseline-analysis/pull/125) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (6 days ago)
-- [Support type-coverage in trend reports](https://github.com/staabm/phpstan-baseline-analysis/pull/123) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
