@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.23.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.23.1) (today)
 - [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [3.0.0](https://github.com/AndiLeni/media_negotiator/releases/tag/3.0.0) (2 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.15.1](https://github.com/matomo-org/matomo/releases/tag/4.15.1) (2 days ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.48.1](https://github.com/OskarStark/doctor-rst/releases/tag/1.48.1) (2 days ago)
@@ -68,4 +69,3 @@
 - [symfony/symfony](https://github.com/symfony/symfony) - [v6.2.14](https://github.com/symfony/symfony/releases/tag/v6.2.14) (3 days ago)
 - [nette/utils](https://github.com/nette/utils) - [v4.0.1](https://github.com/nette/utils/releases/tag/v4.0.1) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.75](https://github.com/staabm/phpstan-dba/releases/tag/0.2.75) (4 days ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.12](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.12) (6 days ago)
