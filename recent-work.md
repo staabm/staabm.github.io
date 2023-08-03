@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added failling PHPDoc types test](https://github.com/TomasVotruba/class-leak/pull/15) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (today)
 - [MethodExtensions class-name is case-insensitive](https://github.com/phpstan/phpstan-src/pull/2562) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix internal error in SimpleXMLElementConstructorThrowTypeExtension](https://github.com/phpstan/phpstan-src/pull/2561) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Added bug9714 regression test](https://github.com/phpstan/phpstan/pull/9716) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix MariaDB health check](https://github.com/staabm/phpstan-dba/pull/618) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [Added failling tests regarding unknown parents](https://github.com/rectorphp/rector-src/pull/4619) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 - [mark connection_status() and connection_aborted() impure](https://github.com/JetBrains/phpstorm-stubs/pull/1560) on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (5 days ago)
-- [connection_* functions are impure](https://github.com/phpstan/phpstan-src/pull/2555) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
