@@ -5,14 +5,14 @@
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (5 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (5 days ago)
 - [nette/utils](https://github.com/nette/utils) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (6 days ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/109) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [Docs: exclude_files also works on directories](https://github.com/qossmic/deptrac/pull/1262) on [qossmic/deptrac](https://github.com/qossmic/deptrac) (2 days ago)
 - [Added failling PHPDoc types test](https://github.com/TomasVotruba/class-leak/pull/15) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (2 days ago)
 - [MethodExtensions class-name is case-insensitive](https://github.com/phpstan/phpstan-src/pull/2562) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -54,11 +55,11 @@
 - [fix tomasvotruba/unused-public version constraint](https://github.com/staabm/phpstan-dba/pull/619) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 - [test installation on PHP 8.2/8.3](https://github.com/TomasVotruba/unused-public/pull/82) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (6 days ago)
 - [Fix MariaDB health check](https://github.com/staabm/phpstan-dba/pull/618) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
-- [Added failling tests regarding unknown parents](https://github.com/rectorphp/rector-src/pull/4619) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.13](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.13) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.27](https://github.com/phpstan/phpstan/releases/tag/1.10.27) (today)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.1.4](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.1.4) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.23.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.23.1) (2 days ago)
@@ -68,4 +69,3 @@
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.14.1](https://github.com/vimeo/psalm/releases/tag/5.14.1) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.123](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.123) (4 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.11.0](https://github.com/Roave/BetterReflection/releases/tag/6.11.0) (5 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v6.2.14](https://github.com/symfony/symfony/releases/tag/v6.2.14) (5 days ago)
