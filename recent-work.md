@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (5 days ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (6 days ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
+- [nette/utils](https://github.com/nette/utils) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
-- [nette/utils](https://github.com/nette/utils) (6 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (6 days ago)
 
 
 #### 📜 My recent blog posts
@@ -59,6 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.27](https://github.com/phpstan/phpstan/releases/tag/1.10.27) (today)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.1.4](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.1.4) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.23.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.23.1) (2 days ago)
 - [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [3.0.0](https://github.com/AndiLeni/media_negotiator/releases/tag/3.0.0) (4 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.15.1](https://github.com/matomo-org/matomo/releases/tag/4.15.1) (4 days ago)
@@ -67,5 +69,3 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.123](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.123) (4 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.11.0](https://github.com/Roave/BetterReflection/releases/tag/6.11.0) (5 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v6.2.14](https://github.com/symfony/symfony/releases/tag/v6.2.14) (5 days ago)
-- [nette/utils](https://github.com/nette/utils) - [v4.0.1](https://github.com/nette/utils/releases/tag/v4.0.1) (6 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.75](https://github.com/staabm/phpstan-dba/releases/tag/0.2.75) (6 days ago)
