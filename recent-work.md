@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [4.0.0alpha1](https://github.com/AndiLeni/media_negotiator/releases/tag/4.0.0alpha1) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.13](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.13) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.27](https://github.com/phpstan/phpstan/releases/tag/1.10.27) (today)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.1.4](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.1.4) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.23.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.23.1) (2 days ago)
-- [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [3.0.0](https://github.com/AndiLeni/media_negotiator/releases/tag/3.0.0) (4 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.15.1](https://github.com/matomo-org/matomo/releases/tag/4.15.1) (4 days ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.48.1](https://github.com/OskarStark/doctor-rst/releases/tag/1.48.1) (4 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.14.1](https://github.com/vimeo/psalm/releases/tag/5.14.1) (4 days ago)
