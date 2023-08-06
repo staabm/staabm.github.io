@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement ClassReflection-&gt;getParentClassName()](https://github.com/phpstan/phpstan-src/pull/2563) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Implement ReflectionClass-&gt;getParentClassName()](https://github.com/ondrejmirtes/BetterReflection/pull/31) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/109) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 - [Docs: exclude_files also works on directories](https://github.com/qossmic/deptrac/pull/1262) on [qossmic/deptrac](https://github.com/qossmic/deptrac) (3 days ago)
 - [Added failling PHPDoc types test](https://github.com/TomasVotruba/class-leak/pull/15) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (3 days ago)
@@ -53,8 +55,6 @@
 - [update readme](https://github.com/staabm/phpstan-baseline-analysis/pull/126) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [Support PHP 8.3](https://github.com/nette/utils/pull/297) on [nette/utils](https://github.com/nette/utils) (1 week ago)
 - [fix tomasvotruba/unused-public version constraint](https://github.com/staabm/phpstan-dba/pull/619) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [test installation on PHP 8.2/8.3](https://github.com/TomasVotruba/unused-public/pull/82) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
-- [Fix MariaDB health check](https://github.com/staabm/phpstan-dba/pull/618) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
