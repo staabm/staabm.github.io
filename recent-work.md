@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
-- [nette/utils](https://github.com/nette/utils) (1 week ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement `ReflectionClass#getInterfaceClassNames()`](https://github.com/Roave/BetterReflection/pull/1361) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [Implement ClassReflection-&gt;getParentClassName()](https://github.com/phpstan/phpstan-src/pull/2563) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Implement ReflectionClass-&gt;getParentClassName()](https://github.com/ondrejmirtes/BetterReflection/pull/31) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (1 day ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/109) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
@@ -54,7 +55,6 @@
 - [configure dependabot](https://github.com/TomasVotruba/unused-public/pull/84) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [update readme](https://github.com/staabm/phpstan-baseline-analysis/pull/126) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [Support PHP 8.3](https://github.com/nette/utils/pull/297) on [nette/utils](https://github.com/nette/utils) (1 week ago)
-- [fix tomasvotruba/unused-public version constraint](https://github.com/staabm/phpstan-dba/pull/619) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
