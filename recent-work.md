@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [1.7.8.10](https://github.com/PrestaShop/PrestaShop/releases/tag/1.7.8.10) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.124](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.124) (2 days ago)
 - [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [4.0.0alpha1](https://github.com/AndiLeni/media_negotiator/releases/tag/4.0.0alpha1) (2 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.13](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.13) (2 days ago)
@@ -68,4 +69,3 @@
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.15.1](https://github.com/matomo-org/matomo/releases/tag/4.15.1) (6 days ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.48.1](https://github.com/OskarStark/doctor-rst/releases/tag/1.48.1) (6 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.14.1](https://github.com/vimeo/psalm/releases/tag/5.14.1) (6 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.11.0](https://github.com/Roave/BetterReflection/releases/tag/6.11.0) (1 week ago)
