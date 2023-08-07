@@ -5,14 +5,14 @@
 
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement `ReflectionClass#getTraitClassNames()`](https://github.com/Roave/BetterReflection/pull/1362) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [Implement `ReflectionClass#getInterfaceClassNames()`](https://github.com/Roave/BetterReflection/pull/1361) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [Implement ClassReflection-&gt;getParentClassName()](https://github.com/phpstan/phpstan-src/pull/2563) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Implement ReflectionClass-&gt;getParentClassName()](https://github.com/ondrejmirtes/BetterReflection/pull/31) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (1 day ago)
@@ -54,11 +55,11 @@
 - [Try CI on 8.3](https://github.com/TomasVotruba/unused-public/pull/85) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [configure dependabot](https://github.com/TomasVotruba/unused-public/pull/84) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [update readme](https://github.com/staabm/phpstan-baseline-analysis/pull/126) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
-- [Support PHP 8.3](https://github.com/nette/utils/pull/297) on [nette/utils](https://github.com/nette/utils) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.12.0](https://github.com/Roave/BetterReflection/releases/tag/6.12.0) (today)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [1.7.8.10](https://github.com/PrestaShop/PrestaShop/releases/tag/1.7.8.10) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.124](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.124) (2 days ago)
 - [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [4.0.0alpha1](https://github.com/AndiLeni/media_negotiator/releases/tag/4.0.0alpha1) (2 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.23.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.23.1) (4 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.15.1](https://github.com/matomo-org/matomo/releases/tag/4.15.1) (6 days ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.48.1](https://github.com/OskarStark/doctor-rst/releases/tag/1.48.1) (6 days ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.14.1](https://github.com/vimeo/psalm/releases/tag/5.14.1) (6 days ago)
