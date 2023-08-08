@@ -59,7 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.48.2](https://github.com/OskarStark/doctor-rst/releases/tag/1.48.2) (today)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.41](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.41) (today)
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.48.4](https://github.com/OskarStark/doctor-rst/releases/tag/1.48.4) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.12.0](https://github.com/Roave/BetterReflection/releases/tag/6.12.0) (1 day ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [1.7.8.10](https://github.com/PrestaShop/PrestaShop/releases/tag/1.7.8.10) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.124](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.124) (3 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.27](https://github.com/phpstan/phpstan/releases/tag/1.10.27) (3 days ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.1.4](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.1.4) (3 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.23.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.23.1) (5 days ago)
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.15.1](https://github.com/matomo-org/matomo/releases/tag/4.15.1) (1 week ago)
