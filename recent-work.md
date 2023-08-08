@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix typo](https://github.com/ondrejmirtes/BetterReflection/pull/33) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (today)
+- [Added AST based type retrieval methods on ClassReflection](https://github.com/phpstan/phpstan-src/pull/2566) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Added AST based type retrieval methods](https://github.com/ondrejmirtes/BetterReflection/pull/32) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (today)
 - [Implement `ReflectionClass#getTraitClassNames()`](https://github.com/Roave/BetterReflection/pull/1362) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
 - [Implement `ReflectionClass#getInterfaceClassNames()`](https://github.com/Roave/BetterReflection/pull/1361) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
 - [Implement ClassReflection-&gt;getParentClassName()](https://github.com/phpstan/phpstan-src/pull/2563) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -52,9 +55,6 @@
 - [Added bug9714 regression test](https://github.com/phpstan/phpstan/pull/9716) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
 - [Implement PregGrepDynamicReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/2560) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Fix &#34;TypeError: count() in analysis.php&#34;](https://github.com/FriendsOfREDAXO/rexstan/pull/551) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [Try CI on 8.3](https://github.com/TomasVotruba/unused-public/pull/85) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
-- [configure dependabot](https://github.com/TomasVotruba/unused-public/pull/84) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
-- [update readme](https://github.com/staabm/phpstan-baseline-analysis/pull/126) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
