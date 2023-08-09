@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.42](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.42) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.28](https://github.com/phpstan/phpstan/releases/tag/1.10.28) (1 day ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.41](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.41) (1 day ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.48.4](https://github.com/OskarStark/doctor-rst/releases/tag/1.48.4) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.12.0](https://github.com/Roave/BetterReflection/releases/tag/6.12.0) (2 days ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [1.7.8.10](https://github.com/PrestaShop/PrestaShop/releases/tag/1.7.8.10) (2 days ago)
