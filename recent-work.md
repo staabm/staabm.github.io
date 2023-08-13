@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (6 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix typo](https://github.com/staabm/rector-src/pull/2) on [staabm/rector-src](https://github.com/staabm/rector-src) (today)
+- [Support handling of rector fatal errors](https://github.com/FriendsOfREDAXO/rexfactor/pull/111) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
+- [Use monotonic timer in rex_timer](https://github.com/redaxo/redaxo/pull/5773) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [Fix typo](https://github.com/ondrejmirtes/BetterReflection/pull/33) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (5 days ago)
 - [Added AST based type retrieval methods on ClassReflection](https://github.com/phpstan/phpstan-src/pull/2566) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Added AST based type retrieval methods](https://github.com/ondrejmirtes/BetterReflection/pull/32) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (5 days ago)
@@ -52,19 +55,16 @@
 - [Added failling PHPDoc types test](https://github.com/TomasVotruba/class-leak/pull/15) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (1 week ago)
 - [MethodExtensions class-name is case-insensitive](https://github.com/phpstan/phpstan-src/pull/2562) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix internal error in SimpleXMLElementConstructorThrowTypeExtension](https://github.com/phpstan/phpstan-src/pull/2561) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Added bug9714 regression test](https://github.com/phpstan/phpstan/pull/9716) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
-- [Implement PregGrepDynamicReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/2560) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix &#34;TypeError: count() in analysis.php&#34;](https://github.com/FriendsOfREDAXO/rexstan/pull/551) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.125](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.125) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.42](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.42) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.28](https://github.com/phpstan/phpstan/releases/tag/1.10.28) (5 days ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.48.4](https://github.com/OskarStark/doctor-rst/releases/tag/1.48.4) (5 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.12.0](https://github.com/Roave/BetterReflection/releases/tag/6.12.0) (6 days ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [1.7.8.10](https://github.com/PrestaShop/PrestaShop/releases/tag/1.7.8.10) (6 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.124](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.124) (1 week ago)
 - [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [4.0.0alpha1](https://github.com/AndiLeni/media_negotiator/releases/tag/4.0.0alpha1) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.13](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.13) (1 week ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.1.4](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.1.4) (1 week ago)
