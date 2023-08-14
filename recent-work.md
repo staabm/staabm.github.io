@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.23.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.23.0) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.14](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.14) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.125](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.125) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.42](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.42) (5 days ago)
@@ -68,4 +69,3 @@
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [1.7.8.10](https://github.com/PrestaShop/PrestaShop/releases/tag/1.7.8.10) (1 week ago)
 - [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [4.0.0alpha1](https://github.com/AndiLeni/media_negotiator/releases/tag/4.0.0alpha1) (1 week ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.1.4](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.1.4) (1 week ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.23.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.23.1) (1 week ago)
