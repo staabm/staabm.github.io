@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -18,7 +18,7 @@
 #### 📜 My recent blog posts
 
 - [Rector In Legacy Projects](https://staabm.github.io/2023/07/23/rector-in-legacy-projects.html) (3 weeks ago)
-- [Doctor Rst Speedup](https://staabm.github.io/2023/05/18/doctor-rst-speedup.html) (2 months ago)
+- [Doctor Rst Speedup](https://staabm.github.io/2023/05/18/doctor-rst-speedup.html) (3 months ago)
 - [How To Debug Slow Rector Projects](https://staabm.github.io/2023/05/10/how-to-debug-slow-rector-projects.html) (3 months ago)
 - [Racing Rector](https://staabm.github.io/2023/05/06/racing-rector.html) (3 months ago)
 - [Diff Speeding](https://staabm.github.io/2023/05/01/diff-speeding.html) (3 months ago)
@@ -40,12 +40,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [CI: test on PHP 8.2/8.3](https://github.com/composer/pcre/pull/17) on [composer/pcre](https://github.com/composer/pcre) (today)
-- [rex_sql: handle NULL in getArrayValue()](https://github.com/redaxo/redaxo/pull/5774) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
-- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/112) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
-- [Fix typo](https://github.com/staabm/rector-src/pull/2) on [staabm/rector-src](https://github.com/staabm/rector-src) (2 days ago)
-- [Support handling of rector fatal errors](https://github.com/FriendsOfREDAXO/rexfactor/pull/111) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
-- [Use monotonic timer in rex_timer](https://github.com/redaxo/redaxo/pull/5773) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
+- [CI: test on PHP 8.2/8.3](https://github.com/composer/pcre/pull/17) on [composer/pcre](https://github.com/composer/pcre) (1 day ago)
+- [rex_sql: handle NULL in getArrayValue()](https://github.com/redaxo/redaxo/pull/5774) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/112) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
+- [Fix typo](https://github.com/staabm/rector-src/pull/2) on [staabm/rector-src](https://github.com/staabm/rector-src) (3 days ago)
+- [Support handling of rector fatal errors](https://github.com/FriendsOfREDAXO/rexfactor/pull/111) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
+- [Use monotonic timer in rex_timer](https://github.com/redaxo/redaxo/pull/5773) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
 - [Fix typo](https://github.com/ondrejmirtes/BetterReflection/pull/33) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (1 week ago)
 - [Added AST based type retrieval methods on ClassReflection](https://github.com/phpstan/phpstan-src/pull/2566) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Added AST based type retrieval methods](https://github.com/ondrejmirtes/BetterReflection/pull/32) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (1 week ago)
@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.29](https://github.com/phpstan/phpstan/releases/tag/1.10.29) (1 day ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.23.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.23.0) (1 day ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.14](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.14) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.125](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.125) (2 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.42](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.42) (6 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.29](https://github.com/phpstan/phpstan/releases/tag/1.10.29) (2 days ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.23.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.23.0) (2 days ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.14](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.14) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.125](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.125) (3 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.42](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.42) (1 week ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.48.4](https://github.com/OskarStark/doctor-rst/releases/tag/1.48.4) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.12.0](https://github.com/Roave/BetterReflection/releases/tag/6.12.0) (1 week ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [1.7.8.10](https://github.com/PrestaShop/PrestaShop/releases/tag/1.7.8.10) (1 week ago)
