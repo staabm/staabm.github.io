@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 weeks ago)
-- [nette/utils](https://github.com/nette/utils) (2 weeks ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
 
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [use better example image](https://github.com/staabm/phpstan-baseline-analysis/pull/130) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [CI: test on PHP 8.2/8.3](https://github.com/composer/pcre/pull/17) on [composer/pcre](https://github.com/composer/pcre) (1 day ago)
 - [rex_sql: handle NULL in getArrayValue()](https://github.com/redaxo/redaxo/pull/5774) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/112) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
@@ -54,7 +55,6 @@
 - [Implement ClassReflection-&gt;getParentClassName()](https://github.com/phpstan/phpstan-src/pull/2563) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Implement ReflectionClass-&gt;getParentClassName()](https://github.com/ondrejmirtes/BetterReflection/pull/31) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (1 week ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/109) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
-- [Docs: exclude_files also works on directories](https://github.com/qossmic/deptrac/pull/1262) on [qossmic/deptrac](https://github.com/qossmic/deptrac) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
