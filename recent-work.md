@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-rc1](https://github.com/matomo-org/matomo/releases/tag/5.0.0-rc1) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.29](https://github.com/phpstan/phpstan/releases/tag/1.10.29) (3 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.23.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.23.0) (3 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.14](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.14) (4 days ago)
@@ -68,4 +69,3 @@
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.12.0](https://github.com/Roave/BetterReflection/releases/tag/6.12.0) (1 week ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [1.7.8.10](https://github.com/PrestaShop/PrestaShop/releases/tag/1.7.8.10) (1 week ago)
 - [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [4.0.0alpha1](https://github.com/AndiLeni/media_negotiator/releases/tag/4.0.0alpha1) (1 week ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.1.4](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.1.4) (1 week ago)
