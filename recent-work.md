@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [AddReturnTypeDeclarationBasedOnParentClassMethodRector: don&#39;t trust phpdoc types](https://github.com/rectorphp/rector-src/pull/4810) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Skip PHPDoc return type in AddReturnTypeDeclarationBasedOnParentClassMethodRector](https://github.com/rectorphp/rector-src/pull/4809) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Faster AddParamBasedOnParentClassMethodRector](https://github.com/rectorphp/rector-src/pull/4805) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Faster AddReturnTypeDeclarationBasedOnParentClassMethodRector](https://github.com/rectorphp/rector-src/pull/4804) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
@@ -54,7 +55,6 @@
 - [Added AST based type retrieval methods on ClassReflection](https://github.com/phpstan/phpstan-src/pull/2566) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Added AST based type retrieval methods](https://github.com/ondrejmirtes/BetterReflection/pull/32) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (1 week ago)
 - [Implement `ReflectionClass#getTraitClassNames()`](https://github.com/Roave/BetterReflection/pull/1362) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
-- [Implement `ReflectionClass#getInterfaceClassNames()`](https://github.com/Roave/BetterReflection/pull/1361) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
