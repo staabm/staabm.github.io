@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 weeks ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 weeks ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix typo](https://github.com/rectorphp/getrector-com/pull/1590) on [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (today)
+- [Fix typo](https://github.com/staabm/getrector-com/pull/2) on [staabm/getrector-com](https://github.com/staabm/getrector-com) (today)
+- [fix typo](https://github.com/staabm/getrector-com/pull/1) on [staabm/getrector-com](https://github.com/staabm/getrector-com) (today)
 - [AddReturnTypeDeclarationBasedOnParentClassMethodRector: don&#39;t trust phpdoc types](https://github.com/rectorphp/rector-src/pull/4810) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [Skip PHPDoc return type in AddReturnTypeDeclarationBasedOnParentClassMethodRector](https://github.com/rectorphp/rector-src/pull/4809) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [Faster AddParamBasedOnParentClassMethodRector](https://github.com/rectorphp/rector-src/pull/4805) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
@@ -52,9 +55,6 @@
 - [Support handling of rector fatal errors](https://github.com/FriendsOfREDAXO/rexfactor/pull/111) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [Use monotonic timer in rex_timer](https://github.com/redaxo/redaxo/pull/5773) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [Fix typo](https://github.com/ondrejmirtes/BetterReflection/pull/33) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (1 week ago)
-- [Added AST based type retrieval methods on ClassReflection](https://github.com/phpstan/phpstan-src/pull/2566) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Added AST based type retrieval methods](https://github.com/ondrejmirtes/BetterReflection/pull/32) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (1 week ago)
-- [Implement `ReflectionClass#getTraitClassNames()`](https://github.com/Roave/BetterReflection/pull/1362) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
