@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/annotate-pull-request-from-checkstyle-action](https://github.com/staabm/annotate-pull-request-from-checkstyle-action) (today)
 - [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (1 day ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (6 days ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 weeks ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.30](https://github.com/phpstan/phpstan/releases/tag/1.10.30) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.15.0](https://github.com/vimeo/psalm/releases/tag/5.15.0) (1 day ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.15.2-b1](https://github.com/matomo-org/matomo/releases/tag/4.15.2-b1) (4 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.29](https://github.com/phpstan/phpstan/releases/tag/1.10.29) (1 week ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.23.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.23.0) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.14](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.14) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.125](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.125) (1 week ago)
