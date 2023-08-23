@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support dynamicConstantNames in ConstantRule](https://github.com/phpstan/phpstan-src/pull/2581) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix typo](https://github.com/rectorphp/getrector-com/pull/1590) on [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (2 days ago)
 - [Fix typo](https://github.com/staabm/getrector-com/pull/2) on [staabm/getrector-com](https://github.com/staabm/getrector-com) (2 days ago)
 - [fix typo](https://github.com/staabm/getrector-com/pull/1) on [staabm/getrector-com](https://github.com/staabm/getrector-com) (2 days ago)
@@ -54,7 +55,6 @@
 - [Fix typo](https://github.com/staabm/rector-src/pull/2) on [staabm/rector-src](https://github.com/staabm/rector-src) (1 week ago)
 - [Support handling of rector fatal errors](https://github.com/FriendsOfREDAXO/rexfactor/pull/111) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [Use monotonic timer in rex_timer](https://github.com/redaxo/redaxo/pull/5773) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
-- [Fix typo](https://github.com/ondrejmirtes/BetterReflection/pull/33) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
