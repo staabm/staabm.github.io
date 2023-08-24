@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.31](https://github.com/phpstan/phpstan/releases/tag/1.10.31) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.32](https://github.com/phpstan/phpstan/releases/tag/1.10.32) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.126](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.126) (1 day ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.15.0](https://github.com/vimeo/psalm/releases/tag/5.15.0) (3 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.15.2-b1](https://github.com/matomo-org/matomo/releases/tag/4.15.2-b1) (6 days ago)
