@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/annotate-pull-request-from-checkstyle-action](https://github.com/staabm/annotate-pull-request-from-checkstyle-action) (2 days ago)
 - [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (4 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/566) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Support dynamicConstantNames in ConstantRule](https://github.com/phpstan/phpstan-src/pull/2581) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fix typo](https://github.com/rectorphp/getrector-com/pull/1590) on [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (4 days ago)
 - [Fix typo](https://github.com/staabm/getrector-com/pull/2) on [staabm/getrector-com](https://github.com/staabm/getrector-com) (4 days ago)
@@ -54,13 +55,12 @@
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/112) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [Fix typo](https://github.com/staabm/rector-src/pull/2) on [staabm/rector-src](https://github.com/staabm/rector-src) (1 week ago)
 - [Support handling of rector fatal errors](https://github.com/FriendsOfREDAXO/rexfactor/pull/111) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
-- [Use monotonic timer in rex_timer](https://github.com/redaxo/redaxo/pull/5773) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.127](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.127) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.32](https://github.com/phpstan/phpstan/releases/tag/1.10.32) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.126](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.126) (2 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.15.0](https://github.com/vimeo/psalm/releases/tag/5.15.0) (4 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.15.2-b1](https://github.com/matomo-org/matomo/releases/tag/4.15.2-b1) (1 week ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.23.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.23.0) (1 week ago)
