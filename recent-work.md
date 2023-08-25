@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Blackfire: Add distributed profilling support](https://github.com/phpstan/phpstan-src/pull/2586) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent most `$parentPhpDocBlock-&gt;getClassReflection()-&gt;isBuiltin()` calls](https://github.com/phpstan/phpstan-src/pull/2585) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Made ParentClass reflection resolving lazier](https://github.com/phpstan/phpstan-src/pull/2584) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [make symfony console patch more descriptive](https://github.com/rectorphp/vendor-patches/pull/3) on [rectorphp/vendor-patches](https://github.com/rectorphp/vendor-patches) (today)
@@ -54,7 +55,6 @@
 - [Faster AddParamBasedOnParentClassMethodRector](https://github.com/rectorphp/rector-src/pull/4805) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Faster AddReturnTypeDeclarationBasedOnParentClassMethodRector](https://github.com/rectorphp/rector-src/pull/4804) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [use better example image](https://github.com/staabm/phpstan-baseline-analysis/pull/130) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
-- [CI: test on PHP 8.2/8.3](https://github.com/composer/pcre/pull/17) on [composer/pcre](https://github.com/composer/pcre) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
