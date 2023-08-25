@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [make symfony console patch more descriptive](https://github.com/rectorphp/vendor-patches/pull/3) on [rectorphp/vendor-patches](https://github.com/rectorphp/vendor-patches) (today)
+- [make symfony console patch more descriptive](https://github.com/staabm/vendor-patches/pull/1) on [staabm/vendor-patches](https://github.com/staabm/vendor-patches) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/566) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Support dynamicConstantNames in ConstantRule](https://github.com/phpstan/phpstan-src/pull/2581) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fix typo](https://github.com/rectorphp/getrector-com/pull/1590) on [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (4 days ago)
@@ -53,8 +55,6 @@
 - [CI: test on PHP 8.2/8.3](https://github.com/composer/pcre/pull/17) on [composer/pcre](https://github.com/composer/pcre) (1 week ago)
 - [rex_sql: handle NULL in getArrayValue()](https://github.com/redaxo/redaxo/pull/5774) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/112) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
-- [Fix typo](https://github.com/staabm/rector-src/pull/2) on [staabm/rector-src](https://github.com/staabm/rector-src) (1 week ago)
-- [Support handling of rector fatal errors](https://github.com/FriendsOfREDAXO/rexfactor/pull/111) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
