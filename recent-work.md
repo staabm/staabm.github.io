@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Made ParentClass reflection resolving lazier](https://github.com/phpstan/phpstan-src/pull/2584) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [make symfony console patch more descriptive](https://github.com/rectorphp/vendor-patches/pull/3) on [rectorphp/vendor-patches](https://github.com/rectorphp/vendor-patches) (today)
 - [make symfony console patch more descriptive](https://github.com/staabm/vendor-patches/pull/1) on [staabm/vendor-patches](https://github.com/staabm/vendor-patches) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/566) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
@@ -54,11 +55,11 @@
 - [use better example image](https://github.com/staabm/phpstan-baseline-analysis/pull/130) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [CI: test on PHP 8.2/8.3](https://github.com/composer/pcre/pull/17) on [composer/pcre](https://github.com/composer/pcre) (1 week ago)
 - [rex_sql: handle NULL in getArrayValue()](https://github.com/redaxo/redaxo/pull/5774) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
-- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/112) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.14](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.14) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.127](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.127) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.32](https://github.com/phpstan/phpstan/releases/tag/1.10.32) (1 day ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.15.0](https://github.com/vimeo/psalm/releases/tag/5.15.0) (4 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.42](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.42) (2 weeks ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.48.4](https://github.com/OskarStark/doctor-rst/releases/tag/1.48.4) (2 weeks ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.12.0](https://github.com/Roave/BetterReflection/releases/tag/6.12.0) (2 weeks ago)
-- [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [1.7.8.10](https://github.com/PrestaShop/PrestaShop/releases/tag/1.7.8.10) (2 weeks ago)
