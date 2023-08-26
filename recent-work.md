@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [staabm/annotate-pull-request-from-checkstyle-action](https://github.com/staabm/annotate-pull-request-from-checkstyle-action) (2 days ago)
-- [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (4 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [staabm/annotate-pull-request-from-checkstyle-action](https://github.com/staabm/annotate-pull-request-from-checkstyle-action) (3 days ago)
+- [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (5 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 weeks ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 weeks ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 weeks ago)
 
 
@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Blackfire: Add distributed profilling support](https://github.com/phpstan/phpstan-src/pull/2586) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Prevent most `$parentPhpDocBlock-&gt;getClassReflection()-&gt;isBuiltin()` calls](https://github.com/phpstan/phpstan-src/pull/2585) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Made ParentClass reflection resolving lazier](https://github.com/phpstan/phpstan-src/pull/2584) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [make symfony console patch more descriptive](https://github.com/rectorphp/vendor-patches/pull/3) on [rectorphp/vendor-patches](https://github.com/rectorphp/vendor-patches) (today)
-- [make symfony console patch more descriptive](https://github.com/staabm/vendor-patches/pull/1) on [staabm/vendor-patches](https://github.com/staabm/vendor-patches) (today)
-- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/566) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [Support dynamicConstantNames in ConstantRule](https://github.com/phpstan/phpstan-src/pull/2581) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Fix typo](https://github.com/rectorphp/getrector-com/pull/1590) on [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (4 days ago)
-- [Fix typo](https://github.com/staabm/getrector-com/pull/2) on [staabm/getrector-com](https://github.com/staabm/getrector-com) (4 days ago)
-- [fix typo](https://github.com/staabm/getrector-com/pull/1) on [staabm/getrector-com](https://github.com/staabm/getrector-com) (4 days ago)
+- [Blackfire: Add distributed profilling support](https://github.com/phpstan/phpstan-src/pull/2586) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Prevent most `$parentPhpDocBlock-&gt;getClassReflection()-&gt;isBuiltin()` calls](https://github.com/phpstan/phpstan-src/pull/2585) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Made ParentClass reflection resolving lazier](https://github.com/phpstan/phpstan-src/pull/2584) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [make symfony console patch more descriptive](https://github.com/rectorphp/vendor-patches/pull/3) on [rectorphp/vendor-patches](https://github.com/rectorphp/vendor-patches) (1 day ago)
+- [make symfony console patch more descriptive](https://github.com/staabm/vendor-patches/pull/1) on [staabm/vendor-patches](https://github.com/staabm/vendor-patches) (1 day ago)
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/566) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [Support dynamicConstantNames in ConstantRule](https://github.com/phpstan/phpstan-src/pull/2581) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Fix typo](https://github.com/rectorphp/getrector-com/pull/1590) on [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (5 days ago)
+- [Fix typo](https://github.com/staabm/getrector-com/pull/2) on [staabm/getrector-com](https://github.com/staabm/getrector-com) (5 days ago)
+- [fix typo](https://github.com/staabm/getrector-com/pull/1) on [staabm/getrector-com](https://github.com/staabm/getrector-com) (5 days ago)
 - [AddReturnTypeDeclarationBasedOnParentClassMethodRector: don&#39;t trust phpdoc types](https://github.com/rectorphp/rector-src/pull/4810) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Skip PHPDoc return type in AddReturnTypeDeclarationBasedOnParentClassMethodRector](https://github.com/rectorphp/rector-src/pull/4809) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Faster AddParamBasedOnParentClassMethodRector](https://github.com/rectorphp/rector-src/pull/4805) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.14](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.14) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.127](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.127) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.32](https://github.com/phpstan/phpstan/releases/tag/1.10.32) (1 day ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.15.0](https://github.com/vimeo/psalm/releases/tag/5.15.0) (4 days ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.14](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.14) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.127](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.127) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.32](https://github.com/phpstan/phpstan/releases/tag/1.10.32) (2 days ago)
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.15.0](https://github.com/vimeo/psalm/releases/tag/5.15.0) (5 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.15.2-b1](https://github.com/matomo-org/matomo/releases/tag/4.15.2-b1) (1 week ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.23.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.23.0) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.14](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.14) (1 week ago)
