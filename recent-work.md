@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement array shapes for preg_match() $matches](https://github.com/phpstan/phpstan-src/pull/2589) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Faster `rex_version::gitHash()`](https://github.com/redaxo/redaxo/pull/5778) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [Blackfire: Add distributed profilling support](https://github.com/phpstan/phpstan-src/pull/2586) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Prevent most `$parentPhpDocBlock-&gt;getClassReflection()-&gt;isBuiltin()` calls](https://github.com/phpstan/phpstan-src/pull/2585) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [AddReturnTypeDeclarationBasedOnParentClassMethodRector: don&#39;t trust phpdoc types](https://github.com/rectorphp/rector-src/pull/4810) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Skip PHPDoc return type in AddReturnTypeDeclarationBasedOnParentClassMethodRector](https://github.com/rectorphp/rector-src/pull/4809) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Faster AddParamBasedOnParentClassMethodRector](https://github.com/rectorphp/rector-src/pull/4805) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [Faster AddReturnTypeDeclarationBasedOnParentClassMethodRector](https://github.com/rectorphp/rector-src/pull/4804) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
