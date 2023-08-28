@@ -32,10 +32,10 @@
 - [drupol](https://github.com/drupol) (3 months ago)
 - [CapnFelix](https://github.com/CapnFelix) (4 months ago)
 - [iluuu1994](https://github.com/iluuu1994) (4 months ago)
-- [simonsinus](https://github.com/simonsinus) (5 months ago)
 - [omphteliba](https://github.com/omphteliba) (5 months ago)
 - [wdes](https://github.com/wdes) (5 months ago)
 - [TomasVotruba](https://github.com/TomasVotruba) (7 months ago)
+- [timetape-de](https://github.com/timetape-de) (7 months ago)
 
 
 #### 🔨 My recent Pull Requests
