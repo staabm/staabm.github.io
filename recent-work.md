@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [micro: use spl_object_id()](https://github.com/Roave/BetterReflection/pull/1364) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
+- [micro: use spl_object_id()](https://github.com/phpstan/phpstan-src/pull/2592) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement array shapes for preg_match() $matches](https://github.com/phpstan/phpstan-src/pull/2589) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Faster `rex_version::gitHash()`](https://github.com/redaxo/redaxo/pull/5778) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [Blackfire: Add distributed profilling support](https://github.com/phpstan/phpstan-src/pull/2586) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -53,8 +55,6 @@
 - [Fix typo](https://github.com/staabm/getrector-com/pull/2) on [staabm/getrector-com](https://github.com/staabm/getrector-com) (1 week ago)
 - [fix typo](https://github.com/staabm/getrector-com/pull/1) on [staabm/getrector-com](https://github.com/staabm/getrector-com) (1 week ago)
 - [AddReturnTypeDeclarationBasedOnParentClassMethodRector: don&#39;t trust phpdoc types](https://github.com/rectorphp/rector-src/pull/4810) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [Skip PHPDoc return type in AddReturnTypeDeclarationBasedOnParentClassMethodRector](https://github.com/rectorphp/rector-src/pull/4809) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [Faster AddParamBasedOnParentClassMethodRector](https://github.com/rectorphp/rector-src/pull/4805) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
