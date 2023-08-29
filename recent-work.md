@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.13.0](https://github.com/Roave/BetterReflection/releases/tag/6.13.0) (today)
 - [xsist10/cadfael](https://github.com/xsist10/cadfael) - [0.3.3](https://github.com/xsist10/cadfael/releases/tag/0.3.3) (2 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.4](https://github.com/symfony/symfony/releases/tag/v6.3.4) (3 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.14](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.14) (4 days ago)
@@ -68,4 +69,3 @@
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.15.2-b1](https://github.com/matomo-org/matomo/releases/tag/4.15.2-b1) (1 week ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.23.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.23.0) (2 weeks ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.14](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.14) (2 weeks ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.42](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.42) (2 weeks ago)
