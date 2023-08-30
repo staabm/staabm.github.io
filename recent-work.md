@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
@@ -12,7 +13,6 @@
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 weeks ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 weeks ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 weeks ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
