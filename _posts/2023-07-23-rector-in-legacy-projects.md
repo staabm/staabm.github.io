@@ -20,7 +20,7 @@ The article describes how to utilize Rector to maximize type coverage of a legac
 The more types are defined in the codebase the better the results of your IDE or static analysis tools will be.
 
 This is usually the first thing you should do, before applying more advanced rector code transformations.
-Rector can be used in a similar way to apply other Rules or [Rulesets](https://getrector.com/documentation/set-lists).
+Rector can be used in a similar way to apply other [Rules](https://github.com/rectorphp/rector/blob/main/docs/rector_rules_overview.md) or [Rulesets](https://getrector.com/documentation/set-lists).
 
 Additionally more type coverage is a great first step after a PHPStan/Psalm setup, to make sure static analysis can find relevant bugs efficiently.
 Otherwise adding types to a old codebase can take a lot of time. Doing it manually is also prone to errors.
