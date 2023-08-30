@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent unnecessary IO in ComposerJsonAndInstalledJsonSourceLocatorMaker](https://github.com/phpstan/phpstan-src/pull/2596) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [micro: prevent unnecessary IO in PhpVersionFactoryFactory](https://github.com/phpstan/phpstan-src/pull/2594) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [ReturnTypeFromStrictParamRector: Fix typo in test-fixture](https://github.com/rectorphp/rector-src/pull/4879) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [micro-optimization: use `spl_object_id()` instead of `spl_object_hash()`](https://github.com/Roave/BetterReflection/pull/1364) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 days ago)
 - [micro: use spl_object_id()](https://github.com/phpstan/phpstan-src/pull/2592) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -53,8 +55,6 @@
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/566) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [Support dynamicConstantNames in ConstantRule](https://github.com/phpstan/phpstan-src/pull/2581) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix typo](https://github.com/rectorphp/getrector-com/pull/1590) on [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (1 week ago)
-- [Fix typo](https://github.com/staabm/getrector-com/pull/2) on [staabm/getrector-com](https://github.com/staabm/getrector-com) (1 week ago)
-- [fix typo](https://github.com/staabm/getrector-com/pull/1) on [staabm/getrector-com](https://github.com/staabm/getrector-com) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
