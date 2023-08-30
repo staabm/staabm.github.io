@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.4](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.4) (today)
 - [staabm/annotate-pull-request-from-checkstyle-action](https://github.com/staabm/annotate-pull-request-from-checkstyle-action) - [v1](https://github.com/staabm/annotate-pull-request-from-checkstyle-action/releases/tag/v1) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.24.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.24.0) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.13.0](https://github.com/Roave/BetterReflection/releases/tag/6.13.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.127](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.127) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.32](https://github.com/phpstan/phpstan/releases/tag/1.10.32) (6 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.15.0](https://github.com/vimeo/psalm/releases/tag/5.15.0) (1 week ago)
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.15.2-b1](https://github.com/matomo-org/matomo/releases/tag/4.15.2-b1) (1 week ago)
