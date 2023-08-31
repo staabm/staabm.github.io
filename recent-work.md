@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ReturnUnionTypeRector should keep static](https://github.com/rectorphp/rector-src/pull/4889) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Prevent unnecessary IO in ComposerJsonAndInstalledJsonSourceLocatorMaker](https://github.com/phpstan/phpstan-src/pull/2596) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [micro: prevent unnecessary IO in PhpVersionFactoryFactory](https://github.com/phpstan/phpstan-src/pull/2594) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [ReturnTypeFromStrictParamRector: Fix typo in test-fixture](https://github.com/rectorphp/rector-src/pull/4879) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [make symfony console patch more descriptive](https://github.com/staabm/vendor-patches/pull/1) on [staabm/vendor-patches](https://github.com/staabm/vendor-patches) (6 days ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/566) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [Support dynamicConstantNames in ConstantRule](https://github.com/phpstan/phpstan-src/pull/2581) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix typo](https://github.com/rectorphp/getrector-com/pull/1590) on [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
