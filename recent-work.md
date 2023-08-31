@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [DowngradeNumberFormatNoFourthArgRector: Cheap check first](https://github.com/rectorphp/rector-downgrade-php/pull/181) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (today)
 - [DowngradeArrayFilterNullableCallbackRector: Cheap checks first](https://github.com/rectorphp/rector-downgrade-php/pull/180) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (today)
 - [DowngradeStaticTypeDeclarationRector: removed dead code](https://github.com/rectorphp/rector-downgrade-php/pull/179) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (today)
 - [DowngradePropertyPromotionRector: prevent unnecessary work](https://github.com/rectorphp/rector-downgrade-php/pull/178) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (today)
@@ -54,7 +55,6 @@
 - [Blackfire: Add distributed profilling support](https://github.com/phpstan/phpstan-src/pull/2586) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Prevent most `$parentPhpDocBlock-&gt;getClassReflection()-&gt;isBuiltin()` calls](https://github.com/phpstan/phpstan-src/pull/2585) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Made ParentClass reflection resolving lazier](https://github.com/phpstan/phpstan-src/pull/2584) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [make symfony console patch more descriptive](https://github.com/rectorphp/vendor-patches/pull/3) on [rectorphp/vendor-patches](https://github.com/rectorphp/vendor-patches) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
