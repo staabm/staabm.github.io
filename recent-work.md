@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.25.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.25.0) (today)
 - [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.4](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.4) (1 day ago)
 - [staabm/annotate-pull-request-from-checkstyle-action](https://github.com/staabm/annotate-pull-request-from-checkstyle-action) - [v1](https://github.com/staabm/annotate-pull-request-from-checkstyle-action/releases/tag/v1) (1 day ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.24.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.24.0) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.13.0](https://github.com/Roave/BetterReflection/releases/tag/6.13.0) (2 days ago)
 - [xsist10/cadfael](https://github.com/xsist10/cadfael) - [0.3.3](https://github.com/xsist10/cadfael/releases/tag/0.3.3) (4 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.4](https://github.com/symfony/symfony/releases/tag/v6.3.4) (5 days ago)
