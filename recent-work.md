@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (1 day ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/annotate-pull-request-from-checkstyle-action](https://github.com/staabm/annotate-pull-request-from-checkstyle-action) (1 week ago)
 - [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Dependabot: enable vendoring](https://github.com/FriendsOfREDAXO/rexstan/pull/568) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [DowngradeNumberFormatNoFourthArgRector: Cheap check first](https://github.com/rectorphp/rector-downgrade-php/pull/181) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (1 day ago)
 - [DowngradeArrayFilterNullableCallbackRector: Cheap checks first](https://github.com/rectorphp/rector-downgrade-php/pull/180) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (1 day ago)
 - [DowngradeStaticTypeDeclarationRector: removed dead code](https://github.com/rectorphp/rector-downgrade-php/pull/179) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (1 day ago)
@@ -54,7 +55,6 @@
 - [Faster `rex_version::gitHash()`](https://github.com/redaxo/redaxo/pull/5778) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
 - [Blackfire: Add distributed profilling support](https://github.com/phpstan/phpstan-src/pull/2586) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Prevent most `$parentPhpDocBlock-&gt;getClassReflection()-&gt;isBuiltin()` calls](https://github.com/phpstan/phpstan-src/pull/2585) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Made ParentClass reflection resolving lazier](https://github.com/phpstan/phpstan-src/pull/2584) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
