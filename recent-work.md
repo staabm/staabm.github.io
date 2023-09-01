@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [composer/pcre](https://github.com/composer/pcre) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (1 day ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
@@ -12,7 +13,6 @@
 - [staabm/annotate-pull-request-from-checkstyle-action](https://github.com/staabm/annotate-pull-request-from-checkstyle-action) (1 week ago)
 - [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 weeks ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/composer](https://github.com/composer/composer) - [2.6.0](https://github.com/composer/composer/releases/tag/2.6.0) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.25.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.25.0) (1 day ago)
 - [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.4](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.4) (2 days ago)
 - [staabm/annotate-pull-request-from-checkstyle-action](https://github.com/staabm/annotate-pull-request-from-checkstyle-action) - [v1](https://github.com/staabm/annotate-pull-request-from-checkstyle-action/releases/tag/v1) (2 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.14](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.14) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.127](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.127) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.32](https://github.com/phpstan/phpstan/releases/tag/1.10.32) (1 week ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.15.0](https://github.com/vimeo/psalm/releases/tag/5.15.0) (1 week ago)
