@@ -4,12 +4,12 @@
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (today)
 - [composer/pcre](https://github.com/composer/pcre) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (3 days ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [staabm/annotate-pull-request-from-checkstyle-action](https://github.com/staabm/annotate-pull-request-from-checkstyle-action) (1 week ago)
 - [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [NodeTypeResolver: Simplify isMatchingUnionType()](https://github.com/rectorphp/rector-src/pull/4895) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Added missing return type](https://github.com/rectorphp/rector-downgrade-php/pull/189) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (today)
 - [Added missing parameter type](https://github.com/rectorphp/rector-downgrade-php/pull/188) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (today)
 - [Dependabot: enable vendoring](https://github.com/FriendsOfREDAXO/rexstan/pull/568) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
@@ -54,7 +55,6 @@
 - [micro-optimization: use `spl_object_id()` instead of `spl_object_hash()`](https://github.com/Roave/BetterReflection/pull/1364) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (4 days ago)
 - [micro: use spl_object_id()](https://github.com/phpstan/phpstan-src/pull/2592) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Implement array shapes for preg_match() $matches](https://github.com/phpstan/phpstan-src/pull/2589) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Faster `rex_version::gitHash()`](https://github.com/redaxo/redaxo/pull/5778) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
