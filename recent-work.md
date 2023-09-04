@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.25.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.25.1) (today)
 - [composer/composer](https://github.com/composer/composer) - [2.6.2](https://github.com/composer/composer/releases/tag/2.6.2) (1 day ago)
 - [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) - [1.1.1](https://github.com/phpstan/phpstan-beberlei-assert/releases/tag/1.1.1) (3 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.43](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.43) (3 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.25.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.25.0) (4 days ago)
 - [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.4](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.4) (5 days ago)
 - [staabm/annotate-pull-request-from-checkstyle-action](https://github.com/staabm/annotate-pull-request-from-checkstyle-action) - [v1](https://github.com/staabm/annotate-pull-request-from-checkstyle-action/releases/tag/v1) (5 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.13.0](https://github.com/Roave/BetterReflection/releases/tag/6.13.0) (6 days ago)
