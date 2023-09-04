@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.33](https://github.com/phpstan/phpstan/releases/tag/1.10.33) (today)
+- [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) - [1.1.2](https://github.com/phpstan/phpstan-beberlei-assert/releases/tag/1.1.2) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.25.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.25.1) (today)
 - [composer/composer](https://github.com/composer/composer) - [2.6.2](https://github.com/composer/composer/releases/tag/2.6.2) (1 day ago)
-- [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) - [1.1.1](https://github.com/phpstan/phpstan-beberlei-assert/releases/tag/1.1.1) (3 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.43](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.43) (3 days ago)
 - [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.4](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.4) (5 days ago)
 - [staabm/annotate-pull-request-from-checkstyle-action](https://github.com/staabm/annotate-pull-request-from-checkstyle-action) - [v1](https://github.com/staabm/annotate-pull-request-from-checkstyle-action/releases/tag/v1) (5 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.13.0](https://github.com/Roave/BetterReflection/releases/tag/6.13.0) (6 days ago)
 - [xsist10/cadfael](https://github.com/xsist10/cadfael) - [0.3.3](https://github.com/xsist10/cadfael/releases/tag/0.3.3) (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.4](https://github.com/symfony/symfony/releases/tag/v6.3.4) (1 week ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.14](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.14) (1 week ago)
