@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (4 days ago)
 - [composer/pcre](https://github.com/composer/pcre) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (4 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support counting of deprecated functions](https://github.com/staabm/phpstan-baseline-analysis/pull/132) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
+- [Dependabot: disable grouping again](https://github.com/FriendsOfREDAXO/rexstan/pull/570) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [StrictArrayParamDimFetchRector: Skip objects](https://github.com/rectorphp/rector-src/pull/4907) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [NodeTypeResolver: Simplify isMatchingUnionType()](https://github.com/rectorphp/rector-src/pull/4895) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [Added missing return type](https://github.com/rectorphp/rector-downgrade-php/pull/189) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (4 days ago)
@@ -53,8 +55,6 @@
 - [Prevent unnecessary IO in ComposerJsonAndInstalledJsonSourceLocatorMaker](https://github.com/phpstan/phpstan-src/pull/2596) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [micro: prevent unnecessary IO in PhpVersionFactoryFactory](https://github.com/phpstan/phpstan-src/pull/2594) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [ReturnTypeFromStrictParamRector: Fix typo in test-fixture](https://github.com/rectorphp/rector-src/pull/4879) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [micro-optimization: use `spl_object_id()` instead of `spl_object_hash()`](https://github.com/Roave/BetterReflection/pull/1364) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
-- [micro: use spl_object_id()](https://github.com/phpstan/phpstan-src/pull/2592) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
