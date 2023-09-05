@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ClassMethodReturnTypeOverrideGuard: Cheap check first](https://github.com/rectorphp/rector-src/pull/4912) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Support tomasvotruba/type-coverage 0.2.x format](https://github.com/staabm/phpstan-baseline-analysis/pull/135) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [Support counting of deprecated properties](https://github.com/staabm/phpstan-baseline-analysis/pull/134) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [Fix built](https://github.com/staabm/phpstan-baseline-analysis/pull/133) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
@@ -54,7 +55,6 @@
 - [DowngradeArrayFilterNullableCallbackRector: Cheap checks first](https://github.com/rectorphp/rector-downgrade-php/pull/180) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (5 days ago)
 - [DowngradeStaticTypeDeclarationRector: removed dead code](https://github.com/rectorphp/rector-downgrade-php/pull/179) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (5 days ago)
 - [DowngradePropertyPromotionRector: prevent unnecessary work](https://github.com/rectorphp/rector-downgrade-php/pull/178) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (5 days ago)
-- [ReturnUnionTypeRector should keep static](https://github.com/rectorphp/rector-src/pull/4889) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
