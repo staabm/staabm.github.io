@@ -4,6 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (4 days ago)
 - [composer/pcre](https://github.com/composer/pcre) (4 days ago)
@@ -12,7 +13,6 @@
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [staabm/annotate-pull-request-from-checkstyle-action](https://github.com/staabm/annotate-pull-request-from-checkstyle-action) (1 week ago)
-- [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support tomasvotruba/type-coverage 0.2.x format](https://github.com/staabm/phpstan-baseline-analysis/pull/135) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
+- [Support counting of deprecated properties](https://github.com/staabm/phpstan-baseline-analysis/pull/134) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
+- [Fix built](https://github.com/staabm/phpstan-baseline-analysis/pull/133) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [Support counting of deprecated functions](https://github.com/staabm/phpstan-baseline-analysis/pull/132) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [Dependabot: disable grouping again](https://github.com/FriendsOfREDAXO/rexstan/pull/570) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [StrictArrayParamDimFetchRector: Skip objects](https://github.com/rectorphp/rector-src/pull/4907) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -52,13 +55,11 @@
 - [DowngradeStaticTypeDeclarationRector: removed dead code](https://github.com/rectorphp/rector-downgrade-php/pull/179) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (5 days ago)
 - [DowngradePropertyPromotionRector: prevent unnecessary work](https://github.com/rectorphp/rector-downgrade-php/pull/178) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (5 days ago)
 - [ReturnUnionTypeRector should keep static](https://github.com/rectorphp/rector-src/pull/4889) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
-- [Prevent unnecessary IO in ComposerJsonAndInstalledJsonSourceLocatorMaker](https://github.com/phpstan/phpstan-src/pull/2596) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [micro: prevent unnecessary IO in PhpVersionFactoryFactory](https://github.com/phpstan/phpstan-src/pull/2594) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [ReturnTypeFromStrictParamRector: Fix typo in test-fixture](https://github.com/rectorphp/rector-src/pull/4879) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.12.2](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.12.2) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.33](https://github.com/phpstan/phpstan/releases/tag/1.10.33) (1 day ago)
 - [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) - [1.1.2](https://github.com/phpstan/phpstan-beberlei-assert/releases/tag/1.1.2) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.25.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.25.1) (1 day ago)
@@ -68,4 +69,3 @@
 - [staabm/annotate-pull-request-from-checkstyle-action](https://github.com/staabm/annotate-pull-request-from-checkstyle-action) - [v1](https://github.com/staabm/annotate-pull-request-from-checkstyle-action/releases/tag/v1) (6 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.13.0](https://github.com/Roave/BetterReflection/releases/tag/6.13.0) (1 week ago)
 - [xsist10/cadfael](https://github.com/xsist10/cadfael) - [0.3.3](https://github.com/xsist10/cadfael/releases/tag/0.3.3) (1 week ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.4](https://github.com/symfony/symfony/releases/tag/v6.3.4) (1 week ago)
