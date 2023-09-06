@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [More explicit error message on invalid php code](https://github.com/rectorphp/getrector-com/pull/1637) on [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (today)
+- [Use SetList::TYPE_DECLARATION in demo defaults](https://github.com/rectorphp/getrector-com/pull/1636) on [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (today)
 - [Faster CheckTypehintCallerTypeRule](https://github.com/symplify/phpstan-rules/pull/87) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (today)
 - [FamilyRelationsAnalyzer: final classes can&#39;t have children](https://github.com/rectorphp/rector-src/pull/4913) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [ClassMethodReturnTypeOverrideGuard: Cheap check first](https://github.com/rectorphp/rector-src/pull/4912) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Added missing return type](https://github.com/rectorphp/rector-downgrade-php/pull/189) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (5 days ago)
 - [Added missing parameter type](https://github.com/rectorphp/rector-downgrade-php/pull/188) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (5 days ago)
 - [Dependabot: enable vendoring](https://github.com/FriendsOfREDAXO/rexstan/pull/568) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
-- [DowngradeNumberFormatNoFourthArgRector: Cheap check first](https://github.com/rectorphp/rector-downgrade-php/pull/181) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (6 days ago)
-- [DowngradeArrayFilterNullableCallbackRector: Cheap checks first](https://github.com/rectorphp/rector-downgrade-php/pull/180) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
