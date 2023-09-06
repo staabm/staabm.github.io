@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Faster SilentVoidResolver](https://github.com/rectorphp/rector-src/pull/4923) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [ReturnTypeFromStrictScalarReturnExprRector : Simplify testcase](https://github.com/rectorphp/rector-src/pull/4921) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [AddVoidReturnTypeWhereNoReturnRector: fix never type handling](https://github.com/rectorphp/rector-src/pull/4918) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [More explicit error message on invalid php code](https://github.com/rectorphp/getrector-com/pull/1637) on [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (today)
@@ -54,7 +55,6 @@
 - [Dependabot: disable grouping again](https://github.com/FriendsOfREDAXO/rexstan/pull/570) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [StrictArrayParamDimFetchRector: Skip objects](https://github.com/rectorphp/rector-src/pull/4907) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [NodeTypeResolver: Simplify isMatchingUnionType()](https://github.com/rectorphp/rector-src/pull/4895) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
-- [Added missing return type](https://github.com/rectorphp/rector-downgrade-php/pull/189) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
