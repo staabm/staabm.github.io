@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added regression test for bug 8778](https://github.com/phpstan/phpstan/pull/9857) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Fix &#34;PHP command not found&#34; error](https://github.com/rectorphp/getrector-com/pull/1639) on [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (today)
 - [Faster SilentVoidResolver](https://github.com/rectorphp/rector-src/pull/4923) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [ReturnTypeFromStrictScalarReturnExprRector : Simplify testcase](https://github.com/rectorphp/rector-src/pull/4921) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
@@ -54,7 +55,6 @@
 - [Fix built](https://github.com/staabm/phpstan-baseline-analysis/pull/133) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
 - [Support counting of deprecated functions](https://github.com/staabm/phpstan-baseline-analysis/pull/132) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
 - [Dependabot: disable grouping again](https://github.com/FriendsOfREDAXO/rexstan/pull/570) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [StrictArrayParamDimFetchRector: Skip objects](https://github.com/rectorphp/rector-src/pull/4907) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
