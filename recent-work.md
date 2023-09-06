@@ -4,7 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (today)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
 - [composer/pcre](https://github.com/composer/pcre) (5 days ago)
@@ -40,7 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [AddVoidReturnTypeWhereNoReturnRector: added failling tests](https://github.com/rectorphp/rector-src/pull/4918) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [ReturnTypeFromStrictScalarReturnExprRector : Simplify testcase](https://github.com/rectorphp/rector-src/pull/4921) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [AddVoidReturnTypeWhereNoReturnRector: fix never type handling](https://github.com/rectorphp/rector-src/pull/4918) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [More explicit error message on invalid php code](https://github.com/rectorphp/getrector-com/pull/1637) on [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (today)
 - [Use SetList::TYPE_DECLARATION in demo defaults](https://github.com/rectorphp/getrector-com/pull/1636) on [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (today)
 - [Faster CheckTypehintCallerTypeRule](https://github.com/symplify/phpstan-rules/pull/87) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (today)
@@ -54,7 +55,6 @@
 - [StrictArrayParamDimFetchRector: Skip objects](https://github.com/rectorphp/rector-src/pull/4907) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [NodeTypeResolver: Simplify isMatchingUnionType()](https://github.com/rectorphp/rector-src/pull/4895) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 - [Added missing return type](https://github.com/rectorphp/rector-downgrade-php/pull/189) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (5 days ago)
-- [Added missing parameter type](https://github.com/rectorphp/rector-downgrade-php/pull/188) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
