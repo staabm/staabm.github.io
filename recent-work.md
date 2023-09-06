@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
 - [composer/pcre](https://github.com/composer/pcre) (5 days ago)
 - [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (5 days ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [staabm/annotate-pull-request-from-checkstyle-action](https://github.com/staabm/annotate-pull-request-from-checkstyle-action) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Faster CheckTypehintCallerTypeRule](https://github.com/symplify/phpstan-rules/pull/87) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (today)
 - [FamilyRelationsAnalyzer: final classes can&#39;t have children](https://github.com/rectorphp/rector-src/pull/4913) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [ClassMethodReturnTypeOverrideGuard: Cheap check first](https://github.com/rectorphp/rector-src/pull/4912) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Support tomasvotruba/type-coverage 0.2.x format](https://github.com/staabm/phpstan-baseline-analysis/pull/135) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
@@ -54,7 +55,6 @@
 - [Dependabot: enable vendoring](https://github.com/FriendsOfREDAXO/rexstan/pull/568) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [DowngradeNumberFormatNoFourthArgRector: Cheap check first](https://github.com/rectorphp/rector-downgrade-php/pull/181) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (6 days ago)
 - [DowngradeArrayFilterNullableCallbackRector: Cheap checks first](https://github.com/rectorphp/rector-downgrade-php/pull/180) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (6 days ago)
-- [DowngradeStaticTypeDeclarationRector: removed dead code](https://github.com/rectorphp/rector-downgrade-php/pull/179) on [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
