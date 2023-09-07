@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 day ago)
 - [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (1 day ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify AlwaysStrictScalarExprAnalyzer](https://github.com/rectorphp/rector-src/pull/4935) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Make result-cache independent from configs include order](https://github.com/phpstan/phpstan-src/pull/2606) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Added regression test for bug 8778](https://github.com/phpstan/phpstan/pull/9857) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [Fix &#34;PHP command not found&#34; error](https://github.com/rectorphp/getrector-com/pull/1639) on [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (1 day ago)
@@ -54,7 +55,6 @@
 - [Support tomasvotruba/type-coverage 0.2.x format](https://github.com/staabm/phpstan-baseline-analysis/pull/135) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
 - [Support counting of deprecated properties](https://github.com/staabm/phpstan-baseline-analysis/pull/134) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
 - [Fix built](https://github.com/staabm/phpstan-baseline-analysis/pull/133) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
-- [Support counting of deprecated functions](https://github.com/staabm/phpstan-baseline-analysis/pull/132) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
