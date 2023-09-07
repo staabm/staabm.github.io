@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.5](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.5) (today)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-rc2](https://github.com/matomo-org/matomo/releases/tag/5.0.0-rc2) (today)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.12.2](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.12.2) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.33](https://github.com/phpstan/phpstan/releases/tag/1.10.33) (3 days ago)
@@ -66,6 +67,5 @@
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.25.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.25.1) (3 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.6.2](https://github.com/composer/composer/releases/tag/2.6.2) (4 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.43](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.43) (6 days ago)
-- [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.4](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.4) (1 week ago)
 - [staabm/annotate-pull-request-from-checkstyle-action](https://github.com/staabm/annotate-pull-request-from-checkstyle-action) - [v1](https://github.com/staabm/annotate-pull-request-from-checkstyle-action/releases/tag/v1) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.13.0](https://github.com/Roave/BetterReflection/releases/tag/6.13.0) (1 week ago)
