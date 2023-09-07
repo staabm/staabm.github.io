@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-rc2](https://github.com/matomo-org/matomo/releases/tag/5.0.0-rc2) (today)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.12.2](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.12.2) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.33](https://github.com/phpstan/phpstan/releases/tag/1.10.33) (3 days ago)
 - [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) - [1.1.2](https://github.com/phpstan/phpstan-beberlei-assert/releases/tag/1.1.2) (3 days ago)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.4](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.4) (1 week ago)
 - [staabm/annotate-pull-request-from-checkstyle-action](https://github.com/staabm/annotate-pull-request-from-checkstyle-action) - [v1](https://github.com/staabm/annotate-pull-request-from-checkstyle-action/releases/tag/v1) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.13.0](https://github.com/Roave/BetterReflection/releases/tag/6.13.0) (1 week ago)
-- [xsist10/cadfael](https://github.com/xsist10/cadfael) - [0.3.3](https://github.com/xsist10/cadfael/releases/tag/0.3.3) (1 week ago)
