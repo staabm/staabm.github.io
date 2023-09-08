@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.26.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.26.0) (today)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.26.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.26.1) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.128](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.128) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.15](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.15) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.24.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.24.0) (1 day ago)
