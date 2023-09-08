@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added PHPSTAN_FAIL_WITHOUT_RESULT_CACHE env var](https://github.com/phpstan/phpstan-src/pull/2611) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement FailWithoutResultCacheErrorFormatter](https://github.com/phpstan/phpstan-src/pull/2608) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Simplify AlwaysStrictScalarExprAnalyzer](https://github.com/rectorphp/rector-src/pull/4935) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Make result-cache independent from configs include order](https://github.com/phpstan/phpstan-src/pull/2606) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [FamilyRelationsAnalyzer: final classes can&#39;t have children](https://github.com/rectorphp/rector-src/pull/4913) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [ClassMethodReturnTypeOverrideGuard: Cheap check first](https://github.com/rectorphp/rector-src/pull/4912) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Support tomasvotruba/type-coverage 0.2.x format](https://github.com/staabm/phpstan-baseline-analysis/pull/135) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
-- [Support counting of deprecated properties](https://github.com/staabm/phpstan-baseline-analysis/pull/134) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
