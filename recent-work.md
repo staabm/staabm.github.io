@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 days ago)
 - [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (2 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [composer/pcre](https://github.com/composer/pcre) (1 week ago)
-- [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
+- [rectorphp/rector-downgrade-php](https://github.com/rectorphp/rector-downgrade-php) (1 week ago)
+- [composer/pcre](https://github.com/composer/pcre) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/121) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
+- [remove unsupported dependabot vendoring](https://github.com/FriendsOfREDAXO/rexstan/pull/572) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Added PHPSTAN_FAIL_WITHOUT_RESULT_CACHE env var](https://github.com/phpstan/phpstan-src/pull/2611) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement FailWithoutResultCacheErrorFormatter](https://github.com/phpstan/phpstan-src/pull/2608) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Simplify AlwaysStrictScalarExprAnalyzer](https://github.com/rectorphp/rector-src/pull/4935) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -53,12 +55,12 @@
 - [Use SetList::TYPE_DECLARATION in demo defaults](https://github.com/rectorphp/getrector-com/pull/1636) on [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (2 days ago)
 - [Faster CheckTypehintCallerTypeRule](https://github.com/symplify/phpstan-rules/pull/87) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 days ago)
 - [FamilyRelationsAnalyzer: final classes can&#39;t have children](https://github.com/rectorphp/rector-src/pull/4913) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [ClassMethodReturnTypeOverrideGuard: Cheap check first](https://github.com/rectorphp/rector-src/pull/4912) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Support tomasvotruba/type-coverage 0.2.x format](https://github.com/staabm/phpstan-baseline-analysis/pull/135) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.128](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.128) (today)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.15](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.15) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.24.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.24.0) (1 day ago)
 - [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.5](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.5) (1 day ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-rc2](https://github.com/matomo-org/matomo/releases/tag/5.0.0-rc2) (1 day ago)
@@ -67,5 +69,3 @@
 - [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) - [1.1.2](https://github.com/phpstan/phpstan-beberlei-assert/releases/tag/1.1.2) (4 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.25.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.25.1) (4 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.6.2](https://github.com/composer/composer/releases/tag/2.6.2) (5 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.43](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.43) (1 week ago)
-- [staabm/annotate-pull-request-from-checkstyle-action](https://github.com/staabm/annotate-pull-request-from-checkstyle-action) - [v1](https://github.com/staabm/annotate-pull-request-from-checkstyle-action/releases/tag/v1) (1 week ago)
