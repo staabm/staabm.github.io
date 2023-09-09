@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove mixed doctype for tokens](https://github.com/rectorphp/rector-src/pull/4944) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Reduce unnecessary calls into reflection](https://github.com/phpstan/phpstan-src/pull/2614) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Remove unnecessary IO](https://github.com/phpstan/phpstan-src/pull/2613) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Use latest phpstan, drop composer-bin-plugin](https://github.com/scssphp/scssphp/pull/658) on [scssphp/scssphp](https://github.com/scssphp/scssphp) (today)
@@ -54,7 +55,6 @@
 - [Fix &#34;PHP command not found&#34; error](https://github.com/rectorphp/getrector-com/pull/1639) on [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (3 days ago)
 - [Faster SilentVoidResolver](https://github.com/rectorphp/rector-src/pull/4923) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [ReturnTypeFromStrictScalarReturnExprRector : Simplify testcase](https://github.com/rectorphp/rector-src/pull/4921) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [AddVoidReturnTypeWhereNoReturnRector: fix never type handling](https://github.com/rectorphp/rector-src/pull/4918) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
