@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Faster name resolving](https://github.com/rectorphp/rector-src/pull/4955) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Fix PHPStan error](https://github.com/rectorphp/rector-symfony/pull/524) on [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (today)
 - [Fix typo](https://github.com/rectorphp/rector-phpunit/pull/249) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
 - [ResponseStatusCodeRector: use NodeNameResolver-&gt;matchesStringName()](https://github.com/rectorphp/rector-symfony/pull/523) on [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (today)
@@ -54,7 +55,6 @@
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/121) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 - [remove unsupported dependabot vendoring](https://github.com/FriendsOfREDAXO/rexstan/pull/572) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [Added PHPSTAN_FAIL_WITHOUT_RESULT_CACHE env var](https://github.com/phpstan/phpstan-src/pull/2611) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Implement FailWithoutResultCacheErrorFormatter](https://github.com/phpstan/phpstan-src/pull/2608) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
