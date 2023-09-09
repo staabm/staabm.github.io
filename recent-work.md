@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Reduce unnecessary calls into reflection](https://github.com/phpstan/phpstan-src/pull/2614) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Remove unnecessary IO](https://github.com/phpstan/phpstan-src/pull/2613) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Use latest phpstan, drop composer-bin-plugin](https://github.com/scssphp/scssphp/pull/658) on [scssphp/scssphp](https://github.com/scssphp/scssphp) (today)
 - [Faster Parser-&gt;literal()](https://github.com/scssphp/scssphp/pull/657) on [scssphp/scssphp](https://github.com/scssphp/scssphp) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/121) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
@@ -53,12 +55,11 @@
 - [Faster SilentVoidResolver](https://github.com/rectorphp/rector-src/pull/4923) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [ReturnTypeFromStrictScalarReturnExprRector : Simplify testcase](https://github.com/rectorphp/rector-src/pull/4921) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [AddVoidReturnTypeWhereNoReturnRector: fix never type handling](https://github.com/rectorphp/rector-src/pull/4918) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [More explicit error message on invalid php code](https://github.com/rectorphp/getrector-com/pull/1637) on [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (3 days ago)
-- [Use SetList::TYPE_DECLARATION in demo defaults](https://github.com/rectorphp/getrector-com/pull/1636) on [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.14.0](https://github.com/Roave/BetterReflection/releases/tag/6.14.0) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.26.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.26.1) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.128](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.128) (1 day ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.15](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.15) (1 day ago)
@@ -68,4 +69,3 @@
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.12.2](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.12.2) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.33](https://github.com/phpstan/phpstan/releases/tag/1.10.33) (5 days ago)
 - [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) - [1.1.2](https://github.com/phpstan/phpstan-beberlei-assert/releases/tag/1.1.2) (5 days ago)
-- [composer/composer](https://github.com/composer/composer) - [2.6.2](https://github.com/composer/composer/releases/tag/2.6.2) (6 days ago)
