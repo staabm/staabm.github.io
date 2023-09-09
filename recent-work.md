@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (3 days ago)
 - [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (3 days ago)
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (3 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
-- [composer/pcre](https://github.com/composer/pcre) (1 week ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix PHPStan error](https://github.com/rectorphp/rector-symfony/pull/524) on [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (today)
+- [Fix typo](https://github.com/rectorphp/rector-phpunit/pull/249) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
+- [ResponseStatusCodeRector: use NodeNameResolver-&gt;matchesStringName()](https://github.com/rectorphp/rector-symfony/pull/523) on [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (today)
+- [PreferPHPUnitSelfCallRector: use NodeNameResolver-&gt;matchesStringName()](https://github.com/rectorphp/rector-phpunit/pull/248) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
+- [BC: Separated regex matching in NodeNameResolver-&gt;isName()](https://github.com/rectorphp/rector-src/pull/4951) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Reduce excessive regex use](https://github.com/rectorphp/rector-src/pull/4950) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Remove mixed doctype for tokens](https://github.com/rectorphp/rector-src/pull/4944) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Reduce unnecessary calls into reflection](https://github.com/phpstan/phpstan-src/pull/2614) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -50,11 +55,6 @@
 - [remove unsupported dependabot vendoring](https://github.com/FriendsOfREDAXO/rexstan/pull/572) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [Added PHPSTAN_FAIL_WITHOUT_RESULT_CACHE env var](https://github.com/phpstan/phpstan-src/pull/2611) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Implement FailWithoutResultCacheErrorFormatter](https://github.com/phpstan/phpstan-src/pull/2608) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Simplify AlwaysStrictScalarExprAnalyzer](https://github.com/rectorphp/rector-src/pull/4935) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [Make result-cache independent from configs include order](https://github.com/phpstan/phpstan-src/pull/2606) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Added regression test for bug 8778](https://github.com/phpstan/phpstan/pull/9857) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
-- [Fix &#34;PHP command not found&#34; error](https://github.com/rectorphp/getrector-com/pull/1639) on [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (3 days ago)
-- [Faster SilentVoidResolver](https://github.com/rectorphp/rector-src/pull/4923) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
