@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use latest phpstan, drop composer-bin-plugin](https://github.com/scssphp/scssphp/pull/658) on [scssphp/scssphp](https://github.com/scssphp/scssphp) (today)
+- [Faster Parser-&gt;literal()](https://github.com/scssphp/scssphp/pull/657) on [scssphp/scssphp](https://github.com/scssphp/scssphp) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/121) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 - [remove unsupported dependabot vendoring](https://github.com/FriendsOfREDAXO/rexstan/pull/572) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [Added PHPSTAN_FAIL_WITHOUT_RESULT_CACHE env var](https://github.com/phpstan/phpstan-src/pull/2611) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [AddVoidReturnTypeWhereNoReturnRector: fix never type handling](https://github.com/rectorphp/rector-src/pull/4918) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [More explicit error message on invalid php code](https://github.com/rectorphp/getrector-com/pull/1637) on [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (3 days ago)
 - [Use SetList::TYPE_DECLARATION in demo defaults](https://github.com/rectorphp/getrector-com/pull/1636) on [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (3 days ago)
-- [Faster CheckTypehintCallerTypeRule](https://github.com/symplify/phpstan-rules/pull/87) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (3 days ago)
-- [FamilyRelationsAnalyzer: final classes can&#39;t have children](https://github.com/rectorphp/rector-src/pull/4913) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
