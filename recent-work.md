@@ -26,6 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
+- [eliashaeussler](https://github.com/eliashaeussler) (today)
 - [DaveLiddament](https://github.com/DaveLiddament) (3 months ago)
 - [SecuMailer](https://github.com/SecuMailer) (4 months ago)
 - [bluehorndigital](https://github.com/bluehorndigital) (4 months ago)
@@ -35,7 +36,6 @@
 - [omphteliba](https://github.com/omphteliba) (5 months ago)
 - [wdes](https://github.com/wdes) (6 months ago)
 - [TomasVotruba](https://github.com/TomasVotruba) (7 months ago)
-- [timetape-de](https://github.com/timetape-de) (8 months ago)
 
 
 #### 🔨 My recent Pull Requests
