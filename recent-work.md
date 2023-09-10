@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement a max jobs per worker budget](https://github.com/rectorphp/rector-src/pull/4965) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [fix typo](https://github.com/rectorphp/rector-src/pull/4956) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Faster name resolving](https://github.com/rectorphp/rector-src/pull/4955) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Fix PHPStan error](https://github.com/rectorphp/rector-symfony/pull/524) on [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (1 day ago)
@@ -54,7 +55,6 @@
 - [Use latest phpstan, drop composer-bin-plugin](https://github.com/scssphp/scssphp/pull/658) on [scssphp/scssphp](https://github.com/scssphp/scssphp) (1 day ago)
 - [Faster Parser-&gt;literal()](https://github.com/scssphp/scssphp/pull/657) on [scssphp/scssphp](https://github.com/scssphp/scssphp) (1 day ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/121) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
-- [remove unsupported dependabot vendoring](https://github.com/FriendsOfREDAXO/rexstan/pull/572) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
