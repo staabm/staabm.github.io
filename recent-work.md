@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (2 days ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [UseImportsTraverser: don&#39;t deep traverse](https://github.com/rectorphp/rector-src/pull/4994) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [Prevent unnecessary calls to spl_object_id()](https://github.com/rectorphp/rector-src/pull/4992) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Fix typo in error message](https://github.com/rectorphp/rector-src/pull/4989) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [NodeNameResolver: Throw exception in BC breaking path](https://github.com/rectorphp/rector-src/pull/4980) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Faster Parser-&gt;literal()](https://github.com/scssphp/scssphp/pull/659) on [scssphp/scssphp](https://github.com/scssphp/scssphp) (today)
@@ -53,8 +55,6 @@
 - [BC: Separated regex matching in NodeNameResolver-&gt;isName()](https://github.com/rectorphp/rector-src/pull/4951) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Reduce excessive regex use](https://github.com/rectorphp/rector-src/pull/4950) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Remove mixed doctype for tokens](https://github.com/rectorphp/rector-src/pull/4944) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [Reduce unnecessary calls into reflection](https://github.com/phpstan/phpstan-src/pull/2614) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Remove unnecessary IO](https://github.com/phpstan/phpstan-src/pull/2613) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
