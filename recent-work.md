@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor use import resolving](https://github.com/rectorphp/rector-src/pull/4998) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [UseImportsTraverser: don&#39;t deep traverse](https://github.com/rectorphp/rector-src/pull/4994) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Prevent unnecessary calls to spl_object_id()](https://github.com/rectorphp/rector-src/pull/4992) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Fix typo in error message](https://github.com/rectorphp/rector-src/pull/4989) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
@@ -54,7 +55,6 @@
 - [PreferPHPUnitSelfCallRector: use NodeNameResolver-&gt;matchesStringName()](https://github.com/rectorphp/rector-phpunit/pull/248) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 days ago)
 - [BC: Separated regex matching in NodeNameResolver-&gt;isName()](https://github.com/rectorphp/rector-src/pull/4951) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Reduce excessive regex use](https://github.com/rectorphp/rector-src/pull/4950) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [Remove mixed doctype for tokens](https://github.com/rectorphp/rector-src/pull/4944) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
