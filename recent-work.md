@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [NodeNameResolver: faster isNames()](https://github.com/rectorphp/rector-src/pull/5004) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [RenameFunctionRector: prevent repeated isName() calls](https://github.com/rectorphp/rector-src/pull/5003) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Use more precise Use_::TYPE_* types](https://github.com/nikic/PHP-Parser/pull/945) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
 - [Refactor use import resolving](https://github.com/rectorphp/rector-src/pull/4998) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix PHPStan error](https://github.com/rectorphp/rector-symfony/pull/524) on [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (3 days ago)
 - [Fix typo](https://github.com/rectorphp/rector-phpunit/pull/249) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (3 days ago)
 - [ResponseStatusCodeRector: use NodeNameResolver-&gt;matchesStringName()](https://github.com/rectorphp/rector-symfony/pull/523) on [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (3 days ago)
-- [PreferPHPUnitSelfCallRector: use NodeNameResolver-&gt;matchesStringName()](https://github.com/rectorphp/rector-phpunit/pull/248) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
