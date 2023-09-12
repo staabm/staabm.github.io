@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (3 days ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [RenameFunctionRector: prevent repeated isName() calls](https://github.com/rectorphp/rector-src/pull/5003) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [Use more precise Use_::TYPE_* types](https://github.com/nikic/PHP-Parser/pull/945) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
 - [Refactor use import resolving](https://github.com/rectorphp/rector-src/pull/4998) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [UseImportsTraverser: don&#39;t deep traverse](https://github.com/rectorphp/rector-src/pull/4994) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Prevent unnecessary calls to spl_object_id()](https://github.com/rectorphp/rector-src/pull/4992) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Fix typo](https://github.com/rectorphp/rector-phpunit/pull/249) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (3 days ago)
 - [ResponseStatusCodeRector: use NodeNameResolver-&gt;matchesStringName()](https://github.com/rectorphp/rector-symfony/pull/523) on [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (3 days ago)
 - [PreferPHPUnitSelfCallRector: use NodeNameResolver-&gt;matchesStringName()](https://github.com/rectorphp/rector-phpunit/pull/248) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (3 days ago)
-- [BC: Separated regex matching in NodeNameResolver-&gt;isName()](https://github.com/rectorphp/rector-src/pull/4951) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Reduce excessive regex use](https://github.com/rectorphp/rector-src/pull/4950) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
