@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Run tests on macos](https://github.com/rectorphp/rector-src/pull/5019) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [Detect class name collisions](https://github.com/rectorphp/rector-src/pull/5018) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Fix tomasvotruba/type-coverage 0.2.* test expectations](https://github.com/staabm/phpstan-baseline-analysis/pull/139) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/124) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 - [Use separate result cache for summary](https://github.com/FriendsOfREDAXO/rexstan/pull/580) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -53,8 +55,6 @@
 - [Fix typo in error message](https://github.com/rectorphp/rector-src/pull/4989) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [NodeNameResolver: Throw exception in BC breaking path](https://github.com/rectorphp/rector-src/pull/4980) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Faster Parser-&gt;literal()](https://github.com/scssphp/scssphp/pull/659) on [scssphp/scssphp](https://github.com/scssphp/scssphp) (3 days ago)
-- [Implement a max jobs per worker budget](https://github.com/rectorphp/rector-src/pull/4965) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
-- [fix typo](https://github.com/rectorphp/rector-src/pull/4956) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
