@@ -4,7 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (5 days ago)
@@ -40,9 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix TypedPropertyFromStrictConstructor* order](https://github.com/rectorphp/rector-src/pull/5021) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [TypedPropertyFromStrictConstructorRector: Skip phpdoc types](https://github.com/rectorphp/rector-src/pull/5020) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Run tests on macos](https://github.com/rectorphp/rector-src/pull/5019) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
-- [Detect class name collisions](https://github.com/rectorphp/rector-src/pull/5018) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [Fix class name collisions](https://github.com/rectorphp/rector-src/pull/5018) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Fix tomasvotruba/type-coverage 0.2.* test expectations](https://github.com/staabm/phpstan-baseline-analysis/pull/139) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/124) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 - [Use separate result cache for summary](https://github.com/FriendsOfREDAXO/rexstan/pull/580) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -54,7 +55,6 @@
 - [UseImportsTraverser: don&#39;t deep traverse](https://github.com/rectorphp/rector-src/pull/4994) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Prevent unnecessary calls to spl_object_id()](https://github.com/rectorphp/rector-src/pull/4992) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Fix typo in error message](https://github.com/rectorphp/rector-src/pull/4989) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [NodeNameResolver: Throw exception in BC breaking path](https://github.com/rectorphp/rector-src/pull/4980) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
