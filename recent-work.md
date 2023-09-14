@@ -5,14 +5,14 @@
 
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (5 days ago)
-- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (5 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
 - [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (1 week ago)
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [UnusedPublicClassMethodRule: fix possible crash](https://github.com/TomasVotruba/unused-public/pull/90) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Fix TypedPropertyFromStrictConstructor* order](https://github.com/rectorphp/rector-src/pull/5021) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [TypedPropertyFromStrictConstructorRector: Skip phpdoc types](https://github.com/rectorphp/rector-src/pull/5020) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Run tests on macos](https://github.com/rectorphp/rector-src/pull/5019) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
@@ -54,7 +55,6 @@
 - [Refactor use import resolving](https://github.com/rectorphp/rector-src/pull/4998) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [UseImportsTraverser: don&#39;t deep traverse](https://github.com/rectorphp/rector-src/pull/4994) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Prevent unnecessary calls to spl_object_id()](https://github.com/rectorphp/rector-src/pull/4992) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Fix typo in error message](https://github.com/rectorphp/rector-src/pull/4989) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
