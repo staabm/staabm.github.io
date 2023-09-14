@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [TypedPropertyFromStrictConstructorRector: Skip phpdoc types](https://github.com/rectorphp/rector-src/pull/5020) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Run tests on macos](https://github.com/rectorphp/rector-src/pull/5019) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Detect class name collisions](https://github.com/rectorphp/rector-src/pull/5018) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Fix tomasvotruba/type-coverage 0.2.* test expectations](https://github.com/staabm/phpstan-baseline-analysis/pull/139) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
@@ -54,7 +55,6 @@
 - [Prevent unnecessary calls to spl_object_id()](https://github.com/rectorphp/rector-src/pull/4992) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Fix typo in error message](https://github.com/rectorphp/rector-src/pull/4989) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [NodeNameResolver: Throw exception in BC breaking path](https://github.com/rectorphp/rector-src/pull/4980) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Faster Parser-&gt;literal()](https://github.com/scssphp/scssphp/pull/659) on [scssphp/scssphp](https://github.com/scssphp/scssphp) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
