@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (5 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (5 days ago)
+- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (5 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
 - [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (1 week ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix tomasvotruba/type-coverage 0.2.* test expectations](https://github.com/staabm/phpstan-baseline-analysis/pull/139) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/124) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 - [Use separate result cache for summary](https://github.com/FriendsOfREDAXO/rexstan/pull/580) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [ObjectType: prevent unnecessary calls to $type-&gt;getObjectClassNames()](https://github.com/phpstan/phpstan-src/pull/2619) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,11 +55,11 @@
 - [Faster Parser-&gt;literal()](https://github.com/scssphp/scssphp/pull/659) on [scssphp/scssphp](https://github.com/scssphp/scssphp) (3 days ago)
 - [Implement a max jobs per worker budget](https://github.com/rectorphp/rector-src/pull/4965) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [fix typo](https://github.com/rectorphp/rector-src/pull/4956) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
-- [Faster name resolving](https://github.com/rectorphp/rector-src/pull/4955) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.12.3](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.12.3) (today)
 - [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.6](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.6) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.16](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.16) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.129](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.129) (1 day ago)
@@ -68,4 +69,3 @@
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.26.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.26.1) (6 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.24.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.24.0) (1 week ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-rc2](https://github.com/matomo-org/matomo/releases/tag/5.0.0-rc2) (1 week ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.12.2](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.12.2) (1 week ago)
