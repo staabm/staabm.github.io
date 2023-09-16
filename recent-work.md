@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[CodeQuality]: Skip PHPDoc](https://github.com/rectorphp/rector-src/pull/5027) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [Check fixtures with PHPStan](https://github.com/rectorphp/rector-src/pull/5026) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [UnusedPublicClassMethodRule: fix possible crash](https://github.com/TomasVotruba/unused-public/pull/90) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
 - [Fix TypedPropertyFromStrictConstructor* order](https://github.com/rectorphp/rector-src/pull/5021) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [TypedPropertyFromStrictConstructorRector: Skip phpdoc types](https://github.com/rectorphp/rector-src/pull/5020) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
@@ -53,8 +55,6 @@
 - [RenameFunctionRector: prevent repeated isName() calls](https://github.com/rectorphp/rector-src/pull/5003) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [Use more precise Use_::TYPE_* types](https://github.com/nikic/PHP-Parser/pull/945) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (4 days ago)
 - [Refactor use import resolving](https://github.com/rectorphp/rector-src/pull/4998) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
-- [UseImportsTraverser: don&#39;t deep traverse](https://github.com/rectorphp/rector-src/pull/4994) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
-- [Prevent unnecessary calls to spl_object_id()](https://github.com/rectorphp/rector-src/pull/4992) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
