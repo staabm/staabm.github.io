@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify UseIdenticalOverEqualWithSameTypeRector](https://github.com/rectorphp/rector-src/pull/5029) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [Remove inline-@var use ](https://github.com/rectorphp/rector-src/pull/5028) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [[CodeQuality]: Skip PHPDoc](https://github.com/rectorphp/rector-src/pull/5027) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Check fixtures with PHPStan](https://github.com/rectorphp/rector-src/pull/5026) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [UnusedPublicClassMethodRule: fix possible crash](https://github.com/TomasVotruba/unused-public/pull/90) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
@@ -53,8 +55,6 @@
 - [ObjectType: prevent unnecessary calls to $type-&gt;getObjectClassNames()](https://github.com/phpstan/phpstan-src/pull/2619) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [NodeNameResolver: faster isNames()](https://github.com/rectorphp/rector-src/pull/5004) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [RenameFunctionRector: prevent repeated isName() calls](https://github.com/rectorphp/rector-src/pull/5003) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
-- [Use more precise Use_::TYPE_* types](https://github.com/nikic/PHP-Parser/pull/945) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (4 days ago)
-- [Refactor use import resolving](https://github.com/rectorphp/rector-src/pull/4998) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
