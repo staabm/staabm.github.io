@@ -5,14 +5,14 @@
 
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (3 days ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (1 week ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
-- [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0beta1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0beta1) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.27.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.27.0) (today)
 - [composer/composer](https://github.com/composer/composer) - [2.6.3](https://github.com/composer/composer/releases/tag/2.6.3) (2 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.12.3](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.12.3) (3 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.34](https://github.com/phpstan/phpstan/releases/tag/1.10.34) (4 days ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.49.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.49.0) (5 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.14.0](https://github.com/Roave/BetterReflection/releases/tag/6.14.0) (1 week ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.24.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.24.0) (1 week ago)
