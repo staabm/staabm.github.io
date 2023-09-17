@@ -4,9 +4,9 @@
 #### 💻 Check out what I'm currently working on
 
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Versioned projects should not render addons as unversioned](https://github.com/FriendsOfREDAXO/rexfactor/pull/125) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [OrderByKeyToClassConstRector: added test](https://github.com/rectorphp/rector-doctrine/pull/231) on [rectorphp/rector-doctrine](https://github.com/rectorphp/rector-doctrine) (today)
 - [Readme: fix link to CONTRIBUTING.md](https://github.com/mautic/mautic/pull/12733) on [mautic/mautic](https://github.com/mautic/mautic) (today)
 - [Update rector and phpstan tooling](https://github.com/mautic/mautic/pull/12732) on [mautic/mautic](https://github.com/mautic/mautic) (today)
@@ -54,7 +55,6 @@
 - [UnusedPublicClassMethodRule: fix possible crash](https://github.com/TomasVotruba/unused-public/pull/90) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
 - [Fix TypedPropertyFromStrictConstructor* order](https://github.com/rectorphp/rector-src/pull/5021) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [TypedPropertyFromStrictConstructorRector: Skip phpdoc types](https://github.com/rectorphp/rector-src/pull/5020) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Run tests on macos](https://github.com/rectorphp/rector-src/pull/5019) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
