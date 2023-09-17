@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (1 week ago)
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [EmptyOnNullableObjectToInstanceOfRector: skip phpdoc](https://github.com/rectorphp/rector-src/pull/5034) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [BinaryOpNullableToInstanceofRector: test phpdoc ignorance](https://github.com/rectorphp/rector-src/pull/5033) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [SimplifyIfNullableReturnRector: fix example](https://github.com/rectorphp/rector-src/pull/5032) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Simplify UseIdenticalOverEqualWithSameTypeRector](https://github.com/rectorphp/rector-src/pull/5029) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Remove inline-@var use ](https://github.com/rectorphp/rector-src/pull/5028) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [[CodeQuality]: Skip PHPDoc](https://github.com/rectorphp/rector-src/pull/5027) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -52,9 +55,6 @@
 - [Fix tomasvotruba/type-coverage 0.2.* test expectations](https://github.com/staabm/phpstan-baseline-analysis/pull/139) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/124) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
 - [Use separate result cache for summary](https://github.com/FriendsOfREDAXO/rexstan/pull/580) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [ObjectType: prevent unnecessary calls to $type-&gt;getObjectClassNames()](https://github.com/phpstan/phpstan-src/pull/2619) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [NodeNameResolver: faster isNames()](https://github.com/rectorphp/rector-src/pull/5004) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
-- [RenameFunctionRector: prevent repeated isName() calls](https://github.com/rectorphp/rector-src/pull/5003) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
