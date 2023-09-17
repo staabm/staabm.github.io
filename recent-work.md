@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improve types in FixtureSplitter](https://github.com/rectorphp/rector-src/pull/5036) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [EmptyOnNullableObjectToInstanceOfRector: skip phpdoc](https://github.com/rectorphp/rector-src/pull/5034) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [BinaryOpNullableToInstanceofRector: test phpdoc ignorance](https://github.com/rectorphp/rector-src/pull/5033) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [SimplifyIfNullableReturnRector: fix example](https://github.com/rectorphp/rector-src/pull/5032) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
@@ -54,7 +55,6 @@
 - [Fix class name collisions](https://github.com/rectorphp/rector-src/pull/5018) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Fix tomasvotruba/type-coverage 0.2.* test expectations](https://github.com/staabm/phpstan-baseline-analysis/pull/139) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/124) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
-- [Use separate result cache for summary](https://github.com/FriendsOfREDAXO/rexstan/pull/580) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
