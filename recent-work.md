@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [OrderByKeyToClassConstRector: added test](https://github.com/rectorphp/rector-doctrine/pull/231) on [rectorphp/rector-doctrine](https://github.com/rectorphp/rector-doctrine) (today)
+- [Readme: fix link to CONTRIBUTING.md](https://github.com/mautic/mautic/pull/12733) on [mautic/mautic](https://github.com/mautic/mautic) (today)
 - [Update rector and phpstan tooling](https://github.com/mautic/mautic/pull/12732) on [mautic/mautic](https://github.com/mautic/mautic) (today)
 - [Improve types in FixtureSplitter](https://github.com/rectorphp/rector-src/pull/5036) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [EmptyOnNullableObjectToInstanceOfRector: skip phpdoc](https://github.com/rectorphp/rector-src/pull/5034) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
@@ -53,8 +55,6 @@
 - [Fix TypedPropertyFromStrictConstructor* order](https://github.com/rectorphp/rector-src/pull/5021) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [TypedPropertyFromStrictConstructorRector: Skip phpdoc types](https://github.com/rectorphp/rector-src/pull/5020) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Run tests on macos](https://github.com/rectorphp/rector-src/pull/5019) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Fix class name collisions](https://github.com/rectorphp/rector-src/pull/5018) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Fix tomasvotruba/type-coverage 0.2.* test expectations](https://github.com/staabm/phpstan-baseline-analysis/pull/139) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
