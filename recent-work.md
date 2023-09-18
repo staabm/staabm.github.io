@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.24.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.24.1) (today)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0beta1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0beta1) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.27.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.27.0) (1 day ago)
 - [composer/composer](https://github.com/composer/composer) - [2.6.3](https://github.com/composer/composer/releases/tag/2.6.3) (3 days ago)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.129](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.129) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.34](https://github.com/phpstan/phpstan/releases/tag/1.10.34) (5 days ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.49.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.49.0) (6 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.14.0](https://github.com/Roave/BetterReflection/releases/tag/6.14.0) (1 week ago)
