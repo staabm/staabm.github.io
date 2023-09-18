@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Result-Cache: Indicate key differences in cache metadata](https://github.com/phpstan/phpstan-src/pull/2630) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Versioned projects should not render addons as unversioned](https://github.com/FriendsOfREDAXO/rexfactor/pull/125) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 - [OrderByKeyToClassConstRector: added test](https://github.com/rectorphp/rector-doctrine/pull/231) on [rectorphp/rector-doctrine](https://github.com/rectorphp/rector-doctrine) (1 day ago)
 - [Readme: fix link to CONTRIBUTING.md](https://github.com/mautic/mautic/pull/12733) on [mautic/mautic](https://github.com/mautic/mautic) (1 day ago)
@@ -54,7 +55,6 @@
 - [Check fixtures with PHPStan](https://github.com/rectorphp/rector-src/pull/5026) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [UnusedPublicClassMethodRule: fix possible crash](https://github.com/TomasVotruba/unused-public/pull/90) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
 - [Fix TypedPropertyFromStrictConstructor* order](https://github.com/rectorphp/rector-src/pull/5021) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
-- [TypedPropertyFromStrictConstructorRector: Skip phpdoc types](https://github.com/rectorphp/rector-src/pull/5020) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
