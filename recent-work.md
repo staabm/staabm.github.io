@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [config: describe parallel parameters](https://github.com/rectorphp/rector-src/pull/5048) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [remove phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan/pull/9901) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [extractor: remove phpstan/phpstan-php-parser](https://github.com/phpstan/php-8-stubs/pull/75) on [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (today)
 - [remove phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan-nette/pull/135) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
@@ -54,7 +55,6 @@
 - [EmptyOnNullableObjectToInstanceOfRector: skip phpdoc](https://github.com/rectorphp/rector-src/pull/5034) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [BinaryOpNullableToInstanceofRector: test phpdoc ignorance](https://github.com/rectorphp/rector-src/pull/5033) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [SimplifyIfNullableReturnRector: fix example](https://github.com/rectorphp/rector-src/pull/5032) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [Simplify UseIdenticalOverEqualWithSameTypeRector](https://github.com/rectorphp/rector-src/pull/5029) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
