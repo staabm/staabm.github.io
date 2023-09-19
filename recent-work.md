@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (5 days ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 week ago)
-- [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) (1 week ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [remove phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan/pull/9901) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [extractor: remove phpstan/phpstan-php-parser](https://github.com/phpstan/php-8-stubs/pull/75) on [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (today)
+- [remove phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan-nette/pull/135) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
+- [remove phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan-deprecation-rules/pull/103) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
+- [remove phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan-src/pull/2632) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Result-Cache: Indicate key differences in cache metadata](https://github.com/phpstan/phpstan-src/pull/2630) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Versioned projects should not render addons as unversioned](https://github.com/FriendsOfREDAXO/rexfactor/pull/125) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
 - [OrderByKeyToClassConstRector: added test](https://github.com/rectorphp/rector-doctrine/pull/231) on [rectorphp/rector-doctrine](https://github.com/rectorphp/rector-doctrine) (2 days ago)
@@ -50,11 +55,6 @@
 - [BinaryOpNullableToInstanceofRector: test phpdoc ignorance](https://github.com/rectorphp/rector-src/pull/5033) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [SimplifyIfNullableReturnRector: fix example](https://github.com/rectorphp/rector-src/pull/5032) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Simplify UseIdenticalOverEqualWithSameTypeRector](https://github.com/rectorphp/rector-src/pull/5029) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Remove inline-@var use ](https://github.com/rectorphp/rector-src/pull/5028) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [[CodeQuality]: Skip PHPDoc](https://github.com/rectorphp/rector-src/pull/5027) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Check fixtures with PHPStan](https://github.com/rectorphp/rector-src/pull/5026) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [UnusedPublicClassMethodRule: fix possible crash](https://github.com/TomasVotruba/unused-public/pull/90) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
-- [Fix TypedPropertyFromStrictConstructor* order](https://github.com/rectorphp/rector-src/pull/5021) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
