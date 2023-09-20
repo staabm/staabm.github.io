@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.50.1](https://github.com/OskarStark/doctor-rst/releases/tag/1.50.1) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.130](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.130) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.35](https://github.com/phpstan/phpstan/releases/tag/1.10.35) (1 day ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-rc3](https://github.com/matomo-org/matomo/releases/tag/5.0.0-rc3) (1 day ago)
@@ -68,4 +69,3 @@
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.27.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.27.0) (3 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.6.3](https://github.com/composer/composer/releases/tag/2.6.3) (5 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.12.3](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.12.3) (6 days ago)
-- [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.6](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.6) (6 days ago)
