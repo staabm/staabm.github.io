@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (6 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (6 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (6 days ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (6 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Detect array_rand second parameter](https://github.com/phpstan/phpstan-src/pull/2633) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [config: describe parallel parameters](https://github.com/rectorphp/rector-src/pull/5048) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [remove phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan/pull/9901) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [extractor: remove phpstan/phpstan-php-parser](https://github.com/phpstan/php-8-stubs/pull/75) on [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (1 day ago)
@@ -54,11 +55,11 @@
 - [Improve types in FixtureSplitter](https://github.com/rectorphp/rector-src/pull/5036) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [EmptyOnNullableObjectToInstanceOfRector: skip phpdoc](https://github.com/rectorphp/rector-src/pull/5034) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [BinaryOpNullableToInstanceofRector: test phpdoc ignorance](https://github.com/rectorphp/rector-src/pull/5033) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [SimplifyIfNullableReturnRector: fix example](https://github.com/rectorphp/rector-src/pull/5032) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.130](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.130) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.35](https://github.com/phpstan/phpstan/releases/tag/1.10.35) (1 day ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-rc3](https://github.com/matomo-org/matomo/releases/tag/5.0.0-rc3) (1 day ago)
 - [nette/utils](https://github.com/nette/utils) - [v4.0.2](https://github.com/nette/utils/releases/tag/v4.0.2) (1 day ago)
@@ -68,4 +69,3 @@
 - [composer/composer](https://github.com/composer/composer) - [2.6.3](https://github.com/composer/composer/releases/tag/2.6.3) (5 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.12.3](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.12.3) (6 days ago)
 - [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.6](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.6) (6 days ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.16](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.16) (1 week ago)
