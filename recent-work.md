@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.50.2](https://github.com/OskarStark/doctor-rst/releases/tag/1.50.2) (1 day ago)
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.51.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.51.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.130](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.130) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.35](https://github.com/phpstan/phpstan/releases/tag/1.10.35) (2 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-rc3](https://github.com/matomo-org/matomo/releases/tag/5.0.0-rc3) (2 days ago)
