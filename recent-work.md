@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[TypeDeclaration] Skip ArrayDimFetch for native array-shapes](https://github.com/rectorphp/rector-src/pull/5060) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [[TypeDeclaration] Skip ArrayDimFetch for return and param types](https://github.com/rectorphp/rector-src/pull/5059) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Prevent unnecessary calls to getFiniteTypes()](https://github.com/phpstan/phpstan-src/pull/2636) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Support union-types in array_chunk()](https://github.com/phpstan/phpstan-src/pull/2635) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Versioned projects should not render addons as unversioned](https://github.com/FriendsOfREDAXO/rexfactor/pull/125) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
 - [OrderByKeyToClassConstRector: added test](https://github.com/rectorphp/rector-doctrine/pull/231) on [rectorphp/rector-doctrine](https://github.com/rectorphp/rector-doctrine) (4 days ago)
 - [Readme: fix link to CONTRIBUTING.md](https://github.com/mautic/mautic/pull/12733) on [mautic/mautic](https://github.com/mautic/mautic) (4 days ago)
-- [Update rector and phpstan tooling](https://github.com/mautic/mautic/pull/12732) on [mautic/mautic](https://github.com/mautic/mautic) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
