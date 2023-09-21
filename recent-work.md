@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[TypeDeclaration] Skip ArrayDimFetch for return and param types](https://github.com/rectorphp/rector-src/pull/5059) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Prevent unnecessary calls to getFiniteTypes()](https://github.com/phpstan/phpstan-src/pull/2636) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Support union-types in array_chunk()](https://github.com/phpstan/phpstan-src/pull/2635) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Detect array_rand second parameter](https://github.com/phpstan/phpstan-src/pull/2633) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [OrderByKeyToClassConstRector: added test](https://github.com/rectorphp/rector-doctrine/pull/231) on [rectorphp/rector-doctrine](https://github.com/rectorphp/rector-doctrine) (4 days ago)
 - [Readme: fix link to CONTRIBUTING.md](https://github.com/mautic/mautic/pull/12733) on [mautic/mautic](https://github.com/mautic/mautic) (4 days ago)
 - [Update rector and phpstan tooling](https://github.com/mautic/mautic/pull/12732) on [mautic/mautic](https://github.com/mautic/mautic) (4 days ago)
-- [Improve types in FixtureSplitter](https://github.com/rectorphp/rector-src/pull/5036) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
