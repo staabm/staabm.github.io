@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent unnecessary calls to getFiniteTypes()](https://github.com/phpstan/phpstan-src/pull/2636) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Support union-types in array_chunk()](https://github.com/phpstan/phpstan-src/pull/2635) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Detect array_rand second parameter](https://github.com/phpstan/phpstan-src/pull/2633) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [config: describe parallel parameters](https://github.com/rectorphp/rector-src/pull/5048) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [remove phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan/pull/9901) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
@@ -53,8 +55,6 @@
 - [Readme: fix link to CONTRIBUTING.md](https://github.com/mautic/mautic/pull/12733) on [mautic/mautic](https://github.com/mautic/mautic) (4 days ago)
 - [Update rector and phpstan tooling](https://github.com/mautic/mautic/pull/12732) on [mautic/mautic](https://github.com/mautic/mautic) (4 days ago)
 - [Improve types in FixtureSplitter](https://github.com/rectorphp/rector-src/pull/5036) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
-- [EmptyOnNullableObjectToInstanceOfRector: skip phpdoc](https://github.com/rectorphp/rector-src/pull/5034) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
-- [BinaryOpNullableToInstanceofRector: test phpdoc ignorance](https://github.com/rectorphp/rector-src/pull/5033) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
