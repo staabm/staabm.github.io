@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[TypeDeclaration] Skip ArrayDimFetch for native array-shapes](https://github.com/rectorphp/rector-src/pull/5060) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [[TypeDeclaration] Skip ArrayDimFetch for optional items in native array-shapes](https://github.com/rectorphp/rector-src/pull/5060) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [[TypeDeclaration] Skip ArrayDimFetch for return and param types](https://github.com/rectorphp/rector-src/pull/5059) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Prevent unnecessary calls to getFiniteTypes()](https://github.com/phpstan/phpstan-src/pull/2636) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Support union-types in array_chunk()](https://github.com/phpstan/phpstan-src/pull/2635) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
