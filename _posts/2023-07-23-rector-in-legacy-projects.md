@@ -29,11 +29,14 @@ Otherwise adding types to a old codebase can take a lot of time. Doing it manual
 
 These are the top level steps I try to follow:
 
-1. Preparation
+1. Setup
    1. make sure you have [PHPStan configured for your project](https://phpstan.org/user-guide/getting-started), at least at level 5.
    2. add [TomasVotruba/type-coverage](https://tomasvotruba.com/blog/how-to-measure-your-type-coverage/) to create type coverage information
    3. create a [PHPStan baseline](https://phpstan.org/blog/phpstans-baseline-feature-lets-you-hold-new-code-to-a-higher-standard) with all existing errors
    4. [analyze your baseline](https://staabm.github.io/2022/07/04/phpstan-baseline-analysis.html), to get an idea of the overall type coverage of the project
+2. Preparation 
+   1. Fix all "Implicit array creation is not allowed - variable ... does not exist" PHPStan errors
+   2. Fix all "Variable ... might not be defined" PHPStan errors
 2. Adding Types - order is important!
    1. Add return types
    2. Add property types
@@ -42,9 +45,13 @@ These are the top level steps I try to follow:
 
 Analysing the baseline is technically not required. Crunching the numbers can help keep a dev team motivated or these can be used to convince managment people about your current state and potential goals.
 
-## Preparation
+## Setup
 
 The preparation steps and the linked articles in the "overall plan"-chapter should contain all you need.
+
+## Preparation
+
+Fixing the mentioned PHPStan errors to make sure Rector can trust your variables.
 
 ## Adding Types with Rector
 
