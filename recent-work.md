@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [DX: Validate paths in RectorConfig-&gt;paths()](https://github.com/rectorphp/rector-src/pull/5065) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Implement PregGrepDynamicReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/2640) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [[TypeDeclaration] Test native-type ArrayDimFetch on numeric keys](https://github.com/rectorphp/rector-src/pull/5063) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [[TypeDeclaration] Skip ArrayDimFetch for optional items in native array-shapes](https://github.com/rectorphp/rector-src/pull/5060) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [remove phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan-deprecation-rules/pull/103) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (3 days ago)
 - [remove phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan-src/pull/2632) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Result-Cache: Indicate key differences in cache metadata](https://github.com/phpstan/phpstan-src/pull/2630) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Versioned projects should not render addons as unversioned](https://github.com/FriendsOfREDAXO/rexfactor/pull/125) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
