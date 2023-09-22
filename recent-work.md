@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.75](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.75) (today)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.51.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.51.0) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.130](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.130) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.35](https://github.com/phpstan/phpstan/releases/tag/1.10.35) (3 days ago)
@@ -68,4 +69,3 @@
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0beta1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0beta1) (5 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.27.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.27.0) (5 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.6.3](https://github.com/composer/composer/releases/tag/2.6.3) (1 week ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.12.3](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.12.3) (1 week ago)
