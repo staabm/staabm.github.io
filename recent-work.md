@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.7](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.7) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.75](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.75) (today)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.51.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.51.0) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.130](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.130) (2 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.24.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.24.1) (4 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0beta1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0beta1) (5 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.27.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.27.0) (5 days ago)
-- [composer/composer](https://github.com/composer/composer) - [2.6.3](https://github.com/composer/composer/releases/tag/2.6.3) (1 week ago)
