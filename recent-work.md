@@ -4,13 +4,13 @@
 #### 💻 Check out what I'm currently working on
 
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (3 days ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (5 days ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 
