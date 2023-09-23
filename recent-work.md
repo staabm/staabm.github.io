@@ -7,12 +7,12 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (4 days ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (4 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix &#34;Value .. was not selected in the used sql-query&#34; false positive](https://github.com/FriendsOfREDAXO/rexstan/pull/590) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [Fix &#34;Value .. was not selected in the used sql-query&#34; false positive](https://github.com/FriendsOfREDAXO/rexstan/pull/589) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [enable auto-cs-fixing via github action on non-draft PRs](https://github.com/FriendsOfREDAXO/diff_detect/pull/27) on [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (today)
 - [Fix missing privacy/security rel-params for target=blank url](https://github.com/FriendsOfREDAXO/diff_detect/pull/26) on [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (today)
 - [Throw exception on createSnapshot() errors](https://github.com/FriendsOfREDAXO/diff_detect/pull/23) on [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (today)
@@ -53,8 +55,6 @@
 - [DX: Validate paths in RectorConfig-&gt;paths()](https://github.com/rectorphp/rector-src/pull/5065) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Implement PregGrepDynamicReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/2640) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [[TypeDeclaration] Test native-type ArrayDimFetch on numeric keys](https://github.com/rectorphp/rector-src/pull/5063) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [[TypeDeclaration] Skip ArrayDimFetch for optional items in native array-shapes](https://github.com/rectorphp/rector-src/pull/5060) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [[TypeDeclaration] Skip ArrayDimFetch for return and param types](https://github.com/rectorphp/rector-src/pull/5059) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
