@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (4 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Run CI in PHP 8.3](https://github.com/FriendsOfREDAXO/rexstan/pull/585) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [implement rexstan:analyze path arg and level option](https://github.com/FriendsOfREDAXO/rexstan/pull/584) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [autoload: work arround symfony non-utf8 classname](https://github.com/redaxo/redaxo/pull/5809) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [rex_autoload: cheap check first](https://github.com/redaxo/redaxo/pull/5805) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
@@ -54,7 +55,6 @@
 - [Detect array_rand second parameter](https://github.com/phpstan/phpstan-src/pull/2633) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [config: describe parallel parameters](https://github.com/rectorphp/rector-src/pull/5048) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [remove phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan/pull/9901) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
-- [extractor: remove phpstan/phpstan-php-parser](https://github.com/phpstan/php-8-stubs/pull/75) on [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
