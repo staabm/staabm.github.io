@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (4 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (4 days ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [enable auto-cs-fixing via github action on non-draft PRs](https://github.com/FriendsOfREDAXO/diff_detect/pull/27) on [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (today)
+- [Fix missing privacy/security rel-params for target=blank url](https://github.com/FriendsOfREDAXO/diff_detect/pull/26) on [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (today)
+- [Throw exception on createSnapshot() errors](https://github.com/FriendsOfREDAXO/diff_detect/pull/23) on [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (today)
+- [Setup: hartkodierten text übersetzt](https://github.com/redaxo/redaxo/pull/5813) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [PHP Version in check anzeigen](https://github.com/redaxo/redaxo/pull/5812) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [Run CI in PHP 8.3](https://github.com/FriendsOfREDAXO/rexstan/pull/585) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [implement rexstan:analyze path arg and level option](https://github.com/FriendsOfREDAXO/rexstan/pull/584) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [autoload: work arround symfony non-utf8 classname](https://github.com/redaxo/redaxo/pull/5809) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
@@ -50,11 +55,6 @@
 - [[TypeDeclaration] Test native-type ArrayDimFetch on numeric keys](https://github.com/rectorphp/rector-src/pull/5063) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [[TypeDeclaration] Skip ArrayDimFetch for optional items in native array-shapes](https://github.com/rectorphp/rector-src/pull/5060) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [[TypeDeclaration] Skip ArrayDimFetch for return and param types](https://github.com/rectorphp/rector-src/pull/5059) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [Prevent unnecessary calls to getFiniteTypes()](https://github.com/phpstan/phpstan-src/pull/2636) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Support union-types in array_chunk()](https://github.com/phpstan/phpstan-src/pull/2635) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Detect array_rand second parameter](https://github.com/phpstan/phpstan-src/pull/2633) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [config: describe parallel parameters](https://github.com/rectorphp/rector-src/pull/5048) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
-- [remove phpstan/phpstan-php-parser](https://github.com/phpstan/phpstan/pull/9901) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
