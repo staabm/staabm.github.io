@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.131](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.131) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.28.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.28.0) (1 day ago)
 - [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.7](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.7) (1 day ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.75](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.75) (1 day ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.51.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.51.0) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.130](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.130) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.35](https://github.com/phpstan/phpstan/releases/tag/1.10.35) (4 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-rc3](https://github.com/matomo-org/matomo/releases/tag/5.0.0-rc3) (4 days ago)
 - [nette/utils](https://github.com/nette/utils) - [v4.0.2](https://github.com/nette/utils/releases/tag/v4.0.2) (4 days ago)
