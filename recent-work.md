@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Optimize exporting big object/array graphs](https://github.com/sebastianbergmann/exporter/pull/52) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (today)
 - [Reduce memory consumption of TypeInferenceTestCase](https://github.com/phpstan/phpstan-src/pull/2644) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [removed unused variable](https://github.com/FriendsOfREDAXO/diff_detect/pull/38) on [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (today)
 - [Status erfolgreich geändert meldung](https://github.com/FriendsOfREDAXO/diff_detect/pull/37) on [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (today)
@@ -54,7 +55,6 @@
 - [rex_list: refactor logic into new getEnabledColumnNames() method](https://github.com/redaxo/redaxo/pull/5825) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [Enable phpstan-dba checks](https://github.com/FriendsOfREDAXO/diff_detect/pull/28) on [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (1 day ago)
 - [Fix false-positive with setValue()](https://github.com/FriendsOfREDAXO/rexstan/pull/591) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [Fix &#34;Value .. was not selected in the used sql-query&#34; false positive](https://github.com/FriendsOfREDAXO/rexstan/pull/590) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
