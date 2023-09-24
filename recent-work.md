@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [rex_list: use protected visibility for $sql property](https://github.com/redaxo/redaxo/pull/5829) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [rex_list: refactor logic into new getColumnValue() method](https://github.com/redaxo/redaxo/pull/5828) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [rex_list: refactor logic into new getRowsOnCurrentPage() method](https://github.com/redaxo/redaxo/pull/5827) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [rex_list: refactor logic into new formatRowAttributes() method](https://github.com/redaxo/redaxo/pull/5826) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
@@ -54,7 +55,6 @@
 - [Setup: hartkodierten text übersetzt](https://github.com/redaxo/redaxo/pull/5813) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [PHP Version in check anzeigen](https://github.com/redaxo/redaxo/pull/5812) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [Run CI in PHP 8.3](https://github.com/FriendsOfREDAXO/rexstan/pull/585) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [implement rexstan:analyze path arg and level option](https://github.com/FriendsOfREDAXO/rexstan/pull/584) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
