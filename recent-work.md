@@ -40,6 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [rex_list: refactor logic into new getColumnValue() method](https://github.com/redaxo/redaxo/pull/5828) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [rex_list: refactor logic into new getRowsOnCurrentPage() method](https://github.com/redaxo/redaxo/pull/5827) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [rex_list: refactor logic into new formatRowAttributes() method](https://github.com/redaxo/redaxo/pull/5826) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
+- [rex_list: refactor logic into new getEnabledColumnNames() method](https://github.com/redaxo/redaxo/pull/5825) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [Enable phpstan-dba checks](https://github.com/FriendsOfREDAXO/diff_detect/pull/28) on [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (1 day ago)
 - [Fix false-positive with setValue()](https://github.com/FriendsOfREDAXO/rexstan/pull/591) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [Fix &#34;Value .. was not selected in the used sql-query&#34; false positive](https://github.com/FriendsOfREDAXO/rexstan/pull/590) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -51,10 +55,6 @@
 - [PHP Version in check anzeigen](https://github.com/redaxo/redaxo/pull/5812) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [Run CI in PHP 8.3](https://github.com/FriendsOfREDAXO/rexstan/pull/585) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [implement rexstan:analyze path arg and level option](https://github.com/FriendsOfREDAXO/rexstan/pull/584) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [autoload: work arround symfony non-utf8 classname](https://github.com/redaxo/redaxo/pull/5809) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
-- [rex_autoload: cheap check first](https://github.com/redaxo/redaxo/pull/5805) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
-- [DisallowedEmptyRuleFixerRector: fix test expectations](https://github.com/rectorphp/rector-src/pull/5066) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [DX: Validate paths in RectorConfig-&gt;paths()](https://github.com/rectorphp/rector-src/pull/5065) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
