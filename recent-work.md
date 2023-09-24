@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
-- [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (1 day ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (5 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (5 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (5 days ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [removed unused variable](https://github.com/FriendsOfREDAXO/diff_detect/pull/38) on [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (today)
+- [Status erfolgreich geändert meldung](https://github.com/FriendsOfREDAXO/diff_detect/pull/37) on [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (today)
+- [Fix wording](https://github.com/FriendsOfREDAXO/diff_detect/pull/36) on [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (today)
 - [DX: added more passthru cli options](https://github.com/FriendsOfREDAXO/rexstan/pull/595) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/594) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [DX: print stderr output](https://github.com/FriendsOfREDAXO/rexstan/pull/593) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
@@ -52,9 +55,6 @@
 - [Fix false-positive with setValue()](https://github.com/FriendsOfREDAXO/rexstan/pull/591) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [Fix &#34;Value .. was not selected in the used sql-query&#34; false positive](https://github.com/FriendsOfREDAXO/rexstan/pull/590) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [Fix &#34;Value .. was not selected in the used sql-query&#34; false positive](https://github.com/FriendsOfREDAXO/rexstan/pull/589) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [enable auto-cs-fixing via github action on non-draft PRs](https://github.com/FriendsOfREDAXO/diff_detect/pull/27) on [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (1 day ago)
-- [Fix missing privacy/security rel-params for target=blank url](https://github.com/FriendsOfREDAXO/diff_detect/pull/26) on [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (1 day ago)
-- [Throw exception on createSnapshot() errors](https://github.com/FriendsOfREDAXO/diff_detect/pull/23) on [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
