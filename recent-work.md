@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
-- [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (today)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) (5 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (5 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
 
 
 #### 📜 My recent blog posts
@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Optimize exporting big object/array graphs](https://github.com/sebastianbergmann/exporter/pull/52) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (today)
+- [Optimize export of large arrays and object graphs](https://github.com/sebastianbergmann/exporter/pull/52) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (today)
 - [Reduce memory consumption of TypeInferenceTestCase](https://github.com/phpstan/phpstan-src/pull/2644) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [removed unused variable](https://github.com/FriendsOfREDAXO/diff_detect/pull/38) on [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (today)
 - [Status erfolgreich geändert meldung](https://github.com/FriendsOfREDAXO/diff_detect/pull/37) on [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (today)
