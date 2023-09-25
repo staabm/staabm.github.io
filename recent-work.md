@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Reproduce NodeScopeResolverTest memory issue](https://github.com/phpstan/phpstan-src/pull/2647) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Optimize export of large arrays and object graphs](https://github.com/sebastianbergmann/exporter/pull/52) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (1 day ago)
 - [Reduce memory consumption of TypeInferenceTestCase](https://github.com/phpstan/phpstan-src/pull/2644) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [removed unused variable](https://github.com/FriendsOfREDAXO/diff_detect/pull/38) on [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (1 day ago)
@@ -54,7 +55,6 @@
 - [rex_list: refactor logic into new formatRowAttributes() method](https://github.com/redaxo/redaxo/pull/5826) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [rex_list: refactor logic into new getEnabledColumnNames() method](https://github.com/redaxo/redaxo/pull/5825) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
 - [Enable phpstan-dba checks](https://github.com/FriendsOfREDAXO/diff_detect/pull/28) on [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (2 days ago)
-- [Fix false-positive with setValue()](https://github.com/FriendsOfREDAXO/rexstan/pull/591) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
