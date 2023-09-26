@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.29.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.29.0) (today)
+- [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.8](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.8) (today)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.24.2](https://github.com/phpstan/phpdoc-parser/releases/tag/1.24.2) (today)
 - [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) - [v5.2.13](https://github.com/justinrainbow/json-schema/releases/tag/v5.2.13) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.135](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.135) (2 days ago)
 - [yakamara/yform](https://github.com/yakamara/yform) - [4.1.2-beta1](https://github.com/yakamara/yform/releases/tag/4.1.2-beta1) (3 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.28.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.28.0) (4 days ago)
-- [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.7](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.7) (4 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.75](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.75) (4 days ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.51.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.51.0) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.35](https://github.com/phpstan/phpstan/releases/tag/1.10.35) (1 week ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-rc3](https://github.com/matomo-org/matomo/releases/tag/5.0.0-rc3) (1 week ago)
-- [nette/utils](https://github.com/nette/utils) - [v4.0.2](https://github.com/nette/utils/releases/tag/v4.0.2) (1 week ago)
