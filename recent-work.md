@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.30.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.30.0) (today)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-rc4](https://github.com/matomo-org/matomo/releases/tag/5.0.0-rc4) (today)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.29.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.29.0) (today)
 - [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.8](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.8) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.24.2](https://github.com/phpstan/phpdoc-parser/releases/tag/1.24.2) (today)
 - [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) - [v5.2.13](https://github.com/justinrainbow/json-schema/releases/tag/v5.2.13) (today)
