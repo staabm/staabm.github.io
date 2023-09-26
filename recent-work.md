@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) - [v5.2.13](https://github.com/justinrainbow/json-schema/releases/tag/v5.2.13) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.135](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.135) (2 days ago)
 - [yakamara/yform](https://github.com/yakamara/yform) - [4.1.2-beta1](https://github.com/yakamara/yform/releases/tag/4.1.2-beta1) (3 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.28.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.28.0) (4 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.35](https://github.com/phpstan/phpstan/releases/tag/1.10.35) (1 week ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-rc3](https://github.com/matomo-org/matomo/releases/tag/5.0.0-rc3) (1 week ago)
 - [nette/utils](https://github.com/nette/utils) - [v4.0.2](https://github.com/nette/utils/releases/tag/v4.0.2) (1 week ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.24.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.24.1) (1 week ago)
