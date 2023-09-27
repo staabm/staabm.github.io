@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.9](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.9) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.30.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.30.0) (1 day ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-rc4](https://github.com/matomo-org/matomo/releases/tag/5.0.0-rc4) (1 day ago)
-- [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.8](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.8) (1 day ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.24.2](https://github.com/phpstan/phpdoc-parser/releases/tag/1.24.2) (1 day ago)
 - [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) - [v5.2.13](https://github.com/justinrainbow/json-schema/releases/tag/v5.2.13) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.135](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.135) (3 days ago)
