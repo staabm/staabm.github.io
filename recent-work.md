@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) (1 day ago)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (4 days ago)
 - [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (4 days ago)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (4 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (6 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 
 
 #### 📜 My recent blog posts
@@ -40,7 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Reproduce named placeholder bug](https://github.com/staabm/phpstan-dba/pull/625) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Tests: Support ssl in ReflectorFactory](https://github.com/staabm/phpstan-dba/pull/626) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Named placeholders only need to be contained in one of the union queries](https://github.com/staabm/phpstan-dba/pull/625) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Ignore REX_VALUE in match expression](https://github.com/FriendsOfREDAXO/rexstan/pull/598) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [Move readonly check before the loop](https://github.com/rectorphp/rector-src/pull/5086) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Update ignore patterns for theme addon](https://github.com/FriendsOfREDAXO/rexstan/pull/596) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -54,7 +55,6 @@
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/594) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [DX: print stderr output](https://github.com/FriendsOfREDAXO/rexstan/pull/593) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [rex_list: use protected visibility for $sql property](https://github.com/redaxo/redaxo/pull/5829) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (4 days ago)
-- [rex_list: refactor logic into new getColumnValue() method](https://github.com/redaxo/redaxo/pull/5828) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
