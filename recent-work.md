@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.3](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.3) (today)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.1.2](https://github.com/PrestaShop/PrestaShop/releases/tag/8.1.2) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.136](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.136) (1 day ago)
 - [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.9](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.9) (1 day ago)
@@ -68,4 +69,3 @@
 - [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) - [v5.2.13](https://github.com/justinrainbow/json-schema/releases/tag/v5.2.13) (2 days ago)
 - [yakamara/yform](https://github.com/yakamara/yform) - [4.1.2-beta1](https://github.com/yakamara/yform/releases/tag/4.1.2-beta1) (5 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.75](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.75) (6 days ago)
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.51.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.51.0) (1 week ago)
