@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove force-optional flag in QueryReflection](https://github.com/staabm/phpstan-dba/pull/627) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Tests: Support ssl in ReflectorFactory](https://github.com/staabm/phpstan-dba/pull/626) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Named placeholders only need to be contained in one of the union queries](https://github.com/staabm/phpstan-dba/pull/625) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Ignore REX_VALUE in match expression](https://github.com/FriendsOfREDAXO/rexstan/pull/598) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
@@ -54,7 +55,6 @@
 - [DX: added more passthru cli options](https://github.com/FriendsOfREDAXO/rexstan/pull/595) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/594) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [DX: print stderr output](https://github.com/FriendsOfREDAXO/rexstan/pull/593) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
-- [rex_list: use protected visibility for $sql property](https://github.com/redaxo/redaxo/pull/5829) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
