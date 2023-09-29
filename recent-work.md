@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support array shape covariance](https://github.com/phpstan/phpstan-src/pull/2655) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/131) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
+- [Fix CS](https://github.com/FriendsOfREDAXO/rexstan/pull/604) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Fix false-positive parameter validation error when query string is not resolvable](https://github.com/staabm/phpstan-dba/pull/630) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Fix &#34;Query expects 9223372036854775807-0 placeholders, but no values are given.&#34;](https://github.com/staabm/phpstan-dba/pull/629) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Fix false positive with unnamed placeholders](https://github.com/staabm/phpstan-dba/pull/628) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
@@ -52,13 +55,11 @@
 - [Reproduce NodeScopeResolverTest memory issue](https://github.com/phpstan/phpstan-src/pull/2647) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Optimize export of large arrays and object graphs](https://github.com/sebastianbergmann/exporter/pull/52) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (5 days ago)
 - [Reduce memory consumption of TypeInferenceTestCase](https://github.com/phpstan/phpstan-src/pull/2644) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [removed unused variable](https://github.com/FriendsOfREDAXO/diff_detect/pull/38) on [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (5 days ago)
-- [Status erfolgreich geändert meldung](https://github.com/FriendsOfREDAXO/diff_detect/pull/37) on [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (5 days ago)
-- [Fix wording](https://github.com/FriendsOfREDAXO/diff_detect/pull/36) on [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.17](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.17) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.137](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.137) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.34.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.34.0) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.4](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.4) (today)
@@ -68,4 +69,3 @@
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.1.2](https://github.com/PrestaShop/PrestaShop/releases/tag/8.1.2) (1 day ago)
 - [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.9](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.9) (2 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-rc4](https://github.com/matomo-org/matomo/releases/tag/5.0.0-rc4) (3 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.24.2](https://github.com/phpstan/phpdoc-parser/releases/tag/1.24.2) (3 days ago)
