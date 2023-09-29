@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix &#34;Query expects 9223372036854775807-0 placeholders, but no values are given.&#34;](https://github.com/staabm/phpstan-dba/pull/629) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Fix false positive with unnamed placeholders](https://github.com/staabm/phpstan-dba/pull/628) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Remove force-optional flag in QueryReflection](https://github.com/staabm/phpstan-dba/pull/627) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Tests: Support ssl in ReflectorFactory](https://github.com/staabm/phpstan-dba/pull/626) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
@@ -54,11 +55,12 @@
 - [Status erfolgreich geändert meldung](https://github.com/FriendsOfREDAXO/diff_detect/pull/37) on [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (5 days ago)
 - [Fix wording](https://github.com/FriendsOfREDAXO/diff_detect/pull/36) on [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (5 days ago)
 - [DX: added more passthru cli options](https://github.com/FriendsOfREDAXO/rexstan/pull/595) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
-- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/594) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.77](https://github.com/staabm/phpstan-dba/releases/tag/0.2.77) (today)
+- [composer/composer](https://github.com/composer/composer) - [2.6.4](https://github.com/composer/composer/releases/tag/2.6.4) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.3](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.3) (1 day ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.1.2](https://github.com/PrestaShop/PrestaShop/releases/tag/8.1.2) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.136](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.136) (2 days ago)
@@ -67,5 +69,3 @@
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-rc4](https://github.com/matomo-org/matomo/releases/tag/5.0.0-rc4) (3 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.24.2](https://github.com/phpstan/phpdoc-parser/releases/tag/1.24.2) (3 days ago)
 - [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) - [v5.2.13](https://github.com/justinrainbow/json-schema/releases/tag/v5.2.13) (3 days ago)
-- [yakamara/yform](https://github.com/yakamara/yform) - [4.1.2-beta1](https://github.com/yakamara/yform/releases/tag/4.1.2-beta1) (6 days ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.75](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.75) (1 week ago)
