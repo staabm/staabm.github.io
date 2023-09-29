@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix false-positive parameter validation error when query string is not resolvable](https://github.com/staabm/phpstan-dba/pull/630) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Fix &#34;Query expects 9223372036854775807-0 placeholders, but no values are given.&#34;](https://github.com/staabm/phpstan-dba/pull/629) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Fix false positive with unnamed placeholders](https://github.com/staabm/phpstan-dba/pull/628) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Remove force-optional flag in QueryReflection](https://github.com/staabm/phpstan-dba/pull/627) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
@@ -54,7 +55,6 @@
 - [removed unused variable](https://github.com/FriendsOfREDAXO/diff_detect/pull/38) on [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (5 days ago)
 - [Status erfolgreich geändert meldung](https://github.com/FriendsOfREDAXO/diff_detect/pull/37) on [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (5 days ago)
 - [Fix wording](https://github.com/FriendsOfREDAXO/diff_detect/pull/36) on [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (5 days ago)
-- [DX: added more passthru cli options](https://github.com/FriendsOfREDAXO/rexstan/pull/595) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
