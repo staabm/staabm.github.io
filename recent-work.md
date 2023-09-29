@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) (2 days ago)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (5 days ago)
 - [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) (5 days ago)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (5 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 
 
 #### 📜 My recent blog posts
