@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) (2 days ago)
@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.77](https://github.com/staabm/phpstan-dba/releases/tag/0.2.77) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.78](https://github.com/staabm/phpstan-dba/releases/tag/0.2.78) (today)
 - [composer/composer](https://github.com/composer/composer) - [2.6.4](https://github.com/composer/composer/releases/tag/2.6.4) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.3](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.3) (1 day ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.1.2](https://github.com/PrestaShop/PrestaShop/releases/tag/8.1.2) (1 day ago)
