@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix !isset() with ArrayDimFetch](https://github.com/phpstan/phpstan-src/pull/2657) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Support array shape covariance](https://github.com/phpstan/phpstan-src/pull/2655) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/131) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
 - [Fix CS](https://github.com/FriendsOfREDAXO/rexstan/pull/604) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -54,7 +55,6 @@
 - [Update ignore patterns for theme addon](https://github.com/FriendsOfREDAXO/rexstan/pull/596) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [Reproduce NodeScopeResolverTest memory issue](https://github.com/phpstan/phpstan-src/pull/2647) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Optimize export of large arrays and object graphs](https://github.com/sebastianbergmann/exporter/pull/52) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (6 days ago)
-- [Reduce memory consumption of TypeInferenceTestCase](https://github.com/phpstan/phpstan-src/pull/2644) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
