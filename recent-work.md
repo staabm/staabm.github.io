@@ -4,8 +4,8 @@
 #### 💻 Check out what I'm currently working on
 
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (2 days ago)
