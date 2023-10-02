@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.37](https://github.com/phpstan/phpstan/releases/tag/1.10.37) (today)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.3.0](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.3.0) (2 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.5](https://github.com/symfony/symfony/releases/tag/v6.3.5) (2 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.17](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.17) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.137](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.137) (3 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.34.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.34.0) (3 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.4](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.4) (3 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.36](https://github.com/phpstan/phpstan/releases/tag/1.10.36) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.78](https://github.com/staabm/phpstan-dba/releases/tag/0.2.78) (3 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.6.4](https://github.com/composer/composer/releases/tag/2.6.4) (3 days ago)
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.1.2](https://github.com/PrestaShop/PrestaShop/releases/tag/8.1.2) (4 days ago)
