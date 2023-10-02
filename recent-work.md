@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use is_file() instead of file_exists() which is faster](https://github.com/TomasVotruba/bladestan/pull/87) on [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (today)
+- [BladeRule: Use more specific node-type](https://github.com/TomasVotruba/bladestan/pull/86) on [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (today)
 - [Fix !isset() with ArrayDimFetch](https://github.com/phpstan/phpstan-src/pull/2657) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Support array shape covariance](https://github.com/phpstan/phpstan-src/pull/2655) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/131) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
@@ -53,8 +55,6 @@
 - [Ignore REX_VALUE in match expression](https://github.com/FriendsOfREDAXO/rexstan/pull/598) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [Move readonly check before the loop](https://github.com/rectorphp/rector-src/pull/5086) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 - [Update ignore patterns for theme addon](https://github.com/FriendsOfREDAXO/rexstan/pull/596) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
-- [Reproduce NodeScopeResolverTest memory issue](https://github.com/phpstan/phpstan-src/pull/2647) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Optimize export of large arrays and object graphs](https://github.com/sebastianbergmann/exporter/pull/52) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
