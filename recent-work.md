@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: decouple internals](https://github.com/TomasVotruba/bladestan/pull/88) on [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (today)
 - [Use is_file() instead of file_exists() which is faster](https://github.com/TomasVotruba/bladestan/pull/87) on [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (today)
 - [BladeRule: Use more specific node-type](https://github.com/TomasVotruba/bladestan/pull/86) on [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (today)
 - [Fix !isset() with ArrayDimFetch](https://github.com/phpstan/phpstan-src/pull/2657) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Named placeholders only need to be contained in one of the union queries](https://github.com/staabm/phpstan-dba/pull/625) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [Ignore REX_VALUE in match expression](https://github.com/FriendsOfREDAXO/rexstan/pull/598) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [Move readonly check before the loop](https://github.com/rectorphp/rector-src/pull/5086) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
-- [Update ignore patterns for theme addon](https://github.com/FriendsOfREDAXO/rexstan/pull/596) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
