@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.4](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.4) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.138](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.138) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.37](https://github.com/phpstan/phpstan/releases/tag/1.10.37) (1 day ago)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.3.0](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.3.0) (3 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.4](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.4) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.78](https://github.com/staabm/phpstan-dba/releases/tag/0.2.78) (4 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.6.4](https://github.com/composer/composer/releases/tag/2.6.4) (4 days ago)
-- [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - [8.1.2](https://github.com/PrestaShop/PrestaShop/releases/tag/8.1.2) (5 days ago)
