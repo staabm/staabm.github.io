@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.10](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.10) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.34.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.34.1) (1 day ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.4](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.4) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.138](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.138) (2 days ago)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.17](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.17) (5 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.4](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.4) (5 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.78](https://github.com/staabm/phpstan-dba/releases/tag/0.2.78) (5 days ago)
-- [composer/composer](https://github.com/composer/composer) - [2.6.4](https://github.com/composer/composer/releases/tag/2.6.4) (5 days ago)
