@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [oven-sh/bun](https://github.com/oven-sh/bun) (3 days ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (3 days ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (1 week ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) (1 week ago)
 
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Skip `__construct()` in BoolReturnTypeFromStrictScalarReturnsRector](https://github.com/rectorphp/rector-src/pull/5133) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Lazier type-resolving in isset-checks](https://github.com/phpstan/phpstan-src/pull/2664) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [refactor: decouple internals](https://github.com/TomasVotruba/bladestan/pull/88) on [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (4 days ago)
 - [Use is_file() instead of file_exists() which is faster](https://github.com/TomasVotruba/bladestan/pull/87) on [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (4 days ago)
@@ -54,7 +55,6 @@
 - [Remove force-optional flag in QueryReflection](https://github.com/staabm/phpstan-dba/pull/627) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [Tests: Support ssl in ReflectorFactory](https://github.com/staabm/phpstan-dba/pull/626) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [Named placeholders only need to be contained in one of the union queries](https://github.com/staabm/phpstan-dba/pull/625) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [Ignore REX_VALUE in match expression](https://github.com/FriendsOfREDAXO/rexstan/pull/598) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
