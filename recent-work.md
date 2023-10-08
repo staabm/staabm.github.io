@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix variable certainty for ArrayDimFetch in falsey isset context](https://github.com/phpstan/phpstan-src/pull/2666) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Missing brackets in CombineIfRector](https://github.com/rectorphp/rector-src/pull/5137) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Skip `__construct()` in BoolReturnTypeFromStrictScalarReturnsRector](https://github.com/rectorphp/rector-src/pull/5133) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Lazier type-resolving in isset-checks](https://github.com/phpstan/phpstan-src/pull/2664) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
@@ -54,7 +55,6 @@
 - [Fix &#34;Query expects 9223372036854775807-0 placeholders, but no values are given.&#34;](https://github.com/staabm/phpstan-dba/pull/629) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [Fix false positive with unnamed placeholders](https://github.com/staabm/phpstan-dba/pull/628) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [Remove force-optional flag in QueryReflection](https://github.com/staabm/phpstan-dba/pull/627) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [Tests: Support ssl in ReflectorFactory](https://github.com/staabm/phpstan-dba/pull/626) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
