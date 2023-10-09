@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.15](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.15) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.15.0](https://github.com/Roave/BetterReflection/releases/tag/6.15.0) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.38](https://github.com/phpstan/phpstan/releases/tag/1.10.38) (3 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.6.5](https://github.com/composer/composer/releases/tag/2.6.5) (3 days ago)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.138](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.138) (1 week ago)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.3.0](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.3.0) (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.5](https://github.com/symfony/symfony/releases/tag/v6.3.5) (1 week ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.17](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.17) (1 week ago)
