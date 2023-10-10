@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.76](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.76) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.15](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.15) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.15.0](https://github.com/Roave/BetterReflection/releases/tag/6.15.0) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.38](https://github.com/phpstan/phpstan/releases/tag/1.10.38) (4 days ago)
@@ -68,4 +69,3 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.4](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.4) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.138](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.138) (1 week ago)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.3.0](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.3.0) (1 week ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.5](https://github.com/symfony/symfony/releases/tag/v6.3.5) (1 week ago)
