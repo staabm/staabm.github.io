@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.52.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.52.0) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.76](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.76) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.15](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.15) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.15.0](https://github.com/Roave/BetterReflection/releases/tag/6.15.0) (4 days ago)
@@ -68,4 +69,3 @@
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.34.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.34.1) (1 week ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.4](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.4) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.138](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.138) (1 week ago)
-- [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.3.0](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.3.0) (1 week ago)
