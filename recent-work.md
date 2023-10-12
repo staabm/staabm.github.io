@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.6](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.6) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.79](https://github.com/staabm/phpstan-dba/releases/tag/0.2.79) (today)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.5](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.5) (1 day ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.1.1](https://github.com/composer/pcre/releases/tag/3.1.1) (1 day ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.52.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.52.0) (2 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.76](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.76) (2 days ago)
