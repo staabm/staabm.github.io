@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Infer object type mysqli_fetch_object](https://github.com/phpstan/phpstan-src/pull/2675) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Refactor MysqliResultObjectType](https://github.com/staabm/phpstan-dba/pull/634) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Remove PdoStatement.stub](https://github.com/staabm/phpstan-dba/pull/633) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Fix &#34;$result contains generic type mysqli_result&lt;mixed&gt; but class mysqli_result is not generic&#34;](https://github.com/staabm/phpstan-dba/pull/632) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Fix variable certainty for ArrayDimFetch in falsey isset context](https://github.com/phpstan/phpstan-src/pull/2666) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -53,8 +55,6 @@
 - [Support array shape covariance](https://github.com/phpstan/phpstan-src/pull/2655) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/131) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [Fix CS](https://github.com/FriendsOfREDAXO/rexstan/pull/604) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [Fix false-positive parameter validation error when query string is not resolvable](https://github.com/staabm/phpstan-dba/pull/630) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [Fix &#34;Query expects 9223372036854775807-0 placeholders, but no values are given.&#34;](https://github.com/staabm/phpstan-dba/pull/629) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
