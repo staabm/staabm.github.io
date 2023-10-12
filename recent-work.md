@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -11,7 +12,6 @@
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (1 week ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) (2 weeks ago)
 
 
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove PdoStatement.stub](https://github.com/staabm/phpstan-dba/pull/633) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Fix &#34;$result contains generic type mysqli_result&lt;mixed&gt; but class mysqli_result is not generic&#34;](https://github.com/staabm/phpstan-dba/pull/632) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Fix variable certainty for ArrayDimFetch in falsey isset context](https://github.com/phpstan/phpstan-src/pull/2666) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Missing brackets in CombineIfRector](https://github.com/rectorphp/rector-src/pull/5137) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 - [Skip `__construct()` in BoolReturnTypeFromStrictScalarReturnsRector](https://github.com/rectorphp/rector-src/pull/5133) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
@@ -53,12 +55,11 @@
 - [Fix CS](https://github.com/FriendsOfREDAXO/rexstan/pull/604) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [Fix false-positive parameter validation error when query string is not resolvable](https://github.com/staabm/phpstan-dba/pull/630) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [Fix &#34;Query expects 9223372036854775807-0 placeholders, but no values are given.&#34;](https://github.com/staabm/phpstan-dba/pull/629) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [Fix false positive with unnamed placeholders](https://github.com/staabm/phpstan-dba/pull/628) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [Remove force-optional flag in QueryReflection](https://github.com/staabm/phpstan-dba/pull/627) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.79](https://github.com/staabm/phpstan-dba/releases/tag/0.2.79) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.5](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.5) (1 day ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.1.1](https://github.com/composer/pcre/releases/tag/3.1.1) (1 day ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.52.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.52.0) (2 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.38](https://github.com/phpstan/phpstan/releases/tag/1.10.38) (6 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.6.5](https://github.com/composer/composer/releases/tag/2.6.5) (6 days ago)
 - [FriendsOfREDAXO/diff_detect](https://github.com/FriendsOfREDAXO/diff_detect) - [1.10](https://github.com/FriendsOfREDAXO/diff_detect/releases/tag/1.10) (1 week ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.34.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.34.1) (1 week ago)
