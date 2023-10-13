@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [added example comments](https://github.com/php/doc-en/pull/2854) on [php/doc-en](https://github.com/php/doc-en) (today)
 - [Reproduce a refined github issue](https://github.com/redaxo/redaxo/pull/5842) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [Don&#39;t collapse Traversable with php-src native traversable objects](https://github.com/phpstan/phpstan-src/pull/2676) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Infer object type mysqli_fetch_object](https://github.com/phpstan/phpstan-src/pull/2675) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Use is_file() instead of file_exists() which is faster](https://github.com/TomasVotruba/bladestan/pull/87) on [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (1 week ago)
 - [BladeRule: Use more specific node-type](https://github.com/TomasVotruba/bladestan/pull/86) on [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (1 week ago)
 - [Fix !isset() with ArrayDimFetch](https://github.com/phpstan/phpstan-src/pull/2657) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Support array shape covariance](https://github.com/phpstan/phpstan-src/pull/2655) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
