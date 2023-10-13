@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
-- [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (1 week ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 weeks ago)
+- [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (2 weeks ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) (2 weeks ago)
 
 
@@ -40,32 +40,32 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Don&#39;t collapse Traversable with php-src native traversable objects](https://github.com/phpstan/phpstan-src/pull/2676) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Infer object type mysqli_fetch_object](https://github.com/phpstan/phpstan-src/pull/2675) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Refactor MysqliResultObjectType](https://github.com/staabm/phpstan-dba/pull/634) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [Remove PdoStatement.stub](https://github.com/staabm/phpstan-dba/pull/633) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [Fix &#34;$result contains generic type mysqli_result&lt;mixed&gt; but class mysqli_result is not generic&#34;](https://github.com/staabm/phpstan-dba/pull/632) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [Fix variable certainty for ArrayDimFetch in falsey isset context](https://github.com/phpstan/phpstan-src/pull/2666) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Missing brackets in CombineIfRector](https://github.com/rectorphp/rector-src/pull/5137) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
-- [Skip `__construct()` in BoolReturnTypeFromStrictScalarReturnsRector](https://github.com/rectorphp/rector-src/pull/5133) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
+- [Don&#39;t collapse Traversable with php-src native traversable objects](https://github.com/phpstan/phpstan-src/pull/2676) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Infer object type mysqli_fetch_object](https://github.com/phpstan/phpstan-src/pull/2675) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Refactor MysqliResultObjectType](https://github.com/staabm/phpstan-dba/pull/634) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [Remove PdoStatement.stub](https://github.com/staabm/phpstan-dba/pull/633) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [Fix &#34;$result contains generic type mysqli_result&lt;mixed&gt; but class mysqli_result is not generic&#34;](https://github.com/staabm/phpstan-dba/pull/632) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [Fix variable certainty for ArrayDimFetch in falsey isset context](https://github.com/phpstan/phpstan-src/pull/2666) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Missing brackets in CombineIfRector](https://github.com/rectorphp/rector-src/pull/5137) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
+- [Skip `__construct()` in BoolReturnTypeFromStrictScalarReturnsRector](https://github.com/rectorphp/rector-src/pull/5133) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Lazier type-resolving in isset-checks](https://github.com/phpstan/phpstan-src/pull/2664) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [refactor: decouple internals](https://github.com/TomasVotruba/bladestan/pull/88) on [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (1 week ago)
 - [Use is_file() instead of file_exists() which is faster](https://github.com/TomasVotruba/bladestan/pull/87) on [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (1 week ago)
 - [BladeRule: Use more specific node-type](https://github.com/TomasVotruba/bladestan/pull/86) on [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (1 week ago)
 - [Fix !isset() with ArrayDimFetch](https://github.com/phpstan/phpstan-src/pull/2657) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Support array shape covariance](https://github.com/phpstan/phpstan-src/pull/2655) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/131) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
+- [Support array shape covariance](https://github.com/phpstan/phpstan-src/pull/2655) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/131) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.35.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.35.1) (today)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.6](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.6) (today)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.79](https://github.com/staabm/phpstan-dba/releases/tag/0.2.79) (today)
-- [composer/pcre](https://github.com/composer/pcre) - [3.1.1](https://github.com/composer/pcre/releases/tag/3.1.1) (1 day ago)
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.52.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.52.0) (2 days ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.76](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.76) (2 days ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.15](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.15) (3 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.15.0](https://github.com/Roave/BetterReflection/releases/tag/6.15.0) (6 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.38](https://github.com/phpstan/phpstan/releases/tag/1.10.38) (6 days ago)
-- [composer/composer](https://github.com/composer/composer) - [2.6.5](https://github.com/composer/composer/releases/tag/2.6.5) (6 days ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.35.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.35.1) (1 day ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.6](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.6) (1 day ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.79](https://github.com/staabm/phpstan-dba/releases/tag/0.2.79) (1 day ago)
+- [composer/pcre](https://github.com/composer/pcre) - [3.1.1](https://github.com/composer/pcre/releases/tag/3.1.1) (2 days ago)
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.52.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.52.0) (3 days ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.76](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.76) (3 days ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.15](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.15) (4 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.15.0](https://github.com/Roave/BetterReflection/releases/tag/6.15.0) (1 week ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.38](https://github.com/phpstan/phpstan/releases/tag/1.10.38) (1 week ago)
+- [composer/composer](https://github.com/composer/composer) - [2.6.5](https://github.com/composer/composer/releases/tag/2.6.5) (1 week ago)
