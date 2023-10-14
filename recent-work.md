@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [RemoveUnusedNonEmptyArrayBeforeForeachRector: ignore phpdoc types](https://github.com/rectorphp/rector-src/pull/5169) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/135) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [re-try delete to compensate possible race conditions](https://github.com/redaxo/redaxo/pull/5843) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [Implement SimplifyReturnExpressionToConstantTypeRector](https://github.com/rectorphp/rector-src/pull/5167) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
@@ -54,7 +55,6 @@
 - [Fix &#34;$result contains generic type mysqli_result&lt;mixed&gt; but class mysqli_result is not generic&#34;](https://github.com/staabm/phpstan-dba/pull/632) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [Fix variable certainty for ArrayDimFetch in falsey isset context](https://github.com/phpstan/phpstan-src/pull/2666) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Missing brackets in CombineIfRector](https://github.com/rectorphp/rector-src/pull/5137) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [Skip `__construct()` in BoolReturnTypeFromStrictScalarReturnsRector](https://github.com/rectorphp/rector-src/pull/5133) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
