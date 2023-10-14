@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement SimplifyReturnExpressionToConstantTypeRector](https://github.com/rectorphp/rector-src/pull/5167) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [RemoveUnusedNonEmptyArrayBeforeForeachRector: skip array dim fetch](https://github.com/rectorphp/rector-src/pull/5166) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Replace doctrine/inflector with simpler mapping function](https://github.com/rectorphp/rector-src/pull/5165) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [added example comments](https://github.com/php/doc-en/pull/2854) on [php/doc-en](https://github.com/php/doc-en) (1 day ago)
@@ -54,7 +55,6 @@
 - [Skip `__construct()` in BoolReturnTypeFromStrictScalarReturnsRector](https://github.com/rectorphp/rector-src/pull/5133) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Lazier type-resolving in isset-checks](https://github.com/phpstan/phpstan-src/pull/2664) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [refactor: decouple internals](https://github.com/TomasVotruba/bladestan/pull/88) on [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (1 week ago)
-- [Use is_file() instead of file_exists() which is faster](https://github.com/TomasVotruba/bladestan/pull/87) on [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
