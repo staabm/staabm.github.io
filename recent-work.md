@@ -4,13 +4,13 @@
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 weeks ago)
 - [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (2 weeks ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) (2 weeks ago)
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/135) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [re-try delete to compensate possible race conditions](https://github.com/redaxo/redaxo/pull/5843) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [Implement SimplifyReturnExpressionToConstantTypeRector](https://github.com/rectorphp/rector-src/pull/5167) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [RemoveUnusedNonEmptyArrayBeforeForeachRector: skip array dim fetch](https://github.com/rectorphp/rector-src/pull/5166) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
@@ -54,11 +55,11 @@
 - [Fix variable certainty for ArrayDimFetch in falsey isset context](https://github.com/phpstan/phpstan-src/pull/2666) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Missing brackets in CombineIfRector](https://github.com/rectorphp/rector-src/pull/5137) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Skip `__construct()` in BoolReturnTypeFromStrictScalarReturnsRector](https://github.com/rectorphp/rector-src/pull/5133) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [Lazier type-resolving in isset-checks](https://github.com/phpstan/phpstan-src/pull/2664) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.18](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.18) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.139](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.139) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.35.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.35.1) (2 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.6](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.6) (2 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.76](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.76) (4 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.15](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.15) (5 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.15.0](https://github.com/Roave/BetterReflection/releases/tag/6.15.0) (1 week ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.38](https://github.com/phpstan/phpstan/releases/tag/1.10.38) (1 week ago)
