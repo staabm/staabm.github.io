@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [More efficient file finding](https://github.com/phpstan/phpstan-src/pull/2682) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Optimize memory consumption in ResultCacheManager](https://github.com/phpstan/phpstan-src/pull/2681) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Optimize memory consumption](https://github.com/phpstan/phpstan-src/pull/2680) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [RemoveUnusedNonEmptyArrayBeforeForeachRector: ignore phpdoc types](https://github.com/rectorphp/rector-src/pull/5169) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Infer object type mysqli_fetch_object](https://github.com/phpstan/phpstan-src/pull/2675) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Refactor MysqliResultObjectType](https://github.com/staabm/phpstan-dba/pull/634) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [Remove PdoStatement.stub](https://github.com/staabm/phpstan-dba/pull/633) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
-- [Fix &#34;$result contains generic type mysqli_result&lt;mixed&gt; but class mysqli_result is not generic&#34;](https://github.com/staabm/phpstan-dba/pull/632) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
