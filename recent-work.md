@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [php/doc-en](https://github.com/php/doc-en) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) (1 week ago)
 - [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (1 week ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
 - [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (2 weeks ago)
-- [qossmic/deptrac](https://github.com/qossmic/deptrac) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -49,7 +49,7 @@
 - [Implement SimplifyReturnExpressionToConstantTypeRector](https://github.com/rectorphp/rector-src/pull/5167) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [RemoveUnusedNonEmptyArrayBeforeForeachRector: skip array dim fetch](https://github.com/rectorphp/rector-src/pull/5166) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Replace doctrine/inflector with simpler mapping function](https://github.com/rectorphp/rector-src/pull/5165) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [added example comments](https://github.com/php/doc-en/pull/2854) on [php/doc-en](https://github.com/php/doc-en) (3 days ago)
+- [$http_response_header: Improve example](https://github.com/php/doc-en/pull/2854) on [php/doc-en](https://github.com/php/doc-en) (3 days ago)
 - [Reproduce a refined github issue](https://github.com/redaxo/redaxo/pull/5842) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
 - [Don&#39;t collapse Traversable with php-src native traversable objects](https://github.com/phpstan/phpstan-src/pull/2676) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Infer object type mysqli_fetch_object](https://github.com/phpstan/phpstan-src/pull/2675) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
