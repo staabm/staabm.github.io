@@ -69,6 +69,8 @@ In case you want to get an idea how PHPStan is measing your project, [have a loo
 If you find stuff which is slow, try to reduce it as much as you can. Just make sure the performance characteristics of the code don't change.
 [Open a issue on PHPStan](https://github.com/phpstan/phpstan/issues) so we can investigate what can be done about it.
 
+> You want to [look into Rector performance](https://staabm.github.io/2023/05/10/how-to-debug-slow-rector-projects.html) instead?
+
 
 ## PHPStan speedzember 🎄
 
