@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.39](https://github.com/phpstan/phpstan/releases/tag/1.10.39) (today)
 - [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [4.0.1](https://github.com/AndiLeni/media_negotiator/releases/tag/4.0.1) (today)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.53.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.53.0) (1 day ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.18](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.18) (3 days ago)
@@ -68,4 +69,3 @@
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.79](https://github.com/staabm/phpstan-dba/releases/tag/0.2.79) (5 days ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.1.1](https://github.com/composer/pcre/releases/tag/3.1.1) (6 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.76](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.76) (1 week ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.15](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.15) (1 week ago)
