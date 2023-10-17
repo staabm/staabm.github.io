@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [4.0.1](https://github.com/AndiLeni/media_negotiator/releases/tag/4.0.1) (today)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.53.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.53.0) (1 day ago)
-- [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [4.0.0](https://github.com/AndiLeni/media_negotiator/releases/tag/4.0.0) (3 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.18](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.18) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.139](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.139) (3 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.35.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.35.1) (5 days ago)
