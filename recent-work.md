@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [php/doc-en](https://github.com/php/doc-en) (2 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 - [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (2 weeks ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) (2 weeks ago)
