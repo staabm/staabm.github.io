@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [4.0.2](https://github.com/AndiLeni/media_negotiator/releases/tag/4.0.2) (today)
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.0.0-beta2](https://github.com/mautic/mautic/releases/tag/5.0.0-beta2) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.140](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.140) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.39](https://github.com/phpstan/phpstan/releases/tag/1.10.39) (1 day ago)
-- [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [4.0.1](https://github.com/AndiLeni/media_negotiator/releases/tag/4.0.1) (1 day ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.53.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.53.0) (2 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.18](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.18) (4 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.35.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.35.1) (6 days ago)
