@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix used memory reporting](https://github.com/phpstan/phpstan-src/pull/2686) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [More efficient file finding](https://github.com/phpstan/phpstan-src/pull/2682) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Optimize memory consumption in ResultCacheManager](https://github.com/phpstan/phpstan-src/pull/2681) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Optimize memory consumption](https://github.com/phpstan/phpstan-src/pull/2680) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -54,7 +55,6 @@
 - [Don&#39;t collapse Traversable with php-src native traversable objects](https://github.com/phpstan/phpstan-src/pull/2676) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Infer object type mysqli_fetch_object](https://github.com/phpstan/phpstan-src/pull/2675) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Refactor MysqliResultObjectType](https://github.com/staabm/phpstan-dba/pull/634) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
-- [Remove PdoStatement.stub](https://github.com/staabm/phpstan-dba/pull/633) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
