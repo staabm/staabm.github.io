@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mautic/mautic](https://github.com/mautic/mautic) - [5.0.0-beta2](https://github.com/mautic/mautic/releases/tag/5.0.0-beta2) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.140](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.140) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.39](https://github.com/phpstan/phpstan/releases/tag/1.10.39) (1 day ago)
 - [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [4.0.1](https://github.com/AndiLeni/media_negotiator/releases/tag/4.0.1) (1 day ago)
@@ -68,4 +69,3 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.6](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.6) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.79](https://github.com/staabm/phpstan-dba/releases/tag/0.2.79) (6 days ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.1.1](https://github.com/composer/pcre/releases/tag/3.1.1) (1 week ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.76](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.76) (1 week ago)
