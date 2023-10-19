@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [4.0.2](https://github.com/AndiLeni/media_negotiator/releases/tag/4.0.2) (1 day ago)
+- [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [4.0.3](https://github.com/AndiLeni/media_negotiator/releases/tag/4.0.3) (today)
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.0.0-beta2](https://github.com/mautic/mautic/releases/tag/5.0.0-beta2) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.140](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.140) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.39](https://github.com/phpstan/phpstan/releases/tag/1.10.39) (2 days ago)
