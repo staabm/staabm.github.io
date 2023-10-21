@@ -52,6 +52,8 @@ Result cache is saved.
 Used memory: 2.13 GB
 ```
 
+-> note the initial message, telling you about result cache usage.
+
 -> note the analysis in this project is taking 20 seconds and 2.13 GB of memory
 
 - On a subsequent run, PHPStan will use the result cache:
