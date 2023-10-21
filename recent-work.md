@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) - [v6.4.0-BETA1](https://github.com/symfony/symfony/releases/tag/v6.4.0-BETA1) (today)
+- [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.0.0-BETA1) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.7](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.7) (1 day ago)
 - [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [4.0.3](https://github.com/AndiLeni/media_negotiator/releases/tag/4.0.3) (2 days ago)
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.0.0-beta2](https://github.com/mautic/mautic/releases/tag/5.0.0-beta2) (3 days ago)
