@@ -67,6 +67,9 @@ Result cache is saved.
 Used memory: 133.88 MB
 ```
 
+-> the analysis process finished in under 1 seconds in comparison to 20 seconds before.
+-> it took 134 MB of memory in comparison to 2.13 GB before.
+
 - In case you e.g. modify dependencies via composer, PHPStan invalidates the cache and once does a new full analysis scan:
 
 ```bash
@@ -128,7 +131,7 @@ parameters:
 
 #### Dedicated `resultCachePath`
 
-In case your CI server does not run projects in a isolated filesystem, you should use a [dedicated `resultCachePath`](XXX TODO XXX)
+In case your CI server does not run projects in a isolated filesystem, you should use a [dedicated `resultCachePath`](https://staabm.github.io/2023/10/21/phpstan-result-cache-gotchas.html#dedicated-resultcachepath)
 
 
 #### GitHub Actions
