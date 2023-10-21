@@ -34,7 +34,7 @@ PHPStan tries to be as smart as possible about invalidating the cache when requi
 
 ### How it works
 
-To find out when PHPStan is using the result cache, you can use the `-vvv` flags.
+To find out when/whether PHPStan is using the result cache, you can use the `-vvv` flags.
 
 - Running it on a project for the very first time will always result in a full analysis:
 
@@ -51,6 +51,8 @@ Result cache is saved.
 
 Used memory: 2.13 GB
 ```
+
+-> note the analysis in this project is taking 20 seconds and 2.13 GB of memory
 
 - On a subsequent run, PHPStan will use the result cache:
 
@@ -69,9 +71,10 @@ Used memory: 133.88 MB
 ```
 
 -> the analysis process finished in under 1 seconds in comparison to 20 seconds before.
+
 -> it took 134 MB of memory in comparison to 2.13 GB before.
 
-- In case you e.g. modify dependencies via composer, PHPStan invalidates the cache and once does a new full analysis scan:
+- In case you e.g. modify dependencies via composer, PHPStan invalidates the cache and triggers a full analysis scan:
 
 ```bash
 phpstan -vvv
@@ -90,6 +93,8 @@ Used memory: 2.14 GB
 
 -> you can see PHPStan realized the `composerLocks` are different, which made it invalidate the cache.
 Starting with PHPStan 1.10.36 we [print the reason why invalidation happened](https://github.com/phpstan/phpstan-src/pull/2630).
+
+-> There can be different reasons why the cache is invalidated or not used at all. Find all the details in the [ResultCacheManager class](https://github.com/phpstan/phpstan-src/blob/1.11.x/src/Analyser/ResultCache/ResultCacheManager.php).
 
 - If you want to invalidate the cache manually, you can use the `clear-result-cache` command. This will also reveal the location of the result cache files:
 
