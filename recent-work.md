@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update 2023-10-21-phpstan-result-cache-gotchas.md](https://github.com/staabm/staabm.github.io/pull/91) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Update 2023-10-21-phpstan-result-cache-gotchas.md](https://github.com/staabm/staabm.github.io/pull/90) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Update 2023-10-21-phpstan-result-cache-gotchas.md](https://github.com/staabm/staabm.github.io/pull/89) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Create 2023-10-21-phpstan-result-cache-gotchas.md](https://github.com/staabm/staabm.github.io/pull/88) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
@@ -54,7 +55,6 @@
 - [Implement SimplifyReturnExpressionToConstantTypeRector](https://github.com/rectorphp/rector-src/pull/5167) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [RemoveUnusedNonEmptyArrayBeforeForeachRector: skip array dim fetch](https://github.com/rectorphp/rector-src/pull/5166) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Replace doctrine/inflector with simpler mapping function](https://github.com/rectorphp/rector-src/pull/5165) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [$http_response_header: Improve example](https://github.com/php/doc-en/pull/2854) on [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
