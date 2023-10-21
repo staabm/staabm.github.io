@@ -143,9 +143,9 @@ When using GitHub Actions you should consider using a [cache action](https://git
         uses: actions/cache@v3
         with:
           path: ./tmp
-          key: "result-cache-v1-${{ matrix.php-version }}-${{ github.run_id }}"
+          key: "result-cache-v1-\${{ matrix.php-version }}-\${{ github.run_id }}"
           restore-keys: |
-            result-cache-v1-${{ matrix.php-version }}-
+            result-cache-v1-\${{ matrix.php-version }}-
 ```
 
 - By default the cache is written within `./tmp` on linux based systems
