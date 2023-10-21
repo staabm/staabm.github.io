@@ -163,13 +163,13 @@ In case your CI server does not run projects in a isolated filesystem, you shoul
 When using GitHub Actions you should consider using a [cache action](https://github.com/actions/cache) to persist the result cache between runs.
 
 ```yaml
-      - name: "Cache result cache"
-        uses: actions/cache@v3
-        with:
-          path: ./tmp
-          key: "result-cache-v1-{% raw %}${{ matrix.php-version }}{% endraw %}-{% raw %}${{ github.run_id }}{% endraw %}"
-          restore-keys: |
-            result-cache-v1-{% raw %}${{ matrix.php-version }}{% endraw %}-
+  - name: "Cache result cache"
+    uses: actions/cache@v3
+    with:
+      path: ./tmp
+      key: "result-cache-v1-{% raw %}${{ matrix.php-version }}{% endraw %}-{% raw %}${{ github.run_id }}{% endraw %}"
+      restore-keys: |
+        result-cache-v1-{% raw %}${{ matrix.php-version }}{% endraw %}-
 ```
 
 - By default the cache is written within `./tmp` on linux based systems
