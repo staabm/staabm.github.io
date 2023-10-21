@@ -163,7 +163,7 @@ In case your CI server does not run projects in a isolated filesystem, you shoul
 When using GitHub Actions you should consider using a [cache action](https://github.com/actions/cache) to persist the result cache between runs.
 
 ```yaml
-      - name: "Cache Result cache"
+      - name: "Cache result cache"
         uses: actions/cache@v3
         with:
           path: ./tmp
@@ -180,7 +180,7 @@ When using GitHub Actions you should consider using a [cache action](https://git
 In case you are working with long running branches you may consider using separate `actions/cache/restore@v3` and `actions/cache/save@v3` steps instead, to make sure the result cache [is also persisted on failling jobs](https://github.com/actions/cache/tree/main/save#always-save-cache):
 
 ```yaml
-  - name: "Cache Result cache"
+  - name: "Restore result cache"
     uses: actions/cache/restore@v3
     with:
       path: ./tmp
@@ -190,6 +190,7 @@ In case you are working with long running branches you may consider using separa
 
   # … run phpstan
 
+  - name: "Save result cache"
   - uses: actions/cache/save@v3
     if: always()
     with:
