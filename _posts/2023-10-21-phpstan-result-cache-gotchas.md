@@ -191,7 +191,7 @@ In case you are working with long running branches you may consider using separa
   # … run phpstan
 
   - name: "Save result cache"
-  - uses: actions/cache/save@v3
+    uses: actions/cache/save@v3
     if: always()
     with:
       path: ./tmp
