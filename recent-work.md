@@ -3,21 +3,21 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [php/doc-en](https://github.com/php/doc-en) (4 days ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (6 days ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
+- [php/doc-en](https://github.com/php/doc-en) (5 days ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [TomasVotruba/bladestan](https://github.com/TomasVotruba/bladestan) (2 weeks ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) (2 weeks ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
 
-- [Rector In Legacy Projects](https://staabm.github.io/2023/07/23/rector-in-legacy-projects.html) (2 months ago)
+- [Rector In Legacy Projects](https://staabm.github.io/2023/07/23/rector-in-legacy-projects.html) (3 months ago)
 - [Doctor Rst Speedup](https://staabm.github.io/2023/05/18/doctor-rst-speedup.html) (5 months ago)
 - [How To Debug Slow Rector Projects](https://staabm.github.io/2023/05/10/how-to-debug-slow-rector-projects.html) (5 months ago)
 - [Racing Rector](https://staabm.github.io/2023/05/06/racing-rector.html) (5 months ago)
@@ -40,17 +40,17 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Reproduce Bug10027](https://github.com/phpstan/phpstan/pull/10028) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
-- [Fix used memory reporting](https://github.com/phpstan/phpstan-src/pull/2686) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [More efficient file finding](https://github.com/phpstan/phpstan-src/pull/2682) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Optimize memory consumption in ResultCacheManager](https://github.com/phpstan/phpstan-src/pull/2681) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Optimize memory consumption](https://github.com/phpstan/phpstan-src/pull/2680) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [RemoveUnusedNonEmptyArrayBeforeForeachRector: ignore phpdoc types](https://github.com/rectorphp/rector-src/pull/5169) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
-- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/135) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (6 days ago)
-- [re-try delete to compensate possible race conditions](https://github.com/redaxo/redaxo/pull/5843) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
-- [Implement SimplifyReturnExpressionToConstantTypeRector](https://github.com/rectorphp/rector-src/pull/5167) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
-- [RemoveUnusedNonEmptyArrayBeforeForeachRector: skip array dim fetch](https://github.com/rectorphp/rector-src/pull/5166) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
-- [Replace doctrine/inflector with simpler mapping function](https://github.com/rectorphp/rector-src/pull/5165) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
+- [Reproduce Bug10027](https://github.com/phpstan/phpstan/pull/10028) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
+- [Fix used memory reporting](https://github.com/phpstan/phpstan-src/pull/2686) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [More efficient file finding](https://github.com/phpstan/phpstan-src/pull/2682) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Optimize memory consumption in ResultCacheManager](https://github.com/phpstan/phpstan-src/pull/2681) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [Optimize memory consumption](https://github.com/phpstan/phpstan-src/pull/2680) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [RemoveUnusedNonEmptyArrayBeforeForeachRector: ignore phpdoc types](https://github.com/rectorphp/rector-src/pull/5169) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/135) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
+- [re-try delete to compensate possible race conditions](https://github.com/redaxo/redaxo/pull/5843) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
+- [Implement SimplifyReturnExpressionToConstantTypeRector](https://github.com/rectorphp/rector-src/pull/5167) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
+- [RemoveUnusedNonEmptyArrayBeforeForeachRector: skip array dim fetch](https://github.com/rectorphp/rector-src/pull/5166) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
+- [Replace doctrine/inflector with simpler mapping function](https://github.com/rectorphp/rector-src/pull/5165) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [$http_response_header: Improve example](https://github.com/php/doc-en/pull/2854) on [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 - [Reproduce a refined github issue](https://github.com/redaxo/redaxo/pull/5842) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [Don&#39;t collapse Traversable with php-src native traversable objects](https://github.com/phpstan/phpstan-src/pull/2676) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.7](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.7) (today)
-- [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [4.0.3](https://github.com/AndiLeni/media_negotiator/releases/tag/4.0.3) (1 day ago)
-- [mautic/mautic](https://github.com/mautic/mautic) - [5.0.0-beta2](https://github.com/mautic/mautic/releases/tag/5.0.0-beta2) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.140](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.140) (3 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.39](https://github.com/phpstan/phpstan/releases/tag/1.10.39) (3 days ago)
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.53.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.53.0) (4 days ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.18](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.18) (6 days ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.7](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.7) (1 day ago)
+- [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [4.0.3](https://github.com/AndiLeni/media_negotiator/releases/tag/4.0.3) (2 days ago)
+- [mautic/mautic](https://github.com/mautic/mautic) - [5.0.0-beta2](https://github.com/mautic/mautic/releases/tag/5.0.0-beta2) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.140](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.140) (4 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.39](https://github.com/phpstan/phpstan/releases/tag/1.10.39) (4 days ago)
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.53.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.53.0) (5 days ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.18](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.18) (1 week ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.35.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.35.1) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.79](https://github.com/staabm/phpstan-dba/releases/tag/0.2.79) (1 week ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.1.1](https://github.com/composer/pcre/releases/tag/3.1.1) (1 week ago)
