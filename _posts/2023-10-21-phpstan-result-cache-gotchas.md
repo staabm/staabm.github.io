@@ -116,7 +116,7 @@ Result cache not used because of debug mode.
 ...
 ```
 
-- [Regeneration of the baseline with a warmed result cache should finish instantly starting](https://github.com/phpstan/phpstan-src/pull/2606) with PHPStan 1.10.34:
+- [Regeneration of the baseline with a warmed result cache should finish instantly](https://github.com/phpstan/phpstan-src/pull/2606) starting with PHPStan 1.10.34:
 
 ```bash
 $ phpstan -vvv --generate-baseline
