@@ -7,6 +7,7 @@ image: "images/og-images/phpstan-result-cache-gotcha.jpg"
 
 ogImage:
     title: "PHPStan result cache gotcha"
+    subtitle: "get the most out of it"
     imageUrl: "https://staabm.github.io/staabm.svg"
     fileName: "phpstan-result-cache-gotcha"
 ---
@@ -17,11 +18,11 @@ In this post we will have a top level look on PHPStan performance from a enduser
 
 ## Goal
 
-While we are working hard on squeezing out every bit of performance out of PHPStan,
+While we are working hard on [squeezing out every bit of performance](https://github.com/phpstan/phpstan-src/pulls?q=is%3Apr+sort%3Aupdated-desc+fast+is%3Amerged+) out of PHPStan,
 you as an end user should foremost make sure that PHPStan can benefit from its [result cache](https://phpstan.org/user-guide/result-cache) as often as it can.
 
 In the projects I am working on, we usually see PHPStan analysis times dropping from 5-10 _minutes_ to 10-30 _seconds_
-when everyting is going according to plan and the tool can do its job utilizing the result cache.
+when everything is going according to plan and the tool can do its job utilizing the result cache.
 
 But what could possibly go wrong?
 In this post I will write down what I learned from setting up PHPStan in a lot of different projects and environments.
@@ -161,7 +162,7 @@ When using GitHub Actions you should consider using a [cache action](https://git
           path: ./tmp
           key: "result-cache-v1-{% raw %}${{ matrix.php-version }}{% endraw %}-{% raw %}${{ github.run_id }}{% endraw %}"
           restore-keys: |
-            result-cache-v1-\${{ matrix.php-version }}-
+            result-cache-v1-{% raw %}${{ matrix.php-version }}{% endraw %}-
 ```
 
 - By default the cache is written within `./tmp` on linux based systems
