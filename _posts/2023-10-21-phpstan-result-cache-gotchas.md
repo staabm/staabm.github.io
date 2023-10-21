@@ -7,7 +7,7 @@ image: "images/og-images/phpstan-result-cache-gotcha.jpg"
 
 ogImage:
     title: "PHPStan result cache gotcha"
-    subtitle: "get the most out of it"
+    subtitle: "get the most out of it - less waiting, more focus"
     imageUrl: "https://staabm.github.io/staabm.svg"
     fileName: "phpstan-result-cache-gotcha"
 ---
