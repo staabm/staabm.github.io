@@ -182,5 +182,5 @@ When using GitHub Actions you should consider using a [cache action](https://git
 
 ## Give back
 
-In case you find this content useful, [please consider supporting my open source work](https://github.com/sponsors/staabm).
+In case you find [my PHPStan contributions](https://github.com/phpstan/phpstan-src/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Astaabm+) and/or this content useful, [please consider supporting my open source work](https://github.com/sponsors/staabm).
 
