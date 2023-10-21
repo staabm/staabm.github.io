@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update 2023-10-21-phpstan-result-cache-gotchas.md](https://github.com/staabm/staabm.github.io/pull/89) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Create 2023-10-21-phpstan-result-cache-gotchas.md](https://github.com/staabm/staabm.github.io/pull/88) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Reproduce Bug10027](https://github.com/phpstan/phpstan/pull/10028) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
 - [Fix used memory reporting](https://github.com/phpstan/phpstan-src/pull/2686) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -54,7 +55,6 @@
 - [Replace doctrine/inflector with simpler mapping function](https://github.com/rectorphp/rector-src/pull/5165) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [$http_response_header: Improve example](https://github.com/php/doc-en/pull/2854) on [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 - [Reproduce a refined github issue](https://github.com/redaxo/redaxo/pull/5842) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
-- [Don&#39;t collapse Traversable with php-src native traversable objects](https://github.com/phpstan/phpstan-src/pull/2676) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
