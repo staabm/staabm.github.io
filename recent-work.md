@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [added restore/save example](https://github.com/staabm/staabm.github.io/pull/98) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Update 2023-10-21-phpstan-result-cache-gotchas.md](https://github.com/staabm/staabm.github.io/pull/97) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Update 2023-10-21-phpstan-result-cache-gotchas.md](https://github.com/staabm/staabm.github.io/pull/96) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Update 2023-10-21-phpstan-result-cache-gotchas.md](https://github.com/staabm/staabm.github.io/pull/95) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
@@ -54,7 +55,6 @@
 - [Fix used memory reporting](https://github.com/phpstan/phpstan-src/pull/2686) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [More efficient file finding](https://github.com/phpstan/phpstan-src/pull/2682) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Optimize memory consumption in ResultCacheManager](https://github.com/phpstan/phpstan-src/pull/2681) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Optimize memory consumption](https://github.com/phpstan/phpstan-src/pull/2680) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
