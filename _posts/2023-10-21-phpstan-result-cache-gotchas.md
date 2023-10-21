@@ -7,7 +7,7 @@ image: "images/og-images/phpstan-result-cache-gotcha.jpg"
 
 ogImage:
     title: "PHPStan result cache gotcha"
-    subtitle: "get the most out of it"
+    subtitle: "get the most out of it - less waiting, more focus"
     imageUrl: "https://staabm.github.io/staabm.svg"
     fileName: "phpstan-result-cache-gotcha"
 ---
@@ -39,7 +39,7 @@ To find out when/whether PHPStan is using the result cache, you can use the `-vv
 - Running it on a project for the very first time will always result in a full analysis:
 
 ```bash
-phpstan -vvv
+$ phpstan -vvv
 Result cache not used because the cache file does not exist.
  1562/1562 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100% 20 secs/20 secs
 
@@ -59,7 +59,7 @@ Used memory: 2.13 GB
 - On a subsequent run, PHPStan will use the result cache:
 
 ```bash
-phpstan -vvv
+$ phpstan -vvv
 Note: Using configuration file /Users/staabm/workspace/phpstan-src/phpstan.neon.dist.
  1562/1562 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100% < 1 sec/< 1 sec
 
@@ -72,14 +72,14 @@ Result cache is saved.
 Used memory: 133.88 MB
 ```
 
--> the analysis process finished in under 1 seconds in comparison to 20 seconds before.
+-> the analysis process finished in under 1 second in comparison to 20 seconds before.
 
 -> it took 134 MB of memory in comparison to 2.13 GB before.
 
 - In case you e.g. modify dependencies via composer, PHPStan invalidates the cache and triggers a full analysis scan:
 
 ```bash
-phpstan -vvv
+$ phpstan -vvv
 Note: Using configuration file /Users/staabm/workspace/phpstan-src/phpstan.neon.dist.
 Result cache not used because the metadata do not match: projectConfig, composerLocks
 1562/1562 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100% 19 secs/19 secs
@@ -101,7 +101,7 @@ Starting with PHPStan 1.10.36 we [print the reason why invalidation happened](ht
 - If you want to invalidate the cache manually, you can use the `clear-result-cache` command. This will also reveal the location of the result cache files:
 
 ```bash
-phpstan clear-result-cache -vvv
+$ phpstan clear-result-cache -vvv
 Note: Using configuration file /Users/staabm/workspace/phpstan-src/phpstan.neon.dist.
 Result cache cleared from directory:
 /Users/staabm/workspace/phpstan-src/tmp
@@ -110,16 +110,16 @@ Result cache cleared from directory:
 - When running PHPStan with the `--debug` option, it will not use the result cache:
 
 ```bash
-phpstan --debug -vvv
+$ phpstan --debug -vvv
 Note: Using configuration file /Users/staabm/workspace/phpstan-src/phpstan.neon.dist.
 Result cache not used because of debug mode.
 ...
 ```
 
-- [Regeneration of the baseline with a warmed result cache should finish instantly starting](https://github.com/phpstan/phpstan-src/pull/2606) with PHPStan 1.10.34:
+- [Regeneration of the baseline with a warmed result cache should finish instantly](https://github.com/phpstan/phpstan-src/pull/2606) starting with PHPStan 1.10.34:
 
 ```bash
-phpstan -vvv --generate-baseline
+$ phpstan -vvv --generate-baseline
 Note: Using configuration file /Users/staabm/workspace/phpstan-src/phpstan.neon.dist.
  1562/1562 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100% < 1 sec/< 1 sec
 
