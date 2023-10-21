@@ -17,11 +17,11 @@
 
 #### 📜 My recent blog posts
 
+- [Phpstan Result Cache Gotchas](https://staabm.github.io/2023/10/21/phpstan-result-cache-gotchas.html) (today)
 - [Rector In Legacy Projects](https://staabm.github.io/2023/07/23/rector-in-legacy-projects.html) (3 months ago)
 - [Doctor Rst Speedup](https://staabm.github.io/2023/05/18/doctor-rst-speedup.html) (5 months ago)
 - [How To Debug Slow Rector Projects](https://staabm.github.io/2023/05/10/how-to-debug-slow-rector-projects.html) (5 months ago)
 - [Racing Rector](https://staabm.github.io/2023/05/06/racing-rector.html) (5 months ago)
-- [Diff Speeding](https://staabm.github.io/2023/05/01/diff-speeding.html) (5 months ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
