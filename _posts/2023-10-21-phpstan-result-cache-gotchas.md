@@ -22,7 +22,7 @@ While we are working hard on [squeezing out every bit of performance](https://gi
 you as an end user should foremost make sure that PHPStan can benefit from its [result cache](https://phpstan.org/user-guide/result-cache) as often as it can.
 
 In the projects I am working on, we usually see PHPStan analysis times dropping from 5-10 _minutes_ to 10-30 _seconds_
-when everyting is going according to plan and the tool can do its job utilizing the result cache.
+when everything is going according to plan and the tool can do its job utilizing the result cache.
 
 But what could possibly go wrong?
 In this post I will write down what I learned from setting up PHPStan in a lot of different projects and environments.
