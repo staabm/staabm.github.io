@@ -176,9 +176,26 @@ When using GitHub Actions you should consider using a [cache action](https://git
 - Using `{% raw %}${{ github.run_id }}{% endraw %}` you can make sure to re-use the most recent result cache
 - Use a separate result cache per php version, e.g. using `{% raw %}${{ matrix.php-version }}{% endraw %}`
 - Use the `push` GitHub Actions event on the default-branch, to make sure newly created PRs will utilize a fresh cache from the default-branch.
-- In case you are working with long running branches you may consider using separate `actions/cache/retore@v3` and `actions/cache/save@v3` steps instead, to make sure the result cache [is also persisted on failling jobs](https://github.com/actions/cache/tree/main/save#always-save-cache).
+  
+In case you are working with long running branches you may consider using separate `actions/cache/restore@v3` and `actions/cache/save@v3` steps instead, to make sure the result cache [is also persisted on failling jobs](https://github.com/actions/cache/tree/main/save#always-save-cache):
 
+```yaml
+  - name: "Cache Result cache"
+    uses: actions/cache/restore@v3
+    with:
+      path: ./tmp
+      key: "result-cache-v1-{% raw %}${{ matrix.php-version }}{% endraw %}-{% raw %}${{ github.run_id }}{% endraw %}"
+      restore-keys: |
+        result-cache-v1-{% raw %}${{ matrix.php-version }}{% endraw %}-
 
+  # … run phpstan
+
+  - uses: actions/cache/save@v3
+    if: always()
+    with:
+      path: ./tmp
+      key: "result-cache-v1-{% raw %}${{ matrix.php-version }}{% endraw %}-{% raw %}${{ github.run_id }}{% endraw %}"
+```
 
 ## Give back
 
