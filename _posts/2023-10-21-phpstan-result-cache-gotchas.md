@@ -149,8 +149,8 @@ When using GitHub Actions you should consider using a [cache action](https://git
 ```
 
 - By default the cache is written within `./tmp` on linux based systems
-- Using `${{ github.run_id }}` you can make sure to re-use the most recent result cache
-- Use a separate result cache per php version, e.g. using `${{ matrix.php-version }}`
+- Using `\${{ github.run_id }}` you can make sure to re-use the most recent result cache
+- Use a separate result cache per php version, e.g. using `\${{ matrix.php-version }}`
 - Utilize the `push` GitHub Actions event on the default-branch, to make sure newly created PRs will utilize a fresh cache from the default-branch.
 - In case you are are working with long running branches you may consider using separate `actions/cache/retore@v3` and `actions/cache/save@v3` steps to make sure the result cache [is also persisted on failling jobs](https://github.com/actions/cache/tree/main/save#always-save-cache).
 
