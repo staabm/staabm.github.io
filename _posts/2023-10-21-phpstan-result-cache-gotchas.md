@@ -162,7 +162,7 @@ When using GitHub Actions you should consider using a [cache action](https://git
           path: ./tmp
           key: "result-cache-v1-{% raw %}${{ matrix.php-version }}{% endraw %}-{% raw %}${{ github.run_id }}{% endraw %}"
           restore-keys: |
-            result-cache-v1-\${{ matrix.php-version }}-
+            result-cache-v1-{% raw %}${{ matrix.php-version }}{% endraw %}-
 ```
 
 - By default the cache is written within `./tmp` on linux based systems
