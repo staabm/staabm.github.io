@@ -114,7 +114,7 @@ Result cache not used because of debug mode.
 ...
 ```
 
-- Regeneration of the baseline with a warmed result cache should finish instantly [starting with PHPStan 1.10.34](https://github.com/phpstan/phpstan-src/pull/2606):
+- [Regeneration of the baseline with a warmed result cache should finish instantly starting](https://github.com/phpstan/phpstan-src/pull/2606) with PHPStan 1.10.34:
 
 ```bash
 phpstan -vvv --generate-baseline
@@ -132,7 +132,7 @@ Used memory: 147.88 MB
 
 ### Debugging the inner workings
 
-[Ondřej Pro-Tip](https://github.com/phpstan/phpstan/issues/10027#issuecomment-1770318942): If you need to know, why PHPStan decided to not use the result cache you can `diff` the result-cache file before and after the run.
+[Ondřej Pro-Tip](https://github.com/phpstan/phpstan/issues/10027#issuecomment-1770318942): If you need to know in detail, why PHPStan decided to not use the result cache you can `diff` the result-cache file before and after the run.
 That can be especially helpful in CI environments, when debugging the problem at hand is pretty hard.
 
 ### Result cache on the developer machine
