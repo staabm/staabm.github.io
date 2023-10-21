@@ -34,7 +34,7 @@ PHPStan tries to be as smart as possible about invalidating the cache when requi
 
 ### How it works
 
-To find out when PHPStan is using the result cache, you can use the `-vvv` flags.
+To find out when/whether PHPStan is using the result cache, you can use the `-vvv` flags.
 
 - Running it on a project for the very first time will always result in a full analysis:
 
@@ -51,6 +51,8 @@ Result cache is saved.
 
 Used memory: 2.13 GB
 ```
+
+-> note the analysis in this project is taking 20 seconds and 2.13 GB of memory
 
 - On a subsequent run, PHPStan will use the result cache:
 
