@@ -108,6 +108,22 @@ Result cache not used because of debug mode.
 ...
 ```
 
+- Regeneration of the baseline with a warmed result cache should finish instantly [starting with PHPStan 1.10.34](https://github.com/phpstan/phpstan-src/pull/2606):
+
+```bash
+phpstan -vvv --generate-baseline
+Note: Using configuration file /Users/staabm/workspace/phpstan-src/phpstan.neon.dist.
+ 1562/1562 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100% < 1 sec/< 1 sec
+
+Result cache is saved.
+
+
+ [OK] Baseline generated with 645 errors.
+
+
+Used memory: 147.88 MB
+```
+
 ### Debugging the inner workings
 
 [Ondřej Pro-Tip](https://github.com/phpstan/phpstan/issues/10027#issuecomment-1770318942): If you need to know, why PHPStan decided to not use the result cache you can `diff` the result-cache file before and after the run.
@@ -143,16 +159,16 @@ When using GitHub Actions you should consider using a [cache action](https://git
         uses: actions/cache@v3
         with:
           path: ./tmp
-          key: "result-cache-v1-${{ matrix.php-version }}-${{ github.run_id }}"
+          key: "result-cache-v1-\${{ matrix.php-version }}-\${{ github.run_id }}"
           restore-keys: |
-            result-cache-v1-${{ matrix.php-version }}-
+            result-cache-v1-\${{ matrix.php-version }}-
 ```
 
 - By default the cache is written within `./tmp` on linux based systems
-- Using `${{ github.run_id }}` you can make sure to re-use the most recent result cache
-- Use a separate result cache per php version, e.g. using `${{ matrix.php-version }}`
-- Utilize the `push` GitHub Actions event on the default-branch, to make sure newly created PRs will utilize a fresh cache from the default-branch.
-- In case you are are working with long running branches you may consider using separate `actions/cache/retore@v3` and `actions/cache/save@v3` steps to make sure the result cache [is also persisted on failling jobs](https://github.com/actions/cache/tree/main/save#always-save-cache).
+- Using `\${{ github.run_id }}` you can make sure to re-use the most recent result cache
+- Use a separate result cache per php version, e.g. using `\${{ matrix.php-version }}`
+- Use the `push` GitHub Actions event on the default-branch, to make sure newly created PRs will utilize a fresh cache from the default-branch.
+- In case you are working with long running branches you may consider using separate `actions/cache/retore@v3` and `actions/cache/save@v3` steps instead, to make sure the result cache [is also persisted on failling jobs](https://github.com/actions/cache/tree/main/save#always-save-cache).
 
 
 
