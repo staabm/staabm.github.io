@@ -18,7 +18,7 @@ In this post we will have a top level look on PHPStan performance from a enduser
 
 ## Goal
 
-While we are working hard on squeezing out every bit of performance out of PHPStan,
+While we are working hard on [squeezing out every bit of performance](https://github.com/phpstan/phpstan-src/pulls?q=is%3Apr+sort%3Aupdated-desc+fast+is%3Amerged+) out of PHPStan,
 you as an end user should foremost make sure that PHPStan can benefit from its [result cache](https://phpstan.org/user-guide/result-cache) as often as it can.
 
 In the projects I am working on, we usually see PHPStan analysis times dropping from 5-10 _minutes_ to 10-30 _seconds_
