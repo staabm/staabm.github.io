@@ -200,5 +200,5 @@ In case you are working with long running branches you may consider using separa
 
 ## Give back
 
-In case you find [my PHPStan contributions](https://github.com/phpstan/phpstan-src/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Astaabm+) and/or this content useful, [please consider supporting my open source work](https://github.com/sponsors/staabm).
+In case you find [my PHPStan contributions](https://github.com/phpstan/phpstan-src/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Astaabm+is%3Amerged) and/or this content useful, [please consider supporting my open source work](https://github.com/sponsors/staabm).
 
