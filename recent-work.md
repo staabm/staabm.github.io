@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix singular of words ending in &#34;ss&#34;](https://github.com/rectorphp/rector-src/pull/5198) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [remove cairo signatures](https://github.com/phpstan/phpstan-src/pull/2690) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Remove swf extension signatures](https://github.com/phpstan/phpstan-src/pull/2689) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Remove Yaf framework signatures](https://github.com/phpstan/phpstan-src/pull/2688) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -54,7 +55,6 @@
 - [Update 2023-10-21-phpstan-result-cache-gotchas.md](https://github.com/staabm/staabm.github.io/pull/90) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 - [Update 2023-10-21-phpstan-result-cache-gotchas.md](https://github.com/staabm/staabm.github.io/pull/89) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 - [Create 2023-10-21-phpstan-result-cache-gotchas.md](https://github.com/staabm/staabm.github.io/pull/88) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
-- [Reproduce Bug10027](https://github.com/phpstan/phpstan/pull/10028) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
