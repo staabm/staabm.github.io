@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-rc5](https://github.com/matomo-org/matomo/releases/tag/5.0.0-rc5) (1 day ago)
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-rc6](https://github.com/matomo-org/matomo/releases/tag/5.0.0-rc6) (today)
 - [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [4.0.4](https://github.com/AndiLeni/media_negotiator/releases/tag/4.0.4) (2 days ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.54.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.54.0) (2 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.0.0-BETA1) (4 days ago)
