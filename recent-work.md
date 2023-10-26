@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [CountArrayToEmptyArrayComparisonRector: don&#39;t trust phpdoc](https://github.com/rectorphp/rector-src/pull/5203) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Don&#39;t singularize parametersAcceptor](https://github.com/rectorphp/rector-src/pull/5200) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [BinaryOpBetweenNumberAndStringRector don&#39;t trust phpdoc](https://github.com/rectorphp/rector-src/pull/5199) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Fix singular of words ending in &#34;ss&#34;](https://github.com/rectorphp/rector-src/pull/5198) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [edits](https://github.com/staabm/staabm.github.io/pull/93) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 - [image](https://github.com/staabm/staabm.github.io/pull/92) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 - [Update 2023-10-21-phpstan-result-cache-gotchas.md](https://github.com/staabm/staabm.github.io/pull/91) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
-- [Update 2023-10-21-phpstan-result-cache-gotchas.md](https://github.com/staabm/staabm.github.io/pull/90) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
