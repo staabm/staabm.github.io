@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/137) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [CountArrayToEmptyArrayComparisonRector: don&#39;t trust phpdoc](https://github.com/rectorphp/rector-src/pull/5203) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Don&#39;t singularize parametersAcceptor](https://github.com/rectorphp/rector-src/pull/5200) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [BinaryOpBetweenNumberAndStringRector don&#39;t trust phpdoc](https://github.com/rectorphp/rector-src/pull/5199) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
@@ -54,11 +55,11 @@
 - [Update 2023-10-21-phpstan-result-cache-gotchas.md](https://github.com/staabm/staabm.github.io/pull/94) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 - [edits](https://github.com/staabm/staabm.github.io/pull/93) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 - [image](https://github.com/staabm/staabm.github.io/pull/92) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
-- [Update 2023-10-21-phpstan-result-cache-gotchas.md](https://github.com/staabm/staabm.github.io/pull/91) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.19](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.19) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.36.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.36.0) (today)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-rc6](https://github.com/matomo-org/matomo/releases/tag/5.0.0-rc6) (2 days ago)
 - [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [4.0.4](https://github.com/AndiLeni/media_negotiator/releases/tag/4.0.4) (4 days ago)
@@ -68,4 +69,3 @@
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.0.0-beta2](https://github.com/mautic/mautic/releases/tag/5.0.0-beta2) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.140](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.140) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.39](https://github.com/phpstan/phpstan/releases/tag/1.10.39) (1 week ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.18](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.18) (1 week ago)
