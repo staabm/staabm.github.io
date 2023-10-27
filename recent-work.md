@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
-- [staabm/blackfire-regex](https://github.com/staabm/blackfire-regex) (6 days ago)
 - [staabm/hungry-spl-file-info](https://github.com/staabm/hungry-spl-file-info) (6 days ago)
+- [staabm/blackfire-regex](https://github.com/staabm/blackfire-regex) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [php/doc-en](https://github.com/php/doc-en) (1 week ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) (3 weeks ago)
 
 
