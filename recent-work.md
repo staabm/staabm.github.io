@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) - [v6.4.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.4.0-BETA2) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.45](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.45) (today)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v5.4.30](https://github.com/symfony/symfony/releases/tag/v5.4.30) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.37.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.37.0) (1 day ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.19](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.19) (2 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-rc6](https://github.com/matomo-org/matomo/releases/tag/5.0.0-rc6) (4 days ago)
