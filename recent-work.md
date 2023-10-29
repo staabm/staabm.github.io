@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/hungry-spl-file-info](https://github.com/staabm/hungry-spl-file-info) (1 week ago)
 - [staabm/blackfire-regex](https://github.com/staabm/blackfire-regex) (1 week ago)
@@ -40,14 +40,14 @@
 
 #### 🔨 My recent Pull Requests
 
-- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/137) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
-- [CountArrayToEmptyArrayComparisonRector: don&#39;t trust phpdoc](https://github.com/rectorphp/rector-src/pull/5203) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [Don&#39;t singularize parametersAcceptor](https://github.com/rectorphp/rector-src/pull/5200) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [BinaryOpBetweenNumberAndStringRector don&#39;t trust phpdoc](https://github.com/rectorphp/rector-src/pull/5199) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Fix singular of words ending in &#34;ss&#34;](https://github.com/rectorphp/rector-src/pull/5198) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [remove cairo signatures](https://github.com/phpstan/phpstan-src/pull/2690) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Remove swf extension signatures](https://github.com/phpstan/phpstan-src/pull/2689) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Remove Yaf framework signatures](https://github.com/phpstan/phpstan-src/pull/2688) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/137) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
+- [CountArrayToEmptyArrayComparisonRector: don&#39;t trust phpdoc](https://github.com/rectorphp/rector-src/pull/5203) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
+- [Don&#39;t singularize parametersAcceptor](https://github.com/rectorphp/rector-src/pull/5200) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
+- [BinaryOpBetweenNumberAndStringRector don&#39;t trust phpdoc](https://github.com/rectorphp/rector-src/pull/5199) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
+- [Fix singular of words ending in &#34;ss&#34;](https://github.com/rectorphp/rector-src/pull/5198) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
+- [remove cairo signatures](https://github.com/phpstan/phpstan-src/pull/2690) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [Remove swf extension signatures](https://github.com/phpstan/phpstan-src/pull/2689) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [Remove Yaf framework signatures](https://github.com/phpstan/phpstan-src/pull/2688) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [added restore/save example](https://github.com/staabm/staabm.github.io/pull/98) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [Update 2023-10-21-phpstan-result-cache-gotchas.md](https://github.com/staabm/staabm.github.io/pull/97) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [Update 2023-10-21-phpstan-result-cache-gotchas.md](https://github.com/staabm/staabm.github.io/pull/96) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.37.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.37.0) (today)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.19](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.19) (1 day ago)
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-rc6](https://github.com/matomo-org/matomo/releases/tag/5.0.0-rc6) (3 days ago)
-- [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [4.0.4](https://github.com/AndiLeni/media_negotiator/releases/tag/4.0.4) (5 days ago)
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.54.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.54.0) (5 days ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.37.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.37.0) (1 day ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.19](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.19) (2 days ago)
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-rc6](https://github.com/matomo-org/matomo/releases/tag/5.0.0-rc6) (4 days ago)
+- [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [4.0.4](https://github.com/AndiLeni/media_negotiator/releases/tag/4.0.4) (6 days ago)
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.54.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.54.0) (6 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.0.0-BETA1) (1 week ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.7](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.7) (1 week ago)
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.0.0-beta2](https://github.com/mautic/mautic/releases/tag/5.0.0-beta2) (1 week ago)
