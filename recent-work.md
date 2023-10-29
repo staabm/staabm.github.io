@@ -59,12 +59,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) - [v5.4.30](https://github.com/symfony/symfony/releases/tag/v5.4.30) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.37.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.37.0) (1 day ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.19](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.19) (2 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-rc6](https://github.com/matomo-org/matomo/releases/tag/5.0.0-rc6) (4 days ago)
 - [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [4.0.4](https://github.com/AndiLeni/media_negotiator/releases/tag/4.0.4) (6 days ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.54.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.54.0) (6 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.0.0-BETA1) (1 week ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.7](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.7) (1 week ago)
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.0.0-beta2](https://github.com/mautic/mautic/releases/tag/5.0.0-beta2) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.140](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.140) (1 week ago)
