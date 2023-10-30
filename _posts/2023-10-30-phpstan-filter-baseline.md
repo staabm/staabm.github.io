@@ -68,7 +68,7 @@ If you are curious just invoke the tools help command, to get an idea which filt
 At the time of writing it looks like:
 
 ```
-$ php bin/phpstan-baseline-filter help
+$ vendor/bin/phpstan-baseline-filter help
 
 USAGE: phpstan-baseline-filter <GLOB-PATTERN> [--exclude=<FILTER-KEY>,...] [--include=<FILTER-KEY>,...]
 
