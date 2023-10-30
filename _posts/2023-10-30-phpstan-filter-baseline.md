@@ -32,7 +32,7 @@ The bigger the baseline is, the more important is a good strategy, on which erro
 ## Lets go
 
 At first setup [phpstan-baseline-analysis](https://staabm.github.io/2022/07/04/phpstan-baseline-analysis.html) to keep track of the current state of the project.
-Using this tool we can analyze the current state of the project and get an overview of the current error distribution.
+Using this tool we can analyze the project and get an overview of the current error distribution.
 In our projects we generate these numbers in a scheduled GitHub action and create [trend reports for the dev-team](https://github.com/staabm/phpstan-baseline-analysis#example-trend-analysis).
 
 Additionally, you may [create graphs of the progress](https://github.com/staabm/phpstan-baseline-analysis#example-graph-analysis) to have a visual representation.
@@ -47,20 +47,20 @@ Starting with phpstan-baseline-analysis 0.12.4 you can filter the baseline by er
 This means we can quickly focus on a certain area of errors.
 
 One common problem in legacy projects is related to invalid PHPDocs.
-PHPStan might already aware of said problem, but since you didn't have the time yet to work on them,
-these errors are buried in your baseline.
+PHPStan might already be aware of said problems, but since you didn't have the time yet to work on them, these errors are buried in your baseline.
 
 Using the new filtering capabilities you can filter out these problems from your already existing baseline:
 
 ```
-$ vendor/bin/phpstan-baseline-filter phpstan-baseline.neon --exclude=Invalid-Phpdocs > phpstan-baseline.neon
+$ phpstan-baseline-filter phpstan-baseline.neon --exclude=Invalid-Phpdocs > phpstan-baseline.neon
 ```
 
 This means, we take the projects baseline run it thru the `phpstan-baseline-filter` and replace the existing baseline with the filtered one.
+
 Now you can trigger your regular `vendor/bin/phpstan analyze` command which no longer ignores the filtered errors.
 That way you can work on the problems as you are used to based on PHPStan result list.
 
-Alternatively to `--exclude` you can also use `--include` to filter the baseline list.
+Alternatively to `--exclude` you can also use `--include` to filter the baseline.
 This might be useful if you want to further process the filtered error list in a separate tool.
 
 ## filter keys
@@ -69,7 +69,7 @@ If you are curious just invoke the tools help command, to get an idea which filt
 At the time of writing it looks like:
 
 ```
-$ php bin/phpstan-baseline-filter help
+$ phpstan-baseline-filter help
 
 USAGE: phpstan-baseline-filter <GLOB-PATTERN> [--exclude=<FILTER-KEY>,...] [--include=<FILTER-KEY>,...]
 
