@@ -17,11 +17,11 @@
 
 #### 📜 My recent blog posts
 
+- [Phpstan Filter Baseline](https://staabm.github.io/2023/10/30/phpstan-filter-baseline.html) (today)
 - [Phpstan Result Cache Gotchas](https://staabm.github.io/2023/10/21/phpstan-result-cache-gotchas.html) (1 week ago)
 - [Rector In Legacy Projects](https://staabm.github.io/2023/07/23/rector-in-legacy-projects.html) (3 months ago)
 - [Doctor Rst Speedup](https://staabm.github.io/2023/05/18/doctor-rst-speedup.html) (5 months ago)
 - [How To Debug Slow Rector Projects](https://staabm.github.io/2023/05/10/how-to-debug-slow-rector-projects.html) (5 months ago)
-- [Racing Rector](https://staabm.github.io/2023/05/06/racing-rector.html) (5 months ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [proofread](https://github.com/staabm/staabm.github.io/pull/101) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Update 2023-10-30-phpstan-filter-baseline.md](https://github.com/staabm/staabm.github.io/pull/100) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Create 2023-11-30-phpstan-filter-baseline.md](https://github.com/staabm/staabm.github.io/pull/99) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [better help page](https://github.com/staabm/phpstan-baseline-analysis/pull/145) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
@@ -54,7 +55,6 @@
 - [Remove swf extension signatures](https://github.com/phpstan/phpstan-src/pull/2689) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Remove Yaf framework signatures](https://github.com/phpstan/phpstan-src/pull/2688) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [added restore/save example](https://github.com/staabm/staabm.github.io/pull/98) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
-- [Update 2023-10-21-phpstan-result-cache-gotchas.md](https://github.com/staabm/staabm.github.io/pull/97) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
