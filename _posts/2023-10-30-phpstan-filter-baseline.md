@@ -39,7 +39,7 @@ Additionally, you may [create graphs of the progress](https://github.com/staabm/
 It can be a good foundation for a conversation with management people, to give an idea where we are and where we are heading.
 
 
-## tackle the problem / filter the baseline
+## Tackle the problem / filter the baseline
 
 Depending on your dev-team focus you might want to work on different PHPStan errors.
 
@@ -63,7 +63,7 @@ That way you can work on the problems as you are used to based on PHPStan result
 Alternatively to `--exclude` you can also use `--include` to filter the baseline.
 This might be useful if you want to further process the filtered error list in a separate tool.
 
-## filter keys
+## Filter keys
 
 If you are curious just invoke the tools help command, to get an idea which filter keys are supported.
 At the time of writing it looks like:
