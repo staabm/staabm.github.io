@@ -36,7 +36,7 @@ Using this tool we can analyze the current state of the project and get an overv
 In our projects we generate these numbers in a scheduled GitHub action and create [trend reports for the dev-team](https://github.com/staabm/phpstan-baseline-analysis#example-trend-analysis).
 
 Additionally, you may [create graphs of the progress](https://github.com/staabm/phpstan-baseline-analysis#example-graph-analysis) to have a visual representation.
-I can be a good foundation for a conversation with management people.
+It can be a good foundation for a conversation with management people, to give an idea where we are and where we are heading.
 
 
 ## tackle the problem / filter the baseline
