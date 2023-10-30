@@ -59,6 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.5](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.5) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.40](https://github.com/phpstan/phpstan/releases/tag/1.10.40) (today)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.5.2](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.5.2) (today)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.12.4](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.12.4) (today)
 - [nette/utils](https://github.com/nette/utils) - [v4.0.3](https://github.com/nette/utils/releases/tag/v4.0.3) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.37.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.37.1) (1 day ago)
@@ -66,6 +69,3 @@
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.45](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.45) (1 day ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.19](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.19) (3 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-rc6](https://github.com/matomo-org/matomo/releases/tag/5.0.0-rc6) (5 days ago)
-- [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [4.0.4](https://github.com/AndiLeni/media_negotiator/releases/tag/4.0.4) (1 week ago)
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.54.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.54.0) (1 week ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.7](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.7) (1 week ago)
