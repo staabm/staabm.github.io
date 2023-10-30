@@ -61,7 +61,12 @@ Now you can trigger your regular `phpstan analyze` command which no longer ignor
 That way you can work on the problems as you are used to based on PHPStan result list.
 
 Alternatively to `--exclude` you can also use `--include` to filter the baseline.
+Additionally, you can use multiple filter keys at once.
 This might be useful if you want to further process the filtered error list in a separate tool.
+
+```
+$ phpstan-baseline-filter phpstan-baseline.neon --include=Deprecations,Unknown-Types,Anonymous-Variables > result.neon
+```
 
 ## Filter keys
 
