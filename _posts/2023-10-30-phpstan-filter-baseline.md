@@ -47,7 +47,7 @@ Starting with phpstan-baseline-analysis 0.12.4 you can filter the baseline by er
 This means we can quickly focus on a certain area of errors.
 
 One common problem in legacy projects is related to invalid PHPDocs.
-PHPStan might already aware of said problem, but since you didn't have the time yet to work on them,
+PHPStan might already be aware of said problems, but since you didn't have the time yet to work on them,
 these errors are buried in your baseline.
 
 Using the new filtering capabilities you can filter out these problems from your already existing baseline:
@@ -60,7 +60,7 @@ This means, we take the projects baseline run it thru the `phpstan-baseline-filt
 Now you can trigger your regular `vendor/bin/phpstan analyze` command which no longer ignores the filtered errors.
 That way you can work on the problems as you are used to based on PHPStan result list.
 
-Alternatively to `--exclude` you can also use `--include` to filter the baseline list.
+Alternatively to `--exclude` you can also use `--include` to filter the baseline.
 This might be useful if you want to further process the filtered error list in a separate tool.
 
 ## filter keys
