@@ -47,8 +47,7 @@ Starting with phpstan-baseline-analysis 0.12.4 you can filter the baseline by er
 This means we can quickly focus on a certain area of errors.
 
 One common problem in legacy projects is related to invalid PHPDocs.
-PHPStan might already be aware of said problems, but since you didn't have the time yet to work on them,
-these errors are buried in your baseline.
+PHPStan might already be aware of said problems, but since you didn't have the time yet to work on them, these errors are buried in your baseline.
 
 Using the new filtering capabilities you can filter out these problems from your already existing baseline:
 
