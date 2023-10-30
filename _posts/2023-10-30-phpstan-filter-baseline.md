@@ -31,7 +31,7 @@ The bigger the baseline is, the more important is a good strategy, on which erro
 
 ## Lets go
 
-At first setup [phpstan-baseline-analysis](https://staabm.github.io/2022/07/04/phpstan-baseline-analysis.html) to keep track of the current state of the project.
+At first setup [phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis#readme) to keep track of the current state of the project.
 Using this tool we can analyze the project and get an overview of the current error distribution.
 In our projects we generate these numbers in a scheduled GitHub action and create [trend reports for the dev-team](https://github.com/staabm/phpstan-baseline-analysis#example-trend-analysis).
 
