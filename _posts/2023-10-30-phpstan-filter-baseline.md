@@ -52,7 +52,7 @@ PHPStan might already be aware of said problems, but since you didn't have the t
 Using the new filtering capabilities you can filter out these problems from your already existing baseline:
 
 ```
-$ phpstan-baseline-filter phpstan-baseline.neon --exclude=Invalid-Phpdocs > phpstan-baseline.neon
+$ echo "$( phpstan-baseline-filter phpstan-baseline.neon --exclude=Invalid-Phpdocs )" > phpstan-baseline.neon
 ```
 
 This means, we take the projects baseline run it thru the `phpstan-baseline-filter` and replace the existing baseline with the filtered one.
