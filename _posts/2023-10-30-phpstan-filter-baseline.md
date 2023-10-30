@@ -55,13 +55,14 @@ Using the new filtering capabilities you can filter out these problems from your
 $ echo "$( phpstan-baseline-filter phpstan-baseline.neon --exclude=Invalid-Phpdocs )" > phpstan-baseline.neon
 ```
 
-This means, we take the projects baseline run it thru the `phpstan-baseline-filter` and replace the existing baseline with the filtered one.
+This means, we take the projects baseline run it thru the `phpstan-baseline-filter` and we keep all errors except those matching the `--exclude` filter.
 
 Now you can trigger your regular `phpstan analyze` command which no longer ignores the filtered errors.
 That way you can work on the problems as you are used to based on PHPStan result list.
 
-Alternatively to `--exclude` you can also use `--include` to filter the baseline.
-Additionally, you can use multiple filter keys at once.
+You can use multiple filter keys at once, by separating the keys by comma (`,`) .
+
+Alternatively to `--exclude` you can also use `--include` to filter the baseline, which only outputs the errors matching the filter-key.
 This might be useful if you want to further process the filtered error list in a separate tool.
 
 ```
