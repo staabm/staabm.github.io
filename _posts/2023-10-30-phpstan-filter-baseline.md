@@ -56,6 +56,7 @@ $ vendor/bin/phpstan-baseline-filter phpstan-baseline.neon --exclude=Invalid-Php
 ```
 
 This means, we take the projects baseline run it thru the `phpstan-baseline-filter` and replace the existing baseline with the filtered one.
+
 Now you can trigger your regular `vendor/bin/phpstan analyze` command which no longer ignores the filtered errors.
 That way you can work on the problems as you are used to based on PHPStan result list.
 
