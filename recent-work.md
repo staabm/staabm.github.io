@@ -7,9 +7,9 @@
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
+- [staabm/blackfire-regex](https://github.com/staabm/blackfire-regex) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/hungry-spl-file-info](https://github.com/staabm/hungry-spl-file-info) (1 week ago)
-- [staabm/blackfire-regex](https://github.com/staabm/blackfire-regex) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [php/doc-en](https://github.com/php/doc-en) (2 weeks ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [better help page](https://github.com/staabm/phpstan-baseline-analysis/pull/145) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
+- [OverallErrors is not a valid filter-key](https://github.com/staabm/phpstan-baseline-analysis/pull/144) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [Refactor](https://github.com/staabm/phpstan-baseline-analysis/pull/143) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/137) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 - [CountArrayToEmptyArrayComparisonRector: don&#39;t trust phpdoc](https://github.com/rectorphp/rector-src/pull/5203) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
@@ -53,12 +55,11 @@
 - [Update 2023-10-21-phpstan-result-cache-gotchas.md](https://github.com/staabm/staabm.github.io/pull/97) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [Update 2023-10-21-phpstan-result-cache-gotchas.md](https://github.com/staabm/staabm.github.io/pull/96) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [Update 2023-10-21-phpstan-result-cache-gotchas.md](https://github.com/staabm/staabm.github.io/pull/95) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
-- [Update 2023-10-21-phpstan-result-cache-gotchas.md](https://github.com/staabm/staabm.github.io/pull/94) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
-- [edits](https://github.com/staabm/staabm.github.io/pull/93) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.12.4](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.12.4) (today)
 - [nette/utils](https://github.com/nette/utils) - [v4.0.3](https://github.com/nette/utils/releases/tag/v4.0.3) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.37.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.37.1) (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.0-BETA2](https://github.com/symfony/symfony/releases/tag/v7.0.0-BETA2) (1 day ago)
@@ -68,4 +69,3 @@
 - [AndiLeni/media_negotiator](https://github.com/AndiLeni/media_negotiator) - [4.0.4](https://github.com/AndiLeni/media_negotiator/releases/tag/4.0.4) (1 week ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.54.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.54.0) (1 week ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.7](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.7) (1 week ago)
-- [mautic/mautic](https://github.com/mautic/mautic) - [5.0.0-beta2](https://github.com/mautic/mautic/releases/tag/5.0.0-beta2) (1 week ago)
