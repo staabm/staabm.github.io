@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [More precise falsey isset()](https://github.com/phpstan/phpstan-src/pull/2708) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [bash workaround for read/write of the same file in single pipe](https://github.com/staabm/staabm.github.io/pull/104) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [Update 2023-10-30-phpstan-filter-baseline.md](https://github.com/staabm/staabm.github.io/pull/103) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [Update 2023-10-30-phpstan-filter-baseline.md](https://github.com/staabm/staabm.github.io/pull/102) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
@@ -54,7 +55,6 @@
 - [Don&#39;t singularize parametersAcceptor](https://github.com/rectorphp/rector-src/pull/5200) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [BinaryOpBetweenNumberAndStringRector don&#39;t trust phpdoc](https://github.com/rectorphp/rector-src/pull/5199) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Fix singular of words ending in &#34;ss&#34;](https://github.com/rectorphp/rector-src/pull/5198) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [remove cairo signatures](https://github.com/phpstan/phpstan-src/pull/2690) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
