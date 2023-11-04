@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [staabm/hungry-spl-file-info](https://github.com/staabm/hungry-spl-file-info) (2 weeks ago)
 - [staabm/blackfire-regex](https://github.com/staabm/blackfire-regex) (2 weeks ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
+- [staabm/hungry-spl-file-info](https://github.com/staabm/hungry-spl-file-info) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
