@@ -3,22 +3,22 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (4 days ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [staabm/hungry-spl-file-info](https://github.com/staabm/hungry-spl-file-info) (1 week ago)
-- [staabm/blackfire-regex](https://github.com/staabm/blackfire-regex) (1 week ago)
+- [staabm/hungry-spl-file-info](https://github.com/staabm/hungry-spl-file-info) (2 weeks ago)
+- [staabm/blackfire-regex](https://github.com/staabm/blackfire-regex) (2 weeks ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
 
-- [Phpstan Filter Baseline](https://staabm.github.io/2023/10/30/phpstan-filter-baseline.html) (4 days ago)
-- [Phpstan Result Cache Gotchas](https://staabm.github.io/2023/10/21/phpstan-result-cache-gotchas.html) (1 week ago)
+- [Phpstan Filter Baseline](https://staabm.github.io/2023/10/30/phpstan-filter-baseline.html) (5 days ago)
+- [Phpstan Result Cache Gotchas](https://staabm.github.io/2023/10/21/phpstan-result-cache-gotchas.html) (2 weeks ago)
 - [Rector In Legacy Projects](https://staabm.github.io/2023/07/23/rector-in-legacy-projects.html) (3 months ago)
 - [Doctor Rst Speedup](https://staabm.github.io/2023/05/18/doctor-rst-speedup.html) (5 months ago)
 - [How To Debug Slow Rector Projects](https://staabm.github.io/2023/05/10/how-to-debug-slow-rector-projects.html) (5 months ago)
@@ -26,7 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
-- [getsentry](https://github.com/getsentry) (4 weeks ago)
+- [getsentry](https://github.com/getsentry) (1 month ago)
 - [eliashaeussler](https://github.com/eliashaeussler) (1 month ago)
 - [DaveLiddament](https://github.com/DaveLiddament) (5 months ago)
 - [SecuMailer](https://github.com/SecuMailer) (6 months ago)
@@ -40,18 +40,18 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix !isset() with Variable](https://github.com/phpstan/phpstan-src/pull/2710) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Rewrite multi param isset() to and-chain](https://github.com/phpstan/phpstan-src/pull/2709) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [More precise falsey isset()](https://github.com/phpstan/phpstan-src/pull/2708) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [bash workaround for read/write of the same file in single pipe](https://github.com/staabm/staabm.github.io/pull/104) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
-- [Update 2023-10-30-phpstan-filter-baseline.md](https://github.com/staabm/staabm.github.io/pull/103) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
-- [Update 2023-10-30-phpstan-filter-baseline.md](https://github.com/staabm/staabm.github.io/pull/102) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
-- [proofread](https://github.com/staabm/staabm.github.io/pull/101) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
-- [Update 2023-10-30-phpstan-filter-baseline.md](https://github.com/staabm/staabm.github.io/pull/100) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
-- [Create 2023-11-30-phpstan-filter-baseline.md](https://github.com/staabm/staabm.github.io/pull/99) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
-- [better help page](https://github.com/staabm/phpstan-baseline-analysis/pull/145) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
-- [OverallErrors is not a valid filter-key](https://github.com/staabm/phpstan-baseline-analysis/pull/144) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
-- [Refactor](https://github.com/staabm/phpstan-baseline-analysis/pull/143) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
+- [Fix !isset() with Variable](https://github.com/phpstan/phpstan-src/pull/2710) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Rewrite multi param isset() to and-chain](https://github.com/phpstan/phpstan-src/pull/2709) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [More precise falsey isset()](https://github.com/phpstan/phpstan-src/pull/2708) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [bash workaround for read/write of the same file in single pipe](https://github.com/staabm/staabm.github.io/pull/104) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
+- [Update 2023-10-30-phpstan-filter-baseline.md](https://github.com/staabm/staabm.github.io/pull/103) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
+- [Update 2023-10-30-phpstan-filter-baseline.md](https://github.com/staabm/staabm.github.io/pull/102) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
+- [proofread](https://github.com/staabm/staabm.github.io/pull/101) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
+- [Update 2023-10-30-phpstan-filter-baseline.md](https://github.com/staabm/staabm.github.io/pull/100) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
+- [Create 2023-11-30-phpstan-filter-baseline.md](https://github.com/staabm/staabm.github.io/pull/99) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
+- [better help page](https://github.com/staabm/phpstan-baseline-analysis/pull/145) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
+- [OverallErrors is not a valid filter-key](https://github.com/staabm/phpstan-baseline-analysis/pull/144) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
+- [Refactor](https://github.com/staabm/phpstan-baseline-analysis/pull/143) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/137) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [CountArrayToEmptyArrayComparisonRector: don&#39;t trust phpdoc](https://github.com/rectorphp/rector-src/pull/5203) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Don&#39;t singularize parametersAcceptor](https://github.com/rectorphp/rector-src/pull/5200) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.8](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.8) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.141](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.141) (4 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.5](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.5) (4 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.40](https://github.com/phpstan/phpstan/releases/tag/1.10.40) (4 days ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.5.2](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.5.2) (4 days ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.12.4](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.12.4) (4 days ago)
-- [nette/utils](https://github.com/nette/utils) - [v4.0.3](https://github.com/nette/utils/releases/tag/v4.0.3) (5 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.37.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.37.1) (5 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.0-BETA2](https://github.com/symfony/symfony/releases/tag/v7.0.0-BETA2) (5 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.45](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.45) (5 days ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.8](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.8) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.141](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.141) (5 days ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.5](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.5) (5 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.40](https://github.com/phpstan/phpstan/releases/tag/1.10.40) (5 days ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.5.2](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.5.2) (5 days ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.12.4](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.12.4) (5 days ago)
+- [nette/utils](https://github.com/nette/utils) - [v4.0.3](https://github.com/nette/utils/releases/tag/v4.0.3) (6 days ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.37.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.37.1) (6 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.0-BETA2](https://github.com/symfony/symfony/releases/tag/v7.0.0-BETA2) (6 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.45](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.45) (6 days ago)
