@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.8](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.8) (2 days ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.9](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.9) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.141](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.141) (6 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.5](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.5) (6 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.40](https://github.com/phpstan/phpstan/releases/tag/1.10.40) (6 days ago)
