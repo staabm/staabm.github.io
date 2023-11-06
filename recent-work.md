@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [NullableCompareToNullRector: Don&#39;t trust phpdocs](https://github.com/rectorphp/rector-src/pull/5225) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Narrow phpstan types in assertInstanceOf* AbstractTestCase methods](https://github.com/briannesbitt/Carbon/pull/2879) on [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) (2 days ago)
 - [Fix !isset() with Variable](https://github.com/phpstan/phpstan-src/pull/2710) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Rewrite multi param isset() to and-chain](https://github.com/phpstan/phpstan-src/pull/2709) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -54,7 +55,6 @@
 - [OverallErrors is not a valid filter-key](https://github.com/staabm/phpstan-baseline-analysis/pull/144) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [Refactor](https://github.com/staabm/phpstan-baseline-analysis/pull/143) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/137) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
-- [CountArrayToEmptyArrayComparisonRector: don&#39;t trust phpdoc](https://github.com/rectorphp/rector-src/pull/5203) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
