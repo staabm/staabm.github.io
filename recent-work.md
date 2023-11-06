@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-rc7](https://github.com/matomo-org/matomo/releases/tag/5.0.0-rc7) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.41](https://github.com/phpstan/phpstan/releases/tag/1.10.41) (1 day ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.9](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.9) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.141](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.141) (1 week ago)
@@ -68,4 +69,3 @@
 - [nette/utils](https://github.com/nette/utils) - [v4.0.3](https://github.com/nette/utils/releases/tag/v4.0.3) (1 week ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.37.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.37.1) (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.0-BETA2](https://github.com/symfony/symfony/releases/tag/v7.0.0-BETA2) (1 week ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.45](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.45) (1 week ago)
