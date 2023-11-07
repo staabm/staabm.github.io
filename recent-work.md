@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.10](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.10) (today)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.38.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.38.0) (today)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-rc7](https://github.com/matomo-org/matomo/releases/tag/5.0.0-rc7) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.41](https://github.com/phpstan/phpstan/releases/tag/1.10.41) (2 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.9](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.9) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.141](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.141) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.5](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.5) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.5.2](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.5.2) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.12.4](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.12.4) (1 week ago)
 - [nette/utils](https://github.com/nette/utils) - [v4.0.3](https://github.com/nette/utils/releases/tag/v4.0.3) (1 week ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.37.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.37.1) (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.0-BETA2](https://github.com/symfony/symfony/releases/tag/v7.0.0-BETA2) (1 week ago)
