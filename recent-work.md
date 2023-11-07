@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove `ArraySpreadInsteadOfArrayMergeRector` from `LevelSetList::UP_TO_PHP_74`](https://github.com/rectorphp/rector-src/pull/5228) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Support non-empty-string in str_shuffle()](https://github.com/phpstan/phpstan-src/pull/2717) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [NullableCompareToNullRector: Don&#39;t trust phpdocs](https://github.com/rectorphp/rector-src/pull/5225) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Narrow phpstan types in assertInstanceOf* AbstractTestCase methods](https://github.com/briannesbitt/Carbon/pull/2879) on [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) (3 days ago)
@@ -54,7 +55,6 @@
 - [Create 2023-11-30-phpstan-filter-baseline.md](https://github.com/staabm/staabm.github.io/pull/99) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [better help page](https://github.com/staabm/phpstan-baseline-analysis/pull/145) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [OverallErrors is not a valid filter-key](https://github.com/staabm/phpstan-baseline-analysis/pull/144) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
-- [Refactor](https://github.com/staabm/phpstan-baseline-analysis/pull/143) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
