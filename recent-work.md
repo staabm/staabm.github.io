@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.8](https://github.com/symfony/symfony/releases/tag/v6.3.8) (today)
+- [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.0-BETA3](https://github.com/symfony/symfony/releases/tag/v7.0.0-BETA3) (today)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.16.0-rc1](https://github.com/matomo-org/matomo/releases/tag/4.16.0-rc1) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.46](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.46) (2 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.11](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.11) (2 days ago)
