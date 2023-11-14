@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[DeadCode]: Support functions in RemoveUnusedVariableAssignRector](https://github.com/rectorphp/rector-src/pull/5249) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [RestoreDefaultNullToNullableTypePropertyRector: skip `@readonly` phpdoc](https://github.com/rectorphp/rector-src/pull/5233) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
 - [Remove `ArraySpreadInsteadOfArrayMergeRector` from `LevelSetList::UP_TO_PHP_74`](https://github.com/rectorphp/rector-src/pull/5228) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Support non-empty-string in str_shuffle()](https://github.com/phpstan/phpstan-src/pull/2717) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -54,7 +55,6 @@
 - [proofread](https://github.com/staabm/staabm.github.io/pull/101) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 - [Update 2023-10-30-phpstan-filter-baseline.md](https://github.com/staabm/staabm.github.io/pull/100) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 - [Create 2023-11-30-phpstan-filter-baseline.md](https://github.com/staabm/staabm.github.io/pull/99) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
-- [better help page](https://github.com/staabm/phpstan-baseline-analysis/pull/145) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
