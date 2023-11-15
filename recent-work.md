@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
@@ -40,15 +40,15 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[DeadCode]: Support functions in RemoveUnusedVariableAssignRector](https://github.com/rectorphp/rector-src/pull/5249) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
-- [RestoreDefaultNullToNullableTypePropertyRector: skip `@readonly` phpdoc](https://github.com/rectorphp/rector-src/pull/5233) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
+- [[DeadCode]: Support functions in RemoveUnusedVariableAssignRector](https://github.com/rectorphp/rector-src/pull/5249) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [RestoreDefaultNullToNullableTypePropertyRector: skip `@readonly` phpdoc](https://github.com/rectorphp/rector-src/pull/5233) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Remove `ArraySpreadInsteadOfArrayMergeRector` from `LevelSetList::UP_TO_PHP_74`](https://github.com/rectorphp/rector-src/pull/5228) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Support non-empty-string in str_shuffle()](https://github.com/phpstan/phpstan-src/pull/2717) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [NullableCompareToNullRector: Don&#39;t trust phpdocs](https://github.com/rectorphp/rector-src/pull/5225) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Narrow phpstan types in assertInstanceOf* AbstractTestCase methods](https://github.com/briannesbitt/Carbon/pull/2879) on [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) (1 week ago)
 - [Fix !isset() with Variable](https://github.com/phpstan/phpstan-src/pull/2710) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Rewrite multi param isset() to and-chain](https://github.com/phpstan/phpstan-src/pull/2709) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [More precise falsey isset()](https://github.com/phpstan/phpstan-src/pull/2708) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [More precise falsey isset()](https://github.com/phpstan/phpstan-src/pull/2708) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [bash workaround for read/write of the same file in single pipe](https://github.com/staabm/staabm.github.io/pull/104) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 - [Update 2023-10-30-phpstan-filter-baseline.md](https://github.com/staabm/staabm.github.io/pull/103) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 - [Update 2023-10-30-phpstan-filter-baseline.md](https://github.com/staabm/staabm.github.io/pull/102) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.16.0](https://github.com/Roave/BetterReflection/releases/tag/6.16.0) (today)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.38.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.38.2) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.142](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.142) (3 days ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.79](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.79) (3 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.47](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.47) (4 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.0-BETA3](https://github.com/symfony/symfony/releases/tag/v7.0.0-BETA3) (4 days ago)
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.16.0-rc1](https://github.com/matomo-org/matomo/releases/tag/4.16.0-rc1) (4 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.11](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.11) (6 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.16.0](https://github.com/Roave/BetterReflection/releases/tag/6.16.0) (1 day ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.38.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.38.2) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.142](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.142) (4 days ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.79](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.79) (4 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.47](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.47) (5 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.0-BETA3](https://github.com/symfony/symfony/releases/tag/v7.0.0-BETA3) (5 days ago)
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.16.0-rc1](https://github.com/matomo-org/matomo/releases/tag/4.16.0-rc1) (5 days ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.11](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.11) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.41](https://github.com/phpstan/phpstan/releases/tag/1.10.41) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.5](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.5) (2 weeks ago)
