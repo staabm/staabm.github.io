@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix PHP deprecation notice](https://github.com/psecio/secure_dotenv/pull/28) on [psecio/secure_dotenv](https://github.com/psecio/secure_dotenv) (today)
 - [Implement MagicClassConstantRule](https://github.com/phpstan/phpstan-src/pull/2741) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [[DeadCode]: Support functions in RemoveUnusedVariableAssignRector](https://github.com/rectorphp/rector-src/pull/5249) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [RestoreDefaultNullToNullableTypePropertyRector: skip `@readonly` phpdoc](https://github.com/rectorphp/rector-src/pull/5233) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
@@ -54,11 +55,11 @@
 - [Update 2023-10-30-phpstan-filter-baseline.md](https://github.com/staabm/staabm.github.io/pull/103) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 - [Update 2023-10-30-phpstan-filter-baseline.md](https://github.com/staabm/staabm.github.io/pull/102) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 - [proofread](https://github.com/staabm/staabm.github.io/pull/101) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
-- [Update 2023-10-30-phpstan-filter-baseline.md](https://github.com/staabm/staabm.github.io/pull/100) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.12](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.12) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.0.0-RC1) (1 day ago)
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.0.0-rc1](https://github.com/mautic/mautic/releases/tag/5.0.0-rc1) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.48](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.48) (1 day ago)
@@ -67,5 +68,4 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.142](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.142) (5 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.79](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.79) (5 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.16.0-rc1](https://github.com/matomo-org/matomo/releases/tag/4.16.0-rc1) (6 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.11](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.11) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.41](https://github.com/phpstan/phpstan/releases/tag/1.10.41) (1 week ago)
