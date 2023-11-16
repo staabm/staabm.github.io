@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -10,7 +11,6 @@
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 weeks ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 weeks ago)
 - [staabm/blackfire-regex](https://github.com/staabm/blackfire-regex) (3 weeks ago)
 - [staabm/hungry-spl-file-info](https://github.com/staabm/hungry-spl-file-info) (3 weeks ago)
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/143) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [Fix PHP deprecation notice](https://github.com/psecio/secure_dotenv/pull/28) on [psecio/secure_dotenv](https://github.com/psecio/secure_dotenv) (today)
 - [Implement MagicClassConstantRule](https://github.com/phpstan/phpstan-src/pull/2741) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [[DeadCode]: Support functions in RemoveUnusedVariableAssignRector](https://github.com/rectorphp/rector-src/pull/5249) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
@@ -54,11 +55,11 @@
 - [bash workaround for read/write of the same file in single pipe](https://github.com/staabm/staabm.github.io/pull/104) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 - [Update 2023-10-30-phpstan-filter-baseline.md](https://github.com/staabm/staabm.github.io/pull/103) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 - [Update 2023-10-30-phpstan-filter-baseline.md](https://github.com/staabm/staabm.github.io/pull/102) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
-- [proofread](https://github.com/staabm/staabm.github.io/pull/101) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.20](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.20) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.12](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.12) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.0.0-RC1) (1 day ago)
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.0.0-rc1](https://github.com/mautic/mautic/releases/tag/5.0.0-rc1) (1 day ago)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.142](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.142) (5 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.79](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.79) (5 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.16.0-rc1](https://github.com/matomo-org/matomo/releases/tag/4.16.0-rc1) (6 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.41](https://github.com/phpstan/phpstan/releases/tag/1.10.41) (1 week ago)
