@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.49](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.49) (today)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.50](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.50) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.20](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.20) (1 day ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.12](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.12) (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.0.0-RC1) (2 days ago)
