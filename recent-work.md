@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.24.3](https://github.com/phpstan/phpdoc-parser/releases/tag/1.24.3) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.13](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.13) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.21](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.21) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.143](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.143) (today)
@@ -68,4 +69,3 @@
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.0.0-rc1](https://github.com/mautic/mautic/releases/tag/5.0.0-rc1) (3 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.16.0](https://github.com/Roave/BetterReflection/releases/tag/6.16.0) (4 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.38.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.38.2) (4 days ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.79](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.79) (1 week ago)
