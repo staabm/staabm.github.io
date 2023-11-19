@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) (2 weeks ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
@@ -28,7 +28,7 @@
 
 - [getsentry](https://github.com/getsentry) (1 month ago)
 - [eliashaeussler](https://github.com/eliashaeussler) (2 months ago)
-- [DaveLiddament](https://github.com/DaveLiddament) (5 months ago)
+- [DaveLiddament](https://github.com/DaveLiddament) (6 months ago)
 - [SecuMailer](https://github.com/SecuMailer) (6 months ago)
 - [bluehorndigital](https://github.com/bluehorndigital) (6 months ago)
 - [drupol](https://github.com/drupol) (6 months ago)
@@ -40,12 +40,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/145) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
-- [Support PHP 8.3](https://github.com/FriendsOfREDAXO/rexstan/pull/622) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/143) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
-- [Fix PHP deprecation notice](https://github.com/psecio/secure_dotenv/pull/28) on [psecio/secure_dotenv](https://github.com/psecio/secure_dotenv) (2 days ago)
-- [Implement MagicClassConstantRule](https://github.com/phpstan/phpstan-src/pull/2741) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [[DeadCode]: Support functions in RemoveUnusedVariableAssignRector](https://github.com/rectorphp/rector-src/pull/5249) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/145) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
+- [Support PHP 8.3](https://github.com/FriendsOfREDAXO/rexstan/pull/622) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/143) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
+- [Fix PHP deprecation notice](https://github.com/psecio/secure_dotenv/pull/28) on [psecio/secure_dotenv](https://github.com/psecio/secure_dotenv) (3 days ago)
+- [Implement MagicClassConstantRule](https://github.com/phpstan/phpstan-src/pull/2741) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [[DeadCode]: Support functions in RemoveUnusedVariableAssignRector](https://github.com/rectorphp/rector-src/pull/5249) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 - [RestoreDefaultNullToNullableTypePropertyRector: skip `@readonly` phpdoc](https://github.com/rectorphp/rector-src/pull/5233) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Remove `ArraySpreadInsteadOfArrayMergeRector` from `LevelSetList::UP_TO_PHP_74`](https://github.com/rectorphp/rector-src/pull/5228) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Support non-empty-string in str_shuffle()](https://github.com/phpstan/phpstan-src/pull/2717) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.24.3](https://github.com/phpstan/phpdoc-parser/releases/tag/1.24.3) (today)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.13](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.13) (today)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.21](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.21) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.143](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.143) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.42](https://github.com/phpstan/phpstan/releases/tag/1.10.42) (1 day ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.50](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.50) (1 day ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.0.0-RC1) (3 days ago)
-- [mautic/mautic](https://github.com/mautic/mautic) - [5.0.0-rc1](https://github.com/mautic/mautic/releases/tag/5.0.0-rc1) (3 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.16.0](https://github.com/Roave/BetterReflection/releases/tag/6.16.0) (4 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.38.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.38.2) (4 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.24.3](https://github.com/phpstan/phpdoc-parser/releases/tag/1.24.3) (1 day ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.13](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.13) (1 day ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.21](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.21) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.143](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.143) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.42](https://github.com/phpstan/phpstan/releases/tag/1.10.42) (2 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.50](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.50) (2 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.0.0-RC1) (4 days ago)
+- [mautic/mautic](https://github.com/mautic/mautic) - [5.0.0-rc1](https://github.com/mautic/mautic/releases/tag/5.0.0-rc1) (4 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.16.0](https://github.com/Roave/BetterReflection/releases/tag/6.16.0) (5 days ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.38.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.38.2) (5 days ago)
