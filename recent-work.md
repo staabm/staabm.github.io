@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement DeclarePositionRule](https://github.com/phpstan/phpstan-src/pull/2759) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement AbstractProtectedMethodRule](https://github.com/phpstan/phpstan-src/pull/2758) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement AbstractPrivateMethodRule](https://github.com/phpstan/phpstan-src/pull/2756) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/145) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
@@ -54,7 +55,6 @@
 - [NullableCompareToNullRector: Don&#39;t trust phpdocs](https://github.com/rectorphp/rector-src/pull/5225) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 - [Narrow phpstan types in assertInstanceOf* AbstractTestCase methods](https://github.com/briannesbitt/Carbon/pull/2879) on [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) (2 weeks ago)
 - [Fix !isset() with Variable](https://github.com/phpstan/phpstan-src/pull/2710) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [Rewrite multi param isset() to and-chain](https://github.com/phpstan/phpstan-src/pull/2709) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
