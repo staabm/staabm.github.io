@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement AbstractPrivateMethodRule](https://github.com/phpstan/phpstan-src/pull/2756) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/145) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 - [Support PHP 8.3](https://github.com/FriendsOfREDAXO/rexstan/pull/622) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/143) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (5 days ago)
@@ -54,7 +55,6 @@
 - [Fix !isset() with Variable](https://github.com/phpstan/phpstan-src/pull/2710) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Rewrite multi param isset() to and-chain](https://github.com/phpstan/phpstan-src/pull/2709) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [More precise falsey isset()](https://github.com/phpstan/phpstan-src/pull/2708) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [bash workaround for read/write of the same file in single pipe](https://github.com/staabm/staabm.github.io/pull/104) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
