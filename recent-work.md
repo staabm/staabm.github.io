@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.80](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.80) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.51](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.51) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.144](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.144) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.43](https://github.com/phpstan/phpstan/releases/tag/1.10.43) (2 days ago)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.21](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.21) (3 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.0.0-RC1) (6 days ago)
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.0.0-rc1](https://github.com/mautic/mautic/releases/tag/5.0.0-rc1) (6 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.38.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.38.2) (1 week ago)
