@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.52](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.52) (today)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.53](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.53) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.80](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.80) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.144](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.144) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.43](https://github.com/phpstan/phpstan/releases/tag/1.10.43) (2 days ago)
