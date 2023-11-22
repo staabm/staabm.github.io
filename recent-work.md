@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.39.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.39.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.145](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.145) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.44](https://github.com/phpstan/phpstan/releases/tag/1.10.44) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.53](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.53) (1 day ago)
@@ -68,4 +69,3 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.13](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.13) (4 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.21](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.21) (4 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.0.0-RC1) (1 week ago)
-- [mautic/mautic](https://github.com/mautic/mautic) - [5.0.0-rc1](https://github.com/mautic/mautic/releases/tag/5.0.0-rc1) (1 week ago)
