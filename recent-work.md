@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [XmlDriver: remove dead code](https://github.com/doctrine/orm/pull/11085) on [doctrine/orm](https://github.com/doctrine/orm) (today)
+- [Use dedicated Type methods over isSuperTypeOf()](https://github.com/phpstan/phpstan-src/pull/2772) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Classname in instanceof cannot be null](https://github.com/phpstan/phpstan-src/pull/2769) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Narrow enum_exists() arg to UnitEnum](https://github.com/phpstan/phpstan-src/pull/2764) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Implement DeclarePositionRule](https://github.com/phpstan/phpstan-src/pull/2759) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -53,8 +55,6 @@
 - [[DeadCode]: Support functions in RemoveUnusedVariableAssignRector](https://github.com/rectorphp/rector-src/pull/5249) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [RestoreDefaultNullToNullableTypePropertyRector: skip `@readonly` phpdoc](https://github.com/rectorphp/rector-src/pull/5233) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 - [Remove `ArraySpreadInsteadOfArrayMergeRector` from `LevelSetList::UP_TO_PHP_74`](https://github.com/rectorphp/rector-src/pull/5228) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
-- [Support non-empty-string in str_shuffle()](https://github.com/phpstan/phpstan-src/pull/2717) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [NullableCompareToNullRector: Don&#39;t trust phpdocs](https://github.com/rectorphp/rector-src/pull/5225) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
