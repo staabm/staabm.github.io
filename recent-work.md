@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.39.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.39.1) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.18.0](https://github.com/Roave/BetterReflection/releases/tag/6.18.0) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.14](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.14) (1 day ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.16.0](https://github.com/vimeo/psalm/releases/tag/5.16.0) (2 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.39.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.39.0) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.145](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.145) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.44](https://github.com/phpstan/phpstan/releases/tag/1.10.44) (3 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.53](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.53) (3 days ago)
