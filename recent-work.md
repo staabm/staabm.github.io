@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix typo in rule name: MethodVisibitiliyInInterfaceRule](https://github.com/phpstan/phpstan-src/pull/2781) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [fix lint](https://github.com/phpstan/phpstan-src/pull/2780) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Ignore shebang in DeclareStrictTypesRule](https://github.com/phpstan/phpstan-src/pull/2779) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [XmlDriver: remove dead code](https://github.com/doctrine/orm/pull/11085) on [doctrine/orm](https://github.com/doctrine/orm) (2 days ago)
@@ -54,7 +55,6 @@
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/143) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [Fix PHP deprecation notice](https://github.com/psecio/secure_dotenv/pull/28) on [psecio/secure_dotenv](https://github.com/psecio/secure_dotenv) (1 week ago)
 - [Implement MagicClassConstantRule](https://github.com/phpstan/phpstan-src/pull/2741) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [[DeadCode]: Support functions in RemoveUnusedVariableAssignRector](https://github.com/rectorphp/rector-src/pull/5249) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
