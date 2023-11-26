@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Ignore shebang in DeclareStrictTypesRule](https://github.com/phpstan/phpstan-src/pull/2779) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [XmlDriver: remove dead code](https://github.com/doctrine/orm/pull/11085) on [doctrine/orm](https://github.com/doctrine/orm) (2 days ago)
 - [Use dedicated Type methods over isSuperTypeOf()](https://github.com/phpstan/phpstan-src/pull/2772) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Classname in instanceof cannot be null](https://github.com/phpstan/phpstan-src/pull/2769) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -54,7 +55,6 @@
 - [Implement MagicClassConstantRule](https://github.com/phpstan/phpstan-src/pull/2741) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [[DeadCode]: Support functions in RemoveUnusedVariableAssignRector](https://github.com/rectorphp/rector-src/pull/5249) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [RestoreDefaultNullToNullableTypePropertyRector: skip `@readonly` phpdoc](https://github.com/rectorphp/rector-src/pull/5233) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
-- [Remove `ArraySpreadInsteadOfArrayMergeRector` from `LevelSetList::UP_TO_PHP_74`](https://github.com/rectorphp/rector-src/pull/5228) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
