@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use dedicated Type methods over `isSuperTypeOf()`](https://github.com/phpstan/phpstan-src/pull/2788) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Use dedicated Type methods over `isSuperTypeOf()`](https://github.com/phpstan/phpstan-src/pull/2787) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify InArrayFunctionTypeSpecifyingExtension](https://github.com/phpstan/phpstan-src/pull/2785) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix typo in rule name: MethodVisibitiliyInInterfaceRule](https://github.com/phpstan/phpstan-src/pull/2781) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,11 +55,11 @@
 - [Implement AbstractPrivateMethodRule](https://github.com/phpstan/phpstan-src/pull/2756) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/145) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [Support PHP 8.3](https://github.com/FriendsOfREDAXO/rexstan/pull/622) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/143) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.45](https://github.com/phpstan/phpstan/releases/tag/1.10.45) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.24.4](https://github.com/phpstan/phpdoc-parser/releases/tag/1.24.4) (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.0-RC2](https://github.com/symfony/symfony/releases/tag/v7.0.0-RC2) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.40.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.40.0) (1 day ago)
@@ -66,6 +67,5 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.14](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.14) (4 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.16.0](https://github.com/vimeo/psalm/releases/tag/5.16.0) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.145](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.145) (6 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.44](https://github.com/phpstan/phpstan/releases/tag/1.10.44) (6 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.53](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.53) (6 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.80](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.80) (6 days ago)
