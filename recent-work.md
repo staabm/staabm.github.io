@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use dedicated Type methods over `isSuperTypeOf()`](https://github.com/phpstan/phpstan-src/pull/2787) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify InArrayFunctionTypeSpecifyingExtension](https://github.com/phpstan/phpstan-src/pull/2785) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix typo in rule name: MethodVisibitiliyInInterfaceRule](https://github.com/phpstan/phpstan-src/pull/2781) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [fix lint](https://github.com/phpstan/phpstan-src/pull/2780) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/145) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [Support PHP 8.3](https://github.com/FriendsOfREDAXO/rexstan/pull/622) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/143) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
-- [Fix PHP deprecation notice](https://github.com/psecio/secure_dotenv/pull/28) on [psecio/secure_dotenv](https://github.com/psecio/secure_dotenv) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
