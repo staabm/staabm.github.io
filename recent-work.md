@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.81](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.81) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.45](https://github.com/phpstan/phpstan/releases/tag/1.10.45) (1 day ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.24.4](https://github.com/phpstan/phpdoc-parser/releases/tag/1.24.4) (2 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.0-RC2](https://github.com/symfony/symfony/releases/tag/v7.0.0-RC2) (2 days ago)
@@ -68,4 +69,3 @@
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.16.0](https://github.com/vimeo/psalm/releases/tag/5.16.0) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.145](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.145) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.53](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.53) (1 week ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.80](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.80) (1 week ago)
