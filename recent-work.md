@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.0](https://github.com/briannesbitt/Carbon/releases/tag/2.72.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.46](https://github.com/phpstan/phpstan/releases/tag/1.10.46) (today)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.16.0](https://github.com/matomo-org/matomo/releases/tag/4.16.0) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.81](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.81) (today)
@@ -68,4 +69,3 @@
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.18.0](https://github.com/Roave/BetterReflection/releases/tag/6.18.0) (4 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.14](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.14) (5 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.16.0](https://github.com/vimeo/psalm/releases/tag/5.16.0) (6 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.145](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.145) (1 week ago)
