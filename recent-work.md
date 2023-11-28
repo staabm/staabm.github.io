@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) (3 weeks ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (4 weeks ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 weeks ago)
