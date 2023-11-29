@@ -59,12 +59,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) - [v6.4.0](https://github.com/symfony/symfony/releases/tag/v6.4.0) (today)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.0](https://github.com/briannesbitt/Carbon/releases/tag/2.72.0) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.46](https://github.com/phpstan/phpstan/releases/tag/1.10.46) (1 day ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.16.0](https://github.com/matomo-org/matomo/releases/tag/4.16.0) (1 day ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.81](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.81) (1 day ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.24.4](https://github.com/phpstan/phpdoc-parser/releases/tag/1.24.4) (3 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.0-RC2](https://github.com/symfony/symfony/releases/tag/v7.0.0-RC2) (3 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.40.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.40.0) (3 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.18.0](https://github.com/Roave/BetterReflection/releases/tag/6.18.0) (5 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.14](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.14) (6 days ago)
