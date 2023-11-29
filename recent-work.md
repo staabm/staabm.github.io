@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) - [v6.4.0](https://github.com/symfony/symfony/releases/tag/v6.4.0) (today)
+- [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.0](https://github.com/symfony/symfony/releases/tag/v7.0.0) (today)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.0](https://github.com/briannesbitt/Carbon/releases/tag/2.72.0) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.46](https://github.com/phpstan/phpstan/releases/tag/1.10.46) (1 day ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.16.0](https://github.com/matomo-org/matomo/releases/tag/4.16.0) (1 day ago)
