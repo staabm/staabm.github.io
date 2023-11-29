@@ -4,8 +4,8 @@
 #### 💻 Check out what I'm currently working on
 
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) (3 weeks ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 month ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Incremented numeric-string should change to int/float](https://github.com/phpstan/phpstan-src/pull/2797) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Non-numeric strings in pow() lead to error](https://github.com/phpstan/phpstan-src/pull/2796) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Use dedicated Type methods over `isSuperTypeOf()`](https://github.com/phpstan/phpstan-src/pull/2788) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Use dedicated Type methods over `isSuperTypeOf()`](https://github.com/phpstan/phpstan-src/pull/2787) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,11 +55,11 @@
 - [Implement DeclarePositionRule](https://github.com/phpstan/phpstan-src/pull/2759) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Implement AbstractProtectedMethodRule](https://github.com/phpstan/phpstan-src/pull/2758) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Implement AbstractPrivateMethodRule](https://github.com/phpstan/phpstan-src/pull/2756) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/145) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.146](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.146) (today)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.55.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.55.0) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.0](https://github.com/symfony/symfony/releases/tag/v7.0.0) (today)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.0](https://github.com/briannesbitt/Carbon/releases/tag/2.72.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.24.4](https://github.com/phpstan/phpdoc-parser/releases/tag/1.24.4) (3 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.40.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.40.0) (3 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.18.0](https://github.com/Roave/BetterReflection/releases/tag/6.18.0) (5 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.14](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.14) (6 days ago)
