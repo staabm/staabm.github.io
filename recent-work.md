@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.56.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.56.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.146](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.146) (1 day ago)
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.55.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.55.0) (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.0](https://github.com/symfony/symfony/releases/tag/v7.0.0) (1 day ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.0](https://github.com/briannesbitt/Carbon/releases/tag/2.72.0) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.46](https://github.com/phpstan/phpstan/releases/tag/1.10.46) (2 days ago)
