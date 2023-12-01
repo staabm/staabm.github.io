@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) - [v6.3.10](https://github.com/symfony/symfony/releases/tag/v6.3.10) (today)
+- [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.1](https://github.com/symfony/symfony/releases/tag/v7.0.1) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.47](https://github.com/phpstan/phpstan/releases/tag/1.10.47) (today)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.56.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.56.0) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.146](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.146) (2 days ago)
