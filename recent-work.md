@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Skip RenameMethodRector in never](https://github.com/rectorphp/rector-src/pull/5305) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Fix !isset() with ArrayDimFetch](https://github.com/phpstan/phpstan-src/pull/2798) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Incremented numeric-string should change to int/float](https://github.com/phpstan/phpstan-src/pull/2797) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Non-numeric strings in pow() lead to error](https://github.com/phpstan/phpstan-src/pull/2796) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Classname in instanceof cannot be null](https://github.com/phpstan/phpstan-src/pull/2769) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Narrow enum_exists() arg to UnitEnum](https://github.com/phpstan/phpstan-src/pull/2764) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Implement DeclarePositionRule](https://github.com/phpstan/phpstan-src/pull/2759) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Implement AbstractProtectedMethodRule](https://github.com/phpstan/phpstan-src/pull/2758) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
