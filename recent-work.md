@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.47](https://github.com/phpstan/phpstan/releases/tag/1.10.47) (today)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.56.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.56.0) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.146](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.146) (2 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.0](https://github.com/symfony/symfony/releases/tag/v7.0.0) (2 days ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.0](https://github.com/briannesbitt/Carbon/releases/tag/2.72.0) (3 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.46](https://github.com/phpstan/phpstan/releases/tag/1.10.46) (3 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.16.0](https://github.com/matomo-org/matomo/releases/tag/4.16.0) (3 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.81](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.81) (3 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.24.4](https://github.com/phpstan/phpdoc-parser/releases/tag/1.24.4) (5 days ago)
