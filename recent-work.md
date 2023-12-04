@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 weeks ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) (1 month ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove return type in case of never in RemoveUselessReturnTagRector](https://github.com/rectorphp/rector-src/pull/5323) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [[DeadCode] Cheap check first](https://github.com/rectorphp/rector-src/pull/5322) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Skip RenameMethodRector in never](https://github.com/rectorphp/rector-src/pull/5305) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Fix !isset() with ArrayDimFetch](https://github.com/phpstan/phpstan-src/pull/2798) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -54,11 +55,11 @@
 - [XmlDriver: remove dead code](https://github.com/doctrine/orm/pull/11085) on [doctrine/orm](https://github.com/doctrine/orm) (1 week ago)
 - [Use dedicated Type methods over isSuperTypeOf()](https://github.com/phpstan/phpstan-src/pull/2772) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Classname in instanceof cannot be null](https://github.com/phpstan/phpstan-src/pull/2769) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Narrow enum_exists() arg to UnitEnum](https://github.com/phpstan/phpstan-src/pull/2764) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.17.0](https://github.com/vimeo/psalm/releases/tag/5.17.0) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.82](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.82) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.40.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.40.2) (1 day ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.15](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.15) (2 days ago)
@@ -68,4 +69,3 @@
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.56.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.56.0) (4 days ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.0](https://github.com/briannesbitt/Carbon/releases/tag/2.72.0) (6 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.16.0](https://github.com/matomo-org/matomo/releases/tag/4.16.0) (6 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.24.4](https://github.com/phpstan/phpdoc-parser/releases/tag/1.24.4) (1 week ago)
