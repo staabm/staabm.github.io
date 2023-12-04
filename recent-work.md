@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[DeadCode] Cheap check first](https://github.com/rectorphp/rector-src/pull/5322) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Skip RenameMethodRector in never](https://github.com/rectorphp/rector-src/pull/5305) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Fix !isset() with ArrayDimFetch](https://github.com/phpstan/phpstan-src/pull/2798) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Incremented numeric-string should change to int/float](https://github.com/phpstan/phpstan-src/pull/2797) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
@@ -54,7 +55,6 @@
 - [Use dedicated Type methods over isSuperTypeOf()](https://github.com/phpstan/phpstan-src/pull/2772) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Classname in instanceof cannot be null](https://github.com/phpstan/phpstan-src/pull/2769) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Narrow enum_exists() arg to UnitEnum](https://github.com/phpstan/phpstan-src/pull/2764) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Implement DeclarePositionRule](https://github.com/phpstan/phpstan-src/pull/2759) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
