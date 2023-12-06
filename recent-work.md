@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-rc9](https://github.com/matomo-org/matomo/releases/tag/5.0.0-rc9) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.17.0](https://github.com/vimeo/psalm/releases/tag/5.17.0) (2 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.82](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.82) (2 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.40.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.40.2) (3 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.47](https://github.com/phpstan/phpstan/releases/tag/1.10.47) (5 days ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.56.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.56.0) (6 days ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.0](https://github.com/briannesbitt/Carbon/releases/tag/2.72.0) (1 week ago)
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.16.0](https://github.com/matomo-org/matomo/releases/tag/4.16.0) (1 week ago)
