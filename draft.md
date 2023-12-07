@@ -13,8 +13,8 @@ ogImage:
 
 The year 2023 comes to an end and I want to have a look back at my open source contributions.
 
-To be honest: The main motivation for this post is getting awareness for all the open source work I am doing in my freetime.
-I am spending 20-40 hours per month and I would love 💕 to even reduce hours on my primary job to support the open source community even more.
+To be honest: The main motivation for this post is getting awareness for all the open source work happening in my free time.
+I am spending 20-40 hours per month and would love 💕 to even reduce hours on my primary job to support the open source community even more.
 
 This will only be possible when more people [support my open source work by becoming a sponsor](https://github.com/sponsors/staabm).
 
@@ -23,8 +23,8 @@ This will only be possible when more people [support my open source work by beco
 At first, lets have a [look back at 2022](https://staabm.github.io/2022/12/20/2022-wrap-up.html): I was able create 967 pull requests, of which 831 got merged.
 In comparison, at the time of writing I created [830 pull requests to 65 open-source repositories in 2023](github.com/pulls?q=is%3Apr+author%3Astaabm+created%3A2023), of which 686 got merged.
 
-As you can see the numbers in 2022, are a bit lower than in 2023. I think this is due to the fact that last year I was focused on working thru low hanging fruits in PHPStan and Rector.
-With the experience and knowledge I gained while working on these projects, I was able to contribute more advanced features and fixes this year.
+As you can see the numbers in 2022, are a bit lower than in 2023. I think this is due to the fact that last year the focus was on working through low-hanging fruits in PHPStan and Rector.
+With the experience and knowledge gained while working on these projects, I was able to contribute more advanced features and fixes this year.
 
 The following tables shows the distribution of contributions across the different projects I am working on.
 
