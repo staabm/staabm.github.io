@@ -74,9 +74,28 @@ The main problem this contributions solves is, that PHPStan gets aware when/if v
 To get this right, one needs to check whether the involved variables can get `null` and whether they are defined in the current scope.
 Most interessting is the case where we figured out that a variable which can never be `null`, also means that [it can never be defined in the falsey-context](https://phpstan.org/r/44fbea2a-6f3c-4231-a985-bc5994664937).
 
+```php
+<?php declare(strict_types = 1);
+
+class HelloWorld
+{
+	public function sayHello(): void
+	{
+		$x = 'hello';
+		if (rand(0,1)) {
+			$x = 'world';
+		}
+
+		if (isset($x)) {
+			echo $x;
+		} else {
+			echo $x; // Undefined variable: $x
+		}
+	}
+}
+```
+
 Getting this right addtionally means that PHPStan gets smarter for the `!empty($variable)`-case and the null coallescing operator `??`.
-
-
 
 ### 2024 here we come
 
