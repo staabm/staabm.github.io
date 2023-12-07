@@ -17,11 +17,11 @@
 
 #### 📜 My recent blog posts
 
+- [Contribution Summary](https://staabm.github.io/2023/12/07/contribution-summary.html) (today)
 - [Phpstan Filter Baseline](https://staabm.github.io/2023/10/30/phpstan-filter-baseline.html) (1 month ago)
 - [Phpstan Result Cache Gotchas](https://staabm.github.io/2023/10/21/phpstan-result-cache-gotchas.html) (1 month ago)
 - [Rector In Legacy Projects](https://staabm.github.io/2023/07/23/rector-in-legacy-projects.html) (4 months ago)
 - [Doctor Rst Speedup](https://staabm.github.io/2023/05/18/doctor-rst-speedup.html) (6 months ago)
-- [How To Debug Slow Rector Projects](https://staabm.github.io/2023/05/10/how-to-debug-slow-rector-projects.html) (7 months ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update 2023-12-07-contribution-summary.md](https://github.com/staabm/staabm.github.io/pull/105) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Fix store-002.properties example comments](https://github.com/JumpMind/symmetric-ds/pull/191) on [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) (today)
 - [Remove return type in case of never in RemoveUselessReturnTagRector](https://github.com/rectorphp/rector-src/pull/5323) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [[DeadCode] Cheap check first](https://github.com/rectorphp/rector-src/pull/5322) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
@@ -54,7 +55,6 @@
 - [fix lint](https://github.com/phpstan/phpstan-src/pull/2780) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Ignore shebang in DeclareStrictTypesRule](https://github.com/phpstan/phpstan-src/pull/2779) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [XmlDriver: remove dead code](https://github.com/doctrine/orm/pull/11085) on [doctrine/orm](https://github.com/doctrine/orm) (1 week ago)
-- [Use dedicated Type methods over isSuperTypeOf()](https://github.com/phpstan/phpstan-src/pull/2772) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
