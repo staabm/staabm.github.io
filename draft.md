@@ -1,6 +1,6 @@
 ---
 tags:
-    - PHPStan
+    - Activities
 
 image: "images/og-images/oss-contributions-summary-2023.jpg"
 
@@ -35,6 +35,13 @@ If you don't want to miss my articles, consider subscribing to my [RSS feed](htt
 ### Highlights 2023
 
 Lets have a closer look at my personal highlight of 2023.
+
+#### Highlight: rexstan
+
+In june 2022 the first version of [rexstan](https://github.com/FriendsOfREDAXO/rexstan), a PHPStan backed [REDAXO CMS](https://redaxo.org/) Addon was released.
+Its open source from day 1 and supports developers working with REDAXO every day.
+
+Since then I was able to publish 147 releases - what a ride.
 
 #### Highlight: phpstan-dba
 
