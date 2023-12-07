@@ -26,7 +26,7 @@ In comparison, at the time of writing I created [830 pull requests to 65 open-so
 As you can see the numbers in 2022, are a bit lower than in 2023. I think this is due to the fact that last year the focus was on working through low-hanging fruits in PHPStan and Rector.
 With the experience and knowledge gained while working on these projects, I was able to contribute more advanced features and fixes this year.
 
-The following tables shows the distribution of contributions across the different projects I am working on.
+The following table shows the distribution of contributions across the different projects I am working on.
 
 | Project                                      | merged Pull Requests  | Addressed issues   |
 |----------------------------------------------|-----------------------|--------------------|
