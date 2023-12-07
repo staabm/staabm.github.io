@@ -34,7 +34,7 @@ If you don't want to miss my articles, consider subscribing to my [RSS feed](htt
 
 ### Highlights 2023
 
-Lets have a closer look at my personal highlight of 2023.
+Lets have a closer look at my personal highlights of 2023.
 
 #### Highlight: rexstan
 
