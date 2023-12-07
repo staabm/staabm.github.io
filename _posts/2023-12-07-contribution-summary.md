@@ -85,7 +85,7 @@ Its open source from day 1 and supports developers working with REDAXO every day
 Since then I was able to publish 147 releases - what a ride.
 
 
-Similar to rexstan, [rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) is a new [REDAXO CMS](https://redaxo.org/) Addon. Its backed by Rector and helps developers to migrate their codebase to newer REDAXO versions.
+Similar to rexstan, [rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) is a new [REDAXO CMS](https://redaxo.org/) Addon. It's backed by Rector and helps developers to migrate their codebase to newer REDAXO versions.
 Its open source from day 1 and was first released in March 2023.
 
 The Addon allows using Rector with a simple web UI. Pick your rule/rule-set, define the target source code and get a nice preview of the changes.
