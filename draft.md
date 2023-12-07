@@ -56,7 +56,7 @@ The following tables shows the distribution of contributions across the differen
 | nikic/PHP-Parser                             | 1                     | -                  |
 | briannesbitt/Carbon                          | 1                     | -                  |
 | doctrine/orm                                 | 1                     | -                  |
-| _... a lot more _                            | -                     | -                  |
+| … a lot more                                 | -                     | -                  |
 
 _numbers crunched with [staabm/oss-contribs](https://github.com/staabm/oss-contribs)_
 
