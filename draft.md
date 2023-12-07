@@ -92,6 +92,7 @@ Its open source from day 1 and was first released in march 2023.
 The Addon allows using rector using web UI. Pick your rule/rule-set, define the target source code and get a nice preview of the changes.
 Push the "Apply" button and the changes are applied to your codebase.
 
+
 #### PHPStan Highlight: "Fix !isset() with Variable"
 
 As highlighted in [various](https://twitter.com/markusstaab/status/1729523854383497533) [tweets](https://twitter.com/markusstaab/status/1730509736108282344) working on falsey-context type inference improvements in PHPStan.
