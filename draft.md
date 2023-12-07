@@ -50,6 +50,13 @@ Its open source from day 1 and supports developers working with REDAXO every day
 
 Since then I was able to publish 147 releases - what a ride.
 
+
+#### Rector Highlight: "Implement a max jobs per worker budget"
+
+Running Rector on huge projects in a single run was not possible in the past. After [implementing process and memory managment](https://github.com/rectorphp/rector-src/pull/4965) this is a problem of the past.
+Even huge projects like [the Mautic codebase can be refactored with Rector now](https://twitter.com/markusstaab/status/1700507324639588597).
+
+
 #### Highlight: phpstan-dba
 
 [phpstan-dba is one of my PHPStan extensions](https://github.com/staabm/phpstan-dba) which got a bit of traction in 2023.
@@ -58,11 +65,6 @@ Its a PHPStan based SQL static analysis and type inference for the database acce
 I was even keen enough to talk about it at the PHPUGFFM usergroup and the unKonf Barcamp.
 See the [slides of said talk](https://staabm.github.io/talks/phpstan-dba@phpugffm) if you are curious.
 
-
-#### Rector Highlight: "Implement a max jobs per worker budget"
-
-Running Rector on huge projects in a single run was not possible in the past. After [implementing process and memory managment](https://github.com/rectorphp/rector-src/pull/4965) this is a problem of the past.
-Even huge projects like [the Mautic codebase can be refactored with Rector now](https://twitter.com/markusstaab/status/1700507324639588597).
 
 
 #### Highlight: Performance improvements
