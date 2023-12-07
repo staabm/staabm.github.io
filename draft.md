@@ -119,8 +119,7 @@ As a result of this work, a [summary of these performance work and my vita](http
 
 One of the craziest contributions this year. After days of in-depth analysis finally [a one line fix](https://github.com/phpstan/phpstan-src/pull/2655) resulted in fixing 5 bugs.
 
-![grafik](https://github.com/phpstan/phpstan-src/assets/120441/620c4c70-5ba0-4d6b-9090-40c5cc9f59aa)
-
+<img src="https://github.com/phpstan/phpstan-src/assets/120441/620c4c70-5ba0-4d6b-9090-40c5cc9f59aa" >
 
 
 
