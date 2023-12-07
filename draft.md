@@ -83,6 +83,15 @@ One of the craziest contributions this year. After days of in-depth analysis fin
 ![grafik](https://github.com/phpstan/phpstan-src/assets/120441/620c4c70-5ba0-4d6b-9090-40c5cc9f59aa)
 
 
+
+#### Highlight: rexfactor
+
+Similar to rexstan, rexfactor is a new [REDAXO CMS](https://redaxo.org/) Addon. Its backed by Rector and helps developers to migrate their codebase to newer REDAXO versions.
+Its open source from day 1 and was first released in march 2023.
+
+The Addon allows using rector using web UI. Pick your rule/rule-set, define the target source code and get a nice preview of the changes.
+Push the "Apply" button and the changes are applied to your codebase.
+
 #### PHPStan Highlight: "Fix !isset() with Variable"
 
 As highlighted in [various](https://twitter.com/markusstaab/status/1729523854383497533) [tweets](https://twitter.com/markusstaab/status/1730509736108282344) working on falsey-context type inference improvements in PHPStan.
