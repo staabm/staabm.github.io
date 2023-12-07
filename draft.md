@@ -56,7 +56,7 @@ With the experience and knowledge I gained while working on these projects, I wa
 | briannesbitt/Carbon                         | 1                    | -                |
 | doctrine/orm                                | 1                    | -                |
 
-__numbers crunched with [staabm/oss-contribs](https://github.com/staabm/oss-contribs)__
+_numbers crunched with [staabm/oss-contribs](https://github.com/staabm/oss-contribs)_
 
 Additionally, to sourcecode contributions I also took the to time to blog about my work.
 In these 8 posts, I try to explain what I did, how I approached the problems and what I learned from it.
