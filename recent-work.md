@@ -17,7 +17,7 @@
 
 #### 📜 My recent blog posts
 
-- [Contribution Summary](https://staabm.github.io/2023/12/07/contribution-summary.html) (today)
+- [Contribution Summary 2023](https://staabm.github.io/2023/12/07/contribution-summary-2023.html) (today)
 - [Phpstan Filter Baseline](https://staabm.github.io/2023/10/30/phpstan-filter-baseline.html) (1 month ago)
 - [Phpstan Result Cache Gotchas](https://staabm.github.io/2023/10/21/phpstan-result-cache-gotchas.html) (1 month ago)
 - [Rector In Legacy Projects](https://staabm.github.io/2023/07/23/rector-in-legacy-projects.html) (4 months ago)
