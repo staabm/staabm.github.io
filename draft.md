@@ -61,7 +61,7 @@ The following tables shows the distribution of contributions across the differen
 _numbers crunched with [staabm/oss-contribs](https://github.com/staabm/oss-contribs)_
 
 Additionally, to sourcecode contributions I also took the to time to blog about my work.
-In these 8 posts, I try to explain what I did, how I approached the problems and what I learned from it.
+In these 8 posts, I try to explain what I did, how problems have been approached and what I have learned along the way.
 That way I hope to inspire others to contribute to open source as well and share their journey.
 
 If you don't want to miss my articles, consider subscribing to my [RSS feed](https://staabm.github.io/feed.xml), or [follow me on Twitter](https://twitter.com/markusstaab) or [mastodon](https://phpc.social/@markusstaab).
