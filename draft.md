@@ -36,6 +36,13 @@ If you don't want to miss my articles, consider subscribing to my [RSS feed](htt
 
 Lets have a closer look at my personal highlights of 2023.
 
+
+#### PHPStan Highlight: Improved developer experience for the result cache
+
+The PHPStan result cache is a key piece for a fast feedback loops. Why, how it works and how to debug problems with it was described in [this blog post](https://staabm.github.io/2023/10/21/phpstan-result-cache-gotchas.html).
+I have dumbed everything I know about it into this article.
+
+
 #### Highlight: rexstan
 
 In june 2022 the first version of [rexstan](https://github.com/FriendsOfREDAXO/rexstan), a PHPStan backed [REDAXO CMS](https://redaxo.org/) Addon was released.
@@ -65,11 +72,6 @@ This includes PHPStan, PHPUnit, Rector and more. All the details can be found in
 
 As a result of this work, a [summary of these performance work and my vita](https://blog.blackfire.io/meeting-markus-staab-crafting-a-more-performant-open-source-landscape-with-blackfire.html) was published on the blackfire.io Blog.
 
-
-#### PHPStan Highlight: Improved developer experience for the result cache
-
-The PHPStan result cache is a key piece for a fast feedback loops. Why, how it works and how to debug problems with it was described in [this blog post](https://staabm.github.io/2023/10/21/phpstan-result-cache-gotchas.html).
-I have dumbed everything I know about it into this article.
 
 
 #### PHPStan Highlight: Support for array shape covariance
