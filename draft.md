@@ -156,7 +156,9 @@ class HelloWorld
 }
 ```
 
-Getting this right addtionally means that PHPStan gets smarter for the `!empty($variable)`-case and the null coallescing operator `??`.
+Getting this right additionally means that PHPStan gets smarter for the `!empty($variable)`-case and the null coallescing operator `??`.
+
+I have plans to work on `!isset($array['offset'])` and `!isset($object->property)` improvements in 2024.
 
 ### 2024 here we come
 
