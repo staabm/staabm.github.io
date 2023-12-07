@@ -94,8 +94,8 @@ Push the "Apply" button and the changes are applied to your codebase.
 
 #### Rector Highlight: "Implement a max jobs per worker budget"
 
-Running Rector on huge projects in a single run was not possible in the past. After [implementing process and memory managment](https://github.com/rectorphp/rector-src/pull/4965) this is a problem of the past.
-Even huge projects like [the Mautic codebase can be refactored with Rector now](https://twitter.com/markusstaab/status/1700507324639588597).
+Running Rector on huge projects in a single run was not possible in the past. After [implementing process and memory managment](https://github.com/rectorphp/rector-src/pull/4965) this is a fixed problem.
+Even huge projects like [the Mautic codebase can be refactored with Rector now](https://twitter.com/markusstaab/status/1700507324639588597) without out-of-memory issues.
 
 
 #### Highlight: phpstan-dba
