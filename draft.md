@@ -73,7 +73,7 @@ Lets have a closer look at my personal highlights of 2023.
 
 #### PHPStan Highlight: Improved developer experience for the result cache
 
-The PHPStan result cache is a key piece for a fast feedback loops. Why, how it works and how to debug problems with it was described in [this blog post](https://staabm.github.io/2023/10/21/phpstan-result-cache-gotchas.html).
+The PHPStan result cache is a key piece for a fast feedback loop. Why, how it works and how to debug problems with it was described in [this blog post](https://staabm.github.io/2023/10/21/phpstan-result-cache-gotchas.html).
 I have dumbed everything I know about it into this article.
 
 
