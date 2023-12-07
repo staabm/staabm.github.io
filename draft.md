@@ -28,9 +28,9 @@ With the experience and knowledge I gained while working on these projects, I wa
 
 Lets have a closer look at my personal highlight of 2023.
 
-### phpstan-dba Highlight
+### Highlight: phpstan-dba
 
-[phpstan-dba is one PHPStan extensions](https://github.com/staabm/phpstan-dba) which got a bit of traction in 2023.
+[phpstan-dba is one of my PHPStan extensions](https://github.com/staabm/phpstan-dba) which got a bit of traction in 2023.
 Its a PHPStan based SQL static analysis and type inference for the database access layer.
 
 I was even keen enough to talk about it at the PHPUGFFM usergroup and the unKonf Barcamp.
