@@ -25,6 +25,16 @@ In comparison, at the time of writing I created 830 pull requests in 2023, of wh
 As you can read the numbers in 2022, are a bit lower than in 2023. I think this is due to the fact that last year I was focused on working thru low hanging fruits in PHPStan and Rector.
 With the experience and knowledge I gained while working on these projects, I was able to contribute more advanced features and fixes this year.
 
+
+## phpstan-dba Highlight
+
+[phpstan-dba is one PHPStan extensions](https://github.com/staabm/phpstan-dba) which got a bit of traction in 2023.
+Its a PHPStan based SQL static analysis and type inference for the database access layer.
+
+I was even keen enough to talk about it at the PHPUGFFM usergroup and the unKonf Barcamp.
+See the [slides of said talk](https://staabm.github.io/talks/phpstan-dba@phpugffm) if you are curious.
+
+
 ## Rector Highlight: "Implement a max jobs per worker budget"
 
 Running Rector on huge projects in a single run was not possible in the past. After [implementing process and memory managment](https://github.com/rectorphp/rector-src/pull/4965) this is a problem of the past.
@@ -63,3 +73,11 @@ To get this right, one needs to check whether the involved variables can get `nu
 Most interessting is the case where we figured out that a variable which can never be `null`, also means that [it can never be defined in the falsey-context](https://phpstan.org/r/44fbea2a-6f3c-4231-a985-bc5994664937).
 
 Getting this right addtionally means that PHPStan gets smarter for the `!empty($variable)`-case and the null coallescing operator `??`.
+
+
+
+## 2024 here we come
+
+I wish you all the best for the upcoming year. I am looking forward to continue my open source work and I hope you will support me in doing so.
+
+If one of those open source projects is critical for your business, please [consider supporting my work with your sponsoring 💕](https://github.com/sponsors/staabm)
