@@ -86,9 +86,9 @@ Since then I was able to publish 147 releases - what a ride.
 
 
 Similar to rexstan, [rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) is a new [REDAXO CMS](https://redaxo.org/) Addon. Its backed by Rector and helps developers to migrate their codebase to newer REDAXO versions.
-Its open source from day 1 and was first released in march 2023.
+Its open source from day 1 and was first released in March 2023.
 
-The Addon allows using rector using web UI. Pick your rule/rule-set, define the target source code and get a nice preview of the changes.
+The Addon allows using Rector with a simple web UI. Pick your rule/rule-set, define the target source code and get a nice preview of the changes.
 Push the "Apply" button and the changes are applied to your codebase.
 
 
@@ -101,7 +101,7 @@ Even huge projects like [the Mautic codebase can be refactored with Rector now](
 #### Highlight: phpstan-dba
 
 [phpstan-dba is one of my PHPStan extensions](https://github.com/staabm/phpstan-dba) which got a bit of traction in 2023.
-Its a PHPStan based SQL static analysis and type inference for the database access layer.
+It's a PHPStan based SQL static analysis and type inference for the database access layer.
 
 I was even keen enough to talk about it at the PHPUGFFM usergroup and the unKonf Barcamp.
 See the [slides of said talk](https://staabm.github.io/talks/phpstan-dba@phpugffm) if you are curious.
@@ -111,7 +111,7 @@ See the [slides of said talk](https://staabm.github.io/talks/phpstan-dba@phpugff
 #### Highlight: Performance improvements
 
 As a regular reader of my blog you already know, that I have spent a few months across different well known projects to improve their performance.
-This includes PHPStan, PHPUnit, Rector and more. All the details can be found in separate [Blog posts of my performance series](https://staabm.github.io/archive.html#performance).
+This includes PHPStan, PHPUnit, Symfony, Rector and more. All the details can be found in separate [Blog posts of my performance series](https://staabm.github.io/archive.html#performance).
 
 As a result of this work, a [summary of these performance work and my vita](https://blog.blackfire.io/meeting-markus-staab-crafting-a-more-performant-open-source-landscape-with-blackfire.html) was published on the blackfire.io Blog.
 
