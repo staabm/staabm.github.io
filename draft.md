@@ -97,6 +97,7 @@ Push the "Apply" button and the changes are applied to your codebase.
 Running Rector on huge projects in a single run was not possible in the past. After [implementing process and memory managment](https://github.com/rectorphp/rector-src/pull/4965) this is a fixed problem.
 Even huge projects like [the Mautic codebase can be refactored with Rector now](https://twitter.com/markusstaab/status/1700507324639588597) without out-of-memory issues.
 
+<img width="853" alt="grafik" src="https://github.com/rectorphp/rector-src/assets/120441/0f7b2448-4565-41bf-8d1b-897abfcad954">
 
 #### Highlight: phpstan-dba
 
