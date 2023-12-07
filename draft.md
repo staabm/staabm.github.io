@@ -28,34 +28,35 @@ With the experience and knowledge I gained while working on these projects, I wa
 
 The following tables shows the distribution of contributions across the different projects I am working on.
 
-| Project                                      | merged Pull Requests | Addressed issues |
-|----------------------------------------------|----------------------|------------------|
-| phpstan/phpstan*                             | ~106                 | 29               |
-| rector/rector*                               | ~168                 | 13               |
-| FriendsOfREDAXO/rexstan                      | 86                   | 24               |
-| FriendsOfREDAXO/rexfactor                    | 55                   | 6                |
-| staabm/phpstandba                            | 44                   | 8                |
-| redaxo/redaxo                                | 27                   | 4                |
-| TomasVotruba/unused-public                   | 25                   | 1                |
-| OskarStark/doctor-rst                        | 12                   | -                |
-| easy-coding-standard/easy-coding-standard    | 9                    | 1                |
-| staabm/annotate-pull-request-from-checkstyle | 8                    | -                |
-| PHP-CS-Fixer/PHP-CS-Fixer                    | 4                    | -                |
-| Roave/BetterReflection                       | 4                    | -                |
-| symfony/symfony                              | 3                    | -                |
-| qossmic/deptrac                              | 3                    | -                |
-| TomasVotruba/bladestan                       | 3                    | -                |
-| composer/composer                            | 2                    | -                |
-| sebastianbergmann/diff                       | 2                    | -                |
-| TomasVotruba/type-coverage                   | 2                    | -                |
-| mautic/mautic                                | 1                    | -                |
-| TomasVotruba/cognitive-complexity            | 1                    | -                |
-| matomo-org/matomo                            | 1                    | -                |
-| nette/utils                                  | 1                    | -                |
-| nikic/PHP-Parser                             | 1                    | -                |
-| briannesbitt/Carbon                          | 1                    | -                |
-| doctrine/orm                                 | 1                    | -                |
-| _... a lot more _                            | -                    | -                |
+| Project                                      | merged Pull Requests  | Addressed issues   |
+|----------------------------------------------|-----------------------|--------------------|
+| phpstan/phpstan*                             | ~106   (~188 in 2022) | 29    (83 in 2022) |
+| rector/rector*                               | ~168                  | 13                 |
+| FriendsOfREDAXO/rexstan                      | 86                    | 24                 |
+| FriendsOfREDAXO/rexfactor                    | 55                    | 6                  |
+| staabm/phpstandba                            | 44  (~300 in 2022)    | 8                  |
+| redaxo/redaxo                                | 27   (70 in 2022)     | 4                  |
+| TomasVotruba/unused-public                   | 25                    | 1                  |
+| OskarStark/doctor-rst                        | 12                    | -                  |
+| easy-coding-standard/easy-coding-standard    | 9                     | 1                  |
+| staabm/annotate-pull-request-from-checkstyle | 8                     | -                  |
+| PHP-CS-Fixer/PHP-CS-Fixer                    | 4                     | -                  |
+| Roave/BetterReflection                       | 4                     | -                  |
+| symfony/symfony                              | 3                     | -                  |
+| qossmic/deptrac                              | 3                     | -                  |
+| TomasVotruba/bladestan                       | 3                     | -                  |
+| composer/composer                            | 2   (7 in 2022)       | -                  |
+| sebastianbergmann/diff                       | 2                     | -                  |
+| TomasVotruba/type-coverage                   | 2                     | -                  |
+| vimeo/psalm                                  | 1 (4 in 2022)         | -                  |
+| mautic/mautic                                | 1                     | -                  |
+| TomasVotruba/cognitive-complexity            | 1                     | -                  |
+| matomo-org/matomo                            | 1                     | -                  |
+| nette/utils                                  | 1                     | -                  |
+| nikic/PHP-Parser                             | 1                     | -                  |
+| briannesbitt/Carbon                          | 1                     | -                  |
+| doctrine/orm                                 | 1                     | -                  |
+| _... a lot more _                            | -                     | -                  |
 
 _numbers crunched with [staabm/oss-contribs](https://github.com/staabm/oss-contribs)_
 
