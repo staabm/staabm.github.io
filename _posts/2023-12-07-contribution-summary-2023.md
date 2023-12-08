@@ -126,7 +126,7 @@ This includes PHPStan, PHPUnit, Symfony, Rector and more. All the details can be
 
 #### Highlight: blackfire.io Story
 
-A [summary of these performance work and my vita](https://blog.blackfire.io/meeting-markus-staab-crafting-a-more-performant-open-source-landscape-with-blackfire.html) was published on the blackfire.io Blog.
+A [summary of my performance work and my vita](https://blog.blackfire.io/meeting-markus-staab-crafting-a-more-performant-open-source-landscape-with-blackfire.html) was published on the blackfire.io Blog.
 
 
 
