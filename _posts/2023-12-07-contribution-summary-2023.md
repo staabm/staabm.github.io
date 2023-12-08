@@ -28,7 +28,7 @@ With the experience and knowledge gained while working on these projects, I was 
 
 The following table shows the distribution of contributions across the different projects I am working on.
 
-| Project                                      | merged Pull Requests  | Addressed issues   |
+| project                                      | merged pull requests  | addressed issues   |
 |----------------------------------------------|-----------------------|--------------------|
 | phpstan/phpstan*                             | ~106   (~188 in 2022) | 29    (83 in 2022) |
 | rector/rector*                               | ~168                  | 13                 |
