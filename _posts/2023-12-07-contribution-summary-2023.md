@@ -92,6 +92,13 @@ The Addon allows using Rector with a simple web UI. Pick your rule/rule-set, def
 Push the "Apply" button and the changes are applied to your codebase.
 
 
+#### Highlight Podcast: "Könnte kaputt sein – Statische Code-Analyse mit Markus Staab"
+
+Got [interviewed by the Super Duper Developers Club](https://superdev.club/podcasts/statische-code-analyse-mit-markus-staab/) about my open source work.
+
+<img src="https://github.com/FriendsOfREDAXO/rexfactor/assets/120441/ca21fb03-7d2e-4532-b34c-89887c6f13cf">
+
+
 #### Rector Highlight: "Implement a max jobs per worker budget"
 
 Running Rector on huge projects in a single run was not possible in the past. After [implementing process and memory managment](https://github.com/rectorphp/rector-src/pull/4965) this is a fixed problem.
