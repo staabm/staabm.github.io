@@ -94,7 +94,7 @@ Push the "Apply" button and the changes are applied to your codebase.
 
 #### Highlight Podcast: "Könnte kaputt sein – Statische Code-Analyse mit Markus Staab"
 
-Got [interviewed by the Super Duper Developers Club](https://superdev.club/podcasts/statische-code-analyse-mit-markus-staab/) about my open source work.
+Got [interviewed by the Super Duper Developers Club](https://superdev.club/podcasts/statische-code-analyse-mit-markus-staab/) about my open source work (German).
 
 <img src="https://github.com/FriendsOfREDAXO/rexfactor/assets/120441/ca21fb03-7d2e-4532-b34c-89887c6f13cf">
 
