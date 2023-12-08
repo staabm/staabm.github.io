@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update 2023-12-07-contribution-summary-2023.md](https://github.com/staabm/staabm.github.io/pull/106) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Update 2023-12-07-contribution-summary.md](https://github.com/staabm/staabm.github.io/pull/105) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [Fix store-002.properties example comments](https://github.com/JumpMind/symmetric-ds/pull/191) on [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) (1 day ago)
 - [Remove return type in case of never in RemoveUselessReturnTagRector](https://github.com/rectorphp/rector-src/pull/5323) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
@@ -54,7 +55,6 @@
 - [Fix typo in rule name: MethodVisibitiliyInInterfaceRule](https://github.com/phpstan/phpstan-src/pull/2781) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [fix lint](https://github.com/phpstan/phpstan-src/pull/2780) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Ignore shebang in DeclareStrictTypesRule](https://github.com/phpstan/phpstan-src/pull/2779) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [XmlDriver: remove dead code](https://github.com/doctrine/orm/pull/11085) on [doctrine/orm](https://github.com/doctrine/orm) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
