@@ -5,8 +5,8 @@ tags:
 image: "images/og-images/oss-contributions-summary-2023.jpg"
 
 ogImage:
-    title: "Open source contributions"
-    subtitle: "Highlights and summary of 2023"
+    title: "Open source contributions 2023"
+    subtitle: "Highlights and summary of 830 pull requests across 65 open-source projects"
     imageUrl: "https://staabm.github.io/staabm.svg"
     fileName: "oss-contributions-summary-2023"
 ---
@@ -105,6 +105,7 @@ Running Rector on huge projects in a single run was not possible in the past. Af
 Even huge projects like [the Mautic codebase can be refactored with Rector now](https://twitter.com/markusstaab/status/1700507324639588597) without out-of-memory issues.
 
 <img width="853" alt="grafik" src="https://github.com/rectorphp/rector-src/assets/120441/0f7b2448-4565-41bf-8d1b-897abfcad954">
+
 
 #### Highlight: phpstan-dba
 
