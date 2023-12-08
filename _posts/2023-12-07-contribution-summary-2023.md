@@ -5,8 +5,8 @@ tags:
 image: "images/og-images/oss-contributions-summary-2023.jpg"
 
 ogImage:
-    title: "Open source contributions"
-    subtitle: "Highlights and summary of 2023"
+    title: "Open source contributions 2023"
+    subtitle: "Highlights and summary of 830 OSS pull requests"
     imageUrl: "https://staabm.github.io/staabm.svg"
     fileName: "oss-contributions-summary-2023"
 ---
