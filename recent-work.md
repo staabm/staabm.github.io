@@ -4,6 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -12,7 +13,6 @@
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 month ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 month ago)
 - [staabm/blackfire-regex](https://github.com/staabm/blackfire-regex) (1 month ago)
-- [staabm/hungry-spl-file-info](https://github.com/staabm/hungry-spl-file-info) (1 month ago)
 
 
 #### 📜 My recent blog posts
@@ -45,6 +45,7 @@
 - [Fix store-002.properties example comments](https://github.com/JumpMind/symmetric-ds/pull/191) on [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) (1 day ago)
 - [Remove return type in case of never in RemoveUselessReturnTagRector](https://github.com/rectorphp/rector-src/pull/5323) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [[DeadCode] Cheap check first](https://github.com/rectorphp/rector-src/pull/5322) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
+- [Create README.md](https://github.com/staabm/oss-contribs/pull/1) on [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (5 days ago)
 - [Skip RenameMethodRector in never](https://github.com/rectorphp/rector-src/pull/5305) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Fix !isset() with ArrayDimFetch](https://github.com/phpstan/phpstan-src/pull/2798) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Incremented numeric-string should change to int/float](https://github.com/phpstan/phpstan-src/pull/2797) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -54,11 +55,11 @@
 - [Simplify InArrayFunctionTypeSpecifyingExtension](https://github.com/phpstan/phpstan-src/pull/2785) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix typo in rule name: MethodVisibitiliyInInterfaceRule](https://github.com/phpstan/phpstan-src/pull/2781) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [fix lint](https://github.com/phpstan/phpstan-src/pull/2780) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Ignore shebang in DeclareStrictTypesRule](https://github.com/phpstan/phpstan-src/pull/2779) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/oss-contribs](https://github.com/staabm/oss-contribs) - [0.1](https://github.com/staabm/oss-contribs/releases/tag/0.1) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.19.0](https://github.com/Roave/BetterReflection/releases/tag/6.19.0) (1 day ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-rc9](https://github.com/matomo-org/matomo/releases/tag/5.0.0-rc9) (2 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.17.0](https://github.com/vimeo/psalm/releases/tag/5.17.0) (4 days ago)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.147](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.147) (6 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.1](https://github.com/symfony/symfony/releases/tag/v7.0.1) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.47](https://github.com/phpstan/phpstan/releases/tag/1.10.47) (1 week ago)
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.56.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.56.0) (1 week ago)
