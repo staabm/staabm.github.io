@@ -106,6 +106,7 @@ Even huge projects like [the Mautic codebase can be refactored with Rector now](
 
 <img width="853" alt="grafik" src="https://github.com/rectorphp/rector-src/assets/120441/0f7b2448-4565-41bf-8d1b-897abfcad954">
 
+
 #### Highlight: phpstan-dba
 
 [phpstan-dba is one of my PHPStan extensions](https://github.com/staabm/phpstan-dba) which got a bit of traction in 2023.
