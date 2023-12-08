@@ -6,7 +6,7 @@ image: "images/og-images/oss-contributions-summary-2023.jpg"
 
 ogImage:
     title: "Open source contributions 2023"
-    subtitle: "Highlights and summary of 830 OSS pull requests across 65 open-source projects"
+    subtitle: "Highlights and summary of 830 pull requests across 65 open-source projects"
     imageUrl: "https://staabm.github.io/staabm.svg"
     fileName: "oss-contributions-summary-2023"
 ---
