@@ -121,6 +121,8 @@ See the [slides of said talk](https://staabm.github.io/talks/phpstan-dba@phpugff
 As a regular reader of my blog you already know, that I have spent a few months across different well known projects to improve their performance.
 This includes PHPStan, PHPUnit, Symfony, Rector and more. All the details can be found in separate [posts of my performance series](https://staabm.github.io/archive.html#performance).
 
+##### blackfire.io Story
+
 A [summary of these performance work and my vita](https://blog.blackfire.io/meeting-markus-staab-crafting-a-more-performant-open-source-landscape-with-blackfire.html) was published on the blackfire.io Blog.
 
 
