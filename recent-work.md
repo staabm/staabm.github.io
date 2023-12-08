@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/composer](https://github.com/composer/composer) - [2.6.6](https://github.com/composer/composer/releases/tag/2.6.6) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.48](https://github.com/phpstan/phpstan/releases/tag/1.10.48) (today)
 - [staabm/oss-contribs](https://github.com/staabm/oss-contribs) - [0.1](https://github.com/staabm/oss-contribs/releases/tag/0.1) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.19.0](https://github.com/Roave/BetterReflection/releases/tag/6.19.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.40.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.40.2) (5 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.15](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.15) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.147](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.147) (6 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.1](https://github.com/symfony/symfony/releases/tag/v7.0.1) (1 week ago)
