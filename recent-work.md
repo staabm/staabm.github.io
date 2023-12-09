@@ -3,11 +3,11 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 weeks ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) (1 month ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 month ago)
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.148](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.148) (today)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.1](https://github.com/briannesbitt/Carbon/releases/tag/2.72.1) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.41.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.41.0) (1 day ago)
 - [composer/composer](https://github.com/composer/composer) - [2.6.6](https://github.com/composer/composer/releases/tag/2.6.6) (1 day ago)
@@ -68,4 +69,3 @@
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-rc9](https://github.com/matomo-org/matomo/releases/tag/5.0.0-rc9) (3 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.17.0](https://github.com/vimeo/psalm/releases/tag/5.17.0) (5 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.82](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.82) (5 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.15](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.15) (1 week ago)
