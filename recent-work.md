@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (1 day ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 weeks ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) (1 month ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 month ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 month ago)
-- [staabm/blackfire-regex](https://github.com/staabm/blackfire-regex) (1 month ago)
+- [staabm/hungry-spl-file-info](https://github.com/staabm/hungry-spl-file-info) (1 month ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify default-return path in Extensions](https://github.com/phpstan/phpstan-src/pull/2816) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix count(list) regression](https://github.com/phpstan/phpstan-src/pull/2813) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [phpstan-assert with recursive count() results in type loss](https://github.com/phpstan/phpstan-src/pull/2812) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [phpstan-assert with count results in type loss](https://github.com/phpstan/phpstan-src/pull/2811) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Incremented numeric-string should change to int/float](https://github.com/phpstan/phpstan-src/pull/2797) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Non-numeric strings in pow() lead to error](https://github.com/phpstan/phpstan-src/pull/2796) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Use dedicated Type methods over `isSuperTypeOf()`](https://github.com/phpstan/phpstan-src/pull/2788) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Use dedicated Type methods over `isSuperTypeOf()`](https://github.com/phpstan/phpstan-src/pull/2787) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
