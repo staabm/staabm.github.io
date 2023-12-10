@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.18.0](https://github.com/nikic/PHP-Parser/releases/tag/v4.18.0) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.41.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.41.1) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.16](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.16) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.148](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.148) (1 day ago)
@@ -68,4 +69,3 @@
 - [staabm/oss-contribs](https://github.com/staabm/oss-contribs) - [0.1](https://github.com/staabm/oss-contribs/releases/tag/0.1) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.19.0](https://github.com/Roave/BetterReflection/releases/tag/6.19.0) (3 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-rc9](https://github.com/matomo-org/matomo/releases/tag/5.0.0-rc9) (4 days ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.17.0](https://github.com/vimeo/psalm/releases/tag/5.17.0) (6 days ago)
