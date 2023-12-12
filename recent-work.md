@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.17](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.17) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.49](https://github.com/phpstan/phpstan/releases/tag/1.10.49) (today)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.18.0](https://github.com/nikic/PHP-Parser/releases/tag/v4.18.0) (2 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.41.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.41.1) (2 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.16](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.16) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.148](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.148) (3 days ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.1](https://github.com/briannesbitt/Carbon/releases/tag/2.72.1) (4 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.6.6](https://github.com/composer/composer/releases/tag/2.6.6) (4 days ago)
