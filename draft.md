@@ -11,12 +11,11 @@ ogImage:
     fileName: "oss-contribs-published"
 ---
 
-In a recent blog post, I [looked back at 2023](https://staabm.github.io/2023/12/07/contribution-summary-2023.html) and highlighted my open source contributions.
+In a recent blog post, we had a [look back at 2023](https://staabm.github.io/2023/12/07/contribution-summary-2023.html) and my personal highlights of these open source contributions.
 
-To backup the message of the post, I used some contribution statistics similar to the ones shown below (excerpt):
+To back up the message of the post, I used some contribution statistics similar to the ones shown below (excerpt):
 
 ```
-
 | project                                      | merged pull requests  | addressed issues   |
 |----------------------------------------------|-----------------------|--------------------|
 | phpstan/phpstan*                             | ~106   (~188 in 2022) | 29    (83 in 2022) |
@@ -26,8 +25,8 @@ To backup the message of the post, I used some contribution statistics similar t
 | staabm/phpstandba                            | 44  (~300 in 2022)    | 8                  |
 | redaxo/redaxo                                | 27   (70 in 2022)     | 4                  |
 | TomasVotruba/unused-public                   | 25                    | 1                  |
-| … a lot more                                 | -                     | -                  |
-
+…
+```
 
 These numbers were crunched with a small tool: [staabm/oss-contribs](https://github.com/staabm/oss-contribs)
 
