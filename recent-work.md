@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (today)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
+- [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 weeks ago)
