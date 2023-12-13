@@ -30,7 +30,7 @@ To back up the message of the post, I used some contribution statistics similar 
 
 These numbers were crunched with a small tool: [staabm/oss-contribs](https://github.com/staabm/oss-contribs)
 
-I just decided to make this tool available for anyone, so you can generate your own statistics.
+I just decided to make this tool **available for anyone**, so you can generate your own statistics.
 
 ## simple contributions statistics generator
 
