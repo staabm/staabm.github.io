@@ -16,6 +16,7 @@ In a recent blog post, we had a [look back at 2023](https://staabm.github.io/202
 To back up the message of the post, I used some contribution statistics similar to the ones shown below (excerpt):
 
 ```
+|----------------------------------------------|-----------------------|--------------------|
 | project                                      | merged pull requests  | addressed issues   |
 |----------------------------------------------|-----------------------|--------------------|
 | phpstan/phpstan*                             | ~106   (~188 in 2022) | 29    (83 in 2022) |
