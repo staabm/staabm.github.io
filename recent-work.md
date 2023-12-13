@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/oss-contribs](https://github.com/staabm/oss-contribs) - [0.2.1](https://github.com/staabm/oss-contribs/releases/tag/0.2.1) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.149](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.149) (today)
-- [staabm/oss-contribs](https://github.com/staabm/oss-contribs) - [0.2](https://github.com/staabm/oss-contribs/releases/tag/0.2) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.50](https://github.com/phpstan/phpstan/releases/tag/1.10.50) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.17](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.17) (1 day ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.18.0](https://github.com/nikic/PHP-Parser/releases/tag/v4.18.0) (3 days ago)
