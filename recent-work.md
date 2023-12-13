@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Create 2023-12-25-oss-contribs-published.md](https://github.com/staabm/staabm.github.io/pull/107) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [Post: Open source contributions statistics generator](https://github.com/staabm/staabm.github.io/pull/107) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [*PhpDocValueRule: cheapes check first](https://github.com/phpstan/phpstan-src/pull/2824) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [array_udiff() comparator type is too strict](https://github.com/phpstan/phpstan-src/pull/2822) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix type error in PublicPropertyCollector](https://github.com/TomasVotruba/unused-public/pull/94) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
