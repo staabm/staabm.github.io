@@ -6,10 +6,12 @@ image: "images/og-images/oss-contribs-published.jpg"
 
 ogImage:
     title: "Open source contributions statistics generator"
-    subtitle: "Analyse your personal contributions to open source projects"
+    subtitle: "Analyse the impact of your personal contributions to open source projects"
     imageUrl: "https://staabm.github.io/staabm.svg"
     fileName: "oss-contribs-published"
 ---
+
+### Published: Open source contributions statistics generator
 
 In a recent blog post, we had a [look back at 2023](https://staabm.github.io/2023/12/07/contribution-summary-2023.html) and my personal highlights of these open source contributions.
 
