@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 weeks ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.149](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.149) (today)
+- [staabm/oss-contribs](https://github.com/staabm/oss-contribs) - [0.2](https://github.com/staabm/oss-contribs/releases/tag/0.2) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.50](https://github.com/phpstan/phpstan/releases/tag/1.10.50) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.17](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.17) (1 day ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.18.0](https://github.com/nikic/PHP-Parser/releases/tag/v4.18.0) (3 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.41.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.41.1) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.148](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.148) (4 days ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.1](https://github.com/briannesbitt/Carbon/releases/tag/2.72.1) (5 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.6.6](https://github.com/composer/composer/releases/tag/2.6.6) (5 days ago)
-- [staabm/oss-contribs](https://github.com/staabm/oss-contribs) - [0.1](https://github.com/staabm/oss-contribs/releases/tag/0.1) (5 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.19.0](https://github.com/Roave/BetterReflection/releases/tag/6.19.0) (6 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-rc9](https://github.com/matomo-org/matomo/releases/tag/5.0.0-rc9) (1 week ago)
