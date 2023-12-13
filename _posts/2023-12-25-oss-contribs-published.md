@@ -6,7 +6,7 @@ image: "images/og-images/oss-contribs-published.jpg"
 
 ogImage:
     title: "Open source contributions statistics generator"
-    subtitle: "Analyse your personal contributions to open source projects"
+    subtitle: "Analyse the impact of your personal contributions to open source projects"
     imageUrl: "https://staabm.github.io/staabm.svg"
     fileName: "oss-contribs-published"
 ---
