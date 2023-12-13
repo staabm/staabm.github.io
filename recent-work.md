@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (4 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
@@ -12,7 +13,6 @@
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) (1 month ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 month ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 month ago)
-- [staabm/hungry-spl-file-info](https://github.com/staabm/hungry-spl-file-info) (1 month ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [*PhpDocValueRule: cheapes check first](https://github.com/phpstan/phpstan-src/pull/2824) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [array_udiff() comparator type is too strict](https://github.com/phpstan/phpstan-src/pull/2822) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix type error in PublicPropertyCollector](https://github.com/TomasVotruba/unused-public/pull/94) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Cleanup PHPStan ignore rules](https://github.com/TomasVotruba/unused-public/pull/93) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Fix type error in CallUserFuncCollector](https://github.com/TomasVotruba/unused-public/pull/92) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
@@ -53,8 +55,6 @@
 - [Remove return type in case of never in RemoveUselessReturnTagRector](https://github.com/rectorphp/rector-src/pull/5323) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [[DeadCode] Cheap check first](https://github.com/rectorphp/rector-src/pull/5322) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Create README.md](https://github.com/staabm/oss-contribs/pull/1) on [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (1 week ago)
-- [Skip RenameMethodRector in never](https://github.com/rectorphp/rector-src/pull/5305) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [Fix !isset() with ArrayDimFetch](https://github.com/phpstan/phpstan-src/pull/2798) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
