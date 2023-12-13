@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix type error in PublicPropertyCollector](https://github.com/TomasVotruba/unused-public/pull/94) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
+- [Cleanup PHPStan ignore rules](https://github.com/TomasVotruba/unused-public/pull/93) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
+- [Fix type error in CallUserFuncCollector](https://github.com/TomasVotruba/unused-public/pull/92) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Simplify default-return path in Extensions](https://github.com/phpstan/phpstan-src/pull/2816) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Fix count(list) regression](https://github.com/phpstan/phpstan-src/pull/2813) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [phpstan-assert with recursive count() results in type loss](https://github.com/phpstan/phpstan-src/pull/2812) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
@@ -52,9 +55,6 @@
 - [Create README.md](https://github.com/staabm/oss-contribs/pull/1) on [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (1 week ago)
 - [Skip RenameMethodRector in never](https://github.com/rectorphp/rector-src/pull/5305) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Fix !isset() with ArrayDimFetch](https://github.com/phpstan/phpstan-src/pull/2798) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Incremented numeric-string should change to int/float](https://github.com/phpstan/phpstan-src/pull/2797) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [Non-numeric strings in pow() lead to error](https://github.com/phpstan/phpstan-src/pull/2796) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [Use dedicated Type methods over `isSuperTypeOf()`](https://github.com/phpstan/phpstan-src/pull/2788) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
