@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/2827) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/2826) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Post: Open source contributions statistics generator](https://github.com/staabm/staabm.github.io/pull/107) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [*PhpDocValueRule: cheapes check first](https://github.com/phpstan/phpstan-src/pull/2824) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [array_udiff() comparator type is too strict](https://github.com/phpstan/phpstan-src/pull/2822) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -53,8 +55,6 @@
 - [Update 2023-12-07-contribution-summary-2023.md](https://github.com/staabm/staabm.github.io/pull/106) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 - [Update 2023-12-07-contribution-summary.md](https://github.com/staabm/staabm.github.io/pull/105) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 - [Fix store-002.properties example comments](https://github.com/JumpMind/symmetric-ds/pull/191) on [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) (6 days ago)
-- [Remove return type in case of never in RemoveUselessReturnTagRector](https://github.com/rectorphp/rector-src/pull/5323) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [[DeadCode] Cheap check first](https://github.com/rectorphp/rector-src/pull/5322) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
