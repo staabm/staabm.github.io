@@ -4,11 +4,11 @@
 #### 💻 Check out what I'm currently working on
 
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 weeks ago)
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [composer normalize](https://github.com/FriendsOfREDAXO/rexstan/pull/632) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [support comments with expiration date](https://github.com/FriendsOfREDAXO/rexstan/pull/631) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [Support PHP 7.4](https://github.com/staabm/phpstan-todo-by/pull/2) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [CI setup](https://github.com/staabm/phpstan-todo-by/pull/1) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/2827) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/2826) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -52,17 +55,14 @@
 - [Simplify default-return path in Extensions](https://github.com/phpstan/phpstan-src/pull/2816) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Fix count(list) regression](https://github.com/phpstan/phpstan-src/pull/2813) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [phpstan-assert with recursive count() results in type loss](https://github.com/phpstan/phpstan-src/pull/2812) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [phpstan-assert with count results in type loss](https://github.com/phpstan/phpstan-src/pull/2811) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Update 2023-12-07-contribution-summary-2023.md](https://github.com/staabm/staabm.github.io/pull/106) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
-- [Update 2023-12-07-contribution-summary.md](https://github.com/staabm/staabm.github.io/pull/105) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.150](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.150) (today)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.1](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.1) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.18](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.18) (today)
 - [staabm/oss-contribs](https://github.com/staabm/oss-contribs) - [0.2.1](https://github.com/staabm/oss-contribs/releases/tag/0.2.1) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.149](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.149) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.50](https://github.com/phpstan/phpstan/releases/tag/1.10.50) (1 day ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.18.0](https://github.com/nikic/PHP-Parser/releases/tag/v4.18.0) (4 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.41.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.41.1) (4 days ago)
