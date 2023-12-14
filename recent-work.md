@@ -3,11 +3,11 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (today)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (1 day ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 weeks ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) (1 month ago)
@@ -17,11 +17,11 @@
 
 #### 📜 My recent blog posts
 
-- [Contribution Summary 2023](https://staabm.github.io/2023/12/07/contribution-summary-2023.html) (6 days ago)
+- [Contribution Summary 2023](https://staabm.github.io/2023/12/07/contribution-summary-2023.html) (1 week ago)
 - [Phpstan Filter Baseline](https://staabm.github.io/2023/10/30/phpstan-filter-baseline.html) (1 month ago)
 - [Phpstan Result Cache Gotchas](https://staabm.github.io/2023/10/21/phpstan-result-cache-gotchas.html) (1 month ago)
 - [Rector In Legacy Projects](https://staabm.github.io/2023/07/23/rector-in-legacy-projects.html) (4 months ago)
-- [Doctor Rst Speedup](https://staabm.github.io/2023/05/18/doctor-rst-speedup.html) (6 months ago)
+- [Doctor Rst Speedup](https://staabm.github.io/2023/05/18/doctor-rst-speedup.html) (7 months ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
@@ -40,32 +40,32 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/2827) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/2826) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Post: Open source contributions statistics generator](https://github.com/staabm/staabm.github.io/pull/107) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [*PhpDocValueRule: cheapes check first](https://github.com/phpstan/phpstan-src/pull/2824) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [array_udiff() comparator type is too strict](https://github.com/phpstan/phpstan-src/pull/2822) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Fix type error in PublicPropertyCollector](https://github.com/TomasVotruba/unused-public/pull/94) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
-- [Cleanup PHPStan ignore rules](https://github.com/TomasVotruba/unused-public/pull/93) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
-- [Fix type error in CallUserFuncCollector](https://github.com/TomasVotruba/unused-public/pull/92) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
-- [Simplify default-return path in Extensions](https://github.com/phpstan/phpstan-src/pull/2816) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Fix count(list) regression](https://github.com/phpstan/phpstan-src/pull/2813) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [phpstan-assert with recursive count() results in type loss](https://github.com/phpstan/phpstan-src/pull/2812) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [phpstan-assert with count results in type loss](https://github.com/phpstan/phpstan-src/pull/2811) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Update 2023-12-07-contribution-summary-2023.md](https://github.com/staabm/staabm.github.io/pull/106) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
-- [Update 2023-12-07-contribution-summary.md](https://github.com/staabm/staabm.github.io/pull/105) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
-- [Fix store-002.properties example comments](https://github.com/JumpMind/symmetric-ds/pull/191) on [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) (6 days ago)
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/2827) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/2826) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Post: Open source contributions statistics generator](https://github.com/staabm/staabm.github.io/pull/107) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [*PhpDocValueRule: cheapes check first](https://github.com/phpstan/phpstan-src/pull/2824) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [array_udiff() comparator type is too strict](https://github.com/phpstan/phpstan-src/pull/2822) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Fix type error in PublicPropertyCollector](https://github.com/TomasVotruba/unused-public/pull/94) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
+- [Cleanup PHPStan ignore rules](https://github.com/TomasVotruba/unused-public/pull/93) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
+- [Fix type error in CallUserFuncCollector](https://github.com/TomasVotruba/unused-public/pull/92) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
+- [Simplify default-return path in Extensions](https://github.com/phpstan/phpstan-src/pull/2816) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Fix count(list) regression](https://github.com/phpstan/phpstan-src/pull/2813) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [phpstan-assert with recursive count() results in type loss](https://github.com/phpstan/phpstan-src/pull/2812) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [phpstan-assert with count results in type loss](https://github.com/phpstan/phpstan-src/pull/2811) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Update 2023-12-07-contribution-summary-2023.md](https://github.com/staabm/staabm.github.io/pull/106) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
+- [Update 2023-12-07-contribution-summary.md](https://github.com/staabm/staabm.github.io/pull/105) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
+- [Fix store-002.properties example comments](https://github.com/JumpMind/symmetric-ds/pull/191) on [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/oss-contribs](https://github.com/staabm/oss-contribs) - [0.2.1](https://github.com/staabm/oss-contribs/releases/tag/0.2.1) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.149](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.149) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.50](https://github.com/phpstan/phpstan/releases/tag/1.10.50) (today)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.17](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.17) (1 day ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.18.0](https://github.com/nikic/PHP-Parser/releases/tag/v4.18.0) (3 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.41.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.41.1) (3 days ago)
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.1](https://github.com/briannesbitt/Carbon/releases/tag/2.72.1) (5 days ago)
-- [composer/composer](https://github.com/composer/composer) - [2.6.6](https://github.com/composer/composer/releases/tag/2.6.6) (5 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.19.0](https://github.com/Roave/BetterReflection/releases/tag/6.19.0) (6 days ago)
+- [staabm/oss-contribs](https://github.com/staabm/oss-contribs) - [0.2.1](https://github.com/staabm/oss-contribs/releases/tag/0.2.1) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.149](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.149) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.50](https://github.com/phpstan/phpstan/releases/tag/1.10.50) (1 day ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.17](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.17) (2 days ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.18.0](https://github.com/nikic/PHP-Parser/releases/tag/v4.18.0) (4 days ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.41.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.41.1) (4 days ago)
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.1](https://github.com/briannesbitt/Carbon/releases/tag/2.72.1) (6 days ago)
+- [composer/composer](https://github.com/composer/composer) - [2.6.6](https://github.com/composer/composer/releases/tag/2.6.6) (6 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.19.0](https://github.com/Roave/BetterReflection/releases/tag/6.19.0) (1 week ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0-rc9](https://github.com/matomo-org/matomo/releases/tag/5.0.0-rc9) (1 week ago)
