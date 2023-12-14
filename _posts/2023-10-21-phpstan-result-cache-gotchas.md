@@ -198,6 +198,8 @@ In case you are working with long running branches you may consider using separa
       key: "result-cache-v1-{% raw %}${{ matrix.php-version }}{% endraw %}-{% raw %}${{ github.run_id }}{% endraw %}"
 ```
 
+**Update:** The above tip regarding GitHub Actions cache handling works also for other tools, like e.g. RectorPHP.
+
 ## Give back
 
 In case you find [my PHPStan contributions](https://github.com/phpstan/phpstan-src/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Astaabm+is%3Amerged) and/or this content useful, [please consider supporting my open source work](https://github.com/sponsors/staabm).
