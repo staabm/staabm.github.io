@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Narrow ReflectionEnum::getBackingType() after ReflectionEnum::isBacked()](https://github.com/phpstan/phpstan-src/pull/2830) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Generate non-ignorable errors by default](https://github.com/staabm/phpstan-todo-by/pull/8) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Create LICENSE](https://github.com/TomasVotruba/lines/pull/37) on [TomasVotruba/lines](https://github.com/TomasVotruba/lines) (1 day ago)
 - [Create LICENSE](https://github.com/TomasVotruba/cognitive-complexity/pull/5) on [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (1 day ago)
@@ -54,7 +55,6 @@
 - [Post: Open source contributions statistics generator](https://github.com/staabm/staabm.github.io/pull/107) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
 - [*PhpDocValueRule: cheapes check first](https://github.com/phpstan/phpstan-src/pull/2824) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [array_udiff() comparator type is too strict](https://github.com/phpstan/phpstan-src/pull/2822) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Fix type error in PublicPropertyCollector](https://github.com/TomasVotruba/unused-public/pull/94) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
