@@ -59,6 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.18.0](https://github.com/vimeo/psalm/releases/tag/5.18.0) (today)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.24.5](https://github.com/phpstan/phpdoc-parser/releases/tag/1.24.5) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.2](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.2) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.150](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.150) (2 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.18](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.18) (2 days ago)
@@ -67,5 +69,3 @@
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.18.0](https://github.com/nikic/PHP-Parser/releases/tag/v4.18.0) (6 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.41.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.41.1) (6 days ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.1](https://github.com/briannesbitt/Carbon/releases/tag/2.72.1) (1 week ago)
-- [composer/composer](https://github.com/composer/composer) - [2.6.6](https://github.com/composer/composer/releases/tag/2.6.6) (1 week ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.19.0](https://github.com/Roave/BetterReflection/releases/tag/6.19.0) (1 week ago)
