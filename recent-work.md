@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (1 day ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (1 day ago)
 - [TomasVotruba/lines](https://github.com/TomasVotruba/lines) (1 day ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Generate non-ignorable errors by default](https://github.com/staabm/phpstan-todo-by/pull/8) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Create LICENSE](https://github.com/TomasVotruba/lines/pull/37) on [TomasVotruba/lines](https://github.com/TomasVotruba/lines) (1 day ago)
 - [Create LICENSE](https://github.com/TomasVotruba/cognitive-complexity/pull/5) on [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (1 day ago)
 - [Create LICENSE](https://github.com/TomasVotruba/type-coverage/pull/25) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (1 day ago)
@@ -54,14 +55,13 @@
 - [*PhpDocValueRule: cheapes check first](https://github.com/phpstan/phpstan-src/pull/2824) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [array_udiff() comparator type is too strict](https://github.com/phpstan/phpstan-src/pull/2822) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Fix type error in PublicPropertyCollector](https://github.com/TomasVotruba/unused-public/pull/94) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
-- [Cleanup PHPStan ignore rules](https://github.com/TomasVotruba/unused-public/pull/93) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.3](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.3) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.18.0](https://github.com/vimeo/psalm/releases/tag/5.18.0) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.24.5](https://github.com/phpstan/phpdoc-parser/releases/tag/1.24.5) (today)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.2](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.2) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.150](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.150) (2 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.18](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.18) (2 days ago)
 - [staabm/oss-contribs](https://github.com/staabm/oss-contribs) - [0.2.1](https://github.com/staabm/oss-contribs/releases/tag/0.2.1) (3 days ago)
