@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.5](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.5) (today)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.6](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.6) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.20.0](https://github.com/Roave/BetterReflection/releases/tag/6.20.0) (1 day ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.18.0](https://github.com/vimeo/psalm/releases/tag/5.18.0) (1 day ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.24.5](https://github.com/phpstan/phpdoc-parser/releases/tag/1.24.5) (1 day ago)
