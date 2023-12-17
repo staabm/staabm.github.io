@@ -36,12 +36,12 @@ function doFoo() {
 
 #### Supported todo formats
 
-In the very first release we started with a todo format compatible with the project this extension took inspiration from.
+In the very first release we started with a todo format compatible with the project this extension took inspiration from (see example above).
 
-Since then we added support for more formats, because of popular demand.
+Since then we added support for more formats, because of popular demand:
 - the `todo`, `TODO`, `tOdO` keyword is now case-insensitive
 - the `todo` keyword can be suffixed or prefixed by a `@` character
-- a username might be included after the `@`
+- a username might be included after the `todo@`
 - the comment might be mixed with `:` or `-` characters
 - multi line `/* */` and `/** */` comments are supported
 
@@ -63,6 +63,8 @@ examples supported as of version 0.1.5:
  *   more comment data
  */
 ```
+
+Find more details and configuration options in the [projects README](https://github.com/staabm/phpstan-todo-by/blob/main/README.md).
 
 ## Give back
 
