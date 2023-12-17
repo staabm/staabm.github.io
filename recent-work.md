@@ -17,7 +17,7 @@
 
 #### 📜 My recent blog posts
 
-- [Published: phpstan-todo-by](https://staabm.github.io/2023/12/17/oss-contribs-published.html) (today)
+- [Published: phpstan-todo-by](https://staabm.github.io/2023/12/17/phpstan-todo-by-published.html) (today)
 - [Contribution Summary 2023](https://staabm.github.io/2023/12/07/contribution-summary-2023.html) (1 week ago)
 - [Phpstan Filter Baseline](https://staabm.github.io/2023/10/30/phpstan-filter-baseline.html) (1 month ago)
 - [Phpstan Result Cache Gotchas](https://staabm.github.io/2023/10/21/phpstan-result-cache-gotchas.html) (1 month ago)
