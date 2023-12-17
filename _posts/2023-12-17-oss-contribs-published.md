@@ -48,6 +48,7 @@ Since then we added support for more formats, because of popular demand:
 examples supported as of version 0.1.5:
 
 ```php
+// todo 2023-12-14
 // @todo: 2023-12-14 fix it
 // @todo 2023-12-14: fix it
 // todo - 2023-12-14 fix it
