@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Published: phpstan-todo-by](https://github.com/staabm/staabm.github.io/pull/108) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [added a few third party rule packages](https://github.com/phpstan/phpstan/pull/10318) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Narrow ReflectionEnum::getBackingType() after ReflectionEnum::isBacked()](https://github.com/phpstan/phpstan-src/pull/2830) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Generate non-ignorable errors by default](https://github.com/staabm/phpstan-todo-by/pull/8) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
@@ -54,7 +55,6 @@
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/2827) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/2826) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Post: Open source contributions statistics generator](https://github.com/staabm/staabm.github.io/pull/107) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
-- [*PhpDocValueRule: cheapes check first](https://github.com/phpstan/phpstan-src/pull/2824) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
