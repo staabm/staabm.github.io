@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (3 days ago)
 - [TomasVotruba/lines](https://github.com/TomasVotruba/lines) (3 days ago)
 - [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (3 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
+- [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (3 days ago)
 - [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Rename: TodoByRule -&gt; TodoByDateRule](https://github.com/staabm/phpstan-todo-by/pull/11) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Implemented reference time parameter](https://github.com/staabm/phpstan-todo-by/pull/10) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [Published: phpstan-todo-by](https://github.com/staabm/staabm.github.io/pull/108) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [added a few third party rule packages](https://github.com/phpstan/phpstan/pull/10318) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
@@ -54,16 +55,15 @@
 - [Support PHP 7.4](https://github.com/staabm/phpstan-todo-by/pull/2) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
 - [CI setup](https://github.com/staabm/phpstan-todo-by/pull/1) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/2827) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/2826) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.151](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.151) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.6](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.6) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.20.0](https://github.com/Roave/BetterReflection/releases/tag/6.20.0) (2 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.18.0](https://github.com/vimeo/psalm/releases/tag/5.18.0) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.24.5](https://github.com/phpstan/phpdoc-parser/releases/tag/1.24.5) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.150](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.150) (4 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.18](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.18) (4 days ago)
 - [staabm/oss-contribs](https://github.com/staabm/oss-contribs) - [0.2.1](https://github.com/staabm/oss-contribs/releases/tag/0.2.1) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.50](https://github.com/phpstan/phpstan/releases/tag/1.10.50) (5 days ago)
