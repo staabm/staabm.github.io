@@ -4,8 +4,8 @@
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [TomasVotruba/lines](https://github.com/TomasVotruba/lines) (3 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix rule message](https://github.com/staabm/phpstan-todo-by/pull/13) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Implement TodoByVersionRule](https://github.com/staabm/phpstan-todo-by/pull/12) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Rename: TodoByRule -&gt; TodoByDateRule](https://github.com/staabm/phpstan-todo-by/pull/11) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Implemented reference time parameter](https://github.com/staabm/phpstan-todo-by/pull/10) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
@@ -54,7 +55,6 @@
 - [composer normalize](https://github.com/FriendsOfREDAXO/rexstan/pull/632) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [support comments with expiration date](https://github.com/FriendsOfREDAXO/rexstan/pull/631) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [Support PHP 7.4](https://github.com/staabm/phpstan-todo-by/pull/2) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
-- [CI setup](https://github.com/staabm/phpstan-todo-by/pull/1) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
