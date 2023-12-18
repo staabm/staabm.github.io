@@ -13,7 +13,7 @@ ogImage:
 
 ### Published: phpstan-todo-by
 
-Inspired by [parker-codes/todo-by](https://github.com/parker-codes/todo_by) I recently created [phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - a new PHPStan extension to check for TODO comments with expiration date.
+Inspired by [parker-codes/todo-by](https://github.com/parker-codes/todo_by) I recently created [phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - a new PHPStan extension to check for TODO comments with expiration date/version.
 
 The [announcement tweet](https://twitter.com/markusstaab/status/1735393080704934343) / [toot](https://phpc.social/@markusstaab/111580606678002075) got a lot of attention and I received a lot of positive feedback.
 If you did not yet re-tweeted it already, please do so now :-).
@@ -31,6 +31,11 @@ function doFoo() {
 
 }
 
+// TODO: <1.0.0 This has to be in the first major release
+function doBar() {
+
+}
+
 ```
 
 
@@ -45,26 +50,7 @@ Since then we added support for more formats, because of popular demand:
 - the comment might be mixed with `:` or `-` characters
 - multi line `/* */` and `/** */` comments are supported
 - dateformat is `YYYY-MM-DD`
-
-examples supported as of version 0.1.5:
-
-```php
-// todo 2023-12-14
-// @todo: 2023-12-14 fix it
-// @todo 2023-12-14: fix it
-// todo - 2023-12-14 fix it
-// todo 2023-12-14 - fix it
-
-// TODO@lars 2023-12-14 - fix it
-// TODO@lars: 2023-12-14 - fix it
-
-/*
- * other text
- *
- * @todo 2023-12-14 classic multi line comment
- *   more comment data
- */
-```
+- SINCE 0.1.7: additional support for *semver expiration constraints*
 
 Find more details and configuration options in the [projects README](https://github.com/staabm/phpstan-todo-by/blob/main/README.md).
 
