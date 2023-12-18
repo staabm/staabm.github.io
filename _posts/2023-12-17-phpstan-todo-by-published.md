@@ -50,7 +50,7 @@ Since then we added support for more formats, because of popular demand:
 - the comment might be mixed with `:` or `-` characters
 - multi line `/* */` and `/** */` comments are supported
 - dateformat is `YYYY-MM-DD`
-- support for **semver expiration constraints** (starting with 0.1.7)
+- support for **semantiv version** expiration constraints (starting with 0.1.7)
 
 Find more details and configuration options in the [projects README](https://github.com/staabm/phpstan-todo-by/blob/main/README.md).
 
