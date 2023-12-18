@@ -44,6 +44,7 @@ Since then we added support for more formats, because of popular demand:
 - a username might be included after the `todo@`
 - the comment might be mixed with `:` or `-` characters
 - multi line `/* */` and `/** */` comments are supported
+- dateformat is `YYYY-MM-DD`
 
 examples supported as of version 0.1.5:
 
