@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement TodoByVersionRule](https://github.com/staabm/phpstan-todo-by/pull/12) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Rename: TodoByRule -&gt; TodoByDateRule](https://github.com/staabm/phpstan-todo-by/pull/11) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Implemented reference time parameter](https://github.com/staabm/phpstan-todo-by/pull/10) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [Published: phpstan-todo-by](https://github.com/staabm/staabm.github.io/pull/108) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
@@ -54,7 +55,6 @@
 - [support comments with expiration date](https://github.com/FriendsOfREDAXO/rexstan/pull/631) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [Support PHP 7.4](https://github.com/staabm/phpstan-todo-by/pull/2) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
 - [CI setup](https://github.com/staabm/phpstan-todo-by/pull/1) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/2827) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
