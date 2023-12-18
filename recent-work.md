@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [More precise `RecursiveIteratorIterator::__construct()` types](https://github.com/phpstan/phpstan-src/pull/2835) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [fetch tags instead of fetch-depth: 0](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/49) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (today)
 - [Fix rule message](https://github.com/staabm/phpstan-todo-by/pull/13) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Implement TodoByVersionRule](https://github.com/staabm/phpstan-todo-by/pull/12) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
@@ -54,7 +55,6 @@
 - [Create LICENSE](https://github.com/TomasVotruba/type-coverage/pull/25) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (3 days ago)
 - [Create LICENSE](https://github.com/TomasVotruba/unused-public/pull/96) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
 - [composer normalize](https://github.com/FriendsOfREDAXO/rexstan/pull/632) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [support comments with expiration date](https://github.com/FriendsOfREDAXO/rexstan/pull/631) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
