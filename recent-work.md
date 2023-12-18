@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fetch tags instead of fetch-depth: 0](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/49) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (today)
 - [Fix rule message](https://github.com/staabm/phpstan-todo-by/pull/13) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Implement TodoByVersionRule](https://github.com/staabm/phpstan-todo-by/pull/12) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Rename: TodoByRule -&gt; TodoByDateRule](https://github.com/staabm/phpstan-todo-by/pull/11) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
@@ -54,13 +55,12 @@
 - [Create LICENSE](https://github.com/TomasVotruba/unused-public/pull/96) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
 - [composer normalize](https://github.com/FriendsOfREDAXO/rexstan/pull/632) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [support comments with expiration date](https://github.com/FriendsOfREDAXO/rexstan/pull/631) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [Support PHP 7.4](https://github.com/staabm/phpstan-todo-by/pull/2) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.7](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.7) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.151](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.151) (today)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.6](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.6) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.20.0](https://github.com/Roave/BetterReflection/releases/tag/6.20.0) (2 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.18.0](https://github.com/vimeo/psalm/releases/tag/5.18.0) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.24.5](https://github.com/phpstan/phpdoc-parser/releases/tag/1.24.5) (2 days ago)
