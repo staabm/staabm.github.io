@@ -2,9 +2,9 @@
 
 My name is Markus Staab and I am a open source enthusiast since 2008 ✨.
 
-<img width="200" alt="Markus Staab - open-source lover, creator of staabm/phpstan-dba, rexstan and rexfactor." style="float: right;" src="https://user-images.githubusercontent.com/120441/230766751-c3d8e9ca-0c05-4c2f-b920-ef0e39930e4b.png">
+<img width="200" alt="Markus Staab - open-source lover, creator of staabm/phpstan-dba, staabm/phpstan-todo-by, rexstan and rexfactor." style="float: right;" src="https://user-images.githubusercontent.com/120441/230766751-c3d8e9ca-0c05-4c2f-b920-ef0e39930e4b.png">
 
-I am the developer behind [cs2pr](https://staabm.github.io/2022/04/03/annotate-pull-request-from-checkstyle.html), [phpstan-dba](https://staabm.github.io/2022/05/01/phpstan-dba.html), [rexstan](https://staabm.github.io/2022/06/18/rexstan-REDAXO-AddOn.html) and a few more projects.
+I am the developer behind [cs2pr](https://staabm.github.io/2022/04/03/annotate-pull-request-from-checkstyle.html), [phpstan-dba](https://staabm.github.io/2022/05/01/phpstan-dba.html), [phpstan-todo-by](https://staabm.github.io/2023/12/17/phpstan-todo-by-published.html), [rexstan](https://staabm.github.io/2022/06/18/rexstan-REDAXO-AddOn.html) and a few more projects.
 
 For fun and educating myself I actively contribute to various projects - [REDAXO](https://redaxo.org/), [filp/whoops](https://github.com/filp/whoops), [sabre/dav](https://github.com/sabre-io/dav), [stomp-php](https://github.com/stomp-php/stomp-php), [propelorm](https://github.com/propelorm) - to name a few of them.
 
