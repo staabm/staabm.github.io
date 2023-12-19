@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [TomasVotruba/lines](https://github.com/TomasVotruba/lines) (4 days ago)
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [CI: auto csfixer](https://github.com/staabm/phpstan-todo-by/pull/17) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
+- [Setup php-cs-fixer](https://github.com/staabm/phpstan-todo-by/pull/16) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
+- [Fix laziness of TagFetcher](https://github.com/staabm/phpstan-todo-by/pull/15) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [More precise `RecursiveIteratorIterator::__construct()` types](https://github.com/phpstan/phpstan-src/pull/2835) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [fetch tags instead of fetch-depth: 0](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/49) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (1 day ago)
 - [Fix rule message](https://github.com/staabm/phpstan-todo-by/pull/13) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
@@ -52,15 +55,12 @@
 - [Generate non-ignorable errors by default](https://github.com/staabm/phpstan-todo-by/pull/8) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
 - [Create LICENSE](https://github.com/TomasVotruba/lines/pull/37) on [TomasVotruba/lines](https://github.com/TomasVotruba/lines) (4 days ago)
 - [Create LICENSE](https://github.com/TomasVotruba/cognitive-complexity/pull/5) on [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (4 days ago)
-- [Create LICENSE](https://github.com/TomasVotruba/type-coverage/pull/25) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (4 days ago)
-- [Create LICENSE](https://github.com/TomasVotruba/unused-public/pull/96) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
-- [composer normalize](https://github.com/FriendsOfREDAXO/rexstan/pull/632) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.8](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.8) (today)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0](https://github.com/matomo-org/matomo/releases/tag/5.0.0) (today)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.7](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.7) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.151](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.151) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.20.0](https://github.com/Roave/BetterReflection/releases/tag/6.20.0) (3 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.18.0](https://github.com/vimeo/psalm/releases/tag/5.18.0) (3 days ago)
