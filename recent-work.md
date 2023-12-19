@@ -3,14 +3,14 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
 - [TomasVotruba/lines](https://github.com/TomasVotruba/lines) (4 days ago)
 - [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (4 days ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
 - [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (4 days ago)
 - [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (4 days ago)
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [TodoByVersionRule UX: added configuration tip](https://github.com/staabm/phpstan-todo-by/pull/18) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [CI: auto csfixer](https://github.com/staabm/phpstan-todo-by/pull/17) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Setup php-cs-fixer](https://github.com/staabm/phpstan-todo-by/pull/16) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Fix laziness of TagFetcher](https://github.com/staabm/phpstan-todo-by/pull/15) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
@@ -54,12 +55,11 @@
 - [Narrow ReflectionEnum::getBackingType() after ReflectionEnum::isBacked()](https://github.com/phpstan/phpstan-src/pull/2830) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Generate non-ignorable errors by default](https://github.com/staabm/phpstan-todo-by/pull/8) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
 - [Create LICENSE](https://github.com/TomasVotruba/lines/pull/37) on [TomasVotruba/lines](https://github.com/TomasVotruba/lines) (4 days ago)
-- [Create LICENSE](https://github.com/TomasVotruba/cognitive-complexity/pull/5) on [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.8](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.8) (today)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.9](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.9) (today)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0](https://github.com/matomo-org/matomo/releases/tag/5.0.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.151](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.151) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.20.0](https://github.com/Roave/BetterReflection/releases/tag/6.20.0) (3 days ago)
