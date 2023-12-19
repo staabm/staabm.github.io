@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Centralize Composer\Semver\VersionParser dependency in VersionNormalizer](https://github.com/staabm/phpstan-todo-by/pull/22) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
+- [Support less strict versioning schemes](https://github.com/staabm/phpstan-todo-by/pull/21) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Implement multi-git repo support](https://github.com/staabm/phpstan-todo-by/pull/20) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [TodoByVersionRule UX: added configuration tip](https://github.com/staabm/phpstan-todo-by/pull/18) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [CI: auto csfixer](https://github.com/staabm/phpstan-todo-by/pull/17) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
@@ -53,13 +55,12 @@
 - [Implemented reference time parameter](https://github.com/staabm/phpstan-todo-by/pull/10) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
 - [Published: phpstan-todo-by](https://github.com/staabm/staabm.github.io/pull/108) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [added a few third party rule packages](https://github.com/phpstan/phpstan/pull/10318) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
-- [Narrow ReflectionEnum::getBackingType() after ReflectionEnum::isBacked()](https://github.com/phpstan/phpstan-src/pull/2830) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Generate non-ignorable errors by default](https://github.com/staabm/phpstan-todo-by/pull/8) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.9](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.9) (today)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.10](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.10) (today)
+- [mautic/mautic](https://github.com/mautic/mautic) - [5.0.0-rc2](https://github.com/mautic/mautic/releases/tag/5.0.0-rc2) (today)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0](https://github.com/matomo-org/matomo/releases/tag/5.0.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.151](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.151) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.20.0](https://github.com/Roave/BetterReflection/releases/tag/6.20.0) (3 days ago)
@@ -68,4 +69,3 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.18](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.18) (5 days ago)
 - [staabm/oss-contribs](https://github.com/staabm/oss-contribs) - [0.2.1](https://github.com/staabm/oss-contribs/releases/tag/0.2.1) (6 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.50](https://github.com/phpstan/phpstan/releases/tag/1.10.50) (6 days ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.18.0](https://github.com/nikic/PHP-Parser/releases/tag/v4.18.0) (1 week ago)
