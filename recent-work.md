@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (2 days ago)
@@ -40,6 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Test less strict version expiration](https://github.com/staabm/phpstan-todo-by/pull/30) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
+- [Support pre-release versions](https://github.com/staabm/phpstan-todo-by/pull/29) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
+- [Refactor common logic into CommentMatcher](https://github.com/staabm/phpstan-todo-by/pull/28) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
+- [Refactor common logic into ExpiredCommentErrorBuilder](https://github.com/staabm/phpstan-todo-by/pull/27) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Better error message in multi git repo fetch](https://github.com/staabm/phpstan-todo-by/pull/25) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [Composer normalize](https://github.com/staabm/phpstan-todo-by/pull/24) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [Move utility classes into separate folder](https://github.com/staabm/phpstan-todo-by/pull/23) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
@@ -51,10 +55,6 @@
 - [Setup php-cs-fixer](https://github.com/staabm/phpstan-todo-by/pull/16) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [Fix laziness of TagFetcher](https://github.com/staabm/phpstan-todo-by/pull/15) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [More precise `RecursiveIteratorIterator::__construct()` types](https://github.com/phpstan/phpstan-src/pull/2835) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [fetch tags instead of fetch-depth: 0](https://github.com/WyriHaximus/github-action-get-previous-tag/pull/49) on [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (2 days ago)
-- [Fix rule message](https://github.com/staabm/phpstan-todo-by/pull/13) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
-- [Implement TodoByVersionRule](https://github.com/staabm/phpstan-todo-by/pull/12) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
-- [Rename: TodoByRule -&gt; TodoByDateRule](https://github.com/staabm/phpstan-todo-by/pull/11) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
