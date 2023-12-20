@@ -4,7 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove VersionNormalizer](https://github.com/staabm/phpstan-todo-by/pull/36) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Use consistent regex](https://github.com/staabm/phpstan-todo-by/pull/35) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [TodoByVersionRule: Fix reversed expectations](https://github.com/staabm/phpstan-todo-by/pull/34) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [added staabm/phpstan-todo-by example](https://github.com/parker-codes/todo_by/pull/6) on [parker-codes/todo_by](https://github.com/parker-codes/todo_by) (today)
@@ -54,12 +55,11 @@
 - [Move utility classes into separate folder](https://github.com/staabm/phpstan-todo-by/pull/23) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [Centralize Composer\Semver\VersionParser dependency in VersionNormalizer](https://github.com/staabm/phpstan-todo-by/pull/22) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [Support less strict versioning schemes](https://github.com/staabm/phpstan-todo-by/pull/21) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
-- [Implement multi-git repo support](https://github.com/staabm/phpstan-todo-by/pull/20) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.11](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.11) (today)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.12](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.12) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.152](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.152) (1 day ago)
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.0.0-rc2](https://github.com/mautic/mautic/releases/tag/5.0.0-rc2) (1 day ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0](https://github.com/matomo-org/matomo/releases/tag/5.0.0) (1 day ago)
