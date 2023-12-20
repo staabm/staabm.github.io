@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use consistent regex](https://github.com/staabm/phpstan-todo-by/pull/35) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
+- [TodoByVersionRule: Fix reversed expectations](https://github.com/staabm/phpstan-todo-by/pull/34) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [added staabm/phpstan-todo-by example](https://github.com/parker-codes/todo_by/pull/6) on [parker-codes/todo_by](https://github.com/parker-codes/todo_by) (today)
 - [Prepare readme for more constraint types](https://github.com/staabm/phpstan-todo-by/pull/33) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Expire comment by composer dependency package version](https://github.com/staabm/phpstan-todo-by/pull/32) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
@@ -53,8 +55,6 @@
 - [Centralize Composer\Semver\VersionParser dependency in VersionNormalizer](https://github.com/staabm/phpstan-todo-by/pull/22) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [Support less strict versioning schemes](https://github.com/staabm/phpstan-todo-by/pull/21) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [Implement multi-git repo support](https://github.com/staabm/phpstan-todo-by/pull/20) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
-- [TodoByVersionRule UX: added configuration tip](https://github.com/staabm/phpstan-todo-by/pull/18) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
-- [CI: auto csfixer](https://github.com/staabm/phpstan-todo-by/pull/17) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
