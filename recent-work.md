@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Expire comment by package version](https://github.com/staabm/phpstan-todo-by/pull/32) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Test less strict version expiration](https://github.com/staabm/phpstan-todo-by/pull/30) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Support pre-release versions](https://github.com/staabm/phpstan-todo-by/pull/29) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Refactor common logic into CommentMatcher](https://github.com/staabm/phpstan-todo-by/pull/28) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
@@ -54,7 +55,6 @@
 - [CI: auto csfixer](https://github.com/staabm/phpstan-todo-by/pull/17) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [Setup php-cs-fixer](https://github.com/staabm/phpstan-todo-by/pull/16) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [Fix laziness of TagFetcher](https://github.com/staabm/phpstan-todo-by/pull/15) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
-- [More precise `RecursiveIteratorIterator::__construct()` types](https://github.com/phpstan/phpstan-src/pull/2835) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
