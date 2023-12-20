@@ -40,7 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Expire comment by package version](https://github.com/staabm/phpstan-todo-by/pull/32) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
+- [Prepare readme for more constraint types](https://github.com/staabm/phpstan-todo-by/pull/33) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
+- [Expire comment by composer dependency package version](https://github.com/staabm/phpstan-todo-by/pull/32) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Test less strict version expiration](https://github.com/staabm/phpstan-todo-by/pull/30) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Support pre-release versions](https://github.com/staabm/phpstan-todo-by/pull/29) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Refactor common logic into CommentMatcher](https://github.com/staabm/phpstan-todo-by/pull/28) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
@@ -54,7 +55,6 @@
 - [TodoByVersionRule UX: added configuration tip](https://github.com/staabm/phpstan-todo-by/pull/18) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [CI: auto csfixer](https://github.com/staabm/phpstan-todo-by/pull/17) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [Setup php-cs-fixer](https://github.com/staabm/phpstan-todo-by/pull/16) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
-- [Fix laziness of TagFetcher](https://github.com/staabm/phpstan-todo-by/pull/15) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
