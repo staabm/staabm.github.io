@@ -31,13 +31,19 @@ function doFoo() {
 
 }
 
-// TODO: <1.0.0 This has to be in the first major release
+// TODO: <1.0.0 This has to be in the first major release of this repo
 function doBar() {
 
 }
 
-```
+// TODO: phpunit/phpunit:5.3 This has to be fixed when updating phpunit to 5.3.x or higher
+function doFooBar() {
 
+}
+
+// TODO: php:>8 drop this polyfill when php 8.x is required
+
+```
 
 #### Supported todo formats
 
