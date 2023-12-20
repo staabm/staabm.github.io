@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add redaxo codestyle](https://github.com/staabm/phpstan-todo-by/pull/37) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Remove VersionNormalizer](https://github.com/staabm/phpstan-todo-by/pull/36) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Use consistent regex](https://github.com/staabm/phpstan-todo-by/pull/35) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [TodoByVersionRule: Fix reversed expectations](https://github.com/staabm/phpstan-todo-by/pull/34) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
@@ -54,7 +55,6 @@
 - [Composer normalize](https://github.com/staabm/phpstan-todo-by/pull/24) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [Move utility classes into separate folder](https://github.com/staabm/phpstan-todo-by/pull/23) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [Centralize Composer\Semver\VersionParser dependency in VersionNormalizer](https://github.com/staabm/phpstan-todo-by/pull/22) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
-- [Support less strict versioning schemes](https://github.com/staabm/phpstan-todo-by/pull/21) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
