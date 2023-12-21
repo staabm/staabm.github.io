@@ -45,18 +45,22 @@ function doFooBar() {
 
 ```
 
-#### Supported todo formats
+## Supported todo formats
 
-In the very first release we started with a todo format compatible with the project this extension took inspiration from (see example above).
+A todo comment can also consist of just a constraint without any text, like `// @todo 2023-12-14`.
+When a text is given after the date, this text will be picked up for the PHPStan error message.
 
-Since then we added support for more formats, because of popular demand:
-- the `todo`, `TODO`, `tOdO` keyword is now case-insensitive
+- the `todo`, `TODO`, `tOdO` keyword is case-insensitive
 - the `todo` keyword can be suffixed or prefixed by a `@` character
 - a username might be included after the `todo@`
 - the comment might be mixed with `:` or `-` characters
 - multi line `/* */` and `/** */` comments are supported
-- dateformat is `YYYY-MM-DD`
-- support for **semantic version** expiration constraints (starting with 0.1.7)
+
+The comment can expire by different constraints, examples are:
+- by date with format of `YYYY-MM-DD`
+- by a semantic version constraint matched against the project itself
+- by a semantic version constraint matched against a Composer dependency (composer.lock based)
+
 
 Find more details and configuration options in the [projects README](https://github.com/staabm/phpstan-todo-by/blob/main/README.md).
 
