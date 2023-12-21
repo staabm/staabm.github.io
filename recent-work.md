@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix phpstan-src build errors](https://github.com/phpstan/phpstan-symfony/pull/375) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (today)
 - [Check date sanity](https://github.com/staabm/phpstan-todo-by/pull/40) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/154) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [update og-image](https://github.com/staabm/staabm.github.io/pull/109) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
@@ -54,7 +55,6 @@
 - [Expire comment by composer dependency package version](https://github.com/staabm/phpstan-todo-by/pull/32) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [Test less strict version expiration](https://github.com/staabm/phpstan-todo-by/pull/30) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [Support pre-release versions](https://github.com/staabm/phpstan-todo-by/pull/29) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
-- [Refactor common logic into CommentMatcher](https://github.com/staabm/phpstan-todo-by/pull/28) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
