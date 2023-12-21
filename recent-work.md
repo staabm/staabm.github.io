@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [parker-codes/todo_by](https://github.com/parker-codes/todo_by) (1 day ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
+- [parker-codes/todo_by](https://github.com/parker-codes/todo_by) (1 day ago)
 - [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
