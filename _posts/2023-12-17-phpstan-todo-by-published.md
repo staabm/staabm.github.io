@@ -6,7 +6,7 @@ image: "images/og-images/phpstan-todo-by.jpg"
 
 ogImage:
     title: "new PHPStan extension released"
-    subtitle: "declare expiration dates for your code comments"
+    subtitle: "declare expiration criteria for your code comments"
     imageUrl: "https://staabm.github.io/staabm.svg"
     fileName: "phpstan-todo-by"
 ---
