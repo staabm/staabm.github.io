@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.14](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.14) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.19](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.19) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.22](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.22) (1 day ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0rc1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0rc1) (2 days ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.13](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.13) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.152](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.152) (3 days ago)
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.0.0-rc2](https://github.com/mautic/mautic/releases/tag/5.0.0-rc2) (3 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0](https://github.com/matomo-org/matomo/releases/tag/5.0.0) (3 days ago)
