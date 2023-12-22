@@ -21,7 +21,7 @@ If you did not yet re-tweeted it already, please do so now :-).
 The project already [got 50 stars](https://github.com/staabm/phpstan-todo-by/stargazers) within the first week after announcement.
 
 
-#### Example:
+#### Examples
 
 The main idea is, that comments within the source code will be turned into PHPStan errors when a condition is satisfied, e.g. a date reached, a version met.
 
