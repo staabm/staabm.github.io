@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [DX: improve error when latest git tag cannot be determined](https://github.com/staabm/phpstan-todo-by/pull/41) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Fix phpstan-src build errors](https://github.com/phpstan/phpstan-symfony/pull/375) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 day ago)
 - [Check date sanity](https://github.com/staabm/phpstan-todo-by/pull/40) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/154) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
@@ -54,11 +55,11 @@
 - [Prepare readme for more constraint types](https://github.com/staabm/phpstan-todo-by/pull/33) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
 - [Expire comment by composer dependency package version](https://github.com/staabm/phpstan-todo-by/pull/32) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
 - [Test less strict version expiration](https://github.com/staabm/phpstan-todo-by/pull/30) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
-- [Support pre-release versions](https://github.com/staabm/phpstan-todo-by/pull/29) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.19](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.19) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.22](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.22) (1 day ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0rc1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0rc1) (2 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.13](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.13) (2 days ago)
@@ -68,4 +69,3 @@
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.20.0](https://github.com/Roave/BetterReflection/releases/tag/6.20.0) (6 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.18.0](https://github.com/vimeo/psalm/releases/tag/5.18.0) (6 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.24.5](https://github.com/phpstan/phpdoc-parser/releases/tag/1.24.5) (6 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.18](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.18) (1 week ago)
