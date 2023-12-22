@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix backtrack limit issues with composer package names](https://github.com/staabm/phpstan-todo-by/pull/46) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Harmonize regexes](https://github.com/staabm/phpstan-todo-by/pull/45) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Expire comments by config file constraints](https://github.com/staabm/phpstan-todo-by/pull/43) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [DX: improve error when latest git tag cannot be determined](https://github.com/staabm/phpstan-todo-by/pull/41) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
@@ -54,13 +55,12 @@
 - [Use consistent regex](https://github.com/staabm/phpstan-todo-by/pull/35) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
 - [TodoByVersionRule: Fix reversed expectations](https://github.com/staabm/phpstan-todo-by/pull/34) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
 - [added staabm/phpstan-todo-by example](https://github.com/parker-codes/todo_by/pull/6) on [parker-codes/todo_by](https://github.com/parker-codes/todo_by) (2 days ago)
-- [Prepare readme for more constraint types](https://github.com/staabm/phpstan-todo-by/pull/33) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.15](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.15) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.6](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.6) (today)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.14](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.14) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.19](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.19) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.22](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.22) (1 day ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0rc1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0rc1) (2 days ago)
