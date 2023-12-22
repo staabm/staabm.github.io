@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
@@ -11,8 +12,7 @@
 - [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [TomasVotruba/lines](https://github.com/TomasVotruba/lines) (1 week ago)
-- [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (1 week ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.6](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.6) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.14](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.14) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.19](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.19) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.22](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.22) (1 day ago)
@@ -68,4 +69,3 @@
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0](https://github.com/matomo-org/matomo/releases/tag/5.0.0) (3 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.20.0](https://github.com/Roave/BetterReflection/releases/tag/6.20.0) (6 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.18.0](https://github.com/vimeo/psalm/releases/tag/5.18.0) (6 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.24.5](https://github.com/phpstan/phpdoc-parser/releases/tag/1.24.5) (6 days ago)
