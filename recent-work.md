@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Harmonize regexes](https://github.com/staabm/phpstan-todo-by/pull/45) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
+- [Expire comments by config file constraints](https://github.com/staabm/phpstan-todo-by/pull/43) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [DX: improve error when latest git tag cannot be determined](https://github.com/staabm/phpstan-todo-by/pull/41) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Fix phpstan-src build errors](https://github.com/phpstan/phpstan-symfony/pull/375) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 day ago)
 - [Check date sanity](https://github.com/staabm/phpstan-todo-by/pull/40) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
@@ -53,8 +55,6 @@
 - [TodoByVersionRule: Fix reversed expectations](https://github.com/staabm/phpstan-todo-by/pull/34) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
 - [added staabm/phpstan-todo-by example](https://github.com/parker-codes/todo_by/pull/6) on [parker-codes/todo_by](https://github.com/parker-codes/todo_by) (2 days ago)
 - [Prepare readme for more constraint types](https://github.com/staabm/phpstan-todo-by/pull/33) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
-- [Expire comment by composer dependency package version](https://github.com/staabm/phpstan-todo-by/pull/32) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
-- [Test less strict version expiration](https://github.com/staabm/phpstan-todo-by/pull/30) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
