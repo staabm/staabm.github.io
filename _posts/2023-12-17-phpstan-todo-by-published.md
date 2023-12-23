@@ -16,7 +16,6 @@ ogImage:
 Inspired by [parker-codes/todo-by](https://github.com/parker-codes/todo_by) I recently created [phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - a new PHPStan extension to check for TODO comments with expiration.
 
 The [announcement tweet](https://twitter.com/markusstaab/status/1735393080704934343) / [toot](https://phpc.social/@markusstaab/111580606678002075) got a lot of attention and I received a lot of positive feedback.
-If you did not yet re-tweeted it already, please do so now :-).
 
 The project already [got 50 stars](https://github.com/staabm/phpstan-todo-by/stargazers) within the first week after announcement.
 
