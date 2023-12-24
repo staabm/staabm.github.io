@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.20](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.20) (today)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.42.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.42.0) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.15](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.15) (2 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.6](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.6) (2 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.19](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.19) (2 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.22](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.22) (3 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0rc1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0rc1) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.152](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.152) (5 days ago)
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.0.0-rc2](https://github.com/mautic/mautic/releases/tag/5.0.0-rc2) (5 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0](https://github.com/matomo-org/matomo/releases/tag/5.0.0) (5 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.20.0](https://github.com/Roave/BetterReflection/releases/tag/6.20.0) (1 week ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.18.0](https://github.com/vimeo/psalm/releases/tag/5.18.0) (1 week ago)
