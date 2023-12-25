@@ -3,11 +3,11 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (3 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [parker-codes/todo_by](https://github.com/parker-codes/todo_by) (5 days ago)
 - [WyriHaximus/github-action-get-previous-tag](https://github.com/WyriHaximus/github-action-get-previous-tag) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.153](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.153) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.20](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.20) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.42.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.42.0) (1 day ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.15](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.15) (3 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.6](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.6) (3 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.22](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.22) (4 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0rc1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0rc1) (5 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.152](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.152) (6 days ago)
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.0.0-rc2](https://github.com/mautic/mautic/releases/tag/5.0.0-rc2) (6 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.0](https://github.com/matomo-org/matomo/releases/tag/5.0.0) (6 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.20.0](https://github.com/Roave/BetterReflection/releases/tag/6.20.0) (1 week ago)
