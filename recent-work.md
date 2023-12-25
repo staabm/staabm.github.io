@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Lazier creation of parameter-acceptor](https://github.com/phpstan/phpstan-src/pull/2843) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix return type of DOMXPath::query](https://github.com/phpstan/phpstan-src/pull/2842) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fix backtrack limit issues with composer package names](https://github.com/staabm/phpstan-todo-by/pull/46) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
 - [Harmonize regexes](https://github.com/staabm/phpstan-todo-by/pull/45) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
@@ -54,7 +55,6 @@
 - [Add redaxo codestyle](https://github.com/staabm/phpstan-todo-by/pull/37) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (5 days ago)
 - [Remove VersionNormalizer](https://github.com/staabm/phpstan-todo-by/pull/36) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (5 days ago)
 - [Use consistent regex](https://github.com/staabm/phpstan-todo-by/pull/35) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (5 days ago)
-- [TodoByVersionRule: Fix reversed expectations](https://github.com/staabm/phpstan-todo-by/pull/34) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
