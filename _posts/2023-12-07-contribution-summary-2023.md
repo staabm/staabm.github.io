@@ -21,7 +21,7 @@ This will only be possible when more people [support my open source work by beco
 ## Intro
 
 At first, lets have a [look back at 2022](https://staabm.github.io/2022/12/20/2022-wrap-up.html): I was able create 967 pull requests, of which 831 got merged.
-In comparison, at the time of writing I created [~900 pull requests to 70 open-source repositories in 2023](https://github.com/pulls?q=is%3Apr+author%3Astaabm+created%3A2023), of which 743 got merged.
+In comparison, at the time of writing I created [~900 pull requests to 70 open-source repositories in 2023](https://github.com/pulls?q=is%3Apr+author%3Astaabm+created%3A2023), of which 753 got merged.
 
 As you can see the numbers in 2022, are a bit lower than in 2023. I think this is due to the fact that last year the focus was on working through low-hanging fruits in PHPStan and Rector.
 With the experience and knowledge gained while working on these projects, I was able to contribute more advanced features and fixes this year.
