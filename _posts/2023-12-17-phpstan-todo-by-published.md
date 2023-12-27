@@ -28,22 +28,18 @@ The main idea is, that comments within the source code will be turned into PHPSt
 <?php
 
 // TODO: 2023-12-14 This comment turns into a PHPStan error as of 14th december 2023
-function doFoo() {
-
-}
+function doFoo() { /* ... */ }
 
 // TODO: <1.0.0 This has to be in the first major release of this repo
-function doBar() {
-
-}
+function doBar() { /* ... */ }
 
 // TODO: phpunit/phpunit:5.3 This has to be fixed when updating phpunit to 5.3.x or higher
-function doFooBar() {
-
-}
+function doFooBar() { /* ... */ }
 
 // TODO: php:8 drop this polyfill when php 8.x is required
 
+// TODO: APP-2137 A comment which errors when the issue tracker ticket gets resolved
+function doBaz() { /* ... */ }
 ```
 
 ## Supported todo formats
@@ -61,6 +57,7 @@ The comment can expire by different constraints, examples are:
 - by date with format of `YYYY-MM-DD` matched against the [reference-time](https://github.com/staabm/phpstan-todo-by#reference-time)
 - by a semantic version constraint matched against the projects [reference-version](https://github.com/staabm/phpstan-todo-by#reference-version)
 - by a semantic version constraint matched against a Composer dependency (via `composer.lock`)
+- by ticket reference, matched against the status of a ticket (e.g. in JIRA)
 
 Find more details and configuration options in the [projects README](https://github.com/staabm/phpstan-todo-by/blob/main/README.md).
 
