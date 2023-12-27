@@ -142,9 +142,9 @@ One of the craziest contributions this year. After days of in-depth analysis fin
 
 #### PHPStan Highlight: "Fix !isset() with Variable"
 
-As highlighted in [various](https://twitter.com/markusstaab/status/1729523854383497533) [tweets](https://twitter.com/markusstaab/status/1730509736108282344) working on falsey-context type inference improvements in PHPStan.
+As highlighted in [various](https://twitter.com/markusstaab/status/1729523854383497533) [tweets](https://twitter.com/markusstaab/status/1730509736108282344) I was working on falsey-context type inference improvements in PHPStan.
 This was my most time-consuming and most rewarding contribution this year.
-It took me several tries to finally get it into a mergable state - this [very first iteration](https://github.com/phpstan/phpstan-src/pull/2710) closed 7 bugs, the oldest of them dating back to Jul 2020.
+It took me several tries to finally get it into a mergable state - this [very first iteration](https://github.com/phpstan/phpstan-src/pull/2710) closed 7 bugs, the oldest of them dating back to July 2020.
 
 The main problem this contribution solves is, that PHPStan gets aware when/if variables are defined after a `!isset($variable)` check.
 To get this right, one needs to check whether the involved variables can get `null` and whether they are defined in the current scope.
