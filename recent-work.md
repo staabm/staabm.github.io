@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.43.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.43.1) (today)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.44.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.44.0) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.16](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.16) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.153](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.153) (4 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.20](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.20) (5 days ago)
