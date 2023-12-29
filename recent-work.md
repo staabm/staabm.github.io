@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix CS](https://github.com/staabm/secure_dotenv/pull/4) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
+- [Fix PHP deprecation notice](https://github.com/staabm/secure_dotenv/pull/3) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
+- [Configure CI](https://github.com/staabm/secure_dotenv/pull/2) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
 - [Lazier creation of parameter-acceptor](https://github.com/phpstan/phpstan-src/pull/2843) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Fix return type of DOMXPath::query](https://github.com/phpstan/phpstan-src/pull/2842) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Fix backtrack limit issues with composer package names](https://github.com/staabm/phpstan-todo-by/pull/46) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
@@ -52,14 +55,11 @@
 - [update og-image](https://github.com/staabm/staabm.github.io/pull/109) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [Read composer.json only once](https://github.com/staabm/phpstan-todo-by/pull/39) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 - [Fix &#39;Invalid version constraint &#34;&gt;=php&#34;&#39; false -positive](https://github.com/staabm/phpstan-todo-by/pull/38) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
-- [Add redaxo codestyle](https://github.com/staabm/phpstan-todo-by/pull/37) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
-- [Remove VersionNormalizer](https://github.com/staabm/phpstan-todo-by/pull/36) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
-- [Use consistent regex](https://github.com/staabm/phpstan-todo-by/pull/35) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.43.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.43.0) (1 day ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.43.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.43.1) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.16](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.16) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.153](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.153) (4 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.20](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.20) (5 days ago)
