@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
 - [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (3 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
@@ -40,6 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [rename composer bin script](https://github.com/staabm/secure_dotenv/pull/8) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
+- [Create LICENSE](https://github.com/staabm/secure_dotenv/pull/7) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
+- [fork package under new name](https://github.com/staabm/secure_dotenv/pull/6) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
+- [Fix PHPStan notices](https://github.com/staabm/secure_dotenv/pull/5) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
 - [Fix CS](https://github.com/staabm/secure_dotenv/pull/4) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
 - [Fix PHP deprecation notice](https://github.com/staabm/secure_dotenv/pull/3) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
 - [Configure CI](https://github.com/staabm/secure_dotenv/pull/2) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
@@ -51,10 +55,6 @@
 - [DX: improve error when latest git tag cannot be determined](https://github.com/staabm/phpstan-todo-by/pull/41) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 - [Fix phpstan-src build errors](https://github.com/phpstan/phpstan-symfony/pull/375) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
 - [Check date sanity](https://github.com/staabm/phpstan-todo-by/pull/40) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
-- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/154) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
-- [update og-image](https://github.com/staabm/staabm.github.io/pull/109) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
-- [Read composer.json only once](https://github.com/staabm/phpstan-todo-by/pull/39) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
-- [Fix &#39;Invalid version constraint &#34;&gt;=php&#34;&#39; false -positive](https://github.com/staabm/phpstan-todo-by/pull/38) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
