@@ -5,11 +5,11 @@
 
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
-- [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (4 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) (5 days ago)
+- [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) (5 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [parker-codes/todo_by](https://github.com/parker-codes/todo_by) (1 week ago)
