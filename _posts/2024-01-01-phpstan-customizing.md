@@ -17,6 +17,8 @@ ogImage:
 Do you need help with PHPStan in some form?
 You can get me - one of the top contributors to PHPStan or related static analysis tooling - to support your team or project(s).
 
+I have [plenty of experience](https://staabm.github.io/archive.html#phpstan) in [contributing changes to PHPStan core](https://staabm.github.io/2023/12/07/contribution-summary-2023.html), or implementing custom extensions.
+
 As of now, I am available for hire to make the tooling fit your needs.
 
 
