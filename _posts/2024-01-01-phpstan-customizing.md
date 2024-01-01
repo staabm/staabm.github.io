@@ -15,7 +15,7 @@ ogImage:
 ### PHPStan tailored to your needs
 
 Do you need help with PHPStan in some form?
-You can get me - one of the top contributors to PHPStan or related static analysis tooling - to support your team or projects.
+You can get me - one of the top contributors to PHPStan or related static analysis tooling - to support your team or project(s).
 
 As of now, I am available for hire to make the tooling fit your needs.
 
