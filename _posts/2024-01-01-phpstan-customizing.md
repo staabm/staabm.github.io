@@ -12,7 +12,7 @@ ogImage:
     fileName: "phpstan-customizing"
 ---
 
-### PHPStan Customizing - Tailored to your needs
+### PHPStan tailored to your needs
 
 Do you need help with PHPStan in some form?
 You can get me - one of the top contributors to PHPStan or related static analysis tooling - to support your team or projects.
