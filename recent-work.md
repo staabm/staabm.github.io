@@ -17,11 +17,11 @@
 
 #### 📜 My recent blog posts
 
+- [PHPStan tailored to your needs](https://staabm.github.io/2024/01/01/phpstan-customizing.html) (today)
 - [Published: phpstan-todo-by](https://staabm.github.io/2023/12/17/phpstan-todo-by-published.html) (2 weeks ago)
 - [Contribution Summary 2023](https://staabm.github.io/2023/12/07/contribution-summary-2023.html) (3 weeks ago)
 - [Phpstan Filter Baseline](https://staabm.github.io/2023/10/30/phpstan-filter-baseline.html) (2 months ago)
 - [Phpstan Result Cache Gotchas](https://staabm.github.io/2023/10/21/phpstan-result-cache-gotchas.html) (2 months ago)
-- [Rector In Legacy Projects](https://staabm.github.io/2023/07/23/rector-in-legacy-projects.html) (5 months ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
