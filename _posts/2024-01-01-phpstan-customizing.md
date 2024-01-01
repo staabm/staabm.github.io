@@ -41,6 +41,12 @@ Let me analyse your case at hand and investigate possible solutions.
 I can help you build custom extensions and/or rules to seamlessly integrate PHPStan into your framework, libraries, and/or development workflow.
 
 
+#### Reduce risk in your projects
+
+PHPStan is critical for your business?
+Consider [supporting my open source work](https://github.com/sponsors/staabm) with your sponsoring to reduce the [PHPStan projects busfactor](https://en.wikipedia.org/wiki/Bus_factor).
+
+
 #### Get in touch
 
 please reach me <a href="mailto:maggus.staab+phpstan@gmail.com">via E-Mail</a> or contact me on <a href="https://twitter.com/markusstaab">Twitter</a> or <a href="https://phpc.social/@markusstaab">Mastodon</a> for paid support.
