@@ -10,7 +10,7 @@ For fun and educating myself I actively contribute to various projects - [REDAXO
 
 Turns out I am one of the top contributors💫 to [PHPStan](https://github.com/phpstan/phpstan-src/pulls?q=is%3Amerged+author%3Astaabm) and [Rector](https://github.com/rectorphp/rector-src/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Astaabm+is%3Amerged). It's likely you read my name in the changelog or release notes somewhere.
 
-If one of those open source projects is critical for your business, [please consider supporting my work with your sponsoring 💕](https://github.com/sponsors/staabm)
+If one of those open source projects is critical for your business, [please consider supporting my work with your sponsoring 💕](https://github.com/sponsors/staabm).
 I am also available for [paid support of PHPStan](https://staabm.github.io/2024/01/01/phpstan-customizing.html) and related static analysis tooling.
 
 <a rel="me" href="https://phpc.social/@markusstaab" style="display: none">Mastodon</a>
