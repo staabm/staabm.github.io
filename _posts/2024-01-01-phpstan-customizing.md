@@ -43,4 +43,4 @@ I can help you build custom extensions and/or rules to seamlessly integrate PHPS
 
 #### Get in touch
 
-please reach me <a href="mailto:maggus.staab+phpstan@gmail.com">via E-Mail</a> or contact me on <a href="https://twitter.com/markusstaab">Twitter</a> or <a href="https://phpc.social/@markusstaab">Mastodon</a>.
+please reach me <a href="mailto:maggus.staab+phpstan@gmail.com">via E-Mail</a> or contact me on <a href="https://twitter.com/markusstaab">Twitter</a> or <a href="https://phpc.social/@markusstaab">Mastodon</a> for paid support.
