@@ -25,13 +25,13 @@ As of now, I am available for hire to make the tooling fit your needs.
 You are blocked by a reported issue in PHPStan or related tooling?
 Your projects would benefit from getting certain features implemented in PHPStan?
 
-Sponsoring me to fix bugs or implement features that are blocking you to get the most out of PHPStan.
+I can fix bugs or implement features that are blocking you to get the most out of PHPStan.
 
 
 #### Investigate performance issues
 
-PHPStan is running slow in your project? You are not sure if it's PHPStan or your codebase?
-I will analyse your case at hand and investigate possible solutions.
+PHPStan is running slow in your project? You need help to get a faster feedback loop?
+Let me analyse your case at hand and investigate possible solutions.
 
 
 #### Specific needs / tailored integration
