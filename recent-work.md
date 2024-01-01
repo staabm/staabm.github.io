@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (6 days ago)
 - [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (6 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Create 2024-01-01-phpstan-customizing.md](https://github.com/staabm/staabm.github.io/pull/110) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [rename composer bin script](https://github.com/staabm/secure_dotenv/pull/8) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 days ago)
 - [Create LICENSE](https://github.com/staabm/secure_dotenv/pull/7) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 days ago)
 - [fork package under new name](https://github.com/staabm/secure_dotenv/pull/6) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 days ago)
@@ -54,7 +55,6 @@
 - [Expire comments by virtual packages](https://github.com/staabm/phpstan-todo-by/pull/43) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 - [DX: improve error when latest git tag cannot be determined](https://github.com/staabm/phpstan-todo-by/pull/41) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 - [Fix phpstan-src build errors](https://github.com/phpstan/phpstan-symfony/pull/375) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
-- [Check date sanity](https://github.com/staabm/phpstan-todo-by/pull/40) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
