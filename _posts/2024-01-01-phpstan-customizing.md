@@ -6,7 +6,7 @@ tags:
 image: "images/og-images/phpstan-customizing.jpg"
 
 ogImage:
-    title: "PHPStan Customizing - Tailored to your needs."
+    title: "PHPStan tailored to your needs."
     subtitle: "Get support for PHPStan and related static analysis tooling."
     imageUrl: "https://staabm.github.io/staabm.svg"
     fileName: "phpstan-customizing"
