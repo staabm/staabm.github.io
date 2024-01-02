@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.21](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.21) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.2](https://github.com/symfony/symfony/releases/tag/v7.0.2) (3 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.45.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.45.0) (3 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.16](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.16) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.153](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.153) (1 week ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.20](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.20) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.6](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.6) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.22](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.22) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0rc1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0rc1) (1 week ago)
