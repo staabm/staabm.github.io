@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Declare ext-hash dependency](https://github.com/staabm/secure_dotenv/pull/10) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
+- [composer.json: declare ext-hash dependency](https://github.com/defuse/php-encryption/pull/524) on [defuse/php-encryption](https://github.com/defuse/php-encryption) (today)
 - [move phpstan to non-dev require](https://github.com/staabm/phpstan-todo-by/pull/50) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [fix issue-template typo](https://github.com/llaville/php-compatinfo/pull/367) on [llaville/php-compatinfo](https://github.com/llaville/php-compatinfo) (today)
 - [declare openssl dependency](https://github.com/staabm/secure_dotenv/pull/9) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
@@ -53,8 +55,6 @@
 - [Configure CI](https://github.com/staabm/secure_dotenv/pull/2) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (4 days ago)
 - [Lazier creation of parameter-acceptor](https://github.com/phpstan/phpstan-src/pull/2843) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix return type of DOMXPath::query](https://github.com/phpstan/phpstan-src/pull/2842) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix backtrack limit issues with composer package names](https://github.com/staabm/phpstan-todo-by/pull/46) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
-- [Harmonize regexes](https://github.com/staabm/phpstan-todo-by/pull/45) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
