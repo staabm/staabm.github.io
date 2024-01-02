@@ -33,7 +33,8 @@ I can fix bugs or implement features that are blocking you to get the most out o
 #### Investigate performance issues
 
 PHPStan/Rector is running slow in your project? You need help to get a faster feedback loop?
-Let me analyse your case at hand and investigate possible solutions.
+
+Let me analyse your case at hand and investigate possible solutions. I love analysing php based [tool performance problems](https://staabm.github.io/archive.html#performance).
 
 
 #### Specific needs / tailored integration
