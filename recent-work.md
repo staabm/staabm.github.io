@@ -4,7 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (1 week ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [move phpstan to non-dev require](https://github.com/staabm/phpstan-todo-by/pull/50) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
+- [fix issue-template typo](https://github.com/llaville/php-compatinfo/pull/367) on [llaville/php-compatinfo](https://github.com/llaville/php-compatinfo) (today)
 - [declare openssl dependency](https://github.com/staabm/secure_dotenv/pull/9) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
 - [Create 2024-01-01-phpstan-customizing.md](https://github.com/staabm/staabm.github.io/pull/110) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [rename composer bin script](https://github.com/staabm/secure_dotenv/pull/8) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (4 days ago)
@@ -53,8 +55,6 @@
 - [Fix return type of DOMXPath::query](https://github.com/phpstan/phpstan-src/pull/2842) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix backtrack limit issues with composer package names](https://github.com/staabm/phpstan-todo-by/pull/46) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 - [Harmonize regexes](https://github.com/staabm/phpstan-todo-by/pull/45) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
-- [Expire comments by virtual packages](https://github.com/staabm/phpstan-todo-by/pull/43) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
-- [DX: improve error when latest git tag cannot be determined](https://github.com/staabm/phpstan-todo-by/pull/41) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
