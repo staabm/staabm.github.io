@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Require the top level installed versions](https://github.com/staabm/phpstan-todo-by/pull/54) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Declare ext-hash dependency](https://github.com/staabm/secure_dotenv/pull/10) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 day ago)
 - [composer.json: declare ext-hash dependency](https://github.com/defuse/php-encryption/pull/524) on [defuse/php-encryption](https://github.com/defuse/php-encryption) (1 day ago)
 - [move phpstan to non-dev require](https://github.com/staabm/phpstan-todo-by/pull/50) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix PHP deprecation notice](https://github.com/staabm/secure_dotenv/pull/3) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (5 days ago)
 - [Configure CI](https://github.com/staabm/secure_dotenv/pull/2) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (5 days ago)
 - [Lazier creation of parameter-acceptor](https://github.com/phpstan/phpstan-src/pull/2843) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix return type of DOMXPath::query](https://github.com/phpstan/phpstan-src/pull/2842) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
