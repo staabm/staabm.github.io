@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 day ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
-- [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (1 week ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
+- [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [verify failling test](https://github.com/staabm/phpstan-todo-by/pull/57) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
+- [Support single digit months, days](https://github.com/staabm/phpstan-todo-by/pull/56) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Setup e2e tests](https://github.com/staabm/phpstan-todo-by/pull/55) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Require the top level installed versions](https://github.com/staabm/phpstan-todo-by/pull/54) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Declare ext-hash dependency](https://github.com/staabm/secure_dotenv/pull/10) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 day ago)
@@ -53,17 +55,15 @@
 - [fork package under new name](https://github.com/staabm/secure_dotenv/pull/6) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (5 days ago)
 - [Fix PHPStan notices](https://github.com/staabm/secure_dotenv/pull/5) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (5 days ago)
 - [Fix CS](https://github.com/staabm/secure_dotenv/pull/4) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (5 days ago)
-- [Fix PHP deprecation notice](https://github.com/staabm/secure_dotenv/pull/3) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (5 days ago)
-- [Configure CI](https://github.com/staabm/secure_dotenv/pull/2) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.18](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.18) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.21](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.21) (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.2](https://github.com/symfony/symfony/releases/tag/v7.0.2) (4 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.45.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.45.0) (4 days ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [10.0.1](https://github.com/staabm/secure_dotenv/releases/tag/10.0.1) (5 days ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.16](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.16) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.153](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.153) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.6](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.6) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.22](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.22) (1 week ago)
