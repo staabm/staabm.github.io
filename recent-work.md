@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [TodoByVersionRule should not match date comments](https://github.com/staabm/phpstan-todo-by/pull/60) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
+- [Fix `fetchLatestTagVersion()` in repos without tags](https://github.com/staabm/phpstan-todo-by/pull/58) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [verify failling test](https://github.com/staabm/phpstan-todo-by/pull/57) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Support single digit months, days](https://github.com/staabm/phpstan-todo-by/pull/56) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Setup e2e tests](https://github.com/staabm/phpstan-todo-by/pull/55) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
@@ -53,13 +55,11 @@
 - [rename composer bin script](https://github.com/staabm/secure_dotenv/pull/8) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (5 days ago)
 - [Create LICENSE](https://github.com/staabm/secure_dotenv/pull/7) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (5 days ago)
 - [fork package under new name](https://github.com/staabm/secure_dotenv/pull/6) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (5 days ago)
-- [Fix PHPStan notices](https://github.com/staabm/secure_dotenv/pull/5) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (5 days ago)
-- [Fix CS](https://github.com/staabm/secure_dotenv/pull/4) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.18](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.18) (today)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.19](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.19) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.21](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.21) (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.2](https://github.com/symfony/symfony/releases/tag/v7.0.2) (4 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.45.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.45.0) (4 days ago)
