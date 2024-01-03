@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Faster ParametersAcceptorSelector-&gt;combine()](https://github.com/phpstan/phpstan-src/pull/2851) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [TodoByVersionRule should not match date comments](https://github.com/staabm/phpstan-todo-by/pull/60) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Fix `fetchLatestTagVersion()` in repos without tags](https://github.com/staabm/phpstan-todo-by/pull/58) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [verify failling test](https://github.com/staabm/phpstan-todo-by/pull/57) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
@@ -54,15 +55,14 @@
 - [Create 2024-01-01-phpstan-customizing.md](https://github.com/staabm/staabm.github.io/pull/110) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [rename composer bin script](https://github.com/staabm/secure_dotenv/pull/8) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (5 days ago)
 - [Create LICENSE](https://github.com/staabm/secure_dotenv/pull/7) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (5 days ago)
-- [fork package under new name](https://github.com/staabm/secure_dotenv/pull/6) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.46.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.46.0) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.19](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.19) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.21](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.21) (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.2](https://github.com/symfony/symfony/releases/tag/v7.0.2) (4 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.45.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.45.0) (4 days ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [10.0.1](https://github.com/staabm/secure_dotenv/releases/tag/10.0.1) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.153](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.153) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.6](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.6) (1 week ago)
