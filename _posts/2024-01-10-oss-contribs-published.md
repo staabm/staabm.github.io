@@ -21,9 +21,9 @@ To back up the message of the post, I used some contribution statistics similar 
 |----------------------------------------------|-----------------------|--------------------|
 | project                                      | merged pull requests  | addressed issues   |
 |----------------------------------------------|-----------------------|--------------------|
-| phpstan/phpstan*                             | ~106   (~188 in 2022) | 29    (83 in 2022) |
-| rector/rector*                               | ~168                  | 13                 |
-| FriendsOfREDAXO/rexstan                      | 86                    | 24                 |
+| phpstan/phpstan*                             | ~116   (~188 in 2022) | 33    (83 in 2022) |
+| rector/rector*                               | ~178                  | 13                 |
+| FriendsOfREDAXO/rexstan                      | 88                    | 24                 |
 | FriendsOfREDAXO/rexfactor                    | 55                    | 6                  |
 | staabm/phpstandba                            | 44  (~300 in 2022)    | 8                  |
 | redaxo/redaxo                                | 27   (70 in 2022)     | 4                  |
