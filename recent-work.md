@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added support for @require-extends phpdoc](https://github.com/phpstan/phpdoc-parser/pull/226) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
 - [Faster ParametersAcceptorSelector-&gt;combine()](https://github.com/phpstan/phpstan-src/pull/2851) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [TodoByVersionRule should not match date comments](https://github.com/staabm/phpstan-todo-by/pull/60) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [Fix `fetchLatestTagVersion()` in repos without tags](https://github.com/staabm/phpstan-todo-by/pull/58) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
@@ -54,11 +55,11 @@
 - [declare openssl dependency](https://github.com/staabm/secure_dotenv/pull/9) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (2 days ago)
 - [Create 2024-01-01-phpstan-customizing.md](https://github.com/staabm/staabm.github.io/pull/110) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
 - [rename composer bin script](https://github.com/staabm/secure_dotenv/pull/8) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (6 days ago)
-- [Create LICENSE](https://github.com/staabm/secure_dotenv/pull/7) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.21.0](https://github.com/Roave/BetterReflection/releases/tag/6.21.0) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.46.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.46.0) (1 day ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.19](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.19) (1 day ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.21](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.21) (2 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.6](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.6) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.22](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.22) (2 weeks ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0rc1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0rc1) (2 weeks ago)
-- [mautic/mautic](https://github.com/mautic/mautic) - [5.0.0-rc2](https://github.com/mautic/mautic/releases/tag/5.0.0-rc2) (2 weeks ago)
