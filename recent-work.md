@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove unused DirectClassReflectionExtensionRegistryProvider](https://github.com/phpstan/phpstan-src/pull/2857) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement RequireExtendsPropertiesClassReflectionExtension](https://github.com/phpstan/phpstan-src/pull/2856) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Added support for @require-extends phpdoc](https://github.com/phpstan/phpdoc-parser/pull/226) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
 - [Faster ParametersAcceptorSelector-&gt;combine()](https://github.com/phpstan/phpstan-src/pull/2851) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [move phpstan to non-dev require](https://github.com/staabm/phpstan-todo-by/pull/50) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
 - [fix issue-template typo](https://github.com/llaville/php-compatinfo/pull/367) on [llaville/php-compatinfo](https://github.com/llaville/php-compatinfo) (3 days ago)
 - [declare openssl dependency](https://github.com/staabm/secure_dotenv/pull/9) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 days ago)
-- [Create 2024-01-01-phpstan-customizing.md](https://github.com/staabm/staabm.github.io/pull/110) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
