@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify e2e tests](https://github.com/staabm/phpstan-todo-by/pull/72) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
+- [Fix test](https://github.com/staabm/phpstan-todo-by/pull/70) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
+- [Fix e2e tests on &#39;main&#39; push events](https://github.com/staabm/phpstan-todo-by/pull/69) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Support forks in e2e tests](https://github.com/staabm/phpstan-todo-by/pull/68) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Support forks in e2e tests](https://github.com/staabm/phpstan-todo-by/pull/67) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Remove unused DirectClassReflectionExtensionRegistryProvider](https://github.com/phpstan/phpstan-src/pull/2857) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -52,13 +55,11 @@
 - [Support single digit months, days](https://github.com/staabm/phpstan-todo-by/pull/56) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
 - [Setup e2e tests](https://github.com/staabm/phpstan-todo-by/pull/55) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
 - [Require the top level installed versions](https://github.com/staabm/phpstan-todo-by/pull/54) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
-- [Declare ext-hash dependency](https://github.com/staabm/secure_dotenv/pull/10) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (4 days ago)
-- [composer.json: declare ext-hash dependency](https://github.com/defuse/php-encryption/pull/524) on [defuse/php-encryption](https://github.com/defuse/php-encryption) (4 days ago)
-- [move phpstan to non-dev require](https://github.com/staabm/phpstan-todo-by/pull/50) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.20](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.20) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.155](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.155) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.54](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.54) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.54](https://github.com/phpstan/phpstan/releases/tag/1.10.54) (1 day ago)
@@ -66,6 +67,5 @@
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.25.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.25.0) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.21.0](https://github.com/Roave/BetterReflection/releases/tag/6.21.0) (2 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.46.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.46.0) (3 days ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.19](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.19) (3 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.21](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.21) (4 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.2](https://github.com/symfony/symfony/releases/tag/v7.0.2) (1 week ago)
