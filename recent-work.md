@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.156](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.156) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.20](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.20) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.155](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.155) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.54](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.54) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.54](https://github.com/phpstan/phpstan/releases/tag/1.10.54) (1 day ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.1](https://github.com/matomo-org/matomo/releases/tag/5.0.1) (1 day ago)
