@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement require-extends rules](https://github.com/phpstan/phpstan-src/pull/2859) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify e2e tests](https://github.com/staabm/phpstan-todo-by/pull/72) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [Fix test](https://github.com/staabm/phpstan-todo-by/pull/70) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [Fix e2e tests on &#39;main&#39; push events](https://github.com/staabm/phpstan-todo-by/pull/69) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
@@ -54,7 +55,6 @@
 - [verify failling test](https://github.com/staabm/phpstan-todo-by/pull/57) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
 - [Support single digit months, days](https://github.com/staabm/phpstan-todo-by/pull/56) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
 - [Setup e2e tests](https://github.com/staabm/phpstan-todo-by/pull/55) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
-- [Require the top level installed versions](https://github.com/staabm/phpstan-todo-by/pull/54) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
