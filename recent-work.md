@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (3 days ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (5 days ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [cleanup CI](https://github.com/staabm/phpstan-todo-by/pull/74) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
+- [Extract HttpClient to centralize curl dependency](https://github.com/staabm/phpstan-todo-by/pull/73) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Implement require-extends rules](https://github.com/phpstan/phpstan-src/pull/2859) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify e2e tests](https://github.com/staabm/phpstan-todo-by/pull/72) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [Fix test](https://github.com/staabm/phpstan-todo-by/pull/70) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
@@ -53,8 +55,6 @@
 - [TodoByVersionRule should not match date comments](https://github.com/staabm/phpstan-todo-by/pull/60) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
 - [Fix `fetchLatestTagVersion()` in repos without tags](https://github.com/staabm/phpstan-todo-by/pull/58) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
 - [verify failling test](https://github.com/staabm/phpstan-todo-by/pull/57) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
-- [Support single digit months, days](https://github.com/staabm/phpstan-todo-by/pull/56) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
-- [Setup e2e tests](https://github.com/staabm/phpstan-todo-by/pull/55) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
