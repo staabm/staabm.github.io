@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.21](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.21) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.55](https://github.com/phpstan/phpstan/releases/tag/1.10.55) (today)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.156](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.156) (2 days ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.20](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.20) (2 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.54](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.54) (3 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.1](https://github.com/matomo-org/matomo/releases/tag/5.0.1) (3 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.25.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.25.0) (4 days ago)
