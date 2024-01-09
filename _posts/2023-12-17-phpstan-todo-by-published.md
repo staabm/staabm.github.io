@@ -40,6 +40,9 @@ function doFooBar() { /* ... */ }
 
 // TODO: APP-2137 A comment which errors when the issue tracker ticket gets resolved
 function doBaz() { /* ... */ }
+
+// TODO: #123 fix it when this GitHub issue is closed
+// TODO: some-organization/some-repo#123 change me if this GitHub pull request is closed
 ```
 
 ## Supported todo formats
@@ -57,7 +60,7 @@ The comment can expire by different constraints, examples are:
 - by date with format of `YYYY-MM-DD` matched against the [reference-time](https://github.com/staabm/phpstan-todo-by#reference-time)
 - by a semantic version constraint matched against the projects [reference-version](https://github.com/staabm/phpstan-todo-by#reference-version)
 - by a semantic version constraint matched against a Composer dependency (via `composer.lock`)
-- by ticket reference, matched against the status of a ticket (e.g. in JIRA)
+- by ticket reference, matched against the status of a ticket (e.g. in JIRA, GitHub issues, YouTrack)
 
 Find more details and configuration options in the [projects README](https://github.com/staabm/phpstan-todo-by/blob/main/README.md).
 
