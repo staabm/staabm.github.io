@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.19.0](https://github.com/vimeo/psalm/releases/tag/5.19.0) (today)
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.0.0](https://github.com/mautic/mautic/releases/tag/5.0.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.157](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.157) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.21](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.21) (1 day ago)
@@ -68,4 +69,3 @@
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.1](https://github.com/matomo-org/matomo/releases/tag/5.0.1) (4 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.25.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.25.0) (5 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.21.0](https://github.com/Roave/BetterReflection/releases/tag/6.21.0) (5 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.46.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.46.0) (6 days ago)
