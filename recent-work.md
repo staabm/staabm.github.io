@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.7](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.7) (today)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) - [1.1.2](https://github.com/phpstan/phpstan-mockery/releases/tag/1.1.2) (today)
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.0.1](https://github.com/mautic/mautic/releases/tag/5.0.1) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.22](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.22) (today)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.55](https://github.com/phpstan/phpstan/releases/tag/1.10.55) (2 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0) (3 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.54](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.54) (5 days ago)
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.1](https://github.com/matomo-org/matomo/releases/tag/5.0.1) (5 days ago)
