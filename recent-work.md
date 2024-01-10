@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (6 days ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 weeks ago)
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) - [1.1.2](https://github.com/phpstan/phpstan-mockery/releases/tag/1.1.2) (today)
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.0.1](https://github.com/mautic/mautic/releases/tag/5.0.1) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.22](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.22) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.19.0](https://github.com/vimeo/psalm/releases/tag/5.19.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0) (3 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.54](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.54) (5 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.1](https://github.com/matomo-org/matomo/releases/tag/5.0.1) (5 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.25.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.25.0) (6 days ago)
