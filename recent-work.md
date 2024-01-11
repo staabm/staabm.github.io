@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove Nette-framework specific forbidd rules](https://github.com/symplify/phpstan-rules/pull/106) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (today)
 - [require-extends should not error on interfaces](https://github.com/phpstan/phpstan-src/pull/2861) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [cleanup CI](https://github.com/staabm/phpstan-todo-by/pull/74) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
 - [Extract HttpClient to centralize curl dependency](https://github.com/staabm/phpstan-todo-by/pull/73) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
@@ -54,7 +55,6 @@
 - [Added support for @require-extends phpdoc](https://github.com/phpstan/phpdoc-parser/pull/226) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
 - [Faster ParametersAcceptorSelector-&gt;combine()](https://github.com/phpstan/phpstan-src/pull/2851) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [TodoByVersionRule should not match date comments](https://github.com/staabm/phpstan-todo-by/pull/60) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
-- [Fix `fetchLatestTagVersion()` in repos without tags](https://github.com/staabm/phpstan-todo-by/pull/58) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
