@@ -80,7 +80,7 @@ function runSoftDelete(SoftDeletingMarkerInterface $model):void {
 ```
 
 Since its only valid to implement the `SoftDeletingMarkerInterface` when extending the `DatabaseModel` class,
-PHPStan will not error when accessing public properties or calling public methods based on the `SoftDeletingMarkerInterface` type.
+PHPStan will not error when accessing public properties or calling public methods of `DatabaseModel`, based on the `SoftDeletingMarkerInterface` type.
 
 See the full [example running in the PHPStan sandbox](https://phpstan.org/r/4998eff7-7117-43b3-b022-0ee185bc4529)
 
