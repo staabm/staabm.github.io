@@ -24,7 +24,7 @@ The idea is to define at interface or trait level, which requirements the usage 
 The development of this feature was possible, thanks to sponsoring by a interessted party.
 In addition Ondřej Mirtes provided excellent feedback and guidance during the development.
 
-If you are in need of a certain feature or bugfix in PHPStan, Rector or related tooling, feel free to [get in touch](https://staabm.github.io/2024/01/01/phpstan-customizing.html#get-in-touch).
+If you are in need of a certain feature or bugfix in PHPStan, Rector or related tooling, please [get in touch](https://staabm.github.io/2024/01/01/phpstan-customizing.html#get-in-touch).
 
 #### `@phpstan-require-extends` trait-example
 
