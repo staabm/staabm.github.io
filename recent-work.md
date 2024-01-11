@@ -4,7 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix stale result cache for require-extends/require-implements](https://github.com/phpstan/phpstan-src/pull/2866) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent repetitive calls to `Type::getConstantArrays()`](https://github.com/phpstan/phpstan-src/pull/2864) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Create 2024-01-15-phpstan-require-extends-implements.md](https://github.com/staabm/staabm.github.io/pull/111) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Remove Http-Client specific forbidd rules](https://github.com/symplify/phpstan-rules/pull/107) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (today)
@@ -54,7 +55,6 @@
 - [Support forks in e2e tests](https://github.com/staabm/phpstan-todo-by/pull/68) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (5 days ago)
 - [Support forks in e2e tests](https://github.com/staabm/phpstan-todo-by/pull/67) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (5 days ago)
 - [Remove unused DirectClassReflectionExtensionRegistryProvider](https://github.com/phpstan/phpstan-src/pull/2857) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Implement RequireExtendsPropertiesClassReflectionExtension](https://github.com/phpstan/phpstan-src/pull/2856) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
