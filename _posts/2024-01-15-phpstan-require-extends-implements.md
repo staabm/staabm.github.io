@@ -55,7 +55,7 @@ interface SoftDeletingMarkerInterface {
 
 With this declaration we define that a class which implements the `SoftDeletingMarkerInterface` has to extend the `DatabaseModel` class.
 
-When using interfaces we can achieve more though, because the interface type can be used as a parameter:
+When using interfaces we can achieve more though, because the interface type can be used as e.g. a parameter-type:
 
 ```php
 /**
