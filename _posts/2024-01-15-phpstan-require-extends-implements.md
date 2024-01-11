@@ -6,7 +6,7 @@ tags:
 image: "images/og-images/phpstan-require-extends-implements.jpg"
 
 ogImage:
-    title: "New PHPStan feature: @phpstan-require-extends & @phpstan-require-implements"
+    title: "New PHPStan feature: require-extends & require-implements phpDoc"
     subtitle: "Define requirements interfaces or traits impose on usage classes"
     imageUrl: "https://staabm.github.io/staabm.svg"
     fileName: "phpstan-require-extends-implements"
@@ -89,17 +89,18 @@ Looking up properties/calling methods on the interface type is currently only po
 
 #### `@phpstan-require-implements` trait-example
 
-similar to the `@phpstan-require-extends` trait example, its supported to use `@phpstan-require-implements` on traits:
+Similar to the `@phpstan-require-extends` trait example, its supported to use `@phpstan-require-implements` on traits:
 
 ```php
 /**
- * @phpstan-require-implements DatabaseModel
+ * @phpstan-require-implements DatabaseModelInterface
  */
 trait SoftDeletingTrait {
   // useful but scoped functionality, that depends on methods/properties from DatabaseModel
 }
 ```
 
+With this declaration we define that a class wich uses the `SoftDeletingTrait` has to implement a `DatabaseModelInterface` interface.
 
 See the full [example running in the PHPStan sandbox](https://phpstan.org/r/124389c9-d215-422a-b09c-2299cc8b33f0)
 
