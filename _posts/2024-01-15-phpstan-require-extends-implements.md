@@ -84,7 +84,8 @@ PHPStan will not error when accessing public properties or calling public method
 
 See the full [example running in the PHPStan sandbox](https://phpstan.org/r/4998eff7-7117-43b3-b022-0ee185bc4529)
 
-NOTE: Looking up properties/calling methods on the interface type is currently only possible in PHPStan. I have opened a dedicated [psalm feature request #10538 for discussion](https://github.com/vimeo/psalm/issues/10538).
+**NOTE:**
+Looking up properties/calling methods on the interface type is currently only possible in PHPStan. I have opened a dedicated [psalm feature request #10538 for discussion](https://github.com/vimeo/psalm/issues/10538).
 
 #### `@phpstan-require-implements` trait-example
 
@@ -107,7 +108,8 @@ See the full [example running in the PHPStan sandbox](https://phpstan.org/r/1243
 
 As with most phpDoc annotations, PHPStan will happily accept a psalm-prefxied `@psalm-require-implements`.
 
-NOTE: Looking up properties/calling methods on the interface type is currently only possible in PHPStan. I have opened a dedicated [psalm feature request #10538 for discussion](https://github.com/vimeo/psalm/issues/10538).
+**NOTE:**
+Looking up properties/calling methods on the interface type is currently only possible in PHPStan. I have opened a dedicated [psalm feature request #10538 for discussion](https://github.com/vimeo/psalm/issues/10538).
 
 
 ### Future scope: generics support
