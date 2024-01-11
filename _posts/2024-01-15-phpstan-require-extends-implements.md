@@ -103,6 +103,13 @@ trait SoftDeletingTrait {
 See the full [example running in the PHPStan sandbox](https://phpstan.org/r/124389c9-d215-422a-b09c-2299cc8b33f0)
 
 
+### psalm compatibility
+
+As with most phpDoc annotations, PHPStan will happily accept a psalm-prefxied `@psalm-require-implements`.
+
+NOTE: Looking up properties/calling methods on the interface type is currently only possible in PHPStan. I have opened a dedicated [psalm feature request #10538 for discussion](https://github.com/vimeo/psalm/issues/10538).
+
+
 ### Future scope: generics support
 
 We plan to support generics in these phpDoc annotations in the future, see the [described idea by Ondřej Mirtes](https://github.com/phpstan/phpstan-src/pull/2856#issuecomment-1884877444).
