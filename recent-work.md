@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Create 2024-01-15-phpstan-require-extends-implements.md](https://github.com/staabm/staabm.github.io/pull/111) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Remove Http-Client specific forbidd rules](https://github.com/symplify/phpstan-rules/pull/107) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (today)
 - [Remove Nette-framework specific forbidd rules](https://github.com/symplify/phpstan-rules/pull/106) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (today)
 - [require-extends should not error on interfaces](https://github.com/phpstan/phpstan-src/pull/2861) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Remove unused DirectClassReflectionExtensionRegistryProvider](https://github.com/phpstan/phpstan-src/pull/2857) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Implement RequireExtendsPropertiesClassReflectionExtension](https://github.com/phpstan/phpstan-src/pull/2856) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Added support for @require-extends phpdoc](https://github.com/phpstan/phpdoc-parser/pull/226) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
-- [Faster ParametersAcceptorSelector-&gt;combine()](https://github.com/phpstan/phpstan-src/pull/2851) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
