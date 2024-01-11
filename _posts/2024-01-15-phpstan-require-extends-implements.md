@@ -67,11 +67,11 @@ interface SoftDeletingMarkerInterface {
 class DatabaseModel {
     public string $tableName;
 
-    public function softDelete() { /* … */ };
+    public function softDelete():void { /* … */ }
 }
 
 // its allowed to call lookup properties and call method of the require-extends type, when using the interface-type
-function runSoftDelete(SoftDeletingMarkerInterface $model) {
+function runSoftDelete(SoftDeletingMarkerInterface $model):void {
     $tableName = $model->tableName;
     $model->softDelete();
     // …
