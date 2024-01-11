@@ -15,6 +15,8 @@ ogImage:
 ### Sponsored PHPStan feature: require-extends & require-implements phpDoc
 
 I spent a few days implementing `@phpstan-require-extends` and `@phpstan-require-implements` semantics in PHPStan.
+The feature is available in PHPStan 1.10.56+ and newer.
+
 People using psalm might find this feature familiar as it is [already supported in psalm](https://psalm.dev/docs/annotating_code/supported_annotations/#psalm-require-extends).
 
 The idea is to define at interface or trait level, which requirements the usage class has to fulfill.
