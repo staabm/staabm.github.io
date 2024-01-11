@@ -27,7 +27,7 @@ If you are in need of a certain feature or bugfix in PHPStan, Rector or related 
 
 #### `@phpstan-require-extends` trait-example
 
-It's best described iwth an example, so have a look at the psalm documentation example:
+It's best described with an example, so have a look at the psalm documentation example:
 
 ```php
 /**
