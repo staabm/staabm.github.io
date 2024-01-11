@@ -22,6 +22,7 @@ People using psalm might find this feature familiar as it is [already supported 
 The idea is to define at interface or trait level, which requirements the usage class has to fulfill.
 
 The development of this feature was possible, thanks to sponsoring by a interessted party.
+In addition Ondřej Mirtes provided excellent feedback and guidance during the development.
 
 If you are in need of a certain feature or bugfix in PHPStan, Rector or related tooling, feel free to [get in touch](https://staabm.github.io/2024/01/01/phpstan-customizing.html#get-in-touch).
 
@@ -100,3 +101,9 @@ trait SoftDeletingTrait {
 
 
 See the full [example running in the PHPStan sandbox](https://phpstan.org/r/124389c9-d215-422a-b09c-2299cc8b33f0)
+
+
+### Future scope: generics support
+
+We plan to support generics in these phpDoc annotations in the future, see the [described idea by Ondřej Mirtes](https://github.com/phpstan/phpstan-src/pull/2856#issuecomment-1884877444).
+If you are interessted in this feature addition, please [considering sponsoring it](https://staabm.github.io/2024/01/01/phpstan-customizing.html).
