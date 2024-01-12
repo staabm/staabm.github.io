@@ -22,6 +22,12 @@ I spent a few days implementing `@phpstan-require-extends` and `@phpstan-require
 - [`require-extends` should not error on interfaces](https://github.com/phpstan/phpstan-src/pull/2861)
 - [Support `require-extends` and `require-implements` in result cache](https://github.com/phpstan/phpstan-src/pull/2866)
 
+… which fixed the following issues:
+
+- [PHP^8.2: Access to an undefined property when type hinting interface with `@property`](https://github.com/phpstan/phpstan/issues/10302)
+- [`@phpstan-require-use` for requiring implementors/subclasses to use certain traits](https://github.com/phpstan/phpstan/issues/9899)
+- [PHP8.2 - Interface property annotation not found inside class](https://github.com/phpstan/phpstan/issues/8550)
+
 The feature is available starting with PHPStan 1.10.56.
 People using psalm might find this feature familiar as it is [already supported in psalm](https://psalm.dev/docs/annotating_code/supported_annotations/#psalm-require-extends).
 
