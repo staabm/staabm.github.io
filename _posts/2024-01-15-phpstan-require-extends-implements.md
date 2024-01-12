@@ -17,6 +17,7 @@ ogImage:
 I spent a few days implementing `@phpstan-require-extends` and `@phpstan-require-implements` semantics in PHPStan, over a few separate Pull Requests:
 
 - [Support for `require-extends` and `require-implements` in phpdoc-parser](github.com/phpstan/phpdoc-parser/pull/226)
+- [Plumbing for `@phpstan-require-extends` and `@phpstan-require-implements`](https://github.com/phpstan/phpstan-src/commit/53a61dc8674fe5c61fcc08efe08221e919661132)
 - [Implement ClassReflectionExtension](https://github.com/phpstan/phpstan-src/pull/2856)
 - [Implement `require-extends` and `require-implements` rules](https://github.com/phpstan/phpstan-src/pull/2859)
 - [`require-extends` should not error on interfaces](https://github.com/phpstan/phpstan-src/pull/2861)
