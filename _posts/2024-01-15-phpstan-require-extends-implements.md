@@ -6,7 +6,7 @@ tags:
 image: "images/og-images/phpstan-require-extends-implements.jpg"
 
 ogImage:
-    title: "New PHPStan feature: require-extends and require-implements phpDoc"
+    title: "New in PHPStan: require-extends and require-implements phpDoc"
     subtitle: "Define requirements interfaces or traits impose on usage classes"
     imageUrl: "https://staabm.github.io/staabm.svg"
     fileName: "phpstan-require-extends-implements"
