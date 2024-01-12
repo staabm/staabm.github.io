@@ -14,9 +14,15 @@ ogImage:
 
 ### Sponsored PHPStan feature: require-extends & require-implements phpDoc
 
-I spent a few days implementing `@phpstan-require-extends` and `@phpstan-require-implements` semantics in PHPStan.
-The feature is available in PHPStan 1.10.56+ and newer.
+I spent a few days implementing `@phpstan-require-extends` and `@phpstan-require-implements` semantics in PHPStan, over a few separate Pull Requests:
 
+- [Support for `require-extends` and `require-implements` in phpdoc-parser](github.com/phpstan/phpdoc-parser/pull/226)
+- [Implement ClassReflectionExtension](https://github.com/phpstan/phpstan-src/pull/2856)
+- [Implement `require-extends` and `require-implements` rules](https://github.com/phpstan/phpstan-src/pull/2859)
+- [`require-extends` should not error on interfaces](https://github.com/phpstan/phpstan-src/pull/2861)
+- [Support `require-extends` and `require-implements` in result cache](https://github.com/phpstan/phpstan-src/pull/2866)
+
+The feature is available starting with PHPStan 1.10.56.
 People using psalm might find this feature familiar as it is [already supported in psalm](https://psalm.dev/docs/annotating_code/supported_annotations/#psalm-require-extends).
 
 The idea is to define at interface or trait level, which requirements the usage class has to fulfill.
@@ -110,6 +116,11 @@ As with most phpDoc annotations, PHPStan will happily accept a psalm-prefxied `@
 
 **NOTE:**
 Looking up properties/calling methods on the interface type is currently only possible in PHPStan. I have opened a dedicated [psalm feature request #10538 for discussion](https://github.com/vimeo/psalm/issues/10538).
+
+
+### read more
+
+The new feature is mentioned in the [PHPStan docs](https://phpstan.org/writing-php-code/phpdocs-basics#enforcing-class-inheritance-for-interfaces-and-traits) and [PHPStan blog](https://phpstan.org/blog/solving-phpstan-access-to-undefined-property#making-%40property-phpdoc-above-interfaces-work-on-php-8.2%2B) and was recently announced by Ondřej Mirtes [on Twitter](https://twitter.com/OndrejMirtes/status/1745572813367316699) and [mastodon](https://phpc.social/@OndrejMirtes/111739763495147641).
 
 
 ### Future scope: generics support
