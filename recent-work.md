@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Reduce unnecessary calls to getFunctionType()](https://github.com/phpstan/phpstan-src/pull/2872) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Faster NullableType resolving](https://github.com/phpstan/phpstan-src/pull/2871) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Faster NullableType resolving](https://github.com/phpstan/phpstan-src/pull/2870) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [strtok() always returns a non-empty-string when it does not return false](https://github.com/phpstan/phpstan-src/pull/2869) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Extract HttpClient to centralize curl dependency](https://github.com/staabm/phpstan-todo-by/pull/73) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 - [Implement require-extends rules](https://github.com/phpstan/phpstan-src/pull/2859) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Simplify e2e tests](https://github.com/staabm/phpstan-todo-by/pull/72) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
-- [Fix test](https://github.com/staabm/phpstan-todo-by/pull/70) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
