@@ -22,7 +22,7 @@ The idea is to define at interface or trait level, which requirements the usage 
 The development of this feature was possible, thanks to sponsoring by [Pixel & Tonic](https://pixelandtonic.com/), the team behind [Craft CMS](https://craftcms.com/).
 In addition Ondřej Mirtes provided excellent feedback and guidance during the development.
 
-The feature was implemented in separate Pull Requests:
+The feature was implemented in separate Pull Requests, which built on top of each other:
 
 - [Support for `require-extends` and `require-implements` in phpdoc-parser](github.com/phpstan/phpdoc-parser/pull/226)
 - [Plumbing for `@phpstan-require-extends` and `@phpstan-require-implements`](https://github.com/phpstan/phpstan-src/commit/53a61dc8674fe5c61fcc08efe08221e919661132)
