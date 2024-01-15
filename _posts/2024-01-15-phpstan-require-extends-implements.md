@@ -134,4 +134,4 @@ The new feature is mentioned in the [PHPStan docs](https://phpstan.org/writing-p
 ### Future scope: generics support
 
 We plan to support generics in these phpDoc annotations in the future, see the [described idea by Ondřej Mirtes](https://github.com/phpstan/phpstan-src/pull/2856#issuecomment-1884877444).
-If you are interessted in this feature addition, please [considering sponsoring it](https://staabm.github.io/2024/01/01/phpstan-customizing.html).
+If you are interessted in this or any other feature addition, please [considering sponsoring it](https://staabm.github.io/2024/01/01/phpstan-customizing.html).
