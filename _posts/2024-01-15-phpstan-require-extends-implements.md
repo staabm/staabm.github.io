@@ -14,7 +14,15 @@ ogImage:
 
 ### Sponsored PHPStan feature: require-extends and require-implements phpDoc
 
-I spent a few days implementing `@phpstan-require-extends` and `@phpstan-require-implements` semantics in PHPStan, over a few separate Pull Requests:
+I spent a few days implementing `@phpstan-require-extends` and `@phpstan-require-implements` semantics in PHPStan.
+People using psalm might find this feature familiar as it is [already supported in psalm](https://psalm.dev/docs/annotating_code/supported_annotations/#psalm-require-extends).
+
+The idea is to define at interface or trait level, which requirements the usage class has to fulfill.
+
+The development of this feature was possible, thanks to sponsoring by a interessted party.
+In addition Ondřej Mirtes provided excellent feedback and guidance during the development.
+
+The feature was implemented in separate Pull Requests:
 
 - [Support for `require-extends` and `require-implements` in phpdoc-parser](github.com/phpstan/phpdoc-parser/pull/226)
 - [Plumbing for `@phpstan-require-extends` and `@phpstan-require-implements`](https://github.com/phpstan/phpstan-src/commit/53a61dc8674fe5c61fcc08efe08221e919661132)
@@ -30,13 +38,6 @@ I spent a few days implementing `@phpstan-require-extends` and `@phpstan-require
 - [PHP8.2 - Interface property annotation not found inside class](https://github.com/phpstan/phpstan/issues/8550)
 
 … and eventually became the [headlining feature of PHPStan 1.10.56](https://github.com/phpstan/phpstan/releases/tag/1.10.56).
-
-People using psalm might find this feature familiar as it is [already supported in psalm](https://psalm.dev/docs/annotating_code/supported_annotations/#psalm-require-extends).
-
-The idea is to define at interface or trait level, which requirements the usage class has to fulfill.
-
-The development of this feature was possible, thanks to sponsoring by a interessted party.
-In addition Ondřej Mirtes provided excellent feedback and guidance during the development.
 
 If you are in need of a certain feature or bugfix in PHPStan, Rector or related tooling, please [get in touch](https://staabm.github.io/2024/01/01/phpstan-customizing.html#get-in-touch).
 
