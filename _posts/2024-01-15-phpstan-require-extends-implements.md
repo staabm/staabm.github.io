@@ -19,7 +19,7 @@ People using psalm might find this feature familiar as it is [already supported 
 
 The idea is to define at interface or trait level, which requirements the usage class has to fulfill.
 
-The development of this feature was possible, thanks to sponsoring by a interessted party.
+The development of this feature was possible, thanks to sponsoring by [Pixel & Tonic](https://pixelandtonic.com/), the team behind [Craft CMS](https://craftcms.com/).
 In addition Ondřej Mirtes provided excellent feedback and guidance during the development.
 
 The feature was implemented in separate Pull Requests:
