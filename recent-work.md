@@ -17,7 +17,7 @@
 
 #### 📜 My recent blog posts
 
-- [Sponsored PHPStan feature: require-extends &amp;amp; require-implements phpDoc](https://staabm.github.io/2024/01/15/phpstan-require-extends-implements.html) (today)
+- [Sponsored PHPStan feature: require-extends and require-implements phpDoc](https://staabm.github.io/2024/01/15/phpstan-require-extends-implements.html) (today)
 - [Published: Open source contributions statistics generator](https://staabm.github.io/2024/01/10/oss-contribs-published.html) (5 days ago)
 - [PHPStan tailored to your needs](https://staabm.github.io/2024/01/01/phpstan-customizing.html) (2 weeks ago)
 - [Published: phpstan-todo-by](https://staabm.github.io/2023/12/17/phpstan-todo-by-published.html) (4 weeks ago)
