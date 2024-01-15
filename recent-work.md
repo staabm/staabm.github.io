@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent creation of ReflectionMethod objects](https://github.com/Roave/BetterReflection/pull/1388) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [Fix redaxo core compat for 5.12 and older](https://github.com/FriendsOfREDAXO/rexstan/pull/655) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [Reduce unnecessary calls to Scope::getFunctionType()](https://github.com/phpstan/phpstan-src/pull/2874) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Simplify arrow-function return type inference](https://github.com/phpstan/phpstan-src/pull/2873) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,11 +55,11 @@
 - [Remove Http-Client specific forbidd rules](https://github.com/symplify/phpstan-rules/pull/107) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (4 days ago)
 - [Remove Nette-framework specific forbidd rules](https://github.com/symplify/phpstan-rules/pull/106) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (4 days ago)
 - [require-extends should not error on interfaces](https://github.com/phpstan/phpstan-src/pull/2861) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [cleanup CI](https://github.com/staabm/phpstan-todo-by/pull/74) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.55](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.55) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.7](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.7) (5 days ago)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) - [1.1.2](https://github.com/phpstan/phpstan-mockery/releases/tag/1.1.2) (5 days ago)
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.0.1](https://github.com/mautic/mautic/releases/tag/5.0.1) (5 days ago)
@@ -68,4 +69,3 @@
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.21](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.21) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.55](https://github.com/phpstan/phpstan/releases/tag/1.10.55) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.0) (1 week ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.54](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.54) (1 week ago)
