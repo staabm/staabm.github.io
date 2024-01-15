@@ -29,7 +29,8 @@ I spent a few days implementing `@phpstan-require-extends` and `@phpstan-require
 - [`@phpstan-require-use` for requiring implementors/subclasses to use certain traits](https://github.com/phpstan/phpstan/issues/9899)
 - [PHP8.2 - Interface property annotation not found inside class](https://github.com/phpstan/phpstan/issues/8550)
 
-The feature is available starting with PHPStan 1.10.56.
+… and eventually became the [headlining feature of PHPStan 1.10.56](https://github.com/phpstan/phpstan/releases/tag/1.10.56).
+
 People using psalm might find this feature familiar as it is [already supported in psalm](https://psalm.dev/docs/annotating_code/supported_annotations/#psalm-require-extends).
 
 The idea is to define at interface or trait level, which requirements the usage class has to fulfill.
