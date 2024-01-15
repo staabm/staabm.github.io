@@ -122,7 +122,7 @@ See the full [example running in the PHPStan sandbox](https://phpstan.org/r/1243
 
 ### psalm compatibility
 
-As with most phpDoc annotations, PHPStan will happily accept a psalm-prefxied `@psalm-require-implements`.
+As with most phpDoc annotations, PHPStan will happily accept a psalm-prefixed `@psalm-require-implements`.
 
 **NOTE:**
 Looking up properties/calling methods on the interface type is currently only possible in PHPStan. I have opened a dedicated [psalm feature request #10538 for discussion](https://github.com/vimeo/psalm/issues/10538).
