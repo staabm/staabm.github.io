@@ -12,7 +12,7 @@ ogImage:
     fileName: "phpstan-require-extends-implements"
 ---
 
-### Sponsored PHPStan feature: require-extends & require-implements phpDoc
+### Sponsored PHPStan feature: require-extends and require-implements phpDoc
 
 I spent a few days implementing `@phpstan-require-extends` and `@phpstan-require-implements` semantics in PHPStan, over a few separate Pull Requests:
 
