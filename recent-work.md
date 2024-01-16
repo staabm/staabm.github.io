@@ -3,8 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (5 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
@@ -12,7 +13,6 @@
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (2 weeks ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 weeks ago)
 - [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (3 weeks ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [yakamara/yform](https://github.com/yakamara/yform) - [4.1.2-beta2](https://github.com/yakamara/yform/releases/tag/4.1.2-beta2) (today)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.57](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.57) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.23](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.23) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.47.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.47.0) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.158](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.158) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.22.0](https://github.com/Roave/BetterReflection/releases/tag/6.22.0) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.56](https://github.com/phpstan/phpstan/releases/tag/1.10.56) (1 day ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.56](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.56) (1 day ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.7](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.7) (6 days ago)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) - [1.1.2](https://github.com/phpstan/phpstan-mockery/releases/tag/1.1.2) (6 days ago)
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.0.1](https://github.com/mautic/mautic/releases/tag/5.0.1) (6 days ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.19.0](https://github.com/vimeo/psalm/releases/tag/5.19.0) (1 week ago)
