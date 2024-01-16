@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mautic/mautic](https://github.com/mautic/mautic) - [5.0.2](https://github.com/mautic/mautic/releases/tag/5.0.2) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.47.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.47.1) (today)
 - [yakamara/yform](https://github.com/yakamara/yform) - [4.1.2-beta2](https://github.com/yakamara/yform/releases/tag/4.1.2-beta2) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.57](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.57) (today)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.56](https://github.com/phpstan/phpstan/releases/tag/1.10.56) (1 day ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.7](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.7) (6 days ago)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) - [1.1.2](https://github.com/phpstan/phpstan-mockery/releases/tag/1.1.2) (6 days ago)
-- [mautic/mautic](https://github.com/mautic/mautic) - [5.0.1](https://github.com/mautic/mautic/releases/tag/5.0.1) (6 days ago)
