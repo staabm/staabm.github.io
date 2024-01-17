@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Rework TodoByTicketRule to utilize a Collector](https://github.com/staabm/phpstan-todo-by/pull/77) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Prevent creation of ReflectionMethod objects](https://github.com/Roave/BetterReflection/pull/1388) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 days ago)
 - [Fix redaxo core compat for 5.12 and older](https://github.com/FriendsOfREDAXO/rexstan/pull/655) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [Reduce unnecessary calls to Scope::getFunctionType()](https://github.com/phpstan/phpstan-src/pull/2874) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -54,11 +55,11 @@
 - [Create 2024-01-15-phpstan-require-extends-implements.md](https://github.com/staabm/staabm.github.io/pull/111) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 - [Remove Http-Client specific forbidd rules](https://github.com/symplify/phpstan-rules/pull/107) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (6 days ago)
 - [Remove Nette-framework specific forbidd rules](https://github.com/symplify/phpstan-rules/pull/106) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (6 days ago)
-- [require-extends should not error on interfaces](https://github.com/phpstan/phpstan-src/pull/2861) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.19.1](https://github.com/vimeo/psalm/releases/tag/5.19.1) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.58](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.58) (today)
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.0.2](https://github.com/mautic/mautic/releases/tag/5.0.2) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.47.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.47.1) (1 day ago)
@@ -68,4 +69,3 @@
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.22.0](https://github.com/Roave/BetterReflection/releases/tag/6.22.0) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.56](https://github.com/phpstan/phpstan/releases/tag/1.10.56) (2 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.7](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.7) (1 week ago)
-- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) - [1.1.2](https://github.com/phpstan/phpstan-mockery/releases/tag/1.1.2) (1 week ago)
