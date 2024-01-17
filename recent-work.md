@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nette/utils](https://github.com/nette/utils) - [v4.0.4](https://github.com/nette/utils/releases/tag/v4.0.4) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.19.1](https://github.com/vimeo/psalm/releases/tag/5.19.1) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.58](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.58) (today)
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.0.2](https://github.com/mautic/mautic/releases/tag/5.0.2) (1 day ago)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.158](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.158) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.22.0](https://github.com/Roave/BetterReflection/releases/tag/6.22.0) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.56](https://github.com/phpstan/phpstan/releases/tag/1.10.56) (2 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.7](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.7) (1 week ago)
