@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use parallel http requests](https://github.com/staabm/phpstan-todo-by/pull/79) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Verify json serializability of collector data in single process run](https://github.com/phpstan/phpstan-src/pull/2881) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Enable http timeouts](https://github.com/staabm/phpstan-todo-by/pull/78) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [Rework TodoByTicketRule to utilize a Collector](https://github.com/staabm/phpstan-todo-by/pull/77) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
@@ -54,11 +55,11 @@
 - [Simplify default-return path in Extensions](https://github.com/phpstan/phpstan-src/pull/2868) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix stale result cache for require-extends/require-implements](https://github.com/phpstan/phpstan-src/pull/2866) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Prevent repetitive calls to `Type::getConstantArrays()`](https://github.com/phpstan/phpstan-src/pull/2864) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Create 2024-01-15-phpstan-require-extends-implements.md](https://github.com/staabm/staabm.github.io/pull/111) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.4.0](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.4.0) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.23.0](https://github.com/Roave/BetterReflection/releases/tag/6.23.0) (today)
 - [mautic/mautic](https://github.com/mautic/mautic) - [4.4.11](https://github.com/mautic/mautic/releases/tag/4.4.11) (1 day ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.20.0](https://github.com/vimeo/psalm/releases/tag/5.20.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [yakamara/yform](https://github.com/yakamara/yform) - [4.1.2-beta2](https://github.com/yakamara/yform/releases/tag/4.1.2-beta2) (3 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.23](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.23) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.158](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.158) (4 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.56](https://github.com/phpstan/phpstan/releases/tag/1.10.56) (4 days ago)
