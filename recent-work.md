@@ -3,11 +3,11 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (3 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (2 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [curl_multi_init() cannot return false](https://github.com/phpstan/phpstan-src/pull/2882) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Use parallel http requests](https://github.com/staabm/phpstan-todo-by/pull/79) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Verify json serializability of collector data in single process run](https://github.com/phpstan/phpstan-src/pull/2881) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Enable http timeouts](https://github.com/staabm/phpstan-todo-by/pull/78) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
@@ -54,7 +55,6 @@
 - [strtok() always returns a non-empty-string when it does not return false](https://github.com/phpstan/phpstan-src/pull/2869) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Simplify default-return path in Extensions](https://github.com/phpstan/phpstan-src/pull/2868) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix stale result cache for require-extends/require-implements](https://github.com/phpstan/phpstan-src/pull/2866) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Prevent repetitive calls to `Type::getConstantArrays()`](https://github.com/phpstan/phpstan-src/pull/2864) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
