@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.48.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.48.0) (today)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.4.0](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.4.0) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.23.0](https://github.com/Roave/BetterReflection/releases/tag/6.23.0) (today)
 - [mautic/mautic](https://github.com/mautic/mautic) - [4.4.11](https://github.com/mautic/mautic/releases/tag/4.4.11) (1 day ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.20.0](https://github.com/vimeo/psalm/releases/tag/5.20.0) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.59](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.59) (1 day ago)
 - [nette/utils](https://github.com/nette/utils) - [v4.0.4](https://github.com/nette/utils/releases/tag/v4.0.4) (2 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.47.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.47.1) (3 days ago)
 - [yakamara/yform](https://github.com/yakamara/yform) - [4.1.2-beta2](https://github.com/yakamara/yform/releases/tag/4.1.2-beta2) (3 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.23](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.23) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.158](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.158) (4 days ago)
