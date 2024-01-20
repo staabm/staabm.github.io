@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [DX: improve error message](https://github.com/FriendsOfREDAXO/rexstan/pull/660) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [UX: report better errors on invalid returned json](https://github.com/FriendsOfREDAXO/rexstan/pull/659) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Fix JSON output format on bootstrap files deprecations](https://github.com/phpstan/phpstan-src/pull/2883) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix php deprecation warning](https://github.com/redaxo/redaxo/pull/5866) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
@@ -54,7 +55,6 @@
 - [Simplify arrow-function return type inference](https://github.com/phpstan/phpstan-src/pull/2873) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Reduce unnecessary calls to getFunctionType()](https://github.com/phpstan/phpstan-src/pull/2872) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Faster NullableType resolving](https://github.com/phpstan/phpstan-src/pull/2871) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Faster NullableType resolving](https://github.com/phpstan/phpstan-src/pull/2870) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
