@@ -3,11 +3,11 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
 - [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (4 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (2 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [UX: report better errors on invalid returned json](https://github.com/FriendsOfREDAXO/rexstan/pull/659) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Fix JSON output format on bootstrap files deprecations](https://github.com/phpstan/phpstan-src/pull/2883) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix php deprecation warning](https://github.com/redaxo/redaxo/pull/5866) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [curl_multi_init() cannot return false](https://github.com/phpstan/phpstan-src/pull/2882) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,11 +55,11 @@
 - [Reduce unnecessary calls to getFunctionType()](https://github.com/phpstan/phpstan-src/pull/2872) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Faster NullableType resolving](https://github.com/phpstan/phpstan-src/pull/2871) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Faster NullableType resolving](https://github.com/phpstan/phpstan-src/pull/2870) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [strtok() always returns a non-empty-string when it does not return false](https://github.com/phpstan/phpstan-src/pull/2869) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.159](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.159) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.24](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.24) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.48.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.48.0) (1 day ago)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.4.0](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.4.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.59](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.59) (2 days ago)
 - [nette/utils](https://github.com/nette/utils) - [v4.0.4](https://github.com/nette/utils/releases/tag/v4.0.4) (3 days ago)
 - [yakamara/yform](https://github.com/yakamara/yform) - [4.1.2-beta2](https://github.com/yakamara/yform/releases/tag/4.1.2-beta2) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.158](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.158) (5 days ago)
