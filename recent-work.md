@@ -3,11 +3,11 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
-- [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (5 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
+- [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (6 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (2 weeks ago)
@@ -17,9 +17,9 @@
 
 #### 📜 My recent blog posts
 
-- [Sponsored PHPStan feature: require-extends and require-implements phpDoc](https://staabm.github.io/2024/01/15/phpstan-require-extends-implements.html) (6 days ago)
+- [Sponsored PHPStan feature: require-extends and require-implements phpDoc](https://staabm.github.io/2024/01/15/phpstan-require-extends-implements.html) (1 week ago)
 - [Published: Open source contributions statistics generator](https://staabm.github.io/2024/01/10/oss-contribs-published.html) (1 week ago)
-- [PHPStan tailored to your needs](https://staabm.github.io/2024/01/01/phpstan-customizing.html) (2 weeks ago)
+- [PHPStan tailored to your needs](https://staabm.github.io/2024/01/01/phpstan-customizing.html) (3 weeks ago)
 - [Published: phpstan-todo-by](https://staabm.github.io/2023/12/17/phpstan-todo-by-published.html) (1 month ago)
 - [Contribution Summary 2023](https://staabm.github.io/2023/12/07/contribution-summary-2023.html) (1 month ago)
 
@@ -40,17 +40,17 @@
 
 #### 🔨 My recent Pull Requests
 
-- [error_log() is impure](https://github.com/phpstan/phpstan-src/pull/2884) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [DX: improve error message](https://github.com/FriendsOfREDAXO/rexstan/pull/660) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [UX: report better errors on invalid returned json](https://github.com/FriendsOfREDAXO/rexstan/pull/659) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [Fix JSON output format on bootstrap files deprecations](https://github.com/phpstan/phpstan-src/pull/2883) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Fix php deprecation warning](https://github.com/redaxo/redaxo/pull/5866) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 day ago)
-- [curl_multi_init() cannot return false](https://github.com/phpstan/phpstan-src/pull/2882) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Use parallel http requests](https://github.com/staabm/phpstan-todo-by/pull/79) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
-- [Verify json serializability of collector data in single process run](https://github.com/phpstan/phpstan-src/pull/2881) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Enable http timeouts](https://github.com/staabm/phpstan-todo-by/pull/78) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
-- [Rework TodoByTicketRule to utilize a Collector](https://github.com/staabm/phpstan-todo-by/pull/77) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
-- [Prevent creation of ReflectionMethod objects](https://github.com/Roave/BetterReflection/pull/1388) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (6 days ago)
+- [error_log() is impure](https://github.com/phpstan/phpstan-src/pull/2884) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [DX: improve error message](https://github.com/FriendsOfREDAXO/rexstan/pull/660) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [UX: report better errors on invalid returned json](https://github.com/FriendsOfREDAXO/rexstan/pull/659) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [Fix JSON output format on bootstrap files deprecations](https://github.com/phpstan/phpstan-src/pull/2883) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Fix php deprecation warning](https://github.com/redaxo/redaxo/pull/5866) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
+- [curl_multi_init() cannot return false](https://github.com/phpstan/phpstan-src/pull/2882) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Use parallel http requests](https://github.com/staabm/phpstan-todo-by/pull/79) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
+- [Verify json serializability of collector data in single process run](https://github.com/phpstan/phpstan-src/pull/2881) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Enable http timeouts](https://github.com/staabm/phpstan-todo-by/pull/78) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
+- [Rework TodoByTicketRule to utilize a Collector](https://github.com/staabm/phpstan-todo-by/pull/77) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (5 days ago)
+- [Prevent creation of ReflectionMethod objects](https://github.com/Roave/BetterReflection/pull/1388) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
 - [Fix redaxo core compat for 5.12 and older](https://github.com/FriendsOfREDAXO/rexstan/pull/655) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [Reduce unnecessary calls to Scope::getFunctionType()](https://github.com/phpstan/phpstan-src/pull/2874) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Simplify arrow-function return type inference](https://github.com/phpstan/phpstan-src/pull/2873) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.2](https://github.com/briannesbitt/Carbon/releases/tag/2.72.2) (today)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.25](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.25) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.159](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.159) (1 day ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.48.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.48.0) (2 days ago)
-- [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.4.0](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.4.0) (2 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.23.0](https://github.com/Roave/BetterReflection/releases/tag/6.23.0) (2 days ago)
-- [mautic/mautic](https://github.com/mautic/mautic) - [4.4.11](https://github.com/mautic/mautic/releases/tag/4.4.11) (3 days ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.20.0](https://github.com/vimeo/psalm/releases/tag/5.20.0) (3 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.59](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.59) (3 days ago)
-- [nette/utils](https://github.com/nette/utils) - [v4.0.4](https://github.com/nette/utils/releases/tag/v4.0.4) (4 days ago)
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.2](https://github.com/briannesbitt/Carbon/releases/tag/2.72.2) (1 day ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.25](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.25) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.159](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.159) (2 days ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.48.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.48.0) (3 days ago)
+- [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.4.0](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.4.0) (3 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.23.0](https://github.com/Roave/BetterReflection/releases/tag/6.23.0) (3 days ago)
+- [mautic/mautic](https://github.com/mautic/mautic) - [4.4.11](https://github.com/mautic/mautic/releases/tag/4.4.11) (4 days ago)
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.20.0](https://github.com/vimeo/psalm/releases/tag/5.20.0) (4 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.59](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.59) (4 days ago)
+- [nette/utils](https://github.com/nette/utils) - [v4.0.4](https://github.com/nette/utils/releases/tag/v4.0.4) (5 days ago)
