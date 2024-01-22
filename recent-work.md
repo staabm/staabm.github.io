@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
@@ -11,7 +12,6 @@
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (2 weeks ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 weeks ago)
 - [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (3 weeks ago)
 
 
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Skip mysqli tests for now to un-break the build](https://github.com/staabm/phpstan-dba/pull/640) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Resolve invalid deprecation that was crashing Dibi analysis in debug mode.](https://github.com/staabm/phpstan-dba/pull/639) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [error_log() is impure](https://github.com/phpstan/phpstan-src/pull/2884) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [DX: improve error message](https://github.com/FriendsOfREDAXO/rexstan/pull/660) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [UX: report better errors on invalid returned json](https://github.com/FriendsOfREDAXO/rexstan/pull/659) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
@@ -53,8 +55,6 @@
 - [Prevent creation of ReflectionMethod objects](https://github.com/Roave/BetterReflection/pull/1388) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
 - [Fix redaxo core compat for 5.12 and older](https://github.com/FriendsOfREDAXO/rexstan/pull/655) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [Reduce unnecessary calls to Scope::getFunctionType()](https://github.com/phpstan/phpstan-src/pull/2874) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Simplify arrow-function return type inference](https://github.com/phpstan/phpstan-src/pull/2873) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Reduce unnecessary calls to getFunctionType()](https://github.com/phpstan/phpstan-src/pull/2872) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
