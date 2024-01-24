@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.57](https://github.com/phpstan/phpstan/releases/tag/1.10.57) (today)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.0.0-beta.3](https://github.com/briannesbitt/Carbon/releases/tag/3.0.0-beta.3) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.25](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.25) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.159](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.159) (4 days ago)
@@ -68,4 +69,3 @@
 - [mautic/mautic](https://github.com/mautic/mautic) - [4.4.11](https://github.com/mautic/mautic/releases/tag/4.4.11) (6 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.20.0](https://github.com/vimeo/psalm/releases/tag/5.20.0) (6 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.59](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.59) (6 days ago)
-- [nette/utils](https://github.com/nette/utils) - [v4.0.4](https://github.com/nette/utils/releases/tag/v4.0.4) (1 week ago)
