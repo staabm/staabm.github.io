@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.0.0-beta.2](https://github.com/briannesbitt/Carbon/releases/tag/3.0.0-beta.2) (1 day ago)
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.0.0-beta.3](https://github.com/briannesbitt/Carbon/releases/tag/3.0.0-beta.3) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.25](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.25) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.159](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.159) (4 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.48.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.48.0) (5 days ago)
