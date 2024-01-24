@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (6 days ago)
 - [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 weeks ago)
 - [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (4 weeks ago)
 
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improve error message on parse errors](https://github.com/staabm/secure_dotenv/pull/11) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
 - [Re-enable mysqli type inference tests](https://github.com/staabm/phpstan-dba/pull/641) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [Skip mysqli tests for now to un-break the build](https://github.com/staabm/phpstan-dba/pull/640) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [Resolve invalid deprecation that was crashing Dibi analysis in debug mode.](https://github.com/staabm/phpstan-dba/pull/639) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
@@ -54,11 +55,11 @@
 - [Enable http timeouts](https://github.com/staabm/phpstan-todo-by/pull/78) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (6 days ago)
 - [Rework TodoByTicketRule to utilize a Collector](https://github.com/staabm/phpstan-todo-by/pull/77) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 - [Prevent creation of ReflectionMethod objects](https://github.com/Roave/BetterReflection/pull/1388) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
-- [Fix redaxo core compat for 5.12 and older](https://github.com/FriendsOfREDAXO/rexstan/pull/655) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [10.0.2](https://github.com/staabm/secure_dotenv/releases/tag/10.0.2) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.57](https://github.com/phpstan/phpstan/releases/tag/1.10.57) (today)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.0.0-beta.3](https://github.com/briannesbitt/Carbon/releases/tag/3.0.0-beta.3) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.25](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.25) (3 days ago)
@@ -68,4 +69,3 @@
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.23.0](https://github.com/Roave/BetterReflection/releases/tag/6.23.0) (5 days ago)
 - [mautic/mautic](https://github.com/mautic/mautic) - [4.4.11](https://github.com/mautic/mautic/releases/tag/4.4.11) (6 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.20.0](https://github.com/vimeo/psalm/releases/tag/5.20.0) (6 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.59](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.59) (6 days ago)
