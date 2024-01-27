@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.3](https://github.com/briannesbitt/Carbon/releases/tag/2.72.3) (2 days ago)
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.0.0-rc.1](https://github.com/briannesbitt/Carbon/releases/tag/3.0.0-rc.1) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.160](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.160) (2 days ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [10.0.2](https://github.com/staabm/secure_dotenv/releases/tag/10.0.2) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.57](https://github.com/phpstan/phpstan/releases/tag/1.10.57) (3 days ago)
