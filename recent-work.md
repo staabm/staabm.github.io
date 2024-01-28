@@ -3,11 +3,11 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (4 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 - [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 weeks ago)
@@ -40,12 +40,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Narrow types based on non-strict equality with constant types](https://github.com/phpstan/phpstan-src/pull/2889) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Improve error message on parse errors](https://github.com/staabm/secure_dotenv/pull/11) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 days ago)
-- [Re-enable mysqli type inference tests](https://github.com/staabm/phpstan-dba/pull/641) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [Skip mysqli tests for now to un-break the build](https://github.com/staabm/phpstan-dba/pull/640) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [Resolve invalid deprecation that was crashing Dibi analysis in debug mode.](https://github.com/staabm/phpstan-dba/pull/639) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [error_log() is impure](https://github.com/phpstan/phpstan-src/pull/2884) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Narrow types based on non-strict equality with constant types](https://github.com/phpstan/phpstan-src/pull/2889) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Improve error message on parse errors](https://github.com/staabm/secure_dotenv/pull/11) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (4 days ago)
+- [Re-enable mysqli type inference tests](https://github.com/staabm/phpstan-dba/pull/641) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
+- [Skip mysqli tests for now to un-break the build](https://github.com/staabm/phpstan-dba/pull/640) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
+- [Resolve invalid deprecation that was crashing Dibi analysis in debug mode.](https://github.com/staabm/phpstan-dba/pull/639) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
+- [error_log() is impure](https://github.com/phpstan/phpstan-src/pull/2884) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [DX: improve error message](https://github.com/FriendsOfREDAXO/rexstan/pull/660) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [UX: report better errors on invalid returned json](https://github.com/FriendsOfREDAXO/rexstan/pull/659) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [Fix JSON output format on bootstrap files deprecations](https://github.com/phpstan/phpstan-src/pull/2883) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.0.0-rc.1](https://github.com/briannesbitt/Carbon/releases/tag/3.0.0-rc.1) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.160](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.160) (2 days ago)
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [10.0.2](https://github.com/staabm/secure_dotenv/releases/tag/10.0.2) (3 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.57](https://github.com/phpstan/phpstan/releases/tag/1.10.57) (3 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.25](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.25) (6 days ago)
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.0.0-rc.1](https://github.com/briannesbitt/Carbon/releases/tag/3.0.0-rc.1) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.160](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.160) (3 days ago)
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [10.0.2](https://github.com/staabm/secure_dotenv/releases/tag/10.0.2) (4 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.57](https://github.com/phpstan/phpstan/releases/tag/1.10.57) (4 days ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.25](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.25) (1 week ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.48.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.48.0) (1 week ago)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.4.0](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.4.0) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.23.0](https://github.com/Roave/BetterReflection/releases/tag/6.23.0) (1 week ago)
