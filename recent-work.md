@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (5 days ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (6 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (2 weeks ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent unnecessary isSuperTypeOf() calls](https://github.com/phpstan/phpstan-src/pull/2895) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix result-cache with phpstan-types on New_ references](https://github.com/phpstan/phpstan-src/pull/2894) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Reproduce bug 10449](https://github.com/phpstan/phpstan/pull/10508) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [Narrow types based on non-strict equality with constant types](https://github.com/phpstan/phpstan-src/pull/2889) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
@@ -54,7 +55,6 @@
 - [Fix php deprecation warning](https://github.com/redaxo/redaxo/pull/5866) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [curl_multi_init() cannot return false](https://github.com/phpstan/phpstan-src/pull/2882) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Use parallel http requests](https://github.com/staabm/phpstan-todo-by/pull/79) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
-- [Verify json serializability of collector data in single process run](https://github.com/phpstan/phpstan-src/pull/2881) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
