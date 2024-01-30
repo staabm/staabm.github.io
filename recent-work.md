@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix result-cache with phpstan-types on New_ references](https://github.com/phpstan/phpstan-src/pull/2894) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Reproduce bug 10449](https://github.com/phpstan/phpstan/pull/10508) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [Narrow types based on non-strict equality with constant types](https://github.com/phpstan/phpstan-src/pull/2889) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Improve error message on parse errors](https://github.com/staabm/secure_dotenv/pull/11) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (6 days ago)
@@ -54,7 +55,6 @@
 - [curl_multi_init() cannot return false](https://github.com/phpstan/phpstan-src/pull/2882) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Use parallel http requests](https://github.com/staabm/phpstan-todo-by/pull/79) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 - [Verify json serializability of collector data in single process run](https://github.com/phpstan/phpstan-src/pull/2881) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Enable http timeouts](https://github.com/staabm/phpstan-todo-by/pull/78) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
