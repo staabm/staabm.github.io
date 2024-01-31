@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (6 days ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) - [v6.4.3](https://github.com/symfony/symfony/releases/tag/v6.4.3) (today)
+- [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.3](https://github.com/symfony/symfony/releases/tag/v7.0.3) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.21.0](https://github.com/vimeo/psalm/releases/tag/5.21.0) (1 day ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.0.0-rc.1](https://github.com/briannesbitt/Carbon/releases/tag/3.0.0-rc.1) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.160](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.160) (6 days ago)
