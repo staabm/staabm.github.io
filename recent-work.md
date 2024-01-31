@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) - [v6.4.3](https://github.com/symfony/symfony/releases/tag/v6.4.3) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.21.0](https://github.com/vimeo/psalm/releases/tag/5.21.0) (1 day ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v5.4.35](https://github.com/symfony/symfony/releases/tag/v5.4.35) (1 day ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.0.0-rc.1](https://github.com/briannesbitt/Carbon/releases/tag/3.0.0-rc.1) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.160](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.160) (6 days ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [10.0.2](https://github.com/staabm/secure_dotenv/releases/tag/10.0.2) (1 week ago)
