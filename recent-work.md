@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.16.0-beta1](https://github.com/redaxo/redaxo/releases/tag/5.16.0-beta1) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.3](https://github.com/symfony/symfony/releases/tag/v7.0.3) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.21.0](https://github.com/vimeo/psalm/releases/tag/5.21.0) (1 day ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.0.0-rc.1](https://github.com/briannesbitt/Carbon/releases/tag/3.0.0-rc.1) (4 days ago)
@@ -68,4 +69,3 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.25](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.25) (1 week ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.48.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.48.0) (1 week ago)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.4.0](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.4.0) (1 week ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.23.0](https://github.com/Roave/BetterReflection/releases/tag/6.23.0) (1 week ago)
