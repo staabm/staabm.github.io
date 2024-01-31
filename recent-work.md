@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [`[1 =&gt; &#39;method&#39;, 0 =&gt; $obj]` was not recognized as calllable](https://github.com/phpstan/phpstan-src/pull/2896) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent unnecessary isSuperTypeOf() calls](https://github.com/phpstan/phpstan-src/pull/2895) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix result-cache with phpstan-types on New_ references](https://github.com/phpstan/phpstan-src/pull/2894) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Reproduce bug 10449](https://github.com/phpstan/phpstan/pull/10508) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
@@ -54,7 +55,6 @@
 - [Fix JSON output format on bootstrap files deprecations](https://github.com/phpstan/phpstan-src/pull/2883) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix php deprecation warning](https://github.com/redaxo/redaxo/pull/5866) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [curl_multi_init() cannot return false](https://github.com/phpstan/phpstan-src/pull/2882) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Use parallel http requests](https://github.com/staabm/phpstan-todo-by/pull/79) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
