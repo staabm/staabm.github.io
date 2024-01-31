@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (6 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (2 weeks ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (3 weeks ago)
-- [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (1 month ago)
 
 
 #### 📜 My recent blog posts
