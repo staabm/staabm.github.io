@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (2 weeks ago)
