@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify `ClassPropertiesNode-&gt;getUninitializedProperties()`](https://github.com/phpstan/phpstan-src/pull/2899) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Reproduce Bug 10523](https://github.com/phpstan/phpstan-src/pull/2897) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Added PHP 8.3 to test-matrix](https://github.com/serbanghita/Mobile-Detect/pull/954) on [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) (today)
 - [Declare support for older psr/simple-cache version](https://github.com/serbanghita/Mobile-Detect/pull/953) on [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) (today)
@@ -54,7 +55,6 @@
 - [Resolve invalid deprecation that was crashing Dibi analysis in debug mode.](https://github.com/staabm/phpstan-dba/pull/639) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [error_log() is impure](https://github.com/phpstan/phpstan-src/pull/2884) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [DX: improve error message](https://github.com/FriendsOfREDAXO/rexstan/pull/660) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [UX: report better errors on invalid returned json](https://github.com/FriendsOfREDAXO/rexstan/pull/659) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
