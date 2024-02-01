@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.21.1](https://github.com/vimeo/psalm/releases/tag/5.21.1) (today)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.0.0-rc.3](https://github.com/briannesbitt/Carbon/releases/tag/3.0.0-rc.3) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.16.0-beta1](https://github.com/redaxo/redaxo/releases/tag/5.16.0-beta1) (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.3](https://github.com/symfony/symfony/releases/tag/v7.0.3) (1 day ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.21.0](https://github.com/vimeo/psalm/releases/tag/5.21.0) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.160](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.160) (1 week ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [10.0.2](https://github.com/staabm/secure_dotenv/releases/tag/10.0.2) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.57](https://github.com/phpstan/phpstan/releases/tag/1.10.57) (1 week ago)
