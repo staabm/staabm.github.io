@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Reproduce Bug 10523](https://github.com/phpstan/phpstan-src/pull/2897) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Added PHP 8.3 to test-matrix](https://github.com/serbanghita/Mobile-Detect/pull/954) on [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) (today)
 - [Declare support for older psr/simple-cache version](https://github.com/serbanghita/Mobile-Detect/pull/953) on [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) (today)
 - [`[1 =&gt; &#39;method&#39;, 0 =&gt; $obj]` was not recognized as calllable](https://github.com/phpstan/phpstan-src/pull/2896) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [error_log() is impure](https://github.com/phpstan/phpstan-src/pull/2884) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [DX: improve error message](https://github.com/FriendsOfREDAXO/rexstan/pull/660) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [UX: report better errors on invalid returned json](https://github.com/FriendsOfREDAXO/rexstan/pull/659) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [Fix JSON output format on bootstrap files deprecations](https://github.com/phpstan/phpstan-src/pull/2883) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
