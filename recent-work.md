@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix xdebug handling](https://github.com/rectorphp/rector-src/pull/5544) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Added failling test](https://github.com/phpstan/phpstan-src/pull/2900) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Test PHP 8.3](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/116) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 day ago)
 - [Simplify `ClassPropertiesNode-&gt;getUninitializedProperties()`](https://github.com/phpstan/phpstan-src/pull/2899) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Improve error message on parse errors](https://github.com/staabm/secure_dotenv/pull/11) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
 - [Re-enable mysqli type inference tests](https://github.com/staabm/phpstan-dba/pull/641) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [Skip mysqli tests for now to un-break the build](https://github.com/staabm/phpstan-dba/pull/640) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [Resolve invalid deprecation that was crashing Dibi analysis in debug mode.](https://github.com/staabm/phpstan-dba/pull/639) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
