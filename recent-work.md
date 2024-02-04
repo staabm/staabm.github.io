@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.5.0](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.5.0) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.26](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.26) (1 day ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.0.0](https://github.com/doctrine/orm/releases/tag/3.0.0) (1 day ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.22](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.22) (2 days ago)
@@ -68,4 +69,3 @@
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.16.0-beta1](https://github.com/redaxo/redaxo/releases/tag/5.16.0-beta1) (4 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.3](https://github.com/symfony/symfony/releases/tag/v7.0.3) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.160](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.160) (1 week ago)
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [10.0.2](https://github.com/staabm/secure_dotenv/releases/tag/10.0.2) (1 week ago)
