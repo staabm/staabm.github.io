@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support root-namespace parent classes](https://github.com/TomasVotruba/finalize/pull/3) on [TomasVotruba/finalize](https://github.com/TomasVotruba/finalize) (today)
 - [DX: Improve readme](https://github.com/TomasVotruba/finalize/pull/1) on [TomasVotruba/finalize](https://github.com/TomasVotruba/finalize) (today)
 - [Simplify function-name determination](https://github.com/phpstan/phpstan-src/pull/2904) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fix xdebug handling](https://github.com/rectorphp/rector-src/pull/5544) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
@@ -54,12 +55,11 @@
 - [Fix result-cache with phpstan-types on New_ references](https://github.com/phpstan/phpstan-src/pull/2894) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Reproduce bug 10449](https://github.com/phpstan/phpstan/pull/10508) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [Narrow types based on non-strict equality with constant types](https://github.com/phpstan/phpstan-src/pull/2889) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Improve error message on parse errors](https://github.com/staabm/secure_dotenv/pull/11) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.2](https://github.com/matomo-org/matomo/releases/tag/5.0.2) (today)
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.16.1](https://github.com/matomo-org/matomo/releases/tag/4.16.1) (today)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.5.0](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.5.0) (1 day ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.26](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.26) (2 days ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.0.0](https://github.com/doctrine/orm/releases/tag/3.0.0) (2 days ago)
