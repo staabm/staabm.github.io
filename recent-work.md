@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mautic/mautic](https://github.com/mautic/mautic) - [5.0.3](https://github.com/mautic/mautic/releases/tag/5.0.3) (today)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.0.1](https://github.com/briannesbitt/Carbon/releases/tag/3.0.1) (today)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.3](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.3) (today)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.16.1](https://github.com/matomo-org/matomo/releases/tag/4.16.1) (today)
@@ -68,4 +69,3 @@
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.22](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.22) (3 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.49.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.49.0) (3 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.21.1](https://github.com/vimeo/psalm/releases/tag/5.21.1) (4 days ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.16.0-beta1](https://github.com/redaxo/redaxo/releases/tag/5.16.0-beta1) (5 days ago)
