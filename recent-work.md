@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [TomasVotruba/finalize](https://github.com/TomasVotruba/finalize) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (5 days ago)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) (6 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ExplicitBoolCompareRector: skip phpdoc](https://github.com/rectorphp/rector-src/pull/5567) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Support root-namespace parent classes](https://github.com/TomasVotruba/finalize/pull/3) on [TomasVotruba/finalize](https://github.com/TomasVotruba/finalize) (1 day ago)
 - [DX: Improve readme](https://github.com/TomasVotruba/finalize/pull/1) on [TomasVotruba/finalize](https://github.com/TomasVotruba/finalize) (1 day ago)
 - [Simplify function-name determination](https://github.com/phpstan/phpstan-src/pull/2904) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -54,7 +55,6 @@
 - [Prevent unnecessary isSuperTypeOf() calls](https://github.com/phpstan/phpstan-src/pull/2895) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix result-cache with phpstan-types on New_ references](https://github.com/phpstan/phpstan-src/pull/2894) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Reproduce bug 10449](https://github.com/phpstan/phpstan/pull/10508) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
-- [Narrow types based on non-strict equality with constant types](https://github.com/phpstan/phpstan-src/pull/2889) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
