@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.0.2](https://github.com/briannesbitt/Carbon/releases/tag/3.0.2) (today)
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.0.3](https://github.com/mautic/mautic/releases/tag/5.0.3) (1 day ago)
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.0.1](https://github.com/briannesbitt/Carbon/releases/tag/3.0.1) (1 day ago)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.3](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.3) (1 day ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.16.1](https://github.com/matomo-org/matomo/releases/tag/4.16.1) (1 day ago)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.5.0](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.5.0) (2 days ago)
