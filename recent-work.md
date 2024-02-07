@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support Symfony&#39;s deprecation-contracts](https://github.com/staabm/phpstan-todo-by/pull/86) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Implement UnionType-&gt;looseCompare()](https://github.com/phpstan/phpstan-src/pull/2908) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [ExplicitBoolCompareRector: skip phpdoc](https://github.com/rectorphp/rector-src/pull/5567) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Support root-namespace parent classes](https://github.com/TomasVotruba/finalize/pull/3) on [TomasVotruba/finalize](https://github.com/TomasVotruba/finalize) (2 days ago)
@@ -54,7 +55,6 @@
 - [Declare support for older psr/simple-cache version](https://github.com/serbanghita/Mobile-Detect/pull/953) on [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) (6 days ago)
 - [`[1 =&gt; &#39;method&#39;, 0 =&gt; $obj]` was not recognized as calllable](https://github.com/phpstan/phpstan-src/pull/2896) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Prevent unnecessary isSuperTypeOf() calls](https://github.com/phpstan/phpstan-src/pull/2895) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix result-cache with phpstan-types on New_ references](https://github.com/phpstan/phpstan-src/pull/2894) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
