@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [TomasVotruba/finalize](https://github.com/TomasVotruba/finalize) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (6 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) (1 week ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (2 weeks ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
-- [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement UnionType-&gt;looseCompare()](https://github.com/phpstan/phpstan-src/pull/2908) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [ExplicitBoolCompareRector: skip phpdoc](https://github.com/rectorphp/rector-src/pull/5567) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Support root-namespace parent classes](https://github.com/TomasVotruba/finalize/pull/3) on [TomasVotruba/finalize](https://github.com/TomasVotruba/finalize) (2 days ago)
 - [DX: Improve readme](https://github.com/TomasVotruba/finalize/pull/1) on [TomasVotruba/finalize](https://github.com/TomasVotruba/finalize) (2 days ago)
@@ -54,11 +55,11 @@
 - [`[1 =&gt; &#39;method&#39;, 0 =&gt; $obj]` was not recognized as calllable](https://github.com/phpstan/phpstan-src/pull/2896) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Prevent unnecessary isSuperTypeOf() calls](https://github.com/phpstan/phpstan-src/pull/2895) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix result-cache with phpstan-types on New_ references](https://github.com/phpstan/phpstan-src/pull/2894) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Reproduce bug 10449](https://github.com/phpstan/phpstan/pull/10508) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.23](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.23) (today)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.0.2](https://github.com/briannesbitt/Carbon/releases/tag/3.0.2) (1 day ago)
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.0.3](https://github.com/mautic/mautic/releases/tag/5.0.3) (2 days ago)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.3](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.3) (2 days ago)
@@ -66,6 +67,5 @@
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.5.0](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.5.0) (3 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.26](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.26) (4 days ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.0.0](https://github.com/doctrine/orm/releases/tag/3.0.0) (4 days ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.22](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.22) (5 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.49.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.49.0) (5 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.21.1](https://github.com/vimeo/psalm/releases/tag/5.21.1) (6 days ago)
