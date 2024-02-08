@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [DX: Improve readme](https://github.com/TomasVotruba/class-leak/pull/28) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (today)
+- [Improve GitHubActions default cache-keys](https://github.com/rectorphp/getrector-com/pull/2023) on [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (today)
+- [Skip phpdoc-types in CheckTypehintCallerTypeRule](https://github.com/symplify/phpstan-rules/pull/109) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (today)
 - [Support Symfony&#39;s deprecation-contracts](https://github.com/staabm/phpstan-todo-by/pull/86) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [Implement UnionType-&gt;looseCompare()](https://github.com/phpstan/phpstan-src/pull/2908) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [ExplicitBoolCompareRector: skip phpdoc](https://github.com/rectorphp/rector-src/pull/5567) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
@@ -52,13 +55,11 @@
 - [Simplify `ClassPropertiesNode-&gt;getUninitializedProperties()`](https://github.com/phpstan/phpstan-src/pull/2899) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Reproduce Bug 10523](https://github.com/phpstan/phpstan-src/pull/2897) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Added PHP 8.3 to test-matrix](https://github.com/serbanghita/Mobile-Detect/pull/954) on [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) (1 week ago)
-- [Declare support for older psr/simple-cache version](https://github.com/serbanghita/Mobile-Detect/pull/953) on [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) (1 week ago)
-- [`[1 =&gt; &#39;method&#39;, 0 =&gt; $obj]` was not recognized as calllable](https://github.com/phpstan/phpstan-src/pull/2896) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Prevent unnecessary isSuperTypeOf() calls](https://github.com/phpstan/phpstan-src/pull/2895) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/composer](https://github.com/composer/composer) - [2.7.0](https://github.com/composer/composer/releases/tag/2.7.0) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.60](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.60) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.23](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.23) (1 day ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.0.2](https://github.com/briannesbitt/Carbon/releases/tag/3.0.2) (2 days ago)
@@ -68,4 +69,3 @@
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.5.0](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.5.0) (4 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.26](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.26) (5 days ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.0.0](https://github.com/doctrine/orm/releases/tag/3.0.0) (5 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.49.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.49.0) (6 days ago)
