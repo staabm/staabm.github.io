@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent fatal error when class cannot be autoloaded](https://github.com/TomasVotruba/class-leak/pull/31) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (today)
 - [DX: Improve readme](https://github.com/TomasVotruba/class-leak/pull/28) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (today)
 - [Improve GitHubActions default cache-keys](https://github.com/rectorphp/getrector-com/pull/2023) on [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (today)
 - [Skip phpdoc-types in CheckTypehintCallerTypeRule](https://github.com/symplify/phpstan-rules/pull/109) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (today)
@@ -54,7 +55,6 @@
 - [Test PHP 8.3](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/116) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
 - [Simplify `ClassPropertiesNode-&gt;getUninitializedProperties()`](https://github.com/phpstan/phpstan-src/pull/2899) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Reproduce Bug 10523](https://github.com/phpstan/phpstan-src/pull/2897) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Added PHP 8.3 to test-matrix](https://github.com/serbanghita/Mobile-Detect/pull/954) on [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
