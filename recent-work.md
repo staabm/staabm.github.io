@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [configure and create cacheDirectory](https://github.com/rectorphp/getrector-com/pull/2030) on [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (today)
 - [Issue-Template: Promote new major version](https://github.com/rectorphp/rector/pull/8477) on [rectorphp/rector](https://github.com/rectorphp/rector) (today)
 - [Prevent fatal error when class cannot be autoloaded](https://github.com/TomasVotruba/class-leak/pull/31) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (1 day ago)
 - [DX: Improve readme](https://github.com/TomasVotruba/class-leak/pull/28) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix xdebug handling](https://github.com/rectorphp/rector-src/pull/5544) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Added failling test](https://github.com/phpstan/phpstan-src/pull/2900) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Test PHP 8.3](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/116) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
-- [Simplify `ClassPropertiesNode-&gt;getUninitializedProperties()`](https://github.com/phpstan/phpstan-src/pull/2899) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
