@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [TomasVotruba/finalize](https://github.com/TomasVotruba/finalize) (4 days ago)
-- [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) (1 week ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 weeks ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (2 weeks ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.61](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.61) (today)
 - [composer/composer](https://github.com/composer/composer) - [2.7.0](https://github.com/composer/composer/releases/tag/2.7.0) (1 day ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.60](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.60) (1 day ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.23](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.23) (2 days ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.0.2](https://github.com/briannesbitt/Carbon/releases/tag/3.0.2) (3 days ago)
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.0.3](https://github.com/mautic/mautic/releases/tag/5.0.3) (4 days ago)
