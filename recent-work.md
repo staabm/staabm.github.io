@@ -61,7 +61,6 @@
 
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.24](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.24) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.16.0](https://github.com/redaxo/redaxo/releases/tag/5.16.0) (1 day ago)
-- [composer/composer](https://github.com/composer/composer) - [2.7.1](https://github.com/composer/composer/releases/tag/2.7.1) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.61](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.61) (1 day ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.0.2](https://github.com/briannesbitt/Carbon/releases/tag/3.0.2) (4 days ago)
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.0.3](https://github.com/mautic/mautic/releases/tag/5.0.3) (5 days ago)
@@ -69,3 +68,4 @@
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.16.1](https://github.com/matomo-org/matomo/releases/tag/4.16.1) (5 days ago)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.5.0](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.5.0) (6 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.26](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.26) (1 week ago)
+- [doctrine/orm](https://github.com/doctrine/orm) - [3.0.0](https://github.com/doctrine/orm/releases/tag/3.0.0) (1 week ago)
