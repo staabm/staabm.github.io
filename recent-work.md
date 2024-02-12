@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.58](https://github.com/phpstan/phpstan/releases/tag/1.10.58) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.161](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.161) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.25](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.25) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.62](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.62) (today)
@@ -68,4 +69,3 @@
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.0.3](https://github.com/mautic/mautic/releases/tag/5.0.3) (1 week ago)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.3](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.3) (1 week ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [4.16.1](https://github.com/matomo-org/matomo/releases/tag/4.16.1) (1 week ago)
-- [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.5.0](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.5.0) (1 week ago)
