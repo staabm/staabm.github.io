@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [PDO::MYSQL_ATTR_SSL_VERIFY_SERVER_CERT is mysqlnd only](https://github.com/php/doc-en/pull/3176) on [php/doc-en](https://github.com/php/doc-en) (today)
 - [Report invalid number of arguments for psalm-taint-*](https://github.com/vimeo/psalm/pull/10699) on [vimeo/psalm](https://github.com/vimeo/psalm) (today)
 - [configure and create cacheDirectory](https://github.com/rectorphp/getrector-com/pull/2030) on [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (3 days ago)
 - [Issue-Template: Promote new major version](https://github.com/rectorphp/rector/pull/8477) on [rectorphp/rector](https://github.com/rectorphp/rector) (3 days ago)
@@ -54,7 +55,6 @@
 - [DX: Improve readme](https://github.com/deprecated-packages/finalize/pull/1) on [deprecated-packages/finalize](https://github.com/deprecated-packages/finalize) (1 week ago)
 - [Simplify function-name determination](https://github.com/phpstan/phpstan-src/pull/2904) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix xdebug handling](https://github.com/rectorphp/rector-src/pull/5544) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [Added failling test](https://github.com/phpstan/phpstan-src/pull/2900) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
