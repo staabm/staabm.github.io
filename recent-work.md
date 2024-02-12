@@ -4,14 +4,14 @@
 #### 💻 Check out what I'm currently working on
 
 - [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) (today)
+- [php/doc-en](https://github.com/php/doc-en) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
 - [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (3 days ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
 - [deprecated-packages/finalize](https://github.com/deprecated-packages/finalize) (1 week ago)
-- [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
