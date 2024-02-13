@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
-- [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) (1 day ago)
-- [php/doc-en](https://github.com/php/doc-en) (1 day ago)
+- [vimeo/psalm](https://github.com/vimeo/psalm) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (4 days ago)
+- [php/doc-en](https://github.com/php/doc-en) (1 day ago)
+- [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) (1 day ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (4 days ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (4 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (6 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [deprecated-packages/finalize](https://github.com/deprecated-packages/finalize) (1 week ago)
-- [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
 
 
 #### 📜 My recent blog posts
