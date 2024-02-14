@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Don&#39;t clear the rector cache, when the command line args change](https://github.com/rectorphp/rector-src/pull/5617) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Keep numeric-strings in str_repeat()](https://github.com/phpstan/phpstan-src/pull/2914) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Cleanup IntegrationTest](https://github.com/staabm/phpstan-todo-by/pull/90) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
 - [TodoBySymfonyDeprecationRule: added identifier](https://github.com/staabm/phpstan-todo-by/pull/89) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
@@ -54,7 +55,6 @@
 - [Skip phpdoc-types in CheckTypehintCallerTypeRule](https://github.com/symplify/phpstan-rules/pull/109) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (6 days ago)
 - [Support Symfony&#39;s deprecation-contracts](https://github.com/staabm/phpstan-todo-by/pull/86) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 - [Implement UnionType-&gt;looseCompare()](https://github.com/phpstan/phpstan-src/pull/2908) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [ExplicitBoolCompareRector: skip phpdoc](https://github.com/rectorphp/rector-src/pull/5567) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
