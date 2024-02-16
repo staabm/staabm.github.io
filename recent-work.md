@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support --group in --list-tests](https://github.com/sebastianbergmann/phpunit/pull/5703) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [POC: Speed optimize class-loading for levels tests](https://github.com/phpstan/phpstan-src/pull/2916) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Don&#39;t clear the rector cache, when the command line args change](https://github.com/rectorphp/rector-src/pull/5617) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Keep numeric-strings in str_repeat()](https://github.com/phpstan/phpstan-src/pull/2914) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -54,7 +55,6 @@
 - [DX: Improve readme](https://github.com/TomasVotruba/class-leak/pull/28) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (1 week ago)
 - [Improve GitHubActions default cache-keys](https://github.com/rectorphp/getrector-com/pull/2023) on [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (1 week ago)
 - [Skip phpdoc-types in CheckTypehintCallerTypeRule](https://github.com/symplify/phpstan-rules/pull/109) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
-- [Support Symfony&#39;s deprecation-contracts](https://github.com/staabm/phpstan-todo-by/pull/86) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
