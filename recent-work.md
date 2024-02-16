@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/experimental](https://github.com/FriendsOfREDAXO/experimental) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [php/doc-en](https://github.com/php/doc-en) (4 days ago)
-- [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) (4 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
+- [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) (4 days ago)
 - [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [deprecated-packages/finalize](https://github.com/deprecated-packages/finalize) (1 week ago)
 
 
 #### 📜 My recent blog posts
