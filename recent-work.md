@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/experimental](https://github.com/FriendsOfREDAXO/experimental) (today)
-- [vimeo/psalm](https://github.com/vimeo/psalm) (3 days ago)
-- [php/doc-en](https://github.com/php/doc-en) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
-- [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) (4 days ago)
+- [FriendsOfREDAXO/experimental](https://github.com/FriendsOfREDAXO/experimental) (1 day ago)
+- [vimeo/psalm](https://github.com/vimeo/psalm) (4 days ago)
+- [php/doc-en](https://github.com/php/doc-en) (5 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (5 days ago)
+- [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) (5 days ago)
 - [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
@@ -28,7 +28,7 @@
 
 - [getsentry](https://github.com/getsentry) (4 months ago)
 - [eliashaeussler](https://github.com/eliashaeussler) (5 months ago)
-- [DaveLiddament](https://github.com/DaveLiddament) (8 months ago)
+- [DaveLiddament](https://github.com/DaveLiddament) (9 months ago)
 - [SecuMailer](https://github.com/SecuMailer) (9 months ago)
 - [bluehorndigital](https://github.com/bluehorndigital) (9 months ago)
 - [drupol](https://github.com/drupol) (9 months ago)
@@ -40,15 +40,15 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Support --group in --list-tests](https://github.com/sebastianbergmann/phpunit/pull/5703) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
-- [POC: Speed optimize class-loading for levels tests](https://github.com/phpstan/phpstan-src/pull/2916) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Don&#39;t clear the rector cache, when the command line args change](https://github.com/rectorphp/rector-src/pull/5617) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [Keep numeric-strings in str_repeat()](https://github.com/phpstan/phpstan-src/pull/2914) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Cleanup IntegrationTest](https://github.com/staabm/phpstan-todo-by/pull/90) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
-- [TodoBySymfonyDeprecationRule: added identifier](https://github.com/staabm/phpstan-todo-by/pull/89) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
-- [Added missing TodoBySymfonyDeprecationRule registration](https://github.com/staabm/phpstan-todo-by/pull/88) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
-- [PDO::MYSQL_ATTR_SSL_VERIFY_SERVER_CERT is mysqlnd only](https://github.com/php/doc-en/pull/3176) on [php/doc-en](https://github.com/php/doc-en) (4 days ago)
-- [Report invalid number of arguments for psalm-taint-*](https://github.com/vimeo/psalm/pull/10699) on [vimeo/psalm](https://github.com/vimeo/psalm) (4 days ago)
+- [Support --group in --list-tests](https://github.com/sebastianbergmann/phpunit/pull/5703) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
+- [POC: Speed optimize class-loading for levels tests](https://github.com/phpstan/phpstan-src/pull/2916) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Don&#39;t clear the rector cache, when the command line args change](https://github.com/rectorphp/rector-src/pull/5617) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
+- [Keep numeric-strings in str_repeat()](https://github.com/phpstan/phpstan-src/pull/2914) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Cleanup IntegrationTest](https://github.com/staabm/phpstan-todo-by/pull/90) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (5 days ago)
+- [TodoBySymfonyDeprecationRule: added identifier](https://github.com/staabm/phpstan-todo-by/pull/89) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (5 days ago)
+- [Added missing TodoBySymfonyDeprecationRule registration](https://github.com/staabm/phpstan-todo-by/pull/88) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (5 days ago)
+- [PDO::MYSQL_ATTR_SSL_VERIFY_SERVER_CERT is mysqlnd only](https://github.com/php/doc-en/pull/3176) on [php/doc-en](https://github.com/php/doc-en) (5 days ago)
+- [Report invalid number of arguments for psalm-taint-*](https://github.com/vimeo/psalm/pull/10699) on [vimeo/psalm](https://github.com/vimeo/psalm) (5 days ago)
 - [configure and create cacheDirectory](https://github.com/rectorphp/getrector-com/pull/2030) on [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (1 week ago)
 - [Issue-Template: Promote new major version](https://github.com/rectorphp/rector/pull/8477) on [rectorphp/rector](https://github.com/rectorphp/rector) (1 week ago)
 - [Prevent fatal error when class cannot be autoloaded](https://github.com/TomasVotruba/class-leak/pull/31) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (1 week ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.22.1](https://github.com/vimeo/psalm/releases/tag/5.22.1) (1 day ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.84](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.84) (3 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.58](https://github.com/phpstan/phpstan/releases/tag/1.10.58) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.161](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.161) (4 days ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.25](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.25) (4 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.62](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.62) (4 days ago)
-- [FriendsOfREDAXO/quick_navigation](https://github.com/FriendsOfREDAXO/quick_navigation) - [6.1.1](https://github.com/FriendsOfREDAXO/quick_navigation/releases/tag/6.1.1) (4 days ago)
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.22.1](https://github.com/vimeo/psalm/releases/tag/5.22.1) (2 days ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.84](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.84) (4 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.58](https://github.com/phpstan/phpstan/releases/tag/1.10.58) (5 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.161](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.161) (5 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.25](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.25) (5 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.62](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.62) (5 days ago)
+- [FriendsOfREDAXO/quick_navigation](https://github.com/FriendsOfREDAXO/quick_navigation) - [6.1.1](https://github.com/FriendsOfREDAXO/quick_navigation/releases/tag/6.1.1) (5 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.16.0](https://github.com/redaxo/redaxo/releases/tag/5.16.0) (1 week ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.0.2](https://github.com/briannesbitt/Carbon/releases/tag/3.0.2) (1 week ago)
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.0.3](https://github.com/mautic/mautic/releases/tag/5.0.3) (1 week ago)
