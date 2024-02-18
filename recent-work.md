@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [FriendsOfREDAXO/experimental](https://github.com/FriendsOfREDAXO/experimental) (2 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) (5 days ago)
@@ -12,7 +13,6 @@
 - [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use preg_qoute() escaping for --filter phpunit option](https://github.com/phpstan/phpstan-src/pull/2923) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/671) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [Support --group in --list-tests](https://github.com/sebastianbergmann/phpunit/pull/5703) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [POC: Speed optimize class-loading for levels tests](https://github.com/phpstan/phpstan-src/pull/2916) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -54,7 +55,6 @@
 - [Issue-Template: Promote new major version](https://github.com/rectorphp/rector/pull/8477) on [rectorphp/rector](https://github.com/rectorphp/rector) (1 week ago)
 - [Prevent fatal error when class cannot be autoloaded](https://github.com/TomasVotruba/class-leak/pull/31) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (1 week ago)
 - [DX: Improve readme](https://github.com/TomasVotruba/class-leak/pull/28) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (1 week ago)
-- [Improve GitHubActions default cache-keys](https://github.com/rectorphp/getrector-com/pull/2023) on [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
