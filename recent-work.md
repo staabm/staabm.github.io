@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Make phpunit fail if a --filter does not execute any tests](https://github.com/phpstan/phpstan-src/pull/2924) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Use preg_qoute() escaping for --filter phpunit option](https://github.com/phpstan/phpstan-src/pull/2923) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/671) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [Support --group in --list-tests](https://github.com/sebastianbergmann/phpunit/pull/5703) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
@@ -54,7 +55,6 @@
 - [configure and create cacheDirectory](https://github.com/rectorphp/getrector-com/pull/2030) on [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (1 week ago)
 - [Issue-Template: Promote new major version](https://github.com/rectorphp/rector/pull/8477) on [rectorphp/rector](https://github.com/rectorphp/rector) (1 week ago)
 - [Prevent fatal error when class cannot be autoloaded](https://github.com/TomasVotruba/class-leak/pull/31) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (1 week ago)
-- [DX: Improve readme](https://github.com/TomasVotruba/class-leak/pull/28) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
