@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Resolve Faker formatter earlier](https://github.com/Smile-SA/gdpr-dump/pull/108) on [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) (today)
 - [Fix invalid phpdoc types](https://github.com/lesstif/php-JiraCloud-RESTAPI/pull/74) on [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (today)
 - [Make phpunit fail if a --filter does not execute any tests](https://github.com/phpstan/phpstan-src/pull/2924) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Use preg_qoute() escaping for --filter phpunit option](https://github.com/phpstan/phpstan-src/pull/2923) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [PDO::MYSQL_ATTR_SSL_VERIFY_SERVER_CERT is mysqlnd only](https://github.com/php/doc-en/pull/3176) on [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 - [Report invalid number of arguments for psalm-taint-*](https://github.com/vimeo/psalm/pull/10699) on [vimeo/psalm](https://github.com/vimeo/psalm) (1 week ago)
 - [configure and create cacheDirectory](https://github.com/rectorphp/getrector-com/pull/2030) on [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (1 week ago)
-- [Issue-Template: Promote new major version](https://github.com/rectorphp/rector/pull/8477) on [rectorphp/rector](https://github.com/rectorphp/rector) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
