@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Inline escape() method to improve performance](https://github.com/ifsnop/mysqldump-php/pull/277) on [ifsnop/mysqldump-php](https://github.com/ifsnop/mysqldump-php) (today)
 - [DX: Mention table and column-name in unqiue error message](https://github.com/Smile-SA/gdpr-dump/pull/110) on [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) (today)
 - [Resolve Faker formatter earlier](https://github.com/Smile-SA/gdpr-dump/pull/108) on [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) (1 day ago)
 - [Fix invalid phpdoc types](https://github.com/lesstif/php-JiraCloud-RESTAPI/pull/74) on [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (1 day ago)
@@ -54,7 +55,6 @@
 - [TodoBySymfonyDeprecationRule: added identifier](https://github.com/staabm/phpstan-todo-by/pull/89) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 - [Added missing TodoBySymfonyDeprecationRule registration](https://github.com/staabm/phpstan-todo-by/pull/88) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 - [PDO::MYSQL_ATTR_SSL_VERIFY_SERVER_CERT is mysqlnd only](https://github.com/php/doc-en/pull/3176) on [php/doc-en](https://github.com/php/doc-en) (1 week ago)
-- [Report invalid number of arguments for psalm-taint-*](https://github.com/vimeo/psalm/pull/10699) on [vimeo/psalm](https://github.com/vimeo/psalm) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
