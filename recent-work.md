@@ -40,6 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Faster dump by less tiny writes()](https://github.com/druidfi/mysqldump-php/pull/37) on [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php) (today)
+- [Remove unnecessary call_user_func() to be faster](https://github.com/ifsnop/mysqldump-php/pull/278) on [ifsnop/mysqldump-php](https://github.com/ifsnop/mysqldump-php) (today)
+- [Remove unnecessary call_user_func() to be faster](https://github.com/druidfi/mysqldump-php/pull/36) on [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php) (today)
+- [Inline escape() method to improve performance](https://github.com/druidfi/mysqldump-php/pull/34) on [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php) (today)
 - [Inline escape() method to improve performance](https://github.com/ifsnop/mysqldump-php/pull/277) on [ifsnop/mysqldump-php](https://github.com/ifsnop/mysqldump-php) (today)
 - [DX: Mention table and column-name in unqiue error message](https://github.com/Smile-SA/gdpr-dump/pull/110) on [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) (today)
 - [Resolve Faker formatter earlier](https://github.com/Smile-SA/gdpr-dump/pull/108) on [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) (1 day ago)
@@ -51,16 +55,12 @@
 - [POC: Speed optimize class-loading for levels tests](https://github.com/phpstan/phpstan-src/pull/2916) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Don&#39;t clear the rector cache, when the command line args change](https://github.com/rectorphp/rector-src/pull/5617) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
 - [Keep numeric-strings in str_repeat()](https://github.com/phpstan/phpstan-src/pull/2914) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Cleanup IntegrationTest](https://github.com/staabm/phpstan-todo-by/pull/90) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
-- [TodoBySymfonyDeprecationRule: added identifier](https://github.com/staabm/phpstan-todo-by/pull/89) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
-- [Added missing TodoBySymfonyDeprecationRule registration](https://github.com/staabm/phpstan-todo-by/pull/88) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
-- [PDO::MYSQL_ATTR_SSL_VERIFY_SERVER_CERT is mysqlnd only](https://github.com/php/doc-en/pull/3176) on [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [4.1.1](https://github.com/Smile-SA/gdpr-dump/releases/tag/4.1.1) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.28](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.28) (1 day ago)
-- [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [4.1.0](https://github.com/Smile-SA/gdpr-dump/releases/tag/4.1.0) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.162](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.162) (3 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.22.1](https://github.com/vimeo/psalm/releases/tag/5.22.1) (5 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.84](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.84) (1 week ago)
