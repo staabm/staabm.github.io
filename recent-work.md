@@ -59,12 +59,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.59](https://github.com/phpstan/phpstan/releases/tag/1.10.59) (today)
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [4.1.1](https://github.com/Smile-SA/gdpr-dump/releases/tag/4.1.1) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.28](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.28) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.162](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.162) (3 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.22.1](https://github.com/vimeo/psalm/releases/tag/5.22.1) (5 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.84](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.84) (1 week ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.58](https://github.com/phpstan/phpstan/releases/tag/1.10.58) (1 week ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.25](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.25) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.62](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.62) (1 week ago)
 - [FriendsOfREDAXO/quick_navigation](https://github.com/FriendsOfREDAXO/quick_navigation) - [6.1.1](https://github.com/FriendsOfREDAXO/quick_navigation/releases/tag/6.1.1) (1 week ago)
