@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.1) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.163](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.163) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.59](https://github.com/phpstan/phpstan/releases/tag/1.10.59) (1 day ago)
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [4.1.1](https://github.com/Smile-SA/gdpr-dump/releases/tag/4.1.1) (1 day ago)
@@ -68,4 +69,3 @@
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.25](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.25) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.62](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.62) (1 week ago)
 - [FriendsOfREDAXO/quick_navigation](https://github.com/FriendsOfREDAXO/quick_navigation) - [6.1.1](https://github.com/FriendsOfREDAXO/quick_navigation/releases/tag/6.1.1) (1 week ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.16.0](https://github.com/redaxo/redaxo/releases/tag/5.16.0) (1 week ago)
