@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/orm](https://github.com/doctrine/orm) - [2.18.1](https://github.com/doctrine/orm/releases/tag/2.18.1) (today)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.1) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.163](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.163) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.59](https://github.com/phpstan/phpstan/releases/tag/1.10.59) (2 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.84](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.84) (1 week ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.25](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.25) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.62](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.62) (1 week ago)
-- [FriendsOfREDAXO/quick_navigation](https://github.com/FriendsOfREDAXO/quick_navigation) - [6.1.1](https://github.com/FriendsOfREDAXO/quick_navigation/releases/tag/6.1.1) (1 week ago)
