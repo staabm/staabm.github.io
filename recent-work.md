@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Faster dump by less tiny writes()](https://github.com/ifsnop/mysqldump-php/pull/280) on [ifsnop/mysqldump-php](https://github.com/ifsnop/mysqldump-php) (today)
 - [Faster dump by less tiny writes()](https://github.com/druidfi/mysqldump-php/pull/37) on [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php) (2 days ago)
 - [Remove unnecessary call_user_func() to be faster](https://github.com/ifsnop/mysqldump-php/pull/278) on [ifsnop/mysqldump-php](https://github.com/ifsnop/mysqldump-php) (2 days ago)
 - [Remove unnecessary call_user_func() to be faster](https://github.com/druidfi/mysqldump-php/pull/36) on [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php) (2 days ago)
@@ -54,7 +55,6 @@
 - [Support --group in --list-tests](https://github.com/sebastianbergmann/phpunit/pull/5703) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
 - [POC: Speed optimize class-loading for levels tests](https://github.com/phpstan/phpstan-src/pull/2916) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Don&#39;t clear the rector cache, when the command line args change](https://github.com/rectorphp/rector-src/pull/5617) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [Keep numeric-strings in str_repeat()](https://github.com/phpstan/phpstan-src/pull/2914) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
