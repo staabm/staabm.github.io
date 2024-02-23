@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.16](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.16) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.29](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.29) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.22.2](https://github.com/vimeo/psalm/releases/tag/5.22.2) (1 day ago)
 - [yakamara/yform](https://github.com/yakamara/yform) - [4.2.0](https://github.com/yakamara/yform/releases/tag/4.2.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.59](https://github.com/phpstan/phpstan/releases/tag/1.10.59) (3 days ago)
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [4.1.1](https://github.com/Smile-SA/gdpr-dump/releases/tag/4.1.1) (3 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.84](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.84) (1 week ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.25](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.25) (1 week ago)
