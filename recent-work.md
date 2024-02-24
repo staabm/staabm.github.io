@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.16.1](https://github.com/redaxo/redaxo/releases/tag/5.16.1) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.50.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.50.0) (1 day ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.26.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.26.0) (1 day ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.16](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.16) (1 day ago)
@@ -68,4 +69,3 @@
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.0.1](https://github.com/doctrine/orm/releases/tag/3.0.1) (2 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.1) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.163](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.163) (4 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.59](https://github.com/phpstan/phpstan/releases/tag/1.10.59) (4 days ago)
