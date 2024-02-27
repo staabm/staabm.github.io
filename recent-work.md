@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.4](https://github.com/symfony/symfony/releases/tag/v7.0.4) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.16.1](https://github.com/redaxo/redaxo/releases/tag/5.16.1) (3 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.50.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.50.0) (4 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.26.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.26.0) (4 days ago)
@@ -68,4 +69,3 @@
 - [yakamara/yform](https://github.com/yakamara/yform) - [4.2.0](https://github.com/yakamara/yform/releases/tag/4.2.0) (5 days ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.0.1](https://github.com/doctrine/orm/releases/tag/3.0.1) (5 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.1) (6 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.163](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.163) (1 week ago)
