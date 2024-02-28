@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.51.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.51.0) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.4](https://github.com/symfony/symfony/releases/tag/v7.0.4) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.16.1](https://github.com/redaxo/redaxo/releases/tag/5.16.1) (4 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.50.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.50.0) (5 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.26.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.26.0) (5 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.16](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.16) (5 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.29](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.29) (5 days ago)
