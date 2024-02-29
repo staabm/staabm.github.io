@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix typo](https://github.com/druidfi/mysqldump-php/pull/41) on [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php) (today)
 - [Error on references of PHPStan internal class names](https://github.com/phpstan/phpstan-src/pull/2932) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Faster dump by less tiny writes()](https://github.com/ifsnop/mysqldump-php/pull/280) on [ifsnop/mysqldump-php](https://github.com/ifsnop/mysqldump-php) (1 week ago)
 - [Faster dump by less tiny writes()](https://github.com/druidfi/mysqldump-php/pull/37) on [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php) (1 week ago)
@@ -54,7 +55,6 @@
 - [Use preg_qoute() escaping for --filter phpunit option](https://github.com/phpstan/phpstan-src/pull/2923) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/671) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [Support --group in --list-tests](https://github.com/sebastianbergmann/phpunit/pull/5703) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [POC: Speed optimize class-loading for levels tests](https://github.com/phpstan/phpstan-src/pull/2916) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
