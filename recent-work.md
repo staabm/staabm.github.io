@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/orm](https://github.com/doctrine/orm) - [3.0.2](https://github.com/doctrine/orm/releases/tag/3.0.2) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.51.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.51.0) (2 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.4](https://github.com/symfony/symfony/releases/tag/v7.0.4) (3 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.16.1](https://github.com/redaxo/redaxo/releases/tag/5.16.1) (6 days ago)
@@ -67,5 +68,4 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.29](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.29) (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.22.2](https://github.com/vimeo/psalm/releases/tag/5.22.2) (1 week ago)
 - [yakamara/yform](https://github.com/yakamara/yform) - [4.2.0](https://github.com/yakamara/yform/releases/tag/4.2.0) (1 week ago)
-- [doctrine/orm](https://github.com/doctrine/orm) - [3.0.1](https://github.com/doctrine/orm/releases/tag/3.0.1) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.1) (1 week ago)
