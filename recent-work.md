@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Report FILTER_SANITIZE_STRING as deprecated in PHP8.1&#43;](https://github.com/phpstan/phpstan-deprecation-rules/pull/112) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
 - [Fix param-out generics via stubs](https://github.com/phpstan/phpstan-src/pull/2952) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Prevent ShouldNotHappenException in filter_* extensions](https://github.com/phpstan/phpstan-src/pull/2951) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Reproduce bug 10483](https://github.com/phpstan/phpstan/pull/10661) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
@@ -54,7 +55,6 @@
 - [DX: Mention table and column-name in unqiue error message](https://github.com/Smile-SA/gdpr-dump/pull/110) on [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) (1 week ago)
 - [Resolve Faker formatter earlier](https://github.com/Smile-SA/gdpr-dump/pull/108) on [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) (1 week ago)
 - [Fix invalid phpdoc types](https://github.com/lesstif/php-JiraCloud-RESTAPI/pull/74) on [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (1 week ago)
-- [Make phpunit fail if a --filter does not execute any tests](https://github.com/phpstan/phpstan-src/pull/2924) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
