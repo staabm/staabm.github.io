@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.6.0](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.6.0) (today)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.1.0](https://github.com/doctrine/orm/releases/tag/3.1.0) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.51.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.51.0) (4 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.4](https://github.com/symfony/symfony/releases/tag/v7.0.4) (5 days ago)
@@ -68,4 +69,3 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.29](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.29) (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.22.2](https://github.com/vimeo/psalm/releases/tag/5.22.2) (1 week ago)
 - [yakamara/yform](https://github.com/yakamara/yform) - [4.2.0](https://github.com/yakamara/yform/releases/tag/4.2.0) (1 week ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.1](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.1) (1 week ago)
