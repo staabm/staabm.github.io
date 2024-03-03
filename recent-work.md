@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use 8x faster mysqldump fork](https://github.com/lucatume/wp-browser/pull/702) on [lucatume/wp-browser](https://github.com/lucatume/wp-browser) (today)
 - [Report uses of deprecated constants](https://github.com/phpstan/phpstan-src/pull/2953) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Remove unnecessary whitespace in mysqldump](https://github.com/MariaDB/server/pull/3095) on [MariaDB/server](https://github.com/MariaDB/server) (today)
 - [Remove unnecessary whitespace in mysqldump](https://github.com/mysql/mysql-server/pull/524) on [mysql/mysql-server](https://github.com/mysql/mysql-server) (today)
@@ -54,7 +55,6 @@
 - [Remove unnecessary call_user_func() to be faster](https://github.com/ifsnop/mysqldump-php/pull/278) on [ifsnop/mysqldump-php](https://github.com/ifsnop/mysqldump-php) (1 week ago)
 - [Remove unnecessary call_user_func() to be faster](https://github.com/druidfi/mysqldump-php/pull/36) on [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php) (1 week ago)
 - [Inline escape() method to improve performance](https://github.com/druidfi/mysqldump-php/pull/34) on [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php) (1 week ago)
-- [Inline escape() method to improve performance](https://github.com/ifsnop/mysqldump-php/pull/277) on [ifsnop/mysqldump-php](https://github.com/ifsnop/mysqldump-php) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
