@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove unnecessary whitespace in mysqldump](https://github.com/mysql/mysql-server/pull/524) on [mysql/mysql-server](https://github.com/mysql/mysql-server) (today)
 - [Report FILTER_SANITIZE_STRING as deprecated in PHP8.1&#43;](https://github.com/phpstan/phpstan-deprecation-rules/pull/112) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 day ago)
 - [Fix param-out generics via stubs](https://github.com/phpstan/phpstan-src/pull/2952) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Prevent ShouldNotHappenException in filter_* extensions](https://github.com/phpstan/phpstan-src/pull/2951) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Inline escape() method to improve performance](https://github.com/ifsnop/mysqldump-php/pull/277) on [ifsnop/mysqldump-php](https://github.com/ifsnop/mysqldump-php) (1 week ago)
 - [DX: Mention table and column-name in unqiue error message](https://github.com/Smile-SA/gdpr-dump/pull/110) on [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) (1 week ago)
 - [Resolve Faker formatter earlier](https://github.com/Smile-SA/gdpr-dump/pull/108) on [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) (1 week ago)
-- [Fix invalid phpdoc types](https://github.com/lesstif/php-JiraCloud-RESTAPI/pull/74) on [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
