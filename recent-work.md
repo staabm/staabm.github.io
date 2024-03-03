@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/orm](https://github.com/doctrine/orm) - [3.0.2](https://github.com/doctrine/orm/releases/tag/3.0.2) (2 days ago)
+- [doctrine/orm](https://github.com/doctrine/orm) - [3.1.0](https://github.com/doctrine/orm/releases/tag/3.1.0) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.51.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.51.0) (4 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.4](https://github.com/symfony/symfony/releases/tag/v7.0.4) (5 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.16.1](https://github.com/redaxo/redaxo/releases/tag/5.16.1) (1 week ago)
