@@ -26,7 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
-- [getsentry](https://github.com/getsentry) (4 months ago)
+- [getsentry](https://github.com/getsentry) (5 months ago)
 - [eliashaeussler](https://github.com/eliashaeussler) (5 months ago)
 - [DaveLiddament](https://github.com/DaveLiddament) (9 months ago)
 - [SecuMailer](https://github.com/SecuMailer) (10 months ago)
@@ -40,11 +40,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Report FILTER_SANITIZE_STRING as deprecated in PHP8.1&#43;](https://github.com/phpstan/phpstan-deprecation-rules/pull/112) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
-- [Fix param-out generics via stubs](https://github.com/phpstan/phpstan-src/pull/2952) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Prevent ShouldNotHappenException in filter_* extensions](https://github.com/phpstan/phpstan-src/pull/2951) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Reproduce bug 10483](https://github.com/phpstan/phpstan/pull/10661) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
-- [Fix typo](https://github.com/druidfi/mysqldump-php/pull/41) on [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php) (2 days ago)
+- [Report FILTER_SANITIZE_STRING as deprecated in PHP8.1&#43;](https://github.com/phpstan/phpstan-deprecation-rules/pull/112) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 day ago)
+- [Fix param-out generics via stubs](https://github.com/phpstan/phpstan-src/pull/2952) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Prevent ShouldNotHappenException in filter_* extensions](https://github.com/phpstan/phpstan-src/pull/2951) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Reproduce bug 10483](https://github.com/phpstan/phpstan/pull/10661) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
+- [Fix typo](https://github.com/druidfi/mysqldump-php/pull/41) on [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php) (3 days ago)
 - [Error on references of PHPStan internal class names](https://github.com/phpstan/phpstan-src/pull/2932) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Faster dump by less tiny writes()](https://github.com/ifsnop/mysqldump-php/pull/280) on [ifsnop/mysqldump-php](https://github.com/ifsnop/mysqldump-php) (1 week ago)
 - [Faster dump by less tiny writes()](https://github.com/druidfi/mysqldump-php/pull/37) on [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php) (1 week ago)
@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/orm](https://github.com/doctrine/orm) - [3.0.2](https://github.com/doctrine/orm/releases/tag/3.0.2) (1 day ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.51.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.51.0) (3 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.4](https://github.com/symfony/symfony/releases/tag/v7.0.4) (4 days ago)
+- [doctrine/orm](https://github.com/doctrine/orm) - [3.0.2](https://github.com/doctrine/orm/releases/tag/3.0.2) (2 days ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.51.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.51.0) (4 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.4](https://github.com/symfony/symfony/releases/tag/v7.0.4) (5 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.16.1](https://github.com/redaxo/redaxo/releases/tag/5.16.1) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.26.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.26.0) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.16](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.16) (1 week ago)
