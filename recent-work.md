@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.30](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.30) (today)
 - [FriendsOfREDAXO/quick_navigation](https://github.com/FriendsOfREDAXO/quick_navigation) - [6.1.2](https://github.com/FriendsOfREDAXO/quick_navigation/releases/tag/6.1.2) (today)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.6.0](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.6.0) (1 day ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.1.0](https://github.com/doctrine/orm/releases/tag/3.1.0) (1 day ago)
@@ -67,5 +68,4 @@
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.16.1](https://github.com/redaxo/redaxo/releases/tag/5.16.1) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.26.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.26.0) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.16](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.16) (1 week ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.29](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.29) (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.22.2](https://github.com/vimeo/psalm/releases/tag/5.22.2) (1 week ago)
