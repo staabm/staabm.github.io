@@ -6,13 +6,13 @@
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) (1 day ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) (1 week ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [FriendsOfREDAXO/experimental](https://github.com/FriendsOfREDAXO/experimental) (2 weeks ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) (2 weeks ago)
 - [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) (3 weeks ago)
 - [php/doc-en](https://github.com/php/doc-en) (3 weeks ago)
-- [rectorphp/getrector-com](https://github.com/rectorphp/getrector-com) (3 weeks ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
