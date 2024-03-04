@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update CONTRIBUTING.md](https://github.com/ondrejmirtes/BetterReflection/pull/35) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (today)
 - [CI: cover PHP 8.3](https://github.com/lucatume/wp-browser/pull/703) on [lucatume/wp-browser](https://github.com/lucatume/wp-browser) (1 day ago)
 - [Use 8x faster mysqldump fork](https://github.com/lucatume/wp-browser/pull/702) on [lucatume/wp-browser](https://github.com/lucatume/wp-browser) (1 day ago)
 - [Report uses of deprecated constants](https://github.com/phpstan/phpstan-src/pull/2953) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,11 +55,11 @@
 - [Faster dump by less tiny writes()](https://github.com/ifsnop/mysqldump-php/pull/280) on [ifsnop/mysqldump-php](https://github.com/ifsnop/mysqldump-php) (1 week ago)
 - [Faster dump by less tiny writes()](https://github.com/druidfi/mysqldump-php/pull/37) on [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php) (1 week ago)
 - [Remove unnecessary call_user_func() to be faster](https://github.com/ifsnop/mysqldump-php/pull/278) on [ifsnop/mysqldump-php](https://github.com/ifsnop/mysqldump-php) (1 week ago)
-- [Remove unnecessary call_user_func() to be faster](https://github.com/druidfi/mysqldump-php/pull/36) on [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/quick_navigation](https://github.com/FriendsOfREDAXO/quick_navigation) - [6.1.2](https://github.com/FriendsOfREDAXO/quick_navigation/releases/tag/6.1.2) (today)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.6.0](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.6.0) (1 day ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.1.0](https://github.com/doctrine/orm/releases/tag/3.1.0) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.51.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.51.0) (5 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.16](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.16) (1 week ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.29](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.29) (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.22.2](https://github.com/vimeo/psalm/releases/tag/5.22.2) (1 week ago)
-- [yakamara/yform](https://github.com/yakamara/yform) - [4.2.0](https://github.com/yakamara/yform/releases/tag/4.2.0) (1 week ago)
