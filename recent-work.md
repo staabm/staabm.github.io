@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.8](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.8) (today)
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [4.2.0](https://github.com/Smile-SA/gdpr-dump/releases/tag/4.2.0) (today)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) - [1.0.5](https://github.com/staabm/SysMonitor/releases/tag/1.0.5) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.5](https://github.com/symfony/symfony/releases/tag/v7.0.5) (1 day ago)
@@ -68,4 +69,3 @@
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.51.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.51.0) (6 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.16.1](https://github.com/redaxo/redaxo/releases/tag/5.16.1) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.26.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.26.0) (1 week ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [1.3.16](https://github.com/phpstan/phpstan-phpunit/releases/tag/1.3.16) (1 week ago)
