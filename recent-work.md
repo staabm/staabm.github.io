@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) (2 days ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
+- [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) (3 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) (2 weeks ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
 - [FriendsOfREDAXO/experimental](https://github.com/FriendsOfREDAXO/experimental) (2 weeks ago)
@@ -21,7 +21,7 @@
 - [Published: Open source contributions statistics generator](https://staabm.github.io/2024/01/10/oss-contribs-published.html) (1 month ago)
 - [PHPStan tailored to your needs](https://staabm.github.io/2024/01/01/phpstan-customizing.html) (2 months ago)
 - [Published: phpstan-todo-by](https://staabm.github.io/2023/12/17/phpstan-todo-by-published.html) (2 months ago)
-- [Contribution Summary 2023](https://staabm.github.io/2023/12/07/contribution-summary-2023.html) (2 months ago)
+- [Contribution Summary 2023](https://staabm.github.io/2023/12/07/contribution-summary-2023.html) (3 months ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
@@ -40,32 +40,32 @@
 
 #### 🔨 My recent Pull Requests
 
-- [README: fix variable case in example code](https://github.com/PLCHome/growatt/pull/25) on [PLCHome/growatt](https://github.com/PLCHome/growatt) (today)
-- [Use more precise type in SerializableException](https://github.com/staabm/SysMonitor/pull/26) on [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (today)
-- [Update CONTRIBUTING.md](https://github.com/ondrejmirtes/BetterReflection/pull/35) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (1 day ago)
-- [CI: cover PHP 8.3](https://github.com/lucatume/wp-browser/pull/703) on [lucatume/wp-browser](https://github.com/lucatume/wp-browser) (2 days ago)
-- [Use 8x faster mysqldump fork](https://github.com/lucatume/wp-browser/pull/702) on [lucatume/wp-browser](https://github.com/lucatume/wp-browser) (2 days ago)
-- [Report uses of deprecated constants](https://github.com/phpstan/phpstan-src/pull/2953) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Remove unnecessary whitespace in mysqldump](https://github.com/MariaDB/server/pull/3095) on [MariaDB/server](https://github.com/MariaDB/server) (2 days ago)
-- [Remove unnecessary whitespace in mysqldump](https://github.com/mysql/mysql-server/pull/524) on [mysql/mysql-server](https://github.com/mysql/mysql-server) (2 days ago)
-- [Report FILTER_SANITIZE_STRING as deprecated in PHP8.1&#43;](https://github.com/phpstan/phpstan-deprecation-rules/pull/112) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (3 days ago)
-- [Fix param-out generics via stubs](https://github.com/phpstan/phpstan-src/pull/2952) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Prevent ShouldNotHappenException in filter_* extensions](https://github.com/phpstan/phpstan-src/pull/2951) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Reproduce bug 10483](https://github.com/phpstan/phpstan/pull/10661) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
-- [Fix typo](https://github.com/druidfi/mysqldump-php/pull/41) on [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php) (5 days ago)
+- [README: fix variable case in example code](https://github.com/PLCHome/growatt/pull/25) on [PLCHome/growatt](https://github.com/PLCHome/growatt) (1 day ago)
+- [Use more precise type in SerializableException](https://github.com/staabm/SysMonitor/pull/26) on [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (1 day ago)
+- [Update CONTRIBUTING.md](https://github.com/ondrejmirtes/BetterReflection/pull/35) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (2 days ago)
+- [CI: cover PHP 8.3](https://github.com/lucatume/wp-browser/pull/703) on [lucatume/wp-browser](https://github.com/lucatume/wp-browser) (3 days ago)
+- [Use 8x faster mysqldump fork](https://github.com/lucatume/wp-browser/pull/702) on [lucatume/wp-browser](https://github.com/lucatume/wp-browser) (3 days ago)
+- [Report uses of deprecated constants](https://github.com/phpstan/phpstan-src/pull/2953) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Remove unnecessary whitespace in mysqldump](https://github.com/MariaDB/server/pull/3095) on [MariaDB/server](https://github.com/MariaDB/server) (3 days ago)
+- [Remove unnecessary whitespace in mysqldump](https://github.com/mysql/mysql-server/pull/524) on [mysql/mysql-server](https://github.com/mysql/mysql-server) (3 days ago)
+- [Report FILTER_SANITIZE_STRING as deprecated in PHP8.1&#43;](https://github.com/phpstan/phpstan-deprecation-rules/pull/112) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (4 days ago)
+- [Fix param-out generics via stubs](https://github.com/phpstan/phpstan-src/pull/2952) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Prevent ShouldNotHappenException in filter_* extensions](https://github.com/phpstan/phpstan-src/pull/2951) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Reproduce bug 10483](https://github.com/phpstan/phpstan/pull/10661) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
+- [Fix typo](https://github.com/druidfi/mysqldump-php/pull/41) on [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php) (6 days ago)
 - [Error on references of PHPStan internal class names](https://github.com/phpstan/phpstan-src/pull/2932) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Faster dump by less tiny writes()](https://github.com/ifsnop/mysqldump-php/pull/280) on [ifsnop/mysqldump-php](https://github.com/ifsnop/mysqldump-php) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.2](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.2) (today)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.8](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.8) (today)
-- [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [4.2.0](https://github.com/Smile-SA/gdpr-dump/releases/tag/4.2.0) (today)
-- [staabm/SysMonitor](https://github.com/staabm/SysMonitor) - [1.0.5](https://github.com/staabm/SysMonitor/releases/tag/1.0.5) (today)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.5](https://github.com/symfony/symfony/releases/tag/v7.0.5) (1 day ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.30](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.30) (1 day ago)
-- [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.6.0](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.6.0) (2 days ago)
-- [doctrine/orm](https://github.com/doctrine/orm) - [3.1.0](https://github.com/doctrine/orm/releases/tag/3.1.0) (2 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.51.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.51.0) (6 days ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.2](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.2) (1 day ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.8](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.8) (1 day ago)
+- [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [4.2.0](https://github.com/Smile-SA/gdpr-dump/releases/tag/4.2.0) (1 day ago)
+- [staabm/SysMonitor](https://github.com/staabm/SysMonitor) - [1.0.5](https://github.com/staabm/SysMonitor/releases/tag/1.0.5) (1 day ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.5](https://github.com/symfony/symfony/releases/tag/v7.0.5) (2 days ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.30](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.30) (2 days ago)
+- [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.6.0](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.6.0) (3 days ago)
+- [doctrine/orm](https://github.com/doctrine/orm) - [3.1.0](https://github.com/doctrine/orm/releases/tag/3.1.0) (3 days ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.51.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.51.0) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.16.1](https://github.com/redaxo/redaxo/releases/tag/5.16.1) (1 week ago)
