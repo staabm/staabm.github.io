@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/pcre](https://github.com/composer/pcre) - [3.1.2](https://github.com/composer/pcre/releases/tag/3.1.2) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.60](https://github.com/phpstan/phpstan/releases/tag/1.10.60) (today)
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [4.2.1](https://github.com/Smile-SA/gdpr-dump/releases/tag/4.2.1) (today)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [4.1.2](https://github.com/lucatume/wp-browser/releases/tag/4.1.2) (today)
@@ -68,4 +69,3 @@
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.5](https://github.com/symfony/symfony/releases/tag/v7.0.5) (3 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.30](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.30) (3 days ago)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.6.0](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.6.0) (4 days ago)
-- [doctrine/orm](https://github.com/doctrine/orm) - [3.1.0](https://github.com/doctrine/orm/releases/tag/3.1.0) (4 days ago)
