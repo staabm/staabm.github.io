@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [4.1.1](https://github.com/lucatume/wp-browser/releases/tag/4.1.1) (1 day ago)
+- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [4.1.2](https://github.com/lucatume/wp-browser/releases/tag/4.1.2) (today)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.2](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.2) (2 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.8](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.8) (2 days ago)
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [4.2.0](https://github.com/Smile-SA/gdpr-dump/releases/tag/4.2.0) (2 days ago)
