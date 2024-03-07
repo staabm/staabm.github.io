@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [PreferPHPUnitSelfCallRector: Cheap checks first](https://github.com/rectorphp/rector-phpunit/pull/316) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
 - [Implement PHP Version dependent deprecations for constants](https://github.com/ondrejmirtes/BetterReflection/pull/36) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (1 day ago)
 - [README: fix variable case in example code](https://github.com/PLCHome/growatt/pull/25) on [PLCHome/growatt](https://github.com/PLCHome/growatt) (2 days ago)
 - [Use more precise type in SerializableException](https://github.com/staabm/SysMonitor/pull/26) on [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (2 days ago)
@@ -54,7 +55,6 @@
 - [Prevent ShouldNotHappenException in filter_* extensions](https://github.com/phpstan/phpstan-src/pull/2951) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Reproduce bug 10483](https://github.com/phpstan/phpstan/pull/10661) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
 - [Fix typo](https://github.com/druidfi/mysqldump-php/pull/41) on [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php) (1 week ago)
-- [Error on references of PHPStan internal class names](https://github.com/phpstan/phpstan-src/pull/2932) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
