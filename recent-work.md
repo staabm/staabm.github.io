@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [4.2.1](https://github.com/Smile-SA/gdpr-dump/releases/tag/4.2.1) (today)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [4.1.2](https://github.com/lucatume/wp-browser/releases/tag/4.1.2) (today)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.2](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.2) (2 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.8](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.8) (2 days ago)
-- [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [4.2.0](https://github.com/Smile-SA/gdpr-dump/releases/tag/4.2.0) (2 days ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) - [1.0.5](https://github.com/staabm/SysMonitor/releases/tag/1.0.5) (2 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.5](https://github.com/symfony/symfony/releases/tag/v7.0.5) (3 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.30](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.30) (3 days ago)
