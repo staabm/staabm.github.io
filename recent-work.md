@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (3 days ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) (5 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (5 days ago)
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) (2 weeks ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
 - [FriendsOfREDAXO/experimental](https://github.com/FriendsOfREDAXO/experimental) (3 weeks ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) (3 weeks ago)
 - [php/doc-en](https://github.com/php/doc-en) (3 weeks ago)
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.164](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.164) (today)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.3](https://github.com/matomo-org/matomo/releases/tag/5.0.3) (1 day ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.1.2](https://github.com/composer/pcre/releases/tag/3.1.2) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.60](https://github.com/phpstan/phpstan/releases/tag/1.10.60) (1 day ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.8](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.8) (3 days ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) - [1.0.5](https://github.com/staabm/SysMonitor/releases/tag/1.0.5) (3 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.5](https://github.com/symfony/symfony/releases/tag/v7.0.5) (4 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.30](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.30) (4 days ago)
