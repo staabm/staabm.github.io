@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement PHP Version dependent deprecations for constants](https://github.com/Roave/BetterReflection/pull/1396) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [Fix build](https://github.com/phpstan/phpstan-deprecation-rules/pull/113) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
 - [Cleanup `AnalyserIntegrationTest-&gt;runAnalyse()`](https://github.com/phpstan/phpstan-src/pull/2960) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [PreferPHPUnitSelfCallRector: Cheap checks first](https://github.com/rectorphp/rector-phpunit/pull/316) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 day ago)
@@ -54,7 +55,6 @@
 - [Remove unnecessary whitespace in mysqldump](https://github.com/mysql/mysql-server/pull/524) on [mysql/mysql-server](https://github.com/mysql/mysql-server) (5 days ago)
 - [Report FILTER_SANITIZE_STRING as deprecated in PHP8.1&#43;](https://github.com/phpstan/phpstan-deprecation-rules/pull/112) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (6 days ago)
 - [Fix param-out generics via stubs](https://github.com/phpstan/phpstan-src/pull/2952) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Prevent ShouldNotHappenException in filter_* extensions](https://github.com/phpstan/phpstan-src/pull/2951) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
