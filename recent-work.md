@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix build](https://github.com/phpstan/phpstan-deprecation-rules/pull/113) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
+- [Cleanup `AnalyserIntegrationTest-&gt;runAnalyse()`](https://github.com/phpstan/phpstan-src/pull/2960) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [PreferPHPUnitSelfCallRector: Cheap checks first](https://github.com/rectorphp/rector-phpunit/pull/316) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 day ago)
 - [Implement PHP Version dependent deprecations for constants](https://github.com/ondrejmirtes/BetterReflection/pull/36) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (2 days ago)
 - [README: fix variable case in example code](https://github.com/PLCHome/growatt/pull/25) on [PLCHome/growatt](https://github.com/PLCHome/growatt) (3 days ago)
@@ -53,8 +55,6 @@
 - [Report FILTER_SANITIZE_STRING as deprecated in PHP8.1&#43;](https://github.com/phpstan/phpstan-deprecation-rules/pull/112) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (6 days ago)
 - [Fix param-out generics via stubs](https://github.com/phpstan/phpstan-src/pull/2952) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Prevent ShouldNotHappenException in filter_* extensions](https://github.com/phpstan/phpstan-src/pull/2951) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Reproduce bug 10483](https://github.com/phpstan/phpstan/pull/10661) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
-- [Fix typo](https://github.com/druidfi/mysqldump-php/pull/41) on [druidfi/mysqldump-php](https://github.com/druidfi/mysqldump-php) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
