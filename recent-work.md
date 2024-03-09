@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Lazy collorize method name](https://github.com/sebastianbergmann/phpunit/pull/5728) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Harmonize version parsing](https://github.com/Roave/BetterReflection/pull/1398) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [Prevent duplicate prettify in TestDoxBuilder](https://github.com/sebastianbergmann/phpunit/pull/5727) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [CI: use pcov for type coverage](https://github.com/Roave/BetterReflection/pull/1397) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
@@ -54,11 +55,11 @@
 - [CI: cover PHP 8.3](https://github.com/lucatume/wp-browser/pull/703) on [lucatume/wp-browser](https://github.com/lucatume/wp-browser) (6 days ago)
 - [Use 8x faster mysqldump fork](https://github.com/lucatume/wp-browser/pull/702) on [lucatume/wp-browser](https://github.com/lucatume/wp-browser) (6 days ago)
 - [Report uses of deprecated constants](https://github.com/phpstan/phpstan-src/pull/2953) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Remove unnecessary whitespace in mysqldump](https://github.com/MariaDB/server/pull/3095) on [MariaDB/server](https://github.com/MariaDB/server) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.23.0](https://github.com/vimeo/psalm/releases/tag/5.23.0) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.0.5](https://github.com/sebastianbergmann/phpunit/releases/tag/11.0.5) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.24.0](https://github.com/Roave/BetterReflection/releases/tag/6.24.0) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.164](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.164) (1 day ago)
@@ -68,4 +69,3 @@
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [4.2.1](https://github.com/Smile-SA/gdpr-dump/releases/tag/4.2.1) (2 days ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [4.1.2](https://github.com/lucatume/wp-browser/releases/tag/4.1.2) (2 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.2](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.2) (4 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.8](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.8) (4 days ago)
