@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Harmonize version parsing](https://github.com/Roave/BetterReflection/pull/1398) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
+- [Prevent duplicate prettify in TestDoxBuilder](https://github.com/sebastianbergmann/phpunit/pull/5727) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [CI: use pcov for type coverage](https://github.com/Roave/BetterReflection/pull/1397) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
 - [Implement PHP Version dependent deprecations for constants](https://github.com/Roave/BetterReflection/pull/1396) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
 - [Fix build](https://github.com/phpstan/phpstan-deprecation-rules/pull/113) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 day ago)
@@ -53,8 +55,6 @@
 - [Use 8x faster mysqldump fork](https://github.com/lucatume/wp-browser/pull/702) on [lucatume/wp-browser](https://github.com/lucatume/wp-browser) (6 days ago)
 - [Report uses of deprecated constants](https://github.com/phpstan/phpstan-src/pull/2953) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Remove unnecessary whitespace in mysqldump](https://github.com/MariaDB/server/pull/3095) on [MariaDB/server](https://github.com/MariaDB/server) (6 days ago)
-- [Remove unnecessary whitespace in mysqldump](https://github.com/mysql/mysql-server/pull/524) on [mysql/mysql-server](https://github.com/mysql/mysql-server) (6 days ago)
-- [Report FILTER_SANITIZE_STRING as deprecated in PHP8.1&#43;](https://github.com/phpstan/phpstan-deprecation-rules/pull/112) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
