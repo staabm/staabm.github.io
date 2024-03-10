@@ -5,12 +5,12 @@
 
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 days ago)
-- [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (5 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) (1 week ago)
+- [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (5 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
+- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) (1 week ago)
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) (2 weeks ago)
 - [FriendsOfREDAXO/experimental](https://github.com/FriendsOfREDAXO/experimental) (3 weeks ago)
 
