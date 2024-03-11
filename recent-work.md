@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.57.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.57.0) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.25.0](https://github.com/Roave/BetterReflection/releases/tag/6.25.0) (1 day ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.23.0](https://github.com/vimeo/psalm/releases/tag/5.23.0) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.0.5](https://github.com/sebastianbergmann/phpunit/releases/tag/11.0.5) (2 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.60](https://github.com/phpstan/phpstan/releases/tag/1.10.60) (4 days ago)
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [4.2.1](https://github.com/Smile-SA/gdpr-dump/releases/tag/4.2.1) (4 days ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [4.1.2](https://github.com/lucatume/wp-browser/releases/tag/4.1.2) (4 days ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.0.2](https://github.com/nikic/PHP-Parser/releases/tag/v5.0.2) (6 days ago)
