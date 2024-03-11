@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.23.1](https://github.com/vimeo/psalm/releases/tag/5.23.1) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.26.0](https://github.com/Roave/BetterReflection/releases/tag/6.26.0) (today)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.57.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.57.0) (today)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.23.0](https://github.com/vimeo/psalm/releases/tag/5.23.0) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.0.5](https://github.com/sebastianbergmann/phpunit/releases/tag/11.0.5) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.164](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.164) (3 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.3](https://github.com/matomo-org/matomo/releases/tag/5.0.3) (4 days ago)
