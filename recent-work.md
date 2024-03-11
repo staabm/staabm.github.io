@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Skip local only public method, when used from test](https://github.com/TomasVotruba/unused-public/pull/103) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Drop colored prettified method name printing](https://github.com/sebastianbergmann/phpunit/pull/5735) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Lazy collorize method name](https://github.com/sebastianbergmann/phpunit/pull/5728) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [Harmonize version parsing](https://github.com/Roave/BetterReflection/pull/1398) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 days ago)
@@ -54,13 +55,12 @@
 - [Use more precise type in SerializableException](https://github.com/staabm/SysMonitor/pull/26) on [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (6 days ago)
 - [Update CONTRIBUTING.md](https://github.com/ondrejmirtes/BetterReflection/pull/35) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (1 week ago)
 - [CI: cover PHP 8.3](https://github.com/lucatume/wp-browser/pull/703) on [lucatume/wp-browser](https://github.com/lucatume/wp-browser) (1 week ago)
-- [Use 8x faster mysqldump fork](https://github.com/lucatume/wp-browser/pull/702) on [lucatume/wp-browser](https://github.com/lucatume/wp-browser) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.26.0](https://github.com/Roave/BetterReflection/releases/tag/6.26.0) (today)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.57.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.57.0) (today)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.25.0](https://github.com/Roave/BetterReflection/releases/tag/6.25.0) (1 day ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.23.0](https://github.com/vimeo/psalm/releases/tag/5.23.0) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.0.5](https://github.com/sebastianbergmann/phpunit/releases/tag/11.0.5) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.164](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.164) (3 days ago)
