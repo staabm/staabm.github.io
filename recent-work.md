@@ -40,13 +40,14 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify NamePrettifier-&gt;prettifyTestMethodName()](https://github.com/sebastianbergmann/phpunit/pull/5744) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Prevent unnecessary `ExecutionOrderDependency-&gt;getTarget()` call](https://github.com/sebastianbergmann/phpunit/pull/5743) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Prevent file IO when not strictly necessary](https://github.com/sebastianbergmann/phpunit/pull/5742) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Save call to Telemetry\System-&gt;snapshot().](https://github.com/sebastianbergmann/phpunit/pull/5741) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Micro optimize `TestRunner-&gt;runTestWithTimeout()`](https://github.com/sebastianbergmann/phpunit/pull/5740) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Micro optimize `NamePrettifier-&gt;prettifyTestMethodName()`](https://github.com/sebastianbergmann/phpunit/pull/5739) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Skip local only public method, when used from test](https://github.com/TomasVotruba/unused-public/pull/103) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
-- [Drop colored prettified method name printing](https://github.com/sebastianbergmann/phpunit/pull/5735) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
+- [Speed optimize test case pretty printing](https://github.com/sebastianbergmann/phpunit/pull/5735) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Lazy collorize method name](https://github.com/sebastianbergmann/phpunit/pull/5728) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [Harmonize version parsing](https://github.com/Roave/BetterReflection/pull/1398) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (3 days ago)
 - [Prevent duplicate prettify in TestDoxBuilder](https://github.com/sebastianbergmann/phpunit/pull/5727) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
@@ -54,7 +55,6 @@
 - [Implement PHP Version dependent deprecations for constants](https://github.com/Roave/BetterReflection/pull/1396) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (4 days ago)
 - [Fix build](https://github.com/phpstan/phpstan-deprecation-rules/pull/113) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (4 days ago)
 - [Cleanup `AnalyserIntegrationTest-&gt;runAnalyse()`](https://github.com/phpstan/phpstan-src/pull/2960) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [PreferPHPUnitSelfCallRector: Cheap checks first](https://github.com/rectorphp/rector-phpunit/pull/316) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
