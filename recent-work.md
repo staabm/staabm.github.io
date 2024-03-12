@@ -4,9 +4,9 @@
 #### 💻 Check out what I'm currently working on
 
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (4 days ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (1 week ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.1.0](https://github.com/briannesbitt/Carbon/releases/tag/3.1.0) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.23.1](https://github.com/vimeo/psalm/releases/tag/5.23.1) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.26.0](https://github.com/Roave/BetterReflection/releases/tag/6.26.0) (1 day ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.57.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.57.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [composer/pcre](https://github.com/composer/pcre) - [3.1.2](https://github.com/composer/pcre/releases/tag/3.1.2) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.60](https://github.com/phpstan/phpstan/releases/tag/1.10.60) (5 days ago)
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [4.2.1](https://github.com/Smile-SA/gdpr-dump/releases/tag/4.2.1) (5 days ago)
-- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [4.1.2](https://github.com/lucatume/wp-browser/releases/tag/4.1.2) (5 days ago)
