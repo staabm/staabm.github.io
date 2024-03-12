@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.7.0](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.7.0) (today)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.1.0](https://github.com/briannesbitt/Carbon/releases/tag/3.1.0) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.23.1](https://github.com/vimeo/psalm/releases/tag/5.23.1) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.26.0](https://github.com/Roave/BetterReflection/releases/tag/6.26.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.3](https://github.com/matomo-org/matomo/releases/tag/5.0.3) (5 days ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.1.2](https://github.com/composer/pcre/releases/tag/3.1.2) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.60](https://github.com/phpstan/phpstan/releases/tag/1.10.60) (5 days ago)
-- [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [4.2.1](https://github.com/Smile-SA/gdpr-dump/releases/tag/4.2.1) (5 days ago)
