@@ -9,8 +9,8 @@
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (4 days ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) (1 week ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
+- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) (1 week ago)
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) (3 weeks ago)
 - [FriendsOfREDAXO/experimental](https://github.com/FriendsOfREDAXO/experimental) (3 weeks ago)
 
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Save call to Telemetry\System-&gt;snapshot().](https://github.com/sebastianbergmann/phpunit/pull/5741) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [Micro optimize `TestRunner-&gt;runTestWithTimeout()`](https://github.com/sebastianbergmann/phpunit/pull/5740) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Micro optimize `NamePrettifier-&gt;prettifyTestMethodName()`](https://github.com/sebastianbergmann/phpunit/pull/5739) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Skip local only public method, when used from test](https://github.com/TomasVotruba/unused-public/pull/103) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
 - [Drop colored prettified method name printing](https://github.com/sebastianbergmann/phpunit/pull/5735) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
@@ -53,8 +55,6 @@
 - [PreferPHPUnitSelfCallRector: Cheap checks first](https://github.com/rectorphp/rector-phpunit/pull/316) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (5 days ago)
 - [Implement PHP Version dependent deprecations for constants](https://github.com/ondrejmirtes/BetterReflection/pull/36) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (6 days ago)
 - [README: fix variable case in example code](https://github.com/PLCHome/growatt/pull/25) on [PLCHome/growatt](https://github.com/PLCHome/growatt) (1 week ago)
-- [Use more precise type in SerializableException](https://github.com/staabm/SysMonitor/pull/26) on [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (1 week ago)
-- [Update CONTRIBUTING.md](https://github.com/ondrejmirtes/BetterReflection/pull/35) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
