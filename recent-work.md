@@ -4,13 +4,13 @@
 #### 💻 Check out what I'm currently working on
 
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (4 days ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (4 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (4 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (1 week ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) (1 week ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) (3 weeks ago)
 - [FriendsOfREDAXO/experimental](https://github.com/FriendsOfREDAXO/experimental) (3 weeks ago)
 
@@ -40,17 +40,17 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Simplify NamePrettifier-&gt;prettifyTestMethodName()](https://github.com/sebastianbergmann/phpunit/pull/5744) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
-- [Prevent unnecessary `ExecutionOrderDependency-&gt;getTarget()` call](https://github.com/sebastianbergmann/phpunit/pull/5743) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [Simplify `NamePrettifier::prettifyTestMethodName()`](https://github.com/sebastianbergmann/phpunit/pull/5744) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [Prevent unnecessary `ExecutionOrderDependency::getTarget()` call](https://github.com/sebastianbergmann/phpunit/pull/5743) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Prevent file IO when not strictly necessary](https://github.com/sebastianbergmann/phpunit/pull/5742) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
-- [Save call to Telemetry\System-&gt;snapshot().](https://github.com/sebastianbergmann/phpunit/pull/5741) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
-- [Micro optimize `TestRunner-&gt;runTestWithTimeout()`](https://github.com/sebastianbergmann/phpunit/pull/5740) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
-- [Micro optimize `NamePrettifier-&gt;prettifyTestMethodName()`](https://github.com/sebastianbergmann/phpunit/pull/5739) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [Save call to `Telemetry\System::snapshot()`](https://github.com/sebastianbergmann/phpunit/pull/5741) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [Micro-optimize `TestRunner::runTestWithTimeout()`](https://github.com/sebastianbergmann/phpunit/pull/5740) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [Micro-optimize `NamePrettifier::prettifyTestMethodName()`](https://github.com/sebastianbergmann/phpunit/pull/5739) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Skip local only public method, when used from test](https://github.com/TomasVotruba/unused-public/pull/103) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
 - [Speed optimize test case pretty printing](https://github.com/sebastianbergmann/phpunit/pull/5735) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Lazy collorize method name](https://github.com/sebastianbergmann/phpunit/pull/5728) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [Harmonize version parsing](https://github.com/Roave/BetterReflection/pull/1398) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (3 days ago)
-- [Prevent duplicate prettify in TestDoxBuilder](https://github.com/sebastianbergmann/phpunit/pull/5727) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
+- [Prevent duplicate call of `NamePrettifier::prettifyTestMethodName()`](https://github.com/sebastianbergmann/phpunit/pull/5727) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [CI: use pcov for type coverage](https://github.com/Roave/BetterReflection/pull/1397) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (4 days ago)
 - [Implement PHP Version dependent deprecations for constants](https://github.com/Roave/BetterReflection/pull/1396) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (4 days ago)
 - [Fix build](https://github.com/phpstan/phpstan-deprecation-rules/pull/113) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (4 days ago)
