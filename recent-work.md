@@ -4,13 +4,13 @@
 #### 💻 Check out what I'm currently working on
 
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
-- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (4 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (4 days ago)
+- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (1 week ago)
-- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) (1 week ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
+- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) (1 week ago)
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) (3 weeks ago)
 - [FriendsOfREDAXO/experimental](https://github.com/FriendsOfREDAXO/experimental) (3 weeks ago)
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent unnecessary `ExecutionOrderDependency-&gt;getTarget()` call](https://github.com/sebastianbergmann/phpunit/pull/5743) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Prevent file IO when not strictly necessary](https://github.com/sebastianbergmann/phpunit/pull/5742) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Save call to Telemetry\System-&gt;snapshot().](https://github.com/sebastianbergmann/phpunit/pull/5741) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Micro optimize `TestRunner-&gt;runTestWithTimeout()`](https://github.com/sebastianbergmann/phpunit/pull/5740) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
@@ -54,7 +55,6 @@
 - [Fix build](https://github.com/phpstan/phpstan-deprecation-rules/pull/113) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (4 days ago)
 - [Cleanup `AnalyserIntegrationTest-&gt;runAnalyse()`](https://github.com/phpstan/phpstan-src/pull/2960) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [PreferPHPUnitSelfCallRector: Cheap checks first](https://github.com/rectorphp/rector-phpunit/pull/316) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (5 days ago)
-- [Implement PHP Version dependent deprecations for constants](https://github.com/ondrejmirtes/BetterReflection/pull/36) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
