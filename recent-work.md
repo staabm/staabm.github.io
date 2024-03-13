@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.61](https://github.com/phpstan/phpstan/releases/tag/1.10.61) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.62](https://github.com/phpstan/phpstan/releases/tag/1.10.62) (today)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.5.2](https://github.com/lucatume/wp-browser/releases/tag/3.5.2) (today)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.57.1](https://github.com/OskarStark/doctor-rst/releases/tag/1.57.1) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.27.0](https://github.com/Roave/BetterReflection/releases/tag/6.27.0) (1 day ago)
