@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
-- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (5 days ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (5 days ago)
+- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (5 days ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (1 week ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) (1 week ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
-- [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Faster `NamePrettifier-&gt;prettifyTestMethodName()`](https://github.com/sebastianbergmann/phpunit/pull/5748) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Micro: cache Groups](https://github.com/sebastianbergmann/phpunit/pull/5747) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [try nikic-parser dev branch](https://github.com/Roave/BetterReflection/pull/1407) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [Utilize composer min-php version to narrow PHP_VERSION_ID](https://github.com/phpstan/phpstan-src/pull/2968) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Micro-optimize `NamePrettifier::prettifyTestMethodName()`](https://github.com/sebastianbergmann/phpunit/pull/5739) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Skip local only public method, when used from test](https://github.com/TomasVotruba/unused-public/pull/103) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
 - [Speed optimize test case pretty printing](https://github.com/sebastianbergmann/phpunit/pull/5735) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
-- [Lazy collorize method name](https://github.com/sebastianbergmann/phpunit/pull/5728) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
