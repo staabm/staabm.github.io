@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Utilize composer min-php version to narrow PHP_VERSION_ID](https://github.com/phpstan/phpstan-src/pull/2968) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent off-by-one errors in line-number related methods](https://github.com/nikic/PHP-Parser/pull/985) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
 - [Added test-case for deprecated phpstorm stub with patch-version](https://github.com/Roave/BetterReflection/pull/1406) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [Constants deprecation depends on php version in comment](https://github.com/phpstan/phpstan-src/pull/2967) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Lazy collorize method name](https://github.com/sebastianbergmann/phpunit/pull/5728) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [Harmonize version parsing](https://github.com/Roave/BetterReflection/pull/1398) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (4 days ago)
 - [Prevent duplicate call of `NamePrettifier::prettifyTestMethodName()`](https://github.com/sebastianbergmann/phpunit/pull/5727) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
-- [CI: use pcov for type coverage](https://github.com/Roave/BetterReflection/pull/1397) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
