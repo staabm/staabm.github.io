@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.1.1](https://github.com/briannesbitt/Carbon/releases/tag/3.1.1) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.62](https://github.com/phpstan/phpstan/releases/tag/1.10.62) (today)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.5.2](https://github.com/lucatume/wp-browser/releases/tag/3.5.2) (today)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.57.1](https://github.com/OskarStark/doctor-rst/releases/tag/1.57.1) (today)
@@ -66,6 +67,5 @@
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.17.0](https://github.com/redaxo/redaxo/releases/tag/5.17.0) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.0.6](https://github.com/sebastianbergmann/phpunit/releases/tag/11.0.6) (1 day ago)
 - [redaxo/php-cs-fixer-config](https://github.com/redaxo/php-cs-fixer-config) - [2.7.0](https://github.com/redaxo/php-cs-fixer-config/releases/tag/2.7.0) (1 day ago)
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.1.0](https://github.com/briannesbitt/Carbon/releases/tag/3.1.0) (1 day ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.23.1](https://github.com/vimeo/psalm/releases/tag/5.23.1) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.164](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.164) (5 days ago)
