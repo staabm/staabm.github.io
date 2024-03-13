@@ -26,6 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
+- [adrienbrault](https://github.com/adrienbrault) (today)
 - [getsentry](https://github.com/getsentry) (5 months ago)
 - [eliashaeussler](https://github.com/eliashaeussler) (6 months ago)
 - [DaveLiddament](https://github.com/DaveLiddament) (9 months ago)
@@ -35,7 +36,6 @@
 - [CapnFelix](https://github.com/CapnFelix) (11 months ago)
 - [iluuu1994](https://github.com/iluuu1994) (11 months ago)
 - [omphteliba](https://github.com/omphteliba) (11 months ago)
-- [wdes](https://github.com/wdes) (1 year ago)
 
 
 #### 🔨 My recent Pull Requests
