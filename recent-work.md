@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent off-by-one errors in line-number related methods](https://github.com/nikic/PHP-Parser/pull/985) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
+- [Added test-case for deprecated phpstorm stub with patch-version](https://github.com/Roave/BetterReflection/pull/1406) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [Constants deprecation depends on php version in comment](https://github.com/phpstan/phpstan-src/pull/2967) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify `NamePrettifier::prettifyTestMethodName()`](https://github.com/sebastianbergmann/phpunit/pull/5744) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Prevent unnecessary `ExecutionOrderDependency::getTarget()` call](https://github.com/sebastianbergmann/phpunit/pull/5743) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
@@ -53,12 +55,11 @@
 - [Harmonize version parsing](https://github.com/Roave/BetterReflection/pull/1398) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (4 days ago)
 - [Prevent duplicate call of `NamePrettifier::prettifyTestMethodName()`](https://github.com/sebastianbergmann/phpunit/pull/5727) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [CI: use pcov for type coverage](https://github.com/Roave/BetterReflection/pull/1397) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (5 days ago)
-- [Implement PHP Version dependent deprecations for constants](https://github.com/Roave/BetterReflection/pull/1396) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (5 days ago)
-- [Fix build](https://github.com/phpstan/phpstan-deprecation-rules/pull/113) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.5.2](https://github.com/lucatume/wp-browser/releases/tag/3.5.2) (today)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.57.1](https://github.com/OskarStark/doctor-rst/releases/tag/1.57.1) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.27.0](https://github.com/Roave/BetterReflection/releases/tag/6.27.0) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.17.0](https://github.com/redaxo/redaxo/releases/tag/5.17.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.23.1](https://github.com/vimeo/psalm/releases/tag/5.23.1) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.164](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.164) (5 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.0.3](https://github.com/matomo-org/matomo/releases/tag/5.0.3) (6 days ago)
-- [composer/pcre](https://github.com/composer/pcre) - [3.1.2](https://github.com/composer/pcre/releases/tag/3.1.2) (6 days ago)
