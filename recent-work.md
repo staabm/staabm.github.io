@@ -3,13 +3,13 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (6 days ago)
-- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (6 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (6 days ago)
+- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (6 days ago)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (6 days ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (1 week ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) (1 week ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
