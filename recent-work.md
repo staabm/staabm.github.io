@@ -43,7 +43,7 @@
 - [`Type-&gt;getReferencedClasses()` returns a `class-string`](https://github.com/phpstan/phpstan-src/pull/2970) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Improve performance of `NamePrettifier::prettifyTestMethodName()`](https://github.com/sebastianbergmann/phpunit/pull/5748) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Cache result of `Groups::groups()`](https://github.com/sebastianbergmann/phpunit/pull/5747) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
-- [try nikic-parser dev branch](https://github.com/Roave/BetterReflection/pull/1407) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
+- [Kill startLine &amp; endLine mutants](https://github.com/Roave/BetterReflection/pull/1407) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
 - [Utilize composer min-php version to narrow PHP_VERSION_ID](https://github.com/phpstan/phpstan-src/pull/2968) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Prevent off-by-one errors in line-number related methods](https://github.com/nikic/PHP-Parser/pull/985) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 day ago)
 - [Added test-case for deprecated phpstorm stub with patch-version](https://github.com/Roave/BetterReflection/pull/1406) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
