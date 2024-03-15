@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Micro optimize `NamePrettifier-&gt;prettifyTestMethodName()` once again](https://github.com/sebastianbergmann/phpunit/pull/5750) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
+- [Micro-optimize `NamePrettifier::prettifyTestMethodName()` once again](https://github.com/sebastianbergmann/phpunit/pull/5750) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [`Type-&gt;getReferencedClasses()` returns a `class-string`](https://github.com/phpstan/phpstan-src/pull/2970) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Improve performance of `NamePrettifier::prettifyTestMethodName()`](https://github.com/sebastianbergmann/phpunit/pull/5748) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [Cache result of `Groups::groups()`](https://github.com/sebastianbergmann/phpunit/pull/5747) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.31](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.31) (today)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [2.0.0-alpha](https://github.com/qossmic/deptrac/releases/tag/2.0.0-alpha) (1 day ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.1.1](https://github.com/briannesbitt/Carbon/releases/tag/3.1.1) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.62](https://github.com/phpstan/phpstan/releases/tag/1.10.62) (2 days ago)
@@ -68,4 +69,3 @@
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.17.0](https://github.com/redaxo/redaxo/releases/tag/5.17.0) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.0.6](https://github.com/sebastianbergmann/phpunit/releases/tag/11.0.6) (3 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.23.1](https://github.com/vimeo/psalm/releases/tag/5.23.1) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.164](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.164) (1 week ago)
