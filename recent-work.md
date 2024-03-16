@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.19.0](https://github.com/nikic/PHP-Parser/releases/tag/v4.19.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.165](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.165) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.31](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.31) (1 day ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [2.0.0-alpha](https://github.com/qossmic/deptrac/releases/tag/2.0.0-alpha) (2 days ago)
@@ -68,4 +69,3 @@
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.57.1](https://github.com/OskarStark/doctor-rst/releases/tag/1.57.1) (3 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.27.0](https://github.com/Roave/BetterReflection/releases/tag/6.27.0) (4 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.17.0](https://github.com/redaxo/redaxo/releases/tag/5.17.0) (4 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.0.6](https://github.com/sebastianbergmann/phpunit/releases/tag/11.0.6) (4 days ago)
