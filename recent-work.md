@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Make phpunit fail on deprecation warnings](https://github.com/nikic/PHP-Parser/pull/989) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
+- [CI: try raising error_reporting](https://github.com/nikic/PHP-Parser/pull/988) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
+- [Fix php version dependent constant deprecation](https://github.com/Roave/BetterReflection/pull/1408) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [POC: lightweight subprocess isolation via pcntl_fork()](https://github.com/sebastianbergmann/phpunit/pull/5751) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Micro-optimize `NamePrettifier::prettifyTestMethodName()` once again](https://github.com/sebastianbergmann/phpunit/pull/5750) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [`Type-&gt;getReferencedClasses()` returns a `class-string`](https://github.com/phpstan/phpstan-src/pull/2970) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -52,16 +55,13 @@
 - [Constants deprecation depends on php version in comment](https://github.com/phpstan/phpstan-src/pull/2967) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Simplify `NamePrettifier::prettifyTestMethodName()`](https://github.com/sebastianbergmann/phpunit/pull/5744) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
 - [Prevent unnecessary `ExecutionOrderDependency::getTarget()` call](https://github.com/sebastianbergmann/phpunit/pull/5743) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
-- [Prevent file IO when not strictly necessary](https://github.com/sebastianbergmann/phpunit/pull/5742) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
-- [Save call to `Telemetry\System::snapshot()`](https://github.com/sebastianbergmann/phpunit/pull/5741) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
-- [Micro-optimize `TestRunner::runTestWithTimeout()`](https://github.com/sebastianbergmann/phpunit/pull/5740) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.19.1](https://github.com/nikic/PHP-Parser/releases/tag/v4.19.1) (today)
 - [doctrine/orm](https://github.com/doctrine/orm) - [2.19.1](https://github.com/doctrine/orm/releases/tag/2.19.1) (1 day ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.9](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.9) (1 day ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.19.0](https://github.com/nikic/PHP-Parser/releases/tag/v4.19.0) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.165](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.165) (1 day ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.31](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.31) (2 days ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [2.0.0-alpha](https://github.com/qossmic/deptrac/releases/tag/2.0.0-alpha) (3 days ago)
