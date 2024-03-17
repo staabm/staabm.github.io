@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 week ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 week ago)
+- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
-- [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (1 week ago)
 - [PLCHome/growatt](https://github.com/PLCHome/growatt) (1 week ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 weeks ago)
+- [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (1 week ago)
+- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
