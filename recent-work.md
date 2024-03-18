@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.52.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.52.0) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.28.0](https://github.com/Roave/BetterReflection/releases/tag/6.28.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.63](https://github.com/phpstan/phpstan/releases/tag/1.10.63) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.33](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.33) (today)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.165](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.165) (2 days ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [2.0.0-alpha](https://github.com/qossmic/deptrac/releases/tag/2.0.0-alpha) (4 days ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.1.1](https://github.com/briannesbitt/Carbon/releases/tag/3.1.1) (5 days ago)
-- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.5.2](https://github.com/lucatume/wp-browser/releases/tag/3.5.2) (5 days ago)
