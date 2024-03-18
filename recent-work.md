@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.63](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.63) (today)
+- [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.14.13](https://github.com/JumpMind/symmetric-ds/releases/tag/3.14.13) (today)
+- [doctrine/orm](https://github.com/doctrine/orm) - [2.19.2](https://github.com/doctrine/orm/releases/tag/2.19.2) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.52.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.52.0) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.28.0](https://github.com/Roave/BetterReflection/releases/tag/6.28.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.63](https://github.com/phpstan/phpstan/releases/tag/1.10.63) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.33](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.33) (today)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.19.1](https://github.com/nikic/PHP-Parser/releases/tag/v4.19.1) (1 day ago)
-- [doctrine/orm](https://github.com/doctrine/orm) - [2.19.1](https://github.com/doctrine/orm/releases/tag/2.19.1) (2 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.9](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.9) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.165](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.165) (2 days ago)
-- [qossmic/deptrac](https://github.com/qossmic/deptrac) - [2.0.0-alpha](https://github.com/qossmic/deptrac/releases/tag/2.0.0-alpha) (4 days ago)
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.1.1](https://github.com/briannesbitt/Carbon/releases/tag/3.1.1) (5 days ago)
