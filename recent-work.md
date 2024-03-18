@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 week ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 week ago)
-- [PLCHome/growatt](https://github.com/PLCHome/growatt) (1 week ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (1 week ago)
-- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) (2 weeks ago)
+- [PLCHome/growatt](https://github.com/PLCHome/growatt) (1 week ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.28.0](https://github.com/Roave/BetterReflection/releases/tag/6.28.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.63](https://github.com/phpstan/phpstan/releases/tag/1.10.63) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.33](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.33) (today)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.19.1](https://github.com/nikic/PHP-Parser/releases/tag/v4.19.1) (1 day ago)
@@ -68,4 +69,3 @@
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [2.0.0-alpha](https://github.com/qossmic/deptrac/releases/tag/2.0.0-alpha) (4 days ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.1.1](https://github.com/briannesbitt/Carbon/releases/tag/3.1.1) (5 days ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.5.2](https://github.com/lucatume/wp-browser/releases/tag/3.5.2) (5 days ago)
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.57.1](https://github.com/OskarStark/doctor-rst/releases/tag/1.57.1) (5 days ago)
