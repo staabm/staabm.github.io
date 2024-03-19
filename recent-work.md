@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.52.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.52.1) (today)
 - [yakamara/yform](https://github.com/yakamara/yform) - [4.2.1](https://github.com/yakamara/yform/releases/tag/4.2.1) (today)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.5.4](https://github.com/lucatume/wp-browser/releases/tag/3.5.4) (today)
 - [composer/pcre](https://github.com/composer/pcre) - [3.1.3](https://github.com/composer/pcre/releases/tag/3.1.3) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.63](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.63) (1 day ago)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.14.13](https://github.com/JumpMind/symmetric-ds/releases/tag/3.14.13) (1 day ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [2.19.2](https://github.com/doctrine/orm/releases/tag/2.19.2) (1 day ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.52.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.52.0) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.28.0](https://github.com/Roave/BetterReflection/releases/tag/6.28.0) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.63](https://github.com/phpstan/phpstan/releases/tag/1.10.63) (1 day ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.33](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.33) (1 day ago)
