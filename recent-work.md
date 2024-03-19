@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.5.4](https://github.com/lucatume/wp-browser/releases/tag/3.5.4) (today)
 - [composer/pcre](https://github.com/composer/pcre) - [3.1.3](https://github.com/composer/pcre/releases/tag/3.1.3) (today)
-- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.5.3](https://github.com/lucatume/wp-browser/releases/tag/3.5.3) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.63](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.63) (1 day ago)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.14.13](https://github.com/JumpMind/symmetric-ds/releases/tag/3.14.13) (1 day ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [2.19.2](https://github.com/doctrine/orm/releases/tag/2.19.2) (1 day ago)
