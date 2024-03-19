@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [prevent re-declare class/interface errors, because of a already loaded php-parser package](https://github.com/rectorphp/rector-src/pull/5742) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [`ReflectionProvider-&gt;hasClass()` narrows `$className` arg](https://github.com/phpstan/phpstan-src/pull/2976) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Make phpunit fail on deprecation warnings](https://github.com/nikic/PHP-Parser/pull/989) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 days ago)
 - [CI: try raising error_reporting](https://github.com/nikic/PHP-Parser/pull/988) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 days ago)
@@ -54,7 +55,6 @@
 - [Prevent off-by-one errors in line-number related methods](https://github.com/nikic/PHP-Parser/pull/985) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (6 days ago)
 - [Added test-case for deprecated phpstorm stub with patch-version](https://github.com/Roave/BetterReflection/pull/1406) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (6 days ago)
 - [Constants deprecation depends on php version in comment](https://github.com/phpstan/phpstan-src/pull/2967) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Simplify `NamePrettifier::prettifyTestMethodName()`](https://github.com/sebastianbergmann/phpunit/pull/5744) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
