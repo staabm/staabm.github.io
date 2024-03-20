@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (3 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Test invalidated object in static closure](https://github.com/phpstan/phpstan-src/pull/2981) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [prevent re-declare class/interface errors, because of a already loaded php-parser package](https://github.com/rectorphp/rector-src/pull/5742) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [`ReflectionProvider-&gt;hasClass()` narrows `$className` arg](https://github.com/phpstan/phpstan-src/pull/2976) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Make phpunit fail on deprecation warnings](https://github.com/nikic/PHP-Parser/pull/989) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (3 days ago)
@@ -54,7 +55,6 @@
 - [Utilize composer min-php version to narrow PHP_VERSION_ID](https://github.com/phpstan/phpstan-src/pull/2968) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Prevent off-by-one errors in line-number related methods](https://github.com/nikic/PHP-Parser/pull/985) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
 - [Added test-case for deprecated phpstorm stub with patch-version](https://github.com/Roave/BetterReflection/pull/1406) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
-- [Constants deprecation depends on php version in comment](https://github.com/phpstan/phpstan-src/pull/2967) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
