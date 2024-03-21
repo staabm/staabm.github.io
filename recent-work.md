@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.0.7](https://github.com/sebastianbergmann/phpunit/releases/tag/11.0.7) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.52.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.52.1) (2 days ago)
 - [yakamara/yform](https://github.com/yakamara/yform) - [4.2.1](https://github.com/yakamara/yform/releases/tag/4.2.1) (2 days ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.5.4](https://github.com/lucatume/wp-browser/releases/tag/3.5.4) (2 days ago)
@@ -68,4 +69,3 @@
 - [doctrine/orm](https://github.com/doctrine/orm) - [2.19.2](https://github.com/doctrine/orm/releases/tag/2.19.2) (3 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.28.0](https://github.com/Roave/BetterReflection/releases/tag/6.28.0) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.63](https://github.com/phpstan/phpstan/releases/tag/1.10.63) (3 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.33](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.33) (3 days ago)
