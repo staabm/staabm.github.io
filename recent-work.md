@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [9.6.18](https://github.com/sebastianbergmann/phpunit/releases/tag/9.6.18) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.64](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.64) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.64](https://github.com/phpstan/phpstan/releases/tag/1.10.64) (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.0.7](https://github.com/sebastianbergmann/phpunit/releases/tag/11.0.7) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.52.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.52.1) (2 days ago)
 - [yakamara/yform](https://github.com/yakamara/yform) - [4.2.1](https://github.com/yakamara/yform/releases/tag/4.2.1) (2 days ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.5.4](https://github.com/lucatume/wp-browser/releases/tag/3.5.4) (2 days ago)
