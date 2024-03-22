@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use static closures where possible](https://github.com/Roave/BetterReflection/pull/1411) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
+- [Improve `ReflectionEnum-&gt;getCases()` performance](https://github.com/Roave/BetterReflection/pull/1410) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [Remove unnecessary method calls in ClassReflection](https://github.com/phpstan/phpstan-src/pull/2984) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Be more forgiving with error handlers that do not respect error suppression](https://github.com/sebastianbergmann/phpunit/pull/5765) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Test invalidated object in static closure](https://github.com/phpstan/phpstan-src/pull/2981) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -53,8 +55,6 @@
 - [`Type-&gt;getReferencedClasses()` returns a `class-string`](https://github.com/phpstan/phpstan-src/pull/2970) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Improve performance of `NamePrettifier::prettifyTestMethodName()`](https://github.com/sebastianbergmann/phpunit/pull/5748) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [Cache result of `Groups::groups()`](https://github.com/sebastianbergmann/phpunit/pull/5747) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [Kill startLine &amp; endLine mutants](https://github.com/Roave/BetterReflection/pull/1407) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
-- [Utilize composer min-php version to narrow PHP_VERSION_ID](https://github.com/phpstan/phpstan-src/pull/2968) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
