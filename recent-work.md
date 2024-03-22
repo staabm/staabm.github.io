@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove unnecessary method calls in ClassReflection](https://github.com/phpstan/phpstan-src/pull/2984) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Be more forgiving with error handlers that do not respect error suppression](https://github.com/sebastianbergmann/phpunit/pull/5765) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Test invalidated object in static closure](https://github.com/phpstan/phpstan-src/pull/2981) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [prevent re-declare class/interface errors, because of a already loaded php-parser package](https://github.com/rectorphp/rector-src/pull/5742) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
@@ -54,7 +55,6 @@
 - [Cache result of `Groups::groups()`](https://github.com/sebastianbergmann/phpunit/pull/5747) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [Kill startLine &amp; endLine mutants](https://github.com/Roave/BetterReflection/pull/1407) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
 - [Utilize composer min-php version to narrow PHP_VERSION_ID](https://github.com/phpstan/phpstan-src/pull/2968) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Prevent off-by-one errors in line-number related methods](https://github.com/nikic/PHP-Parser/pull/985) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
