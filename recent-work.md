@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix slow enum-union with lots of cases](https://github.com/phpstan/phpstan-src/pull/2985) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Use static closures where possible](https://github.com/Roave/BetterReflection/pull/1411) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [Improve `ReflectionEnum-&gt;getCases()` performance](https://github.com/Roave/BetterReflection/pull/1410) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [Remove unnecessary method calls in ClassReflection](https://github.com/phpstan/phpstan-src/pull/2984) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,12 +55,11 @@
 - [Micro-optimize `NamePrettifier::prettifyTestMethodName()` once again](https://github.com/sebastianbergmann/phpunit/pull/5750) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [`Type-&gt;getReferencedClasses()` returns a `class-string`](https://github.com/phpstan/phpstan-src/pull/2970) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Improve performance of `NamePrettifier::prettifyTestMethodName()`](https://github.com/sebastianbergmann/phpunit/pull/5748) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [Cache result of `Groups::groups()`](https://github.com/sebastianbergmann/phpunit/pull/5747) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.34](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.34) (today)
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.35](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.35) (today)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.1.1](https://github.com/doctrine/orm/releases/tag/3.1.1) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.0.8](https://github.com/sebastianbergmann/phpunit/releases/tag/11.0.8) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.29.0](https://github.com/Roave/BetterReflection/releases/tag/6.29.0) (1 day ago)
