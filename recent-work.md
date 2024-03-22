@@ -3,13 +3,13 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (5 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (5 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (2 weeks ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 weeks ago)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (2 weeks ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (2 weeks ago)
 - [PLCHome/growatt](https://github.com/PLCHome/growatt) (2 weeks ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 weeks ago)
@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Be more forgiving with error-handlers not respecting the `@` operator](https://github.com/sebastianbergmann/phpunit/pull/5765) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
+- [Be more forgiving with error handlers that do not respect error suppression](https://github.com/sebastianbergmann/phpunit/pull/5765) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Test invalidated object in static closure](https://github.com/phpstan/phpstan-src/pull/2981) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [prevent re-declare class/interface errors, because of a already loaded php-parser package](https://github.com/rectorphp/rector-src/pull/5742) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [`ReflectionProvider-&gt;hasClass()` narrows `$className` arg](https://github.com/phpstan/phpstan-src/pull/2976) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.0.8](https://github.com/sebastianbergmann/phpunit/releases/tag/11.0.8) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.29.0](https://github.com/Roave/BetterReflection/releases/tag/6.29.0) (1 day ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.27.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.27.0) (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [9.6.18](https://github.com/sebastianbergmann/phpunit/releases/tag/9.6.18) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.3.64](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.3.64) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.64](https://github.com/phpstan/phpstan/releases/tag/1.10.64) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.52.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.52.1) (3 days ago)
