@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Do not use a shell in proc_open if not really needed](https://github.com/sebastianbergmann/phpunit/pull/5766) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [Added `Runtime-&gt;getRawBinary()`](https://github.com/sebastianbergmann/environment/pull/72) on [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (today)
 - [Fix slow enum-union with lots of cases](https://github.com/phpstan/phpstan-src/pull/2985) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Use static closures where possible](https://github.com/Roave/BetterReflection/pull/1411) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
 - [Improve `ReflectionEnum-&gt;getCases()` performance](https://github.com/Roave/BetterReflection/pull/1410) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
@@ -53,8 +55,6 @@
 - [Fix php version dependent constant deprecation](https://github.com/Roave/BetterReflection/pull/1408) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (6 days ago)
 - [POC: lightweight subprocess isolation via pcntl_fork()](https://github.com/sebastianbergmann/phpunit/pull/5751) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [Micro-optimize `NamePrettifier::prettifyTestMethodName()` once again](https://github.com/sebastianbergmann/phpunit/pull/5750) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [`Type-&gt;getReferencedClasses()` returns a `class-string`](https://github.com/phpstan/phpstan-src/pull/2970) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Improve performance of `NamePrettifier::prettifyTestMethodName()`](https://github.com/sebastianbergmann/phpunit/pull/5748) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
