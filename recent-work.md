@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (6 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (6 days ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 weeks ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (2 weeks ago)
-- [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (2 weeks ago)
+- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 weeks ago)
 - [PLCHome/growatt](https://github.com/PLCHome/growatt) (2 weeks ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 weeks ago)
+- [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -41,7 +41,7 @@
 #### 🔨 My recent Pull Requests
 
 - [Do not use a shell in proc_open if not really needed](https://github.com/sebastianbergmann/phpunit/pull/5766) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
-- [Added `Runtime-&gt;getRawBinary()`](https://github.com/sebastianbergmann/environment/pull/72) on [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (today)
+- [`Runtime::getRawBinary()`](https://github.com/sebastianbergmann/environment/pull/72) on [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (today)
 - [Fix slow enum-union with lots of cases](https://github.com/phpstan/phpstan-src/pull/2985) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Use static closures where possible](https://github.com/Roave/BetterReflection/pull/1411) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
 - [Improve `ReflectionEnum-&gt;getCases()` performance](https://github.com/Roave/BetterReflection/pull/1410) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [7.1.0](https://github.com/sebastianbergmann/environment/releases/tag/7.1.0) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.35](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.35) (1 day ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.1.1](https://github.com/doctrine/orm/releases/tag/3.1.1) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.0.8](https://github.com/sebastianbergmann/phpunit/releases/tag/11.0.8) (1 day ago)
@@ -68,4 +69,3 @@
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.52.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.52.1) (4 days ago)
 - [yakamara/yform](https://github.com/yakamara/yform) - [4.2.1](https://github.com/yakamara/yform/releases/tag/4.2.1) (4 days ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.5.4](https://github.com/lucatume/wp-browser/releases/tag/3.5.4) (4 days ago)
-- [composer/pcre](https://github.com/composer/pcre) - [3.1.3](https://github.com/composer/pcre/releases/tag/3.1.3) (4 days ago)
