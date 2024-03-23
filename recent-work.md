@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (6 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (6 days ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 weeks ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (2 weeks ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (2 weeks ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.30.0](https://github.com/Roave/BetterReflection/releases/tag/6.30.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.166](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.166) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.65](https://github.com/phpstan/phpstan/releases/tag/1.10.65) (today)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [7.1.0](https://github.com/sebastianbergmann/environment/releases/tag/7.1.0) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.35](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.35) (1 day ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.1.1](https://github.com/doctrine/orm/releases/tag/3.1.1) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.0.8](https://github.com/sebastianbergmann/phpunit/releases/tag/11.0.8) (1 day ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.29.0](https://github.com/Roave/BetterReflection/releases/tag/6.29.0) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.27.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.27.0) (2 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.52.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.52.1) (4 days ago)
 - [yakamara/yform](https://github.com/yakamara/yform) - [4.2.1](https://github.com/yakamara/yform/releases/tag/4.2.1) (4 days ago)
