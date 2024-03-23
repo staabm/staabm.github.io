@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (6 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (6 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (2 weeks ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (6 days ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 weeks ago)
-- [PLCHome/growatt](https://github.com/PLCHome/growatt) (2 weeks ago)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (2 weeks ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (2 weeks ago)
+- [PLCHome/growatt](https://github.com/PLCHome/growatt) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,7 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Do not use a shell in proc_open if not really needed](https://github.com/sebastianbergmann/phpunit/pull/5766) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [Fix non-version dependent deprecations](https://github.com/Roave/BetterReflection/pull/1413) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
+- [Do not use a shell in `proc_open()` if not really needed](https://github.com/sebastianbergmann/phpunit/pull/5766) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [`Runtime::getRawBinary()`](https://github.com/sebastianbergmann/environment/pull/72) on [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (today)
 - [Fix slow enum-union with lots of cases](https://github.com/phpstan/phpstan-src/pull/2985) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Use static closures where possible](https://github.com/Roave/BetterReflection/pull/1411) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
@@ -54,11 +55,11 @@
 - [CI: try raising error_reporting](https://github.com/nikic/PHP-Parser/pull/988) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (6 days ago)
 - [Fix php version dependent constant deprecation](https://github.com/Roave/BetterReflection/pull/1408) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (6 days ago)
 - [POC: lightweight subprocess isolation via pcntl_fork()](https://github.com/sebastianbergmann/phpunit/pull/5751) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [Micro-optimize `NamePrettifier::prettifyTestMethodName()` once again](https://github.com/sebastianbergmann/phpunit/pull/5750) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.166](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.166) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.65](https://github.com/phpstan/phpstan/releases/tag/1.10.65) (today)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [7.1.0](https://github.com/sebastianbergmann/environment/releases/tag/7.1.0) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.35](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.35) (1 day ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.27.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.27.0) (2 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.52.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.52.1) (4 days ago)
 - [yakamara/yform](https://github.com/yakamara/yform) - [4.2.1](https://github.com/yakamara/yform/releases/tag/4.2.1) (4 days ago)
-- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.5.4](https://github.com/lucatume/wp-browser/releases/tag/3.5.4) (4 days ago)
