@@ -12,7 +12,7 @@
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (2 weeks ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 weeks ago)
-- [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (2 weeks ago)
+- [PLCHome/growatt](https://github.com/PLCHome/growatt) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
