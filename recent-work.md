@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ChangeSwitchToMatchRector should ignore unknown types](https://github.com/rectorphp/rector-src/pull/5772) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Fix non-version dependent deprecations](https://github.com/Roave/BetterReflection/pull/1413) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 days ago)
 - [Do not use a shell in `proc_open()` if not really needed](https://github.com/sebastianbergmann/phpunit/pull/5766) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [`Runtime::getRawBinary()`](https://github.com/sebastianbergmann/environment/pull/72) on [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (2 days ago)
@@ -54,7 +55,6 @@
 - [Make phpunit fail on deprecation warnings](https://github.com/nikic/PHP-Parser/pull/989) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
 - [CI: try raising error_reporting](https://github.com/nikic/PHP-Parser/pull/988) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
 - [Fix php version dependent constant deprecation](https://github.com/Roave/BetterReflection/pull/1408) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
-- [POC: lightweight subprocess isolation via pcntl_fork()](https://github.com/sebastianbergmann/phpunit/pull/5751) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
