@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [More efficient `ReflectionClass#getParentClass()` - prevent loading all partent classes upfront](https://github.com/Roave/BetterReflection/pull/1414) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
+- [More efficient `ReflectionClass#getParentClass()` - prevent loading all parent classes upfront](https://github.com/Roave/BetterReflection/pull/1414) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [Windows does not support exclusive locks on stdout](https://github.com/sebastianbergmann/phpunit/pull/5770) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Added failling ReturnTypeFromStrictTypedPropertyRector test](https://github.com/rectorphp/rector-src/pull/5775) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [ChangeSwitchToMatchRector should ignore unknown types](https://github.com/rectorphp/rector-src/pull/5772) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
