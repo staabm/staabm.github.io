@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (2 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (3 days ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [More efficient `ReflectionClass-&gt;getParentClass()`](https://github.com/Roave/BetterReflection/pull/1414) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
+- [More efficient `ReflectionClass#getParentClass()` - prevent loading all partent classes upfront](https://github.com/Roave/BetterReflection/pull/1414) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [Windows does not support exclusive locks on stdout](https://github.com/sebastianbergmann/phpunit/pull/5770) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Added failling ReturnTypeFromStrictTypedPropertyRector test](https://github.com/rectorphp/rector-src/pull/5775) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [ChangeSwitchToMatchRector should ignore unknown types](https://github.com/rectorphp/rector-src/pull/5772) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.31.0](https://github.com/Roave/BetterReflection/releases/tag/6.31.0) (today)
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [4.2.2](https://github.com/Smile-SA/gdpr-dump/releases/tag/4.2.2) (today)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.30.0](https://github.com/Roave/BetterReflection/releases/tag/6.30.0) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.166](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.166) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.65](https://github.com/phpstan/phpstan/releases/tag/1.10.65) (3 days ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [7.1.0](https://github.com/sebastianbergmann/environment/releases/tag/7.1.0) (3 days ago)
