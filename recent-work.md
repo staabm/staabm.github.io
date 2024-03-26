@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Windows does not support exclusive locks on stdout](https://github.com/sebastianbergmann/phpunit/pull/5770) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Added failling ReturnTypeFromStrictTypedPropertyRector test](https://github.com/rectorphp/rector-src/pull/5775) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [ChangeSwitchToMatchRector should ignore unknown types](https://github.com/rectorphp/rector-src/pull/5772) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Fix non-version dependent deprecations](https://github.com/Roave/BetterReflection/pull/1413) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (3 days ago)
@@ -54,7 +55,6 @@
 - [prevent re-declare class/interface errors, because of a already loaded php-parser package](https://github.com/rectorphp/rector-src/pull/5742) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [`ReflectionProvider-&gt;hasClass()` narrows `$className` arg](https://github.com/phpstan/phpstan-src/pull/2976) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Make phpunit fail on deprecation warnings](https://github.com/nikic/PHP-Parser/pull/989) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
-- [CI: try raising error_reporting](https://github.com/nikic/PHP-Parser/pull/988) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
