@@ -3,11 +3,11 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (3 days ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (2 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent unnecessary calls into reflection from JSON extensions](https://github.com/phpstan/phpstan-src/pull/2994) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [More efficient `ReflectionClass#getParentClass()` - prevent loading all parent classes upfront](https://github.com/Roave/BetterReflection/pull/1414) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
 - [Windows does not support exclusive locks on stdout](https://github.com/sebastianbergmann/phpunit/pull/5770) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Added failling ReturnTypeFromStrictTypedPropertyRector test](https://github.com/rectorphp/rector-src/pull/5775) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Be more forgiving with error handlers that do not respect error suppression](https://github.com/sebastianbergmann/phpunit/pull/5765) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
 - [Test invalidated object in static closure](https://github.com/phpstan/phpstan-src/pull/2981) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [prevent re-declare class/interface errors, because of a already loaded php-parser package](https://github.com/rectorphp/rector-src/pull/5742) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [`ReflectionProvider-&gt;hasClass()` narrows `$className` arg](https://github.com/phpstan/phpstan-src/pull/2976) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
