@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.2.0](https://github.com/briannesbitt/Carbon/releases/tag/3.2.0) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.32.0](https://github.com/Roave/BetterReflection/releases/tag/6.32.0) (today)
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [4.2.2](https://github.com/Smile-SA/gdpr-dump/releases/tag/4.2.2) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.166](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.166) (4 days ago)
@@ -68,4 +69,3 @@
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.1.1](https://github.com/doctrine/orm/releases/tag/3.1.1) (5 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.0.8](https://github.com/sebastianbergmann/phpunit/releases/tag/11.0.8) (5 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.27.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.27.0) (6 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.52.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.52.1) (1 week ago)
