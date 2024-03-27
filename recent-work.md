@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.2.0](https://github.com/briannesbitt/Carbon/releases/tag/3.2.0) (today)
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.2.1](https://github.com/briannesbitt/Carbon/releases/tag/3.2.1) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.32.0](https://github.com/Roave/BetterReflection/releases/tag/6.32.0) (today)
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [4.2.2](https://github.com/Smile-SA/gdpr-dump/releases/tag/4.2.2) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.166](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.166) (4 days ago)
