@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use `shortenedRecursiveExport()` for data-providers](https://github.com/sebastianbergmann/phpunit/pull/5774) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [POC: Allow to limit the max-depth of `Exporter-&gt;export()`](https://github.com/sebastianbergmann/exporter/pull/55) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (today)
 - [Cleanup process handling after dropping temp-file handling](https://github.com/sebastianbergmann/phpunit/pull/5772) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Prevent autoloading when determinig constant values](https://github.com/Roave/BetterReflection/pull/1416) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
@@ -54,14 +55,13 @@
 - [Fix slow enum-union with lots of cases](https://github.com/phpstan/phpstan-src/pull/2985) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Use static closures where possible](https://github.com/Roave/BetterReflection/pull/1411) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (6 days ago)
 - [Improve `ReflectionEnum-&gt;getCases()` performance](https://github.com/Roave/BetterReflection/pull/1410) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (6 days ago)
-- [Remove unnecessary method calls in ClassReflection](https://github.com/phpstan/phpstan-src/pull/2984) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.2.2](https://github.com/briannesbitt/Carbon/releases/tag/3.2.2) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.0.9](https://github.com/sebastianbergmann/phpunit/releases/tag/11.0.9) (today)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.5.5](https://github.com/lucatume/wp-browser/releases/tag/3.5.5) (today)
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.2.1](https://github.com/briannesbitt/Carbon/releases/tag/3.2.1) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.32.0](https://github.com/Roave/BetterReflection/releases/tag/6.32.0) (1 day ago)
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [4.2.2](https://github.com/Smile-SA/gdpr-dump/releases/tag/4.2.2) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.166](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.166) (5 days ago)
