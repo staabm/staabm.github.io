@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [POC: Allow to limit the max-depth of `Exporter-&gt;export()`](https://github.com/sebastianbergmann/exporter/pull/55) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (today)
 - [Cleanup process handling after dropping temp-file handling](https://github.com/sebastianbergmann/phpunit/pull/5772) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Prevent autoloading when determinig constant values](https://github.com/Roave/BetterReflection/pull/1416) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
 - [Prevent unnecessary calls into reflection from JSON extensions](https://github.com/phpstan/phpstan-src/pull/2994) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Use static closures where possible](https://github.com/Roave/BetterReflection/pull/1411) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (6 days ago)
 - [Improve `ReflectionEnum-&gt;getCases()` performance](https://github.com/Roave/BetterReflection/pull/1410) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (6 days ago)
 - [Remove unnecessary method calls in ClassReflection](https://github.com/phpstan/phpstan-src/pull/2984) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Be more forgiving with error handlers that do not respect error suppression](https://github.com/sebastianbergmann/phpunit/pull/5765) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
