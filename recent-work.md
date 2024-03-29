@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Mention Discord instead of Slack in issue github template](https://github.com/infection/infection/pull/1951) on [infection/infection](https://github.com/infection/infection) (today)
 - [Use `shortenedRecursiveExport()` for data-providers](https://github.com/sebastianbergmann/phpunit/pull/5774) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [POC: Allow to limit the max-depth of `Exporter-&gt;export()`](https://github.com/sebastianbergmann/exporter/pull/55) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (1 day ago)
 - [Cleanup process handling after dropping temp-file handling](https://github.com/sebastianbergmann/phpunit/pull/5772) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
@@ -54,7 +55,6 @@
 - [`Runtime::getRawBinary()`](https://github.com/sebastianbergmann/environment/pull/72) on [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (6 days ago)
 - [Fix slow enum-union with lots of cases](https://github.com/phpstan/phpstan-src/pull/2985) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Use static closures where possible](https://github.com/Roave/BetterReflection/pull/1411) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
-- [Improve `ReflectionEnum-&gt;getCases()` performance](https://github.com/Roave/BetterReflection/pull/1410) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
