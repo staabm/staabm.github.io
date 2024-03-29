@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [More precise `gc_status()` signature for PHP8.3&#43;](https://github.com/phpstan/phpstan-src/pull/2996) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Fix PHPStan reported issues](https://github.com/sebastianbergmann/phpunit/pull/5777) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [Narrow type of template parameter in Cloner](https://github.com/sebastianbergmann/phpunit/pull/5776) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Assert parsing PHPStorm stubs will never trigger autoload](https://github.com/Roave/BetterReflection/pull/1418) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [Mention Discord instead of Slack in issue github template](https://github.com/infection/infection/pull/1951) on [infection/infection](https://github.com/infection/infection) (today)
 - [Use `shortenedRecursiveExport()` for data-providers](https://github.com/sebastianbergmann/phpunit/pull/5774) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
@@ -52,9 +55,6 @@
 - [Added failling ReturnTypeFromStrictTypedPropertyRector test](https://github.com/rectorphp/rector-src/pull/5775) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [ChangeSwitchToMatchRector should ignore unknown types](https://github.com/rectorphp/rector-src/pull/5772) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [Fix non-version dependent deprecations](https://github.com/Roave/BetterReflection/pull/1413) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (6 days ago)
-- [Do not use a shell in `proc_open()` if not really needed](https://github.com/sebastianbergmann/phpunit/pull/5766) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
-- [`Runtime::getRawBinary()`](https://github.com/sebastianbergmann/environment/pull/72) on [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (6 days ago)
-- [Fix slow enum-union with lots of cases](https://github.com/phpstan/phpstan-src/pull/2985) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
