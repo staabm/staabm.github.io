@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [infection/infection](https://github.com/infection/infection) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (5 days ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (6 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (3 weeks ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (3 weeks ago)
-- [PLCHome/growatt](https://github.com/PLCHome/growatt) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Assert parsing PHPStorm stubs will never trigger autoload](https://github.com/Roave/BetterReflection/pull/1418) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [Mention Discord instead of Slack in issue github template](https://github.com/infection/infection/pull/1951) on [infection/infection](https://github.com/infection/infection) (today)
 - [Use `shortenedRecursiveExport()` for data-providers](https://github.com/sebastianbergmann/phpunit/pull/5774) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [POC: Allow to limit the max-depth of `Exporter-&gt;export()`](https://github.com/sebastianbergmann/exporter/pull/55) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (1 day ago)
@@ -54,7 +55,6 @@
 - [Do not use a shell in `proc_open()` if not really needed](https://github.com/sebastianbergmann/phpunit/pull/5766) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
 - [`Runtime::getRawBinary()`](https://github.com/sebastianbergmann/environment/pull/72) on [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (6 days ago)
 - [Fix slow enum-union with lots of cases](https://github.com/phpstan/phpstan-src/pull/2985) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Use static closures where possible](https://github.com/Roave/BetterReflection/pull/1411) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
@@ -67,5 +67,5 @@
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.5.5](https://github.com/lucatume/wp-browser/releases/tag/3.5.5) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.32.0](https://github.com/Roave/BetterReflection/releases/tag/6.32.0) (2 days ago)
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [4.2.2](https://github.com/Smile-SA/gdpr-dump/releases/tag/4.2.2) (3 days ago)
+- [infection/infection](https://github.com/infection/infection) - [0.28.1](https://github.com/infection/infection/releases/tag/0.28.1) (4 days ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [7.1.0](https://github.com/sebastianbergmann/environment/releases/tag/7.1.0) (6 days ago)
-- [doctrine/orm](https://github.com/doctrine/orm) - [3.1.1](https://github.com/doctrine/orm/releases/tag/3.1.1) (1 week ago)
