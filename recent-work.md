@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Narrow class-types with generic](https://github.com/sebastianbergmann/phpunit/pull/5778) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [More precise `gc_status()` signature for PHP8.3&#43;](https://github.com/phpstan/phpstan-src/pull/2996) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix PHPStan reported issues](https://github.com/sebastianbergmann/phpunit/pull/5777) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Narrow type of template parameter in Cloner](https://github.com/sebastianbergmann/phpunit/pull/5776) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
@@ -54,7 +55,6 @@
 - [Windows does not support exclusive locks on stdout](https://github.com/sebastianbergmann/phpunit/pull/5770) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [Added failling ReturnTypeFromStrictTypedPropertyRector test](https://github.com/rectorphp/rector-src/pull/5775) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [ChangeSwitchToMatchRector should ignore unknown types](https://github.com/rectorphp/rector-src/pull/5772) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
-- [Fix non-version dependent deprecations](https://github.com/Roave/BetterReflection/pull/1413) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
