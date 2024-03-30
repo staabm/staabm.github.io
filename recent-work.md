@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (6 days ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
-- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (3 weeks ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (3 weeks ago)
+- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Test DefaultPrinter, ExecutionOrderDependency](https://github.com/sebastianbergmann/phpunit/pull/5779) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Narrow class-types with generic](https://github.com/sebastianbergmann/phpunit/pull/5778) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [More precise `gc_status()` signature for PHP8.3&#43;](https://github.com/phpstan/phpstan-src/pull/2996) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix PHPStan reported issues](https://github.com/sebastianbergmann/phpunit/pull/5777) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
@@ -54,7 +55,6 @@
 - [More efficient `ReflectionClass#getParentClass()` - prevent loading all parent classes upfront](https://github.com/Roave/BetterReflection/pull/1414) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (4 days ago)
 - [Windows does not support exclusive locks on stdout](https://github.com/sebastianbergmann/phpunit/pull/5770) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [Added failling ReturnTypeFromStrictTypedPropertyRector test](https://github.com/rectorphp/rector-src/pull/5775) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
-- [ChangeSwitchToMatchRector should ignore unknown types](https://github.com/rectorphp/rector-src/pull/5772) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
