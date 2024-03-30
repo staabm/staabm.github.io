@@ -4,9 +4,9 @@
 #### 💻 Check out what I'm currently working on
 
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) (1 day ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (6 days ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (1 week ago)
