@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix &#34;fsockopen(): Unable to connect to hostname:0&#34; warning](https://github.com/sebastianbergmann/phpunit/pull/5783) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [More precise param types in `TestBuilder`](https://github.com/sebastianbergmann/phpunit/pull/5782) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Support static analysis in `PHPUnit\Framework\callback()`](https://github.com/sebastianbergmann/phpunit/pull/5781) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Fix &#34;fsockopen(): Unable to connect to hostname:0&#34; warning](https://github.com/sebastianbergmann/phpunit/pull/5780) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
@@ -54,7 +55,6 @@
 - [POC: Allow to limit the max-depth of `Exporter-&gt;export()`](https://github.com/sebastianbergmann/exporter/pull/55) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (3 days ago)
 - [Cleanup process handling after dropping temp-file handling](https://github.com/sebastianbergmann/phpunit/pull/5772) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [Prevent autoloading when determinig constant values](https://github.com/Roave/BetterReflection/pull/1416) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (4 days ago)
-- [Prevent unnecessary calls into reflection from JSON extensions](https://github.com/phpstan/phpstan-src/pull/2994) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
