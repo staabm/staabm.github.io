@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Declare github action job timeouts](https://github.com/sebastianbergmann/phpunit/pull/5789) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [WIP: Setup mutation testing](https://github.com/sebastianbergmann/phpunit/pull/5788) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Run tests in random order](https://github.com/sebastianbergmann/phpunit/pull/5787) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Make test more resilient](https://github.com/sebastianbergmann/phpunit/pull/5786) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/174) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
@@ -53,17 +55,15 @@
 - [More precise `gc_status()` signature for PHP8.3&#43;](https://github.com/phpstan/phpstan-src/pull/2996) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Fix PHPStan reported issues](https://github.com/sebastianbergmann/phpunit/pull/5777) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [Narrow type of template parameter in Cloner](https://github.com/sebastianbergmann/phpunit/pull/5776) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
-- [Assert parsing PHPStorm stubs will never trigger autoload](https://github.com/Roave/BetterReflection/pull/1418) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (3 days ago)
-- [Mention Discord instead of Slack in issue github template](https://github.com/infection/infection/pull/1951) on [infection/infection](https://github.com/infection/infection) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.0](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.0) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.23](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.23) (today)
 - [FriendsOfREDAXO/quick_navigation](https://github.com/FriendsOfREDAXO/quick_navigation) - [6.2.1](https://github.com/FriendsOfREDAXO/quick_navigation/releases/tag/6.2.1) (1 day ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.2.3](https://github.com/briannesbitt/Carbon/releases/tag/3.2.3) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.167](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.167) (3 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.0.36](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.36) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.66](https://github.com/phpstan/phpstan/releases/tag/1.10.66) (4 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.0.9](https://github.com/sebastianbergmann/phpunit/releases/tag/11.0.9) (4 days ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.5.5](https://github.com/lucatume/wp-browser/releases/tag/3.5.5) (4 days ago)
