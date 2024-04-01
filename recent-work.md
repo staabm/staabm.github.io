@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [infection/infection](https://github.com/infection/infection) (3 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (3 days ago)
+- [infection/infection](https://github.com/infection/infection) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (1 week ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 weeks ago)
-- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/174) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
+- [Use early returns and apply cs fixer](https://github.com/FriendsOfREDAXO/rexstan/pull/689) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Fix &#34;fsockopen(): Unable to connect to hostname:0&#34; warning](https://github.com/sebastianbergmann/phpunit/pull/5783) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [More precise param types in `TestBuilder`](https://github.com/sebastianbergmann/phpunit/pull/5782) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [Support static analysis in `PHPUnit\Framework\callback()`](https://github.com/sebastianbergmann/phpunit/pull/5781) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
@@ -53,12 +55,11 @@
 - [Mention Discord instead of Slack in issue github template](https://github.com/infection/infection/pull/1951) on [infection/infection](https://github.com/infection/infection) (3 days ago)
 - [Use `shortenedRecursiveExport()` for data-providers](https://github.com/sebastianbergmann/phpunit/pull/5774) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [POC: Allow to limit the max-depth of `Exporter-&gt;export()`](https://github.com/sebastianbergmann/exporter/pull/55) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (4 days ago)
-- [Cleanup process handling after dropping temp-file handling](https://github.com/sebastianbergmann/phpunit/pull/5772) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
-- [Prevent autoloading when determinig constant values](https://github.com/Roave/BetterReflection/pull/1416) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.23](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.23) (today)
 - [FriendsOfREDAXO/quick_navigation](https://github.com/FriendsOfREDAXO/quick_navigation) - [6.2.1](https://github.com/FriendsOfREDAXO/quick_navigation/releases/tag/6.2.1) (1 day ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.2.3](https://github.com/briannesbitt/Carbon/releases/tag/3.2.3) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.167](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.167) (3 days ago)
@@ -68,4 +69,3 @@
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.5.5](https://github.com/lucatume/wp-browser/releases/tag/3.5.5) (4 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.32.0](https://github.com/Roave/BetterReflection/releases/tag/6.32.0) (5 days ago)
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [4.2.2](https://github.com/Smile-SA/gdpr-dump/releases/tag/4.2.2) (6 days ago)
-- [infection/infection](https://github.com/infection/infection) - [0.28.1](https://github.com/infection/infection/releases/tag/0.28.1) (1 week ago)
