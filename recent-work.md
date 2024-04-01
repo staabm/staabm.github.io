@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Run tests in random order](https://github.com/sebastianbergmann/phpunit/pull/5787) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Make test more resilient](https://github.com/sebastianbergmann/phpunit/pull/5786) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/174) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [Use early returns and apply cs fixer](https://github.com/FriendsOfREDAXO/rexstan/pull/689) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
@@ -54,7 +55,6 @@
 - [Narrow type of template parameter in Cloner](https://github.com/sebastianbergmann/phpunit/pull/5776) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [Assert parsing PHPStorm stubs will never trigger autoload](https://github.com/Roave/BetterReflection/pull/1418) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (3 days ago)
 - [Mention Discord instead of Slack in issue github template](https://github.com/infection/infection/pull/1951) on [infection/infection](https://github.com/infection/infection) (3 days ago)
-- [Use `shortenedRecursiveExport()` for data-providers](https://github.com/sebastianbergmann/phpunit/pull/5774) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
