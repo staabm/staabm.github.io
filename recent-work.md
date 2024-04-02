@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/quick_navigation](https://github.com/FriendsOfREDAXO/quick_navigation) - [7.0.0-beta1](https://github.com/FriendsOfREDAXO/quick_navigation/releases/tag/7.0.0-beta1) (1 day ago)
+- [FriendsOfREDAXO/quick_navigation](https://github.com/FriendsOfREDAXO/quick_navigation) - [7.0.0](https://github.com/FriendsOfREDAXO/quick_navigation/releases/tag/7.0.0) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.0](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.0) (1 day ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.23](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.23) (1 day ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.2.3](https://github.com/briannesbitt/Carbon/releases/tag/3.2.3) (3 days ago)
