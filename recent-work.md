@@ -4,10 +4,10 @@
 #### 💻 Check out what I'm currently working on
 
 - [infection/site](https://github.com/infection/site) (today)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (4 days ago)
 - [infection/infection](https://github.com/infection/infection) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
@@ -43,7 +43,7 @@
 - [Upgrade version](https://github.com/infection/site/pull/260) on [infection/site](https://github.com/infection/site) (today)
 - [gitignore .github folder](https://github.com/phpstan/phpstan-webmozart-assert/pull/179) on [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (today)
 - [Declare github action job timeouts](https://github.com/sebastianbergmann/phpunit/pull/5789) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
-- [WIP: Setup mutation testing](https://github.com/sebastianbergmann/phpunit/pull/5788) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
+- [Setup mutation testing](https://github.com/sebastianbergmann/phpunit/pull/5788) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Run tests in random order](https://github.com/sebastianbergmann/phpunit/pull/5787) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Make test more resilient](https://github.com/sebastianbergmann/phpunit/pull/5786) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/174) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
