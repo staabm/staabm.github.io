@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Upgrade version](https://github.com/infection/site/pull/260) on [infection/site](https://github.com/infection/site) (today)
+- [gitignore .github folder](https://github.com/phpstan/phpstan-webmozart-assert/pull/179) on [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (today)
 - [Declare github action job timeouts](https://github.com/sebastianbergmann/phpunit/pull/5789) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [WIP: Setup mutation testing](https://github.com/sebastianbergmann/phpunit/pull/5788) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Run tests in random order](https://github.com/sebastianbergmann/phpunit/pull/5787) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
@@ -53,8 +55,6 @@
 - [Test DefaultPrinter, ExecutionOrderDependency](https://github.com/sebastianbergmann/phpunit/pull/5779) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [Narrow class-types with generic](https://github.com/sebastianbergmann/phpunit/pull/5778) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [More precise `gc_status()` signature for PHP8.3&#43;](https://github.com/phpstan/phpstan-src/pull/2996) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Fix PHPStan reported issues](https://github.com/sebastianbergmann/phpunit/pull/5777) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
-- [Narrow type of template parameter in Cloner](https://github.com/sebastianbergmann/phpunit/pull/5776) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
