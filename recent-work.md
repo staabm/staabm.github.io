@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.28.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.28.0) (today)
 - [FriendsOfREDAXO/quick_navigation](https://github.com/FriendsOfREDAXO/quick_navigation) - [7.0.1](https://github.com/FriendsOfREDAXO/quick_navigation/releases/tag/7.0.1) (today)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.59.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.59.0) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.6](https://github.com/symfony/symfony/releases/tag/v7.0.6) (today)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.167](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.167) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.66](https://github.com/phpstan/phpstan/releases/tag/1.10.66) (6 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.0.9](https://github.com/sebastianbergmann/phpunit/releases/tag/11.0.9) (6 days ago)
-- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.5.5](https://github.com/lucatume/wp-browser/releases/tag/3.5.5) (6 days ago)
