@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ Support @immutable phpdoc in RestoreDefaultNullToNullableTypePropertyRector](https://github.com/rectorphp/rector-src/pull/5795) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Upgrade version](https://github.com/infection/site/pull/260) on [infection/site](https://github.com/infection/site) (1 day ago)
 - [gitignore .github folder](https://github.com/phpstan/phpstan-webmozart-assert/pull/179) on [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (1 day ago)
 - [Declare github action job timeouts](https://github.com/sebastianbergmann/phpunit/pull/5789) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
@@ -54,7 +55,6 @@
 - [Fix &#34;fsockopen(): Unable to connect to hostname:0&#34; warning](https://github.com/sebastianbergmann/phpunit/pull/5780) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [Test DefaultPrinter, ExecutionOrderDependency](https://github.com/sebastianbergmann/phpunit/pull/5779) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [Narrow class-types with generic](https://github.com/sebastianbergmann/phpunit/pull/5778) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
-- [More precise `gc_status()` signature for PHP8.3&#43;](https://github.com/phpstan/phpstan-src/pull/2996) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
