@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [infection/site](https://github.com/infection/site) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (5 days ago)
 - [infection/infection](https://github.com/infection/infection) (5 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Cleanup: use hasByName() over getTagsByName()](https://github.com/rectorphp/rector-src/pull/5797) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [ Support @immutable phpdoc in RestoreDefaultNullToNullableTypePropertyRector](https://github.com/rectorphp/rector-src/pull/5795) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Upgrade version](https://github.com/infection/site/pull/260) on [infection/site](https://github.com/infection/site) (1 day ago)
 - [gitignore .github folder](https://github.com/phpstan/phpstan-webmozart-assert/pull/179) on [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (1 day ago)
@@ -54,14 +55,13 @@
 - [Support static analysis in `PHPUnit\Framework\callback()`](https://github.com/sebastianbergmann/phpunit/pull/5781) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [Fix &#34;fsockopen(): Unable to connect to hostname:0&#34; warning](https://github.com/sebastianbergmann/phpunit/pull/5780) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [Test DefaultPrinter, ExecutionOrderDependency](https://github.com/sebastianbergmann/phpunit/pull/5779) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
-- [Narrow class-types with generic](https://github.com/sebastianbergmann/phpunit/pull/5778) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/quick_navigation](https://github.com/FriendsOfREDAXO/quick_navigation) - [7.0.1](https://github.com/FriendsOfREDAXO/quick_navigation/releases/tag/7.0.1) (today)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.59.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.59.0) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.6](https://github.com/symfony/symfony/releases/tag/v7.0.6) (today)
-- [FriendsOfREDAXO/quick_navigation](https://github.com/FriendsOfREDAXO/quick_navigation) - [7.0.0](https://github.com/FriendsOfREDAXO/quick_navigation/releases/tag/7.0.0) (1 day ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.0](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.0) (2 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.23](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.23) (2 days ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.2.3](https://github.com/briannesbitt/Carbon/releases/tag/3.2.3) (4 days ago)
