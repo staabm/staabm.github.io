@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.59.1](https://github.com/OskarStark/doctor-rst/releases/tag/1.59.1) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.28.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.28.0) (1 day ago)
 - [FriendsOfREDAXO/quick_navigation](https://github.com/FriendsOfREDAXO/quick_navigation) - [7.0.1](https://github.com/FriendsOfREDAXO/quick_navigation/releases/tag/7.0.1) (1 day ago)
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.59.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.59.0) (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.6](https://github.com/symfony/symfony/releases/tag/v7.0.6) (1 day ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.0](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.0) (3 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.23](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.23) (3 days ago)
