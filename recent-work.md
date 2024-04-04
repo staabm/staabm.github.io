@@ -3,14 +3,14 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
-- [infection/site](https://github.com/infection/site) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
+- [infection/site](https://github.com/infection/site) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (6 days ago)
 - [infection/infection](https://github.com/infection/infection) (6 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (1 week ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (1 week ago)
 
