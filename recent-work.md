@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ExplicitReturnNullRector should skip never return](https://github.com/rectorphp/rector-src/pull/5802) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Forbidd PHPUnitPhar prefixed classes](https://github.com/phpstan/phpstan-src/pull/3002) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Support root-namespace parent classes](https://github.com/rectorphp/swiss-knife/pull/19) on [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (2 days ago)
 - [Cleanup: use hasByName() over getTagsByName()](https://github.com/rectorphp/rector-src/pull/5797) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
@@ -54,11 +55,11 @@
 - [Use early returns and apply cs fixer](https://github.com/FriendsOfREDAXO/rexstan/pull/689) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [Fix &#34;fsockopen(): Unable to connect to hostname:0&#34; warning](https://github.com/sebastianbergmann/phpunit/pull/5783) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
 - [More precise param types in `TestBuilder`](https://github.com/sebastianbergmann/phpunit/pull/5782) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
-- [Support static analysis in `PHPUnit\Framework\callback()`](https://github.com/sebastianbergmann/phpunit/pull/5781) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.2.4](https://github.com/briannesbitt/Carbon/releases/tag/3.2.4) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.1.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.1.0) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.33.0](https://github.com/Roave/BetterReflection/releases/tag/6.33.0) (1 day ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.1](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.1) (1 day ago)
@@ -67,5 +68,4 @@
 - [FriendsOfREDAXO/quick_navigation](https://github.com/FriendsOfREDAXO/quick_navigation) - [7.0.1](https://github.com/FriendsOfREDAXO/quick_navigation/releases/tag/7.0.1) (2 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.6](https://github.com/symfony/symfony/releases/tag/v7.0.6) (2 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.23](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.23) (4 days ago)
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.2.3](https://github.com/briannesbitt/Carbon/releases/tag/3.2.3) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.167](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.167) (1 week ago)
