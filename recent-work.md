@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.2](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.2) (today)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.2.4](https://github.com/briannesbitt/Carbon/releases/tag/3.2.4) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.1.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.1.0) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.33.0](https://github.com/Roave/BetterReflection/releases/tag/6.33.0) (2 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.1](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.1) (2 days ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.59.1](https://github.com/OskarStark/doctor-rst/releases/tag/1.59.1) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.28.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.28.0) (3 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.6](https://github.com/symfony/symfony/releases/tag/v7.0.6) (3 days ago)
