@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [try reproducing bug5795](https://github.com/sebastianbergmann/phpunit/pull/5802) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Prevent creation of `socket:` folder when running infection](https://github.com/sebastianbergmann/phpunit/pull/5797) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [ExplicitReturnNullRector should skip never return](https://github.com/rectorphp/rector-src/pull/5802) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Forbidd PHPUnitPhar prefixed classes](https://github.com/phpstan/phpstan-src/pull/3002) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,14 +55,13 @@
 - [Make test more resilient](https://github.com/sebastianbergmann/phpunit/pull/5786) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/174) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (5 days ago)
 - [Use early returns and apply cs fixer](https://github.com/FriendsOfREDAXO/rexstan/pull/689) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
-- [Fix &#34;fsockopen(): Unable to connect to hostname:0&#34; warning](https://github.com/sebastianbergmann/phpunit/pull/5783) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.1.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.1.1) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.2](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.2) (today)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.2.4](https://github.com/briannesbitt/Carbon/releases/tag/3.2.4) (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.1.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.1.0) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.33.0](https://github.com/Roave/BetterReflection/releases/tag/6.33.0) (2 days ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.59.1](https://github.com/OskarStark/doctor-rst/releases/tag/1.59.1) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.28.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.28.0) (3 days ago)
