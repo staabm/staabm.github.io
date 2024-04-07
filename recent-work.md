@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.5.6](https://github.com/lucatume/wp-browser/releases/tag/3.5.6) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.17.1](https://github.com/redaxo/redaxo/releases/tag/5.17.1) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.1.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.1.1) (1 day ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.2](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.2) (1 day ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.28.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.28.0) (4 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.6](https://github.com/symfony/symfony/releases/tag/v7.0.6) (4 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.23](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.23) (6 days ago)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.6](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.6) (1 week ago)
