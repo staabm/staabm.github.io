@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Extract TypeMappingHelper from TreeMapperPHPStanExtension](https://github.com/CuyZ/Valinor/pull/523) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (today)
 - [Support Behat tests](https://github.com/TomasVotruba/unused-public/pull/108) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Fix &#34;Call to function array_filter() requires parameter #2 to be passed&#34;](https://github.com/phpstan/phpstan-webmozart-assert/pull/181) on [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (2 days ago)
 - [try reproducing bug5795](https://github.com/sebastianbergmann/phpunit/pull/5802) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
@@ -54,16 +55,15 @@
 - [Declare github action job timeouts](https://github.com/sebastianbergmann/phpunit/pull/5789) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [Setup mutation testing](https://github.com/sebastianbergmann/phpunit/pull/5788) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [Run tests in random order](https://github.com/sebastianbergmann/phpunit/pull/5787) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [Make test more resilient](https://github.com/sebastianbergmann/phpunit/pull/5786) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.3](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.3) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.53.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.53.0) (today)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.5.6](https://github.com/lucatume/wp-browser/releases/tag/3.5.6) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.17.1](https://github.com/redaxo/redaxo/releases/tag/5.17.1) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.1.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.1.1) (2 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.2](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.2) (2 days ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.2.4](https://github.com/briannesbitt/Carbon/releases/tag/3.2.4) (3 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.33.0](https://github.com/Roave/BetterReflection/releases/tag/6.33.0) (4 days ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.59.1](https://github.com/OskarStark/doctor-rst/releases/tag/1.59.1) (4 days ago)
