@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.10](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.10) (today)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.11](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.11) (today)
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.0.4](https://github.com/mautic/mautic/releases/tag/5.0.4) (1 day ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.3](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.3) (4 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.53.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.53.0) (4 days ago)
