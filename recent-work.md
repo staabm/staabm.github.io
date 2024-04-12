@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix fatal error on `constant(&#39;&#39;)`](https://github.com/phpstan/phpstan-src/pull/3013) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Extract TypeMappingHelper from TreeMapperPHPStanExtension](https://github.com/CuyZ/Valinor/pull/523) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (4 days ago)
 - [Support Behat tests](https://github.com/TomasVotruba/unused-public/pull/108) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
 - [Fix &#34;Call to function array_filter() requires parameter #2 to be passed&#34;](https://github.com/phpstan/phpstan-webmozart-assert/pull/181) on [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (6 days ago)
@@ -54,7 +55,6 @@
 - [gitignore .github folder](https://github.com/phpstan/phpstan-webmozart-assert/pull/179) on [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (1 week ago)
 - [Declare github action job timeouts](https://github.com/sebastianbergmann/phpunit/pull/5789) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [Setup mutation testing](https://github.com/sebastianbergmann/phpunit/pull/5788) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [Run tests in random order](https://github.com/sebastianbergmann/phpunit/pull/5787) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
