@@ -30,12 +30,12 @@
 - [peterfox](https://github.com/peterfox) (2 weeks ago)
 - [maks-rafalko](https://github.com/maks-rafalko) (2 weeks ago)
 - [annervisser](https://github.com/annervisser) (2 weeks ago)
-- [adrienbrault](https://github.com/adrienbrault) (1 month ago)
 - [getsentry](https://github.com/getsentry) (6 months ago)
 - [eliashaeussler](https://github.com/eliashaeussler) (7 months ago)
 - [DaveLiddament](https://github.com/DaveLiddament) (10 months ago)
 - [SecuMailer](https://github.com/SecuMailer) (11 months ago)
 - [bluehorndigital](https://github.com/bluehorndigital) (11 months ago)
+- [drupol](https://github.com/drupol) (11 months ago)
 
 
 #### 🔨 My recent Pull Requests
