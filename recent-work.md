@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.5.7](https://github.com/lucatume/wp-browser/releases/tag/3.5.7) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.11](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.11) (today)
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.0.4](https://github.com/mautic/mautic/releases/tag/5.0.4) (1 day ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.3](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.3) (4 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.53.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.53.0) (4 days ago)
-- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.5.6](https://github.com/lucatume/wp-browser/releases/tag/3.5.6) (5 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.17.1](https://github.com/redaxo/redaxo/releases/tag/5.17.1) (5 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.1.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.1.1) (6 days ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.2.4](https://github.com/briannesbitt/Carbon/releases/tag/3.2.4) (1 week ago)
