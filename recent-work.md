@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
+- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (6 days ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (1 week ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [infection/site](https://github.com/infection/site) (1 week ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 
 
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [AddCoversClassAttributeRector: skip interfaces &amp; traits](https://github.com/rectorphp/rector-phpunit/pull/325) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
+- [Added CoversClass annotations in unit tests](https://github.com/sebastianbergmann/phpunit/pull/5814) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [AddCoversClassAttributeRector: Support *TestCase suffix](https://github.com/rectorphp/rector-phpunit/pull/324) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
 - [Declare more precise phpdoc types](https://github.com/nikic/PHP-Parser/pull/993) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 days ago)
 - [Fix fatal error on `constant(&#39;&#39;)`](https://github.com/phpstan/phpstan-src/pull/3013) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -53,12 +55,11 @@
 - [Support root-namespace parent classes](https://github.com/rectorphp/swiss-knife/pull/19) on [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (1 week ago)
 - [Cleanup: use hasByName() over getTagsByName()](https://github.com/rectorphp/rector-src/pull/5797) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [ Support @immutable phpdoc in RestoreDefaultNullToNullableTypePropertyRector](https://github.com/rectorphp/rector-src/pull/5795) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [Upgrade version](https://github.com/infection/site/pull/260) on [infection/site](https://github.com/infection/site) (1 week ago)
-- [gitignore .github folder](https://github.com/phpstan/phpstan-webmozart-assert/pull/179) on [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [qossmic/deptrac](https://github.com/qossmic/deptrac) - [2.0.0-beta](https://github.com/qossmic/deptrac/releases/tag/2.0.0-beta) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.1.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.1.2) (today)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.5.7](https://github.com/lucatume/wp-browser/releases/tag/3.5.7) (2 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.11](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.11) (2 days ago)
@@ -68,4 +69,3 @@
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.17.1](https://github.com/redaxo/redaxo/releases/tag/5.17.1) (1 week ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.2.4](https://github.com/briannesbitt/Carbon/releases/tag/3.2.4) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.33.0](https://github.com/Roave/BetterReflection/releases/tag/6.33.0) (1 week ago)
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.59.1](https://github.com/OskarStark/doctor-rst/releases/tag/1.59.1) (1 week ago)
