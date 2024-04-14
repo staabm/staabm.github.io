@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [AddCoversClassAttributeRector: Support *TestCase suffix](https://github.com/rectorphp/rector-phpunit/pull/324) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
 - [Declare more precise phpdoc types](https://github.com/nikic/PHP-Parser/pull/993) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 days ago)
 - [Fix fatal error on `constant(&#39;&#39;)`](https://github.com/phpstan/phpstan-src/pull/3013) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Extract TypeMappingHelper from TreeMapperPHPStanExtension](https://github.com/CuyZ/Valinor/pull/523) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (6 days ago)
@@ -54,7 +55,6 @@
 - [ Support @immutable phpdoc in RestoreDefaultNullToNullableTypePropertyRector](https://github.com/rectorphp/rector-src/pull/5795) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Upgrade version](https://github.com/infection/site/pull/260) on [infection/site](https://github.com/infection/site) (1 week ago)
 - [gitignore .github folder](https://github.com/phpstan/phpstan-webmozart-assert/pull/179) on [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (1 week ago)
-- [Declare github action job timeouts](https://github.com/sebastianbergmann/phpunit/pull/5789) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
