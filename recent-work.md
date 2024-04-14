@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.60.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.60.0) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.12](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.12) (today)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [2.0.0-beta](https://github.com/qossmic/deptrac/releases/tag/2.0.0-beta) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.1.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.1.2) (today)
@@ -68,4 +69,3 @@
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.53.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.53.0) (6 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.17.1](https://github.com/redaxo/redaxo/releases/tag/5.17.1) (1 week ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.2.4](https://github.com/briannesbitt/Carbon/releases/tag/3.2.4) (1 week ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.33.0](https://github.com/Roave/BetterReflection/releases/tag/6.33.0) (1 week ago)
