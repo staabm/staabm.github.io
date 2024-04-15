@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 day ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
@@ -12,7 +13,6 @@
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [infection/site](https://github.com/infection/site) (1 week ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use fixed dev-tool versions, to stabilize CI](https://github.com/staabm/phpstan-baseline-analysis/pull/155) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [AddCoversClassAttributeRector: skip interfaces &amp; traits](https://github.com/rectorphp/rector-phpunit/pull/325) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 day ago)
 - [Added CoversClass annotations in unit tests](https://github.com/sebastianbergmann/phpunit/pull/5814) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [AddCoversClassAttributeRector: Support *TestCase suffix](https://github.com/rectorphp/rector-phpunit/pull/324) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 day ago)
@@ -54,7 +55,6 @@
 - [Forbidd PHPUnitPhar prefixed classes](https://github.com/phpstan/phpstan-src/pull/3002) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Support root-namespace parent classes](https://github.com/rectorphp/swiss-knife/pull/19) on [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (1 week ago)
 - [Cleanup: use hasByName() over getTagsByName()](https://github.com/rectorphp/rector-src/pull/5797) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [ Support @immutable phpdoc in RestoreDefaultNullToNullableTypePropertyRector](https://github.com/rectorphp/rector-src/pull/5795) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
