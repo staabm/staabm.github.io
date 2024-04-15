@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/orm](https://github.com/doctrine/orm) - [2.19.4](https://github.com/doctrine/orm/releases/tag/2.19.4) (today)
+- [doctrine/orm](https://github.com/doctrine/orm) - [3.1.2](https://github.com/doctrine/orm/releases/tag/3.1.2) (today)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.1.0-b1](https://github.com/matomo-org/matomo/releases/tag/5.1.0-b1) (today)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.60.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.60.0) (1 day ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.12](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.12) (1 day ago)
