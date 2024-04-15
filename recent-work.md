@@ -10,8 +10,8 @@
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (1 week ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [infection/site](https://github.com/infection/site) (1 week ago)
 
 
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/orm](https://github.com/doctrine/orm) - [2.19.4](https://github.com/doctrine/orm/releases/tag/2.19.4) (today)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.1.0-b1](https://github.com/matomo-org/matomo/releases/tag/5.1.0-b1) (today)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.60.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.60.0) (1 day ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.12](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.12) (1 day ago)
@@ -68,4 +69,3 @@
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.0.4](https://github.com/mautic/mautic/releases/tag/5.0.4) (4 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.3](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.3) (1 week ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.53.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.53.0) (1 week ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.17.1](https://github.com/redaxo/redaxo/releases/tag/5.17.1) (1 week ago)
