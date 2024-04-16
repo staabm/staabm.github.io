@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.67](https://github.com/phpstan/phpstan/releases/tag/1.10.67) (today)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.12.5](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.12.5) (today)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.1.2](https://github.com/doctrine/orm/releases/tag/3.1.2) (1 day ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.1.0-b1](https://github.com/matomo-org/matomo/releases/tag/5.1.0-b1) (1 day ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.1.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.1.2) (2 days ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.5.7](https://github.com/lucatume/wp-browser/releases/tag/3.5.7) (4 days ago)
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.0.4](https://github.com/mautic/mautic/releases/tag/5.0.4) (5 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.3](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.3) (1 week ago)
