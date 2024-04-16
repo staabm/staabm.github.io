@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [infection/site](https://github.com/infection/site) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix typo](https://github.com/TomasVotruba/type-coverage/pull/36) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (today)
+- [fix CS](https://github.com/FriendsOfREDAXO/rexstan/pull/693) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [Added test for JsonSerialize](https://github.com/TomasVotruba/unused-public/pull/112) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [More precise `parseClarkNotation` return type](https://github.com/sabre-io/xml/pull/272) on [sabre-io/xml](https://github.com/sabre-io/xml) (today)
 - [Use fixed dev-tool versions, to stabilize CI](https://github.com/staabm/phpstan-baseline-analysis/pull/155) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
 - [AddCoversClassAttributeRector: skip interfaces &amp; traits](https://github.com/rectorphp/rector-phpunit/pull/325) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 days ago)
@@ -52,13 +55,11 @@
 - [Fix &#34;Call to function array_filter() requires parameter #2 to be passed&#34;](https://github.com/phpstan/phpstan-webmozart-assert/pull/181) on [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (1 week ago)
 - [Using `@testWith` annotation may generate `PHP Warning: Uninitialized string offset 0`](https://github.com/sebastianbergmann/phpunit/pull/5802) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [Prevent creation of `socket:` folder when running infection](https://github.com/sebastianbergmann/phpunit/pull/5797) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [ExplicitReturnNullRector should skip never return](https://github.com/rectorphp/rector-src/pull/5802) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [Forbidd PHPUnitPhar prefixed classes](https://github.com/phpstan/phpstan-src/pull/3002) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Support root-namespace parent classes](https://github.com/rectorphp/swiss-knife/pull/19) on [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.168](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.168) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.67](https://github.com/phpstan/phpstan/releases/tag/1.10.67) (today)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.12.5](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.12.5) (today)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.1.2](https://github.com/doctrine/orm/releases/tag/3.1.2) (1 day ago)
@@ -68,4 +69,3 @@
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [2.0.0-beta](https://github.com/qossmic/deptrac/releases/tag/2.0.0-beta) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.1.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.1.2) (2 days ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.5.7](https://github.com/lucatume/wp-browser/releases/tag/3.5.7) (4 days ago)
-- [mautic/mautic](https://github.com/mautic/mautic) - [5.0.4](https://github.com/mautic/mautic/releases/tag/5.0.4) (5 days ago)
