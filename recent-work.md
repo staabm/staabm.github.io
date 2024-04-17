@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
+- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
+- [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
-- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (3 days ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (1 week ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [AddCoversClassAttributeRector: skip abstract classes](https://github.com/rectorphp/rector-phpunit/pull/326) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
 - [Fix DeclareCoverageRule](https://github.com/TomasVotruba/type-coverage/pull/37) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (1 day ago)
 - [fix typo](https://github.com/TomasVotruba/type-coverage/pull/36) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (1 day ago)
 - [fix CS](https://github.com/FriendsOfREDAXO/rexstan/pull/693) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -54,7 +55,6 @@
 - [Extract TypeMappingHelper from TreeMapperPHPStanExtension](https://github.com/CuyZ/Valinor/pull/523) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (1 week ago)
 - [Support Behat tests](https://github.com/TomasVotruba/unused-public/pull/108) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [Fix &#34;Call to function array_filter() requires parameter #2 to be passed&#34;](https://github.com/phpstan/phpstan-webmozart-assert/pull/181) on [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (1 week ago)
-- [Using `@testWith` annotation may generate `PHP Warning: Uninitialized string offset 0`](https://github.com/sebastianbergmann/phpunit/pull/5802) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
