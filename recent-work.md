@@ -6,13 +6,13 @@
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
 - [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (1 week ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [highlight_string() flips side-effects depending on $return](https://github.com/phpstan/phpstan-src/pull/3021) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Detect unused function-call on a separate line with possibly pure function](https://github.com/phpstan/phpstan-src/pull/3020) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [AddCoversClassAttributeRector: skip abstract classes](https://github.com/rectorphp/rector-phpunit/pull/326) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
 - [Fix DeclareCoverageRule](https://github.com/TomasVotruba/type-coverage/pull/37) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (1 day ago)
@@ -54,7 +55,6 @@
 - [Declare more precise phpdoc types](https://github.com/nikic/PHP-Parser/pull/993) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (5 days ago)
 - [Fix fatal error on `constant(&#39;&#39;)`](https://github.com/phpstan/phpstan-src/pull/3013) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Extract TypeMappingHelper from TreeMapperPHPStanExtension](https://github.com/CuyZ/Valinor/pull/523) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (1 week ago)
-- [Support Behat tests](https://github.com/TomasVotruba/unused-public/pull/108) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
