@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.60.1](https://github.com/OskarStark/doctor-rst/releases/tag/1.60.1) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.54.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.54.0) (today)
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.60.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.60.0) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.4](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.4) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.168](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.168) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.67](https://github.com/phpstan/phpstan/releases/tag/1.10.67) (1 day ago)
