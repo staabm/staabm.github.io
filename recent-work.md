@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [10.5.19](https://github.com/sebastianbergmann/phpunit/releases/tag/10.5.19) (today)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.60.1](https://github.com/OskarStark/doctor-rst/releases/tag/1.60.1) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.54.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.54.0) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.4](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.4) (1 day ago)
@@ -68,4 +69,3 @@
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.1.2](https://github.com/doctrine/orm/releases/tag/3.1.2) (2 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.1.0-b1](https://github.com/matomo-org/matomo/releases/tag/5.1.0-b1) (2 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.12](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.12) (3 days ago)
-- [qossmic/deptrac](https://github.com/qossmic/deptrac) - [2.0.0-beta](https://github.com/qossmic/deptrac/releases/tag/2.0.0-beta) (3 days ago)
