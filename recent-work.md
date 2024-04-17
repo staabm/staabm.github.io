@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.60.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.60.0) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.4](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.4) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.168](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.168) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.67](https://github.com/phpstan/phpstan/releases/tag/1.10.67) (1 day ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.12.5](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.12.5) (1 day ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.1.2](https://github.com/doctrine/orm/releases/tag/3.1.2) (2 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.1.0-b1](https://github.com/matomo-org/matomo/releases/tag/5.1.0-b1) (2 days ago)
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.60.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.60.0) (3 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.3.12](https://github.com/phpstan/phpstan-symfony/releases/tag/1.3.12) (3 days ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [2.0.0-beta](https://github.com/qossmic/deptrac/releases/tag/2.0.0-beta) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.1.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.1.2) (3 days ago)
