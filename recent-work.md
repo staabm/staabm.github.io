@@ -5,14 +5,14 @@
 
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 day ago)
-- [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [sabre-io/xml](https://github.com/sabre-io/xml) (2 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Detect unused method call on a separate line with possibly pure method](https://github.com/phpstan/phpstan-src/pull/3022) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [highlight_string() flips side-effects depending on $return](https://github.com/phpstan/phpstan-src/pull/3021) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Detect unused function-call on a separate line with possibly pure function](https://github.com/phpstan/phpstan-src/pull/3020) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [AddCoversClassAttributeRector: skip abstract classes](https://github.com/rectorphp/rector-phpunit/pull/326) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 day ago)
@@ -54,7 +55,6 @@
 - [AddCoversClassAttributeRector: Support *TestCase suffix](https://github.com/rectorphp/rector-phpunit/pull/324) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (4 days ago)
 - [Declare more precise phpdoc types](https://github.com/nikic/PHP-Parser/pull/993) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (6 days ago)
 - [Fix fatal error on `constant(&#39;&#39;)`](https://github.com/phpstan/phpstan-src/pull/3013) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Extract TypeMappingHelper from TreeMapperPHPStanExtension](https://github.com/CuyZ/Valinor/pull/523) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
