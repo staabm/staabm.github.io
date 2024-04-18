@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Less memory hungry FnMatchPathNormalizer: reduced by ~35-45%](https://github.com/easy-coding-standard/easy-coding-standard/pull/192) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
+- [fix: Faster StatementIndentationFixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7957) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (today)
 - [Detect unused static method call on a separate line with possibly pure method](https://github.com/phpstan/phpstan-src/pull/3023) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Detect unused method call on a separate line with possibly pure method](https://github.com/phpstan/phpstan-src/pull/3022) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [highlight_string() flips side-effects depending on $return](https://github.com/phpstan/phpstan-src/pull/3021) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Use fixed dev-tool versions, to stabilize CI](https://github.com/staabm/phpstan-baseline-analysis/pull/155) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
 - [AddCoversClassAttributeRector: skip interfaces &amp; traits](https://github.com/rectorphp/rector-phpunit/pull/325) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (4 days ago)
 - [Added CoversClass annotations in unit tests](https://github.com/sebastianbergmann/phpunit/pull/5814) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
-- [AddCoversClassAttributeRector: Support *TestCase suffix](https://github.com/rectorphp/rector-phpunit/pull/324) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (4 days ago)
-- [Declare more precise phpdoc types](https://github.com/nikic/PHP-Parser/pull/993) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
