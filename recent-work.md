@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Detect unused static method call on a separate line with possibly pure method](https://github.com/phpstan/phpstan-src/pull/3023) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Detect unused method call on a separate line with possibly pure method](https://github.com/phpstan/phpstan-src/pull/3022) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [highlight_string() flips side-effects depending on $return](https://github.com/phpstan/phpstan-src/pull/3021) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Detect unused function-call on a separate line with possibly pure function](https://github.com/phpstan/phpstan-src/pull/3020) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Added CoversClass annotations in unit tests](https://github.com/sebastianbergmann/phpunit/pull/5814) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [AddCoversClassAttributeRector: Support *TestCase suffix](https://github.com/rectorphp/rector-phpunit/pull/324) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (4 days ago)
 - [Declare more precise phpdoc types](https://github.com/nikic/PHP-Parser/pull/993) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (6 days ago)
-- [Fix fatal error on `constant(&#39;&#39;)`](https://github.com/phpstan/phpstan-src/pull/3013) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
