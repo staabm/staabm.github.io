@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 days ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
 - [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (2 days ago)
-- [sabre-io/xml](https://github.com/sabre-io/xml) (3 days ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
+- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
+- [sabre-io/xml](https://github.com/sabre-io/xml) (3 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (5 days ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Faster FileInfoMatcher](https://github.com/rectorphp/rector-src/pull/5830) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [Faster FileInfoMatcher](https://github.com/easy-coding-standard/easy-coding-standard/pull/196) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
 - [Implement `--no-diffs` CLI Option](https://github.com/easy-coding-standard/easy-coding-standard/pull/195) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
 - [Remove repeated calls to `EasyCodingStandardStyle-&gt;isDebug()`](https://github.com/easy-coding-standard/easy-coding-standard/pull/194) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
 - [Less memory hungry FnMatchPathNormalizer: reduced by ~35-45%](https://github.com/easy-coding-standard/easy-coding-standard/pull/192) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 day ago)
@@ -53,8 +55,6 @@
 - [fix typo](https://github.com/TomasVotruba/type-coverage/pull/36) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (3 days ago)
 - [fix CS](https://github.com/FriendsOfREDAXO/rexstan/pull/693) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [Added test for JsonSerialize](https://github.com/TomasVotruba/unused-public/pull/112) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
-- [More precise `parseClarkNotation` return type](https://github.com/sabre-io/xml/pull/272) on [sabre-io/xml](https://github.com/sabre-io/xml) (3 days ago)
-- [Use fixed dev-tool versions, to stabilize CI](https://github.com/staabm/phpstan-baseline-analysis/pull/155) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
