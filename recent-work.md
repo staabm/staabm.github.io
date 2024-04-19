@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 day ago)
+- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove repeated calls to `EasyCodingStandardStyle-&gt;isDebug()`](https://github.com/easy-coding-standard/easy-coding-standard/pull/194) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
 - [Less memory hungry FnMatchPathNormalizer: reduced by ~35-45%](https://github.com/easy-coding-standard/easy-coding-standard/pull/192) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 day ago)
 - [fix: Faster StatementIndentationFixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7957) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 day ago)
 - [Detect unused static method call on a separate line with possibly pure method](https://github.com/phpstan/phpstan-src/pull/3023) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [More precise `parseClarkNotation` return type](https://github.com/sabre-io/xml/pull/272) on [sabre-io/xml](https://github.com/sabre-io/xml) (3 days ago)
 - [Use fixed dev-tool versions, to stabilize CI](https://github.com/staabm/phpstan-baseline-analysis/pull/155) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
 - [AddCoversClassAttributeRector: skip interfaces &amp; traits](https://github.com/rectorphp/rector-phpunit/pull/325) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (5 days ago)
-- [Added CoversClass annotations in unit tests](https://github.com/sebastianbergmann/phpunit/pull/5814) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
