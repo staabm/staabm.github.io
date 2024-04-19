@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [test wildcard in path](https://github.com/rectorphp/rector-src/pull/5832) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [fix: Remove unnecessary method-proxying calls](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7959) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (today)
 - [Faster FileInfoMatcher](https://github.com/rectorphp/rector-src/pull/5830) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Faster FileInfoMatcher](https://github.com/easy-coding-standard/easy-coding-standard/pull/196) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
 - [Implement `--no-diffs` CLI Option](https://github.com/easy-coding-standard/easy-coding-standard/pull/195) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
@@ -53,8 +55,6 @@
 - [AddCoversClassAttributeRector: skip abstract classes](https://github.com/rectorphp/rector-phpunit/pull/326) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 days ago)
 - [Fix DeclareCoverageRule](https://github.com/TomasVotruba/type-coverage/pull/37) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (3 days ago)
 - [fix typo](https://github.com/TomasVotruba/type-coverage/pull/36) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (3 days ago)
-- [fix CS](https://github.com/FriendsOfREDAXO/rexstan/pull/693) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [Added test for JsonSerialize](https://github.com/TomasVotruba/unused-public/pull/112) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
