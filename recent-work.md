@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.3.0](https://github.com/briannesbitt/Carbon/releases/tag/3.3.0) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.34.0](https://github.com/Roave/BetterReflection/releases/tag/6.34.0) (today)
 - [sabre-io/xml](https://github.com/sabre-io/xml) - [4.0.5](https://github.com/sabre-io/xml/releases/tag/4.0.5) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [10.5.19](https://github.com/sebastianbergmann/phpunit/releases/tag/10.5.19) (3 days ago)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.168](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.168) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.67](https://github.com/phpstan/phpstan/releases/tag/1.10.67) (4 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.12.5](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.12.5) (4 days ago)
-- [doctrine/orm](https://github.com/doctrine/orm) - [3.1.2](https://github.com/doctrine/orm/releases/tag/3.1.2) (5 days ago)
