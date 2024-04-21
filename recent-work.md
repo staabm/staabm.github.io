@@ -4,13 +4,13 @@
 #### 💻 Check out what I'm currently working on
 
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 days ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (4 days ago)
-- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (4 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
+- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (4 days ago)
 - [sabre-io/xml](https://github.com/sabre-io/xml) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 
@@ -40,7 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Raise min phpcs version to 8.2](https://github.com/Roave/BetterReflection/pull/1425) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
+- [Support NullsafeMethodCall in NodeNameResolver](https://github.com/rectorphp/rector-src/pull/5840) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [Support NullSafeProperty fetches in unused-code analysis](https://github.com/rectorphp/rector-src/pull/5839) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [Finalize classes](https://github.com/Roave/BetterReflection/pull/1426) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
+- [Raise min phpcs `php_version` to 8.2](https://github.com/Roave/BetterReflection/pull/1425) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [Support NullSafeMethod calls in unused-code analysis](https://github.com/rectorphp/rector-src/pull/5838) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Utilize more readable string functions](https://github.com/Roave/BetterReflection/pull/1424) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [Update CI jobs to PHP 8.3](https://github.com/Roave/BetterReflection/pull/1423) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
@@ -52,15 +55,12 @@
 - [Implement `--no-diffs` CLI Option](https://github.com/easy-coding-standard/easy-coding-standard/pull/195) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (2 days ago)
 - [Remove repeated calls to `EasyCodingStandardStyle-&gt;isDebug()`](https://github.com/easy-coding-standard/easy-coding-standard/pull/194) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (2 days ago)
 - [Less memory hungry FnMatchPathNormalizer: reduced by ~35-45%](https://github.com/easy-coding-standard/easy-coding-standard/pull/192) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (3 days ago)
-- [fix: Faster StatementIndentationFixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7957) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (3 days ago)
-- [Detect unused static method call on a separate line with possibly pure method](https://github.com/phpstan/phpstan-src/pull/3023) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Detect unused method call on a separate line with possibly pure method](https://github.com/phpstan/phpstan-src/pull/3022) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.35.0](https://github.com/Roave/BetterReflection/releases/tag/6.35.0) (today)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.3.0](https://github.com/briannesbitt/Carbon/releases/tag/3.3.0) (1 day ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.34.0](https://github.com/Roave/BetterReflection/releases/tag/6.34.0) (1 day ago)
 - [sabre-io/xml](https://github.com/sabre-io/xml) - [4.0.5](https://github.com/sabre-io/xml/releases/tag/4.0.5) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [10.5.19](https://github.com/sebastianbergmann/phpunit/releases/tag/10.5.19) (4 days ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.60.1](https://github.com/OskarStark/doctor-rst/releases/tag/1.60.1) (4 days ago)
