@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (2 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 days ago)
+- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
 - [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (4 days ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
 - [sabre-io/xml](https://github.com/sabre-io/xml) (5 days ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (6 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Raise min phpcs version to 8.2](https://github.com/Roave/BetterReflection/pull/1425) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
+- [Support NullSafeMethod calls in unused-code analysis](https://github.com/rectorphp/rector-src/pull/5838) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [Utilize more readable string functions](https://github.com/Roave/BetterReflection/pull/1424) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [Update CI jobs to PHP 8.3](https://github.com/Roave/BetterReflection/pull/1423) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [Faster FileInfoMatcher](https://github.com/rectorphp/rector-src/pull/5834) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [test wildcard in path](https://github.com/rectorphp/rector-src/pull/5832) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
@@ -52,9 +55,6 @@
 - [fix: Faster StatementIndentationFixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7957) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (3 days ago)
 - [Detect unused static method call on a separate line with possibly pure method](https://github.com/phpstan/phpstan-src/pull/3023) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Detect unused method call on a separate line with possibly pure method](https://github.com/phpstan/phpstan-src/pull/3022) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [highlight_string() flips side-effects depending on $return](https://github.com/phpstan/phpstan-src/pull/3021) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Detect unused function-call on a separate line with possibly pure function](https://github.com/phpstan/phpstan-src/pull/3020) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [AddCoversClassAttributeRector: skip abstract classes](https://github.com/rectorphp/rector-phpunit/pull/326) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
