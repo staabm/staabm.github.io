@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update CI jobs to PHP 8.3](https://github.com/Roave/BetterReflection/pull/1423) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [Faster FileInfoMatcher](https://github.com/rectorphp/rector-src/pull/5834) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [test wildcard in path](https://github.com/rectorphp/rector-src/pull/5832) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [fix: Remove unnecessary method-proxying calls](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7959) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (2 days ago)
@@ -54,7 +55,6 @@
 - [highlight_string() flips side-effects depending on $return](https://github.com/phpstan/phpstan-src/pull/3021) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Detect unused function-call on a separate line with possibly pure function](https://github.com/phpstan/phpstan-src/pull/3020) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [AddCoversClassAttributeRector: skip abstract classes](https://github.com/rectorphp/rector-phpunit/pull/326) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (4 days ago)
-- [Fix DeclareCoverageRule](https://github.com/TomasVotruba/type-coverage/pull/37) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
