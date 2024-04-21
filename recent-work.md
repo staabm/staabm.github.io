@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 days ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (2 days ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (4 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
+- [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (4 days ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (4 days ago)
-- [sabre-io/xml](https://github.com/sabre-io/xml) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
+- [sabre-io/xml](https://github.com/sabre-io/xml) (5 days ago)
 
 
 #### 📜 My recent blog posts
