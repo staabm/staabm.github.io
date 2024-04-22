@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use str_contains over strpos](https://github.com/Roave/BetterReflection/pull/1427) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [Update lock-closed-issues.yml](https://github.com/staabm/phpstan-todo-by/pull/92) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Support NullsafeMethodCall in NodeNameResolver](https://github.com/rectorphp/rector-src/pull/5840) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Support NullSafeProperty fetches in unused-code analysis](https://github.com/rectorphp/rector-src/pull/5839) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Faster FileInfoMatcher](https://github.com/rectorphp/rector-src/pull/5830) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Faster FileInfoMatcher](https://github.com/easy-coding-standard/easy-coding-standard/pull/196) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (3 days ago)
 - [Implement `--no-diffs` CLI Option](https://github.com/easy-coding-standard/easy-coding-standard/pull/195) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (3 days ago)
-- [Remove repeated calls to `EasyCodingStandardStyle-&gt;isDebug()`](https://github.com/easy-coding-standard/easy-coding-standard/pull/194) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
