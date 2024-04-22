@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (3 days ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Ignore phpdoc type in RecastingRemovalRector](https://github.com/rectorphp/rector-src/pull/5841) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Use str_contains over strpos](https://github.com/Roave/BetterReflection/pull/1427) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [Update lock-closed-issues.yml](https://github.com/staabm/phpstan-todo-by/pull/92) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Support NullsafeMethodCall in NodeNameResolver](https://github.com/rectorphp/rector-src/pull/5840) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [fix: Remove unnecessary method-proxying calls](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7959) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (3 days ago)
 - [Faster FileInfoMatcher](https://github.com/rectorphp/rector-src/pull/5830) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Faster FileInfoMatcher](https://github.com/easy-coding-standard/easy-coding-standard/pull/196) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (3 days ago)
-- [Implement `--no-diffs` CLI Option](https://github.com/easy-coding-standard/easy-coding-standard/pull/195) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
