@@ -11,8 +11,8 @@
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (5 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
-- [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (1 week ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 week ago)
+- [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (1 week ago)
 
 
 #### 📜 My recent blog posts
