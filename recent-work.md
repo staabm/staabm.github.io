@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix matching of `@api` class-comments](https://github.com/TomasVotruba/class-leak/pull/39) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (today)
 - [Declare conditional return types](https://github.com/SAML-Toolkits/php-saml/pull/585) on [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) (2 days ago)
 - [Ignore phpdoc type in RecastingRemovalRector](https://github.com/rectorphp/rector-src/pull/5841) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [Use str_contains over strpos](https://github.com/Roave/BetterReflection/pull/1427) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (3 days ago)
@@ -54,7 +55,6 @@
 - [Faster FileInfoMatcher](https://github.com/rectorphp/rector-src/pull/5834) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 - [test wildcard in path](https://github.com/rectorphp/rector-src/pull/5832) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
 - [fix: Remove unnecessary method-proxying calls](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7959) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (6 days ago)
-- [Faster FileInfoMatcher](https://github.com/rectorphp/rector-src/pull/5830) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
