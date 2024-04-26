@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 days ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (3 days ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (6 days ago)
-- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (6 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (4 days ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (4 days ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
+- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 week ago)
@@ -26,7 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
-- [TobiasKrais](https://github.com/TobiasKrais) (1 week ago)
+- [TobiasKrais](https://github.com/TobiasKrais) (2 weeks ago)
 - [peterfox](https://github.com/peterfox) (1 month ago)
 - [maks-rafalko](https://github.com/maks-rafalko) (1 month ago)
 - [annervisser](https://github.com/annervisser) (1 month ago)
@@ -40,29 +40,29 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix matching of `@api` class-comments](https://github.com/TomasVotruba/class-leak/pull/39) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (today)
-- [Declare conditional return types](https://github.com/SAML-Toolkits/php-saml/pull/585) on [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) (2 days ago)
-- [Ignore phpdoc type in RecastingRemovalRector](https://github.com/rectorphp/rector-src/pull/5841) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Use str_contains over strpos](https://github.com/Roave/BetterReflection/pull/1427) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (3 days ago)
-- [Update lock-closed-issues.yml](https://github.com/staabm/phpstan-todo-by/pull/92) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
-- [Support NullsafeMethodCall in NodeNameResolver](https://github.com/rectorphp/rector-src/pull/5840) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
-- [Support NullSafeProperty fetches in unused-code analysis](https://github.com/rectorphp/rector-src/pull/5839) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
-- [Finalize classes](https://github.com/Roave/BetterReflection/pull/1426) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (4 days ago)
-- [Raise min phpcs `php_version` to 8.2](https://github.com/Roave/BetterReflection/pull/1425) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (4 days ago)
-- [Support NullSafeMethod calls in unused-code analysis](https://github.com/rectorphp/rector-src/pull/5838) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
-- [Utilize more readable string functions](https://github.com/Roave/BetterReflection/pull/1424) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (4 days ago)
-- [Update CI jobs to PHP 8.3](https://github.com/Roave/BetterReflection/pull/1423) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (4 days ago)
-- [Faster FileInfoMatcher](https://github.com/rectorphp/rector-src/pull/5834) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
-- [test wildcard in path](https://github.com/rectorphp/rector-src/pull/5832) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
-- [fix: Remove unnecessary method-proxying calls](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7959) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (6 days ago)
+- [Fix matching of `@api` class-comments](https://github.com/TomasVotruba/class-leak/pull/39) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (1 day ago)
+- [Declare conditional return types](https://github.com/SAML-Toolkits/php-saml/pull/585) on [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) (3 days ago)
+- [Ignore phpdoc type in RecastingRemovalRector](https://github.com/rectorphp/rector-src/pull/5841) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
+- [Use str_contains over strpos](https://github.com/Roave/BetterReflection/pull/1427) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (4 days ago)
+- [Update lock-closed-issues.yml](https://github.com/staabm/phpstan-todo-by/pull/92) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
+- [Support NullsafeMethodCall in NodeNameResolver](https://github.com/rectorphp/rector-src/pull/5840) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
+- [Support NullSafeProperty fetches in unused-code analysis](https://github.com/rectorphp/rector-src/pull/5839) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
+- [Finalize classes](https://github.com/Roave/BetterReflection/pull/1426) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (5 days ago)
+- [Raise min phpcs `php_version` to 8.2](https://github.com/Roave/BetterReflection/pull/1425) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (5 days ago)
+- [Support NullSafeMethod calls in unused-code analysis](https://github.com/rectorphp/rector-src/pull/5838) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
+- [Utilize more readable string functions](https://github.com/Roave/BetterReflection/pull/1424) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (5 days ago)
+- [Update CI jobs to PHP 8.3](https://github.com/Roave/BetterReflection/pull/1423) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (5 days ago)
+- [Faster FileInfoMatcher](https://github.com/rectorphp/rector-src/pull/5834) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
+- [test wildcard in path](https://github.com/rectorphp/rector-src/pull/5832) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
+- [fix: Remove unnecessary method-proxying calls](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7959) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.1.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.1.3) (1 day ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.36.0](https://github.com/Roave/BetterReflection/releases/tag/6.36.0) (2 days ago)
-- [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.5](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.5) (3 days ago)
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.3.0](https://github.com/briannesbitt/Carbon/releases/tag/3.3.0) (5 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.1.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.1.3) (2 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.36.0](https://github.com/Roave/BetterReflection/releases/tag/6.36.0) (3 days ago)
+- [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.5](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.5) (4 days ago)
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.3.0](https://github.com/briannesbitt/Carbon/releases/tag/3.3.0) (6 days ago)
 - [sabre-io/xml](https://github.com/sabre-io/xml) - [4.0.5](https://github.com/sabre-io/xml/releases/tag/4.0.5) (1 week ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.60.1](https://github.com/OskarStark/doctor-rst/releases/tag/1.60.1) (1 week ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.54.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.54.0) (1 week ago)
