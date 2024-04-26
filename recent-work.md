@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (today)
+- [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) (3 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (4 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (4 days ago)
-- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 week ago)
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (4 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
+- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 week ago)
-- [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (1 week ago)
 
 
 #### 📜 My recent blog posts
