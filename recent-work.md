@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (3 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (6 days ago)
 - [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) (6 days ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
-- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
+- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [CI: take utils/ into account in class-leak](https://github.com/rectorphp/rector-src/pull/5847) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Compare class-names case insensitive](https://github.com/TomasVotruba/class-leak/pull/42) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (3 days ago)
 - [Fix matching of `@api` class-comments](https://github.com/TomasVotruba/class-leak/pull/39) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (4 days ago)
 - [Declare conditional return types](https://github.com/SAML-Toolkits/php-saml/pull/585) on [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) (6 days ago)
@@ -54,11 +55,11 @@
 - [Utilize more readable string functions](https://github.com/Roave/BetterReflection/pull/1424) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
 - [Update CI jobs to PHP 8.3](https://github.com/Roave/BetterReflection/pull/1423) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
 - [Faster FileInfoMatcher](https://github.com/rectorphp/rector-src/pull/5834) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [test wildcard in path](https://github.com/rectorphp/rector-src/pull/5832) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.169](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.169) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.6](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.6) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.1.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.1.3) (5 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.36.0](https://github.com/Roave/BetterReflection/releases/tag/6.36.0) (6 days ago)
@@ -67,5 +68,4 @@
 - [sabre-io/xml](https://github.com/sabre-io/xml) - [4.0.5](https://github.com/sabre-io/xml/releases/tag/4.0.5) (1 week ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.60.1](https://github.com/OskarStark/doctor-rst/releases/tag/1.60.1) (1 week ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.54.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.54.0) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.168](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.168) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.10.67](https://github.com/phpstan/phpstan/releases/tag/1.10.67) (1 week ago)
