@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (3 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (6 days ago)
 - [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) (6 days ago)
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 week ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
 
 
 #### 📜 My recent blog posts
