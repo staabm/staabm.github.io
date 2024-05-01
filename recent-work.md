@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.3.1](https://github.com/briannesbitt/Carbon/releases/tag/3.3.1) (today)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.1.3](https://github.com/doctrine/orm/releases/tag/3.1.3) (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.7](https://github.com/symfony/symfony/releases/tag/v7.0.7) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.169](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.169) (2 days ago)
@@ -66,6 +67,5 @@
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.1.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.1.3) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.36.0](https://github.com/Roave/BetterReflection/releases/tag/6.36.0) (1 week ago)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.5](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.5) (1 week ago)
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.3.0](https://github.com/briannesbitt/Carbon/releases/tag/3.3.0) (1 week ago)
 - [sabre-io/xml](https://github.com/sabre-io/xml) - [4.0.5](https://github.com/sabre-io/xml/releases/tag/4.0.5) (1 week ago)
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) - [1.60.1](https://github.com/OskarStark/doctor-rst/releases/tag/1.60.1) (2 weeks ago)
