@@ -3,11 +3,11 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (5 days ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (6 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 - [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
@@ -30,7 +30,7 @@
 - [peterfox](https://github.com/peterfox) (1 month ago)
 - [maks-rafalko](https://github.com/maks-rafalko) (1 month ago)
 - [annervisser](https://github.com/annervisser) (1 month ago)
-- [getsentry](https://github.com/getsentry) (6 months ago)
+- [getsentry](https://github.com/getsentry) (7 months ago)
 - [eliashaeussler](https://github.com/eliashaeussler) (7 months ago)
 - [DaveLiddament](https://github.com/DaveLiddament) (11 months ago)
 - [SecuMailer](https://github.com/SecuMailer) (1 year ago)
@@ -40,11 +40,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fixed nette/utils indirect dependency](https://github.com/TomasVotruba/unused-public/pull/116) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
-- [Declare missing nette/utils dependency](https://github.com/TomasVotruba/unused-public/pull/115) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
-- [CI: take utils/ into account in class-leak](https://github.com/rectorphp/rector-src/pull/5847) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [Compare class-names case insensitive](https://github.com/TomasVotruba/class-leak/pull/42) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (5 days ago)
-- [Fix matching of `@api` class-comments](https://github.com/TomasVotruba/class-leak/pull/39) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (6 days ago)
+- [Fixed nette/utils indirect dependency](https://github.com/TomasVotruba/unused-public/pull/116) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
+- [Declare missing nette/utils dependency](https://github.com/TomasVotruba/unused-public/pull/115) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
+- [CI: take utils/ into account in class-leak](https://github.com/rectorphp/rector-src/pull/5847) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
+- [Compare class-names case insensitive](https://github.com/TomasVotruba/class-leak/pull/42) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (6 days ago)
+- [Fix matching of `@api` class-comments](https://github.com/TomasVotruba/class-leak/pull/39) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (1 week ago)
 - [Declare conditional return types](https://github.com/SAML-Toolkits/php-saml/pull/585) on [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) (1 week ago)
 - [Ignore phpdoc type in RecastingRemovalRector](https://github.com/rectorphp/rector-src/pull/5841) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Use str_contains over strpos](https://github.com/Roave/BetterReflection/pull/1427) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.24.0](https://github.com/vimeo/psalm/releases/tag/5.24.0) (today)
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.3.1](https://github.com/briannesbitt/Carbon/releases/tag/3.3.1) (today)
-- [doctrine/orm](https://github.com/doctrine/orm) - [3.1.3](https://github.com/doctrine/orm/releases/tag/3.1.3) (1 day ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.7](https://github.com/symfony/symfony/releases/tag/v7.0.7) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.169](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.169) (2 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.6](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.6) (3 days ago)
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.24.0](https://github.com/vimeo/psalm/releases/tag/5.24.0) (1 day ago)
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.3.1](https://github.com/briannesbitt/Carbon/releases/tag/3.3.1) (1 day ago)
+- [doctrine/orm](https://github.com/doctrine/orm) - [3.1.3](https://github.com/doctrine/orm/releases/tag/3.1.3) (2 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - [v7.0.7](https://github.com/symfony/symfony/releases/tag/v7.0.7) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.169](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.169) (3 days ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.6](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.6) (4 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.1.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.1.3) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.36.0](https://github.com/Roave/BetterReflection/releases/tag/6.36.0) (1 week ago)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.5](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.5) (1 week ago)
-- [sabre-io/xml](https://github.com/sabre-io/xml) - [4.0.5](https://github.com/sabre-io/xml/releases/tag/4.0.5) (1 week ago)
+- [sabre-io/xml](https://github.com/sabre-io/xml) - [4.0.5](https://github.com/sabre-io/xml/releases/tag/4.0.5) (2 weeks ago)
