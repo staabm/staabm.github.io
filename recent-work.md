@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove global defaults for MEMCACHE_HOST, MEMCACHE_PORT](https://github.com/staabm/thincache/pull/27) on [staabm/thincache](https://github.com/staabm/thincache) (today)
 - [Fixed nette/utils indirect dependency](https://github.com/TomasVotruba/unused-public/pull/116) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
 - [Declare missing nette/utils dependency](https://github.com/TomasVotruba/unused-public/pull/115) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
 - [CI: take utils/ into account in class-leak](https://github.com/rectorphp/rector-src/pull/5847) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
@@ -54,7 +55,6 @@
 - [Finalize classes](https://github.com/Roave/BetterReflection/pull/1426) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
 - [Raise min phpcs `php_version` to 8.2](https://github.com/Roave/BetterReflection/pull/1425) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
 - [Support NullSafeMethod calls in unused-code analysis](https://github.com/rectorphp/rector-src/pull/5838) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [Utilize more readable string functions](https://github.com/Roave/BetterReflection/pull/1424) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
