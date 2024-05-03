@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (1 week ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 - [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Narrow to non-empty-string/non-falsey-string after mb_strlen()](https://github.com/phpstan/phpstan-src/pull/3038) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix typo](https://github.com/TomasVotruba/phpstan-bodyscan/pull/3) on [TomasVotruba/phpstan-bodyscan](https://github.com/TomasVotruba/phpstan-bodyscan) (1 day ago)
 - [Remove global defaults for MEMCACHE_HOST, MEMCACHE_PORT](https://github.com/staabm/thincache/pull/27) on [staabm/thincache](https://github.com/staabm/thincache) (1 day ago)
 - [Fixed nette/utils indirect dependency](https://github.com/TomasVotruba/unused-public/pull/116) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
@@ -54,7 +55,6 @@
 - [Early-return NullSafeMethodCall in NodeNameResolver](https://github.com/rectorphp/rector-src/pull/5840) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Support NullSafeProperty fetches in unused-code analysis](https://github.com/rectorphp/rector-src/pull/5839) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Finalize classes](https://github.com/Roave/BetterReflection/pull/1426) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
-- [Raise min phpcs `php_version` to 8.2](https://github.com/Roave/BetterReflection/pull/1425) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
