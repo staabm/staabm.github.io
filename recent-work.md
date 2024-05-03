@@ -59,12 +59,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.7](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.7) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.1.0-BETA1) (1 day ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.24.0](https://github.com/vimeo/psalm/releases/tag/5.24.0) (2 days ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.3.1](https://github.com/briannesbitt/Carbon/releases/tag/3.3.1) (2 days ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.1.3](https://github.com/doctrine/orm/releases/tag/3.1.3) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.169](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.169) (4 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.6](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.6) (5 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.1.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.1.3) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.36.0](https://github.com/Roave/BetterReflection/releases/tag/6.36.0) (1 week ago)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.5](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.5) (1 week ago)
