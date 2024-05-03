@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support multi-byte string function variants](https://github.com/phpstan/phpstan-src/pull/3039) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Narrow to non-empty-string/non-falsey-string after mb_strlen()](https://github.com/phpstan/phpstan-src/pull/3038) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix typo](https://github.com/TomasVotruba/phpstan-bodyscan/pull/3) on [TomasVotruba/phpstan-bodyscan](https://github.com/TomasVotruba/phpstan-bodyscan) (1 day ago)
 - [Remove global defaults for MEMCACHE_HOST, MEMCACHE_PORT](https://github.com/staabm/thincache/pull/27) on [staabm/thincache](https://github.com/staabm/thincache) (1 day ago)
@@ -54,7 +55,6 @@
 - [Update lock-closed-issues.yml](https://github.com/staabm/phpstan-todo-by/pull/92) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 - [Early-return NullSafeMethodCall in NodeNameResolver](https://github.com/rectorphp/rector-src/pull/5840) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Support NullSafeProperty fetches in unused-code analysis](https://github.com/rectorphp/rector-src/pull/5839) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [Finalize classes](https://github.com/Roave/BetterReflection/pull/1426) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
