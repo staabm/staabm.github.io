@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/thincache](https://github.com/staabm/thincache) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (1 week ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 - [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) (1 week ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 weeks ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (2 weeks ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 weeks ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [CI: Remove not working BC check](https://github.com/staabm/thincache/pull/28) on [staabm/thincache](https://github.com/staabm/thincache) (today)
 - [Fix `strlen($x) &gt; $n === true` negation](https://github.com/phpstan/phpstan-src/pull/3040) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Support multi-byte string function variants](https://github.com/phpstan/phpstan-src/pull/3039) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Narrow to non-empty-string/non-falsey-string after mb_strlen()](https://github.com/phpstan/phpstan-src/pull/3038) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -54,11 +55,11 @@
 - [Ignore phpdoc type in RecastingRemovalRector](https://github.com/rectorphp/rector-src/pull/5841) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 - [Use str_contains over strpos](https://github.com/Roave/BetterReflection/pull/1427) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 weeks ago)
 - [Update lock-closed-issues.yml](https://github.com/staabm/phpstan-todo-by/pull/92) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 weeks ago)
-- [Early-return NullSafeMethodCall in NodeNameResolver](https://github.com/rectorphp/rector-src/pull/5840) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/thincache](https://github.com/staabm/thincache) - [1.0.6](https://github.com/staabm/thincache/releases/tag/1.0.6) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.55.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.55.0) (today)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.6](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.6) (3 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.7](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.7) (3 days ago)
@@ -68,4 +69,3 @@
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.1.3](https://github.com/doctrine/orm/releases/tag/3.1.3) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.169](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.169) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.1.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.1.3) (1 week ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.36.0](https://github.com/Roave/BetterReflection/releases/tag/6.36.0) (1 week ago)
