@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/thincache](https://github.com/staabm/thincache) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
