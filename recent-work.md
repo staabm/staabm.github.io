@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix typo](https://github.com/zonuexe/phpstan-src/pull/1) on [zonuexe/phpstan-src](https://github.com/zonuexe/phpstan-src) (today)
 - [CI: Remove not working BC check](https://github.com/staabm/thincache/pull/28) on [staabm/thincache](https://github.com/staabm/thincache) (2 days ago)
 - [Fix `strlen($x) &gt; $n === true` negation](https://github.com/phpstan/phpstan-src/pull/3040) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Support multi-byte string function variants](https://github.com/phpstan/phpstan-src/pull/3039) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
@@ -54,7 +55,6 @@
 - [Declare conditional return types](https://github.com/SAML-Toolkits/php-saml/pull/585) on [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) (2 weeks ago)
 - [Ignore phpdoc type in RecastingRemovalRector](https://github.com/rectorphp/rector-src/pull/5841) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 - [Use str_contains over strpos](https://github.com/Roave/BetterReflection/pull/1427) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 weeks ago)
-- [Update lock-closed-issues.yml](https://github.com/staabm/phpstan-todo-by/pull/92) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
