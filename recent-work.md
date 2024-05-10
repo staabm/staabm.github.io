@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Optimize performance when comparing big enum-case unions](https://github.com/phpstan/phpstan-src/pull/3061) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Enum-case comparison: cheap checks first](https://github.com/phpstan/phpstan-src/pull/3060) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Lazy create ClassReflection in enum-cases](https://github.com/phpstan/phpstan-src/pull/3059) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [fix typo](https://github.com/zonuexe/phpstan-src/pull/1) on [zonuexe/phpstan-src](https://github.com/zonuexe/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [CI: take utils/ into account in class-leak](https://github.com/rectorphp/rector-src/pull/5847) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Compare class-names case insensitive](https://github.com/TomasVotruba/class-leak/pull/42) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (2 weeks ago)
 - [Fix matching of `@api` class-comments](https://github.com/TomasVotruba/class-leak/pull/39) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (2 weeks ago)
-- [Declare conditional return types](https://github.com/SAML-Toolkits/php-saml/pull/585) on [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
