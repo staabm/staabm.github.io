@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.8](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.8) (today)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.1.0-b2](https://github.com/matomo-org/matomo/releases/tag/5.1.0-b2) (3 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.29.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.29.0) (4 days ago)
 - [staabm/thincache](https://github.com/staabm/thincache) - [1.0.6](https://github.com/staabm/thincache/releases/tag/1.0.6) (4 days ago)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.6](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.6) (1 week ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.7](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.7) (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.1.0-BETA1) (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.24.0](https://github.com/vimeo/psalm/releases/tag/5.24.0) (1 week ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.3.1](https://github.com/briannesbitt/Carbon/releases/tag/3.3.1) (1 week ago)
