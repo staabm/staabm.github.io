@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/thincache](https://github.com/staabm/thincache) (5 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (2 weeks ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 weeks ago)
 - [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) (2 weeks ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 weeks ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (2 weeks ago)
 
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/178) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3062) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Optimize performance when comparing big enum-case unions](https://github.com/phpstan/phpstan-src/pull/3061) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Enum-case comparison: cheap checks first](https://github.com/phpstan/phpstan-src/pull/3060) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,11 +55,11 @@
 - [Fixed nette/utils indirect dependency](https://github.com/TomasVotruba/unused-public/pull/116) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [Declare missing nette/utils dependency](https://github.com/TomasVotruba/unused-public/pull/115) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [CI: take utils/ into account in class-leak](https://github.com/rectorphp/rector-src/pull/5847) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [Compare class-names case insensitive](https://github.com/TomasVotruba/class-leak/pull/42) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.24](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.24) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.8](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.8) (1 day ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.1.0-b2](https://github.com/matomo-org/matomo/releases/tag/5.1.0-b2) (4 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.29.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.29.0) (5 days ago)
@@ -68,4 +69,3 @@
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.24.0](https://github.com/vimeo/psalm/releases/tag/5.24.0) (1 week ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.3.1](https://github.com/briannesbitt/Carbon/releases/tag/3.3.1) (1 week ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.1.3](https://github.com/doctrine/orm/releases/tag/3.1.3) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.169](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.169) (1 week ago)
