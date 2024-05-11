@@ -65,7 +65,7 @@
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.29.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.29.0) (5 days ago)
 - [staabm/thincache](https://github.com/staabm/thincache) - [1.0.6](https://github.com/staabm/thincache/releases/tag/1.0.6) (5 days ago)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.6](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.6) (1 week ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v7.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.1.0-BETA1) (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.24.0](https://github.com/vimeo/psalm/releases/tag/5.24.0) (1 week ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.3.1](https://github.com/briannesbitt/Carbon/releases/tag/3.3.1) (1 week ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.1.3](https://github.com/doctrine/orm/releases/tag/3.1.3) (1 week ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.169](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.169) (1 week ago)
