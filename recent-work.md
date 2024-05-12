@@ -26,7 +26,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
-- [TobiasKrais](https://github.com/TobiasKrais) (1 month ago)
 - [peterfox](https://github.com/peterfox) (1 month ago)
 - [maks-rafalko](https://github.com/maks-rafalko) (1 month ago)
 - [annervisser](https://github.com/annervisser) (1 month ago)
@@ -36,6 +35,7 @@
 - [SecuMailer](https://github.com/SecuMailer) (1 year ago)
 - [bluehorndigital](https://github.com/bluehorndigital) (1 year ago)
 - [drupol](https://github.com/drupol) (1 year ago)
+- [CapnFelix](https://github.com/CapnFelix) (1 year ago)
 
 
 #### 🔨 My recent Pull Requests
