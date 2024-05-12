@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix parent-keyword case-sensitivity](https://github.com/phpstan/phpstan-src/pull/3064) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [NULL and null as a property default value are treated differently when overriding a parent property](https://github.com/phpstan/phpstan-src/pull/3063) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent PHPStan error: &#39;Uuid::fromString() on a separate line has no effect.&#39;](https://github.com/ramsey/uuid/pull/552) on [ramsey/uuid](https://github.com/ramsey/uuid) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/178) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
@@ -54,7 +55,6 @@
 - [Narrow to non-empty-string/non-falsey-string after mb_strlen()](https://github.com/phpstan/phpstan-src/pull/3038) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix typo](https://github.com/TomasVotruba/phpstan-bodyscan/pull/3) on [TomasVotruba/phpstan-bodyscan](https://github.com/TomasVotruba/phpstan-bodyscan) (1 week ago)
 - [Remove global defaults for MEMCACHE_HOST, MEMCACHE_PORT](https://github.com/staabm/thincache/pull/27) on [staabm/thincache](https://github.com/staabm/thincache) (1 week ago)
-- [Fixed nette/utils indirect dependency](https://github.com/TomasVotruba/unused-public/pull/116) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
