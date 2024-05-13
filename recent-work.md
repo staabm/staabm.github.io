@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.1.0-b3](https://github.com/matomo-org/matomo/releases/tag/5.1.0-b3) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.24](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.24) (2 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.8](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.8) (3 days ago)
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.1.0-b2](https://github.com/matomo-org/matomo/releases/tag/5.1.0-b2) (6 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.29.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.29.0) (1 week ago)
 - [staabm/thincache](https://github.com/staabm/thincache) - [1.0.6](https://github.com/staabm/thincache/releases/tag/1.0.6) (1 week ago)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.6](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.6) (1 week ago)
