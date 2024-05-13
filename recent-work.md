@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support integer ranges in sprintf() constant-result inference](https://github.com/phpstan/phpstan-src/pull/3075) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Function containing inlineHtml has side-effects](https://github.com/phpstan/phpstan-src/pull/3072) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix &#34;method x was not found in reflection of class&#34;](https://github.com/rectorphp/rector-src/pull/5871) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Fix parent-keyword case-sensitivity](https://github.com/phpstan/phpstan-src/pull/3064) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [CI: Remove not working BC check](https://github.com/staabm/thincache/pull/28) on [staabm/thincache](https://github.com/staabm/thincache) (1 week ago)
 - [Fix `strlen($x) &gt; $n === true` negation](https://github.com/phpstan/phpstan-src/pull/3040) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Support multi-byte string function variants](https://github.com/phpstan/phpstan-src/pull/3039) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Narrow to non-empty-string/non-falsey-string after mb_strlen()](https://github.com/phpstan/phpstan-src/pull/3038) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
