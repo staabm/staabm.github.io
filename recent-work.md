@@ -26,6 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
+- [brotkrueml](https://github.com/brotkrueml) (today)
 - [peterfox](https://github.com/peterfox) (1 month ago)
 - [maks-rafalko](https://github.com/maks-rafalko) (1 month ago)
 - [annervisser](https://github.com/annervisser) (1 month ago)
@@ -35,11 +36,11 @@
 - [SecuMailer](https://github.com/SecuMailer) (1 year ago)
 - [bluehorndigital](https://github.com/bluehorndigital) (1 year ago)
 - [drupol](https://github.com/drupol) (1 year ago)
-- [CapnFelix](https://github.com/CapnFelix) (1 year ago)
 
 
 #### 🔨 My recent Pull Requests
 
+- [Function containing inlineHtml has side-effects](https://github.com/phpstan/phpstan-src/pull/3072) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix &#34;method x was not found in reflection of class&#34;](https://github.com/rectorphp/rector-src/pull/5871) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Fix parent-keyword case-sensitivity](https://github.com/phpstan/phpstan-src/pull/3064) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [NULL and null as a property default value are treated differently when overriding a parent property](https://github.com/phpstan/phpstan-src/pull/3063) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,11 +55,11 @@
 - [Fix `strlen($x) &gt; $n === true` negation](https://github.com/phpstan/phpstan-src/pull/3040) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Support multi-byte string function variants](https://github.com/phpstan/phpstan-src/pull/3039) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Narrow to non-empty-string/non-falsey-string after mb_strlen()](https://github.com/phpstan/phpstan-src/pull/3038) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix typo](https://github.com/TomasVotruba/phpstan-bodyscan/pull/3) on [TomasVotruba/phpstan-bodyscan](https://github.com/TomasVotruba/phpstan-bodyscan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.5.8](https://github.com/lucatume/wp-browser/releases/tag/3.5.8) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.0](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.0) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.0](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.0) (today)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.2.0](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.2.0) (today)
@@ -68,4 +69,3 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.8](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.8) (3 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.29.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.29.0) (1 week ago)
 - [staabm/thincache](https://github.com/staabm/thincache) - [1.0.6](https://github.com/staabm/thincache/releases/tag/1.0.6) (1 week ago)
-- [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.6](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.6) (1 week ago)
