@@ -5,8 +5,8 @@
 
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [staabm/thincache](https://github.com/staabm/thincache) (1 week ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 weeks ago)
 - [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (2 weeks ago)
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.170](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.170) (today)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.1.0-b3-p20240513111300](https://github.com/matomo-org/matomo/releases/tag/5.1.0-b3-p20240513111300) (today)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.5.8](https://github.com/lucatume/wp-browser/releases/tag/3.5.8) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.0](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.0) (today)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.24](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.24) (2 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.8](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.8) (3 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.29.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.29.0) (1 week ago)
-- [staabm/thincache](https://github.com/staabm/thincache) - [1.0.6](https://github.com/staabm/thincache/releases/tag/1.0.6) (1 week ago)
