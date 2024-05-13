@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
 - [staabm/thincache](https://github.com/staabm/thincache) (1 week ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 weeks ago)
 - [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (2 weeks ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 weeks ago)
 - [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) (2 weeks ago)
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 weeks ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
