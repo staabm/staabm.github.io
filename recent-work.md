@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 - [staabm/thincache](https://github.com/staabm/thincache) (1 week ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 weeks ago)
