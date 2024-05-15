@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.1](https://github.com/phpstan/phpstan/releases/tag/1.11.1) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.170](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.170) (2 days ago)
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.1.0-b3-p20240513111300](https://github.com/matomo-org/matomo/releases/tag/5.1.0-b3-p20240513111300) (2 days ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.5.8](https://github.com/lucatume/wp-browser/releases/tag/3.5.8) (2 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.0](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.0) (2 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.0](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.0) (2 days ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.2.0](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.2.0) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.0](https://github.com/phpstan/phpstan/releases/tag/1.11.0) (2 days ago)
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.1.0-b3](https://github.com/matomo-org/matomo/releases/tag/5.1.0-b3) (2 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.24](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.24) (4 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.8](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.8) (5 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.29.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.29.0) (1 week ago)
