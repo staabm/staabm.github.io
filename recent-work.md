@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (5 days ago)
 - [staabm/thincache](https://github.com/staabm/thincache) (1 week ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 weeks ago)
 - [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (2 weeks ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 weeks ago)
 - [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) (3 weeks ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (3 weeks ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix Doctrine Tests](https://github.com/staabm/phpstan-dba/pull/652) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [`fgetcsv` accepts `null` for `$length`](https://github.com/phpstan/phpstan-src/pull/3077) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Support integer ranges in sprintf() constant-result inference](https://github.com/phpstan/phpstan-src/pull/3075) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Function containing inlineHtml has side-effects](https://github.com/phpstan/phpstan-src/pull/3072) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -54,7 +55,6 @@
 - [Lazy create ClassReflection in enum-cases](https://github.com/phpstan/phpstan-src/pull/3059) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [fix typo](https://github.com/zonuexe/phpstan-src/pull/1) on [zonuexe/phpstan-src](https://github.com/zonuexe/phpstan-src) (1 week ago)
 - [CI: Remove not working BC check](https://github.com/staabm/thincache/pull/28) on [staabm/thincache](https://github.com/staabm/thincache) (1 week ago)
-- [Fix `strlen($x) &gt; $n === true` negation](https://github.com/phpstan/phpstan-src/pull/3040) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
