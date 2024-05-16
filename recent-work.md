@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix nikic/php-parser deprecation warnings](https://github.com/staabm/phpstan-dba/pull/655) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Fix composer scripts for doctrine/dbal 3.x](https://github.com/staabm/phpstan-dba/pull/654) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Fix Doctrine Tests](https://github.com/staabm/phpstan-dba/pull/652) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [`fgetcsv` accepts `null` for `$length`](https://github.com/phpstan/phpstan-src/pull/3077) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Support integer ranges in sprintf() constant-result inference](https://github.com/phpstan/phpstan-src/pull/3075) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -53,12 +55,11 @@
 - [Optimize performance when comparing big enum-case unions](https://github.com/phpstan/phpstan-src/pull/3061) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Enum-case comparison: cheap checks first](https://github.com/phpstan/phpstan-src/pull/3060) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Lazy create ClassReflection in enum-cases](https://github.com/phpstan/phpstan-src/pull/3059) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [fix typo](https://github.com/zonuexe/phpstan-src/pull/1) on [zonuexe/phpstan-src](https://github.com/zonuexe/phpstan-src) (1 week ago)
-- [CI: Remove not working BC check](https://github.com/staabm/thincache/pull/28) on [staabm/thincache](https://github.com/staabm/thincache) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.80](https://github.com/staabm/phpstan-dba/releases/tag/0.2.80) (today)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.1.0-b4.20240516124730](https://github.com/matomo-org/matomo/releases/tag/5.1.0-b4.20240516124730) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.1](https://github.com/phpstan/phpstan/releases/tag/1.11.1) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.170](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.170) (3 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.2.0](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.2.0) (3 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.24](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.24) (5 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.8](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.8) (6 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.29.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.29.0) (1 week ago)
