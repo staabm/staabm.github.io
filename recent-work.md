@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.1.0-b4](https://github.com/matomo-org/matomo/releases/tag/5.1.0-b4) (1 day ago)
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.1.0-b4.20240516124730](https://github.com/matomo-org/matomo/releases/tag/5.1.0-b4.20240516124730) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.1](https://github.com/phpstan/phpstan/releases/tag/1.11.1) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.170](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.170) (3 days ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.5.8](https://github.com/lucatume/wp-browser/releases/tag/3.5.8) (3 days ago)
