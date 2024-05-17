@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix substr() type narrowing for maybe one-length result](https://github.com/phpstan/phpstan-src/pull/3081) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Note that no-capture modifier (/n) support for preg_* was added in PHP 8.2](https://github.com/php/doc-en/pull/3387) on [php/doc-en](https://github.com/php/doc-en) (today)
 - [Fix nikic/php-parser deprecation warnings](https://github.com/staabm/phpstan-dba/pull/655) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Fix composer scripts for doctrine/dbal 3.x](https://github.com/staabm/phpstan-dba/pull/654) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Fix Doctrine Tests](https://github.com/staabm/phpstan-dba/pull/652) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
@@ -53,8 +55,6 @@
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/178) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (6 days ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3062) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Optimize performance when comparing big enum-case unions](https://github.com/phpstan/phpstan-src/pull/3061) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Enum-case comparison: cheap checks first](https://github.com/phpstan/phpstan-src/pull/3060) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Lazy create ClassReflection in enum-cases](https://github.com/phpstan/phpstan-src/pull/3059) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
