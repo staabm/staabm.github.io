@@ -5,6 +5,7 @@
 
 - [php/doc-en](https://github.com/php/doc-en) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [ramsey/uuid](https://github.com/ramsey/uuid) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
@@ -12,7 +13,6 @@
 - [staabm/thincache](https://github.com/staabm/thincache) (1 week ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 weeks ago)
 - [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (3 weeks ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
