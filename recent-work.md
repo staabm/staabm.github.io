@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
 - [staabm/thincache](https://github.com/staabm/thincache) (1 week ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 weeks ago)
@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.171](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.171) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.80](https://github.com/staabm/phpstan-dba/releases/tag/0.2.80) (2 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.1.0-b4.20240516124730](https://github.com/matomo-org/matomo/releases/tag/5.1.0-b4.20240516124730) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.1](https://github.com/phpstan/phpstan/releases/tag/1.11.1) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.170](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.170) (5 days ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.5.8](https://github.com/lucatume/wp-browser/releases/tag/3.5.8) (5 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.0](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.0) (5 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.0](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.0) (5 days ago)
