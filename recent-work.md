@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [php/doc-en](https://github.com/php/doc-en) (2 days ago)
+- [php/doc-en](https://github.com/php/doc-en) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [ramsey/uuid](https://github.com/ramsey/uuid) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [More precise version](https://github.com/php/doc-en/pull/3400) on [php/doc-en](https://github.com/php/doc-en) (today)
 - [Implement ParameterOutTypeExtensions](https://github.com/phpstan/phpstan-src/pull/3083) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix substr() type narrowing for maybe one-length result](https://github.com/phpstan/phpstan-src/pull/3081) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Note that no-capture modifier (/n) support for preg_* was added in PHP 8.2](https://github.com/php/doc-en/pull/3387) on [php/doc-en](https://github.com/php/doc-en) (3 days ago)
@@ -54,7 +55,6 @@
 - [NULL and null as a property default value are treated differently when overriding a parent property](https://github.com/phpstan/phpstan-src/pull/3063) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Prevent PHPStan error: &#39;Uuid::fromString() on a separate line has no effect.&#39;](https://github.com/ramsey/uuid/pull/552) on [ramsey/uuid](https://github.com/ramsey/uuid) (1 week ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/178) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/3062) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
