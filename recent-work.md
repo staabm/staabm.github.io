@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [php/doc-en](https://github.com/php/doc-en) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [ramsey/uuid](https://github.com/ramsey/uuid) (3 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
+- [php/doc-en](https://github.com/php/doc-en) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
+- [ramsey/uuid](https://github.com/ramsey/uuid) (4 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 week ago)
@@ -28,8 +28,8 @@
 
 - [brotkrueml](https://github.com/brotkrueml) (1 week ago)
 - [peterfox](https://github.com/peterfox) (1 month ago)
-- [maks-rafalko](https://github.com/maks-rafalko) (1 month ago)
-- [annervisser](https://github.com/annervisser) (1 month ago)
+- [maks-rafalko](https://github.com/maks-rafalko) (2 months ago)
+- [annervisser](https://github.com/annervisser) (2 months ago)
 - [getsentry](https://github.com/getsentry) (7 months ago)
 - [eliashaeussler](https://github.com/eliashaeussler) (8 months ago)
 - [DaveLiddament](https://github.com/DaveLiddament) (1 year ago)
@@ -40,13 +40,13 @@
 
 #### 🔨 My recent Pull Requests
 
-- [More precise version](https://github.com/php/doc-en/pull/3400) on [php/doc-en](https://github.com/php/doc-en) (1 day ago)
-- [Implement ParameterOutTypeExtensions](https://github.com/phpstan/phpstan-src/pull/3083) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Fix substr() type narrowing for maybe one-length result](https://github.com/phpstan/phpstan-src/pull/3081) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Note that no-capture modifier (/n) support for preg_* was added in PHP 8.2](https://github.com/php/doc-en/pull/3387) on [php/doc-en](https://github.com/php/doc-en) (4 days ago)
-- [Fix nikic/php-parser deprecation warnings](https://github.com/staabm/phpstan-dba/pull/655) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [Fix composer scripts for doctrine/dbal 3.x](https://github.com/staabm/phpstan-dba/pull/654) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [Fix Doctrine Tests](https://github.com/staabm/phpstan-dba/pull/652) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
+- [More precise version](https://github.com/php/doc-en/pull/3400) on [php/doc-en](https://github.com/php/doc-en) (2 days ago)
+- [Implement ParameterOutTypeExtensions](https://github.com/phpstan/phpstan-src/pull/3083) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Fix substr() type narrowing for maybe one-length result](https://github.com/phpstan/phpstan-src/pull/3081) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Note that no-capture modifier (/n) support for preg_* was added in PHP 8.2](https://github.com/php/doc-en/pull/3387) on [php/doc-en](https://github.com/php/doc-en) (5 days ago)
+- [Fix nikic/php-parser deprecation warnings](https://github.com/staabm/phpstan-dba/pull/655) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
+- [Fix composer scripts for doctrine/dbal 3.x](https://github.com/staabm/phpstan-dba/pull/654) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
+- [Fix Doctrine Tests](https://github.com/staabm/phpstan-dba/pull/652) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 - [`fgetcsv` accepts `null` for `$length`](https://github.com/phpstan/phpstan-src/pull/3077) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Support integer ranges in sprintf() constant-result inference](https://github.com/phpstan/phpstan-src/pull/3075) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Function containing inlineHtml has side-effects](https://github.com/phpstan/phpstan-src/pull/3072) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [4.1.9](https://github.com/lucatume/wp-browser/releases/tag/4.1.9) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.171](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.171) (3 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.80](https://github.com/staabm/phpstan-dba/releases/tag/0.2.80) (5 days ago)
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.1.0-b4.20240516124730](https://github.com/matomo-org/matomo/releases/tag/5.1.0-b4.20240516124730) (5 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.1](https://github.com/phpstan/phpstan/releases/tag/1.11.1) (6 days ago)
+- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [4.1.9](https://github.com/lucatume/wp-browser/releases/tag/4.1.9) (4 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.171](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.171) (4 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.80](https://github.com/staabm/phpstan-dba/releases/tag/0.2.80) (6 days ago)
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.1.0-b4.20240516124730](https://github.com/matomo-org/matomo/releases/tag/5.1.0-b4.20240516124730) (6 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.1](https://github.com/phpstan/phpstan/releases/tag/1.11.1) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.0](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.0) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.0](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.0) (1 week ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.2.0](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.2.0) (1 week ago)
