@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/orm](https://github.com/doctrine/orm) - [3.2.0](https://github.com/doctrine/orm/releases/tag/3.2.0) (today)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [1.0.3](https://github.com/qossmic/deptrac/releases/tag/1.0.3) (today)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [12.2.0](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.2.0) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.9](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.9) (1 day ago)
@@ -68,4 +69,3 @@
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.1.0-b4.20240516124730](https://github.com/matomo-org/matomo/releases/tag/5.1.0-b4.20240516124730) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.1](https://github.com/phpstan/phpstan/releases/tag/1.11.1) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.0](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.0) (1 week ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.0](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.0) (1 week ago)
