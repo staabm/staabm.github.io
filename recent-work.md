@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [12.2.0](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.2.0) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.9](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.9) (1 day ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [4.1.9](https://github.com/lucatume/wp-browser/releases/tag/4.1.9) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.171](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.171) (5 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.0](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.0) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.0](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.0) (1 week ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.2.0](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.2.0) (1 week ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.24](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.24) (1 week ago)
