@@ -4,8 +4,8 @@
 #### 💻 Check out what I'm currently working on
 
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [php/doc-en](https://github.com/php/doc-en) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [ramsey/uuid](https://github.com/ramsey/uuid) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -59,6 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.173](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.173) (today)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.26](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.26) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.1](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.1) (today)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [4.2.1](https://github.com/lucatume/wp-browser/releases/tag/4.2.1) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.2](https://github.com/phpstan/phpstan/releases/tag/1.11.2) (today)
@@ -66,6 +68,4 @@
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [1.0.3](https://github.com/qossmic/deptrac/releases/tag/1.0.3) (1 day ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [12.2.0](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.2.0) (1 day ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.9](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.9) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.171](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.171) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.80](https://github.com/staabm/phpstan-dba/releases/tag/0.2.80) (1 week ago)
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.1.0-b4.20240516124730](https://github.com/matomo-org/matomo/releases/tag/5.1.0-b4.20240516124730) (1 week ago)
