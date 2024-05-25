@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [php/doc-en](https://github.com/php/doc-en) (5 days ago)
 - [ramsey/uuid](https://github.com/ramsey/uuid) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update README.md](https://github.com/staabm/phpstan-todo-by/pull/98) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Support full github issue urls](https://github.com/staabm/phpstan-todo-by/pull/95) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [Fix build](https://github.com/staabm/phpstan-todo-by/pull/94) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [More precise version](https://github.com/php/doc-en/pull/3400) on [php/doc-en](https://github.com/php/doc-en) (5 days ago)
@@ -54,7 +55,6 @@
 - [Function containing inlineHtml has side-effects](https://github.com/phpstan/phpstan-src/pull/3072) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix &#34;method x was not found in reflection of class&#34;](https://github.com/rectorphp/rector-src/pull/5871) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Fix parent-keyword case-sensitivity](https://github.com/phpstan/phpstan-src/pull/3064) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [NULL and null as a property default value are treated differently when overriding a parent property](https://github.com/phpstan/phpstan-src/pull/3063) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
