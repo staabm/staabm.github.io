@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support PHP 8.4](https://github.com/Roave/infection-static-analysis-plugin/pull/497) on [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) (today)
 - [Adjust pretty name of closures on PHP 8.4](https://github.com/yiisoft/injector/pull/96) on [yiisoft/injector](https://github.com/yiisoft/injector) (today)
 - [Adjust pretty name of closures on PHP 8.4](https://github.com/kahlan/kahlan/pull/426) on [kahlan/kahlan](https://github.com/kahlan/kahlan) (today)
 - [Adjust pretty name of closures on PHP 8.4](https://github.com/orisai/scheduler/pull/1) on [orisai/scheduler](https://github.com/orisai/scheduler) (today)
@@ -54,7 +55,6 @@
 - [Implement ParameterOutTypeExtensions](https://github.com/phpstan/phpstan-src/pull/3083) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Fix substr() type narrowing for maybe one-length result](https://github.com/phpstan/phpstan-src/pull/3081) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Note that no-capture modifier (/n) support for preg_* was added in PHP 8.2](https://github.com/php/doc-en/pull/3387) on [php/doc-en](https://github.com/php/doc-en) (1 week ago)
-- [Fix nikic/php-parser deprecation warnings](https://github.com/staabm/phpstan-dba/pull/655) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
