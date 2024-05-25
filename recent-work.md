@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support new PHP8.4 mb_lcfirst, mb_ucfirst function variants](https://github.com/phpstan/phpstan-src/pull/3095) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Support PHP 8.4](https://github.com/Roave/infection-static-analysis-plugin/pull/497) on [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) (today)
 - [Adjust pretty name of closures on PHP 8.4](https://github.com/yiisoft/injector/pull/96) on [yiisoft/injector](https://github.com/yiisoft/injector) (today)
 - [Adjust pretty name of closures on PHP 8.4](https://github.com/kahlan/kahlan/pull/426) on [kahlan/kahlan](https://github.com/kahlan/kahlan) (today)
@@ -54,16 +55,15 @@
 - [More precise version](https://github.com/php/doc-en/pull/3400) on [php/doc-en](https://github.com/php/doc-en) (5 days ago)
 - [Implement ParameterOutTypeExtensions](https://github.com/phpstan/phpstan-src/pull/3083) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Fix substr() type narrowing for maybe one-length result](https://github.com/phpstan/phpstan-src/pull/3081) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Note that no-capture modifier (/n) support for preg_* was added in PHP 8.2](https://github.com/php/doc-en/pull/3387) on [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.6.2](https://github.com/lucatume/wp-browser/releases/tag/3.6.2) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.10](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.10) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.27](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.27) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.173](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.173) (1 day ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.1](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.1) (1 day ago)
-- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [4.2.1](https://github.com/lucatume/wp-browser/releases/tag/4.2.1) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.2](https://github.com/phpstan/phpstan/releases/tag/1.11.2) (1 day ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.2.0](https://github.com/doctrine/orm/releases/tag/3.2.0) (2 days ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [1.0.3](https://github.com/qossmic/deptrac/releases/tag/1.0.3) (2 days ago)
