@@ -40,6 +40,13 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Adjust pretty name of closures on PHP 8.4](https://github.com/yiisoft/injector/pull/96) on [yiisoft/injector](https://github.com/yiisoft/injector) (today)
+- [Adjust pretty name of closures on PHP 8.4](https://github.com/kahlan/kahlan/pull/426) on [kahlan/kahlan](https://github.com/kahlan/kahlan) (today)
+- [Adjust pretty name of closures on PHP 8.4](https://github.com/orisai/scheduler/pull/1) on [orisai/scheduler](https://github.com/orisai/scheduler) (today)
+- [Adjust pretty name of closures on PHP 8.4](https://github.com/pmmp/PocketMine-MP/pull/6351) on [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) (today)
+- [Adjust pretty name of closures on PHP 8.4](https://github.com/silverstripe/silverstripe-framework/pull/11264) on [silverstripe/silverstripe-framework](https://github.com/silverstripe/silverstripe-framework) (today)
+- [Adjust pretty name of closures on PHP 8.4](https://github.com/yiisoft/yii2/pull/20165) on [yiisoft/yii2](https://github.com/yiisoft/yii2) (today)
+- [Adjust pretty name of closures on PHP 8.4](https://github.com/spatie/once/pull/99) on [spatie/once](https://github.com/spatie/once) (today)
 - [Update README.md](https://github.com/staabm/phpstan-todo-by/pull/98) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Support full github issue urls](https://github.com/staabm/phpstan-todo-by/pull/95) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [Fix build](https://github.com/staabm/phpstan-todo-by/pull/94) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
@@ -48,13 +55,6 @@
 - [Fix substr() type narrowing for maybe one-length result](https://github.com/phpstan/phpstan-src/pull/3081) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Note that no-capture modifier (/n) support for preg_* was added in PHP 8.2](https://github.com/php/doc-en/pull/3387) on [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 - [Fix nikic/php-parser deprecation warnings](https://github.com/staabm/phpstan-dba/pull/655) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [Fix composer scripts for doctrine/dbal 3.x](https://github.com/staabm/phpstan-dba/pull/654) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [Fix Doctrine Tests](https://github.com/staabm/phpstan-dba/pull/652) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [`fgetcsv` accepts `null` for `$length`](https://github.com/phpstan/phpstan-src/pull/3077) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Support integer ranges in sprintf() constant-result inference](https://github.com/phpstan/phpstan-src/pull/3075) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Function containing inlineHtml has side-effects](https://github.com/phpstan/phpstan-src/pull/3072) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix &#34;method x was not found in reflection of class&#34;](https://github.com/rectorphp/rector-src/pull/5871) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [Fix parent-keyword case-sensitivity](https://github.com/phpstan/phpstan-src/pull/3064) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
