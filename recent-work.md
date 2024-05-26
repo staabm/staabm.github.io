@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improve `explode` return type precision](https://github.com/phpstan/phpstan-src/pull/3096) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Support new PHP8.4 mb_lcfirst, mb_ucfirst function variants](https://github.com/phpstan/phpstan-src/pull/3095) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Support PHP 8.4](https://github.com/Roave/infection-static-analysis-plugin/pull/497) on [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) (1 day ago)
 - [Adjust pretty name of closures on PHP 8.4](https://github.com/yiisoft/injector/pull/96) on [yiisoft/injector](https://github.com/yiisoft/injector) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix build](https://github.com/staabm/phpstan-todo-by/pull/94) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
 - [More precise version](https://github.com/php/doc-en/pull/3400) on [php/doc-en](https://github.com/php/doc-en) (6 days ago)
 - [Implement ParameterOutTypeExtensions](https://github.com/phpstan/phpstan-src/pull/3083) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix substr() type narrowing for maybe one-length result](https://github.com/phpstan/phpstan-src/pull/3081) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
