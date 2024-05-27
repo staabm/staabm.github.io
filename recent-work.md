@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [orisai/scheduler](https://github.com/orisai/scheduler) (1 day ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [php/doc-en](https://github.com/php/doc-en) (6 days ago)
+- [orisai/scheduler](https://github.com/orisai/scheduler) (2 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
+- [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 - [ramsey/uuid](https://github.com/ramsey/uuid) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 weeks ago)
-- [staabm/thincache](https://github.com/staabm/thincache) (2 weeks ago)
+- [staabm/thincache](https://github.com/staabm/thincache) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -26,7 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
-- [brotkrueml](https://github.com/brotkrueml) (1 week ago)
+- [brotkrueml](https://github.com/brotkrueml) (2 weeks ago)
 - [peterfox](https://github.com/peterfox) (2 months ago)
 - [maks-rafalko](https://github.com/maks-rafalko) (2 months ago)
 - [annervisser](https://github.com/annervisser) (2 months ago)
@@ -40,32 +40,32 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Improve `explode` return type precision](https://github.com/phpstan/phpstan-src/pull/3096) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Support new PHP8.4 mb_lcfirst, mb_ucfirst function variants](https://github.com/phpstan/phpstan-src/pull/3095) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Support PHP 8.4](https://github.com/Roave/infection-static-analysis-plugin/pull/497) on [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) (1 day ago)
-- [Adjust pretty name of closures on PHP 8.4](https://github.com/yiisoft/injector/pull/96) on [yiisoft/injector](https://github.com/yiisoft/injector) (1 day ago)
-- [Adjust pretty name of closures on PHP 8.4](https://github.com/kahlan/kahlan/pull/426) on [kahlan/kahlan](https://github.com/kahlan/kahlan) (1 day ago)
-- [Adjust pretty name of closures on PHP 8.4](https://github.com/orisai/scheduler/pull/1) on [orisai/scheduler](https://github.com/orisai/scheduler) (1 day ago)
-- [Adjust pretty name of closures on PHP 8.4](https://github.com/pmmp/PocketMine-MP/pull/6351) on [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) (1 day ago)
-- [Adjust pretty name of closures on PHP 8.4](https://github.com/silverstripe/silverstripe-framework/pull/11264) on [silverstripe/silverstripe-framework](https://github.com/silverstripe/silverstripe-framework) (1 day ago)
-- [Adjust pretty name of closures on PHP 8.4](https://github.com/yiisoft/yii2/pull/20165) on [yiisoft/yii2](https://github.com/yiisoft/yii2) (1 day ago)
-- [Adjust pretty name of closures on PHP 8.4](https://github.com/spatie/once/pull/99) on [spatie/once](https://github.com/spatie/once) (1 day ago)
-- [Update README.md](https://github.com/staabm/phpstan-todo-by/pull/98) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
-- [Support full github issue urls](https://github.com/staabm/phpstan-todo-by/pull/95) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
-- [Fix build](https://github.com/staabm/phpstan-todo-by/pull/94) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
-- [More precise version](https://github.com/php/doc-en/pull/3400) on [php/doc-en](https://github.com/php/doc-en) (6 days ago)
+- [Improve `explode` return type precision](https://github.com/phpstan/phpstan-src/pull/3096) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Support new PHP8.4 mb_lcfirst, mb_ucfirst function variants](https://github.com/phpstan/phpstan-src/pull/3095) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Support PHP 8.4](https://github.com/Roave/infection-static-analysis-plugin/pull/497) on [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) (2 days ago)
+- [Adjust pretty name of closures on PHP 8.4](https://github.com/yiisoft/injector/pull/96) on [yiisoft/injector](https://github.com/yiisoft/injector) (2 days ago)
+- [Adjust pretty name of closures on PHP 8.4](https://github.com/kahlan/kahlan/pull/426) on [kahlan/kahlan](https://github.com/kahlan/kahlan) (2 days ago)
+- [Adjust pretty name of closures on PHP 8.4](https://github.com/orisai/scheduler/pull/1) on [orisai/scheduler](https://github.com/orisai/scheduler) (2 days ago)
+- [Adjust pretty name of closures on PHP 8.4](https://github.com/pmmp/PocketMine-MP/pull/6351) on [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) (2 days ago)
+- [Adjust pretty name of closures on PHP 8.4](https://github.com/silverstripe/silverstripe-framework/pull/11264) on [silverstripe/silverstripe-framework](https://github.com/silverstripe/silverstripe-framework) (2 days ago)
+- [Adjust pretty name of closures on PHP 8.4](https://github.com/yiisoft/yii2/pull/20165) on [yiisoft/yii2](https://github.com/yiisoft/yii2) (2 days ago)
+- [Adjust pretty name of closures on PHP 8.4](https://github.com/spatie/once/pull/99) on [spatie/once](https://github.com/spatie/once) (2 days ago)
+- [Update README.md](https://github.com/staabm/phpstan-todo-by/pull/98) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
+- [Support full github issue urls](https://github.com/staabm/phpstan-todo-by/pull/95) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
+- [Fix build](https://github.com/staabm/phpstan-todo-by/pull/94) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
+- [More precise version](https://github.com/php/doc-en/pull/3400) on [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 - [Implement ParameterOutTypeExtensions](https://github.com/phpstan/phpstan-src/pull/3083) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.4.0](https://github.com/briannesbitt/Carbon/releases/tag/3.4.0) (1 day ago)
-- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.6.2](https://github.com/lucatume/wp-browser/releases/tag/3.6.2) (1 day ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.10](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.10) (1 day ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.27](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.27) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.173](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.173) (2 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.1](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.1) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.2](https://github.com/phpstan/phpstan/releases/tag/1.11.2) (2 days ago)
-- [doctrine/orm](https://github.com/doctrine/orm) - [3.2.0](https://github.com/doctrine/orm/releases/tag/3.2.0) (3 days ago)
-- [qossmic/deptrac](https://github.com/qossmic/deptrac) - [1.0.3](https://github.com/qossmic/deptrac/releases/tag/1.0.3) (3 days ago)
-- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [12.2.0](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.2.0) (3 days ago)
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.4.0](https://github.com/briannesbitt/Carbon/releases/tag/3.4.0) (2 days ago)
+- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.6.2](https://github.com/lucatume/wp-browser/releases/tag/3.6.2) (2 days ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.10](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.10) (2 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.27](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.27) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.173](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.173) (3 days ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.1](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.1) (3 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.2](https://github.com/phpstan/phpstan/releases/tag/1.11.2) (3 days ago)
+- [doctrine/orm](https://github.com/doctrine/orm) - [3.2.0](https://github.com/doctrine/orm/releases/tag/3.2.0) (4 days ago)
+- [qossmic/deptrac](https://github.com/qossmic/deptrac) - [1.0.3](https://github.com/qossmic/deptrac/releases/tag/1.0.3) (4 days ago)
+- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [12.2.0](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.2.0) (4 days ago)
