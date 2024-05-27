@@ -4,9 +4,9 @@
 #### 💻 Check out what I'm currently working on
 
 - [yiisoft/yii2](https://github.com/yiisoft/yii2) (today)
-- [orisai/scheduler](https://github.com/orisai/scheduler) (2 days ago)
 - [spatie/once](https://github.com/spatie/once) (2 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
+- [orisai/scheduler](https://github.com/orisai/scheduler) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 - [ramsey/uuid](https://github.com/ramsey/uuid) (1 week ago)
