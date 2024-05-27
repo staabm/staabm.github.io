@@ -3,8 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [orisai/scheduler](https://github.com/orisai/scheduler) (2 days ago)
+- [spatie/once](https://github.com/spatie/once) (2 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
+- [orisai/scheduler](https://github.com/orisai/scheduler) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 - [ramsey/uuid](https://github.com/ramsey/uuid) (1 week ago)
@@ -12,7 +13,6 @@
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 weeks ago)
-- [staabm/thincache](https://github.com/staabm/thincache) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [spatie/once](https://github.com/spatie/once) - [3.1.1](https://github.com/spatie/once/releases/tag/3.1.1) (today)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.4.0](https://github.com/briannesbitt/Carbon/releases/tag/3.4.0) (2 days ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.6.2](https://github.com/lucatume/wp-browser/releases/tag/3.6.2) (2 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.10](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.10) (2 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.2](https://github.com/phpstan/phpstan/releases/tag/1.11.2) (3 days ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.2.0](https://github.com/doctrine/orm/releases/tag/3.2.0) (4 days ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [1.0.3](https://github.com/qossmic/deptrac/releases/tag/1.0.3) (4 days ago)
-- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [12.2.0](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.2.0) (4 days ago)
