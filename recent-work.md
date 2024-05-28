@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.1.0-rc1](https://github.com/matomo-org/matomo/releases/tag/5.1.0-rc1) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.29.0](https://github.com/infection/infection/releases/tag/0.29.0) (1 day ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.1.4](https://github.com/composer/pcre/releases/tag/3.1.4) (1 day ago)
 - [spatie/once](https://github.com/spatie/once) - [3.1.1](https://github.com/spatie/once/releases/tag/3.1.1) (1 day ago)
@@ -68,4 +69,3 @@
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.27](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.27) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.173](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.173) (4 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.1](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.1) (4 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.2](https://github.com/phpstan/phpstan/releases/tag/1.11.2) (4 days ago)
