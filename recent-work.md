@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.1.0-rc1](https://github.com/matomo-org/matomo/releases/tag/5.1.0-rc1) (1 day ago)
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.2.0-alpha.20240529033030](https://github.com/matomo-org/matomo/releases/tag/5.2.0-alpha.20240529033030) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.29.0](https://github.com/infection/infection/releases/tag/0.29.0) (2 days ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.1.4](https://github.com/composer/pcre/releases/tag/3.1.4) (2 days ago)
 - [spatie/once](https://github.com/spatie/once) - [3.1.1](https://github.com/spatie/once/releases/tag/3.1.1) (2 days ago)
