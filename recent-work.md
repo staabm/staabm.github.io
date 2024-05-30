@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [yiisoft/yii2](https://github.com/yiisoft/yii2) (3 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (5 days ago)
 - [spatie/once](https://github.com/spatie/once) (5 days ago)
@@ -11,7 +12,6 @@
 - [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 - [ramsey/uuid](https://github.com/ramsey/uuid) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 
 
