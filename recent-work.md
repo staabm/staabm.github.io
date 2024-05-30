@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [yiisoft/yii2](https://github.com/yiisoft/yii2) - [2.0.50](https://github.com/yiisoft/yii2/releases/tag/2.0.50) (today)
 - [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) - [3.7.0](https://github.com/SAML-Toolkits/php-saml/releases/tag/3.7.0) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.3](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.3) (today)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.2.0-alpha.20240529033030](https://github.com/matomo-org/matomo/releases/tag/5.2.0-alpha.20240529033030) (1 day ago)
@@ -68,4 +69,3 @@
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.4.0](https://github.com/briannesbitt/Carbon/releases/tag/3.4.0) (5 days ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.6.2](https://github.com/lucatume/wp-browser/releases/tag/3.6.2) (5 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.10](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.10) (5 days ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.27](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.27) (6 days ago)
