@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.3](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.3) (today)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.2.0-alpha.20240529033030](https://github.com/matomo-org/matomo/releases/tag/5.2.0-alpha.20240529033030) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) - [0.29.0](https://github.com/infection/infection/releases/tag/0.29.0) (3 days ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.1.4](https://github.com/composer/pcre/releases/tag/3.1.4) (3 days ago)
@@ -68,4 +69,3 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.10](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.10) (5 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.27](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.27) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.173](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.173) (6 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.1](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.1) (6 days ago)
