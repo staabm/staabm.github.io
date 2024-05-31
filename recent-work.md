@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.3](https://github.com/phpstan/phpstan/releases/tag/1.11.3) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.29.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.29.1) (today)
 - [yiisoft/yii2](https://github.com/yiisoft/yii2) - [2.0.50](https://github.com/yiisoft/yii2/releases/tag/2.0.50) (1 day ago)
 - [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) - [3.7.0](https://github.com/SAML-Toolkits/php-saml/releases/tag/3.7.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [composer/pcre](https://github.com/composer/pcre) - [3.1.4](https://github.com/composer/pcre/releases/tag/3.1.4) (4 days ago)
 - [spatie/once](https://github.com/spatie/once) - [3.1.1](https://github.com/spatie/once/releases/tag/3.1.1) (4 days ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.4.0](https://github.com/briannesbitt/Carbon/releases/tag/3.4.0) (6 days ago)
-- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.6.2](https://github.com/lucatume/wp-browser/releases/tag/3.6.2) (6 days ago)
