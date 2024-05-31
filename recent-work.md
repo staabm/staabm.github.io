@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.174](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.174) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.37.0](https://github.com/Roave/BetterReflection/releases/tag/6.37.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.3](https://github.com/phpstan/phpstan/releases/tag/1.11.3) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.29.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.29.1) (today)
@@ -68,4 +69,3 @@
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.2.0-alpha.20240529033030](https://github.com/matomo-org/matomo/releases/tag/5.2.0-alpha.20240529033030) (2 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.29.0](https://github.com/infection/infection/releases/tag/0.29.0) (4 days ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.1.4](https://github.com/composer/pcre/releases/tag/3.1.4) (4 days ago)
-- [spatie/once](https://github.com/spatie/once) - [3.1.1](https://github.com/spatie/once/releases/tag/3.1.1) (4 days ago)
