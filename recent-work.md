@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [yiisoft/yii2](https://github.com/yiisoft/yii2) (4 days ago)
-- [orisai/scheduler](https://github.com/orisai/scheduler) (6 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (6 days ago)
 - [spatie/once](https://github.com/spatie/once) (6 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
+- [orisai/scheduler](https://github.com/orisai/scheduler) (6 days ago)
 - [php/doc-en](https://github.com/php/doc-en) (1 week ago)
-- [ramsey/uuid](https://github.com/ramsey/uuid) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.37.0](https://github.com/Roave/BetterReflection/releases/tag/6.37.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.3](https://github.com/phpstan/phpstan/releases/tag/1.11.3) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.29.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.29.1) (today)
 - [yiisoft/yii2](https://github.com/yiisoft/yii2) - [2.0.50](https://github.com/yiisoft/yii2/releases/tag/2.0.50) (1 day ago)
@@ -68,4 +69,3 @@
 - [infection/infection](https://github.com/infection/infection) - [0.29.0](https://github.com/infection/infection/releases/tag/0.29.0) (4 days ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.1.4](https://github.com/composer/pcre/releases/tag/3.1.4) (4 days ago)
 - [spatie/once](https://github.com/spatie/once) - [3.1.1](https://github.com/spatie/once/releases/tag/3.1.1) (4 days ago)
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.4.0](https://github.com/briannesbitt/Carbon/releases/tag/3.4.0) (6 days ago)
