@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [`array_fill_keys` expects array of array-key](https://github.com/phpstan/phpstan-src/pull/3110) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [`TemplateTagValueNode` name cannot be empty string](https://github.com/phpstan/phpdoc-parser/pull/244) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
 - [Improve `getNamespacedName()` return type](https://github.com/Roave/BetterReflection/pull/1428) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
 - [Subtract zero-float when comparing against zero-int](https://github.com/phpstan/phpstan-src/pull/3102) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
@@ -54,7 +55,6 @@
 - [Adjust pretty name of closures on PHP 8.4](https://github.com/yiisoft/yii2/pull/20165) on [yiisoft/yii2](https://github.com/yiisoft/yii2) (1 week ago)
 - [Adjust pretty name of closures on PHP 8.4](https://github.com/spatie/once/pull/99) on [spatie/once](https://github.com/spatie/once) (1 week ago)
 - [Update README.md](https://github.com/staabm/phpstan-todo-by/pull/98) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
-- [Support full github issue urls](https://github.com/staabm/phpstan-todo-by/pull/95) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
