@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.11](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.11) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.174](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.174) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.37.0](https://github.com/Roave/BetterReflection/releases/tag/6.37.0) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.3](https://github.com/phpstan/phpstan/releases/tag/1.11.3) (1 day ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.3](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.3) (2 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.2.0-alpha.20240529033030](https://github.com/matomo-org/matomo/releases/tag/5.2.0-alpha.20240529033030) (3 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.29.0](https://github.com/infection/infection/releases/tag/0.29.0) (5 days ago)
-- [composer/pcre](https://github.com/composer/pcre) - [3.1.4](https://github.com/composer/pcre/releases/tag/3.1.4) (5 days ago)
