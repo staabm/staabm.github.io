@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.12](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.12) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.29.1](https://github.com/infection/infection/releases/tag/0.29.1) (today)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.11](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.11) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.174](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.174) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.37.0](https://github.com/Roave/BetterReflection/releases/tag/6.37.0) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.3](https://github.com/phpstan/phpstan/releases/tag/1.11.3) (1 day ago)
