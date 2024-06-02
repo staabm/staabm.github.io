@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
-- [yiisoft/yii2](https://github.com/yiisoft/yii2) (5 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
+- [yiisoft/yii2](https://github.com/yiisoft/yii2) (6 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 - [spatie/once](https://github.com/spatie/once) (1 week ago)
 - [orisai/scheduler](https://github.com/orisai/scheduler) (1 week ago)
@@ -40,11 +40,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [`array_fill_keys` expects array of array-key](https://github.com/phpstan/phpstan-src/pull/3110) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [`TemplateTagValueNode` name cannot be empty string](https://github.com/phpstan/phpdoc-parser/pull/244) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
-- [Improve `getNamespacedName()` return type](https://github.com/Roave/BetterReflection/pull/1428) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
-- [Subtract zero-float when comparing against zero-int](https://github.com/phpstan/phpstan-src/pull/3102) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Improve `explode` return type precision](https://github.com/phpstan/phpstan-src/pull/3096) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [`array_fill_keys` expects array of array-key](https://github.com/phpstan/phpstan-src/pull/3110) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [`TemplateTagValueNode` name cannot be empty string](https://github.com/phpstan/phpdoc-parser/pull/244) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 days ago)
+- [Improve `getNamespacedName()` return type](https://github.com/Roave/BetterReflection/pull/1428) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 days ago)
+- [Subtract zero-float when comparing against zero-int](https://github.com/phpstan/phpstan-src/pull/3102) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Improve `explode` return type precision](https://github.com/phpstan/phpstan-src/pull/3096) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Support new PHP8.4 mb_lcfirst, mb_ucfirst function variants](https://github.com/phpstan/phpstan-src/pull/3095) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Support PHP 8.4](https://github.com/Roave/infection-static-analysis-plugin/pull/497) on [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) (1 week ago)
 - [Adjust pretty name of closures on PHP 8.4](https://github.com/yiisoft/injector/pull/96) on [yiisoft/injector](https://github.com/yiisoft/injector) (1 week ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.12](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.12) (today)
-- [infection/infection](https://github.com/infection/infection) - [0.29.1](https://github.com/infection/infection/releases/tag/0.29.1) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.174](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.174) (1 day ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.37.0](https://github.com/Roave/BetterReflection/releases/tag/6.37.0) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.3](https://github.com/phpstan/phpstan/releases/tag/1.11.3) (1 day ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.29.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.29.1) (1 day ago)
-- [yiisoft/yii2](https://github.com/yiisoft/yii2) - [2.0.50](https://github.com/yiisoft/yii2/releases/tag/2.0.50) (2 days ago)
-- [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) - [3.7.0](https://github.com/SAML-Toolkits/php-saml/releases/tag/3.7.0) (2 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.3](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.3) (2 days ago)
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.2.0-alpha.20240529033030](https://github.com/matomo-org/matomo/releases/tag/5.2.0-alpha.20240529033030) (3 days ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.12](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.12) (1 day ago)
+- [infection/infection](https://github.com/infection/infection) - [0.29.1](https://github.com/infection/infection/releases/tag/0.29.1) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.174](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.174) (2 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.37.0](https://github.com/Roave/BetterReflection/releases/tag/6.37.0) (2 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.3](https://github.com/phpstan/phpstan/releases/tag/1.11.3) (2 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.29.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.29.1) (2 days ago)
+- [yiisoft/yii2](https://github.com/yiisoft/yii2) - [2.0.50](https://github.com/yiisoft/yii2/releases/tag/2.0.50) (3 days ago)
+- [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) - [3.7.0](https://github.com/SAML-Toolkits/php-saml/releases/tag/3.7.0) (3 days ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.3](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.3) (3 days ago)
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.2.0-alpha.20240529033030](https://github.com/matomo-org/matomo/releases/tag/5.2.0-alpha.20240529033030) (4 days ago)
