@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [12.2.1](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.2.1) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.12](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.12) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) - [0.29.1](https://github.com/infection/infection/releases/tag/0.29.1) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.174](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.174) (2 days ago)
@@ -68,4 +69,3 @@
 - [yiisoft/yii2](https://github.com/yiisoft/yii2) - [2.0.50](https://github.com/yiisoft/yii2/releases/tag/2.0.50) (3 days ago)
 - [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) - [3.7.0](https://github.com/SAML-Toolkits/php-saml/releases/tag/3.7.0) (3 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.3](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.3) (3 days ago)
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.2.0-alpha.20240529033030](https://github.com/matomo-org/matomo/releases/tag/5.2.0-alpha.20240529033030) (4 days ago)
