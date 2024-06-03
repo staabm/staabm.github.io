@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement StringReplaceSubjectParameterRule](https://github.com/phpstan/phpstan-src/pull/3119) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Consider numeric-string types after string concat](https://github.com/phpstan/phpstan-src/pull/3117) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [`array_fill_keys` expects array of array-key](https://github.com/phpstan/phpstan-src/pull/3110) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [`TemplateTagValueNode` name cannot be empty string](https://github.com/phpstan/phpdoc-parser/pull/244) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (3 days ago)
@@ -54,7 +55,6 @@
 - [Adjust pretty name of closures on PHP 8.4](https://github.com/pmmp/PocketMine-MP/pull/6351) on [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) (1 week ago)
 - [Adjust pretty name of closures on PHP 8.4](https://github.com/silverstripe/silverstripe-framework/pull/11264) on [silverstripe/silverstripe-framework](https://github.com/silverstripe/silverstripe-framework) (1 week ago)
 - [Adjust pretty name of closures on PHP 8.4](https://github.com/yiisoft/yii2/pull/20165) on [yiisoft/yii2](https://github.com/yiisoft/yii2) (1 week ago)
-- [Adjust pretty name of closures on PHP 8.4](https://github.com/spatie/once/pull/99) on [spatie/once](https://github.com/spatie/once) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
