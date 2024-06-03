@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.4](https://github.com/briannesbitt/Carbon/releases/tag/2.72.4) (today)
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.5.0](https://github.com/briannesbitt/Carbon/releases/tag/3.5.0) (today)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [4.2.3](https://github.com/lucatume/wp-browser/releases/tag/4.2.3) (today)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [12.2.1](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.2.1) (1 day ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.12](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.12) (2 days ago)
