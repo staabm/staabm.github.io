@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [array_slice() returns non-empty array for existing offsets and positive limit](https://github.com/phpstan/phpstan-src/pull/3121) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix pathinfo() return-type for union-type flags](https://github.com/phpstan/phpstan-src/pull/3120) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement StringReplaceSubjectParameterRule](https://github.com/phpstan/phpstan-src/pull/3119) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Consider numeric-string types after string concat](https://github.com/phpstan/phpstan-src/pull/3117) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,12 +55,11 @@
 - [Adjust pretty name of closures on PHP 8.4](https://github.com/kahlan/kahlan/pull/426) on [kahlan/kahlan](https://github.com/kahlan/kahlan) (1 week ago)
 - [Adjust pretty name of closures on PHP 8.4](https://github.com/orisai/scheduler/pull/1) on [orisai/scheduler](https://github.com/orisai/scheduler) (1 week ago)
 - [Adjust pretty name of closures on PHP 8.4](https://github.com/pmmp/PocketMine-MP/pull/6351) on [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) (1 week ago)
-- [Adjust pretty name of closures on PHP 8.4](https://github.com/silverstripe/silverstripe-framework/pull/11264) on [silverstripe/silverstripe-framework](https://github.com/silverstripe/silverstripe-framework) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.5.0](https://github.com/briannesbitt/Carbon/releases/tag/3.5.0) (today)
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.5](https://github.com/briannesbitt/Carbon/releases/tag/2.72.5) (today)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [4.2.3](https://github.com/lucatume/wp-browser/releases/tag/4.2.3) (today)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [12.2.1](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.2.1) (1 day ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.12](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.12) (2 days ago)
