@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.4](https://github.com/briannesbitt/Carbon/releases/tag/2.72.4) (today)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [4.2.3](https://github.com/lucatume/wp-browser/releases/tag/4.2.3) (today)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [12.2.1](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.2.1) (1 day ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.12](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.12) (2 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.3](https://github.com/phpstan/phpstan/releases/tag/1.11.3) (3 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.29.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.29.1) (3 days ago)
 - [yiisoft/yii2](https://github.com/yiisoft/yii2) - [2.0.50](https://github.com/yiisoft/yii2/releases/tag/2.0.50) (4 days ago)
-- [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) - [3.7.0](https://github.com/SAML-Toolkits/php-saml/releases/tag/3.7.0) (4 days ago)
