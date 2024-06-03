@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix pathinfo() return-type for union-type flags](https://github.com/phpstan/phpstan-src/pull/3120) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement StringReplaceSubjectParameterRule](https://github.com/phpstan/phpstan-src/pull/3119) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Consider numeric-string types after string concat](https://github.com/phpstan/phpstan-src/pull/3117) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [`array_fill_keys` expects array of array-key](https://github.com/phpstan/phpstan-src/pull/3110) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Adjust pretty name of closures on PHP 8.4](https://github.com/orisai/scheduler/pull/1) on [orisai/scheduler](https://github.com/orisai/scheduler) (1 week ago)
 - [Adjust pretty name of closures on PHP 8.4](https://github.com/pmmp/PocketMine-MP/pull/6351) on [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) (1 week ago)
 - [Adjust pretty name of closures on PHP 8.4](https://github.com/silverstripe/silverstripe-framework/pull/11264) on [silverstripe/silverstripe-framework](https://github.com/silverstripe/silverstripe-framework) (1 week ago)
-- [Adjust pretty name of closures on PHP 8.4](https://github.com/yiisoft/yii2/pull/20165) on [yiisoft/yii2](https://github.com/yiisoft/yii2) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
