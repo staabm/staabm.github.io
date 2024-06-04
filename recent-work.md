@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [array_slice() returns non-empty array for existing offsets and positive limit](https://github.com/phpstan/phpstan-src/pull/3124) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [array_slice() returns non-empty array for existing offsets and positive limit](https://github.com/phpstan/phpstan-src/pull/3121) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix pathinfo() return-type for union-type flags](https://github.com/phpstan/phpstan-src/pull/3120) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Implement StringReplaceSubjectParameterRule](https://github.com/phpstan/phpstan-src/pull/3119) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Adjust pretty name of closures on PHP 8.4](https://github.com/yiisoft/injector/pull/96) on [yiisoft/injector](https://github.com/yiisoft/injector) (1 week ago)
 - [Adjust pretty name of closures on PHP 8.4](https://github.com/kahlan/kahlan/pull/426) on [kahlan/kahlan](https://github.com/kahlan/kahlan) (1 week ago)
 - [Adjust pretty name of closures on PHP 8.4](https://github.com/orisai/scheduler/pull/1) on [orisai/scheduler](https://github.com/orisai/scheduler) (1 week ago)
-- [Adjust pretty name of closures on PHP 8.4](https://github.com/pmmp/PocketMine-MP/pull/6351) on [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
