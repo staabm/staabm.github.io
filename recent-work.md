@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [vprintf/vsprintf require a non-empty-array argument](https://github.com/phpstan/phpstan-src/pull/3126) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [array_slice() returns non-empty array for existing offsets and positive limit](https://github.com/phpstan/phpstan-src/pull/3124) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [array_slice() returns non-empty array for existing offsets and positive limit](https://github.com/phpstan/phpstan-src/pull/3121) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix pathinfo() return-type for union-type flags](https://github.com/phpstan/phpstan-src/pull/3120) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Support PHP 8.4](https://github.com/Roave/infection-static-analysis-plugin/pull/497) on [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) (1 week ago)
 - [Adjust pretty name of closures on PHP 8.4](https://github.com/yiisoft/injector/pull/96) on [yiisoft/injector](https://github.com/yiisoft/injector) (1 week ago)
 - [Adjust pretty name of closures on PHP 8.4](https://github.com/kahlan/kahlan/pull/426) on [kahlan/kahlan](https://github.com/kahlan/kahlan) (1 week ago)
-- [Adjust pretty name of closures on PHP 8.4](https://github.com/orisai/scheduler/pull/1) on [orisai/scheduler](https://github.com/orisai/scheduler) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
