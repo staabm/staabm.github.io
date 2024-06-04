@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.81](https://github.com/staabm/phpstan-dba/releases/tag/0.2.81) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.29.2](https://github.com/infection/infection/releases/tag/0.29.2) (1 day ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.5](https://github.com/briannesbitt/Carbon/releases/tag/2.72.5) (1 day ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [4.2.3](https://github.com/lucatume/wp-browser/releases/tag/4.2.3) (1 day ago)
@@ -68,4 +69,3 @@
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.37.0](https://github.com/Roave/BetterReflection/releases/tag/6.37.0) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.3](https://github.com/phpstan/phpstan/releases/tag/1.11.3) (4 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.29.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.29.1) (4 days ago)
-- [yiisoft/yii2](https://github.com/yiisoft/yii2) - [2.0.50](https://github.com/yiisoft/yii2/releases/tag/2.0.50) (5 days ago)
