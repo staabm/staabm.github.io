@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (5 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (5 days ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.175](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.175) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.29.3](https://github.com/infection/infection/releases/tag/0.29.3) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.81](https://github.com/staabm/phpstan-dba/releases/tag/0.2.81) (1 day ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.5](https://github.com/briannesbitt/Carbon/releases/tag/2.72.5) (2 days ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [4.2.3](https://github.com/lucatume/wp-browser/releases/tag/4.2.3) (2 days ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [12.2.1](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.2.1) (3 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.12](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.12) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.174](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.174) (5 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.37.0](https://github.com/Roave/BetterReflection/releases/tag/6.37.0) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.3](https://github.com/phpstan/phpstan/releases/tag/1.11.3) (5 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.29.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.29.1) (5 days ago)
