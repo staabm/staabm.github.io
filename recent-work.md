@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [infection/infection](https://github.com/infection/infection) - [0.29.3](https://github.com/infection/infection/releases/tag/0.29.3) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.81](https://github.com/staabm/phpstan-dba/releases/tag/0.2.81) (1 day ago)
-- [infection/infection](https://github.com/infection/infection) - [0.29.2](https://github.com/infection/infection/releases/tag/0.29.2) (2 days ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.5](https://github.com/briannesbitt/Carbon/releases/tag/2.72.5) (2 days ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [4.2.3](https://github.com/lucatume/wp-browser/releases/tag/4.2.3) (2 days ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [12.2.1](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.2.1) (3 days ago)
