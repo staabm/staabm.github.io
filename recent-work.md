@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.6.4](https://github.com/lucatume/wp-browser/releases/tag/3.6.4) (today)
+- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [4.2.4](https://github.com/lucatume/wp-browser/releases/tag/4.2.4) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.175](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.175) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) - [0.29.3](https://github.com/infection/infection/releases/tag/0.29.3) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.81](https://github.com/staabm/phpstan-dba/releases/tag/0.2.81) (2 days ago)
