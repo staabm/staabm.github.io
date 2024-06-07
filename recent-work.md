@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
 - [yiisoft/yii2](https://github.com/yiisoft/yii2) (1 week ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
-- [spatie/once](https://github.com/spatie/once) (1 week ago)
 - [orisai/scheduler](https://github.com/orisai/scheduler) (1 week ago)
-- [php/doc-en](https://github.com/php/doc-en) (2 weeks ago)
+- [spatie/once](https://github.com/spatie/once) (1 week ago)
 
 
 #### 📜 My recent blog posts
