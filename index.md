@@ -20,3 +20,10 @@ I am also available for [paid support of PHPStan](https://staabm.github.io/2024/
 
 <a href="/talks/phpstan-dba@phpugffm/">phpstan-dba - check your sql queries like a boss</a>
 <br />May 2023, at PHP Usergroup in Frankfurt Main (Germany).
+
+## Top projects
+
+- [phpstan-dba](https://github.com/staabm/phpstan-dba): PHPStan based SQL static analysis and type inference for the database access layer
+- [phpstan-todo-by](https://github.com/staabm/phpstan-todo-by): Todo comments with expiration
+- [phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis): Analyzes PHPStan baseline files and creates aggregated error trend-reports
+- [annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle): Annotate a GitHub Pull Request based on a Checkstyle XML-report within your GitHub Action
