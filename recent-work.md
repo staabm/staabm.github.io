@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.2.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.4](https://github.com/phpstan/phpstan/releases/tag/1.11.4) (1 day ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [4.2.4](https://github.com/lucatume/wp-browser/releases/tag/4.2.4) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.175](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.175) (2 days ago)
@@ -68,4 +69,3 @@
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [12.2.1](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.2.1) (5 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.12](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.12) (6 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.37.0](https://github.com/Roave/BetterReflection/releases/tag/6.37.0) (1 week ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.29.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.29.1) (1 week ago)
