@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.7](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.7) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.4](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.4) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.1](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.1) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.2.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.0) (today)
@@ -68,4 +69,3 @@
 - [infection/infection](https://github.com/infection/infection) - [0.29.3](https://github.com/infection/infection/releases/tag/0.29.3) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.81](https://github.com/staabm/phpstan-dba/releases/tag/0.2.81) (3 days ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [2.72.5](https://github.com/briannesbitt/Carbon/releases/tag/2.72.5) (4 days ago)
-- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [12.2.1](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.2.1) (5 days ago)
