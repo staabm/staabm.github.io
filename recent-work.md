@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix build again](https://github.com/phpstan/phpstan-src/pull/3138) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/3137) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3136) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [vprintf/vsprintf require a non-empty-array argument](https://github.com/phpstan/phpstan-src/pull/3126) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
@@ -54,7 +55,6 @@
 - [Subtract zero-float when comparing against zero-int](https://github.com/phpstan/phpstan-src/pull/3102) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Improve `explode` return type precision](https://github.com/phpstan/phpstan-src/pull/3096) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Support new PHP8.4 mb_lcfirst, mb_ucfirst function variants](https://github.com/phpstan/phpstan-src/pull/3095) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [Support PHP 8.4](https://github.com/Roave/infection-static-analysis-plugin/pull/497) on [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
