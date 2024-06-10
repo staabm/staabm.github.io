@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix build](https://github.com/phpstan/phpstan-src/pull/3137) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/3136) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [vprintf/vsprintf require a non-empty-array argument](https://github.com/phpstan/phpstan-src/pull/3126) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [array_slice() returns non-empty array for existing offsets and positive limit](https://github.com/phpstan/phpstan-src/pull/3124) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [array_slice() returns non-empty array for existing offsets and positive limit](https://github.com/phpstan/phpstan-src/pull/3121) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -53,8 +55,6 @@
 - [Improve `explode` return type precision](https://github.com/phpstan/phpstan-src/pull/3096) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Support new PHP8.4 mb_lcfirst, mb_ucfirst function variants](https://github.com/phpstan/phpstan-src/pull/3095) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Support PHP 8.4](https://github.com/Roave/infection-static-analysis-plugin/pull/497) on [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) (2 weeks ago)
-- [Adjust pretty name of closures on PHP 8.4](https://github.com/yiisoft/injector/pull/96) on [yiisoft/injector](https://github.com/yiisoft/injector) (2 weeks ago)
-- [Adjust pretty name of closures on PHP 8.4](https://github.com/kahlan/kahlan/pull/426) on [kahlan/kahlan](https://github.com/kahlan/kahlan) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
