@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
@@ -40,11 +40,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix build again](https://github.com/phpstan/phpstan-src/pull/3138) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Fix build](https://github.com/phpstan/phpstan-src/pull/3137) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/3136) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [vprintf/vsprintf require a non-empty-array argument](https://github.com/phpstan/phpstan-src/pull/3126) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [array_slice() returns non-empty array for existing offsets and positive limit](https://github.com/phpstan/phpstan-src/pull/3124) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Fix build again](https://github.com/phpstan/phpstan-src/pull/3138) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Fix build](https://github.com/phpstan/phpstan-src/pull/3137) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/3136) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [vprintf/vsprintf require a non-empty-array argument](https://github.com/phpstan/phpstan-src/pull/3126) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [array_slice() returns non-empty array for existing offsets and positive limit](https://github.com/phpstan/phpstan-src/pull/3124) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [array_slice() returns non-empty array for existing offsets and positive limit](https://github.com/phpstan/phpstan-src/pull/3121) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix pathinfo() return-type for union-type flags](https://github.com/phpstan/phpstan-src/pull/3120) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Implement StringReplaceSubjectParameterRule](https://github.com/phpstan/phpstan-src/pull/3119) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.1.0](https://github.com/matomo-org/matomo/releases/tag/5.1.0) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.176](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.176) (today)
-- [infection/infection](https://github.com/infection/infection) - [0.29.4](https://github.com/infection/infection/releases/tag/0.29.4) (3 days ago)
-- [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.7](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.7) (3 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.4](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.4) (3 days ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.1](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.1) (3 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.2.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.0) (3 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.4](https://github.com/phpstan/phpstan/releases/tag/1.11.4) (4 days ago)
-- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [4.2.4](https://github.com/lucatume/wp-browser/releases/tag/4.2.4) (4 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.81](https://github.com/staabm/phpstan-dba/releases/tag/0.2.81) (6 days ago)
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.1.0](https://github.com/matomo-org/matomo/releases/tag/5.1.0) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.176](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.176) (1 day ago)
+- [infection/infection](https://github.com/infection/infection) - [0.29.4](https://github.com/infection/infection/releases/tag/0.29.4) (4 days ago)
+- [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.7](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.7) (4 days ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.4](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.4) (4 days ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.1](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.1) (4 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.2.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.0) (4 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.4](https://github.com/phpstan/phpstan/releases/tag/1.11.4) (5 days ago)
+- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [4.2.4](https://github.com/lucatume/wp-browser/releases/tag/4.2.4) (5 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.81](https://github.com/staabm/phpstan-dba/releases/tag/0.2.81) (1 week ago)
