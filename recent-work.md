@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mautic/mautic](https://github.com/mautic/mautic) - [5.1.0](https://github.com/mautic/mautic/releases/tag/5.1.0) (today)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [13.0.0](https://github.com/symplify/phpstan-rules/releases/tag/13.0.0) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.29.5](https://github.com/infection/infection/releases/tag/0.29.5) (1 day ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.13](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.13) (1 day ago)
@@ -68,4 +69,3 @@
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.7](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.7) (6 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.4](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.4) (6 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.1](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.1) (6 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.4](https://github.com/phpstan/phpstan/releases/tag/1.11.4) (1 week ago)
