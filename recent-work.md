@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added failling test](https://github.com/rectorphp/type-perfect/pull/3) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
 - [Turn TraitsCachingIssueIntegrationTest into a e2e test](https://github.com/phpstan/phpstan-src/pull/3151) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Fix build again](https://github.com/phpstan/phpstan-src/pull/3138) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/3137) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -54,7 +55,6 @@
 - [`TemplateTagValueNode` name cannot be empty string](https://github.com/phpstan/phpdoc-parser/pull/244) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
 - [Improve `getNamespacedName()` return type](https://github.com/Roave/BetterReflection/pull/1428) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 weeks ago)
 - [Subtract zero-float when comparing against zero-int](https://github.com/phpstan/phpstan-src/pull/3102) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [Improve `explode` return type precision](https://github.com/phpstan/phpstan-src/pull/3096) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
