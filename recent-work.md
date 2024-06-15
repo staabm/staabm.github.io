@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.2.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.2) (today)
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.1.0](https://github.com/mautic/mautic/releases/tag/5.1.0) (2 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [13.0.0](https://github.com/symplify/phpstan-rules/releases/tag/13.0.0) (2 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.29.5](https://github.com/infection/infection/releases/tag/0.29.5) (3 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.13](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.13) (3 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.2.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.1) (4 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.1.0](https://github.com/matomo-org/matomo/releases/tag/5.1.0) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.176](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.176) (5 days ago)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.7](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.7) (1 week ago)
