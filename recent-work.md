@@ -4,7 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use bashunit for e2e tests](https://github.com/phpstan/phpstan-src/pull/3160) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify TestSuiteLoader](https://github.com/sebastianbergmann/phpunit/pull/5865) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [NarrowPublicClassMethodParamTypeRule: Take default value into account](https://github.com/rectorphp/type-perfect/pull/4) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 day ago)
 - [Added failling test](https://github.com/rectorphp/type-perfect/pull/3) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 day ago)
@@ -54,7 +55,6 @@
 - [Implement StringReplaceSubjectParameterRule](https://github.com/phpstan/phpstan-src/pull/3119) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Consider numeric-string types after string concat](https://github.com/phpstan/phpstan-src/pull/3117) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [`array_fill_keys` expects array of array-key](https://github.com/phpstan/phpstan-src/pull/3110) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [`TemplateTagValueNode` name cannot be empty string](https://github.com/phpstan/phpdoc-parser/pull/244) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
