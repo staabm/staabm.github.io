@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
@@ -11,8 +12,7 @@
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
 - [yiisoft/yii2](https://github.com/yiisoft/yii2) (2 weeks ago)
-- [spatie/once](https://github.com/spatie/once) (3 weeks ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 weeks ago)
+- [kahlan/kahlan](https://github.com/kahlan/kahlan) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
