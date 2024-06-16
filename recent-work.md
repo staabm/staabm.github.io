@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove unnecessary sprintf() in hot path](https://github.com/sebastianbergmann/exporter/pull/58) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (today)
+- [Use more efficient `spl_object_id()` over `spl_object_hash()`](https://github.com/sebastianbergmann/recursion-context/pull/30) on [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) (today)
 - [Use bashunit for e2e tests](https://github.com/phpstan/phpstan-src/pull/3160) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Simplify TestSuiteLoader](https://github.com/sebastianbergmann/phpunit/pull/5865) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [NarrowPublicClassMethodParamTypeRule: Take default value into account](https://github.com/rectorphp/type-perfect/pull/4) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (2 days ago)
@@ -53,8 +55,6 @@
 - [array_slice() returns non-empty array for existing offsets and positive limit](https://github.com/phpstan/phpstan-src/pull/3121) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix pathinfo() return-type for union-type flags](https://github.com/phpstan/phpstan-src/pull/3120) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Implement StringReplaceSubjectParameterRule](https://github.com/phpstan/phpstan-src/pull/3119) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Consider numeric-string types after string concat](https://github.com/phpstan/phpstan-src/pull/3117) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [`array_fill_keys` expects array of array-key](https://github.com/phpstan/phpstan-src/pull/3110) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
