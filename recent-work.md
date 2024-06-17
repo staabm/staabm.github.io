@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (today)
+- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) (1 day ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (1 day ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 day ago)
-- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 weeks ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -68,4 +68,4 @@
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [13.0.0](https://github.com/symplify/phpstan-rules/releases/tag/13.0.0) (4 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.29.5](https://github.com/infection/infection/releases/tag/0.29.5) (5 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.13](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.13) (5 days ago)
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.1.0](https://github.com/matomo-org/matomo/releases/tag/5.1.0) (1 week ago)
+- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.12.0](https://github.com/TypedDevs/bashunit/releases/tag/0.12.0) (6 days ago)
