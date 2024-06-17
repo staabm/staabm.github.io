@@ -40,7 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Remove unnecessary sprintf() in hot path](https://github.com/sebastianbergmann/exporter/pull/58) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (1 day ago)
+- [Add `assert_line_count`](https://github.com/TypedDevs/bashunit/pull/259) on [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (today)
+- [Remove unnecessary `sprintf()` in hot path](https://github.com/sebastianbergmann/exporter/pull/58) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (1 day ago)
 - [Use more efficient `spl_object_id()` over `spl_object_hash()`](https://github.com/sebastianbergmann/recursion-context/pull/30) on [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) (1 day ago)
 - [Use bashunit for e2e tests](https://github.com/phpstan/phpstan-src/pull/3160) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Simplify TestSuiteLoader](https://github.com/sebastianbergmann/phpunit/pull/5865) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
@@ -54,11 +55,11 @@
 - [array_slice() returns non-empty array for existing offsets and positive limit](https://github.com/phpstan/phpstan-src/pull/3124) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [array_slice() returns non-empty array for existing offsets and positive limit](https://github.com/phpstan/phpstan-src/pull/3121) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Fix pathinfo() return-type for union-type flags](https://github.com/phpstan/phpstan-src/pull/3120) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [Implement StringReplaceSubjectParameterRule](https://github.com/phpstan/phpstan-src/pull/3119) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [6.0.3](https://github.com/sebastianbergmann/exporter/releases/tag/6.0.3) (today)
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - [6.0.1](https://github.com/sebastianbergmann/recursion-context/releases/tag/6.0.1) (today)
 - [kahlan/kahlan](https://github.com/kahlan/kahlan) - [5.2.7](https://github.com/kahlan/kahlan/releases/tag/5.2.7) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.2.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.2) (2 days ago)
@@ -68,4 +69,3 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.13](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.13) (5 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.1.0](https://github.com/matomo-org/matomo/releases/tag/5.1.0) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.176](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.176) (1 week ago)
-- [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.7](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.7) (1 week ago)
