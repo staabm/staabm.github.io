@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (today)
-- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) (1 day ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (1 day ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 day ago)
+- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 weeks ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.5](https://github.com/phpstan/phpstan/releases/tag/1.11.5) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.38.0](https://github.com/Roave/BetterReflection/releases/tag/6.38.0) (today)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [2.0.1](https://github.com/qossmic/deptrac/releases/tag/2.0.1) (today)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [6.0.3](https://github.com/sebastianbergmann/exporter/releases/tag/6.0.3) (today)
@@ -68,4 +69,3 @@
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.1.0](https://github.com/mautic/mautic/releases/tag/5.1.0) (4 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [13.0.0](https://github.com/symplify/phpstan-rules/releases/tag/13.0.0) (4 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.29.5](https://github.com/infection/infection/releases/tag/0.29.5) (5 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.13](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.13) (5 days ago)
