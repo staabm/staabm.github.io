@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (1 day ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 day ago)
+- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
-- [yiisoft/yii2](https://github.com/yiisoft/yii2) (3 weeks ago)
-- [orisai/scheduler](https://github.com/orisai/scheduler) (3 weeks ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - [6.0.1](https://github.com/sebastianbergmann/recursion-context/releases/tag/6.0.1) (today)
 - [kahlan/kahlan](https://github.com/kahlan/kahlan) - [5.2.7](https://github.com/kahlan/kahlan/releases/tag/5.2.7) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.2.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.2) (2 days ago)
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.1.0](https://github.com/mautic/mautic/releases/tag/5.1.0) (4 days ago)
@@ -68,4 +69,3 @@
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.1.0](https://github.com/matomo-org/matomo/releases/tag/5.1.0) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.176](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.176) (1 week ago)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.7](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.7) (1 week ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.4](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.4) (1 week ago)
