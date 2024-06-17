@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Take shortcut when exporting a string](https://github.com/sebastianbergmann/exporter/pull/60) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (today)
 - [Shorten big arrays to speedup phpunit](https://github.com/sebastianbergmann/exporter/pull/59) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (today)
 - [Add `assert_line_count`](https://github.com/TypedDevs/bashunit/pull/259) on [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (today)
 - [Remove unnecessary `sprintf()` in hot path](https://github.com/sebastianbergmann/exporter/pull/58) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (1 day ago)
@@ -54,7 +55,6 @@
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3136) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [vprintf/vsprintf require a non-empty-array argument](https://github.com/phpstan/phpstan-src/pull/3126) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [array_slice() returns non-empty array for existing offsets and positive limit](https://github.com/phpstan/phpstan-src/pull/3124) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [array_slice() returns non-empty array for existing offsets and positive limit](https://github.com/phpstan/phpstan-src/pull/3121) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
