@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [qossmic/deptrac](https://github.com/qossmic/deptrac) - [2.0.1](https://github.com/qossmic/deptrac/releases/tag/2.0.1) (today)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [6.0.3](https://github.com/sebastianbergmann/exporter/releases/tag/6.0.3) (today)
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - [6.0.1](https://github.com/sebastianbergmann/recursion-context/releases/tag/6.0.1) (today)
 - [kahlan/kahlan](https://github.com/kahlan/kahlan) - [5.2.7](https://github.com/kahlan/kahlan/releases/tag/5.2.7) (2 days ago)
@@ -68,4 +69,3 @@
 - [infection/infection](https://github.com/infection/infection) - [0.29.5](https://github.com/infection/infection/releases/tag/0.29.5) (5 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.13](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.13) (5 days ago)
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - [5.1.0](https://github.com/matomo-org/matomo/releases/tag/5.1.0) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.176](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.176) (1 week ago)
