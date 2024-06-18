@@ -5,10 +5,10 @@
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (today)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (1 day ago)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (1 day ago)
-- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (2 days ago)
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) (2 days ago)
+- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 weeks ago)
@@ -42,7 +42,7 @@
 
 - [Don&#39;t calculate unnecessary information in `debug_backtrace()`](https://github.com/sebastianbergmann/phpunit/pull/5870) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Prevent unnecessary calls to `str_repeat()`](https://github.com/sebastianbergmann/exporter/pull/65) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (today)
-- [Faster `Exporter-&gt;exportString()`](https://github.com/sebastianbergmann/exporter/pull/64) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (today)
+- [Improve performance of `Exporter::exportString()`](https://github.com/sebastianbergmann/exporter/pull/64) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (today)
 - [Prevent unnecesary calls to `isSuperTypeOf`](https://github.com/phpstan/phpstan-src/pull/3164) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Take shortcut when exporting a string](https://github.com/sebastianbergmann/exporter/pull/60) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (1 day ago)
 - [Add option to limit export of (large) arrays (to speed up PHPUnit)](https://github.com/sebastianbergmann/exporter/pull/59) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (1 day ago)
@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [6.1.2](https://github.com/sebastianbergmann/exporter/releases/tag/6.1.2) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.177](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.177) (today)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [6.1.1](https://github.com/sebastianbergmann/exporter/releases/tag/6.1.1) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.5](https://github.com/phpstan/phpstan/releases/tag/1.11.5) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.38.0](https://github.com/Roave/BetterReflection/releases/tag/6.38.0) (1 day ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [2.0.1](https://github.com/qossmic/deptrac/releases/tag/2.0.1) (1 day ago)
