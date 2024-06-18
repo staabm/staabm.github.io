@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Don&#39;t calculate unnecessary information in `debug_backtrace()`](https://github.com/sebastianbergmann/phpunit/pull/5870) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [Prevent unnecessary calls to `str_repeat()`](https://github.com/sebastianbergmann/exporter/pull/65) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (today)
 - [Faster `Exporter-&gt;exportString()`](https://github.com/sebastianbergmann/exporter/pull/64) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (today)
 - [Prevent unnecesary calls to `isSuperTypeOf`](https://github.com/phpstan/phpstan-src/pull/3164) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Take shortcut when exporting a string](https://github.com/sebastianbergmann/exporter/pull/60) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (1 day ago)
@@ -53,8 +55,6 @@
 - [Added failling test](https://github.com/rectorphp/type-perfect/pull/3) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (4 days ago)
 - [Turn TraitsCachingIssueIntegrationTest into a e2e test](https://github.com/phpstan/phpstan-src/pull/3151) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix build again](https://github.com/phpstan/phpstan-src/pull/3138) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix build](https://github.com/phpstan/phpstan-src/pull/3137) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/3136) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
