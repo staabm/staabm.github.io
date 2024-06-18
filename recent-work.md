@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.39.0](https://github.com/Roave/BetterReflection/releases/tag/6.39.0) (today)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [6.1.2](https://github.com/sebastianbergmann/exporter/releases/tag/6.1.2) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.177](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.177) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.5](https://github.com/phpstan/phpstan/releases/tag/1.11.5) (1 day ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.38.0](https://github.com/Roave/BetterReflection/releases/tag/6.38.0) (1 day ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [2.0.1](https://github.com/qossmic/deptrac/releases/tag/2.0.1) (1 day ago)
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - [6.0.1](https://github.com/sebastianbergmann/recursion-context/releases/tag/6.0.1) (1 day ago)
 - [kahlan/kahlan](https://github.com/kahlan/kahlan) - [5.2.7](https://github.com/kahlan/kahlan/releases/tag/5.2.7) (3 days ago)
