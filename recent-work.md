@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (1 day ago)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (2 days ago)
-- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) (2 days ago)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (1 day ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (2 days ago)
+- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 weeks ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -41,7 +41,7 @@
 #### 🔨 My recent Pull Requests
 
 - [Take shortcut when exporting a string](https://github.com/sebastianbergmann/exporter/pull/60) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (1 day ago)
-- [Shorten big arrays to speedup phpunit](https://github.com/sebastianbergmann/exporter/pull/59) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (1 day ago)
+- [Add option to limit export of (large) arrays (to speed up PHPUnit)](https://github.com/sebastianbergmann/exporter/pull/59) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (1 day ago)
 - [Add `assert_line_count`](https://github.com/TypedDevs/bashunit/pull/259) on [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (1 day ago)
 - [Remove unnecessary `sprintf()` in hot path](https://github.com/sebastianbergmann/exporter/pull/58) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (2 days ago)
 - [Use more efficient `spl_object_id()` over `spl_object_hash()`](https://github.com/sebastianbergmann/recursion-context/pull/30) on [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) (2 days ago)
