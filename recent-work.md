@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.177](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.177) (today)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [6.1.1](https://github.com/sebastianbergmann/exporter/releases/tag/6.1.1) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.5](https://github.com/phpstan/phpstan/releases/tag/1.11.5) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.38.0](https://github.com/Roave/BetterReflection/releases/tag/6.38.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.2.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.2) (3 days ago)
 - [mautic/mautic](https://github.com/mautic/mautic) - [5.1.0](https://github.com/mautic/mautic/releases/tag/5.1.0) (5 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [13.0.0](https://github.com/symplify/phpstan-rules/releases/tag/13.0.0) (5 days ago)
-- [infection/infection](https://github.com/infection/infection) - [0.29.5](https://github.com/infection/infection/releases/tag/0.29.5) (6 days ago)
