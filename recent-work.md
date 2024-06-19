@@ -3,11 +3,11 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (1 day ago)
-- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (2 days ago)
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) (3 days ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (3 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improve `sprintf` return type inference](https://github.com/phpstan/phpstan-src/pull/3168) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Indicate file on TypeInferenceTestCase validation errors](https://github.com/phpstan/phpstan-src/pull/3166) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Do not collect unnecessary information using `debug_backtrace()`](https://github.com/sebastianbergmann/phpunit/pull/5871) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Do not collect unnecessary information using `debug_backtrace()`](https://github.com/sebastianbergmann/phpunit/pull/5870) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
@@ -54,7 +55,6 @@
 - [Use bashunit for e2e tests](https://github.com/phpstan/phpstan-src/pull/3160) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Simplify TestSuiteLoader](https://github.com/sebastianbergmann/phpunit/pull/5865) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
 - [NarrowPublicClassMethodParamTypeRule: Take default value into account](https://github.com/rectorphp/type-perfect/pull/4) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (5 days ago)
-- [Added failling test](https://github.com/rectorphp/type-perfect/pull/3) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
