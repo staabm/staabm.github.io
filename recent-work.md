@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.25.0](https://github.com/vimeo/psalm/releases/tag/5.25.0) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.14](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.14) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.2.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.3) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.39.0](https://github.com/Roave/BetterReflection/releases/tag/6.39.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [2.0.1](https://github.com/qossmic/deptrac/releases/tag/2.0.1) (2 days ago)
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - [6.0.1](https://github.com/sebastianbergmann/recursion-context/releases/tag/6.0.1) (2 days ago)
 - [kahlan/kahlan](https://github.com/kahlan/kahlan) - [5.2.7](https://github.com/kahlan/kahlan/releases/tag/5.2.7) (4 days ago)
-- [mautic/mautic](https://github.com/mautic/mautic) - [5.1.0](https://github.com/mautic/mautic/releases/tag/5.1.0) (6 days ago)
