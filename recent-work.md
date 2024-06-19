@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Cast non-zero IntegerRangeType toString() is a non-falsy-string](https://github.com/phpstan/phpstan-src/pull/3170) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Improve `sprintf` return type inference](https://github.com/phpstan/phpstan-src/pull/3168) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Indicate file on TypeInferenceTestCase validation errors](https://github.com/phpstan/phpstan-src/pull/3166) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Do not collect unnecessary information using `debug_backtrace()`](https://github.com/sebastianbergmann/phpunit/pull/5871) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
@@ -54,7 +55,6 @@
 - [Use more efficient `spl_object_id()` over `spl_object_hash()`](https://github.com/sebastianbergmann/recursion-context/pull/30) on [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) (3 days ago)
 - [Use bashunit for e2e tests](https://github.com/phpstan/phpstan-src/pull/3160) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Simplify TestSuiteLoader](https://github.com/sebastianbergmann/phpunit/pull/5865) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
-- [NarrowPublicClassMethodParamTypeRule: Take default value into account](https://github.com/rectorphp/type-perfect/pull/4) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
