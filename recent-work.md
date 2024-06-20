@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (2 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [issue-bot: subshell is eating the exit code](https://github.com/phpstan/phpstan-src/pull/3171) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Cast non-zero IntegerRangeType toString() is a non-falsy-string](https://github.com/phpstan/phpstan-src/pull/3170) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Improve `sprintf` return type inference](https://github.com/phpstan/phpstan-src/pull/3168) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Indicate file on TypeInferenceTestCase validation errors](https://github.com/phpstan/phpstan-src/pull/3166) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Remove unnecessary `sprintf()` in hot path](https://github.com/sebastianbergmann/exporter/pull/58) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (4 days ago)
 - [Use more efficient `spl_object_id()` over `spl_object_hash()`](https://github.com/sebastianbergmann/recursion-context/pull/30) on [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) (4 days ago)
 - [Use bashunit for e2e tests](https://github.com/phpstan/phpstan-src/pull/3160) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Simplify TestSuiteLoader](https://github.com/sebastianbergmann/phpunit/pull/5865) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
