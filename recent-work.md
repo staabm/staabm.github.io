@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fixed typo in ParameterOutExtensions](https://github.com/phpstan/phpstan-src/pull/3172) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [WeakMap::offsetGet() does not return null](https://github.com/php/doc-en/pull/3463) on [php/doc-en](https://github.com/php/doc-en) (today)
 - [issue-bot: subshell is eating the exit code](https://github.com/phpstan/phpstan-src/pull/3171) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Cast non-zero IntegerRangeType toString() is a non-falsy-string](https://github.com/phpstan/phpstan-src/pull/3170) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,12 +55,11 @@
 - [Add option to limit export of (large) arrays (to speed up PHPUnit)](https://github.com/sebastianbergmann/exporter/pull/59) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (3 days ago)
 - [Add `assert_line_count`](https://github.com/TypedDevs/bashunit/pull/259) on [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (3 days ago)
 - [Remove unnecessary `sprintf()` in hot path](https://github.com/sebastianbergmann/exporter/pull/58) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (4 days ago)
-- [Use more efficient `spl_object_id()` over `spl_object_hash()`](https://github.com/sebastianbergmann/recursion-context/pull/30) on [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.2.4](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.4) (today)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.2.5](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.5) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.15](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.15) (1 day ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.25.0](https://github.com/vimeo/psalm/releases/tag/5.25.0) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.39.0](https://github.com/Roave/BetterReflection/releases/tag/6.39.0) (2 days ago)
