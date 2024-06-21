@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [TypeSpecifier - understand preg_match() == 1 same way as === 1](https://github.com/phpstan/phpstan-src/pull/3175) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix `conditionalTags` for ParameterOutExtensions](https://github.com/phpstan/phpstan-src/pull/3173) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fixed typo in ParameterOutExtensions](https://github.com/phpstan/phpstan-src/pull/3172) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [WeakMap::offsetGet() does not return null](https://github.com/php/doc-en/pull/3463) on [php/doc-en](https://github.com/php/doc-en) (1 day ago)
@@ -54,7 +55,6 @@
 - [Prevent unnecesary calls to `isSuperTypeOf`](https://github.com/phpstan/phpstan-src/pull/3164) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Take shortcut when exporting a string](https://github.com/sebastianbergmann/exporter/pull/60) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (4 days ago)
 - [Add option to limit export of (large) arrays (to speed up PHPUnit)](https://github.com/sebastianbergmann/exporter/pull/59) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (4 days ago)
-- [Add `assert_line_count`](https://github.com/TypedDevs/bashunit/pull/259) on [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
