@@ -4,10 +4,10 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
+- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (today)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (3 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) (5 days ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (5 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [StringsMatchDynamicReturnTypeExtensionTest does not need bleeding edge](https://github.com/phpstan/phpstan-nette/pull/148) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
 - [Implement array shapes for `Preg::match` $matches by-ref parameter](https://github.com/composer/pcre/pull/24) on [composer/pcre](https://github.com/composer/pcre) (today)
 - [TypeSpecifier - understand preg_match() == 1 same way as === 1](https://github.com/phpstan/phpstan-src/pull/3175) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix `conditionalTags` for ParameterOutExtensions](https://github.com/phpstan/phpstan-src/pull/3173) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Prevent unnecessary calls to `str_repeat()`](https://github.com/sebastianbergmann/exporter/pull/65) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (3 days ago)
 - [Improve performance of `Exporter::exportString()`](https://github.com/sebastianbergmann/exporter/pull/64) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (3 days ago)
 - [Prevent unnecesary calls to `isSuperTypeOf`](https://github.com/phpstan/phpstan-src/pull/3164) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Take shortcut when exporting a string](https://github.com/sebastianbergmann/exporter/pull/60) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
