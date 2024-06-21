@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [infection/infection](https://github.com/infection/infection) - [0.29.6](https://github.com/infection/infection/releases/tag/0.29.6) (today)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.6.0](https://github.com/briannesbitt/Carbon/releases/tag/3.6.0) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.2.5](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.5) (1 day ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.15](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.15) (2 days ago)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.177](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.177) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.5](https://github.com/phpstan/phpstan/releases/tag/1.11.5) (4 days ago)
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - [2.0.1](https://github.com/qossmic/deptrac/releases/tag/2.0.1) (4 days ago)
-- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - [6.0.1](https://github.com/sebastianbergmann/recursion-context/releases/tag/6.0.1) (4 days ago)
