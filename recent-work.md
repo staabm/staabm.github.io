@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement array shapes for `Preg::match` $matches by-ref parameter](https://github.com/composer/pcre/pull/24) on [composer/pcre](https://github.com/composer/pcre) (today)
 - [TypeSpecifier - understand preg_match() == 1 same way as === 1](https://github.com/phpstan/phpstan-src/pull/3175) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix `conditionalTags` for ParameterOutExtensions](https://github.com/phpstan/phpstan-src/pull/3173) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fixed typo in ParameterOutExtensions](https://github.com/phpstan/phpstan-src/pull/3172) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Improve performance of `Exporter::exportString()`](https://github.com/sebastianbergmann/exporter/pull/64) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (3 days ago)
 - [Prevent unnecesary calls to `isSuperTypeOf`](https://github.com/phpstan/phpstan-src/pull/3164) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Take shortcut when exporting a string](https://github.com/sebastianbergmann/exporter/pull/60) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (4 days ago)
-- [Add option to limit export of (large) arrays (to speed up PHPUnit)](https://github.com/sebastianbergmann/exporter/pull/59) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
