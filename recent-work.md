@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [TypeSpecifier - understand \Composer\Pcre\Preg::match() == 1 same way as === 1](https://github.com/phpstan/phpstan-src/pull/3178) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Added ArrayShapeMatcher 3v4l example](https://github.com/phpstan/phpstan-src/pull/3177) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Skip StringsMatchDynamicReturnTypeExtensionTest on PHP 7.2/7.3](https://github.com/phpstan/phpstan-nette/pull/149) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
 - [StringsMatchDynamicReturnTypeExtensionTest does not need bleeding edge](https://github.com/phpstan/phpstan-nette/pull/148) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
@@ -54,7 +55,6 @@
 - [Indicate file on TypeInferenceTestCase validation errors](https://github.com/phpstan/phpstan-src/pull/3166) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Do not collect unnecessary information using `debug_backtrace()`](https://github.com/sebastianbergmann/phpunit/pull/5871) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [Do not collect unnecessary information using `debug_backtrace()`](https://github.com/sebastianbergmann/phpunit/pull/5870) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
-- [Prevent unnecessary calls to `str_repeat()`](https://github.com/sebastianbergmann/exporter/pull/65) on [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
