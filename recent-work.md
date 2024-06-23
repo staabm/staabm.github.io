@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.13.0](https://github.com/TypedDevs/bashunit/releases/tag/0.13.0) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.16](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.16) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.29.6](https://github.com/infection/infection/releases/tag/0.29.6) (2 days ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.6.0](https://github.com/briannesbitt/Carbon/releases/tag/3.6.0) (3 days ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [6.1.2](https://github.com/sebastianbergmann/exporter/releases/tag/6.1.2) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.177](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.177) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.5](https://github.com/phpstan/phpstan/releases/tag/1.11.5) (6 days ago)
-- [qossmic/deptrac](https://github.com/qossmic/deptrac) - [2.0.1](https://github.com/qossmic/deptrac/releases/tag/2.0.1) (6 days ago)
