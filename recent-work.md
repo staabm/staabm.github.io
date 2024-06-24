@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix build](https://github.com/phpstan/phpstan-nette/pull/151) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
 - [RegexArrayShapeMatcher: fix nested capturing counting](https://github.com/phpstan/phpstan-src/pull/3184) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [More precise `getimagesize*` return type](https://github.com/phpstan/phpstan-src/pull/3183) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Use stable bashunit 0.13.0](https://github.com/phpstan/phpstan-src/pull/3181) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fixed typo in ParameterOutExtensions](https://github.com/phpstan/phpstan-src/pull/3172) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [WeakMap::offsetGet() does not return null](https://github.com/php/doc-en/pull/3463) on [php/doc-en](https://github.com/php/doc-en) (4 days ago)
 - [issue-bot: subshell is eating the exit code](https://github.com/phpstan/phpstan-src/pull/3171) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Cast non-zero IntegerRangeType toString() is a non-falsy-string](https://github.com/phpstan/phpstan-src/pull/3170) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
