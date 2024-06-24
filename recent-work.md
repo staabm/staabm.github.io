@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [More precise `getimagesize*` return type](https://github.com/phpstan/phpstan-src/pull/3183) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Use stable bashunit 0.13.0](https://github.com/phpstan/phpstan-src/pull/3181) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [RegexArrayShapeMatcher: Test pattern of union type](https://github.com/phpstan/phpstan-src/pull/3180) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [TypeSpecifier - understand \Composer\Pcre\Preg::match() == 1 same way as === 1](https://github.com/phpstan/phpstan-src/pull/3178) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [issue-bot: subshell is eating the exit code](https://github.com/phpstan/phpstan-src/pull/3171) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Cast non-zero IntegerRangeType toString() is a non-falsy-string](https://github.com/phpstan/phpstan-src/pull/3170) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Improve `sprintf` return type inference](https://github.com/phpstan/phpstan-src/pull/3168) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Indicate file on TypeInferenceTestCase validation errors](https://github.com/phpstan/phpstan-src/pull/3166) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
