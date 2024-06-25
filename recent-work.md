@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [RegexArrayShapeMatcher - when all groups are optional return a more…](https://github.com/phpstan/phpstan-src/pull/3189) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify SprintfFunctionDynamicReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/3188) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Refactor SprintfFunctionDynamicReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/3187) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Forbid _HumbugBox prefixed classes](https://github.com/phpstan/phpstan-src/pull/3186) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Skip StringsMatchDynamicReturnTypeExtensionTest on PHP 7.2/7.3](https://github.com/phpstan/phpstan-nette/pull/149) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (3 days ago)
 - [StringsMatchDynamicReturnTypeExtensionTest does not need bleeding edge](https://github.com/phpstan/phpstan-nette/pull/148) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (4 days ago)
 - [Implement array shapes for `Preg::match` $matches by-ref parameter](https://github.com/composer/pcre/pull/24) on [composer/pcre](https://github.com/composer/pcre) (4 days ago)
-- [TypeSpecifier - understand preg_match() == 1 same way as === 1](https://github.com/phpstan/phpstan-src/pull/3175) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
