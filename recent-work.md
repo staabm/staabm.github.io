@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (4 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Forbid _HumbugBox prefixed classes](https://github.com/phpstan/phpstan-src/pull/3186) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement TypeSpecifierComparisonContext](https://github.com/phpstan/phpstan-src/pull/3185) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix build](https://github.com/phpstan/phpstan-nette/pull/151) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
 - [RegexArrayShapeMatcher: fix nested capturing counting](https://github.com/phpstan/phpstan-src/pull/3184) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [TypeSpecifier - understand preg_match() == 1 same way as === 1](https://github.com/phpstan/phpstan-src/pull/3175) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Fix `conditionalTags` for ParameterOutExtensions](https://github.com/phpstan/phpstan-src/pull/3173) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Fixed typo in ParameterOutExtensions](https://github.com/phpstan/phpstan-src/pull/3172) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [WeakMap::offsetGet() does not return null](https://github.com/php/doc-en/pull/3463) on [php/doc-en](https://github.com/php/doc-en) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
