@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement TypeSpecifierComparisonContext](https://github.com/phpstan/phpstan-src/pull/3185) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix build](https://github.com/phpstan/phpstan-nette/pull/151) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
 - [RegexArrayShapeMatcher: fix nested capturing counting](https://github.com/phpstan/phpstan-src/pull/3184) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [More precise `getimagesize*` return type](https://github.com/phpstan/phpstan-src/pull/3183) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix `conditionalTags` for ParameterOutExtensions](https://github.com/phpstan/phpstan-src/pull/3173) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Fixed typo in ParameterOutExtensions](https://github.com/phpstan/phpstan-src/pull/3172) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [WeakMap::offsetGet() does not return null](https://github.com/php/doc-en/pull/3463) on [php/doc-en](https://github.com/php/doc-en) (5 days ago)
-- [issue-bot: subshell is eating the exit code](https://github.com/phpstan/phpstan-src/pull/3171) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
