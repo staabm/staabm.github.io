@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/orm](https://github.com/doctrine/orm) - [3.2.1](https://github.com/doctrine/orm/releases/tag/3.2.1) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.5](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.5) (1 day ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.6.5](https://github.com/lucatume/wp-browser/releases/tag/3.6.5) (1 day ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.17](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.17) (2 days ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.2.5](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.5) (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.25.0](https://github.com/vimeo/psalm/releases/tag/5.25.0) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.39.0](https://github.com/Roave/BetterReflection/releases/tag/6.39.0) (1 week ago)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [6.1.2](https://github.com/sebastianbergmann/exporter/releases/tag/6.1.2) (1 week ago)
