@@ -30,8 +30,7 @@ Example:
 
 ```bash
 cd e2e/different-php-parser2 # change to test-directory
-composer install # install test-dependencies
-../../phpstan analyse -l 5 src # run the precompiled PHPStan phar
+../../phpstan analyse -l 5 src/ # run the precompiled PHPStan
 ```
 
 When these commands are executed within a GitHub Action, the test is considered successful when all commands exit with a `0` exit-code.
@@ -62,12 +61,12 @@ jobs:
     strategy:
       matrix:
         include:
-          - script: |
-            cd e2e/different-php-parser2 # change to test-directory
-            composer install # install test-dependencies
-            ../../phpstan analyse -l 5 src # run the precompiled PHPStan phar
+          - script: | # the actual test
+            cd e2e/different-php-parser2
+            composer install # install the tests' dependencies
+            ../../phpstan analyse -l 5 src # run the precompiled PHPStan
 
-          # script: | … next test
+          # script: | # … next test
 
     steps:
       - name: "Checkout" # checkout of the phpstan repository contains the test-source and a precompiled phar
@@ -120,10 +119,10 @@ jobs:
             cd e2e/another-test
             ../../phpstan analyse -l 5 src
 
-          # script: | … next test
+          # script: | # … next test
 
     steps:
-      - name: "Checkout" # checkout of the phpstan repository contains the test-source and a precompiled phar
+      - name: "Checkout"
         uses: actions/checkout@v4
 
       - name: "Install PHP"
@@ -147,7 +146,7 @@ Using such parameters one could easily:
 
 I recently stumbled over a end-to-end test use-case, in which I needed to assert certain error-message within the output of the PHPStan command.
 
-My initial take on the reproducer, which got refined after great review feedback from Ondrey:
+My initial take on the reproducer, which got refined after great review feedback from Ondřej:
 
 ```bash
 cd e2e/trait-caching
