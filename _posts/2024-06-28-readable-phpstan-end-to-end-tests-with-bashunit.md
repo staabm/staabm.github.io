@@ -139,7 +139,7 @@ Using such parameters one could easily:
 - …
 
 
-### Adding `bashunit` to the mix
+### Utilize `bashunit` in end-to-end tests
 
 I recently stumbled over a end-to-end test use-case, in which I needed to assert certain error-message within the output of the PHPStan command.
 
