@@ -23,7 +23,7 @@ NOTE: This post is only about end-to-end tests, not about unit tests or integrat
 
 ### What's a end-to-end test?
 
-In the context of this article a PHPStan end-to-end test runs the compiled phar-file on the command line
+In the context of this article a PHPStan end-to-end test runs a previously compiled phar-file on the command line
 and asserts expectations based on the cli exit-code or the generated command output.
 
 Example:
