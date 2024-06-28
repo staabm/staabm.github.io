@@ -84,6 +84,10 @@ jobs:
 ```
 
 Each end-to-end test in this case is a simple directory, which can contain anything a regular project could contain, like a `composer.json`, a `phpstan.neon` or a `phpunit.xml.dist` file.
+It means we can reproduce real world issue, which PHPStan users might face. Even if they only happen combined with other tools.
+
+This setup also works for any other tool which has a command line interface.
+
 For inspiration: Any [subfolder below `e2e/` in the PHPStan repository](https://github.com/phpstan/phpstan/tree/1.11.x/e2e) represents a single end-to-end test.
 
 
