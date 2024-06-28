@@ -193,4 +193,4 @@ echo "$OUTPUT"
 
 ### Support my open source work
 
-In case this article was useful, or you want to honor the effort I put into one of the hundreds of pull-requests to PHPStan, please [considering sponsoring my open-source efforts](https://github.com/sponsors/staabm).
+In case this article was useful, or you want to honor the effort I put into one of the hundreds of pull-requests to PHPStan, please [considering sponsoring my open-source efforts 💕](https://github.com/sponsors/staabm).
