@@ -41,7 +41,7 @@ As soon as a single command exits with a non-zero exit-code, the GitHub Action w
 ### GitHub Action based "data-provider"
 
 Putting such a test into a GitHub Action is a great way to run it in a controlled environment.
-Every action run is isolated from other depending on your GitHub pricing-plan the runner environment will execute even hundreds of these tests in parallel:
+Every action run is isolated from others and depending on your GitHub pricing-plan the runner environment will execute even hundreds of these tests in parallel:
 
 ```
 name: "E2E Tests"
@@ -77,7 +77,7 @@ jobs:
           php-version: "8.1"
 
       - name: "Test"
-        run: ${{ matrix.script }}
+        run: {% raw %}${{ matrix.script }}{% endraw %}
 ```
 
 Each end-to-end test in this case is a simple directory, which can contain anything a regular project could contain, like a `composer.json`, a `phpstan.neon` or a `phpunit.xml.dist` file.
@@ -123,10 +123,10 @@ jobs:
         uses: "shivammathur/setup-php@v2"
         with:
           coverage: "none"
-          php-version: "${{ matrix.php-version }}"
+          php-version: "{% raw %}${{ matrix.php-version }}{% endraw %}"
 
       - name: "Test"
-        run: ${{ matrix.script }}
+        run: {% raw %}${{ matrix.script }}{% endraw %}
 ```
 
 Using such parameters one could easily:
