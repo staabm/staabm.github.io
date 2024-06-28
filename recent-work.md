@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [(v)sprintf() can return false on PHP7](https://github.com/phpstan/phpstan-src/pull/3193) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [More precise sprintf() format-arg based return type](https://github.com/phpstan/phpstan-src/pull/3192) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [RegexArrayShapeMatcher - when all groups are optional return a more…](https://github.com/phpstan/phpstan-src/pull/3189) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Simplify SprintfFunctionDynamicReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/3188) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -54,7 +55,6 @@
 - [TypeSpecifier - understand \Composer\Pcre\Preg::match() == 1 same way as === 1](https://github.com/phpstan/phpstan-src/pull/3178) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Added ArrayShapeMatcher 3v4l example](https://github.com/phpstan/phpstan-src/pull/3177) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Skip StringsMatchDynamicReturnTypeExtensionTest on PHP 7.2/7.3](https://github.com/phpstan/phpstan-nette/pull/149) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (6 days ago)
-- [StringsMatchDynamicReturnTypeExtensionTest does not need bleeding edge](https://github.com/phpstan/phpstan-nette/pull/148) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
