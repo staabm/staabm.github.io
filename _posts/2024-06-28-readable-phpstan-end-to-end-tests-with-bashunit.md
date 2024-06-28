@@ -43,7 +43,7 @@ As soon as a single command exits with a non-zero exit-code, the GitHub Action w
 Putting such a test into a GitHub Action is a great way to run it in a controlled environment.
 Every action run is isolated from others and depending on your GitHub pricing-plan the runner environment will execute even hundreds of these tests in parallel:
 
-```
+```yaml
 name: "E2E Tests"
 
 on:
@@ -86,7 +86,7 @@ For inspiration: Any [subfolder below `e2e/` in the PHPStan repository](https://
 
 Since we are using a regular [GitHub Action matrix](https://docs.github.com/en/actions/using-jobs/using-a-matrix-for-your-jobs) in this scenario, we can easily add more test-parameters to the mixed to cover other use-cases:
 
-```
+```yaml
 name: "E2E Tests"
 
 on:
@@ -142,7 +142,7 @@ I recently stumbled over a end-to-end test use-case, in which I needed to assert
 
 My initial take on the reproducer was:
 
-```
+```bash
 cd e2e/trait-caching
 ../../bin/phpstan analyze --no-progress --level 8 --error-format raw data/
 patch -b data/TraitOne.php < TraitOne.patch
@@ -160,7 +160,7 @@ This particular test had a few problem, which make them hard to read, especially
 
 In the next iteration to improve the test, I added a small [`assert.sh` wrapper script](https://github.com/phpstan/phpstan-src/blob/51fe9c57222b3040368d4c3e2fa397d6ae1580ef/e2e/assert.sh) around `bashunit`, which allowed us to call the bashunit-assertion functions from the cli:
 
-```
+```bash
 cd e2e/trait-caching
 ../../bin/phpstan analyze --no-progress --level 8 --error-format raw data/
 patch -b data/TraitOne.php < TraitOne.patch
@@ -177,7 +177,7 @@ They also liked the `assert.sh` script so much, that they natively integrated th
 
 So the final test-case in the end looks like:
 
-```
+```bash
 cd e2e/trait-caching
 ../../bin/phpstan analyze --no-progress --level 8 --error-format raw data/
 patch -b data/TraitOne.php < TraitOne.patch
