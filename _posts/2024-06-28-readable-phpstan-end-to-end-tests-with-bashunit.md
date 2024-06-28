@@ -19,7 +19,8 @@ The design and initial implemenation - as far as I know - has been done by Ondř
 I don't know any other project doing end-to-end tests the way it is done in PHPStan.
 Since I have recently added [`bashunit`](https://bashunit.typeddevs.com/) to the end-to-end tests, I wanted to share some insights and the benefits of this approach.
 
-NOTE: This post is only about end-to-end tests, not about unit tests or integration tests which would require a largely different setup.
+NOTE: This post is only about end-to-end tests, not about unit tests or integration tests which would require a largely different setup. 
+Also it is not about promoting this approach or comparing it against other mechanisms to implement end-to-end tests.
 
 ### What's a end-to-end test?
 
