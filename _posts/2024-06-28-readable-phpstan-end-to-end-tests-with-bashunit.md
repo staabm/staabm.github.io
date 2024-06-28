@@ -87,7 +87,7 @@ Each end-to-end test in this case is a simple directory, which can contain anyth
 For inspiration: Any [subfolder below `e2e/` in the PHPStan repository](https://github.com/phpstan/phpstan/tree/1.11.x/e2e) represents a single end-to-end test.
 
 
-Since we are using a regular [GitHub Action matrix](https://docs.github.com/en/actions/using-jobs/using-a-matrix-for-your-jobs) in this scenario, we can easily add more test-parameters to the mixed to cover other use-cases:
+Since we are using a regular [GitHub Action matrix](https://docs.github.com/en/actions/using-jobs/using-a-matrix-for-your-jobs) in this scenario, we can easily add more test-parameters to the mix to cover other use-cases:
 
 ```yaml
 name: "E2E Tests"
