@@ -143,7 +143,7 @@ Using such parameters one could easily:
 
 I recently stumbled over a end-to-end test use-case, in which I needed to assert certain error-message within the output of the PHPStan command.
 
-My initial take on the reproducer was:
+My initial take on the reproducer was, which got refined after great review feedback from Ondrey:
 
 ```bash
 cd e2e/trait-caching
@@ -155,10 +155,10 @@ echo "$OUTPUT"
 grep 'Method TraitsCachingIssue\\TestClassUsingTrait::doBar() should return stdClass but returns Exception.' <<< "$OUTPUT"
 ```
 
-This particular test had a few problem, which make them hard to read, especially for people not used to bash.
+This particular test - while working correctly - had a few problems, which make it hard to read, especially for people not used to bash.
 - what is `[ $(echo "$OUTPUT" | wc -l) -eq 1 ]` doing?
 - PHPStan error messages contain all kind of characters, and some of them need special escaping in bash - e.g. doubling the `\`.
-- the `grep` command using input redirection with `<<< "$OUTPUT"`, which handles multi line strings looks strange for the untrained eye.
+- the `grep` command using input redirection with `<<< "$OUTPUT"`, which handles multi-line strings looks strange for the untrained eye.
 
 
 In the next iteration to improve the test, I added a small [`assert.sh` wrapper script](https://github.com/phpstan/phpstan-src/blob/51fe9c57222b3040368d4c3e2fa397d6ae1580ef/e2e/assert.sh) around `bashunit`, which allowed us to call the bashunit-assertion functions from the cli:
