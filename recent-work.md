@@ -17,11 +17,11 @@
 
 #### 📜 My recent blog posts
 
+- [Readable end-to-end tests for PHPStan with bashunit](https://staabm.github.io/2024/06/28/readable-phpstan-end-to-end-tests-with-bashunit.html) (today)
 - [Sponsored PHPStan feature: require-extends and require-implements phpDoc](https://staabm.github.io/2024/01/15/phpstan-require-extends-implements.html) (5 months ago)
 - [Published: Open source contributions statistics generator](https://staabm.github.io/2024/01/10/oss-contribs-published.html) (5 months ago)
 - [PHPStan tailored to your needs](https://staabm.github.io/2024/01/01/phpstan-customizing.html) (5 months ago)
 - [Published: phpstan-todo-by](https://staabm.github.io/2023/12/17/phpstan-todo-by-published.html) (6 months ago)
-- [Contribution Summary 2023](https://staabm.github.io/2023/12/07/contribution-summary-2023.html) (6 months ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
