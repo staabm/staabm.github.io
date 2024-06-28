@@ -147,7 +147,7 @@ Using such parameters one could easily:
 
 I recently stumbled over a end-to-end test use-case, in which I needed to assert certain error-message within the output of the PHPStan command.
 
-My initial take on the reproducer was, which got refined after great review feedback from Ondrey:
+My initial take on the reproducer, which got refined after great review feedback from Ondrey:
 
 ```bash
 cd e2e/trait-caching
