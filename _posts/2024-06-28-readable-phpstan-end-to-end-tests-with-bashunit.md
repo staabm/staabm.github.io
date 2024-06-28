@@ -37,6 +37,9 @@ composer install # install test-dependencies
 When these commands are executed within a GitHub Action, the test is considered successful when all commands exit with a `0` exit-code.
 As soon as a single command exits with a non-zero exit-code, the GitHub Action will stop executing and report an error - similar to how `set -e` works in bash scripts.
 
+The PHPStan analyze command will return a non-zero exit-code when errors are found or internal errors happen.
+When the PHPStan analyze command ends without errors a `0` exit-code is returned.
+
 
 ### GitHub Action based "data-provider"
 
