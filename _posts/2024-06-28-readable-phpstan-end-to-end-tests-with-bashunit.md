@@ -67,7 +67,7 @@ jobs:
             composer install # install the tests' dependencies
             ../../phpstan analyse -l 5 src # run the precompiled PHPStan
 
-          # script: | # … next test
+          # … next test
 
     steps:
       - name: "Checkout" # checkout of the phpstan repository contains the test-source and a precompiled phar
@@ -120,7 +120,7 @@ jobs:
             cd e2e/another-test
             ../../phpstan analyse -l 5 src
 
-          # script: | # … next test
+         # … next test
 
     steps:
       - name: "Checkout"
@@ -137,7 +137,7 @@ jobs:
 ```
 
 Using such parameters one could easily:
-- use a different operating system per test
+- use a different operating system per test (nowadays bash even works on windows)
 - use different PHP versions per test
 - use different PHP extensions per test
 - …
@@ -163,6 +163,7 @@ This particular test - while working correctly - had a few problems, which make 
 - what is `[ $(echo "$OUTPUT" | wc -l) -eq 1 ]` doing?
 - PHPStan error messages contain all kind of characters, and some of them need special escaping in bash - e.g. doubling the `\`.
 - the `grep` command using input redirection with `<<< "$OUTPUT"`, which handles multi-line strings looks strange for the untrained eye.
+- making bash scripts work across macOS, linux and windows sometimes requires ugly hacks
 
 
 In the next iteration to improve the test, I added a small [`assert.sh` wrapper script](https://github.com/phpstan/phpstan-src/blob/51fe9c57222b3040368d4c3e2fa397d6ae1580ef/e2e/assert.sh) around `bashunit`, which allowed us to call the bashunit-assertion functions from the cli:
@@ -193,6 +194,8 @@ echo "$OUTPUT"
 ../bashunit -a line_count 1 "$OUTPUT"
 ../bashunit -a contains 'Method TraitsCachingIssue\TestClassUsingTrait::doBar() should return stdClass but returns Exception.' "$OUTPUT"
 ```
+
+Using `bashunit` the tests get pretty easy to read and also remove the need for most operating system specific workarounds.
 
 
 ### Support my open source work
