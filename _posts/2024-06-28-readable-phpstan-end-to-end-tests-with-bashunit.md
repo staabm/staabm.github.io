@@ -180,7 +180,7 @@ echo "$OUTPUT"
 Note the easily readable assertions without the need to escape certain characters.
 
 At this point we got in contact with the `bashunit` maintainers, which immediately helped us with a few problems in the initial setup.
-They also liked the `assert.sh` script so much, that they natively integrated the feature natively into `bashunit` as of version 0.13 ([Release Post](https://bashunit.typeddevs.com/blog/2024-06-21-phpstan-integration)).
+They also liked the `assert.sh` script so much, that they integrated the feature natively into `bashunit` as of version 0.13 ([Release Post](https://bashunit.typeddevs.com/blog/2024-06-21-phpstan-integration)).
 
 So the final test-case in the end looks like:
 
