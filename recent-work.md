@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/3198) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Use early-returns in TypeCombinator](https://github.com/phpstan/phpstan-src/pull/3197) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update 2024-06-28-readable-phpstan-end-to-end-tests-with-bashunit.md](https://github.com/staabm/staabm.github.io/pull/112) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [Fix variable certainty in lists](https://github.com/phpstan/phpstan-src/pull/3194) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [(v)sprintf() can return false on PHP7](https://github.com/phpstan/phpstan-src/pull/3193) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -53,8 +55,6 @@
 - [RegexArrayShapeMatcher: fix nested capturing counting](https://github.com/phpstan/phpstan-src/pull/3184) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [More precise `getimagesize*` return type](https://github.com/phpstan/phpstan-src/pull/3183) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Use stable bashunit 0.13.0](https://github.com/phpstan/phpstan-src/pull/3181) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [RegexArrayShapeMatcher: Test pattern of union type](https://github.com/phpstan/phpstan-src/pull/3180) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [TypeSpecifier - understand \Composer\Pcre\Preg::match() == 1 same way as === 1](https://github.com/phpstan/phpstan-src/pull/3178) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
