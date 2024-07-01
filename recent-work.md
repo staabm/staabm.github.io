@@ -59,6 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.2](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.2) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.6](https://github.com/phpstan/phpstan/releases/tag/1.11.6) (today)
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [5.0.0](https://github.com/Smile-SA/gdpr-dump/releases/tag/5.0.0) (today)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.2.1](https://github.com/doctrine/orm/releases/tag/3.2.1) (4 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.5](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.5) (5 days ago)
@@ -67,5 +69,3 @@
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.13.0](https://github.com/TypedDevs/bashunit/releases/tag/0.13.0) (1 week ago)
 - [infection/infection](https://github.com/infection/infection) - [0.29.6](https://github.com/infection/infection/releases/tag/0.29.6) (1 week ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.6.0](https://github.com/briannesbitt/Carbon/releases/tag/3.6.0) (1 week ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.2.5](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.5) (1 week ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.25.0](https://github.com/vimeo/psalm/releases/tag/5.25.0) (1 week ago)
