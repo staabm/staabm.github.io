@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [5.0.0](https://github.com/Smile-SA/gdpr-dump/releases/tag/5.0.0) (today)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.2.1](https://github.com/doctrine/orm/releases/tag/3.2.1) (4 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.5](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.5) (5 days ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.6.5](https://github.com/lucatume/wp-browser/releases/tag/3.6.5) (5 days ago)
@@ -68,4 +69,3 @@
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.6.0](https://github.com/briannesbitt/Carbon/releases/tag/3.6.0) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.2.5](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.5) (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.25.0](https://github.com/vimeo/psalm/releases/tag/5.25.0) (1 week ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.39.0](https://github.com/Roave/BetterReflection/releases/tag/6.39.0) (1 week ago)
