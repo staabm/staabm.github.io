@@ -7,11 +7,11 @@
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (1 week ago)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (2 weeks ago)
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) (2 weeks ago)
+- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (2 weeks ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 month ago)
 
 
