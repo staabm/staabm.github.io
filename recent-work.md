@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [RegexArrayShapeMatcher - Narrow types in alternation of top level capturing groups](https://github.com/phpstan/phpstan-src/pull/3202) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [TypeCombinator: Don&#39;t combine array-shapes of lists with non-lists](https://github.com/phpstan/phpstan-src/pull/3201) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3198) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Use early-returns in TypeCombinator](https://github.com/phpstan/phpstan-src/pull/3197) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Implement TypeSpecifierComparisonContext](https://github.com/phpstan/phpstan-src/pull/3185) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Fix build](https://github.com/phpstan/phpstan-nette/pull/151) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [RegexArrayShapeMatcher: fix nested capturing counting](https://github.com/phpstan/phpstan-src/pull/3184) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [More precise `getimagesize*` return type](https://github.com/phpstan/phpstan-src/pull/3183) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
