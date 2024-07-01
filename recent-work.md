@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (6 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (1 week ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
@@ -17,7 +17,7 @@
 
 #### 📜 My recent blog posts
 
-- [Readable end-to-end tests for PHPStan with bashunit](https://staabm.github.io/2024/06/28/readable-phpstan-end-to-end-tests-with-bashunit.html) (2 days ago)
+- [Readable end-to-end tests for PHPStan with bashunit](https://staabm.github.io/2024/06/28/readable-phpstan-end-to-end-tests-with-bashunit.html) (3 days ago)
 - [Sponsored PHPStan feature: require-extends and require-implements phpDoc](https://staabm.github.io/2024/01/15/phpstan-require-extends-implements.html) (5 months ago)
 - [Published: Open source contributions statistics generator](https://staabm.github.io/2024/01/10/oss-contribs-published.html) (5 months ago)
 - [PHPStan tailored to your needs](https://staabm.github.io/2024/01/01/phpstan-customizing.html) (6 months ago)
@@ -30,7 +30,7 @@
 - [peterfox](https://github.com/peterfox) (3 months ago)
 - [maks-rafalko](https://github.com/maks-rafalko) (3 months ago)
 - [annervisser](https://github.com/annervisser) (3 months ago)
-- [getsentry](https://github.com/getsentry) (8 months ago)
+- [getsentry](https://github.com/getsentry) (9 months ago)
 - [eliashaeussler](https://github.com/eliashaeussler) (9 months ago)
 - [DaveLiddament](https://github.com/DaveLiddament) (1 year ago)
 - [SecuMailer](https://github.com/SecuMailer) (1 year ago)
@@ -40,29 +40,29 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/3198) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Use early-returns in TypeCombinator](https://github.com/phpstan/phpstan-src/pull/3197) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Update 2024-06-28-readable-phpstan-end-to-end-tests-with-bashunit.md](https://github.com/staabm/staabm.github.io/pull/112) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
-- [Fix variable certainty in lists](https://github.com/phpstan/phpstan-src/pull/3194) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [(v)sprintf() can return false on PHP7](https://github.com/phpstan/phpstan-src/pull/3193) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [More precise sprintf() format-arg based return type](https://github.com/phpstan/phpstan-src/pull/3192) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [RegexArrayShapeMatcher - when all groups are optional return a more…](https://github.com/phpstan/phpstan-src/pull/3189) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Simplify SprintfFunctionDynamicReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/3188) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Refactor SprintfFunctionDynamicReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/3187) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Forbid _HumbugBox prefixed classes](https://github.com/phpstan/phpstan-src/pull/3186) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Implement TypeSpecifierComparisonContext](https://github.com/phpstan/phpstan-src/pull/3185) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Fix build](https://github.com/phpstan/phpstan-nette/pull/151) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (6 days ago)
-- [RegexArrayShapeMatcher: fix nested capturing counting](https://github.com/phpstan/phpstan-src/pull/3184) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [More precise `getimagesize*` return type](https://github.com/phpstan/phpstan-src/pull/3183) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/3198) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Use early-returns in TypeCombinator](https://github.com/phpstan/phpstan-src/pull/3197) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Update 2024-06-28-readable-phpstan-end-to-end-tests-with-bashunit.md](https://github.com/staabm/staabm.github.io/pull/112) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
+- [Fix variable certainty in lists](https://github.com/phpstan/phpstan-src/pull/3194) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [(v)sprintf() can return false on PHP7](https://github.com/phpstan/phpstan-src/pull/3193) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [More precise sprintf() format-arg based return type](https://github.com/phpstan/phpstan-src/pull/3192) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [RegexArrayShapeMatcher - when all groups are optional return a more…](https://github.com/phpstan/phpstan-src/pull/3189) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Simplify SprintfFunctionDynamicReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/3188) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Refactor SprintfFunctionDynamicReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/3187) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Forbid _HumbugBox prefixed classes](https://github.com/phpstan/phpstan-src/pull/3186) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Implement TypeSpecifierComparisonContext](https://github.com/phpstan/phpstan-src/pull/3185) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Fix build](https://github.com/phpstan/phpstan-nette/pull/151) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
+- [RegexArrayShapeMatcher: fix nested capturing counting](https://github.com/phpstan/phpstan-src/pull/3184) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [More precise `getimagesize*` return type](https://github.com/phpstan/phpstan-src/pull/3183) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Use stable bashunit 0.13.0](https://github.com/phpstan/phpstan-src/pull/3181) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/orm](https://github.com/doctrine/orm) - [3.2.1](https://github.com/doctrine/orm/releases/tag/3.2.1) (3 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.5](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.5) (4 days ago)
-- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.6.5](https://github.com/lucatume/wp-browser/releases/tag/3.6.5) (4 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.17](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.17) (5 days ago)
+- [doctrine/orm](https://github.com/doctrine/orm) - [3.2.1](https://github.com/doctrine/orm/releases/tag/3.2.1) (4 days ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.5](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.5) (5 days ago)
+- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.6.5](https://github.com/lucatume/wp-browser/releases/tag/3.6.5) (5 days ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.17](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.17) (6 days ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.13.0](https://github.com/TypedDevs/bashunit/releases/tag/0.13.0) (1 week ago)
 - [infection/infection](https://github.com/infection/infection) - [0.29.6](https://github.com/infection/infection/releases/tag/0.29.6) (1 week ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.6.0](https://github.com/briannesbitt/Carbon/releases/tag/3.6.0) (1 week ago)
