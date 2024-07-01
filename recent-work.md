@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.1.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.1.0) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.2](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.2) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.6](https://github.com/phpstan/phpstan/releases/tag/1.11.6) (today)
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [5.0.0](https://github.com/Smile-SA/gdpr-dump/releases/tag/5.0.0) (today)
@@ -68,4 +69,3 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.17](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.17) (6 days ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.13.0](https://github.com/TypedDevs/bashunit/releases/tag/0.13.0) (1 week ago)
 - [infection/infection](https://github.com/infection/infection) - [0.29.6](https://github.com/infection/infection/releases/tag/0.29.6) (1 week ago)
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.6.0](https://github.com/briannesbitt/Carbon/releases/tag/3.6.0) (1 week ago)
