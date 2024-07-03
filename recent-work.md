@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Faster EnumCaseObjectType-&gt;describe()](https://github.com/phpstan/phpstan-src/pull/3208) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix typo in ObjectType](https://github.com/phpstan/phpstan-src/pull/3206) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Faster ObjectType-&gt;getEnumCases() type substraction](https://github.com/phpstan/phpstan-src/pull/3204) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Faster ObjectType-&gt;getEnumCases()](https://github.com/phpstan/phpstan-src/pull/3203) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [RegexArrayShapeMatcher - when all groups are optional return a more…](https://github.com/phpstan/phpstan-src/pull/3189) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Simplify SprintfFunctionDynamicReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/3188) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Refactor SprintfFunctionDynamicReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/3187) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Forbid _HumbugBox prefixed classes](https://github.com/phpstan/phpstan-src/pull/3186) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
