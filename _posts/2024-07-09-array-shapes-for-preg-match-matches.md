@@ -92,6 +92,7 @@ You can find what was needed to get this working in the related classes: [RegexA
 At this point the [implementation got simpler](https://github.com/phpstan/phpstan-src/pull/3184) because we no longer had this hybrid thing.
 
 Ondřej was also pretty happy about that:
+
 [<img width="658" alt="grafik" src="https://github.com/phpstan/phpstan-src/assets/120441/aa4a81c3-6dca-457e-b7fb-dc1642a75c0e">](https://github.com/phpstan/phpstan-src/pull/3184#issuecomment-2188728831)
 
 
