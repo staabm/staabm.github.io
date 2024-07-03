@@ -4,8 +4,8 @@
 #### 💻 Check out what I'm currently working on
 
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix count() narrowing on $matches](https://github.com/phpstan/phpstan-src/pull/3210) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Create 2024-07-07-array-shapes-for-preg-match-matches.md](https://github.com/staabm/staabm.github.io/pull/113) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Faster EnumCaseObjectType-&gt;describe()](https://github.com/phpstan/phpstan-src/pull/3208) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix typo in ObjectType](https://github.com/phpstan/phpstan-src/pull/3206) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [(v)sprintf() can return false on PHP7](https://github.com/phpstan/phpstan-src/pull/3193) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [More precise sprintf() format-arg based return type](https://github.com/phpstan/phpstan-src/pull/3192) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [RegexArrayShapeMatcher - when all groups are optional return a more…](https://github.com/phpstan/phpstan-src/pull/3189) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Simplify SprintfFunctionDynamicReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/3188) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
