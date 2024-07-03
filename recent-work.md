@@ -59,6 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [6.1.3](https://github.com/sebastianbergmann/exporter/releases/tag/6.1.3) (today)
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [7.2.0](https://github.com/sebastianbergmann/environment/releases/tag/7.2.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.178](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.178) (1 day ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.1.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.1.0) (2 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.2](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.2) (2 days ago)
@@ -67,5 +69,3 @@
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.2.1](https://github.com/doctrine/orm/releases/tag/3.2.1) (6 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.5](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.5) (1 week ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.6.5](https://github.com/lucatume/wp-browser/releases/tag/3.6.5) (1 week ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.17](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.17) (1 week ago)
-- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.13.0](https://github.com/TypedDevs/bashunit/releases/tag/0.13.0) (1 week ago)
