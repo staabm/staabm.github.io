@@ -5,7 +5,7 @@ tags:
 image: "images/og-images/array-shape-for-preg-match-matches.jpg"
 
 ogImage:
-    title: "The journey to precise $matches array-shapes for preg_match()"
+    title: "The journey to precise $matches array-shapes for preg_match() in PHPStan"
     imageUrl: "https://staabm.github.io/staabm.svg"
     fileName: "array-shape-for-preg-match-matches"
 ---
