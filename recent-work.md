@@ -59,6 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.2.6](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.6) (today)
+- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - [6.0.2](https://github.com/sebastianbergmann/recursion-context/releases/tag/6.0.2) (today)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [6.1.3](https://github.com/sebastianbergmann/exporter/releases/tag/6.1.3) (today)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [7.2.0](https://github.com/sebastianbergmann/environment/releases/tag/7.2.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.178](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.178) (1 day ago)
@@ -67,5 +69,3 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.6](https://github.com/phpstan/phpstan/releases/tag/1.11.6) (2 days ago)
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [5.0.0](https://github.com/Smile-SA/gdpr-dump/releases/tag/5.0.0) (2 days ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.2.1](https://github.com/doctrine/orm/releases/tag/3.2.1) (6 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.5](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.5) (1 week ago)
-- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.6.5](https://github.com/lucatume/wp-browser/releases/tag/3.6.5) (1 week ago)
