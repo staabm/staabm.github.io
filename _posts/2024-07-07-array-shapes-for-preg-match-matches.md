@@ -5,7 +5,7 @@ tags:
 image: "images/og-images/array-shape-for-preg-match-matches.jpg"
 
 ogImage:
-    title: "The journey to precise $matches array-shapes for preg_match() in PHPStan"
+    title: "The journey to precise $matches for preg_match() in PHPStan"
     imageUrl: "https://staabm.github.io/staabm.svg"
     fileName: "array-shape-for-preg-match-matches"
 ---
@@ -75,11 +75,11 @@ In the end we decided to go with the AST parsing, since it was more reliable and
 ### Which capturing groups are optional/conditional? / How do the capturing groups relate to the array-shape of `$matches`?
 
 In early prototype stage I had implemented a hybrid approach between the regex pattern hack and the AST parsing.
-We used the AST to identify which capturing groups would be contained and pattern hack with `PREG_UNMATCHED_AS_NULL` to get an idea of the optional/conditional groups.
+We used the AST to identify which capturing groups would be contained and the pattern hack with `PREG_UNMATCHED_AS_NULL` to get an idea of the optional/conditional groups.
 `PREG_UNMATCHED_AS_NULL` started [working properly in PHP 7.4](https://www.php.net/manual/en/migration74.incompatible.php#migration74.incompatible.pcre), so this was another problem to solve.
 
 Later I re-implemented the optional/conditional capturing group detection with plain AST based logic, which was a hell of a ride on its own.
-The main quest was to figure out when `preg_match` would leave out capturing group from `$matches` (trailling optional groups) and how to properly structure the shape,
+The main quest was to figure out when `preg_match` would leave out capturing group from `$matches` (trailing optional groups) and how to properly structure the shape,
 when optional capturing groups are involved before mandatory capturing groups.
 Additionally, it's not that easy to figure out, when a capturing group is optional or conditional.
 A group might be part of a alternation like `(?:(\d)|(\w))` or `(?:(\d)|(\w)|no-group)`.
