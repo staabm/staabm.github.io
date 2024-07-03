@@ -64,7 +64,7 @@ One of the easier questions at first sight, since the initial requester of the a
 I went with this hack for a few months and moved along.
 
 While adding more and more test-cases with different patterns, we realized that the hack was not reliable.
-It needed a few tweaks to also work with named capturing.
+It needed a few tweaks to also work with named capturing. It does not work consistently across PHP versions.
 
 As an alternative I started playing around with [`Hoa\Regex`](https://github.com/hoaproject/Regex), a library already contained in PHPStan to build a abstract syntax tree (AST) for regex patterns.
 It's the only library I could find in the PHP ecosystem suitable for this task. An additional complication is, that this library is not maintained anymore and has a few bugs.
