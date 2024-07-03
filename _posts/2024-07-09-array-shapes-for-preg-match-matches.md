@@ -22,9 +22,9 @@ How does the `$matches` array look like after a `preg_match` call?
 function doFoo(string $s): void {
     if (preg_match('/(?:(a)(\d))?(c)(\s)*/', $s, $matches)) {
         // how can $matches look like at this line?
-	} else {
+    } else {
         // how can $matches look like at this line?
-	}
+    }
     // how can $matches look like at this line?
 }
 ```
@@ -112,9 +112,9 @@ Let's have a look back at our initial example:
 function doFoo(string $s): void {
     if (preg_match('/(?:(a)(\d))?(c)(\s)*/', $s, $matches)) {
         // (a) how can $matches look like at this line?
-	} else {
+    } else {
         // (b) how can $matches look like at this line?
-	}
+    }
     // (c) how can $matches look like at this line?
 }
 ```
@@ -130,12 +130,12 @@ function doFoo(string $s): void {
     if (preg_match('/(?:(a)(\d))?(c)(\s)*/', $s, $matches)) {
         // (a)
         assertType('array{0: string, 1: string, 2: string, 3: string, 4?: string}', $matches);
-	} else {
-	    // (b)
+    } else {
+        // (b)
         assertType('array{}', $matches);
-	}
-	// (c)
-	assertType('array{}|array{0: string, 1: string, 2: string, 3: string, 4?: string}', $matches);
+    }
+    // (c)
+    assertType('array{}|array{0: string, 1: string, 2: string, 3: string, 4?: string}', $matches);
 }
 ```
 
@@ -149,7 +149,8 @@ Alternatively copy the example code, drop it into the [PHPStan online playground
 In an early prototype I was using ony a [TypeSpecifyingExtension](https://phpstan.org/developing-extensions/type-specifying-extensions) to override the type of `$matches`. This lead to some consequential problems though.
 TypeSpecifyingExtension are meant to narrow an existing type for the if-branch and/or the else-branch. It will not change the types after the if/else construct though.
 
-We had to come up with a new type of PHPStan extension, because up to this point in time a `param-out` type could only be defined using phpDoc.
+We had to come up with a new type of PHPStan extension to properly handle the by-ref `$matches` argument.
+Up to this point in time a `param-out` type could only be defined using phpDoc.
 So we implemented [ParameterOutTypeExtensions](https://github.com/phpstan/phpstan-src/pull/3083) which allow to define `param-out` types programmatically and in a context-sensitive way.
 
 The idea is, to use a `FunctionParameterOutTypeExtension` to type `$matches` the way the outer scope expects it to be (see `(c)`).
@@ -169,6 +170,7 @@ You might also use this class to build custom extensions for your very own `preg
 ### Future work
 
 For the future is planned to
+- stabilize the implementation to make it general available (without Bleeding Edge)
 - finalize the `composer/pcre` integration
 - use similar type narrowing for `preg_match_all` and maybe other functions
 - [use more precise types](https://github.com/phpstan/phpstan/issues/11222) when possible
