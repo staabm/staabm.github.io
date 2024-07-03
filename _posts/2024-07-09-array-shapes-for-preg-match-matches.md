@@ -58,6 +58,7 @@ Please [considering sponsoring my open-source efforts 💕](https://github.com/s
 
 TL;DR aside, lets dive into it...
 
+
 ### Which capturing groups are contained in the used pattern?
 
 One of the easier questions at first sight, since the initial requester of the above feature provided a [regex pattern hack](https://3v4l.org/sOXbn) which obviously provided this information.
@@ -71,6 +72,7 @@ It's the only library I could find in the PHP ecosystem suitable for this task. 
 To get the AST parsing up to speed, I had to backport a few yet unreleased fixes from the upstream repository and with the support of Michael Voříšek we were able to fix the grammar file so named capturing groups were properly recognized.
 
 In the end we decided to go with the AST parsing, since it was more reliable and also was the only solution which would work consistently for all php versions PHPStan supports.
+
 
 ### Which capturing groups are optional/conditional? / How do the capturing groups relate to the array-shape of `$matches`?
 
@@ -91,6 +93,7 @@ At this point the [implementation got simpler](https://github.com/phpstan/phpsta
 
 Ondřej was also pretty happy about that:
 [<img width="658" alt="grafik" src="https://github.com/phpstan/phpstan-src/assets/120441/aa4a81c3-6dca-457e-b7fb-dc1642a75c0e">](https://github.com/phpstan/phpstan-src/pull/3184#issuecomment-2188728831)
+
 
 ### How can the `$flags` parameter influence the array-shape of `$matches`?
 
@@ -150,6 +153,7 @@ So we implemented [ParameterOutTypeExtensions](https://github.com/phpstan/phpsta
 The idea is, to use a `FunctionParameterOutTypeExtension` to type `$matches` the way the outer scope expects it to be (see `(c)`).
 On top, we use a `FunctionTypeSpecifyingExtension` to narrow this type for the if-branch `(a)` and/or the else-branch `(b)`.
 
+
 ### How to implement this type-inference improving mechanism in a way, that other `preg_match` wrapping libraries could benefit from it?
 
 In the previous chapter we learned what PHPStan needs to ship in its core to support $matches type-inference for the `preg_match` function.
@@ -158,6 +162,15 @@ The mentioned `FunctionParameterOutTypeExtension` and `FunctionTypeSpecifyingExt
 This `RegexArrayShapeMatcher`-class is declared as `@api` which means it is meant for use by other extensions outside the phpstan-src repository.
 We use it to implement the same type [inference capabilities in nette/utils](https://github.com/phpstan/phpstan-nette/commit/3e68a5d7f0be96bb97b3a8770391b23dfdc07c08) or [composer/pcre](https://github.com/composer/pcre/pull/24).
 You might also use this class to build custom extensions for your very own `preg_match`-wrapping API.
+
+
+### Future work
+
+For the future is planned to
+- finalize the `composer/pcre` integration
+- use similar type narrowing for `preg_match_all` and maybe other functions
+- [use more precise types](https://github.com/phpstan/phpstan/issues/11222) when possible
+
 
 ### Support my open source work
 
