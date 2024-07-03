@@ -5,7 +5,7 @@ tags:
 image: "images/og-images/array-shape-for-preg-match-matches.jpg"
 
 ogImage:
-    title: "The journey to precise array-shapes for `preg_match` $matches"
+    title: "The journey to precise $matches array-shapes for preg_match()"
     imageUrl: "https://staabm.github.io/staabm.svg"
     fileName: "array-shape-for-preg-match-matches"
 ---
@@ -53,8 +53,10 @@ Most relevant pull requests along the road were...
 - handling of [top level alternation groups](https://github.com/phpstan/phpstan-src/pull/3202)
 
 Figuring this one out was a joy, sometimes frustrating, and a time-consuming task.
-Its a thing no other static analyzer I am aware of can handle and it will save any PHPStan user fiddling with `preg_match` a lot of time and effort.
+It's a thing no other static analyzer I am aware of can handle and it will save any PHPStan user fiddling with `preg_match` a lot of time and effort.
 Please [considering sponsoring my open-source efforts 💕](https://github.com/sponsors/staabm).
+
+TL;DR aside, lets dive into it...
 
 ### Which capturing groups are contained in the used pattern?
 
