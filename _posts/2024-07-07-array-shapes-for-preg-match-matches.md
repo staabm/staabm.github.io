@@ -134,15 +134,15 @@ function doFoo(string $s): void {
 }
 ```
 
-- In the `(a)` branch, the pattern surely matches, so the array-shape consists of a mix of always-matched and somtimes-matches offsets
+- In the `(a)` branch, the pattern surely matches, so the array-shape consists of a mix of always-matched and sometimes-matched offsets
 - In the `(b)` branch, the pattern surely does not match, so the array-shape is empty
 - In the `(c)` branch, we don't know whether the pattern matched, therefore the array-shape could be empty or a match
 
 
-In a early prototype I was using ony a [TypeSpecifyingExtension](https://phpstan.org/developing-extensions/type-specifying-extensions) to override the type of `$matches`. This lead to some consequential problems though.
-TypeSpecifyingExtension are meant to narrow a type for the if-branch and/or the else-branch. It will not change the types after the if/else construct though.
+In an early prototype I was using ony a [TypeSpecifyingExtension](https://phpstan.org/developing-extensions/type-specifying-extensions) to override the type of `$matches`. This lead to some consequential problems though.
+TypeSpecifyingExtension are meant to narrow an existing type for the if-branch and/or the else-branch. It will not change the types after the if/else construct though.
 
-We had to come up with a new type of extension, because up to this point in time a `param-out` type could only be defined using phpdocs.
+We had to come up with a new type of PHPStan extension, because up to this point in time a `param-out` type could only be defined using phpDoc.
 So we implemented [ParameterOutTypeExtensions](https://github.com/phpstan/phpstan-src/pull/3083) which allow to define `param-out` types programmatically and in a context-sensitive way.
 
 The idea is, to use a `FunctionParameterOutTypeExtension` to type `$matches` the way the outer scope expects it to be (see `(c)`).
