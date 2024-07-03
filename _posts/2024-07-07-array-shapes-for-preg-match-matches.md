@@ -79,10 +79,10 @@ We used the AST to identify which capturing groups would be contained and the pa
 `PREG_UNMATCHED_AS_NULL` started [working properly in PHP 7.4](https://www.php.net/manual/en/migration74.incompatible.php#migration74.incompatible.pcre), so this was another problem to solve.
 
 Later I re-implemented the optional/conditional capturing group detection with plain AST based logic, which was a hell of a ride on its own.
-The main quest was to figure out when `preg_match` would leave out capturing group from `$matches` (trailing optional groups) and how to properly structure the shape,
+The main quest was to figure out when `preg_match` would leave out a capturing group from `$matches` (trailing optional groups) and how to properly structure the shape,
 when optional capturing groups are involved before mandatory capturing groups.
 Additionally, it's not that easy to figure out, when a capturing group is optional or conditional.
-A group might be part of a alternation like `(?:(\d)|(\w))` or `(?:(\d)|(\w)|no-group)`.
+A group might be part of an alternation like `(?:(\d)|(\w))` or `(?:(\d)|(\w)|no-group)`.
 An alternation element might be optional on its own - as in `(?:(\d)*|(\w))` - or the whole alternation might be optional like in `(?:(\d)|(\w))?` - or a mix of all that.
 As you might already imagine the field is pretty complex and doing the regex AST dance properly is quite a challenge.
 
