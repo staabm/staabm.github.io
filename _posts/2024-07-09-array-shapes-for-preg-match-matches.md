@@ -71,10 +71,10 @@ As an alternative I started playing around with [`Hoa\Regex`](https://github.com
 It's the only library I could find in the PHP ecosystem suitable for this task. An additional complication is, that this library is not maintained anymore and has a few bugs.
 To get the AST parsing up to speed, I had to backport a few yet unreleased fixes from the upstream repository and with the support of Michael Voříšek we were able to fix the grammar file so named capturing groups were properly recognized.
 
-In the end we decided to go with the AST parsing, since it was more reliable and also was the only solution which would work consistently for all php versions PHPStan supports.
+In the end we decided to go with the AST parsing, since it was more reliable and also was the only solution which would work consistently for all php versions PHPStan 1.x supports (PHP 7.2+).
 
 
-### Which capturing groups are optional/conditional? / How do the capturing groups relate to the array-shape of `$matches`?
+### Which capturing groups are optional/conditional? How do the capturing groups relate to the array-shape of `$matches`?
 
 In early prototype stage I had implemented a hybrid approach between the regex pattern hack and the AST parsing.
 We used the AST to identify which capturing groups would be contained and the pattern hack with `PREG_UNMATCHED_AS_NULL` to get an idea of the optional/conditional groups.
@@ -89,6 +89,7 @@ An alternation element might be optional on its own - as in `(?:(\d)*|(\w))` - o
 As you might already imagine the field is pretty complex and doing the regex AST dance properly is quite a challenge.
 
 You can find what was needed to get this working in the related classes: [RegexArrayShapeMatcher](https://github.com/phpstan/phpstan-src/blob/f546c37a4da85a7ffb4c0718a01479c690776322/src/Type/Php/RegexArrayShapeMatcher.php), [RegexCapturingGroup](https://github.com/phpstan/phpstan-src/blob/f546c37a4da85a7ffb4c0718a01479c690776322/src/Type/Php/RegexCapturingGroup.php), [RegexNonCapturingGroup](https://github.com/phpstan/phpstan-src/blob/f546c37a4da85a7ffb4c0718a01479c690776322/src/Type/Php/RegexNonCapturingGroup.php).
+
 At this point the [implementation got simpler](https://github.com/phpstan/phpstan-src/pull/3184) because we no longer had this hybrid thing.
 
 Ondřej was also pretty happy about that:
