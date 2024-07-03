@@ -115,7 +115,7 @@ function doFoo(string $s): void {
 ```
 
 One might think getting it resolved should be some kind of already solved puzzle. `preg_match` needs some special treatment though,
-because of the by-ref arg is changing the variable outside the if-branch scope.
+because of the by-ref `$matches` arg is changing the variable outside the if-branch scope.
 See the following example which asserts the expected PHPStan type-inference within the given branches:
 
 ```php
