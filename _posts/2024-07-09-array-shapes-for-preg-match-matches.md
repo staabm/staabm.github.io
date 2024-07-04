@@ -10,10 +10,14 @@ ogImage:
     fileName: "array-shape-for-preg-match-matches"
 ---
 
-### The journey to precise array-shapes for `preg_match` $matches
 
 In August 2023, I started into an adventure which in the end took me 10 months to figure out.
 It's another part about my ongoing efforts to close blind spots in PHPStan's type inference.
+
+I did similar things before with `phpstan-dba`, which implements SQL based [static analysis and type inference for the database access layer](https://staabm.github.io/archive.html#phpstan-dba).
+
+
+### The journey to precise array-shapes for `preg_match` $matches
 
 In its most basic form, we search for the answer to the following question:
 How does the `$matches` array look like after a `preg_match` call?
@@ -31,9 +35,7 @@ function doFoo(string $s): void {
 
 I am not aware of any static analysis tool which is able to figure this out,
 so it kind of was clear that this will take a few experiments and time-consuming research.
-
-Thanks to the great PHPStan community a few other people stopped by and helped me with some super special corner cases.
-Also adding more test-cases to the initial prototype was really helpful to get a high quality implementation in the end.
+Play with the [example in the PHPStan playground](https://phpstan.org/r/c4c1ac4b-93ec-4b67-9ca0-b4aa836c847d).
 
 To explore a possible solution, I had to answer a few questions:
 - Which capturing groups (named vs. unnamed) are contained in the used pattern?
@@ -42,6 +44,9 @@ To explore a possible solution, I had to answer a few questions:
 - How can the `$flags` parameter influence the array-shape of `$matches`?
 - How do the resulting array-shapes flow through the branches of the if-else construct?
 - How to implement this type-inference improving mechanism in a way, that other `preg_match` wrapping libraries could benefit from it (e.g. `composer/pcre`, `nette/utils`)?
+
+Thanks to the great PHPStan community a few other people stopped by and helped me with some super special corner cases.
+Also adding more test-cases to the initial prototype was really helpful to get a high quality implementation in the end.
 
 TL;DR: The feature is already merged into PHPStan starting with 1.11.6 and can be enabled via [Bleeding Edge](https://phpstan.org/blog/what-is-bleeding-edge).
 Most relevant pull requests along the road were...
