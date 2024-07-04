@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix internal error](https://github.com/shipmonk-rnd/dead-code-detector/pull/29) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (today)
 - [Fix count() narrowing on $matches](https://github.com/phpstan/phpstan-src/pull/3210) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Create 2024-07-07-array-shapes-for-preg-match-matches.md](https://github.com/staabm/staabm.github.io/pull/113) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [Faster EnumCaseObjectType-&gt;describe()](https://github.com/phpstan/phpstan-src/pull/3208) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix variable certainty in lists](https://github.com/phpstan/phpstan-src/pull/3194) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [(v)sprintf() can return false on PHP7](https://github.com/phpstan/phpstan-src/pull/3193) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [More precise sprintf() format-arg based return type](https://github.com/phpstan/phpstan-src/pull/3192) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [RegexArrayShapeMatcher - when all groups are optional return a more…](https://github.com/phpstan/phpstan-src/pull/3189) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
