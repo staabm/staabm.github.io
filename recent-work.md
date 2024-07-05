@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: Implement `PHPStan Preg::match()` extensions](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8103) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (today)
 - [fix internal error](https://github.com/shipmonk-rnd/dead-code-detector/pull/29) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (1 day ago)
 - [Fix count() narrowing on $matches](https://github.com/phpstan/phpstan-src/pull/3210) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Create 2024-07-07-array-shapes-for-preg-match-matches.md](https://github.com/staabm/staabm.github.io/pull/113) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
@@ -54,7 +55,6 @@
 - [Update 2024-06-28-readable-phpstan-end-to-end-tests-with-bashunit.md](https://github.com/staabm/staabm.github.io/pull/112) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [Fix variable certainty in lists](https://github.com/phpstan/phpstan-src/pull/3194) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [(v)sprintf() can return false on PHP7](https://github.com/phpstan/phpstan-src/pull/3193) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [More precise sprintf() format-arg based return type](https://github.com/phpstan/phpstan-src/pull/3192) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
