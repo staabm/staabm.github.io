@@ -18,7 +18,7 @@ _This was the first post of the [PHP performance series](https://staabm.github.i
 
 ## Speed it is ⚡️
 
-Since it was likely I had several hours a day in a row available, I decided to focus on PHPStan's performance issues.
+Since I likely had several hours a day in a row available, I decided to focus on PHPStan's performance issues.
 
 So the first step was to find code snippets which are slow with the current PHPStan version.
 Since Ondrej is doing a great job in issue triage, that was rather ease - just look for [the `performance` label](https://github.com/phpstan/phpstan/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3Aperformance).
