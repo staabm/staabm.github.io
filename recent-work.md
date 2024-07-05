@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: Implement `PHPStan Preg::match()` extensions](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8103) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (today)
+- [chore: Implement PHPStan `Preg::match()` extensions](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8103) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (today)
 - [fix internal error](https://github.com/shipmonk-rnd/dead-code-detector/pull/29) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (1 day ago)
 - [Fix count() narrowing on $matches](https://github.com/phpstan/phpstan-src/pull/3210) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Create 2024-07-07-array-shapes-for-preg-match-matches.md](https://github.com/staabm/staabm.github.io/pull/113) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
