@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.7](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.7) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.18](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.18) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.2.6](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.6) (2 days ago)
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - [6.0.2](https://github.com/sebastianbergmann/recursion-context/releases/tag/6.0.2) (2 days ago)
@@ -68,4 +69,3 @@
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.1.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.1.0) (4 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.2](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.2) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.6](https://github.com/phpstan/phpstan/releases/tag/1.11.6) (4 days ago)
-- [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [5.0.0](https://github.com/Smile-SA/gdpr-dump/releases/tag/5.0.0) (4 days ago)
