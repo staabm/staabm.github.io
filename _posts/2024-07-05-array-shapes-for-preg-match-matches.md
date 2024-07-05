@@ -177,6 +177,7 @@ You might also use this class to build custom extensions for your very own `preg
 For the future is planned to
 - stabilize the implementation to make it general available (without Bleeding Edge)
 - finalize the `composer/pcre` integration
+- finalize the PHP-CS-Fixer `Preg::match` integration
 - use similar type narrowing for `preg_match_all` and maybe other functions
 - [use more precise types](https://github.com/phpstan/phpstan/issues/11222) when possible
 
