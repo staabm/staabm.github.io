@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Skip no-isset/no-empty check on possibly undefined variable](https://github.com/rectorphp/type-perfect/pull/32) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
 - [FirstClassCallableRector: link rfc](https://github.com/rectorphp/rector-src/pull/6130) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Prevent out-of-memory errors while regex array shape inference](https://github.com/phpstan/phpstan-src/pull/3213) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [RegexArrayShapeMatcher - support resetting non-capturing groups](https://github.com/phpstan/phpstan-src/pull/3212) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [RegexArrayShapeMatcher - Narrow types in alternation of top level capturing groups](https://github.com/phpstan/phpstan-src/pull/3202) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [TypeCombinator: Don&#39;t combine array-shapes of lists with non-lists](https://github.com/phpstan/phpstan-src/pull/3201) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3198) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Use early-returns in TypeCombinator](https://github.com/phpstan/phpstan-src/pull/3197) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
