@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [php/doc-en](https://github.com/php/doc-en) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -11,7 +12,6 @@
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (2 weeks ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (2 weeks ago)
-- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (3 weeks ago)
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) (3 weeks ago)
 
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [FirstClassCallableRector: link rfc](https://github.com/rectorphp/rector-src/pull/6130) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Prevent out-of-memory errors while regex array shape inference](https://github.com/phpstan/phpstan-src/pull/3213) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [RegexArrayShapeMatcher - support resetting non-capturing groups](https://github.com/phpstan/phpstan-src/pull/3212) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [chore: Implement PHPStan `Preg::match()` extensions](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8103) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (3 days ago)
@@ -54,7 +55,6 @@
 - [TypeCombinator: Don&#39;t combine array-shapes of lists with non-lists](https://github.com/phpstan/phpstan-src/pull/3201) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3198) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Use early-returns in TypeCombinator](https://github.com/phpstan/phpstan-src/pull/3197) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Update 2024-06-28-readable-phpstan-end-to-end-tests-with-bashunit.md](https://github.com/staabm/staabm.github.io/pull/112) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
