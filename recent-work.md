@@ -59,12 +59,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [10.5.26](https://github.com/sebastianbergmann/phpunit/releases/tag/10.5.26) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.179](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.179) (1 day ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.85](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.85) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.7](https://github.com/phpstan/phpstan/releases/tag/1.11.7) (2 days ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.7](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.7) (3 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.18](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.18) (5 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.2.6](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.6) (5 days ago)
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - [6.0.2](https://github.com/sebastianbergmann/recursion-context/releases/tag/6.0.2) (5 days ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [6.1.3](https://github.com/sebastianbergmann/exporter/releases/tag/6.1.3) (5 days ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [7.2.0](https://github.com/sebastianbergmann/environment/releases/tag/7.2.0) (5 days ago)
