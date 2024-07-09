@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 day ago)
+- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [php/doc-en](https://github.com/php/doc-en) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
@@ -11,8 +11,8 @@
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (2 weeks ago)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (3 weeks ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 weeks ago)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [NarrowPublicClassMethodParamTypeRuleTest: Skip array-generics failling test](https://github.com/rectorphp/type-perfect/pull/38) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
 - [NoParamTypeRemovalRule: Skip constructors](https://github.com/rectorphp/type-perfect/pull/37) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
 - [NarrowPublicClassMethodParamTypeRule: Added failling test-case](https://github.com/rectorphp/type-perfect/pull/33) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 day ago)
 - [Skip no-isset/no-empty check on possibly undefined variable](https://github.com/rectorphp/type-perfect/pull/32) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix typo in ObjectType](https://github.com/phpstan/phpstan-src/pull/3206) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Faster ObjectType-&gt;getEnumCases() type substraction](https://github.com/phpstan/phpstan-src/pull/3204) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Faster ObjectType-&gt;getEnumCases()](https://github.com/phpstan/phpstan-src/pull/3203) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [RegexArrayShapeMatcher - Narrow types in alternation of top level capturing groups](https://github.com/phpstan/phpstan-src/pull/3202) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
