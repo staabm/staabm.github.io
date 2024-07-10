@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [5.0.1](https://github.com/Smile-SA/gdpr-dump/releases/tag/5.0.1) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [10.5.26](https://github.com/sebastianbergmann/phpunit/releases/tag/10.5.26) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.179](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.179) (3 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.85](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.85) (3 days ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - [6.0.2](https://github.com/sebastianbergmann/recursion-context/releases/tag/6.0.2) (1 week ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [6.1.3](https://github.com/sebastianbergmann/exporter/releases/tag/6.1.3) (1 week ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [7.2.0](https://github.com/sebastianbergmann/environment/releases/tag/7.2.0) (1 week ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.1.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.1.0) (1 week ago)
