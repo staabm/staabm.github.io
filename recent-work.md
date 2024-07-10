@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [RegexArrayShapeMatcher - trailling groups are not optional when PREG_UNMATCHED_AS_NULL](https://github.com/phpstan/phpstan-src/pull/3219) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [NarrowPublicClassMethodParamTypeRuleTest: Skip array-generics failling test](https://github.com/rectorphp/type-perfect/pull/38) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 day ago)
 - [NoParamTypeRemovalRule: Skip constructors](https://github.com/rectorphp/type-perfect/pull/37) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 day ago)
 - [NarrowPublicClassMethodParamTypeRule: Added failling test-case](https://github.com/rectorphp/type-perfect/pull/33) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (2 days ago)
@@ -54,7 +55,6 @@
 - [Faster EnumCaseObjectType-&gt;describe()](https://github.com/phpstan/phpstan-src/pull/3208) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix typo in ObjectType](https://github.com/phpstan/phpstan-src/pull/3206) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Faster ObjectType-&gt;getEnumCases() type substraction](https://github.com/phpstan/phpstan-src/pull/3204) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Faster ObjectType-&gt;getEnumCases()](https://github.com/phpstan/phpstan-src/pull/3203) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
