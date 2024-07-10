@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.2.7](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.7) (today)
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [5.0.1](https://github.com/Smile-SA/gdpr-dump/releases/tag/5.0.1) (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [10.5.26](https://github.com/sebastianbergmann/phpunit/releases/tag/10.5.26) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.179](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.179) (3 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.85](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.85) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.7](https://github.com/phpstan/phpstan/releases/tag/1.11.7) (4 days ago)
