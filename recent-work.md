@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Report useless return values of function calls](https://github.com/phpstan/phpstan-src/pull/3225) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [RegexArrayShapeMatcher - trailling groups are not optional when PREG_UNMATCHED_AS_NULL](https://github.com/phpstan/phpstan-src/pull/3219) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [NarrowPublicClassMethodParamTypeRuleTest: Skip array-generics failling test](https://github.com/rectorphp/type-perfect/pull/38) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (2 days ago)
 - [NoParamTypeRemovalRule: Skip constructors](https://github.com/rectorphp/type-perfect/pull/37) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (2 days ago)
@@ -54,7 +55,6 @@
 - [Create 2024-07-07-array-shapes-for-preg-match-matches.md](https://github.com/staabm/staabm.github.io/pull/113) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [Faster EnumCaseObjectType-&gt;describe()](https://github.com/phpstan/phpstan-src/pull/3208) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix typo in ObjectType](https://github.com/phpstan/phpstan-src/pull/3206) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Faster ObjectType-&gt;getEnumCases() type substraction](https://github.com/phpstan/phpstan-src/pull/3204) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
