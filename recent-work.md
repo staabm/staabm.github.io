@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.86](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.86) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.2.7](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.7) (1 day ago)
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [5.0.1](https://github.com/Smile-SA/gdpr-dump/releases/tag/5.0.1) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.179](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.179) (4 days ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.85](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.85) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.7](https://github.com/phpstan/phpstan/releases/tag/1.11.7) (5 days ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.7](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.7) (6 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.18](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.18) (1 week ago)
