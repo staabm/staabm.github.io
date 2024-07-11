@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [RegexArrayShapeMatcher - Fix optional groups with PREG_UNMATCHED_AS_NULL](https://github.com/phpstan/phpstan-src/pull/3229) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix preg_match named capturing groups](https://github.com/phpstan/phpstan-src/pull/3228) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix error in PregMatchTypeSpecifyingExtension](https://github.com/composer/pcre/pull/28) on [composer/pcre](https://github.com/composer/pcre) (today)
 - [Report useless return values of function calls](https://github.com/phpstan/phpstan-src/pull/3225) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [chore: Implement PHPStan `Preg::match()` extensions](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8103) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (6 days ago)
 - [fix internal error](https://github.com/shipmonk-rnd/dead-code-detector/pull/29) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (1 week ago)
 - [Fix count() narrowing on $matches](https://github.com/phpstan/phpstan-src/pull/3210) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Create 2024-07-07-array-shapes-for-preg-match-matches.md](https://github.com/staabm/staabm.github.io/pull/113) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
