@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix var_export() with missing 2nd return=true arg](https://github.com/PrestaShop/PrestaShop/pull/36540) on [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) (today)
 - [RegexArrayShapeMatcher - Fix optional groups with PREG_UNMATCHED_AS_NULL](https://github.com/phpstan/phpstan-src/pull/3229) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix preg_match named capturing groups](https://github.com/phpstan/phpstan-src/pull/3228) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix error in PregMatchTypeSpecifyingExtension](https://github.com/composer/pcre/pull/28) on [composer/pcre](https://github.com/composer/pcre) (1 day ago)
@@ -54,7 +55,6 @@
 - [RegexArrayShapeMatcher - support resetting non-capturing groups](https://github.com/phpstan/phpstan-src/pull/3212) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [chore: Implement PHPStan `Preg::match()` extensions](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8103) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 week ago)
 - [fix internal error](https://github.com/shipmonk-rnd/dead-code-detector/pull/29) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (1 week ago)
-- [Fix count() narrowing on $matches](https://github.com/phpstan/phpstan-src/pull/3210) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
