@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [RegexArrayShapeMatcher - Support preg_quote()&#39;d patterns](https://github.com/phpstan/phpstan-src/pull/3233) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Improved sprintf() inference](https://github.com/phpstan/phpstan-src/pull/3232) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix var_export() with missing 2nd return=true arg](https://github.com/PrestaShop/PrestaShop/pull/36540) on [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) (1 day ago)
 - [RegexArrayShapeMatcher - Fix optional groups with PREG_UNMATCHED_AS_NULL](https://github.com/phpstan/phpstan-src/pull/3229) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [FirstClassCallableRector: link rfc](https://github.com/rectorphp/rector-src/pull/6130) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 - [Prevent out-of-memory errors while regex array shape inference](https://github.com/phpstan/phpstan-src/pull/3213) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [RegexArrayShapeMatcher - support resetting non-capturing groups](https://github.com/phpstan/phpstan-src/pull/3212) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [chore: Implement PHPStan `Preg::match()` extensions](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8103) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
