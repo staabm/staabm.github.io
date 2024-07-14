@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (5 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
 - [php/doc-en](https://github.com/php/doc-en) (1 week ago)
