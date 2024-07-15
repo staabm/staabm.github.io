@@ -5,12 +5,12 @@
 
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (6 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (3 weeks ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (3 weeks ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (3 weeks ago)
 
