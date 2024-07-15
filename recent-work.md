@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support preg_quote()&#39;d patterns](https://github.com/phpstan/phpstan-nette/pull/152) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
 - [Ignore non-explicit NEVER in purity check](https://github.com/phpstan/phpstan-src/pull/3243) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Support posix character classes in preg_match() inference](https://github.com/phpstan/phpstan-src/pull/3241) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix union-type handling in PublicStaticPropertyFetchCollector](https://github.com/TomasVotruba/unused-public/pull/121) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
@@ -54,7 +55,6 @@
 - [Fix error in PregMatchTypeSpecifyingExtension](https://github.com/composer/pcre/pull/28) on [composer/pcre](https://github.com/composer/pcre) (4 days ago)
 - [Report useless return values of function calls](https://github.com/phpstan/phpstan-src/pull/3225) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [RegexArrayShapeMatcher - trailling groups are not optional when PREG_UNMATCHED_AS_NULL](https://github.com/phpstan/phpstan-src/pull/3219) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [NarrowPublicClassMethodParamTypeRuleTest: Skip array-generics failling test](https://github.com/rectorphp/type-perfect/pull/38) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
