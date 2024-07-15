@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix union-type handling in PublicPropertyFetchCollector](https://github.com/TomasVotruba/unused-public/pull/120) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [RegexArrayShapeMatcher - Fix PREG_UNMATCHED_AS_NULL with top level alternation](https://github.com/phpstan/phpstan-src/pull/3238) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [RegexArrayShapeMatcher - Fix PREG_UNMATCHED_AS_NULL with optional leading groups](https://github.com/phpstan/phpstan-src/pull/3234) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [RegexArrayShapeMatcher - Support preg_quote()&#39;d patterns](https://github.com/phpstan/phpstan-src/pull/3233) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [NoParamTypeRemovalRule: Skip constructors](https://github.com/rectorphp/type-perfect/pull/37) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (6 days ago)
 - [NarrowPublicClassMethodParamTypeRule: Added failling test-case](https://github.com/rectorphp/type-perfect/pull/33) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 week ago)
 - [Skip no-isset/no-empty check on possibly undefined variable](https://github.com/rectorphp/type-perfect/pull/32) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 week ago)
-- [FirstClassCallableRector: link rfc](https://github.com/rectorphp/rector-src/pull/6130) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
