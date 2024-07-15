@@ -3,7 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (6 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [php/doc-en](https://github.com/php/doc-en) (1 week ago)
@@ -11,7 +12,6 @@
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (3 weeks ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (3 weeks ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 weeks ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (3 weeks ago)
 
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix union-type handling in PublicStaticPropertyFetchCollector](https://github.com/TomasVotruba/unused-public/pull/121) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Fix union-type handling in PublicPropertyFetchCollector](https://github.com/TomasVotruba/unused-public/pull/120) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [RegexArrayShapeMatcher - Fix PREG_UNMATCHED_AS_NULL with top level alternation](https://github.com/phpstan/phpstan-src/pull/3238) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [RegexArrayShapeMatcher - Fix PREG_UNMATCHED_AS_NULL with optional leading groups](https://github.com/phpstan/phpstan-src/pull/3234) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [NarrowPublicClassMethodParamTypeRuleTest: Skip array-generics failling test](https://github.com/rectorphp/type-perfect/pull/38) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (6 days ago)
 - [NoParamTypeRemovalRule: Skip constructors](https://github.com/rectorphp/type-perfect/pull/37) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (6 days ago)
 - [NarrowPublicClassMethodParamTypeRule: Added failling test-case](https://github.com/rectorphp/type-perfect/pull/33) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 week ago)
-- [Skip no-isset/no-empty check on possibly undefined variable](https://github.com/rectorphp/type-perfect/pull/32) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
