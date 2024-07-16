@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 week ago)
 - [php/doc-en](https://github.com/php/doc-en) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix ClassConstFetchCollector](https://github.com/TomasVotruba/unused-public/pull/122) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Skip phpdoc types in NumericReturnTypeFromStrictReturnsRector](https://github.com/rectorphp/rector-src/pull/6153) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Refactor RegexArrayShapeMatcher](https://github.com/phpstan/phpstan-src/pull/3248) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Refactor PrintfParametersRule](https://github.com/phpstan/phpstan-src/pull/3247) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,11 +55,11 @@
 - [Improved sprintf() inference](https://github.com/phpstan/phpstan-src/pull/3232) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Fix var_export() with missing 2nd return=true arg](https://github.com/PrestaShop/PrestaShop/pull/36540) on [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) (4 days ago)
 - [RegexArrayShapeMatcher - Fix optional groups with PREG_UNMATCHED_AS_NULL](https://github.com/phpstan/phpstan-src/pull/3229) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Fix preg_match named capturing groups](https://github.com/phpstan/phpstan-src/pull/3228) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.6](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.6) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.88](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.88) (today)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.14.0](https://github.com/TypedDevs/bashunit/releases/tag/0.14.0) (2 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.20](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.20) (3 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.7](https://github.com/phpstan/phpstan/releases/tag/1.11.7) (1 week ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.7](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.7) (1 week ago)
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - [6.0.2](https://github.com/sebastianbergmann/recursion-context/releases/tag/6.0.2) (1 week ago)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [6.1.3](https://github.com/sebastianbergmann/exporter/releases/tag/6.1.3) (1 week ago)
