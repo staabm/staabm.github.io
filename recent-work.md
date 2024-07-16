@@ -3,11 +3,11 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 week ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Skip phpdoc types in NumericReturnTypeFromStrictReturnsRector](https://github.com/rectorphp/rector-src/pull/6153) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [Refactor RegexArrayShapeMatcher](https://github.com/phpstan/phpstan-src/pull/3248) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Refactor PrintfParametersRule](https://github.com/phpstan/phpstan-src/pull/3247) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Support preg_quote()&#39;d patterns](https://github.com/phpstan/phpstan-nette/pull/152) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
 - [Ignore non-explicit NEVER in purity check](https://github.com/phpstan/phpstan-src/pull/3243) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Fix var_export() with missing 2nd return=true arg](https://github.com/PrestaShop/PrestaShop/pull/36540) on [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) (4 days ago)
 - [RegexArrayShapeMatcher - Fix optional groups with PREG_UNMATCHED_AS_NULL](https://github.com/phpstan/phpstan-src/pull/3229) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Fix preg_match named capturing groups](https://github.com/phpstan/phpstan-src/pull/3228) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Fix error in PregMatchTypeSpecifyingExtension](https://github.com/composer/pcre/pull/28) on [composer/pcre](https://github.com/composer/pcre) (5 days ago)
-- [Report useless return values of function calls](https://github.com/phpstan/phpstan-src/pull/3225) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
