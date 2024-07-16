@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.87](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.87) (1 day ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.88](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.88) (today)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.14.0](https://github.com/TypedDevs/bashunit/releases/tag/0.14.0) (2 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.20](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.20) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.2.7](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.7) (6 days ago)
