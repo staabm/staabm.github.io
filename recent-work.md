@@ -5,8 +5,8 @@
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 week ago)
 - [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
