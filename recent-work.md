@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [RegexArrayShapeMatcher - More precise non-empty-string and numeric-string](https://github.com/phpstan/phpstan-src/pull/3249) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix ClassConstFetchCollector](https://github.com/TomasVotruba/unused-public/pull/122) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Skip phpdoc types in NumericReturnTypeFromStrictReturnsRector](https://github.com/rectorphp/rector-src/pull/6153) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Refactor RegexArrayShapeMatcher](https://github.com/phpstan/phpstan-src/pull/3248) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [RegexArrayShapeMatcher - Support preg_quote()&#39;d patterns](https://github.com/phpstan/phpstan-src/pull/3233) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Improved sprintf() inference](https://github.com/phpstan/phpstan-src/pull/3232) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Fix var_export() with missing 2nd return=true arg](https://github.com/PrestaShop/PrestaShop/pull/36540) on [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) (4 days ago)
-- [RegexArrayShapeMatcher - Fix optional groups with PREG_UNMATCHED_AS_NULL](https://github.com/phpstan/phpstan-src/pull/3229) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
