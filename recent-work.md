@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.89](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.89) (today)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.7.0](https://github.com/briannesbitt/Carbon/releases/tag/3.7.0) (2 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.6](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.6) (2 days ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.88](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.88) (2 days ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.14.0](https://github.com/TypedDevs/bashunit/releases/tag/0.14.0) (4 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.20](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.20) (5 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.2.7](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.7) (1 week ago)
