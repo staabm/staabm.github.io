@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [yiisoft/yii2](https://github.com/yiisoft/yii2) - [2.0.51](https://github.com/yiisoft/yii2/releases/tag/2.0.51) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.2.8](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.8) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.89](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.89) (today)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.7.0](https://github.com/briannesbitt/Carbon/releases/tag/3.7.0) (2 days ago)
@@ -68,4 +69,3 @@
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [5.0.1](https://github.com/Smile-SA/gdpr-dump/releases/tag/5.0.1) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.179](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.179) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.7](https://github.com/phpstan/phpstan/releases/tag/1.11.7) (1 week ago)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.7](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.7) (1 week ago)
