@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify RegularExpressionPatternRule](https://github.com/phpstan/phpstan-src/pull/3251) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix build after RegexArrayShapeMatcher improvements](https://github.com/phpstan/phpstan-nette/pull/153) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
 - [Fix pow() return value section](https://github.com/php/doc-en/pull/3575) on [php/doc-en](https://github.com/php/doc-en) (1 day ago)
 - [RegexArrayShapeMatcher - More precise non-empty-string and numeric-string](https://github.com/phpstan/phpstan-src/pull/3249) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Fix union-type handling in PublicPropertyFetchCollector](https://github.com/TomasVotruba/unused-public/pull/120) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
 - [RegexArrayShapeMatcher - Fix PREG_UNMATCHED_AS_NULL with top level alternation](https://github.com/phpstan/phpstan-src/pull/3238) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [RegexArrayShapeMatcher - Fix PREG_UNMATCHED_AS_NULL with optional leading groups](https://github.com/phpstan/phpstan-src/pull/3234) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [RegexArrayShapeMatcher - Support preg_quote()&#39;d patterns](https://github.com/phpstan/phpstan-src/pull/3233) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
