@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Detect public properties used via Subclass](https://github.com/TomasVotruba/unused-public/pull/123) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Prevent uncaught class-not-found exceptions](https://github.com/rectorphp/rector-src/pull/6160) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [[TypeDeclaration] Prevent uncaught exception in ReturnTypeFromReturnNewRector](https://github.com/rectorphp/rector-src/pull/6159) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Implement RegularExpressionQuotingRule](https://github.com/phpstan/phpstan-src/pull/3252) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Support preg_quote()&#39;d patterns](https://github.com/phpstan/phpstan-nette/pull/152) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (4 days ago)
 - [Ignore non-explicit NEVER in purity check](https://github.com/phpstan/phpstan-src/pull/3243) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Support posix character classes in preg_match() inference](https://github.com/phpstan/phpstan-src/pull/3241) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Fix union-type handling in PublicStaticPropertyFetchCollector](https://github.com/TomasVotruba/unused-public/pull/121) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
