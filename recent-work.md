@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix PHP_VERSION_ID comparison in test](https://github.com/phpstan/phpstan-src/pull/3254) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Detect public properties used via Subclass](https://github.com/TomasVotruba/unused-public/pull/123) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
 - [Prevent uncaught class-not-found exceptions](https://github.com/rectorphp/rector-src/pull/6160) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [[TypeDeclaration] Prevent uncaught exception in ReturnTypeFromReturnNewRector](https://github.com/rectorphp/rector-src/pull/6159) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Refactor PrintfParametersRule](https://github.com/phpstan/phpstan-src/pull/3247) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Support preg_quote()&#39;d patterns](https://github.com/phpstan/phpstan-nette/pull/152) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (5 days ago)
 - [Ignore non-explicit NEVER in purity check](https://github.com/phpstan/phpstan-src/pull/3243) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Support posix character classes in preg_match() inference](https://github.com/phpstan/phpstan-src/pull/3241) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
