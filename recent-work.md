@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.91](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.91) (today)
 - [yiisoft/yii2](https://github.com/yiisoft/yii2) - [2.0.51](https://github.com/yiisoft/yii2/releases/tag/2.0.51) (5 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.2.8](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.8) (5 days ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.89](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.89) (5 days ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.7.0](https://github.com/briannesbitt/Carbon/releases/tag/3.7.0) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.6](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.6) (1 week ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.14.0](https://github.com/TypedDevs/bashunit/releases/tag/0.14.0) (1 week ago)
