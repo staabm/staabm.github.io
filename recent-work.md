@@ -3,13 +3,13 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
 - [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (2 weeks ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (1 month ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 month ago)
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.180](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.180) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.3](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.3) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.8](https://github.com/phpstan/phpstan/releases/tag/1.11.8) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.91](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.91) (1 day ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.6](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.6) (1 week ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.14.0](https://github.com/TypedDevs/bashunit/releases/tag/0.14.0) (1 week ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.20](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.20) (1 week ago)
-- [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [5.0.1](https://github.com/Smile-SA/gdpr-dump/releases/tag/5.0.1) (2 weeks ago)
