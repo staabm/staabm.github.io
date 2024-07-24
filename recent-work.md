@@ -3,11 +3,11 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
-- [php/doc-en](https://github.com/php/doc-en) (6 days ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (6 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
+- [php/doc-en](https://github.com/php/doc-en) (1 week ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (2 weeks ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [RegexArrayShapeMatcher - `(\d*)` can be empty-string](https://github.com/phpstan/phpstan-src/pull/3257) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Implement PregMatchAllParameterOutTypeExtension](https://github.com/phpstan/phpstan-src/pull/3256) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Fix PHP_VERSION_ID comparison in test](https://github.com/phpstan/phpstan-src/pull/3254) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Detect public properties used via Subclass](https://github.com/TomasVotruba/unused-public/pull/123) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
-- [Prevent uncaught class-not-found exceptions](https://github.com/rectorphp/rector-src/pull/6160) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
-- [[TypeDeclaration] Prevent uncaught exception in ReturnTypeFromReturnNewRector](https://github.com/rectorphp/rector-src/pull/6159) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
-- [Implement RegularExpressionQuotingRule](https://github.com/phpstan/phpstan-src/pull/3252) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Simplify RegularExpressionPatternRule](https://github.com/phpstan/phpstan-src/pull/3251) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Fix build after RegexArrayShapeMatcher improvements](https://github.com/phpstan/phpstan-nette/pull/153) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (6 days ago)
-- [Fix pow() return value section](https://github.com/php/doc-en/pull/3575) on [php/doc-en](https://github.com/php/doc-en) (6 days ago)
+- [RegexArrayShapeMatcher - `(\d*)` can be empty-string](https://github.com/phpstan/phpstan-src/pull/3257) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Implement PregMatchAllParameterOutTypeExtension](https://github.com/phpstan/phpstan-src/pull/3256) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Fix PHP_VERSION_ID comparison in test](https://github.com/phpstan/phpstan-src/pull/3254) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Detect public properties used via Subclass](https://github.com/TomasVotruba/unused-public/pull/123) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
+- [Prevent uncaught class-not-found exceptions](https://github.com/rectorphp/rector-src/pull/6160) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
+- [[TypeDeclaration] Prevent uncaught exception in ReturnTypeFromReturnNewRector](https://github.com/rectorphp/rector-src/pull/6159) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
+- [Implement RegularExpressionQuotingRule](https://github.com/phpstan/phpstan-src/pull/3252) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Simplify RegularExpressionPatternRule](https://github.com/phpstan/phpstan-src/pull/3251) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Fix build after RegexArrayShapeMatcher improvements](https://github.com/phpstan/phpstan-nette/pull/153) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
+- [Fix pow() return value section](https://github.com/php/doc-en/pull/3575) on [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 - [RegexArrayShapeMatcher - More precise non-empty-string and numeric-string](https://github.com/phpstan/phpstan-src/pull/3249) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix ClassConstFetchCollector](https://github.com/TomasVotruba/unused-public/pull/122) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [Skip phpdoc types in NumericReturnTypeFromStrictReturnsRector](https://github.com/rectorphp/rector-src/pull/6153) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.91](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.91) (today)
-- [yiisoft/yii2](https://github.com/yiisoft/yii2) - [2.0.51](https://github.com/yiisoft/yii2/releases/tag/2.0.51) (5 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.2.8](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.8) (5 days ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.91](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.91) (1 day ago)
+- [yiisoft/yii2](https://github.com/yiisoft/yii2) - [2.0.51](https://github.com/yiisoft/yii2/releases/tag/2.0.51) (6 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.2.8](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.8) (6 days ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.7.0](https://github.com/briannesbitt/Carbon/releases/tag/3.7.0) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.6](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.6) (1 week ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.14.0](https://github.com/TypedDevs/bashunit/releases/tag/0.14.0) (1 week ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.20](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.20) (1 week ago)
-- [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [5.0.1](https://github.com/Smile-SA/gdpr-dump/releases/tag/5.0.1) (1 week ago)
+- [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [5.0.1](https://github.com/Smile-SA/gdpr-dump/releases/tag/5.0.1) (2 weeks ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.179](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.179) (2 weeks ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.7](https://github.com/phpstan/phpstan/releases/tag/1.11.7) (2 weeks ago)
