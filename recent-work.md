@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sabre-io/xml](https://github.com/sabre-io/xml) - [2.2.8](https://github.com/sabre-io/xml/releases/tag/2.2.8) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.180](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.180) (1 day ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.3](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.3) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.8](https://github.com/phpstan/phpstan/releases/tag/1.11.8) (1 day ago)
@@ -68,4 +69,3 @@
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.7.0](https://github.com/briannesbitt/Carbon/releases/tag/3.7.0) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.6](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.6) (1 week ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.14.0](https://github.com/TypedDevs/bashunit/releases/tag/0.14.0) (1 week ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.20](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.20) (1 week ago)
