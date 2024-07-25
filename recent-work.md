@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [UselessFunctionReturnValueRule: More precise error message](https://github.com/phpstan/phpstan-src/pull/3266) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [RegexArrayShapeMatcher: Support resolving of constants in patterns](https://github.com/phpstan/phpstan-src/pull/3265) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [json: added json_last_error_msg to see-also](https://github.com/php/doc-en/pull/3604) on [php/doc-en](https://github.com/php/doc-en) (1 day ago)
 - [RegexArrayShapeMatcher - `(\d*)` can be empty-string](https://github.com/phpstan/phpstan-src/pull/3257) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Implement PregMatchAllParameterOutTypeExtension](https://github.com/phpstan/phpstan-src/pull/3256) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -53,8 +55,6 @@
 - [Fix pow() return value section](https://github.com/php/doc-en/pull/3575) on [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 - [RegexArrayShapeMatcher - More precise non-empty-string and numeric-string](https://github.com/phpstan/phpstan-src/pull/3249) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix ClassConstFetchCollector](https://github.com/TomasVotruba/unused-public/pull/122) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
-- [Skip phpdoc types in NumericReturnTypeFromStrictReturnsRector](https://github.com/rectorphp/rector-src/pull/6153) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [Refactor RegexArrayShapeMatcher](https://github.com/phpstan/phpstan-src/pull/3248) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
