@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [RegexArrayShapeMatcher: Fix non-emptiness of leading optional groups](https://github.com/phpstan/phpstan-src/pull/3267) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [UselessFunctionReturnValueRule: More precise error message](https://github.com/phpstan/phpstan-src/pull/3266) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [RegexArrayShapeMatcher: Support resolving of constants in patterns](https://github.com/phpstan/phpstan-src/pull/3265) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [json: added json_last_error_msg to see-also](https://github.com/php/doc-en/pull/3604) on [php/doc-en](https://github.com/php/doc-en) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix build after RegexArrayShapeMatcher improvements](https://github.com/phpstan/phpstan-nette/pull/153) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [Fix pow() return value section](https://github.com/php/doc-en/pull/3575) on [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 - [RegexArrayShapeMatcher - More precise non-empty-string and numeric-string](https://github.com/phpstan/phpstan-src/pull/3249) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix ClassConstFetchCollector](https://github.com/TomasVotruba/unused-public/pull/122) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
