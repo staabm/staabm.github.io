@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sabre-io/xml](https://github.com/sabre-io/xml) - [2.2.9](https://github.com/sabre-io/xml/releases/tag/2.2.9) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.92](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.92) (today)
 - [composer/pcre](https://github.com/composer/pcre) - [3.2.0](https://github.com/composer/pcre/releases/tag/3.2.0) (1 day ago)
-- [sabre-io/xml](https://github.com/sabre-io/xml) - [2.2.8](https://github.com/sabre-io/xml/releases/tag/2.2.8) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.180](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.180) (2 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.3](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.3) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.8](https://github.com/phpstan/phpstan/releases/tag/1.11.8) (2 days ago)
