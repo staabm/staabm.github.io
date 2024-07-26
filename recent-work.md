@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [RegularExpressionPatternRule: validate preg_quote&#39;d patterns](https://github.com/phpstan/phpstan-src/pull/3270) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [RegexArrayShapeMatcher: Fix non-emptiness of leading optional groups](https://github.com/phpstan/phpstan-src/pull/3267) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [UselessFunctionReturnValueRule: More precise error message](https://github.com/phpstan/phpstan-src/pull/3266) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [RegexArrayShapeMatcher: Support resolving of constants in patterns](https://github.com/phpstan/phpstan-src/pull/3265) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Simplify RegularExpressionPatternRule](https://github.com/phpstan/phpstan-src/pull/3251) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix build after RegexArrayShapeMatcher improvements](https://github.com/phpstan/phpstan-nette/pull/153) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [Fix pow() return value section](https://github.com/php/doc-en/pull/3575) on [php/doc-en](https://github.com/php/doc-en) (1 week ago)
-- [RegexArrayShapeMatcher - More precise non-empty-string and numeric-string](https://github.com/phpstan/phpstan-src/pull/3249) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
