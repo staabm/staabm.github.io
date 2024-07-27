@@ -4,7 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [php/doc-en](https://github.com/php/doc-en) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
