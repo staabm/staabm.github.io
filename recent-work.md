@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.21](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.21) (today)
 - [sabre-io/xml](https://github.com/sabre-io/xml) - [2.2.9](https://github.com/sabre-io/xml/releases/tag/2.2.9) (1 day ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.92](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.92) (1 day ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.2.0](https://github.com/composer/pcre/releases/tag/3.2.0) (2 days ago)
@@ -68,4 +69,3 @@
 - [yiisoft/yii2](https://github.com/yiisoft/yii2) - [2.0.51](https://github.com/yiisoft/yii2/releases/tag/2.0.51) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.2.8](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.8) (1 week ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.7.0](https://github.com/briannesbitt/Carbon/releases/tag/3.7.0) (1 week ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.6](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.6) (1 week ago)
