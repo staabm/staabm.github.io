@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [php/doc-en](https://github.com/php/doc-en) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix build](https://github.com/phpstan/phpstan-src/pull/3272) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [RegexArrayShapeMatcher - Support &#39;n&#39; modifier](https://github.com/phpstan/phpstan-src/pull/3271) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [RegularExpressionPatternRule: validate preg_quote&#39;d patterns](https://github.com/phpstan/phpstan-src/pull/3270) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [RegexArrayShapeMatcher: Fix non-emptiness of leading optional groups](https://github.com/phpstan/phpstan-src/pull/3267) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [UselessFunctionReturnValueRule: More precise error message](https://github.com/phpstan/phpstan-src/pull/3266) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -53,8 +55,6 @@
 - [[TypeDeclaration] Prevent uncaught exception in ReturnTypeFromReturnNewRector](https://github.com/rectorphp/rector-src/pull/6159) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Implement RegularExpressionQuotingRule](https://github.com/phpstan/phpstan-src/pull/3252) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Simplify RegularExpressionPatternRule](https://github.com/phpstan/phpstan-src/pull/3251) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix build after RegexArrayShapeMatcher improvements](https://github.com/phpstan/phpstan-nette/pull/153) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
-- [Fix pow() return value section](https://github.com/php/doc-en/pull/3575) on [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
