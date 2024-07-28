@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [php/doc-en](https://github.com/php/doc-en) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (6 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [RegularExpressionPatternRule: fix false positive in preg_quote() handling](https://github.com/phpstan/phpstan-src/pull/3275) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Refactor RegexArrayShapeMatcher](https://github.com/phpstan/phpstan-src/pull/3274) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [RegexExpressionHelper - Support all bracket style delimiters](https://github.com/phpstan/phpstan-src/pull/3273) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/3272) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix PHP_VERSION_ID comparison in test](https://github.com/phpstan/phpstan-src/pull/3254) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Detect public properties used via Subclass](https://github.com/TomasVotruba/unused-public/pull/123) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [Prevent uncaught class-not-found exceptions](https://github.com/rectorphp/rector-src/pull/6160) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [[TypeDeclaration] Prevent uncaught exception in ReturnTypeFromReturnNewRector](https://github.com/rectorphp/rector-src/pull/6159) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
