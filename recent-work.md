@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Extracted RegexGroupParser from RegexArrayShapeMatcher](https://github.com/phpstan/phpstan-src/pull/3278) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Enable PHPStan Extensions outside of bleeding edge](https://github.com/composer/pcre/pull/31) on [composer/pcre](https://github.com/composer/pcre) (today)
 - [Simplify collector-data to reduce memory consumption](https://github.com/staabm/phpstan-todo-by/pull/104) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [RegularExpressionPatternRule: fix false positive in preg_quote() handling](https://github.com/phpstan/phpstan-src/pull/3275) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -54,18 +55,17 @@
 - [json: added json_last_error_msg to see-also](https://github.com/php/doc-en/pull/3604) on [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 - [RegexArrayShapeMatcher - `(\d*)` can be empty-string](https://github.com/phpstan/phpstan-src/pull/3257) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Implement PregMatchAllParameterOutTypeExtension](https://github.com/phpstan/phpstan-src/pull/3256) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix PHP_VERSION_ID comparison in test](https://github.com/phpstan/phpstan-src/pull/3254) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.4](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.4) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.9](https://github.com/phpstan/phpstan/releases/tag/1.11.9) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.2.9](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.9) (2 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.21](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.21) (5 days ago)
 - [sabre-io/xml](https://github.com/sabre-io/xml) - [2.2.9](https://github.com/sabre-io/xml/releases/tag/2.2.9) (6 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.92](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.92) (6 days ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.2.0](https://github.com/composer/pcre/releases/tag/3.2.0) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.180](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.180) (1 week ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.3](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.3) (1 week ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.8](https://github.com/phpstan/phpstan/releases/tag/1.11.8) (1 week ago)
 - [yiisoft/yii2](https://github.com/yiisoft/yii2) - [2.0.51](https://github.com/yiisoft/yii2/releases/tag/2.0.51) (2 weeks ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.7.0](https://github.com/briannesbitt/Carbon/releases/tag/3.7.0) (2 weeks ago)
