@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support matchAll* variants in PHPStan extensions](https://github.com/composer/pcre/pull/32) on [composer/pcre](https://github.com/composer/pcre) (today)
 - [RegularExpressionPatternRule: fix false positive in preg_quote() handling](https://github.com/phpstan/phpstan-src/pull/3280) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Extracted RegexGroupParser from RegexArrayShapeMatcher](https://github.com/phpstan/phpstan-src/pull/3278) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Enable PHPStan Extensions outside of bleeding edge](https://github.com/composer/pcre/pull/31) on [composer/pcre](https://github.com/composer/pcre) (1 day ago)
@@ -54,7 +55,6 @@
 - [UselessFunctionReturnValueRule: More precise error message](https://github.com/phpstan/phpstan-src/pull/3266) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [RegexArrayShapeMatcher: Support resolving of constants in patterns](https://github.com/phpstan/phpstan-src/pull/3265) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [json: added json_last_error_msg to see-also](https://github.com/php/doc-en/pull/3604) on [php/doc-en](https://github.com/php/doc-en) (1 week ago)
-- [RegexArrayShapeMatcher - `(\d*)` can be empty-string](https://github.com/phpstan/phpstan-src/pull/3257) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
