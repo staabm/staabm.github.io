@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [php/doc-en](https://github.com/php/doc-en) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [RegularExpressionPatternRule: fix false positive in preg_quote() handling](https://github.com/phpstan/phpstan-src/pull/3280) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Extracted RegexGroupParser from RegexArrayShapeMatcher](https://github.com/phpstan/phpstan-src/pull/3278) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Enable PHPStan Extensions outside of bleeding edge](https://github.com/composer/pcre/pull/31) on [composer/pcre](https://github.com/composer/pcre) (1 day ago)
 - [Simplify collector-data to reduce memory consumption](https://github.com/staabm/phpstan-todo-by/pull/104) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
@@ -54,11 +55,11 @@
 - [RegexArrayShapeMatcher: Support resolving of constants in patterns](https://github.com/phpstan/phpstan-src/pull/3265) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [json: added json_last_error_msg to see-also](https://github.com/php/doc-en/pull/3604) on [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 - [RegexArrayShapeMatcher - `(\d*)` can be empty-string](https://github.com/phpstan/phpstan-src/pull/3257) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Implement PregMatchAllParameterOutTypeExtension](https://github.com/phpstan/phpstan-src/pull/3256) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.181](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.181) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.3.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.0) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.5](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.5) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.9](https://github.com/phpstan/phpstan/releases/tag/1.11.9) (1 day ago)
@@ -66,6 +67,5 @@
 - [sabre-io/xml](https://github.com/sabre-io/xml) - [2.2.9](https://github.com/sabre-io/xml/releases/tag/2.2.9) (1 week ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.92](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.92) (1 week ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.2.0](https://github.com/composer/pcre/releases/tag/3.2.0) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.180](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.180) (1 week ago)
 - [yiisoft/yii2](https://github.com/yiisoft/yii2) - [2.0.51](https://github.com/yiisoft/yii2/releases/tag/2.0.51) (2 weeks ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.7.0](https://github.com/briannesbitt/Carbon/releases/tag/3.7.0) (2 weeks ago)
