@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.40.0](https://github.com/Roave/BetterReflection/releases/tag/6.40.0) (today)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.41.0](https://github.com/Roave/BetterReflection/releases/tag/6.41.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.181](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.181) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.3.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.0) (1 day ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.5](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.5) (2 days ago)
