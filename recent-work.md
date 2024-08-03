@@ -3,7 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [php/doc-en](https://github.com/php/doc-en) (1 week ago)
@@ -12,7 +13,6 @@
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
 - [composer/pcre](https://github.com/composer/pcre) (3 weeks ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (3 weeks ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Reduce use of PreviousConnectingVisitor:: ATTRIBUTE_PARENT](https://github.com/staabm/phpstan-dba/pull/670) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [phpstan.neon.dist: remove references to non-existant exclude-files](https://github.com/shopware/shopware/pull/3826) on [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
 - [remove reference to non-existant file in phpstan/config.neon](https://github.com/composer/composer/pull/12069) on [composer/composer](https://github.com/composer/composer) (1 day ago)
 - [Bleeding edge - Precise array shape for preg_replace_callback() $matches](https://github.com/phpstan/phpstan-src/pull/3281) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/3272) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [RegexArrayShapeMatcher - Support &#39;n&#39; modifier](https://github.com/phpstan/phpstan-src/pull/3271) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [RegularExpressionPatternRule: validate preg_quote&#39;d patterns](https://github.com/phpstan/phpstan-src/pull/3270) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [RegexArrayShapeMatcher: Fix non-emptiness of leading optional groups](https://github.com/phpstan/phpstan-src/pull/3267) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
