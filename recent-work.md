@@ -40,7 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Reduce use of PreviousConnectingVisitor:: ATTRIBUTE_PARENT](https://github.com/staabm/phpstan-dba/pull/670) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Reduce use of PreviousConnectingVisitor::ATTRIBUTE_PREVIOUS to assist garbage collector](https://github.com/staabm/phpstan-dba/pull/671) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Reduce use of PreviousConnectingVisitor:: ATTRIBUTE_PARENT to assist garbage collector](https://github.com/staabm/phpstan-dba/pull/670) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [phpstan.neon.dist: remove references to non-existant exclude-files](https://github.com/shopware/shopware/pull/3826) on [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
 - [remove reference to non-existant file in phpstan/config.neon](https://github.com/composer/composer/pull/12069) on [composer/composer](https://github.com/composer/composer) (1 day ago)
 - [Bleeding edge - Precise array shape for preg_replace_callback() $matches](https://github.com/phpstan/phpstan-src/pull/3281) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [RegexExpressionHelper - Support all bracket style delimiters](https://github.com/phpstan/phpstan-src/pull/3273) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/3272) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [RegexArrayShapeMatcher - Support &#39;n&#39; modifier](https://github.com/phpstan/phpstan-src/pull/3271) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [RegularExpressionPatternRule: validate preg_quote&#39;d patterns](https://github.com/phpstan/phpstan-src/pull/3270) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
