@@ -3,8 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [sabre-io/sabre.io](https://github.com/sabre-io/sabre.io) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
@@ -12,7 +13,6 @@
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 - [composer/pcre](https://github.com/composer/pcre) (3 weeks ago)
-- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
