@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support literal strings in RegexGroupParser](https://github.com/phpstan/phpstan-src/pull/3284) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Reduce use of PreviousConnectingVisitor::ATTRIBUTE_PREVIOUS to assist garbage collector](https://github.com/staabm/phpstan-dba/pull/671) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Reduce use of PreviousConnectingVisitor:: ATTRIBUTE_PARENT to assist garbage collector](https://github.com/staabm/phpstan-dba/pull/670) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [phpstan.neon.dist: remove references to non-existant exclude-files](https://github.com/shopware/shopware/pull/3826) on [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
@@ -54,7 +55,6 @@
 - [Refactor RegexArrayShapeMatcher](https://github.com/phpstan/phpstan-src/pull/3274) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [RegexExpressionHelper - Support all bracket style delimiters](https://github.com/phpstan/phpstan-src/pull/3273) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/3272) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [RegexArrayShapeMatcher - Support &#39;n&#39; modifier](https://github.com/phpstan/phpstan-src/pull/3271) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
