@@ -3,14 +3,14 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [shopware/shopware](https://github.com/shopware/shopware) (2 days ago)
 - [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
 - [composer/pcre](https://github.com/composer/pcre) (3 weeks ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (3 weeks ago)
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Understand constant strings in patterns](https://github.com/phpstan/phpstan-nette/pull/154) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
 - [Support literal strings in RegexGroupParser](https://github.com/phpstan/phpstan-src/pull/3284) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Reduce use of PreviousConnectingVisitor::ATTRIBUTE_PREVIOUS to assist garbage collector](https://github.com/staabm/phpstan-dba/pull/671) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Reduce use of PreviousConnectingVisitor:: ATTRIBUTE_PARENT to assist garbage collector](https://github.com/staabm/phpstan-dba/pull/670) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
@@ -54,7 +55,6 @@
 - [RegularExpressionPatternRule: fix false positive in preg_quote() handling](https://github.com/phpstan/phpstan-src/pull/3275) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Refactor RegexArrayShapeMatcher](https://github.com/phpstan/phpstan-src/pull/3274) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [RegexExpressionHelper - Support all bracket style delimiters](https://github.com/phpstan/phpstan-src/pull/3273) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix build](https://github.com/phpstan/phpstan-src/pull/3272) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
