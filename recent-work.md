@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support classes of literal strings in RegexGroupParser](https://github.com/phpstan/phpstan-src/pull/3285) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Understand constant strings in patterns](https://github.com/phpstan/phpstan-nette/pull/154) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
 - [Support literal strings in RegexGroupParser](https://github.com/phpstan/phpstan-src/pull/3284) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Reduce use of PreviousConnectingVisitor::ATTRIBUTE_PREVIOUS to assist garbage collector](https://github.com/staabm/phpstan-dba/pull/671) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
@@ -54,7 +55,6 @@
 - [Simplify collector-data to reduce memory consumption](https://github.com/staabm/phpstan-todo-by/pull/104) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
 - [RegularExpressionPatternRule: fix false positive in preg_quote() handling](https://github.com/phpstan/phpstan-src/pull/3275) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Refactor RegexArrayShapeMatcher](https://github.com/phpstan/phpstan-src/pull/3274) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [RegexExpressionHelper - Support all bracket style delimiters](https://github.com/phpstan/phpstan-src/pull/3273) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
