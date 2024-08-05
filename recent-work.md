@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [RegularExpressionPatternRuleTest: utilize preg_match() array shape tests](https://github.com/phpstan/phpstan-src/pull/3290) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Support non-falsy-string in RegexGroupParser](https://github.com/phpstan/phpstan-src/pull/3289) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Don&#39;t infer constant types for &#34;i&#34;-modfied patterns](https://github.com/phpstan/phpstan-src/pull/3288) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Support classes of literal strings in RegexGroupParser](https://github.com/phpstan/phpstan-src/pull/3285) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [RegularExpressionPatternRule: fix false positive in preg_quote() handling](https://github.com/phpstan/phpstan-src/pull/3280) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Extracted RegexGroupParser from RegexArrayShapeMatcher](https://github.com/phpstan/phpstan-src/pull/3278) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Enable PHPStan Extensions outside of bleeding edge](https://github.com/composer/pcre/pull/31) on [composer/pcre](https://github.com/composer/pcre) (4 days ago)
-- [Simplify collector-data to reduce memory consumption](https://github.com/staabm/phpstan-todo-by/pull/104) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
