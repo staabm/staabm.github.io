@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [RegexArrayShapeMatcher: fix preg_match_all with PREG_OFFSET_CAPTURE](https://github.com/phpstan/phpstan-src/pull/3292) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [RegexGroupParser: Ignore whitespaces on &#34;x&#34;-modified patterns](https://github.com/phpstan/phpstan-src/pull/3291) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [RegularExpressionPatternRuleTest: utilize preg_match() array shape tests](https://github.com/phpstan/phpstan-src/pull/3290) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Support non-falsy-string in RegexGroupParser](https://github.com/phpstan/phpstan-src/pull/3289) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Bleeding edge - Precise array shape for preg_replace_callback() $matches](https://github.com/phpstan/phpstan-src/pull/3281) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Support matchAll* variants in PHPStan extensions](https://github.com/composer/pcre/pull/32) on [composer/pcre](https://github.com/composer/pcre) (3 days ago)
 - [RegularExpressionPatternRule: fix false positive in preg_quote() handling](https://github.com/phpstan/phpstan-src/pull/3280) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Extracted RegexGroupParser from RegexArrayShapeMatcher](https://github.com/phpstan/phpstan-src/pull/3278) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
