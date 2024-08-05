@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.8](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.8) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.93](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.93) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.41.0](https://github.com/Roave/BetterReflection/releases/tag/6.41.0) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.181](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.181) (3 days ago)
@@ -68,4 +69,3 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.21](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.21) (1 week ago)
 - [sabre-io/xml](https://github.com/sabre-io/xml) - [2.2.9](https://github.com/sabre-io/xml/releases/tag/2.2.9) (1 week ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.2.0](https://github.com/composer/pcre/releases/tag/3.2.0) (1 week ago)
-- [yiisoft/yii2](https://github.com/yiisoft/yii2) - [2.0.51](https://github.com/yiisoft/yii2/releases/tag/2.0.51) (2 weeks ago)
