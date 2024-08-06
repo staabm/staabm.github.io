@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ShouldNotHappenException extends LogicException](https://github.com/phpstan/phpstan-src/pull/3297) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Refactor RegexGroupParser - extract RegexAlternation class](https://github.com/phpstan/phpstan-src/pull/3296) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify RegexArrayShapeMatcher](https://github.com/phpstan/phpstan-src/pull/3293) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [RegexArrayShapeMatcher: fix preg_match_all with PREG_OFFSET_CAPTURE](https://github.com/phpstan/phpstan-src/pull/3292) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [RegexGroupParser: Ignore whitespaces on &#34;x&#34;-modified patterns](https://github.com/phpstan/phpstan-src/pull/3291) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,13 +55,11 @@
 - [Reduce use of PreviousConnectingVisitor:: ATTRIBUTE_PARENT to assist garbage collector](https://github.com/staabm/phpstan-dba/pull/670) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [phpstan.neon.dist: remove references to non-existant exclude-files](https://github.com/shopware/shopware/pull/3826) on [shopware/shopware](https://github.com/shopware/shopware) (4 days ago)
 - [remove reference to non-existant file in phpstan/config.neon](https://github.com/composer/composer/pull/12069) on [composer/composer](https://github.com/composer/composer) (4 days ago)
-- [Bleeding edge - Precise array shape for preg_replace_callback() $matches](https://github.com/phpstan/phpstan-src/pull/3281) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Support matchAll* variants in PHPStan extensions](https://github.com/composer/pcre/pull/32) on [composer/pcre](https://github.com/composer/pcre) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.8](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.8) (1 day ago)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.9](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.9) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.93](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.93) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.41.0](https://github.com/Roave/BetterReflection/releases/tag/6.41.0) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.181](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.181) (4 days ago)
