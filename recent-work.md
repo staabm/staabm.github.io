@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [RegexArrayShapeMatcher - Fix shape of single top level alternations](https://github.com/phpstan/phpstan-src/pull/3299) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [ShouldNotHappenException extends LogicException](https://github.com/phpstan/phpstan-src/pull/3297) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Refactor RegexGroupParser - extract RegexAlternation class](https://github.com/phpstan/phpstan-src/pull/3296) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify RegexArrayShapeMatcher](https://github.com/phpstan/phpstan-src/pull/3293) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Reduce use of PreviousConnectingVisitor::ATTRIBUTE_PREVIOUS to assist garbage collector](https://github.com/staabm/phpstan-dba/pull/671) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [Reduce use of PreviousConnectingVisitor:: ATTRIBUTE_PARENT to assist garbage collector](https://github.com/staabm/phpstan-dba/pull/670) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [phpstan.neon.dist: remove references to non-existant exclude-files](https://github.com/shopware/shopware/pull/3826) on [shopware/shopware](https://github.com/shopware/shopware) (4 days ago)
-- [remove reference to non-existant file in phpstan/config.neon](https://github.com/composer/composer/pull/12069) on [composer/composer](https://github.com/composer/composer) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
