@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [RegexArrayShapeMatcher - Fix subject types](https://github.com/phpstan/phpstan-src/pull/3300) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [RegexArrayShapeMatcher - Fix shape of single top level alternations](https://github.com/phpstan/phpstan-src/pull/3299) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [ShouldNotHappenException extends LogicException](https://github.com/phpstan/phpstan-src/pull/3297) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Refactor RegexGroupParser - extract RegexAlternation class](https://github.com/phpstan/phpstan-src/pull/3296) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Support literal strings in RegexGroupParser](https://github.com/phpstan/phpstan-src/pull/3284) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Reduce use of PreviousConnectingVisitor::ATTRIBUTE_PREVIOUS to assist garbage collector](https://github.com/staabm/phpstan-dba/pull/671) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [Reduce use of PreviousConnectingVisitor:: ATTRIBUTE_PARENT to assist garbage collector](https://github.com/staabm/phpstan-dba/pull/670) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [phpstan.neon.dist: remove references to non-existant exclude-files](https://github.com/shopware/shopware/pull/3826) on [shopware/shopware](https://github.com/shopware/shopware) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
