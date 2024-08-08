@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (4 days ago)
 - [sabre-io/sabre.io](https://github.com/sabre-io/sabre.io) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.6](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.6) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.22](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.22) (1 day ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.5.0](https://github.com/shopware/shopware/releases/tag/v6.6.5.0) (2 days ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.9](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.9) (2 days ago)
@@ -66,6 +67,5 @@
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.41.0](https://github.com/Roave/BetterReflection/releases/tag/6.41.0) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.181](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.181) (6 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.3.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.0) (6 days ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.5](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.5) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.9](https://github.com/phpstan/phpstan/releases/tag/1.11.9) (1 week ago)
 - [sabre-io/xml](https://github.com/sabre-io/xml) - [2.2.9](https://github.com/sabre-io/xml/releases/tag/2.2.9) (1 week ago)
