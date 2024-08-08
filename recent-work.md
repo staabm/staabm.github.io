@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [RegexArrayShapeMatcher - optional non-last groups can be empty-string](https://github.com/phpstan/phpstan-src/pull/3306) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Turn Regex classes immutable where possible](https://github.com/phpstan/phpstan-src/pull/3305) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Narrow tagged unions based on count() with array-size](https://github.com/phpstan/phpstan-src/pull/3302) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [RegexArrayShapeMatcher - Fix subject types](https://github.com/phpstan/phpstan-src/pull/3300) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Don&#39;t infer constant types for &#34;i&#34;-modfied patterns](https://github.com/phpstan/phpstan-src/pull/3288) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Support classes of literal strings in RegexGroupParser](https://github.com/phpstan/phpstan-src/pull/3285) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Understand constant strings in patterns](https://github.com/phpstan/phpstan-nette/pull/154) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (4 days ago)
-- [Support literal strings in RegexGroupParser](https://github.com/phpstan/phpstan-src/pull/3284) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
