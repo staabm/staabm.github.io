@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.7](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.7) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.182](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.182) (1 day ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.13](https://github.com/shopware/shopware/releases/tag/v6.5.8.13) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.10](https://github.com/phpstan/phpstan/releases/tag/1.11.10) (1 day ago)
@@ -68,4 +69,3 @@
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.93](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.93) (4 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.41.0](https://github.com/Roave/BetterReflection/releases/tag/6.41.0) (6 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.3.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.0) (1 week ago)
-- [sabre-io/xml](https://github.com/sabre-io/xml) - [2.2.9](https://github.com/sabre-io/xml/releases/tag/2.2.9) (2 weeks ago)
