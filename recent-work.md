@@ -26,6 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
+- [phpstan](https://github.com/phpstan) (today)
 - [oliverklee](https://github.com/oliverklee) (1 month ago)
 - [TicketSwap](https://github.com/TicketSwap) (1 month ago)
 - [brotkrueml](https://github.com/brotkrueml) (2 months ago)
@@ -35,7 +36,6 @@
 - [getsentry](https://github.com/getsentry) (10 months ago)
 - [eliashaeussler](https://github.com/eliashaeussler) (11 months ago)
 - [DaveLiddament](https://github.com/DaveLiddament) (1 year ago)
-- [SecuMailer](https://github.com/SecuMailer) (1 year ago)
 
 
 #### 🔨 My recent Pull Requests
