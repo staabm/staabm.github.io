@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [RegexArrayShapeMatcher - Fix matching literal &#34;-&#34; in character classes](https://github.com/phpstan/phpstan-src/pull/3314) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix item-type in list to constant-array conversion with count()](https://github.com/phpstan/phpstan-src/pull/3309) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix bug in array-shape subtraction](https://github.com/phpstan/phpstan-src/pull/3308) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Adjust expectations](https://github.com/phpstan/phpstan-nette/pull/156) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
@@ -54,7 +55,6 @@
 - [Simplify RegexArrayShapeMatcher](https://github.com/phpstan/phpstan-src/pull/3293) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [RegexArrayShapeMatcher: fix preg_match_all with PREG_OFFSET_CAPTURE](https://github.com/phpstan/phpstan-src/pull/3292) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [RegexGroupParser: Ignore whitespaces on &#34;x&#34;-modified patterns](https://github.com/phpstan/phpstan-src/pull/3291) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [RegularExpressionPatternRuleTest: utilize preg_match() array shape tests](https://github.com/phpstan/phpstan-src/pull/3290) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
