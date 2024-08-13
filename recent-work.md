@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
@@ -12,7 +13,6 @@
 - [php/doc-en](https://github.com/php/doc-en) (2 weeks ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 weeks ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 weeks ago)
-- [composer/pcre](https://github.com/composer/pcre) (1 month ago)
 
 
 #### 📜 My recent blog posts
@@ -59,6 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.3.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.1) (today)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.28](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.28) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.95](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.95) (1 day ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.7](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.7) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.182](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.182) (5 days ago)
@@ -67,5 +69,3 @@
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.6](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.6) (5 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.22](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.22) (6 days ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.9](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.9) (1 week ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.41.0](https://github.com/Roave/BetterReflection/releases/tag/6.41.0) (1 week ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.3.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.0) (1 week ago)
