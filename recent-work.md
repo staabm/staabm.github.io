@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [sabre-io/sabre.io](https://github.com/sabre-io/sabre.io) (1 week ago)
@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.8](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.8) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.7](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.7) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.3.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.1) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.28](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.28) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.95](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.95) (1 day ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.7](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.7) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.182](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.182) (5 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.13](https://github.com/shopware/shopware/releases/tag/v6.5.8.13) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.10](https://github.com/phpstan/phpstan/releases/tag/1.11.10) (5 days ago)
