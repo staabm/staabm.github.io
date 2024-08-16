@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.14.16](https://github.com/JumpMind/symmetric-ds/releases/tag/3.14.16) (today)
+- [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.8](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.8) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.24](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.24) (2 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.8](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.8) (3 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.7](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.7) (3 days ago)
