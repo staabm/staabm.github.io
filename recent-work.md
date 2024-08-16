@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.14.16](https://github.com/JumpMind/symmetric-ds/releases/tag/3.14.16) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.24](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.24) (2 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.8](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.8) (3 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.7](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.7) (3 days ago)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.182](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.182) (1 week ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.13](https://github.com/shopware/shopware/releases/tag/v6.5.8.13) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.10](https://github.com/phpstan/phpstan/releases/tag/1.11.10) (1 week ago)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.9](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.9) (1 week ago)
