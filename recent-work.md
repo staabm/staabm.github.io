@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.11](https://github.com/phpstan/phpstan/releases/tag/1.11.11) (today)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.10](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.10) (today)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.8.0](https://github.com/briannesbitt/Carbon/releases/tag/3.8.0) (today)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.8](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.8) (3 days ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.3.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.1) (6 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.28](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.28) (6 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.95](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.95) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.182](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.182) (1 week ago)
