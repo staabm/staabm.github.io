@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [composer/pcre](https://github.com/composer/pcre) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [composer/pcre](https://github.com/composer/pcre) (2 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
@@ -12,7 +12,7 @@
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
 - [shopware/shopware](https://github.com/shopware/shopware) (2 weeks ago)
 - [php/doc-en](https://github.com/php/doc-en) (3 weeks ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 weeks ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 month ago)
 
 
 #### 📜 My recent blog posts
@@ -48,8 +48,8 @@
 - [RegexArrayShapeMatcher - fix capturing item-array-shapes for preg_match_all](https://github.com/phpstan/phpstan-src/pull/3307) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [RegexArrayShapeMatcher - optional non-last groups can be empty-string](https://github.com/phpstan/phpstan-src/pull/3306) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Turn Regex classes immutable where possible](https://github.com/phpstan/phpstan-src/pull/3305) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Narrow tagged unions based on count() with array-size](https://github.com/phpstan/phpstan-src/pull/3302) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [RegexArrayShapeMatcher - Fix subject types](https://github.com/phpstan/phpstan-src/pull/3300) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [Narrow tagged unions based on count() with array-size](https://github.com/phpstan/phpstan-src/pull/3302) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
+- [RegexArrayShapeMatcher - Fix subject types](https://github.com/phpstan/phpstan-src/pull/3300) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [RegexArrayShapeMatcher - Fix shape of single top level alternations](https://github.com/phpstan/phpstan-src/pull/3299) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [ShouldNotHappenException extends LogicException](https://github.com/phpstan/phpstan-src/pull/3297) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Refactor RegexGroupParser - extract RegexAlternation class](https://github.com/phpstan/phpstan-src/pull/3296) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
@@ -59,12 +59,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/pcre](https://github.com/composer/pcre) - [3.3.0](https://github.com/composer/pcre/releases/tag/3.3.0) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.11](https://github.com/phpstan/phpstan/releases/tag/1.11.11) (1 day ago)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.10](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.10) (1 day ago)
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.8.0](https://github.com/briannesbitt/Carbon/releases/tag/3.8.0) (1 day ago)
-- [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.8](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.8) (4 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.24](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.24) (6 days ago)
+- [composer/pcre](https://github.com/composer/pcre) - [3.3.0](https://github.com/composer/pcre/releases/tag/3.3.0) (2 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.11](https://github.com/phpstan/phpstan/releases/tag/1.11.11) (2 days ago)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.10](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.10) (2 days ago)
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.8.0](https://github.com/briannesbitt/Carbon/releases/tag/3.8.0) (2 days ago)
+- [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.8](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.8) (5 days ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.24](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.24) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.8](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.8) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.7](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.7) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.3.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.1) (1 week ago)
