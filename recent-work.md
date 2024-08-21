@@ -59,12 +59,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.25](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.25) (today)
 - [composer/pcre](https://github.com/composer/pcre) - [3.3.0](https://github.com/composer/pcre/releases/tag/3.3.0) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.11](https://github.com/phpstan/phpstan/releases/tag/1.11.11) (2 days ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.10](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.10) (2 days ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.8.0](https://github.com/briannesbitt/Carbon/releases/tag/3.8.0) (2 days ago)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.8](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.8) (5 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.24](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.24) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.8](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.8) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.7](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.7) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.3.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.1) (1 week ago)
