@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
 - [composer/pcre](https://github.com/composer/pcre) (3 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
 - [sabre-io/sabre.io](https://github.com/sabre-io/sabre.io) (2 weeks ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
 - [shopware/shopware](https://github.com/shopware/shopware) (2 weeks ago)
 - [php/doc-en](https://github.com/php/doc-en) (3 weeks ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 month ago)
 
 
 #### 📜 My recent blog posts
