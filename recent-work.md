@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Narrow to non-falsy-string from strlen() on integer-range](https://github.com/phpstan/phpstan-src/pull/3337) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Move preg_match narrowing into specifyTypesForConstantBinaryExpression()](https://github.com/phpstan/phpstan-src/pull/3336) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Narrow arrays in union based on count() with IntegerRangeType](https://github.com/phpstan/phpstan-src/pull/3335) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update roave/backward-compatibility-check](https://github.com/phpstan/phpdoc-parser/pull/249) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
 - [Fix $matches error](https://github.com/phpstan/phpdoc-parser/pull/248) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
@@ -53,8 +55,6 @@
 - [Turn Regex classes immutable where possible](https://github.com/phpstan/phpstan-src/pull/3305) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Narrow tagged unions based on count() with array-size](https://github.com/phpstan/phpstan-src/pull/3302) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [RegexArrayShapeMatcher - Fix subject types](https://github.com/phpstan/phpstan-src/pull/3300) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [RegexArrayShapeMatcher - Fix shape of single top level alternations](https://github.com/phpstan/phpstan-src/pull/3299) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [ShouldNotHappenException extends LogicException](https://github.com/phpstan/phpstan-src/pull/3297) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
