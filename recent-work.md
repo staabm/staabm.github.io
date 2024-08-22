@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix null-removal on nested captured-arrays](https://github.com/composer/pcre/pull/37) on [composer/pcre](https://github.com/composer/pcre) (today)
 - [Cleanup TypeSpecifier](https://github.com/phpstan/phpstan-src/pull/3340) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Refactor ReplaceFunctionsDynamicReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/3339) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Remove null-return on preg_replace() with valid patterns](https://github.com/phpstan/phpstan-src/pull/3338) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Fix bug in array-shape subtraction](https://github.com/phpstan/phpstan-src/pull/3308) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Adjust expectations](https://github.com/phpstan/phpstan-nette/pull/156) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
 - [RegexArrayShapeMatcher - fix capturing item-array-shapes for preg_match_all](https://github.com/phpstan/phpstan-src/pull/3307) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [RegexArrayShapeMatcher - optional non-last groups can be empty-string](https://github.com/phpstan/phpstan-src/pull/3306) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
