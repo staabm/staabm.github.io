@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Narrow arrays in union based on count() with IntegerRangeType](https://github.com/phpstan/phpstan-src/pull/3335) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update roave/backward-compatibility-check](https://github.com/phpstan/phpdoc-parser/pull/249) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
 - [Fix $matches error](https://github.com/phpstan/phpdoc-parser/pull/248) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
 - [Narrow arrays in union based on count() with smaller/greater operator](https://github.com/phpstan/phpstan-src/pull/3324) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -54,7 +55,6 @@
 - [RegexArrayShapeMatcher - Fix subject types](https://github.com/phpstan/phpstan-src/pull/3300) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [RegexArrayShapeMatcher - Fix shape of single top level alternations](https://github.com/phpstan/phpstan-src/pull/3299) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [ShouldNotHappenException extends LogicException](https://github.com/phpstan/phpstan-src/pull/3297) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [Refactor RegexGroupParser - extract RegexAlternation class](https://github.com/phpstan/phpstan-src/pull/3296) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
