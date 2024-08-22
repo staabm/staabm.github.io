@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor ReplaceFunctionsDynamicReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/3339) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Remove null-return on preg_replace() with valid patterns](https://github.com/phpstan/phpstan-src/pull/3338) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Narrow to non-falsy-string from strlen() on integer-range](https://github.com/phpstan/phpstan-src/pull/3337) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Move preg_match narrowing into specifyTypesForConstantBinaryExpression()](https://github.com/phpstan/phpstan-src/pull/3336) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [RegexArrayShapeMatcher - fix capturing item-array-shapes for preg_match_all](https://github.com/phpstan/phpstan-src/pull/3307) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [RegexArrayShapeMatcher - optional non-last groups can be empty-string](https://github.com/phpstan/phpstan-src/pull/3306) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Turn Regex classes immutable where possible](https://github.com/phpstan/phpstan-src/pull/3305) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [Narrow tagged unions based on count() with array-size](https://github.com/phpstan/phpstan-src/pull/3302) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
