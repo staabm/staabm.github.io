@@ -3,14 +3,14 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [composer/pcre](https://github.com/composer/pcre) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
+- [composer/pcre](https://github.com/composer/pcre) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
 - [sabre-io/sabre.io](https://github.com/sabre-io/sabre.io) (2 weeks ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 weeks ago)
 - [shopware/shopware](https://github.com/shopware/shopware) (3 weeks ago)
 - [php/doc-en](https://github.com/php/doc-en) (4 weeks ago)
 
@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Narrow string on strlen() == and === comparison with integer-range](https://github.com/phpstan/phpstan-src/pull/3342) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Fix null-removal on nested captured-arrays](https://github.com/composer/pcre/pull/37) on [composer/pcre](https://github.com/composer/pcre) (1 day ago)
-- [Cleanup TypeSpecifier](https://github.com/phpstan/phpstan-src/pull/3340) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Refactor ReplaceFunctionsDynamicReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/3339) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Remove null-return on preg_replace() with valid patterns](https://github.com/phpstan/phpstan-src/pull/3338) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Narrow to non-falsy-string from strlen() on integer-range](https://github.com/phpstan/phpstan-src/pull/3337) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Move preg_match narrowing into specifyTypesForConstantBinaryExpression()](https://github.com/phpstan/phpstan-src/pull/3336) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Narrow arrays in union based on count() with IntegerRangeType](https://github.com/phpstan/phpstan-src/pull/3335) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Update roave/backward-compatibility-check](https://github.com/phpstan/phpdoc-parser/pull/249) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
-- [Fix $matches error](https://github.com/phpstan/phpdoc-parser/pull/248) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
+- [Narrow string on strlen() == and === comparison with integer-range](https://github.com/phpstan/phpstan-src/pull/3342) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Fix null-removal on nested captured-arrays](https://github.com/composer/pcre/pull/37) on [composer/pcre](https://github.com/composer/pcre) (2 days ago)
+- [Cleanup TypeSpecifier](https://github.com/phpstan/phpstan-src/pull/3340) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Refactor ReplaceFunctionsDynamicReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/3339) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Remove null-return on preg_replace() with valid patterns](https://github.com/phpstan/phpstan-src/pull/3338) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Narrow to non-falsy-string from strlen() on integer-range](https://github.com/phpstan/phpstan-src/pull/3337) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Move preg_match narrowing into specifyTypesForConstantBinaryExpression()](https://github.com/phpstan/phpstan-src/pull/3336) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Narrow arrays in union based on count() with IntegerRangeType](https://github.com/phpstan/phpstan-src/pull/3335) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Update roave/backward-compatibility-check](https://github.com/phpstan/phpdoc-parser/pull/249) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 days ago)
+- [Fix $matches error](https://github.com/phpstan/phpdoc-parser/pull/248) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 days ago)
 - [Narrow arrays in union based on count() with smaller/greater operator](https://github.com/phpstan/phpstan-src/pull/3324) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [RegexArrayShapeMatcher - Fix matching literal &#34;-&#34; in character classes](https://github.com/phpstan/phpstan-src/pull/3314) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Fix item-type in list to constant-array conversion with count()](https://github.com/phpstan/phpstan-src/pull/3309) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/orm](https://github.com/doctrine/orm) - [3.2.2](https://github.com/doctrine/orm/releases/tag/3.2.2) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.183](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.183) (1 day ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.25](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.25) (2 days ago)
-- [composer/pcre](https://github.com/composer/pcre) - [3.3.0](https://github.com/composer/pcre/releases/tag/3.3.0) (4 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.11](https://github.com/phpstan/phpstan/releases/tag/1.11.11) (4 days ago)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.10](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.10) (4 days ago)
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.8.0](https://github.com/briannesbitt/Carbon/releases/tag/3.8.0) (4 days ago)
+- [doctrine/orm](https://github.com/doctrine/orm) - [3.2.2](https://github.com/doctrine/orm/releases/tag/3.2.2) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.183](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.183) (2 days ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.25](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.25) (3 days ago)
+- [composer/pcre](https://github.com/composer/pcre) - [3.3.0](https://github.com/composer/pcre/releases/tag/3.3.0) (5 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.11.11](https://github.com/phpstan/phpstan/releases/tag/1.11.11) (5 days ago)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.10](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.10) (5 days ago)
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.8.0](https://github.com/briannesbitt/Carbon/releases/tag/3.8.0) (5 days ago)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.8](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.8) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.8](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.8) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.7](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.7) (1 week ago)
