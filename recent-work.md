@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.8](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.8) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.26](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.26) (1 day ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.2.2](https://github.com/doctrine/orm/releases/tag/3.2.2) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.183](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.183) (3 days ago)
@@ -68,4 +69,3 @@
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.8.0](https://github.com/briannesbitt/Carbon/releases/tag/3.8.0) (6 days ago)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.8](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.8) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.8](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.8) (1 week ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.7](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.7) (1 week ago)
