@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix PHPStan extension for matchAllStrictGroups](https://github.com/composer/pcre/pull/38) on [composer/pcre](https://github.com/composer/pcre) (today)
 - [Narrow string on strlen() == and === comparison with integer-range](https://github.com/phpstan/phpstan-src/pull/3342) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Fix null-removal on nested captured-arrays](https://github.com/composer/pcre/pull/37) on [composer/pcre](https://github.com/composer/pcre) (4 days ago)
 - [Cleanup TypeSpecifier](https://github.com/phpstan/phpstan-src/pull/3340) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -54,7 +55,6 @@
 - [RegexArrayShapeMatcher - Fix matching literal &#34;-&#34; in character classes](https://github.com/phpstan/phpstan-src/pull/3314) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Fix item-type in list to constant-array conversion with count()](https://github.com/phpstan/phpstan-src/pull/3309) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Fix bug in array-shape subtraction](https://github.com/phpstan/phpstan-src/pull/3308) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [Adjust expectations](https://github.com/phpstan/phpstan-nette/pull/156) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
