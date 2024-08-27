@@ -16,6 +16,8 @@ It's another part about my ongoing efforts to close blind spots in PHPStan's typ
 
 I did similar things before with `phpstan-dba`, which implements SQL based [static analysis and type inference for the database access layer](https://staabm.github.io/archive.html#phpstan-dba).
 
+**Update**: Starting with PHPStan 1.12.x [precise type inference for regular expressions is enabled by default](https://phpstan.org/blog/phpstan-1-12-road-to-phpstan-2-0).
+
 
 ### The journey to precise array-shapes for `preg_match` $matches
 
