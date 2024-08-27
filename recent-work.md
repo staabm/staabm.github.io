@@ -3,8 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [composer/pcre](https://github.com/composer/pcre) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (5 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 weeks ago)
@@ -12,7 +13,6 @@
 - [sabre-io/sabre.io](https://github.com/sabre-io/sabre.io) (3 weeks ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 weeks ago)
 - [shopware/shopware](https://github.com/shopware/shopware) (3 weeks ago)
-- [php/doc-en](https://github.com/php/doc-en) (1 month ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Error on offset assignment to specialized strings](https://github.com/phpstan/phpstan-src/pull/3365) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix PHPStan extension for matchAllStrictGroups](https://github.com/composer/pcre/pull/38) on [composer/pcre](https://github.com/composer/pcre) (1 day ago)
 - [Narrow string on strlen() == and === comparison with integer-range](https://github.com/phpstan/phpstan-src/pull/3342) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Fix null-removal on nested captured-arrays](https://github.com/composer/pcre/pull/37) on [composer/pcre](https://github.com/composer/pcre) (5 days ago)
@@ -54,11 +55,11 @@
 - [Narrow arrays in union based on count() with smaller/greater operator](https://github.com/phpstan/phpstan-src/pull/3324) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [RegexArrayShapeMatcher - Fix matching literal &#34;-&#34; in character classes](https://github.com/phpstan/phpstan-src/pull/3314) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Fix item-type in list to constant-array conversion with count()](https://github.com/phpstan/phpstan-src/pull/3309) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [Fix bug in array-shape subtraction](https://github.com/phpstan/phpstan-src/pull/3308) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [sabre-io/xml](https://github.com/sabre-io/xml) - [2.2.10](https://github.com/sabre-io/xml/releases/tag/2.2.10) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.185](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.185) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.0](https://github.com/phpstan/phpstan/releases/tag/1.12.0) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.98](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.98) (today)
@@ -68,4 +69,3 @@
 - [composer/pcre](https://github.com/composer/pcre) - [3.3.0](https://github.com/composer/pcre/releases/tag/3.3.0) (1 week ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.10](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.10) (1 week ago)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.8.0](https://github.com/briannesbitt/Carbon/releases/tag/3.8.0) (1 week ago)
-- [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.8](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.8) (1 week ago)
