@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [composer/pcre](https://github.com/composer/pcre) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (6 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 weeks ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [RegexArrayShapeMatcher - infer constant string types in alternations](https://github.com/phpstan/phpstan-src/pull/3369) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3368) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Error on offset assignment to specialized strings](https://github.com/phpstan/phpstan-src/pull/3365) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix PHPStan extension for matchAllStrictGroups](https://github.com/composer/pcre/pull/38) on [composer/pcre](https://github.com/composer/pcre) (2 days ago)
@@ -54,7 +55,6 @@
 - [Update roave/backward-compatibility-check](https://github.com/phpstan/phpdoc-parser/pull/249) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (6 days ago)
 - [Fix $matches error](https://github.com/phpstan/phpdoc-parser/pull/248) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (6 days ago)
 - [Narrow arrays in union based on count() with smaller/greater operator](https://github.com/phpstan/phpstan-src/pull/3324) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [RegexArrayShapeMatcher - Fix matching literal &#34;-&#34; in character classes](https://github.com/phpstan/phpstan-src/pull/3314) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
