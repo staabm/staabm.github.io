@@ -4,12 +4,12 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [composer/pcre](https://github.com/composer/pcre) (1 day ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (6 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 weeks ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
 - [sabre-io/sabre.io](https://github.com/sabre-io/sabre.io) (3 weeks ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 weeks ago)
 - [shopware/shopware](https://github.com/shopware/shopware) (3 weeks ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix build](https://github.com/phpstan/phpstan-nette/pull/162) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
+- [Detect function variadic-ness within top-level function_exists()](https://github.com/phpstan/phpstan-src/pull/3370) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix test expectations](https://github.com/phpstan/phpstan-nette/pull/161) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
 - [RegexArrayShapeMatcher - infer constant string types in alternations](https://github.com/phpstan/phpstan-src/pull/3369) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3368) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -53,8 +55,6 @@
 - [Narrow to non-falsy-string from strlen() on integer-range](https://github.com/phpstan/phpstan-src/pull/3337) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Move preg_match narrowing into specifyTypesForConstantBinaryExpression()](https://github.com/phpstan/phpstan-src/pull/3336) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Narrow arrays in union based on count() with IntegerRangeType](https://github.com/phpstan/phpstan-src/pull/3335) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Update roave/backward-compatibility-check](https://github.com/phpstan/phpdoc-parser/pull/249) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (6 days ago)
-- [Fix $matches error](https://github.com/phpstan/phpdoc-parser/pull/248) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
