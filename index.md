@@ -1,14 +1,24 @@
 ### 👋 Hi there
 
-My name is Markus Staab and I am a open source enthusiast since 2008 ✨.
+My name is Markus Staab, a open source enthusiast since 2008 ✨.
 
 <img width="200" alt="Markus Staab - open-source lover, creator of staabm/phpstan-dba, staabm/phpstan-todo-by, rexstan and rexfactor." style="float: right;" src="https://user-images.githubusercontent.com/120441/230766751-c3d8e9ca-0c05-4c2f-b920-ef0e39930e4b.png">
 
-I am the developer behind [cs2pr](https://staabm.github.io/2022/04/03/annotate-pull-request-from-checkstyle.html), [phpstan-dba](https://staabm.github.io/2022/05/01/phpstan-dba.html), [phpstan-todo-by](https://staabm.github.io/2023/12/17/phpstan-todo-by-published.html), [rexstan](https://staabm.github.io/2022/06/18/rexstan-REDAXO-AddOn.html) and a few more projects.
+I am one of the top contributors💫 to [PHPStan](https://github.com/phpstan/phpstan-src/pulls?q=is%3Amerged+author%3Astaabm) and [Rector](https://github.com/rectorphp/rector-src/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Astaabm+is%3Amerged). It's likely you read my name in the changelog or release notes somewhere.
 
-For fun and educating myself I actively contribute to various projects - [REDAXO](https://redaxo.org/), [filp/whoops](https://github.com/filp/whoops), [sabre/dav](https://github.com/sabre-io/dav), [stomp-php](https://github.com/stomp-php/stomp-php), [propelorm](https://github.com/propelorm) - to name a few of them.
+Below you can find a list of my personal contribution highlights:
+- [precise type inference for regular expressions in PHPStan](https://phpstan.org/blog/phpstan-1-12-road-to-phpstan-2-0#general-availability-of-precise-type-inference-for-regular-expressions), see also [my blog post](https://staabm.github.io/2024/07/05/array-shapes-for-preg-match-matches.html)
+- [`@param-out` implementation](https://phpstan.org/blog/phpstan-1-9-0-with-phpdoc-asserts-list-type#parameter-type-assigned-by-reference) in PHPStan
+- [`@require-extends` and `@require-implements`](https://phpstan.org/writing-php-code/phpdocs-basics#enforcing-class-inheritance-for-interfaces-and-traits) in PHPStan, see also [my blog post](https://staabm.github.io/2024/01/15/phpstan-require-extends-implements.html)
+- `@non-falsey-string` type in PHPStan, see also [my blog post](https://staabm.github.io/2022/08/11/phpstan-non-falsy-string.html)
+- PHPStan `sprintf()`/`sscanf()` type inference, see also [my blog post](https://staabm.github.io/2022/06/23/phpstan-sprintf-sscanf-inference.html)
+- Endless pull requests to improve performance and efficiency in PHPStan and Rector
+- Hundreds of bug fixes in PHPStan, Rector, PHPUnit, Composer… 
 
-Turns out I am one of the top contributors💫 to [PHPStan](https://github.com/phpstan/phpstan-src/pulls?q=is%3Amerged+author%3Astaabm) and [Rector](https://github.com/rectorphp/rector-src/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Astaabm+is%3Amerged). It's likely you read my name in the changelog or release notes somewhere.
+Additionally I am the developer behind [cs2pr](https://staabm.github.io/2022/04/03/annotate-pull-request-from-checkstyle.html), [phpstan-dba](https://staabm.github.io/2022/05/01/phpstan-dba.html), [phpstan-todo-by](https://staabm.github.io/2023/12/17/phpstan-todo-by-published.html), [rexstan](https://staabm.github.io/2022/06/18/rexstan-REDAXO-AddOn.html) and a few more projects.
+
+For fun and educating myself I contributed to various projects - [REDAXO](https://redaxo.org/), [filp/whoops](https://github.com/filp/whoops), [sabre/dav](https://github.com/sabre-io/dav), [stomp-php](https://github.com/stomp-php/stomp-php), [propelorm](https://github.com/propelorm) - to name a few of them.
+
 
 If one of those open source projects is critical for your business, [please consider supporting my work with your sponsoring 💕](https://github.com/sponsors/staabm).
 I am also available for [paid support of PHPStan](https://staabm.github.io/2024/01/01/phpstan-customizing.html) and related static analysis tooling.
