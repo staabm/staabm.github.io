@@ -7,8 +7,8 @@ My name is Markus Staab, a open source enthusiast since 2008 ✨.
 I am one of the top contributors💫 to [PHPStan](https://github.com/phpstan/phpstan-src/pulls?q=is%3Amerged+author%3Astaabm) and [Rector](https://github.com/rectorphp/rector-src/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Astaabm+is%3Amerged). It's likely you read my name in the changelog or release notes somewhere.
 
 Below you can find a list of my personal contribution highlights:
-- [precise type inference for regular expressions in PHPStan](https://phpstan.org/blog/phpstan-1-12-road-to-phpstan-2-0#general-availability-of-precise-type-inference-for-regular-expressions), see also [my blog post](https://staabm.github.io/2024/07/05/array-shapes-for-preg-match-matches.html)
 - [`@param-out` implementation](https://phpstan.org/blog/phpstan-1-9-0-with-phpdoc-asserts-list-type#parameter-type-assigned-by-reference) in PHPStan
+- [type inference for regular expressions in PHPStan](https://phpstan.org/blog/phpstan-1-12-road-to-phpstan-2-0#general-availability-of-precise-type-inference-for-regular-expressions), see also [my blog post](https://staabm.github.io/2024/07/05/array-shapes-for-preg-match-matches.html)
 - [`@require-extends` and `@require-implements`](https://phpstan.org/writing-php-code/phpdocs-basics#enforcing-class-inheritance-for-interfaces-and-traits) in PHPStan, see also [my blog post](https://staabm.github.io/2024/01/15/phpstan-require-extends-implements.html)
 - `@non-falsey-string` type in PHPStan, see also [my blog post](https://staabm.github.io/2022/08/11/phpstan-non-falsy-string.html)
 - PHPStan `sprintf()`/`sscanf()` type inference, see also [my blog post](https://staabm.github.io/2022/06/23/phpstan-sprintf-sscanf-inference.html)
