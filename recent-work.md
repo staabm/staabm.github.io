@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.30.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.30.0) (today)
 - [composer/pcre](https://github.com/composer/pcre) - [3.3.1](https://github.com/composer/pcre/releases/tag/3.3.1) (1 day ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.99](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.99) (1 day ago)
 - [sabre-io/xml](https://github.com/sabre-io/xml) - [2.2.10](https://github.com/sabre-io/xml/releases/tag/2.2.10) (2 days ago)
@@ -68,4 +69,3 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.26](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.26) (5 days ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.2.2](https://github.com/doctrine/orm/releases/tag/3.2.2) (6 days ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.10](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.10) (1 week ago)
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.8.0](https://github.com/briannesbitt/Carbon/releases/tag/3.8.0) (1 week ago)
