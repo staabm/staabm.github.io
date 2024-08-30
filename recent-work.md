@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Narrow array on count(), string on strlen() with positive-int](https://github.com/phpstan/phpstan-src/pull/3373) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix build](https://github.com/phpstan/phpstan-nette/pull/162) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 days ago)
 - [Detect function variadic-ness within top-level function_exists()](https://github.com/phpstan/phpstan-src/pull/3370) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fix test expectations](https://github.com/phpstan/phpstan-nette/pull/161) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 days ago)
@@ -54,7 +55,6 @@
 - [Remove null-return on preg_replace() with valid patterns](https://github.com/phpstan/phpstan-src/pull/3338) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Narrow to non-falsy-string from strlen() on integer-range](https://github.com/phpstan/phpstan-src/pull/3337) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Move preg_match narrowing into specifyTypesForConstantBinaryExpression()](https://github.com/phpstan/phpstan-src/pull/3336) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Narrow arrays in union based on count() with IntegerRangeType](https://github.com/phpstan/phpstan-src/pull/3335) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
