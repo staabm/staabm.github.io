@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.0](https://github.com/lucatume/wp-browser/releases/tag/3.7.0) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.100](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.100) (1 day ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.30.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.30.0) (3 days ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.3.1](https://github.com/composer/pcre/releases/tag/3.3.1) (4 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.8](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.8) (1 week ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.26](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.26) (1 week ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.2.2](https://github.com/doctrine/orm/releases/tag/3.2.2) (1 week ago)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.10](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.10) (1 week ago)
