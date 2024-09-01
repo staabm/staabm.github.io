@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [TypeSpecifier: Narrow `(int) $expr` like `$expr != 0`](https://github.com/phpstan/phpstan-src/pull/3384) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [TypeSpecifier: Narrow `(bool) $expr` like `$expr == true`](https://github.com/phpstan/phpstan-src/pull/3380) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [RegexArrayShapeMatcher - improve type inference in alternations](https://github.com/phpstan/phpstan-src/pull/3375) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Narrow array on count(), string on strlen() with positive-int](https://github.com/phpstan/phpstan-src/pull/3373) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Fix null-removal on nested captured-arrays](https://github.com/composer/pcre/pull/37) on [composer/pcre](https://github.com/composer/pcre) (1 week ago)
 - [Cleanup TypeSpecifier](https://github.com/phpstan/phpstan-src/pull/3340) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Refactor ReplaceFunctionsDynamicReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/3339) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Remove null-return on preg_replace() with valid patterns](https://github.com/phpstan/phpstan-src/pull/3338) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
