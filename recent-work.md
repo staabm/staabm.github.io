@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improve type narrowing after string functions](https://github.com/phpstan/phpstan-src/pull/3390) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Narrow array on count() with positive-int](https://github.com/phpstan/phpstan-src/pull/3389) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [TypeSpecifier: Narrow `(string) $expr` like `$expr != &#39;&#39;`](https://github.com/phpstan/phpstan-src/pull/3387) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [TypeSpecifier: Narrow `(int) $expr` like `$expr != 0`](https://github.com/phpstan/phpstan-src/pull/3384) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [TypeSpecifier: Narrow `(bool) $expr` like `$expr == true`](https://github.com/phpstan/phpstan-src/pull/3380) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Error on offset assignment to specialized strings](https://github.com/phpstan/phpstan-src/pull/3365) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Fix PHPStan extension for matchAllStrictGroups](https://github.com/composer/pcre/pull/38) on [composer/pcre](https://github.com/composer/pcre) (1 week ago)
 - [Narrow string on strlen() == and === comparison with integer-range](https://github.com/phpstan/phpstan-src/pull/3342) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix null-removal on nested captured-arrays](https://github.com/composer/pcre/pull/37) on [composer/pcre](https://github.com/composer/pcre) (1 week ago)
-- [Cleanup TypeSpecifier](https://github.com/phpstan/phpstan-src/pull/3340) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
