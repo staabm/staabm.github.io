@@ -3,21 +3,21 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (5 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
-- [composer/pcre](https://github.com/composer/pcre) (6 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (6 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
+- [composer/pcre](https://github.com/composer/pcre) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 weeks ago)
-- [sabre-io/sabre.io](https://github.com/sabre-io/sabre.io) (4 weeks ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 weeks ago)
+- [sabre-io/sabre.io](https://github.com/sabre-io/sabre.io) (1 month ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 month ago)
 - [shopware/shopware](https://github.com/shopware/shopware) (1 month ago)
 
 
 #### 📜 My recent blog posts
 
-- [Array Shapes For Preg Match Matches](https://staabm.github.io/2024/07/05/array-shapes-for-preg-match-matches.html) (1 month ago)
+- [Array Shapes For Preg Match Matches](https://staabm.github.io/2024/07/05/array-shapes-for-preg-match-matches.html) (2 months ago)
 - [Readable end-to-end tests for PHPStan with bashunit](https://staabm.github.io/2024/06/28/readable-phpstan-end-to-end-tests-with-bashunit.html) (2 months ago)
 - [Sponsored PHPStan feature: require-extends and require-implements phpDoc](https://staabm.github.io/2024/01/15/phpstan-require-extends-implements.html) (7 months ago)
 - [Published: Open source contributions statistics generator](https://staabm.github.io/2024/01/10/oss-contribs-published.html) (7 months ago)
@@ -40,32 +40,32 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Improve type narrowing after string functions](https://github.com/phpstan/phpstan-src/pull/3390) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Narrow array on count() with positive-int](https://github.com/phpstan/phpstan-src/pull/3389) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [TypeSpecifier: Narrow `(string) $expr` like `$expr != &#39;&#39;`](https://github.com/phpstan/phpstan-src/pull/3387) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [TypeSpecifier: Narrow `(int) $expr` like `$expr != 0`](https://github.com/phpstan/phpstan-src/pull/3384) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [TypeSpecifier: Narrow `(bool) $expr` like `$expr == true`](https://github.com/phpstan/phpstan-src/pull/3380) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [RegexArrayShapeMatcher - improve type inference in alternations](https://github.com/phpstan/phpstan-src/pull/3375) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Narrow array on count(), string on strlen() with positive-int](https://github.com/phpstan/phpstan-src/pull/3373) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Fix build](https://github.com/phpstan/phpstan-nette/pull/162) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (5 days ago)
-- [Detect function variadic-ness within top-level function_exists()](https://github.com/phpstan/phpstan-src/pull/3370) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Fix test expectations](https://github.com/phpstan/phpstan-nette/pull/161) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (5 days ago)
-- [RegexArrayShapeMatcher - infer constant string types in alternations](https://github.com/phpstan/phpstan-src/pull/3369) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/3368) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Error on offset assignment to specialized strings](https://github.com/phpstan/phpstan-src/pull/3365) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Improve type narrowing after string functions](https://github.com/phpstan/phpstan-src/pull/3390) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Narrow array on count() with positive-int](https://github.com/phpstan/phpstan-src/pull/3389) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [TypeSpecifier: Narrow `(string) $expr` like `$expr != &#39;&#39;`](https://github.com/phpstan/phpstan-src/pull/3387) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [TypeSpecifier: Narrow `(int) $expr` like `$expr != 0`](https://github.com/phpstan/phpstan-src/pull/3384) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [TypeSpecifier: Narrow `(bool) $expr` like `$expr == true`](https://github.com/phpstan/phpstan-src/pull/3380) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [RegexArrayShapeMatcher - improve type inference in alternations](https://github.com/phpstan/phpstan-src/pull/3375) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Narrow array on count(), string on strlen() with positive-int](https://github.com/phpstan/phpstan-src/pull/3373) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Fix build](https://github.com/phpstan/phpstan-nette/pull/162) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (6 days ago)
+- [Detect function variadic-ness within top-level function_exists()](https://github.com/phpstan/phpstan-src/pull/3370) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Fix test expectations](https://github.com/phpstan/phpstan-nette/pull/161) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (6 days ago)
+- [RegexArrayShapeMatcher - infer constant string types in alternations](https://github.com/phpstan/phpstan-src/pull/3369) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/3368) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Error on offset assignment to specialized strings](https://github.com/phpstan/phpstan-src/pull/3365) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix PHPStan extension for matchAllStrictGroups](https://github.com/composer/pcre/pull/38) on [composer/pcre](https://github.com/composer/pcre) (1 week ago)
 - [Narrow string on strlen() == and === comparison with integer-range](https://github.com/phpstan/phpstan-src/pull/3342) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.101](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.101) (today)
-- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.15.0](https://github.com/TypedDevs/bashunit/releases/tag/0.15.0) (1 day ago)
-- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.0](https://github.com/lucatume/wp-browser/releases/tag/3.7.0) (1 day ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.30.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.30.0) (4 days ago)
-- [composer/pcre](https://github.com/composer/pcre) - [3.3.1](https://github.com/composer/pcre/releases/tag/3.3.1) (5 days ago)
-- [sabre-io/xml](https://github.com/sabre-io/xml) - [2.2.10](https://github.com/sabre-io/xml/releases/tag/2.2.10) (6 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.185](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.185) (6 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.0](https://github.com/phpstan/phpstan/releases/tag/1.12.0) (6 days ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.101](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.101) (1 day ago)
+- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.15.0](https://github.com/TypedDevs/bashunit/releases/tag/0.15.0) (2 days ago)
+- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.0](https://github.com/lucatume/wp-browser/releases/tag/3.7.0) (2 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.30.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.30.0) (5 days ago)
+- [composer/pcre](https://github.com/composer/pcre) - [3.3.1](https://github.com/composer/pcre/releases/tag/3.3.1) (6 days ago)
+- [sabre-io/xml](https://github.com/sabre-io/xml) - [2.2.10](https://github.com/sabre-io/xml/releases/tag/2.2.10) (1 week ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.185](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.185) (1 week ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.0](https://github.com/phpstan/phpstan/releases/tag/1.12.0) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.8](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.8) (1 week ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.26](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.26) (1 week ago)
