@@ -3,8 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (6 days ago)
 - [composer/pcre](https://github.com/composer/pcre) (1 week ago)
@@ -12,7 +13,6 @@
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 weeks ago)
 - [sabre-io/sabre.io](https://github.com/sabre-io/sabre.io) (1 month ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 month ago)
-- [shopware/shopware](https://github.com/shopware/shopware) (1 month ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [remove `composer-dependency-analyser.php` from releases](https://github.com/TomasVotruba/unused-public/pull/126) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [ArrayShapeMatcher - Don&#39;t optimize alternations with optional-groups for tagged-unions](https://github.com/phpstan/phpstan-src/pull/3395) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [ArrayShapeMatcher - Fix alternations containing a $-only case](https://github.com/phpstan/phpstan-src/pull/3394) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify specifyTypesForConstantBinaryExpression](https://github.com/phpstan/phpstan-src/pull/3392) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,11 +55,11 @@
 - [Fix build](https://github.com/phpstan/phpstan-nette/pull/162) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (6 days ago)
 - [Detect function variadic-ness within top-level function_exists()](https://github.com/phpstan/phpstan-src/pull/3370) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Fix test expectations](https://github.com/phpstan/phpstan-nette/pull/161) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (6 days ago)
-- [RegexArrayShapeMatcher - infer constant string types in alternations](https://github.com/phpstan/phpstan-src/pull/3369) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.186](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.186) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.1](https://github.com/phpstan/phpstan/releases/tag/1.12.1) (today)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.6.0](https://github.com/shopware/shopware/releases/tag/v6.6.6.0) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.3.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.2) (today)
@@ -68,4 +69,3 @@
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.30.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.30.0) (5 days ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.3.1](https://github.com/composer/pcre/releases/tag/3.3.1) (6 days ago)
 - [sabre-io/xml](https://github.com/sabre-io/xml) - [2.2.10](https://github.com/sabre-io/xml/releases/tag/2.2.10) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.185](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.185) (1 week ago)
