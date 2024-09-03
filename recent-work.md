@@ -4,9 +4,9 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (6 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [composer/pcre](https://github.com/composer/pcre) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ArrayShapeMatcher - Don&#39;t optimize alternations with optional-groups for tagged-unions](https://github.com/phpstan/phpstan-src/pull/3395) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [ArrayShapeMatcher - Fix alternations containing a $-only case](https://github.com/phpstan/phpstan-src/pull/3394) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify specifyTypesForConstantBinaryExpression](https://github.com/phpstan/phpstan-src/pull/3392) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [TypeSpecifier: Narrow `(float) $expr` like `$expr != false`](https://github.com/phpstan/phpstan-src/pull/3391) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Detect function variadic-ness within top-level function_exists()](https://github.com/phpstan/phpstan-src/pull/3370) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Fix test expectations](https://github.com/phpstan/phpstan-nette/pull/161) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (6 days ago)
 - [RegexArrayShapeMatcher - infer constant string types in alternations](https://github.com/phpstan/phpstan-src/pull/3369) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/3368) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
