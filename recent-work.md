@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.6.0](https://github.com/shopware/shopware/releases/tag/v6.6.6.0) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.3.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.2) (today)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.101](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.101) (1 day ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.15.0](https://github.com/TypedDevs/bashunit/releases/tag/0.15.0) (2 days ago)
@@ -68,4 +69,3 @@
 - [sabre-io/xml](https://github.com/sabre-io/xml) - [2.2.10](https://github.com/sabre-io/xml/releases/tag/2.2.10) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.185](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.185) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.0](https://github.com/phpstan/phpstan/releases/tag/1.12.0) (1 week ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [1.3.8](https://github.com/phpstan/phpstan-nette/releases/tag/1.3.8) (1 week ago)
