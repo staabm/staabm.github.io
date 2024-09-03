@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ArrayShapeMatcher - Fix alternations containing a $-only case](https://github.com/phpstan/phpstan-src/pull/3394) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify specifyTypesForConstantBinaryExpression](https://github.com/phpstan/phpstan-src/pull/3392) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [TypeSpecifier: Narrow `(float) $expr` like `$expr != false`](https://github.com/phpstan/phpstan-src/pull/3391) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Improve type narrowing after string functions](https://github.com/phpstan/phpstan-src/pull/3390) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix test expectations](https://github.com/phpstan/phpstan-nette/pull/161) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (6 days ago)
 - [RegexArrayShapeMatcher - infer constant string types in alternations](https://github.com/phpstan/phpstan-src/pull/3369) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3368) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Error on offset assignment to specialized strings](https://github.com/phpstan/phpstan-src/pull/3365) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
