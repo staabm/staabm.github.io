@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [version_compare() operator-arg can be null](https://github.com/phpstan/phpstan-src/pull/3399) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify isFloat checks](https://github.com/phpstan/phpstan-src/pull/3397) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [remove `composer-dependency-analyser.php` from releases](https://github.com/TomasVotruba/unused-public/pull/126) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
 - [ArrayShapeMatcher - Don&#39;t optimize alternations with optional-groups for tagged-unions](https://github.com/phpstan/phpstan-src/pull/3395) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [RegexArrayShapeMatcher - improve type inference in alternations](https://github.com/phpstan/phpstan-src/pull/3375) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Narrow array on count(), string on strlen() with positive-int](https://github.com/phpstan/phpstan-src/pull/3373) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Fix build](https://github.com/phpstan/phpstan-nette/pull/162) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
-- [Detect function variadic-ness within top-level function_exists()](https://github.com/phpstan/phpstan-src/pull/3370) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
