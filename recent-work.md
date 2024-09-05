@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.102](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.102) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.3.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.3) (1 day ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.14](https://github.com/shopware/shopware/releases/tag/v6.5.8.14) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.186](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.186) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.1](https://github.com/phpstan/phpstan/releases/tag/1.12.1) (2 days ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.101](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.101) (3 days ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.15.0](https://github.com/TypedDevs/bashunit/releases/tag/0.15.0) (4 days ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.0](https://github.com/lucatume/wp-browser/releases/tag/3.7.0) (4 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.30.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.30.0) (1 week ago)
