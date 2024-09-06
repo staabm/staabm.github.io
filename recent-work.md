@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Narrow string on *strlen() with positive-int](https://github.com/phpstan/phpstan-src/pull/3407) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [version_compare() operator-arg can be null](https://github.com/phpstan/phpstan-src/pull/3399) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Simplify isFloat checks](https://github.com/phpstan/phpstan-src/pull/3397) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [remove `composer-dependency-analyser.php` from releases](https://github.com/TomasVotruba/unused-public/pull/126) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
@@ -54,7 +55,6 @@
 - [TypeSpecifier: Narrow `(bool) $expr` like `$expr == true`](https://github.com/phpstan/phpstan-src/pull/3380) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [RegexArrayShapeMatcher - improve type inference in alternations](https://github.com/phpstan/phpstan-src/pull/3375) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Narrow array on count(), string on strlen() with positive-int](https://github.com/phpstan/phpstan-src/pull/3373) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix build](https://github.com/phpstan/phpstan-nette/pull/162) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
