@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [composer/pcre](https://github.com/composer/pcre) (1 week ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sabre-io/xml](https://github.com/sabre-io/xml) - [4.0.6](https://github.com/sabre-io/xml/releases/tag/4.0.6) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.187](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.187) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.9](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.9) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.2](https://github.com/phpstan/phpstan/releases/tag/1.12.2) (1 day ago)
-- [sabre-io/xml](https://github.com/sabre-io/xml) - [3.0.5](https://github.com/sabre-io/xml/releases/tag/3.0.5) (1 day ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.102](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.102) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.3.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.3) (2 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.14](https://github.com/shopware/shopware/releases/tag/v6.5.8.14) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.186](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.186) (3 days ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.15.0](https://github.com/TypedDevs/bashunit/releases/tag/0.15.0) (5 days ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.0](https://github.com/lucatume/wp-browser/releases/tag/3.7.0) (5 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.30.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.30.0) (1 week ago)
