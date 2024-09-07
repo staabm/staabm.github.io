@@ -4,7 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement InvalidDivisionOperationRule](https://github.com/phpstan/phpstan-src/pull/3417) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix wrongly convertion of list&lt;T&gt; to array{T}](https://github.com/phpstan/phpstan-src/pull/3412) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Extract MethodCallReturnTypeHelper from MutatingScope](https://github.com/phpstan/phpstan-src/pull/3410) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Narrow string on *strlen() with positive-int](https://github.com/phpstan/phpstan-src/pull/3407) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Narrow array on count() with positive-int](https://github.com/phpstan/phpstan-src/pull/3389) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [TypeSpecifier: Narrow `(string) $expr` like `$expr != &#39;&#39;`](https://github.com/phpstan/phpstan-src/pull/3387) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [TypeSpecifier: Narrow `(int) $expr` like `$expr != 0`](https://github.com/phpstan/phpstan-src/pull/3384) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [TypeSpecifier: Narrow `(bool) $expr` like `$expr == true`](https://github.com/phpstan/phpstan-src/pull/3380) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
