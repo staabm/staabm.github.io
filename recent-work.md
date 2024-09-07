@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.30.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.30.1) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.27](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.27) (today)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.1](https://github.com/lucatume/wp-browser/releases/tag/3.7.1) (today)
 - [sabre-io/xml](https://github.com/sabre-io/xml) - [4.0.6](https://github.com/sabre-io/xml/releases/tag/4.0.6) (1 day ago)
@@ -68,4 +69,3 @@
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.102](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.102) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.3.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.3) (3 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.14](https://github.com/shopware/shopware/releases/tag/v6.5.8.14) (3 days ago)
-- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.15.0](https://github.com/TypedDevs/bashunit/releases/tag/0.15.0) (6 days ago)
