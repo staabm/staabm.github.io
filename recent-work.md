@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Report maybe division by zero in InvalidBinaryOperationRule](https://github.com/phpstan/phpstan-src/pull/3419) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement InvalidDivisionOperationRule](https://github.com/phpstan/phpstan-src/pull/3417) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix wrongly convertion of list&lt;T&gt; to array{T}](https://github.com/phpstan/phpstan-src/pull/3412) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Extract MethodCallReturnTypeHelper from MutatingScope](https://github.com/phpstan/phpstan-src/pull/3410) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Improve type narrowing after string functions](https://github.com/phpstan/phpstan-src/pull/3390) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Narrow array on count() with positive-int](https://github.com/phpstan/phpstan-src/pull/3389) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [TypeSpecifier: Narrow `(string) $expr` like `$expr != &#39;&#39;`](https://github.com/phpstan/phpstan-src/pull/3387) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [TypeSpecifier: Narrow `(int) $expr` like `$expr != 0`](https://github.com/phpstan/phpstan-src/pull/3384) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
