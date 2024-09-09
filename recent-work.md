@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.3.4](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.4) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.26.0](https://github.com/vimeo/psalm/releases/tag/5.26.0) (1 day ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.30.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.30.1) (2 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.27](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.27) (2 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.9](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.9) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.2](https://github.com/phpstan/phpstan/releases/tag/1.12.2) (4 days ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.102](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.102) (4 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.3.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.3) (5 days ago)
