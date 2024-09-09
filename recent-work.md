@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [php/doc-en](https://github.com/php/doc-en) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (6 days ago)
@@ -12,7 +13,6 @@
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 weeks ago)
 - [sabre-io/sabre.io](https://github.com/sabre-io/sabre.io) (1 month ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 month ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent warning in range() on php 7.x](https://github.com/phpstan/phpstan-src/pull/3424) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [fix typo in range() exception case description](https://github.com/php/doc-en/pull/3730) on [php/doc-en](https://github.com/php/doc-en) (today)
 - [Fix const bool subtraction from mixed](https://github.com/phpstan/phpstan-src/pull/3421) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [More precise mixed-type subtraction](https://github.com/phpstan/phpstan-src/pull/3420) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Report maybe division by zero in InvalidBinaryOperationRule](https://github.com/phpstan/phpstan-src/pull/3419) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [ArrayShapeMatcher - Don&#39;t optimize alternations with optional-groups for tagged-unions](https://github.com/phpstan/phpstan-src/pull/3395) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [ArrayShapeMatcher - Fix alternations containing a $-only case](https://github.com/phpstan/phpstan-src/pull/3394) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Simplify specifyTypesForConstantBinaryExpression](https://github.com/phpstan/phpstan-src/pull/3392) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [TypeSpecifier: Narrow `(float) $expr` like `$expr != false`](https://github.com/phpstan/phpstan-src/pull/3391) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Improve type narrowing after string functions](https://github.com/phpstan/phpstan-src/pull/3390) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
