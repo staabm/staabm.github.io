@@ -5,6 +5,7 @@
 
 - [php/doc-en](https://github.com/php/doc-en) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (6 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
@@ -12,7 +13,6 @@
 - [composer/pcre](https://github.com/composer/pcre) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 weeks ago)
-- [sabre-io/sabre.io](https://github.com/sabre-io/sabre.io) (1 month ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [update composer integration test](https://github.com/phpstan/phpstan/pull/11669) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [update composer integration test](https://github.com/phpstan/phpstan/pull/11668) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Prevent warning in range() on php 7.x](https://github.com/phpstan/phpstan-src/pull/3424) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [fix typo in range() exception case description](https://github.com/php/doc-en/pull/3730) on [php/doc-en](https://github.com/php/doc-en) (today)
@@ -54,7 +55,6 @@
 - [Simplify isFloat checks](https://github.com/phpstan/phpstan-src/pull/3397) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [remove `composer-dependency-analyser.php` from releases](https://github.com/TomasVotruba/unused-public/pull/126) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (6 days ago)
 - [ArrayShapeMatcher - Don&#39;t optimize alternations with optional-groups for tagged-unions](https://github.com/phpstan/phpstan-src/pull/3395) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [ArrayShapeMatcher - Fix alternations containing a $-only case](https://github.com/phpstan/phpstan-src/pull/3394) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
