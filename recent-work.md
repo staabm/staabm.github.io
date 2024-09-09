@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.26.1](https://github.com/vimeo/psalm/releases/tag/5.26.1) (today)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.2](https://github.com/lucatume/wp-browser/releases/tag/3.7.2) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.188](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.188) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.3](https://github.com/phpstan/phpstan/releases/tag/1.12.3) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.3.4](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.4) (today)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.26.0](https://github.com/vimeo/psalm/releases/tag/5.26.0) (1 day ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.30.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.30.1) (2 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.27](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.27) (2 days ago)
 - [sabre-io/xml](https://github.com/sabre-io/xml) - [4.0.6](https://github.com/sabre-io/xml/releases/tag/4.0.6) (3 days ago)
