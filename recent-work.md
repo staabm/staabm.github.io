@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [update composer integration test](https://github.com/phpstan/phpstan/pull/11668) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Prevent warning in range() on php 7.x](https://github.com/phpstan/phpstan-src/pull/3424) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [fix typo in range() exception case description](https://github.com/php/doc-en/pull/3730) on [php/doc-en](https://github.com/php/doc-en) (today)
 - [Fix const bool subtraction from mixed](https://github.com/phpstan/phpstan-src/pull/3421) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [remove `composer-dependency-analyser.php` from releases](https://github.com/TomasVotruba/unused-public/pull/126) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (6 days ago)
 - [ArrayShapeMatcher - Don&#39;t optimize alternations with optional-groups for tagged-unions](https://github.com/phpstan/phpstan-src/pull/3395) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [ArrayShapeMatcher - Fix alternations containing a $-only case](https://github.com/phpstan/phpstan-src/pull/3394) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Simplify specifyTypesForConstantBinaryExpression](https://github.com/phpstan/phpstan-src/pull/3392) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
