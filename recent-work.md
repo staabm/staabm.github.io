@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.103](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.103) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.26.1](https://github.com/vimeo/psalm/releases/tag/5.26.1) (1 day ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.2](https://github.com/lucatume/wp-browser/releases/tag/3.7.2) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.188](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.188) (1 day ago)
@@ -68,4 +69,3 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.27](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.27) (3 days ago)
 - [sabre-io/xml](https://github.com/sabre-io/xml) - [4.0.6](https://github.com/sabre-io/xml/releases/tag/4.0.6) (4 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.9](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.9) (5 days ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.102](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.102) (5 days ago)
