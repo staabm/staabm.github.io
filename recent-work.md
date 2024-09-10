@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/3430) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [update composer integration test](https://github.com/phpstan/phpstan/pull/11669) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [update composer integration test](https://github.com/phpstan/phpstan/pull/11668) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [Prevent warning in range() on php 7.x](https://github.com/phpstan/phpstan-src/pull/3424) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [version_compare() operator-arg can be null](https://github.com/phpstan/phpstan-src/pull/3399) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Simplify isFloat checks](https://github.com/phpstan/phpstan-src/pull/3397) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [remove `composer-dependency-analyser.php` from releases](https://github.com/TomasVotruba/unused-public/pull/126) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
-- [ArrayShapeMatcher - Don&#39;t optimize alternations with optional-groups for tagged-unions](https://github.com/phpstan/phpstan-src/pull/3395) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
