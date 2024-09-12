@@ -4,9 +4,9 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [php/doc-en](https://github.com/php/doc-en) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
+- [php/doc-en](https://github.com/php/doc-en) (3 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
@@ -50,7 +50,7 @@
 - [More precise mixed-type subtraction](https://github.com/phpstan/phpstan-src/pull/3420) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Report maybe division by zero in InvalidBinaryOperationRule](https://github.com/phpstan/phpstan-src/pull/3419) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Implement InvalidDivisionOperationRule](https://github.com/phpstan/phpstan-src/pull/3417) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Fix wrongly convertion of list&lt;T&gt; to array{T}](https://github.com/phpstan/phpstan-src/pull/3412) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Fix wrongly conversion of list&lt;T&gt; to array{T}](https://github.com/phpstan/phpstan-src/pull/3412) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Extract MethodCallReturnTypeHelper from MutatingScope](https://github.com/phpstan/phpstan-src/pull/3410) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Narrow string on *strlen() with positive-int](https://github.com/phpstan/phpstan-src/pull/3407) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [version_compare() operator-arg can be null](https://github.com/phpstan/phpstan-src/pull/3399) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
