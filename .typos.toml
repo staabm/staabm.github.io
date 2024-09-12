@@ -1,0 +1,16 @@
+[files]
+extend-exclude = [
+    ".git/",
+    "3rd-party",
+    "talks/phpstan-dba@phpugffm/assets/",
+]
+ignore-hidden = false
+
+[default]
+extend-ignore-re = [
+    "\\bmaks-rafalko\\b",
+]
+
+[default.extend-identifiers]
+# Typos
+"Github" = "GitHub"
