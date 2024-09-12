@@ -68,4 +68,4 @@ Additionally you can make sure that changes in your database schema will not bre
 
 ### Read more
 
-Please [find more articles relatd to phpstan-dba](https://staabm.github.io/archive.html#phpstan-dba) and its featureset.
+Please [find more articles related to phpstan-dba](https://staabm.github.io/archive.html#phpstan-dba) and its featureset.

@@ -43,7 +43,7 @@ These are the top level steps I try to follow:
    3. Add parameter types
 3. re-generate and re-analyze your baseline to see the improvements / you might create a [PHPStan baseline trend report](https://github.com/staabm/phpstan-baseline-analysis#example-trend-analysis)
 
-Analysing the baseline is technically not required. Crunching the numbers can help keep a dev team motivated or these can be used to convince managment people about your current state and potential goals.
+Analysing the baseline is technically not required. Crunching the numbers can help keep a dev team motivated or these can be used to convince management people about your current state and potential goals.
 
 ## Setup
 
@@ -83,7 +83,7 @@ It's important to add return types first, as it's the least risky change and sho
 - Give classes some extra attention which somehow integrate with libraries you use, like e.g. Doctrine-Collections.
 - If classes implement magic methods (e.g. `__get`), review related changes properly.
 
-If rector changes things you don't like, you may [ignore source files for single rules or even skip the source file completly](https://getrector.com/documentation/ignoring-rules-or-paths).
+If rector changes things you don't like, you may [ignore source files for single rules or even skip the source file completely](https://getrector.com/documentation/ignoring-rules-or-paths).
 You can re-visit the skipped cases later again. You may feel more confident after the codebase got enriched with types and PHPStan can better understand the code in question.
 
 I had the most success using the [`ReturnTypeFromStrict*` Rector rules](https://github.com/rectorphp/rector/blob/main/docs/rector_rules_overview.md) first.

@@ -27,7 +27,7 @@ Looking back I had a great journey contributing to PHPStan.
 All started on the 11th Nov 2019, with [a small PR fixing some windows-only glitches](https://github.com/phpstan/phpstan-src/pull/8).
 At that time the PHPStan development setup was mainly used on macOS, so I had to fix a few windows DX things before starting into the real business.
 
-As a newcomer to the project, I firstly worked on things I had expertise with, [like improving DX](https://github.com/phpstan/phpstan-src/pull/51) and [integration with the Github Actions pipeline](https://github.com/phpstan/phpstan-src/pull/317).
+As a newcomer to the project, I firstly worked on things I had expertise with, [like improving DX](https://github.com/phpstan/phpstan-src/pull/51) and [integration with the GitHub Actions pipeline](https://github.com/phpstan/phpstan-src/pull/317).
 
 
 ### `non-empty-string` inference improvements

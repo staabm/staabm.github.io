@@ -17,10 +17,10 @@ In a series of pull requests I have been working on improving the PHPStan type i
 
 ### `sprintf` inference
 
-On the 4th of june Philippe Villiers (aka [@kissifrot](https://github.com/kissifrot)) reported an [interessting issue regarding `sprintf`](https://github.com/phpstan/phpstan/issues/7387):
+On the 4th of june Philippe Villiers (aka [@kissifrot](https://github.com/kissifrot)) reported an [interesting issue regarding `sprintf`](https://github.com/phpstan/phpstan/issues/7387):
 
 ```php
-// inital reported snippet, which reported errors on PHPStan until 1.7.14
+// initial reported snippet, which reported errors on PHPStan until 1.7.14
 <?php declare(strict_types = 1);
 
 class HelloWorld
@@ -61,10 +61,10 @@ While working thru all this I had a few [more ideas about possible use cases](ht
 
 ### `sscanf` inference
 
-I always try to step back for a moment and get the overall picture of my change. While doing a walk arround my home area I realized that there is a obvious counterpart to `sprintf` - namely `sscanf`.
+I always try to step back for a moment and get the overall picture of my change. While doing a walk around my home area I realized that there is a obvious counterpart to `sprintf` - namely `sscanf`.
 While `sprintf` is used to format a string, `sscanf` can be used to parse a string back into separate parts.
 
-For the time beeing PHPStan treated the returned variables as a generic array, without further type specification.
+For the time being PHPStan treated the returned variables as a generic array, without further type specification.
 
 ```php
 $parts = sscanf($mandate, "%s %d %d");
@@ -94,7 +94,7 @@ Working on this kind of problems makes really fun. I have used the `sprintf` and
 
 PHPStan until 1.7.14 did not have a good idea about the types involved, and therefore you would have written some unnecessary code to make it aware of the obvious stuff like:
 ```php
-// PHPStan until 1.7.14, you had to work arround unknown types
+// PHPStan until 1.7.14, you had to work around unknown types
 list(
   $month, // mixed
   $day, // mixed

@@ -54,7 +54,7 @@ trait SoftDeletingTrait {
 }
 ```
 
-With this declaration we define that a class wich uses the `SoftDeletingTrait` has to extend the `DatabaseModel` class.
+With this declaration we define that a class which uses the `SoftDeletingTrait` has to extend the `DatabaseModel` class.
 If not, PHPStan will report an error. See the full [example running in the PHPStan sandbox](https://phpstan.org/r/490b9ffe-a2f0-404f-a34d-05042e790da4)
 
 #### `@phpstan-require-extends` interface-example
@@ -115,7 +115,7 @@ trait SoftDeletingTrait {
 }
 ```
 
-With this declaration we define that a class wich uses the `SoftDeletingTrait` has to implement a `DatabaseModelInterface` interface.
+With this declaration we define that a class which uses the `SoftDeletingTrait` has to implement a `DatabaseModelInterface` interface.
 
 See the full [example running in the PHPStan sandbox](https://phpstan.org/r/124389c9-d215-422a-b09c-2299cc8b33f0)
 
@@ -136,4 +136,4 @@ The new feature is mentioned in the [PHPStan docs](https://phpstan.org/writing-p
 ### Future scope: generics support
 
 We plan to support generics in these phpDoc annotations in the future, see the [described idea by Ondřej Mirtes](https://github.com/phpstan/phpstan-src/pull/2856#issuecomment-1884877444).
-If you are interessted in this or any other feature addition, please [considering sponsoring it](https://staabm.github.io/2024/01/01/phpstan-customizing.html).
+If you are interested in this or any other feature addition, please [considering sponsoring it](https://staabm.github.io/2024/01/01/phpstan-customizing.html).

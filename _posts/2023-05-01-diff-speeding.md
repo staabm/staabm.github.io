@@ -16,9 +16,9 @@ After bringing a performance boost to PHPStan in [Speedzember](https://staabm.gi
 
 ## Look into it
 
-Like ususal I started into the use-case at hand by running a profiler on my workload.
+Like usual I started into the use-case at hand by running a profiler on my workload.
 One thing which stood out was the amount of time spent while creating the diff between the original and the migrated code after the actual code transformation happened.
-I found it pretty suprising as my initial guess would be a slow type-resolving or duplicate work within a certain Rector rule.
+I found it pretty surprising as my initial guess would be a slow type-resolving or duplicate work within a certain Rector rule.
 
 <img width="379" alt="grafik" src="https://user-images.githubusercontent.com/120441/235432999-bf1cd05c-31cd-451f-8ebb-e4f063533f4f.png">
 
@@ -46,7 +46,7 @@ Turned out when running Rector and we are not interested in the diff, we still p
 
 ### Diff only once
 
-Back at the drawing board I had a closer look at the profiles. In my simple case it was suprising to me that Rector build the diff several times,
+Back at the drawing board I had a closer look at the profiles. In my simple case it was surprising to me that Rector build the diff several times,
 even though my workload only changes a single file and prints only a single diff in the end:
 
 <img width="320" alt="grafik" src="https://user-images.githubusercontent.com/120441/235434775-3d3978a5-2fe4-43a3-8868-0e18c34d720e.png">
@@ -69,7 +69,7 @@ This resulted in a nice improvement:
 ### Make diffing faster
 
 Next I had a look at the actual diffing within [Pull Request 3705](https://github.com/rectorphp/rector-src/pull/3705).
-I tried a lot of stuff. Had to componsate changes on the one end to already existing stuff on different ends.
+I tried a lot of stuff. Had to compensate changes on the one end to already existing stuff on different ends.
 
 Finally, I found a state which was 1 minute faster than before. Doing my final quality assurance on the said PR and doing some before/after measurements proved all is fine.
 As I was looking at the profiles again it was still surprising that even after I already shaved of 3 minutes of runtime, [the remaining dominator of the profile was still the diffing](https://twitter.com/markusstaab/status/1652925369979215878).

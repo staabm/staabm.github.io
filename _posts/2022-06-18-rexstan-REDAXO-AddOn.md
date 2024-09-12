@@ -29,7 +29,7 @@ First things first: PHPStan?
 
 <img width="216" alt="REDAXO CMS Logo" src="https://user-images.githubusercontent.com/120441/174436564-500d7c16-d97b-4ebb-acd2-5b9ea08d1d75.png"> 
 
-The [REDAXO CMS](https://redaxo.org/) is a open source content managment system mainly used from developers in germany.
+The [REDAXO CMS](https://redaxo.org/) is a open source content management system mainly used from developers in germany.
 
 Its main advantage over other systems in the field is the different approach on building websites.
 In contrast to most other systems REDAXO is a kind of microframework which brings a few loosely coupled building blocks.

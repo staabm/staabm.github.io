@@ -11,7 +11,7 @@ Recently I learned [phpstan-dba](https://staabm.github.io/2022/05/01/phpstan-dba
 
 ![grafik](https://user-images.githubusercontent.com/120441/174436340-3570dd1f-c6d5-4952-ad1e-615a96f72fad.png)
 
-[packagist.org - the main Composer repository](https://packagist.org/) uses it in its [continous integration pipeline](https://github.com/composer/packagist)
+[packagist.org - the main Composer repository](https://packagist.org/) uses it in its [continuous integration pipeline](https://github.com/composer/packagist)
 
 
 

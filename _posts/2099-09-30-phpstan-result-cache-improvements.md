@@ -45,7 +45,7 @@ Another scenario where you might hit this problem is a classical shared CI serve
 
 The most common case is a workstation, where several projects are developed. As soon as you jump between projects PHPStan needs to rebuild the cache from scratch.
 
-In such mentioned cases, until PHPStan 1.8.1 you had to define a [`tmpDir`](https://phpstan.org/config-reference#caching) or `resultCachePath` per PHPStan configuration beeing used.
+In such mentioned cases, until PHPStan 1.8.1 you had to define a [`tmpDir`](https://phpstan.org/config-reference#caching) or `resultCachePath` per PHPStan configuration being used.
 
 
 ### Working on a fix

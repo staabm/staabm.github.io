@@ -14,7 +14,7 @@ ogImage:
 ### Readable end-to-end tests for PHPStan with bashunit
 
 For a long time in the PHPStan repository, we have isolated, highly-parallel end-to-end tests which are written in bash utilizing GitHub Actions.
-The design and initial implemenation - as far as I know - has been done by Ondřej Mirtes.
+The design and initial implementation - as far as I know - has been done by Ondřej Mirtes.
 
 I don't know any other project doing end-to-end tests the way it is done in PHPStan.
 Since I have recently added [`bashunit`](https://bashunit.typeddevs.com/) to the end-to-end tests, I wanted to share some insights and the benefits of this approach.

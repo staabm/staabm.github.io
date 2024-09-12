@@ -64,7 +64,7 @@ $config = new RuntimeConfiguration();
 $config->analyzeQueryPlans(100000);
 ```
 
-To disable the effiency analysis but just check for queries not using indices at all, pass `0`:
+To disable the efficiency analysis but just check for queries not using indices at all, pass `0`:
 
 ```php
 $config = new RuntimeConfiguration();
@@ -85,7 +85,7 @@ $config = new RuntimeConfiguration();
 $config->analyzeQueryPlans(true, QueryPlanAnalyzer::DEFAULT_SMALL_TABLE_THRESHOLD);
 ```
 
-**Note:** For a meaningful performance analysis it is vital to utilize a database, which containts data and schema as similar as possible to the production database.
+**Note:** For a meaningful performance analysis it is vital to utilize a database, which contains data and schema as similar as possible to the production database.
 
 **Note:** "Query Plan Analysis" requires an active database connection.
 
@@ -93,4 +93,4 @@ $config->analyzeQueryPlans(true, QueryPlanAnalyzer::DEFAULT_SMALL_TABLE_THRESHOL
 
 ### Read more
 
-Please [find more articles relatd to phpstan-dba](https://staabm.github.io/archive.html#phpstan-dba) and its featureset.
+Please [find more articles related to phpstan-dba](https://staabm.github.io/archive.html#phpstan-dba) and its featureset.

@@ -50,7 +50,7 @@
 - [More precise mixed-type subtraction](https://github.com/phpstan/phpstan-src/pull/3420) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Report maybe division by zero in InvalidBinaryOperationRule](https://github.com/phpstan/phpstan-src/pull/3419) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Implement InvalidDivisionOperationRule](https://github.com/phpstan/phpstan-src/pull/3417) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Fix wrongly convertion of list&lt;T&gt; to array{T}](https://github.com/phpstan/phpstan-src/pull/3412) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Fix wrongly conversion of list&lt;T&gt; to array{T}](https://github.com/phpstan/phpstan-src/pull/3412) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Extract MethodCallReturnTypeHelper from MutatingScope](https://github.com/phpstan/phpstan-src/pull/3410) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Narrow string on *strlen() with positive-int](https://github.com/phpstan/phpstan-src/pull/3407) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [version_compare() operator-arg can be null](https://github.com/phpstan/phpstan-src/pull/3399) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)

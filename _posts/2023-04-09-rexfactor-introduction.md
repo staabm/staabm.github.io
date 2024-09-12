@@ -25,7 +25,7 @@ Primary purpose is to allow people less experienced with developer tooling to au
 As usual the REDAXO CMS AddOn is available thru [the REDAXO Installer and can be installed in a few clicks](https://redaxo.org/doku/main/installer).
 The idea is to use `rexfactor` in your local development environment.
 
-Using a simple 4 step wizzard right from your REDAXO Web UI is just a matter of a few clicks.
+Using a simple 4 step wizard right from your REDAXO Web UI is just a matter of a few clicks.
 
 1. select the AddOn you want to upgrade
 

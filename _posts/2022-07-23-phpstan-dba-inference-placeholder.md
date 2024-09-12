@@ -68,7 +68,7 @@ As a rule of thumb:
 - separate user input from your sql query (use prepared statements) 
 - make sure the sql query used is built from scalar values, but does not contain regular `string`
 - when `string` is involved try to use `literal-string` and `numeric-string`
-- if there is no way arround `string`, check whether `@phpstandba-inference-placeholder` can help you out (see below)
+- if there is no way around `string`, check whether `@phpstandba-inference-placeholder` can help you out (see below)
 
 If you stick to these rules `phpstan-dba` can figure out the query and therefore provide the following features:
 

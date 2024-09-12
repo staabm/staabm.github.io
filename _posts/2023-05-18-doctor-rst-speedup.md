@@ -107,7 +107,7 @@ I had a look at all used `->matches(…)` invocations and decided to concentrate
 Another case where I was able to reduce the use of regular expressions was in the `->isFootnote()` method.
 In this case we had a expression trying to match a string starting with some certain characters.
 
-I decided to add some quick checks which in most cases prevent the acutal regular expression to be executed.
+I decided to add some quick checks which in most cases prevent the actual regular expression to be executed.
 
 <img width="677" alt="grafik" src="https://github.com/OskarStark/doctor-rst/assets/120441/3bf91772-3ac6-447f-9bf7-abdc4e819bff">
 
@@ -119,10 +119,10 @@ These yielded another great improvement in memory consumption and a small improv
 ----
 
 Even if these optimizations were focused on memory oftentimes it turns out they also improve runtime performance.
-PHP needs to handle huge amounts of data in memory and therefore this managment results in slower executed scripts.
+PHP needs to handle huge amounts of data in memory and therefore this management results in slower executed scripts.
 Also garbage collection needs to be heavily involved which takes time to track the memory.
 
-I did [a few more performance oriented pull requests](https://github.com/OskarStark/doctor-rst/pulls?q=is%3Apr++sort%3Aupdated-desc+author%3Astaabm+label%3APerformance+) but nothing of big interesst which needs further explaination.
+I did [a few more performance oriented pull requests](https://github.com/OskarStark/doctor-rst/pulls?q=is%3Apr++sort%3Aupdated-desc+author%3Astaabm+label%3APerformance+) but nothing of big interest which needs further explanation.
 
 
 ### The results

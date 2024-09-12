@@ -103,7 +103,7 @@ Got [interviewed by the Super Duper Developers Club](https://superdev.club/podca
 
 #### Rector Highlight: "Implement a max jobs per worker budget"
 
-Running Rector on huge projects in a single run was not possible in the past. After [implementing process and memory managment](https://github.com/rectorphp/rector-src/pull/4965) this is a fixed problem.
+Running Rector on huge projects in a single run was not possible in the past. After [implementing process and memory management](https://github.com/rectorphp/rector-src/pull/4965) this is a fixed problem.
 Even huge projects like [the Mautic codebase can be refactored with Rector now](https://twitter.com/markusstaab/status/1700507324639588597) without out-of-memory issues.
 
 <img width="853" alt="grafik" src="https://github.com/rectorphp/rector-src/assets/120441/0f7b2448-4565-41bf-8d1b-897abfcad954">
@@ -144,7 +144,7 @@ One of the craziest contributions this year. After days of in-depth analysis fin
 
 As highlighted in [various](https://twitter.com/markusstaab/status/1729523854383497533) [tweets](https://twitter.com/markusstaab/status/1730509736108282344) I was working on falsey-context type inference improvements in PHPStan.
 This was my most time-consuming and most rewarding contribution this year.
-It took me several tries to finally get it into a mergable state - this [very first iteration](https://github.com/phpstan/phpstan-src/pull/2710) closed 7 bugs, the oldest of them dating back to July 2020.
+It took me several tries to finally get it into a mergeable state - this [very first iteration](https://github.com/phpstan/phpstan-src/pull/2710) closed 7 bugs, the oldest of them dating back to July 2020.
 
 The main problem this contribution solves is, that PHPStan gets aware when/if variables are defined after a `!isset($variable)` check.
 To get this right, one needs to check whether the involved variables can get `null` and whether they are defined in the current scope.
@@ -171,7 +171,7 @@ class HelloWorld
 }
 ```
 
-Getting this right additionally means that PHPStan gets smarter for the `!empty($variable)`-case and the null coallescing operator `??`.
+Getting this right additionally means that PHPStan gets smarter for the `!empty($variable)`-case and the null coalescing operator `??`.
 
 I have plans to work on `!isset($array['offset'])` and `!isset($object->property)` improvements in 2024.
 
