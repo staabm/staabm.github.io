@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [More precise mixed-type subtraction](https://github.com/phpstan/phpstan-src/pull/3434) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix false positive when type casting in IF statement](https://github.com/phpstan/phpstan-src/pull/3431) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3430) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [update composer integration test](https://github.com/phpstan/phpstan/pull/11669) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
@@ -54,7 +55,6 @@
 - [Extract MethodCallReturnTypeHelper from MutatingScope](https://github.com/phpstan/phpstan-src/pull/3410) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Narrow string on *strlen() with positive-int](https://github.com/phpstan/phpstan-src/pull/3407) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [version_compare() operator-arg can be null](https://github.com/phpstan/phpstan-src/pull/3399) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Simplify isFloat checks](https://github.com/phpstan/phpstan-src/pull/3397) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
