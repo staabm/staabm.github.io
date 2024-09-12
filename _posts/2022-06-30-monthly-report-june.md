@@ -39,7 +39,7 @@ Find out more [about recent releases](https://github.com/staabm/phpstan-dba/rele
 
 #### General Improvements
 
-- [allow numeric-strings beeing returned for non-empty-string](https://github.com/phpstan/phpstan-src/pull/1428)
+- [allow numeric-strings being returned for non-empty-string](https://github.com/phpstan/phpstan-src/pull/1428)
 - [Support non-empty-array in InArrayFunctionTypeSpecifyingExtension](https://github.com/phpstan/phpstan-src/pull/1108)
 
 #### Signature Improvements
@@ -48,7 +48,7 @@ Parameter and Returntype improvements help PHPStan to understand your code. The 
 
 See [my blog post about the sprintf/sscanf overall picture](https://staabm.github.io/2022/06/23/phpstan-sprintf-sscanf-inference.html).
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">to all sprintf/sscanf lovers.. the next <a href="https://twitter.com/phpstan?ref_src=twsrc%5Etfw">@phpstan</a> release will include type inferrence for most common cases.<br><br>enjoy. <a href="https://t.co/ZytadYf9Yj">pic.twitter.com/ZytadYf9Yj</a></p>&mdash; markus staab (@markusstaab) <a href="https://twitter.com/markusstaab/status/1538045189578805249?ref_src=twsrc%5Etfw">June 18, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">to all sprintf/sscanf lovers.. the next <a href="https://twitter.com/phpstan?ref_src=twsrc%5Etfw">@phpstan</a> release will include type inference for most common cases.<br><br>enjoy. <a href="https://t.co/ZytadYf9Yj">pic.twitter.com/ZytadYf9Yj</a></p>&mdash; markus staab (@markusstaab) <a href="https://twitter.com/markusstaab/status/1538045189578805249?ref_src=twsrc%5Etfw">June 18, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ### Composer - my contributions
 
@@ -64,7 +64,7 @@ Improvements regarding use of static reflection, to prevent class not found erro
 - [PreventParentMethodVisibilityOverrideRule: use static reflection](https://github.com/symplify/symplify/pull/4167)
 
 
-### Github Maintainer Month
+### GitHub Maintainer Month
 
 I was selected to be one of those 900 people across the globe to get a [one time sponsorship from GitHub](https://staabm.github.io/2022/06/24/github-maintainer-month.html).
 

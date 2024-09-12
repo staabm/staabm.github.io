@@ -60,4 +60,4 @@ without time consuming trial and error loops.
 
 ### Read more
 
-Please [find more articles relatd to phpstan-dba](https://staabm.github.io/archive.html#phpstan-dba) and its featureset.
+Please [find more articles related to phpstan-dba](https://staabm.github.io/archive.html#phpstan-dba) and its featureset.

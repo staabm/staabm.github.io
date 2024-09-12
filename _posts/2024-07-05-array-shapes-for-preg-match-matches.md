@@ -154,7 +154,7 @@ function doFoo(string $s): void {
 If you are interested in other test-cases and the types PHPStan can understand in these situations, please [consult the test-suite](https://github.com/phpstan/phpstan-src/blob/f546c37a4da85a7ffb4c0718a01479c690776322/tests/PHPStan/Analyser/nsrt/preg_match_shapes.php).
 Alternatively copy the example code, drop it into the [PHPStan online playground](https://phpstan.org/try) (don't forget to enable the 'Bleeding Edge' checkbox) and see the expected types.
 
-In an early prototype I was using ony a [TypeSpecifyingExtension](https://phpstan.org/developing-extensions/type-specifying-extensions) to override the type of `$matches`. This lead to some consequential problems though.
+In an early prototype I was using only a [TypeSpecifyingExtension](https://phpstan.org/developing-extensions/type-specifying-extensions) to override the type of `$matches`. This lead to some consequential problems though.
 TypeSpecifyingExtension are meant to narrow an existing type for the if-branch and/or the else-branch. It will not change the types after the if/else construct though.
 
 We had to come up with a new type of PHPStan extension to properly handle the by-ref `$matches` argument.

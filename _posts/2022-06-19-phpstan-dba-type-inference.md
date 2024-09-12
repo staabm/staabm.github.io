@@ -36,7 +36,7 @@ function fetchUser(\PDO $pdo, string $userToken):array {
 Without `phpstan-dba`, [PHPStan will error](https://phpstan.org/r/d61b9704-bea2-4881-b5d5-aab7c065765e):
 > Method HelloWorld::fetchUser() should return array{email: string, userid: string} but returns mixed.
 
-With the extension enabled, PHPStan is able to figure out the SQL query beeing executed and the used fetch-mode.
+With the extension enabled, PHPStan is able to figure out the SQL query being executed and the used fetch-mode.
 The information at hand is enough to built a proper return type for `$preparedStatement->fetch(\PDO::FETCH_ASSOC)` and therefore the above mentioned error no longer appears.
 
 Turned differently: In case this code will be changed in the future, because of `phpstan-dba` PHPStan is able to report errors, it could not catch otherwise:
@@ -49,7 +49,7 @@ Turned differently: In case this code will be changed in the future, because of 
  */
 function fetchUser(\PDO $pdo, string $userToken):array {
     // error: the sql query selects a 'surname' and a 'userid' column, but no 'email'.
-    // the fetchUser() return type expects 'email' beeing returned though 
+    // the fetchUser() return type expects 'email' being returned though 
     $query = 'SELECT surname, userid FROM users WHERE token = ?';
     $preparedStatement = $pdo->prepare($query);
     $preparedStatement->execute([$userToken]);
