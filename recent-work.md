@@ -59,12 +59,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.5](https://github.com/lucatume/wp-browser/releases/tag/3.7.5) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.3.5](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.5) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.42.0](https://github.com/Roave/BetterReflection/releases/tag/6.42.0) (1 day ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.104](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.104) (2 days ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.2.1](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.2.1) (2 days ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.11](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.11) (2 days ago)
-- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.4](https://github.com/lucatume/wp-browser/releases/tag/3.7.4) (2 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.26.1](https://github.com/vimeo/psalm/releases/tag/5.26.1) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.188](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.188) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.3](https://github.com/phpstan/phpstan/releases/tag/1.12.3) (4 days ago)
