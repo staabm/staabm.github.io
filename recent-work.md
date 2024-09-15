@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.2.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.2.0) (today)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.16.0](https://github.com/TypedDevs/bashunit/releases/tag/0.16.0) (today)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.5](https://github.com/lucatume/wp-browser/releases/tag/3.7.5) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.3.5](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.5) (2 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.11](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.11) (4 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.26.1](https://github.com/vimeo/psalm/releases/tag/5.26.1) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.188](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.188) (6 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.3](https://github.com/phpstan/phpstan/releases/tag/1.12.3) (6 days ago)
