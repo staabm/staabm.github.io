@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.16.0](https://github.com/TypedDevs/bashunit/releases/tag/0.16.0) (today)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.5](https://github.com/lucatume/wp-browser/releases/tag/3.7.5) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.3.5](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.5) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.42.0](https://github.com/Roave/BetterReflection/releases/tag/6.42.0) (3 days ago)
@@ -68,4 +69,3 @@
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.26.1](https://github.com/vimeo/psalm/releases/tag/5.26.1) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.188](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.188) (6 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.3](https://github.com/phpstan/phpstan/releases/tag/1.12.3) (6 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.30.1](https://github.com/phpstan/phpdoc-parser/releases/tag/1.30.1) (1 week ago)
