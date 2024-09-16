@@ -40,6 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix exhaustive memory consumption](https://github.com/staabm/phpstan-todo-by/pull/110) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
+- [Close curl handle after removing them from curl-multi-handle](https://github.com/staabm/phpstan-todo-by/pull/109) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
+- [Ignore Name and Identifier nodes to reduce memory consumption](https://github.com/staabm/phpstan-todo-by/pull/108) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
+- [Fix comment](https://github.com/staabm/phpstan-todo-by/pull/107) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Ignore InlineHTML to reduce memory consumption](https://github.com/staabm/phpstan-todo-by/pull/106) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Ignore more nodes to reduce memory consumption](https://github.com/staabm/phpstan-todo-by/pull/105) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3445) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -51,21 +55,17 @@
 - [update composer integration test](https://github.com/phpstan/phpstan/pull/11668) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [Prevent warning in range() on php 7.x](https://github.com/phpstan/phpstan-src/pull/3424) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [fix typo in range() exception case description](https://github.com/php/doc-en/pull/3730) on [php/doc-en](https://github.com/php/doc-en) (1 week ago)
-- [Fix const bool subtraction from mixed](https://github.com/phpstan/phpstan-src/pull/3421) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [More precise mixed-type subtraction](https://github.com/phpstan/phpstan-src/pull/3420) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Report maybe division by zero in InvalidBinaryOperationRule](https://github.com/phpstan/phpstan-src/pull/3419) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Implement InvalidDivisionOperationRule](https://github.com/phpstan/phpstan-src/pull/3417) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.30](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.30) (today)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.31](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.31) (today)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.105](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.105) (today)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.7.0](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.7.0) (today)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.2.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.2.0) (1 day ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.16.0](https://github.com/TypedDevs/bashunit/releases/tag/0.16.0) (1 day ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.5](https://github.com/lucatume/wp-browser/releases/tag/3.7.5) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.3.5](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.5) (3 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.42.0](https://github.com/Roave/BetterReflection/releases/tag/6.42.0) (4 days ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.104](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.104) (5 days ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.2.1](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.2.1) (5 days ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.11](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.11) (5 days ago)
