@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [`range()` with float step should return an array of floats](https://github.com/phpstan/phpstan-src/pull/3447) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix memory bloat from ComposerCollector](https://github.com/pb30/phpstan-composer-analysis/pull/24) on [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (today)
 - [Make Collector return type more explicit](https://github.com/twigstan/twigstan/pull/21) on [twigstan/twigstan](https://github.com/twigstan/twigstan) (today)
 - [Make Collector return type more explicit](https://github.com/shipmonk-rnd/dead-code-detector/pull/94) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (today)
@@ -54,7 +55,6 @@
 - [Fix comment](https://github.com/staabm/phpstan-todo-by/pull/107) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Ignore InlineHTML to reduce memory consumption](https://github.com/staabm/phpstan-todo-by/pull/106) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Ignore more nodes to reduce memory consumption](https://github.com/staabm/phpstan-todo-by/pull/105) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/3445) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 
 
 #### 🔭 Latest releases I've contributed to
