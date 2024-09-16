@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
-- [php/doc-en](https://github.com/php/doc-en) (6 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
+- [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
@@ -26,7 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
-- [Chemaclass](https://github.com/Chemaclass) (1 day ago)
+- [Chemaclass](https://github.com/Chemaclass) (2 days ago)
 - [phpstan](https://github.com/phpstan) (1 month ago)
 - [oliverklee](https://github.com/oliverklee) (2 months ago)
 - [TicketSwap](https://github.com/TicketSwap) (2 months ago)
@@ -40,13 +40,13 @@
 
 #### 🔨 My recent Pull Requests
 
-- [More precise mixed-type subtraction](https://github.com/phpstan/phpstan-src/pull/3434) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Fix false positive when type casting in IF statement](https://github.com/phpstan/phpstan-src/pull/3431) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/3430) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [update composer integration test](https://github.com/phpstan/phpstan/pull/11669) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
-- [update composer integration test](https://github.com/phpstan/phpstan/pull/11668) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
-- [Prevent warning in range() on php 7.x](https://github.com/phpstan/phpstan-src/pull/3424) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [fix typo in range() exception case description](https://github.com/php/doc-en/pull/3730) on [php/doc-en](https://github.com/php/doc-en) (6 days ago)
+- [More precise mixed-type subtraction](https://github.com/phpstan/phpstan-src/pull/3434) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Fix false positive when type casting in IF statement](https://github.com/phpstan/phpstan-src/pull/3431) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/3430) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [update composer integration test](https://github.com/phpstan/phpstan/pull/11669) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
+- [update composer integration test](https://github.com/phpstan/phpstan/pull/11668) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
+- [Prevent warning in range() on php 7.x](https://github.com/phpstan/phpstan-src/pull/3424) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [fix typo in range() exception case description](https://github.com/php/doc-en/pull/3730) on [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 - [Fix const bool subtraction from mixed](https://github.com/phpstan/phpstan-src/pull/3421) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [More precise mixed-type subtraction](https://github.com/phpstan/phpstan-src/pull/3420) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Report maybe division by zero in InvalidBinaryOperationRule](https://github.com/phpstan/phpstan-src/pull/3419) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.2.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.2.0) (today)
-- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.16.0](https://github.com/TypedDevs/bashunit/releases/tag/0.16.0) (today)
-- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.5](https://github.com/lucatume/wp-browser/releases/tag/3.7.5) (2 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.3.5](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.5) (2 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.42.0](https://github.com/Roave/BetterReflection/releases/tag/6.42.0) (3 days ago)
-- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.104](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.104) (4 days ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.2.1](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.2.1) (4 days ago)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.11](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.11) (4 days ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.26.1](https://github.com/vimeo/psalm/releases/tag/5.26.1) (6 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.188](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.188) (6 days ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.2.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.2.0) (1 day ago)
+- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.16.0](https://github.com/TypedDevs/bashunit/releases/tag/0.16.0) (1 day ago)
+- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.5](https://github.com/lucatume/wp-browser/releases/tag/3.7.5) (3 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.3.5](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.5) (3 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.42.0](https://github.com/Roave/BetterReflection/releases/tag/6.42.0) (4 days ago)
+- [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.104](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.104) (5 days ago)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.2.1](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.2.1) (5 days ago)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.11](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.11) (5 days ago)
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [5.26.1](https://github.com/vimeo/psalm/releases/tag/5.26.1) (1 week ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.188](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.188) (1 week ago)
