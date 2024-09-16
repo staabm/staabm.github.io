@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [twigstan/twigstan](https://github.com/twigstan/twigstan) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
-- [composer/pcre](https://github.com/composer/pcre) (2 weeks ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix memory bloat from ComposerCollector](https://github.com/pb30/phpstan-composer-analysis/pull/24) on [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (today)
+- [Make Collector return type more explicit](https://github.com/twigstan/twigstan/pull/21) on [twigstan/twigstan](https://github.com/twigstan/twigstan) (today)
+- [Make Collector return type more explicit](https://github.com/shipmonk-rnd/dead-code-detector/pull/94) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (today)
+- [Reduce memory consumption of collectors](https://github.com/TomasVotruba/type-coverage/pull/44) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (today)
+- [Reduce memory consumption of collectors](https://github.com/symplify/phpstan-rules/pull/141) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (today)
 - [Fix unnecessary memory bloat of PHPStan result cache](https://github.com/FriendsOfREDAXO/rexstan/pull/753) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Make Collector return type more explicit](https://github.com/efabrica-team/phpstan-latte/pull/458) on [efabrica-team/phpstan-latte](https://github.com/efabrica-team/phpstan-latte) (today)
 - [Reduce memory consumption of collectors](https://github.com/TomasVotruba/unused-public/pull/131) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
@@ -50,11 +55,6 @@
 - [Ignore InlineHTML to reduce memory consumption](https://github.com/staabm/phpstan-todo-by/pull/106) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Ignore more nodes to reduce memory consumption](https://github.com/staabm/phpstan-todo-by/pull/105) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3445) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [RegexArrayShapeMatcher - Fix matching literal dot character](https://github.com/phpstan/phpstan-src/pull/3444) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [More precise mixed-type subtraction](https://github.com/phpstan/phpstan-src/pull/3434) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Fix false positive when type casting in IF statement](https://github.com/phpstan/phpstan-src/pull/3431) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/3430) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [update composer integration test](https://github.com/phpstan/phpstan/pull/11669) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
@@ -64,8 +64,8 @@
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.7.0](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.7.0) (today)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.2.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.2.0) (1 day ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.16.0](https://github.com/TypedDevs/bashunit/releases/tag/0.16.0) (1 day ago)
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.3.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.3.0) (3 days ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.5](https://github.com/lucatume/wp-browser/releases/tag/3.7.5) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.3.5](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.5) (3 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.42.0](https://github.com/Roave/BetterReflection/releases/tag/6.42.0) (4 days ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.2.1](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.2.1) (5 days ago)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.11](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.11) (5 days ago)
