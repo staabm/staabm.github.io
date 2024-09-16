@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [php/doc-en](https://github.com/php/doc-en) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/3445) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [RegexArrayShapeMatcher - Fix matching literal dot character](https://github.com/phpstan/phpstan-src/pull/3444) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [More precise mixed-type subtraction](https://github.com/phpstan/phpstan-src/pull/3434) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Fix false positive when type casting in IF statement](https://github.com/phpstan/phpstan-src/pull/3431) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
@@ -54,11 +55,11 @@
 - [Implement InvalidDivisionOperationRule](https://github.com/phpstan/phpstan-src/pull/3417) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix wrongly conversion of list&lt;T&gt; to array{T}](https://github.com/phpstan/phpstan-src/pull/3412) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Extract MethodCallReturnTypeHelper from MutatingScope](https://github.com/phpstan/phpstan-src/pull/3410) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Narrow string on *strlen() with positive-int](https://github.com/phpstan/phpstan-src/pull/3407) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.7.0](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.7.0) (today)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.2.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.2.0) (1 day ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.16.0](https://github.com/TypedDevs/bashunit/releases/tag/0.16.0) (1 day ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.5](https://github.com/lucatume/wp-browser/releases/tag/3.7.5) (3 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [1.2.1](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/1.2.1) (5 days ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [1.2.11](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/1.2.11) (5 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [5.26.1](https://github.com/vimeo/psalm/releases/tag/5.26.1) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.188](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.188) (1 week ago)
