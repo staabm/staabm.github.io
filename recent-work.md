@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [twigstan/twigstan](https://github.com/twigstan/twigstan) (today)
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (today)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (today)
+- [twigstan/twigstan](https://github.com/twigstan/twigstan) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [php/doc-en](https://github.com/php/doc-en) (1 week ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
