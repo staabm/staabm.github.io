@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Normalize path in TypeInferenceTestCase](https://github.com/phpstan/phpstan-src/pull/3449) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [`range()` with float step should return an array of floats](https://github.com/phpstan/phpstan-src/pull/3447) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix memory bloat from ComposerCollector](https://github.com/pb30/phpstan-composer-analysis/pull/24) on [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (1 day ago)
 - [Make Collector return type more explicit](https://github.com/twigstan/twigstan/pull/21) on [twigstan/twigstan](https://github.com/twigstan/twigstan) (1 day ago)
@@ -54,7 +55,6 @@
 - [Ignore Name and Identifier nodes to reduce memory consumption](https://github.com/staabm/phpstan-todo-by/pull/108) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [Fix comment](https://github.com/staabm/phpstan-todo-by/pull/107) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [Ignore InlineHTML to reduce memory consumption](https://github.com/staabm/phpstan-todo-by/pull/106) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
-- [Ignore more nodes to reduce memory consumption](https://github.com/staabm/phpstan-todo-by/pull/105) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
