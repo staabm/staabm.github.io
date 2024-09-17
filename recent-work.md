@@ -3,11 +3,11 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (1 day ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 day ago)
 - [twigstan/twigstan](https://github.com/twigstan/twigstan) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix FileExcluder on windows](https://github.com/phpstan/phpstan-src/pull/3450) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Normalize path in TypeInferenceTestCase](https://github.com/phpstan/phpstan-src/pull/3449) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [`range()` with float step should return an array of floats](https://github.com/phpstan/phpstan-src/pull/3447) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix memory bloat from ComposerCollector](https://github.com/pb30/phpstan-composer-analysis/pull/24) on [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (1 day ago)
@@ -54,7 +55,6 @@
 - [Close curl handle after removing them from curl-multi-handle](https://github.com/staabm/phpstan-todo-by/pull/109) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [Ignore Name and Identifier nodes to reduce memory consumption](https://github.com/staabm/phpstan-todo-by/pull/108) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [Fix comment](https://github.com/staabm/phpstan-todo-by/pull/107) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
-- [Ignore InlineHTML to reduce memory consumption](https://github.com/staabm/phpstan-todo-by/pull/106) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
