@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix duplicate paths in composerAutoloaderProjectPaths](https://github.com/phpstan/phpstan-src/pull/3451) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix FileExcluder on windows](https://github.com/phpstan/phpstan-src/pull/3450) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Normalize path in TypeInferenceTestCase](https://github.com/phpstan/phpstan-src/pull/3449) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [`range()` with float step should return an array of floats](https://github.com/phpstan/phpstan-src/pull/3447) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix exhaustive memory consumption](https://github.com/staabm/phpstan-todo-by/pull/110) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [Close curl handle after removing them from curl-multi-handle](https://github.com/staabm/phpstan-todo-by/pull/109) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [Ignore Name and Identifier nodes to reduce memory consumption](https://github.com/staabm/phpstan-todo-by/pull/108) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
-- [Fix comment](https://github.com/staabm/phpstan-todo-by/pull/107) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
