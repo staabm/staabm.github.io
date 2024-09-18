@@ -4,14 +4,14 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (2 days ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (2 days ago)
 - [twigstan/twigstan](https://github.com/twigstan/twigstan) (2 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 days ago)
-- [php/doc-en](https://github.com/php/doc-en) (1 week ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 
 
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Readme: fix typo](https://github.com/shipmonk-rnd/dead-code-detector/pull/95) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (today)
+- [Support for `@pure-unless-callable-is-impure`](https://github.com/phpstan/phpdoc-parser/pull/253) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
 - [Early return Collectors when narrow-param is disabled](https://github.com/rectorphp/type-perfect/pull/44) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
 - [Fix duplicate paths in composerAutoloaderProjectPaths](https://github.com/phpstan/phpstan-src/pull/3451) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix FileExcluder on windows](https://github.com/phpstan/phpstan-src/pull/3450) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Fix unnecessary memory bloat of PHPStan result cache](https://github.com/FriendsOfREDAXO/rexstan/pull/753) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [Make Collector return type more explicit](https://github.com/efabrica-team/phpstan-latte/pull/458) on [efabrica-team/phpstan-latte](https://github.com/efabrica-team/phpstan-latte) (2 days ago)
 - [Reduce memory consumption of collectors](https://github.com/TomasVotruba/unused-public/pull/131) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
-- [Fix exhaustive memory consumption](https://github.com/staabm/phpstan-todo-by/pull/110) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
-- [Close curl handle after removing them from curl-multi-handle](https://github.com/staabm/phpstan-todo-by/pull/109) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
