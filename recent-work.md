@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v0.7.1](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v0.7.1) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.28](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.28) (today)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.6.1](https://github.com/shopware/shopware/releases/tag/v6.6.6.1) (today)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.19.2](https://github.com/nikic/PHP-Parser/releases/tag/v4.19.2) (1 day ago)
-- [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v0.7.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v0.7.0) (1 day ago)
 - [phpstan/php-8-stubs](https://github.com/phpstan/php-8-stubs) - [0.3.106](https://github.com/phpstan/php-8-stubs/releases/tag/0.3.106) (1 day ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.31](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.31) (2 days ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.7.0](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.7.0) (2 days ago)
