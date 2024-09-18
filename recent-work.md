@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Early return Collectors when narrow-param is disabled](https://github.com/rectorphp/type-perfect/pull/44) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
 - [Fix duplicate paths in composerAutoloaderProjectPaths](https://github.com/phpstan/phpstan-src/pull/3451) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix FileExcluder on windows](https://github.com/phpstan/phpstan-src/pull/3450) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Normalize path in TypeInferenceTestCase](https://github.com/phpstan/phpstan-src/pull/3449) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Reduce memory consumption of collectors](https://github.com/TomasVotruba/unused-public/pull/131) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
 - [Fix exhaustive memory consumption](https://github.com/staabm/phpstan-todo-by/pull/110) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
 - [Close curl handle after removing them from curl-multi-handle](https://github.com/staabm/phpstan-todo-by/pull/109) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
-- [Ignore Name and Identifier nodes to reduce memory consumption](https://github.com/staabm/phpstan-todo-by/pull/108) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
