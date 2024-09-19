@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix typo](https://github.com/dresden-community/dresden-code-of-conduct.org/pull/4) on [dresden-community/dresden-code-of-conduct.org](https://github.com/dresden-community/dresden-code-of-conduct.org) (today)
 - [Readme: fix typo](https://github.com/shipmonk-rnd/dead-code-detector/pull/95) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (1 day ago)
 - [Support for `@pure-unless-callable-is-impure`](https://github.com/phpstan/phpdoc-parser/pull/253) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
 - [Early return Collectors when narrow-param is disabled](https://github.com/rectorphp/type-perfect/pull/44) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 day ago)
@@ -54,7 +55,6 @@
 - [Reduce memory consumption of collectors](https://github.com/symplify/phpstan-rules/pull/141) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (3 days ago)
 - [Fix unnecessary memory bloat of PHPStan result cache](https://github.com/FriendsOfREDAXO/rexstan/pull/753) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [Make Collector return type more explicit](https://github.com/efabrica-team/phpstan-latte/pull/458) on [efabrica-team/phpstan-latte](https://github.com/efabrica-team/phpstan-latte) (3 days ago)
-- [Reduce memory consumption of collectors](https://github.com/TomasVotruba/unused-public/pull/131) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
