@@ -4,9 +4,9 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 day ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (3 days ago)
 - [twigstan/twigstan](https://github.com/twigstan/twigstan) (3 days ago)
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.3.6](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.6) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.4](https://github.com/phpstan/phpstan/releases/tag/1.12.4) (today)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v0.7.1](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v0.7.1) (1 day ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.28](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.28) (1 day ago)
@@ -68,4 +69,3 @@
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.31](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.31) (3 days ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.7.0](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.7.0) (3 days ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.16.0](https://github.com/TypedDevs/bashunit/releases/tag/0.16.0) (4 days ago)
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.3.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.3.0) (6 days ago)
