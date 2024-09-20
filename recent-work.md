@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (2 days ago)
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (4 days ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (4 days ago)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (4 days ago)
 - [twigstan/twigstan](https://github.com/twigstan/twigstan) (4 days ago)
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (4 days ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (4 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
+- [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 
 
 #### 📜 My recent blog posts
