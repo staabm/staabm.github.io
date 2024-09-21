@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix ErrorType after ArrayDimFetch](https://github.com/phpstan/phpstan-src/pull/3460) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [ArrayDimFetch on class constant array can return null](https://github.com/phpstan/phpstan-src/pull/3459) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Truthy `isset($arr[$k])` should narrow `$k`](https://github.com/phpstan/phpstan-src/pull/3453) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fix typo](https://github.com/dresden-community/dresden-code-of-conduct.org/pull/4) on [dresden-community/dresden-code-of-conduct.org](https://github.com/dresden-community/dresden-code-of-conduct.org) (2 days ago)
@@ -54,7 +55,6 @@
 - [Make Collector return type more explicit](https://github.com/twigstan/twigstan/pull/21) on [twigstan/twigstan](https://github.com/twigstan/twigstan) (5 days ago)
 - [Make Collector return type more explicit](https://github.com/shipmonk-rnd/dead-code-detector/pull/94) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (5 days ago)
 - [Reduce memory consumption of collectors](https://github.com/TomasVotruba/type-coverage/pull/44) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (5 days ago)
-- [Reduce memory consumption of collectors](https://github.com/symplify/phpstan-rules/pull/141) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
