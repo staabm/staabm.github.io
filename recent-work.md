@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ArrayDimFetch on class constant array can return null](https://github.com/phpstan/phpstan-src/pull/3459) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Truthy `isset($arr[$k])` should narrow `$k`](https://github.com/phpstan/phpstan-src/pull/3453) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fix typo](https://github.com/dresden-community/dresden-code-of-conduct.org/pull/4) on [dresden-community/dresden-code-of-conduct.org](https://github.com/dresden-community/dresden-code-of-conduct.org) (2 days ago)
 - [Readme: fix typo](https://github.com/shipmonk-rnd/dead-code-detector/pull/95) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (3 days ago)
@@ -54,7 +55,6 @@
 - [Make Collector return type more explicit](https://github.com/shipmonk-rnd/dead-code-detector/pull/94) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (5 days ago)
 - [Reduce memory consumption of collectors](https://github.com/TomasVotruba/type-coverage/pull/44) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (5 days ago)
 - [Reduce memory consumption of collectors](https://github.com/symplify/phpstan-rules/pull/141) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (5 days ago)
-- [Fix unnecessary memory bloat of PHPStan result cache](https://github.com/FriendsOfREDAXO/rexstan/pull/753) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
