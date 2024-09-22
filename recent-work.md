@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.31.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.31.0) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.29](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.29) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.189](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.189) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.3.6](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.6) (3 days ago)
@@ -68,4 +69,3 @@
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.19.2](https://github.com/nikic/PHP-Parser/releases/tag/v4.19.2) (5 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.31](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.31) (6 days ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.7.0](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.7.0) (6 days ago)
-- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.16.0](https://github.com/TypedDevs/bashunit/releases/tag/0.16.0) (1 week ago)
