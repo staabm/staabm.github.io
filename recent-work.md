@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Makefile: Disable xdebug in dev tools](https://github.com/phpstan/phpstan-src/pull/3467) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Support IntegerRangeType in ConstantStringType offset-value-type handling](https://github.com/phpstan/phpstan-src/pull/3462) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix ErrorType after ArrayDimFetch](https://github.com/phpstan/phpstan-src/pull/3460) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [ArrayDimFetch on class constant array can return null](https://github.com/phpstan/phpstan-src/pull/3459) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [`range()` with float step should return an array of floats](https://github.com/phpstan/phpstan-src/pull/3447) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Fix memory bloat from ComposerCollector](https://github.com/pb30/phpstan-composer-analysis/pull/24) on [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (6 days ago)
 - [Make Collector return type more explicit](https://github.com/twigstan/twigstan/pull/21) on [twigstan/twigstan](https://github.com/twigstan/twigstan) (6 days ago)
-- [Make Collector return type more explicit](https://github.com/shipmonk-rnd/dead-code-detector/pull/94) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
