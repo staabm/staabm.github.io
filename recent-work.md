@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [More precise `IntegerRangeType::toString()`](https://github.com/phpstan/phpstan-src/pull/3475) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Fix sprintf() inference for constant values with format-width in pattern](https://github.com/phpstan/phpstan-src/pull/3474) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3473) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [`isset()` narrows string-key in int-keyed-array to numeric-string](https://github.com/phpstan/phpstan-src/pull/3472) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [More precise `MixedType::toBoolean()` with subtracted type](https://github.com/phpstan/phpstan-src/pull/3471) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -53,8 +55,6 @@
 - [Support for `@pure-unless-callable-is-impure`](https://github.com/phpstan/phpdoc-parser/pull/253) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (5 days ago)
 - [Early return Collectors when narrow-param is disabled](https://github.com/rectorphp/type-perfect/pull/44) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (5 days ago)
 - [Fix duplicate paths in composerAutoloaderProjectPaths](https://github.com/phpstan/phpstan-src/pull/3451) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Fix FileExcluder on windows](https://github.com/phpstan/phpstan-src/pull/3450) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Normalize path in TypeInferenceTestCase](https://github.com/phpstan/phpstan-src/pull/3449) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
