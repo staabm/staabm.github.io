@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [`isset()` narrows string-key in int-keyed-array to numeric-string](https://github.com/phpstan/phpstan-src/pull/3472) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [More precise `MixedType::toBoolean()` with subtracted type](https://github.com/phpstan/phpstan-src/pull/3471) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Makefile: Disable xdebug in dev tools](https://github.com/phpstan/phpstan-src/pull/3467) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Support IntegerRangeType in ConstantStringType offset-value-type handling](https://github.com/phpstan/phpstan-src/pull/3462) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix FileExcluder on windows](https://github.com/phpstan/phpstan-src/pull/3450) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Normalize path in TypeInferenceTestCase](https://github.com/phpstan/phpstan-src/pull/3449) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [`range()` with float step should return an array of floats](https://github.com/phpstan/phpstan-src/pull/3447) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix memory bloat from ComposerCollector](https://github.com/pb30/phpstan-composer-analysis/pull/24) on [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
