@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Better error message when data provider is invalid](https://github.com/sebastianbergmann/phpunit/pull/5964) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [chore: Implement PHPStan Extension tests](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8212) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (today)
 - [More precise `IntegerRangeType::toString()`](https://github.com/phpstan/phpstan-src/pull/3475) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix sprintf() inference for constant values with format-width in pattern](https://github.com/phpstan/phpstan-src/pull/3474) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3473) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Fix typo](https://github.com/dresden-community/dresden-code-of-conduct.org/pull/4) on [dresden-community/dresden-code-of-conduct.org](https://github.com/dresden-community/dresden-code-of-conduct.org) (5 days ago)
 - [Readme: fix typo](https://github.com/shipmonk-rnd/dead-code-detector/pull/95) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (6 days ago)
 - [Support for `@pure-unless-callable-is-impure`](https://github.com/phpstan/phpdoc-parser/pull/253) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (6 days ago)
-- [Early return Collectors when narrow-param is disabled](https://github.com/rectorphp/type-perfect/pull/44) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (6 days ago)
-- [Fix duplicate paths in composerAutoloaderProjectPaths](https://github.com/phpstan/phpstan-src/pull/3451) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
