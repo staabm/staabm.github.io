@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor RegexGroupParser for more immutability and less pass-by-ref](https://github.com/phpstan/phpstan-src/pull/3508) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix preg_match_all with PREG_SET_ORDER does not see capture group as optional](https://github.com/phpstan/phpstan-src/pull/3506) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Offset access on lowercase-string is lowercase-string](https://github.com/phpstan/phpstan-src/pull/3502) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Throw on invalid UnionType with AccessoryTypes](https://github.com/phpstan/phpstan-src/pull/3500) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [More precise `MixedType::toBoolean()` with subtracted type](https://github.com/phpstan/phpstan-src/pull/3471) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Makefile: Disable xdebug in dev tools](https://github.com/phpstan/phpstan-src/pull/3467) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Support IntegerRangeType in ConstantStringType offset-value-type handling](https://github.com/phpstan/phpstan-src/pull/3462) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Fix ErrorType after ArrayDimFetch](https://github.com/phpstan/phpstan-src/pull/3460) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
