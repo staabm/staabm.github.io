@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix preg_match_all with PREG_SET_ORDER does not see capture group as optional](https://github.com/phpstan/phpstan-src/pull/3506) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Offset access on lowercase-string is lowercase-string](https://github.com/phpstan/phpstan-src/pull/3502) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Throw on invalid UnionType with AccessoryTypes](https://github.com/phpstan/phpstan-src/pull/3500) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Optimize memory hungry hot code path](https://github.com/phpstan/phpstan-src/pull/3480) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Makefile: Disable xdebug in dev tools](https://github.com/phpstan/phpstan-src/pull/3467) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Support IntegerRangeType in ConstantStringType offset-value-type handling](https://github.com/phpstan/phpstan-src/pull/3462) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Fix ErrorType after ArrayDimFetch](https://github.com/phpstan/phpstan-src/pull/3460) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [ArrayDimFetch on class constant array can return null](https://github.com/phpstan/phpstan-src/pull/3459) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
