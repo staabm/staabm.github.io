@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (2 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Offset access on lowercase-string is lowercase-string](https://github.com/phpstan/phpstan-src/pull/3502) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Throw on invalid UnionType with AccessoryTypes](https://github.com/phpstan/phpstan-src/pull/3500) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Optimize memory hungry hot code path](https://github.com/phpstan/phpstan-src/pull/3480) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Refactor RegexGroupParser for more immutability and less pass-by-ref](https://github.com/phpstan/phpstan-src/pull/3479) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Support IntegerRangeType in ConstantStringType offset-value-type handling](https://github.com/phpstan/phpstan-src/pull/3462) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Fix ErrorType after ArrayDimFetch](https://github.com/phpstan/phpstan-src/pull/3460) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [ArrayDimFetch on class constant array can return null](https://github.com/phpstan/phpstan-src/pull/3459) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Truthy `isset($arr[$k])` should narrow `$k`](https://github.com/phpstan/phpstan-src/pull/3453) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
