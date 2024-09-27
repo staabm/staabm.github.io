@@ -7,12 +7,12 @@
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (2 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (3 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
 - [twigstan/twigstan](https://github.com/twigstan/twigstan) (1 week ago)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (1 week ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Throw on invalid UnionType with AccessoryTypes](https://github.com/phpstan/phpstan-src/pull/3500) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Optimize memory hungry hot code path](https://github.com/phpstan/phpstan-src/pull/3480) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Refactor RegexGroupParser for more immutability and less pass-by-ref](https://github.com/phpstan/phpstan-src/pull/3479) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Better error message when data provider is invalid](https://github.com/sebastianbergmann/phpunit/pull/5964) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
@@ -54,7 +55,6 @@
 - [Fix ErrorType after ArrayDimFetch](https://github.com/phpstan/phpstan-src/pull/3460) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [ArrayDimFetch on class constant array can return null](https://github.com/phpstan/phpstan-src/pull/3459) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Truthy `isset($arr[$k])` should narrow `$k`](https://github.com/phpstan/phpstan-src/pull/3453) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix typo](https://github.com/dresden-community/dresden-code-of-conduct.org/pull/4) on [dresden-community/dresden-code-of-conduct.org](https://github.com/dresden-community/dresden-code-of-conduct.org) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
