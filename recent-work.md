@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (3 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (4 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (4 days ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
-- [twigstan/twigstan](https://github.com/twigstan/twigstan) (1 week ago)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (1 week ago)
 
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Inline SKIPIF evaluation without side-effects](https://github.com/sebastianbergmann/phpunit/pull/5974) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Fix false-positive with preg_match(): Strict comparison using === between &#39;&#39; and non-falsy-string…ween &#39;&#39; and non-falsy-string](https://github.com/phpstan/phpstan-src/pull/3509) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Refactor RegexGroupParser for more immutability and less pass-by-ref](https://github.com/phpstan/phpstan-src/pull/3508) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix preg_match_all with PREG_SET_ORDER does not see capture group as optional](https://github.com/phpstan/phpstan-src/pull/3506) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3473) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [`isset()` narrows string-key in int-keyed-array to numeric-string](https://github.com/phpstan/phpstan-src/pull/3472) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [More precise `MixedType::toBoolean()` with subtracted type](https://github.com/phpstan/phpstan-src/pull/3471) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Makefile: Disable xdebug in dev tools](https://github.com/phpstan/phpstan-src/pull/3467) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
