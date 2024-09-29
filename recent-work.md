@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.19.3](https://github.com/nikic/PHP-Parser/releases/tag/v4.19.3) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.10](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.10) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.190](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.190) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.5](https://github.com/phpstan/phpstan/releases/tag/1.12.5) (3 days ago)
@@ -67,5 +68,4 @@
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.3.6](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.6) (1 week ago)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v0.7.1](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v0.7.1) (1 week ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.6.1](https://github.com/shopware/shopware/releases/tag/v6.6.6.1) (1 week ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.19.2](https://github.com/nikic/PHP-Parser/releases/tag/v4.19.2) (1 week ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.31](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.31) (1 week ago)
