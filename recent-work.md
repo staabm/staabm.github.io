@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.19.3](https://github.com/nikic/PHP-Parser/releases/tag/v4.19.3) (today)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.19.4](https://github.com/nikic/PHP-Parser/releases/tag/v4.19.4) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.10](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.10) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.190](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.190) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.5](https://github.com/phpstan/phpstan/releases/tag/1.12.5) (3 days ago)
