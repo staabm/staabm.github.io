@@ -7,11 +7,11 @@
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (5 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (6 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (6 days ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 week ago)
-- [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (2 weeks ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
+- [twigstan/twigstan](https://github.com/twigstan/twigstan) (2 weeks ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 weeks ago)
 
 
