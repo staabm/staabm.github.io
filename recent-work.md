@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (6 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Drop $ignoreOutput parameter](https://github.com/staabm/side-effects-detector/pull/7) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (today)
 - [Classify side-effects](https://github.com/staabm/side-effects-detector/pull/6) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (today)
 - [SkipLintProcess: Pass script by file-name instead of code](https://github.com/php-parallel-lint/PHP-Parallel-Lint/pull/178) on [php-parallel-lint/PHP-Parallel-Lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) (today)
 - [Inline SKIPIF evaluation without side-effects](https://github.com/sebastianbergmann/phpunit/pull/5974) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
@@ -54,7 +55,6 @@
 - [chore: Implement PHPStan Extension tests](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8212) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 week ago)
 - [More precise `IntegerRangeType::toString()`](https://github.com/phpstan/phpstan-src/pull/3475) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix sprintf() inference for constant values with format-width in pattern](https://github.com/phpstan/phpstan-src/pull/3474) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/3473) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
