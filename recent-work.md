@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [SkipLintProcess: Pass script by file-name instead of code](https://github.com/php-parallel-lint/PHP-Parallel-Lint/pull/178) on [php-parallel-lint/PHP-Parallel-Lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) (today)
 - [Inline SKIPIF evaluation without side-effects](https://github.com/sebastianbergmann/phpunit/pull/5974) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [Fix false-positive with preg_match(): Strict comparison using === between &#39;&#39; and non-falsy-string…ween &#39;&#39; and non-falsy-string](https://github.com/phpstan/phpstan-src/pull/3509) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Refactor RegexGroupParser for more immutability and less pass-by-ref](https://github.com/phpstan/phpstan-src/pull/3508) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -54,7 +55,6 @@
 - [Fix sprintf() inference for constant values with format-width in pattern](https://github.com/phpstan/phpstan-src/pull/3474) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3473) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [`isset()` narrows string-key in int-keyed-array to numeric-string](https://github.com/phpstan/phpstan-src/pull/3472) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [More precise `MixedType::toBoolean()` with subtracted type](https://github.com/phpstan/phpstan-src/pull/3471) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
