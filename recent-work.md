@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [GH Actions: run tests also on Windows OS](https://github.com/staabm/PHP-Parallel-Lint/pull/1) on [staabm/PHP-Parallel-Lint](https://github.com/staabm/PHP-Parallel-Lint) (today)
+- [Remove unnecessary `ParametersAcceptorSelector::selectSingle` handling](https://github.com/symplify/phpstan-extensions/pull/9) on [symplify/phpstan-extensions](https://github.com/symplify/phpstan-extensions) (today)
+- [Simplify NodeGetAttributeTypeExtension](https://github.com/symplify/phpstan-rules/pull/142) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (today)
 - [Drop $ignoreOutput parameter](https://github.com/staabm/side-effects-detector/pull/7) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (1 day ago)
 - [Classify side-effects](https://github.com/staabm/side-effects-detector/pull/6) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (1 day ago)
 - [SkipLintProcess: Pass script by file-name instead of code](https://github.com/php-parallel-lint/PHP-Parallel-Lint/pull/178) on [php-parallel-lint/PHP-Parallel-Lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) (1 day ago)
@@ -52,9 +55,6 @@
 - [Optimize memory hungry hot code path](https://github.com/phpstan/phpstan-src/pull/3480) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Refactor RegexGroupParser for more immutability and less pass-by-ref](https://github.com/phpstan/phpstan-src/pull/3479) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Better error message when data provider is invalid](https://github.com/sebastianbergmann/phpunit/pull/5964) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [chore: Implement PHPStan Extension tests](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8212) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 week ago)
-- [More precise `IntegerRangeType::toString()`](https://github.com/phpstan/phpstan-src/pull/3475) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix sprintf() inference for constant values with format-width in pattern](https://github.com/phpstan/phpstan-src/pull/3474) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
