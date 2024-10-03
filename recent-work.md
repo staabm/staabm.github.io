@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Keep sqlftw/sqlftw a optional dependency](https://github.com/staabm/phpstan-dba/pull/690) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/191) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [Allow PHP 8.4](https://github.com/FriendsOfREDAXO/rexfactor/pull/190) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [Allow PHP8.3](https://github.com/FriendsOfREDAXO/rexfactor/pull/189) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
@@ -54,13 +55,12 @@
 - [Test specified lists](https://github.com/staabm/phpstan-dba/pull/688) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Support more array types](https://github.com/staabm/phpstan-dba/pull/687) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Test unspecified lists](https://github.com/staabm/phpstan-dba/pull/686) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [Simplify QuerySimulation](https://github.com/staabm/phpstan-dba/pull/685) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.83](https://github.com/staabm/phpstan-dba/releases/tag/0.2.83) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.26](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.26) (today)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.82](https://github.com/staabm/phpstan-dba/releases/tag/0.2.82) (today)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.9](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.9) (2 days ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.17.0](https://github.com/TypedDevs/bashunit/releases/tag/0.17.0) (2 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.19.4](https://github.com/nikic/PHP-Parser/releases/tag/v4.19.4) (4 days ago)
