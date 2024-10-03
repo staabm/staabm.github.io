@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
+- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (today)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (2 days ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (1 week ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (2 weeks ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,12 @@
 
 #### 🔨 My recent Pull Requests
 
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/191) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
+- [Allow PHP 8.4](https://github.com/FriendsOfREDAXO/rexfactor/pull/190) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
+- [Allow PHP8.3](https://github.com/FriendsOfREDAXO/rexfactor/pull/189) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/188) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
+- [Add rule identifiers](https://github.com/FriendsOfREDAXO/rexstan/pull/764) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [Fix some bleeding edge errors](https://github.com/FriendsOfREDAXO/rexstan/pull/763) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [UPGRADING: fix missing backticks](https://github.com/phpstan/phpstan-src/pull/3528) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [curl_multi_getcontent() can return null](https://github.com/phpstan/phpstan-src/pull/3527) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [UPGRADING: fix typo](https://github.com/phpstan/phpstan-src/pull/3526) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -49,16 +55,11 @@
 - [Support more array types](https://github.com/staabm/phpstan-dba/pull/687) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Test unspecified lists](https://github.com/staabm/phpstan-dba/pull/686) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Simplify QuerySimulation](https://github.com/staabm/phpstan-dba/pull/685) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [Drop mysql57 in CI](https://github.com/staabm/phpstan-dba/pull/684) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [Fix PHPStan deprecations](https://github.com/staabm/phpstan-dba/pull/683) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [UPGRADING: fix missing syntax highlighting](https://github.com/phpstan/phpstan-src/pull/3525) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Drop PHP 7.2/7.3 support](https://github.com/staabm/phpstan-dba/pull/682) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [GH Actions: run tests also on Windows OS](https://github.com/staabm/PHP-Parallel-Lint/pull/1) on [staabm/PHP-Parallel-Lint](https://github.com/staabm/PHP-Parallel-Lint) (1 day ago)
-- [Remove unnecessary `ParametersAcceptorSelector::selectSingle` handling](https://github.com/symplify/phpstan-extensions/pull/9) on [symplify/phpstan-extensions](https://github.com/symplify/phpstan-extensions) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.26](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.26) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.82](https://github.com/staabm/phpstan-dba/releases/tag/0.2.82) (today)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.9](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.9) (2 days ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.17.0](https://github.com/TypedDevs/bashunit/releases/tag/0.17.0) (2 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.5](https://github.com/phpstan/phpstan/releases/tag/1.12.5) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.32.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.32.0) (1 week ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.29](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.29) (1 week ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.3.6](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.6) (2 weeks ago)
