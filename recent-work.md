@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (2 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 week ago)
-- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (2 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
-- [twigstan/twigstan](https://github.com/twigstan/twigstan) (2 weeks ago)
+- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix deprecations](https://github.com/staabm/phpstan-todo-by/pull/112) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
+- [Test specified lists](https://github.com/staabm/phpstan-dba/pull/688) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Support more array types](https://github.com/staabm/phpstan-dba/pull/687) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Test unspecified lists](https://github.com/staabm/phpstan-dba/pull/686) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Simplify QuerySimulation](https://github.com/staabm/phpstan-dba/pull/685) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Drop mysql57 in CI](https://github.com/staabm/phpstan-dba/pull/684) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Fix PHPStan deprecations](https://github.com/staabm/phpstan-dba/pull/683) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [UPGRADING: fix missing syntax highlighting](https://github.com/phpstan/phpstan-src/pull/3525) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -50,15 +55,11 @@
 - [Drop $ignoreOutput parameter](https://github.com/staabm/side-effects-detector/pull/7) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (2 days ago)
 - [Classify side-effects](https://github.com/staabm/side-effects-detector/pull/6) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (2 days ago)
 - [SkipLintProcess: Pass script by file-name instead of code](https://github.com/php-parallel-lint/PHP-Parallel-Lint/pull/178) on [php-parallel-lint/PHP-Parallel-Lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) (2 days ago)
-- [Inline SKIPIF evaluation without side-effects](https://github.com/sebastianbergmann/phpunit/pull/5974) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
-- [Fix false-positive with preg_match(): Strict comparison using === between &#39;&#39; and non-falsy-string…ween &#39;&#39; and non-falsy-string](https://github.com/phpstan/phpstan-src/pull/3509) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Refactor RegexGroupParser for more immutability and less pass-by-ref](https://github.com/phpstan/phpstan-src/pull/3508) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Fix preg_match_all with PREG_SET_ORDER does not see capture group as optional](https://github.com/phpstan/phpstan-src/pull/3506) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Offset access on lowercase-string is lowercase-string](https://github.com/phpstan/phpstan-src/pull/3502) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.82](https://github.com/staabm/phpstan-dba/releases/tag/0.2.82) (today)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.9](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.9) (2 days ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.17.0](https://github.com/TypedDevs/bashunit/releases/tag/0.17.0) (2 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.19.4](https://github.com/nikic/PHP-Parser/releases/tag/v4.19.4) (4 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.32.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.32.0) (1 week ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.29](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.29) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.3.6](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.6) (2 weeks ago)
-- [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v0.7.1](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v0.7.1) (2 weeks ago)
