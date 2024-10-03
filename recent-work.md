@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [larastan/larastan](https://github.com/larastan/larastan) (today)
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (today)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (today)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
+- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (1 week ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Test standalone install also on php 8.1](https://github.com/rectorphp/type-perfect/pull/46) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
 - [remove unnecessary use of `ParametersAcceptorSelector::selectSingle`](https://github.com/larastan/larastan/pull/2054) on [larastan/larastan](https://github.com/larastan/larastan) (today)
 - [Added composer test script](https://github.com/symplify/phpstan-extensions/pull/10) on [symplify/phpstan-extensions](https://github.com/symplify/phpstan-extensions) (today)
 - [Remove `instanceof ConstantArrayType`](https://github.com/FriendsOfREDAXO/rexstan/pull/765) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
@@ -54,7 +55,6 @@
 - [curl_multi_getcontent() can return null](https://github.com/phpstan/phpstan-src/pull/3527) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [UPGRADING: fix typo](https://github.com/phpstan/phpstan-src/pull/3526) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix PHPStan deprecations](https://github.com/staabm/phpstan-todo-by/pull/113) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
-- [Fix deprecations](https://github.com/staabm/phpstan-todo-by/pull/112) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 
 
 #### 🔭 Latest releases I've contributed to
