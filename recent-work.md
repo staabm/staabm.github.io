@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (2 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (1 week ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 week ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (2 weeks ago)
 
 
@@ -40,6 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [UPGRADING: fix missing backticks](https://github.com/phpstan/phpstan-src/pull/3528) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [curl_multi_getcontent() can return null](https://github.com/phpstan/phpstan-src/pull/3527) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [UPGRADING: fix typo](https://github.com/phpstan/phpstan-src/pull/3526) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Fix PHPStan deprecations](https://github.com/staabm/phpstan-todo-by/pull/113) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Fix deprecations](https://github.com/staabm/phpstan-todo-by/pull/112) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Test specified lists](https://github.com/staabm/phpstan-dba/pull/688) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Support more array types](https://github.com/staabm/phpstan-dba/pull/687) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
@@ -51,10 +55,6 @@
 - [Drop PHP 7.2/7.3 support](https://github.com/staabm/phpstan-dba/pull/682) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [GH Actions: run tests also on Windows OS](https://github.com/staabm/PHP-Parallel-Lint/pull/1) on [staabm/PHP-Parallel-Lint](https://github.com/staabm/PHP-Parallel-Lint) (1 day ago)
 - [Remove unnecessary `ParametersAcceptorSelector::selectSingle` handling](https://github.com/symplify/phpstan-extensions/pull/9) on [symplify/phpstan-extensions](https://github.com/symplify/phpstan-extensions) (1 day ago)
-- [Simplify NodeGetAttributeTypeExtension](https://github.com/symplify/phpstan-rules/pull/142) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 day ago)
-- [Drop $ignoreOutput parameter](https://github.com/staabm/side-effects-detector/pull/7) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (2 days ago)
-- [Classify side-effects](https://github.com/staabm/side-effects-detector/pull/6) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (2 days ago)
-- [SkipLintProcess: Pass script by file-name instead of code](https://github.com/php-parallel-lint/PHP-Parallel-Lint/pull/178) on [php-parallel-lint/PHP-Parallel-Lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
