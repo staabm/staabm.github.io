@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [remove unnecessary use of `ParametersAcceptorSelector::selectSingle`](https://github.com/larastan/larastan/pull/2054) on [larastan/larastan](https://github.com/larastan/larastan) (today)
+- [Added composer test script](https://github.com/symplify/phpstan-extensions/pull/10) on [symplify/phpstan-extensions](https://github.com/symplify/phpstan-extensions) (today)
+- [Remove `instanceof ConstantArrayType`](https://github.com/FriendsOfREDAXO/rexstan/pull/765) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Keep sqlftw/sqlftw a optional dependency](https://github.com/staabm/phpstan-dba/pull/690) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/191) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
 - [Allow PHP 8.4](https://github.com/FriendsOfREDAXO/rexfactor/pull/190) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (today)
@@ -52,9 +55,6 @@
 - [UPGRADING: fix typo](https://github.com/phpstan/phpstan-src/pull/3526) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix PHPStan deprecations](https://github.com/staabm/phpstan-todo-by/pull/113) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Fix deprecations](https://github.com/staabm/phpstan-todo-by/pull/112) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
-- [Test specified lists](https://github.com/staabm/phpstan-dba/pull/688) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [Support more array types](https://github.com/staabm/phpstan-dba/pull/687) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [Test unspecified lists](https://github.com/staabm/phpstan-dba/pull/686) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 
 
 #### 🔭 Latest releases I've contributed to
