@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 week ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (2 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 weeks ago)
 - [twigstan/twigstan](https://github.com/twigstan/twigstan) (2 weeks ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Drop mysql57 in CI](https://github.com/staabm/phpstan-dba/pull/684) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Fix PHPStan deprecations](https://github.com/staabm/phpstan-dba/pull/683) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [UPGRADING: fix missing syntax highlighting](https://github.com/phpstan/phpstan-src/pull/3525) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Drop PHP 7.2/7.3 support](https://github.com/staabm/phpstan-dba/pull/682) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [GH Actions: run tests also on Windows OS](https://github.com/staabm/PHP-Parallel-Lint/pull/1) on [staabm/PHP-Parallel-Lint](https://github.com/staabm/PHP-Parallel-Lint) (1 day ago)
 - [Remove unnecessary `ParametersAcceptorSelector::selectSingle` handling](https://github.com/symplify/phpstan-extensions/pull/9) on [symplify/phpstan-extensions](https://github.com/symplify/phpstan-extensions) (1 day ago)
 - [Simplify NodeGetAttributeTypeExtension](https://github.com/symplify/phpstan-rules/pull/142) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 day ago)
@@ -51,10 +55,6 @@
 - [Refactor RegexGroupParser for more immutability and less pass-by-ref](https://github.com/phpstan/phpstan-src/pull/3508) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Fix preg_match_all with PREG_SET_ORDER does not see capture group as optional](https://github.com/phpstan/phpstan-src/pull/3506) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Offset access on lowercase-string is lowercase-string](https://github.com/phpstan/phpstan-src/pull/3502) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Throw on invalid UnionType with AccessoryTypes](https://github.com/phpstan/phpstan-src/pull/3500) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Optimize memory hungry hot code path](https://github.com/phpstan/phpstan-src/pull/3480) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Refactor RegexGroupParser for more immutability and less pass-by-ref](https://github.com/phpstan/phpstan-src/pull/3479) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Better error message when data provider is invalid](https://github.com/sebastianbergmann/phpunit/pull/5964) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
