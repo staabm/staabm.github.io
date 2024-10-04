@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix unused private property is not sometimes detected](https://github.com/phpstan/phpstan-src/pull/3539) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Remove inefficient caching from PhpMethodReflection](https://github.com/phpstan/phpstan-src/pull/3534) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Test standalone install also on php 8.1](https://github.com/rectorphp/type-perfect/pull/46) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 day ago)
 - [remove unnecessary use of `ParametersAcceptorSelector::selectSingle`](https://github.com/larastan/larastan/pull/2054) on [larastan/larastan](https://github.com/larastan/larastan) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix some bleeding edge errors](https://github.com/FriendsOfREDAXO/rexstan/pull/763) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [UPGRADING: fix missing backticks](https://github.com/phpstan/phpstan-src/pull/3528) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [curl_multi_getcontent() can return null](https://github.com/phpstan/phpstan-src/pull/3527) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [UPGRADING: fix typo](https://github.com/phpstan/phpstan-src/pull/3526) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
