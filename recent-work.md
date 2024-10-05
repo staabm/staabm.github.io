@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 day ago)
-- [larastan/larastan](https://github.com/larastan/larastan) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
-- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 day ago)
-- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 days ago)
+- [larastan/larastan](https://github.com/larastan/larastan) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
+- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (2 days ago)
+- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (1 week ago)
 
 
@@ -26,7 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
-- [Chemaclass](https://github.com/Chemaclass) (2 weeks ago)
+- [Chemaclass](https://github.com/Chemaclass) (3 weeks ago)
 - [phpstan](https://github.com/phpstan) (1 month ago)
 - [oliverklee](https://github.com/oliverklee) (2 months ago)
 - [TicketSwap](https://github.com/TicketSwap) (3 months ago)
@@ -40,30 +40,30 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix unused private property is not sometimes detected](https://github.com/phpstan/phpstan-src/pull/3539) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Remove inefficient caching from PhpMethodReflection](https://github.com/phpstan/phpstan-src/pull/3534) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Test standalone install also on php 8.1](https://github.com/rectorphp/type-perfect/pull/46) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 day ago)
-- [remove unnecessary use of `ParametersAcceptorSelector::selectSingle`](https://github.com/larastan/larastan/pull/2054) on [larastan/larastan](https://github.com/larastan/larastan) (1 day ago)
-- [Added composer test script](https://github.com/symplify/phpstan-extensions/pull/10) on [symplify/phpstan-extensions](https://github.com/symplify/phpstan-extensions) (1 day ago)
-- [Remove `instanceof ConstantArrayType`](https://github.com/FriendsOfREDAXO/rexstan/pull/765) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [Keep sqlftw/sqlftw a optional dependency](https://github.com/staabm/phpstan-dba/pull/690) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
-- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/191) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
-- [Allow PHP 8.4](https://github.com/FriendsOfREDAXO/rexfactor/pull/190) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
-- [Allow PHP8.3](https://github.com/FriendsOfREDAXO/rexfactor/pull/189) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
-- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/188) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (1 day ago)
-- [Add rule identifiers](https://github.com/FriendsOfREDAXO/rexstan/pull/764) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [Fix some bleeding edge errors](https://github.com/FriendsOfREDAXO/rexstan/pull/763) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [UPGRADING: fix missing backticks](https://github.com/phpstan/phpstan-src/pull/3528) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [curl_multi_getcontent() can return null](https://github.com/phpstan/phpstan-src/pull/3527) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Fix unused private property is not sometimes detected](https://github.com/phpstan/phpstan-src/pull/3539) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Remove inefficient caching from PhpMethodReflection](https://github.com/phpstan/phpstan-src/pull/3534) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Test standalone install also on php 8.1](https://github.com/rectorphp/type-perfect/pull/46) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (2 days ago)
+- [remove unnecessary use of `ParametersAcceptorSelector::selectSingle`](https://github.com/larastan/larastan/pull/2054) on [larastan/larastan](https://github.com/larastan/larastan) (2 days ago)
+- [Added composer test script](https://github.com/symplify/phpstan-extensions/pull/10) on [symplify/phpstan-extensions](https://github.com/symplify/phpstan-extensions) (2 days ago)
+- [Remove `instanceof ConstantArrayType`](https://github.com/FriendsOfREDAXO/rexstan/pull/765) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [Keep sqlftw/sqlftw a optional dependency](https://github.com/staabm/phpstan-dba/pull/690) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/191) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
+- [Allow PHP 8.4](https://github.com/FriendsOfREDAXO/rexfactor/pull/190) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
+- [Allow PHP8.3](https://github.com/FriendsOfREDAXO/rexfactor/pull/189) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/188) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (2 days ago)
+- [Add rule identifiers](https://github.com/FriendsOfREDAXO/rexstan/pull/764) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [Fix some bleeding edge errors](https://github.com/FriendsOfREDAXO/rexstan/pull/763) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [UPGRADING: fix missing backticks](https://github.com/phpstan/phpstan-src/pull/3528) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [curl_multi_getcontent() can return null](https://github.com/phpstan/phpstan-src/pull/3527) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.83](https://github.com/staabm/phpstan-dba/releases/tag/0.2.83) (1 day ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.26](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.26) (1 day ago)
-- [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.9](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.9) (3 days ago)
-- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.17.0](https://github.com/TypedDevs/bashunit/releases/tag/0.17.0) (3 days ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.19.4](https://github.com/nikic/PHP-Parser/releases/tag/v4.19.4) (5 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.83](https://github.com/staabm/phpstan-dba/releases/tag/0.2.83) (2 days ago)
+- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.26](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.26) (2 days ago)
+- [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.9](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.9) (4 days ago)
+- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.17.0](https://github.com/TypedDevs/bashunit/releases/tag/0.17.0) (4 days ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.19.4](https://github.com/nikic/PHP-Parser/releases/tag/v4.19.4) (6 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.10](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.10) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.190](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.190) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.5](https://github.com/phpstan/phpstan/releases/tag/1.12.5) (1 week ago)
