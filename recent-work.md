@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.4.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.0) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.83](https://github.com/staabm/phpstan-dba/releases/tag/0.2.83) (2 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.26](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.26) (2 days ago)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.9](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.9) (4 days ago)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.190](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.190) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.5](https://github.com/phpstan/phpstan/releases/tag/1.12.5) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.32.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.32.0) (1 week ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.29](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.29) (2 weeks ago)
