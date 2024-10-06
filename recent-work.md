@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpdepend/phpdepend](https://github.com/phpdepend/phpdepend) (today)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
-- [larastan/larastan](https://github.com/larastan/larastan) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
+- [phpdepend/callmap](https://github.com/phpdepend/callmap) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (3 days ago)
-- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (3 days ago)
-- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (3 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
+- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (3 days ago)
+- [larastan/larastan](https://github.com/larastan/larastan) (3 days ago)
+- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 
 
 #### 📜 My recent blog posts
