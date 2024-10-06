@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [MethodCallCollector: Remove exception case](https://github.com/phpdepend/callmap/pull/1) on [phpdepend/callmap](https://github.com/phpdepend/callmap) (today)
+- [README: Use latest stable PHPStan version](https://github.com/phpdepend/phpdepend/pull/5) on [phpdepend/phpdepend](https://github.com/phpdepend/phpdepend) (today)
 - [Fix unused private property is not sometimes detected](https://github.com/phpstan/phpstan-src/pull/3539) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Remove inefficient caching from PhpMethodReflection](https://github.com/phpstan/phpstan-src/pull/3534) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Test standalone install also on php 8.1](https://github.com/rectorphp/type-perfect/pull/46) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (3 days ago)
@@ -53,8 +55,6 @@
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/188) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 - [Add rule identifiers](https://github.com/FriendsOfREDAXO/rexstan/pull/764) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [Fix some bleeding edge errors](https://github.com/FriendsOfREDAXO/rexstan/pull/763) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [UPGRADING: fix missing backticks](https://github.com/phpstan/phpstan-src/pull/3528) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [curl_multi_getcontent() can return null](https://github.com/phpstan/phpstan-src/pull/3527) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
