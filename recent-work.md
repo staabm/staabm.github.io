@@ -59,6 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpdepend/phpdepend](https://github.com/phpdepend/phpdepend) - [0.1.0](https://github.com/phpdepend/phpdepend/releases/tag/0.1.0) (today)
+- [phpdepend/callmap](https://github.com/phpdepend/callmap) - [0.2.0](https://github.com/phpdepend/callmap/releases/tag/0.2.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.191](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.191) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.6](https://github.com/phpstan/phpstan/releases/tag/1.12.6) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.29.7](https://github.com/infection/infection/releases/tag/0.29.7) (today)
@@ -67,5 +69,3 @@
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.26](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.26) (3 days ago)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.9](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.9) (5 days ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.17.0](https://github.com/TypedDevs/bashunit/releases/tag/0.17.0) (5 days ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.19.4](https://github.com/nikic/PHP-Parser/releases/tag/v4.19.4) (1 week ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.10](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.10) (1 week ago)
