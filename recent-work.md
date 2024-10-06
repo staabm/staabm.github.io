@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpdepend/phpdepend](https://github.com/phpdepend/phpdepend) (today)
 - [phpdepend/callmap](https://github.com/phpdepend/callmap) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (3 days ago)
+- [phpdepend/phpdepend](https://github.com/phpdepend/phpdepend) (today)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
-- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (3 days ago)
 - [larastan/larastan](https://github.com/larastan/larastan) (3 days ago)
+- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (3 days ago)
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (3 days ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [More precise md5/sha1 return type](https://github.com/phpstan/phpstan-src/pull/3541) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [`token_name()` returns non-empty-string](https://github.com/phpstan/phpstan-src/pull/3540) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [MethodCallCollector: Remove exception case](https://github.com/phpdepend/callmap/pull/1) on [phpdepend/callmap](https://github.com/phpdepend/callmap) (today)
 - [README: Use latest stable PHPStan version](https://github.com/phpdepend/phpdepend/pull/5) on [phpdepend/phpdepend](https://github.com/phpdepend/phpdepend) (today)
@@ -54,11 +55,11 @@
 - [Allow PHP 8.4](https://github.com/FriendsOfREDAXO/rexfactor/pull/190) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 - [Allow PHP8.3](https://github.com/FriendsOfREDAXO/rexfactor/pull/189) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/188) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (3 days ago)
-- [Add rule identifiers](https://github.com/FriendsOfREDAXO/rexstan/pull/764) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.191](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.191) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.6](https://github.com/phpstan/phpstan/releases/tag/1.12.6) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.29.7](https://github.com/infection/infection/releases/tag/0.29.7) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.4.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.17.0](https://github.com/TypedDevs/bashunit/releases/tag/0.17.0) (5 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v4.19.4](https://github.com/nikic/PHP-Parser/releases/tag/v4.19.4) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.10](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.10) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.190](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.190) (1 week ago)
