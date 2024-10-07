@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [SubNodeNames are known at static analysis time](https://github.com/nikic/PHP-Parser/pull/1035) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
+- [Makefile works on windows](https://github.com/nikic/PHP-Parser/pull/1034) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
 - [Remove $isFinal dead-code in PhpFunctionReflection](https://github.com/phpstan/phpstan-src/pull/3545) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [More precise md5/sha1 return type](https://github.com/phpstan/phpstan-src/pull/3541) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [`token_name()` returns non-empty-string](https://github.com/phpstan/phpstan-src/pull/3540) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Remove `instanceof ConstantArrayType`](https://github.com/FriendsOfREDAXO/rexstan/pull/765) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [Keep sqlftw/sqlftw a optional dependency](https://github.com/staabm/phpstan-dba/pull/690) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/191) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
-- [Allow PHP 8.4](https://github.com/FriendsOfREDAXO/rexfactor/pull/190) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
-- [Allow PHP8.3](https://github.com/FriendsOfREDAXO/rexfactor/pull/189) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
