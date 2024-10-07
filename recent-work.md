@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove $isFinal dead-code in PhpFunctionReflection](https://github.com/phpstan/phpstan-src/pull/3545) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [More precise md5/sha1 return type](https://github.com/phpstan/phpstan-src/pull/3541) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [`token_name()` returns non-empty-string](https://github.com/phpstan/phpstan-src/pull/3540) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [MethodCallCollector: Remove exception case](https://github.com/phpdepend/callmap/pull/1) on [phpdepend/callmap](https://github.com/phpdepend/callmap) (1 day ago)
@@ -54,7 +55,6 @@
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/191) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
 - [Allow PHP 8.4](https://github.com/FriendsOfREDAXO/rexfactor/pull/190) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
 - [Allow PHP8.3](https://github.com/FriendsOfREDAXO/rexfactor/pull/189) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
-- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/188) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
