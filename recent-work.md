@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
-- [phpdepend/phpdepend](https://github.com/phpdepend/phpdepend) (1 day ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [phpdepend/phpdepend](https://github.com/phpdepend/phpdepend) (1 day ago)
 - [phpdepend/callmap](https://github.com/phpdepend/callmap) (1 day ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (4 days ago)
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (4 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (4 days ago)
-- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (4 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
 
 
