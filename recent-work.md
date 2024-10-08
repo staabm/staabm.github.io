@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -10,9 +11,8 @@
 - [phpdepend/phpdepend](https://github.com/phpdepend/phpdepend) (2 days ago)
 - [phpdepend/callmap](https://github.com/phpdepend/callmap) (2 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (5 days ago)
-- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (5 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (5 days ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (5 days ago)
+- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (5 days ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Create dependabot.yml](https://github.com/staabm/phpstan-todo-by/pull/114) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [SubNodeNames are known at static analysis time](https://github.com/nikic/PHP-Parser/pull/1035) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 day ago)
 - [Makefile works on windows](https://github.com/nikic/PHP-Parser/pull/1034) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 day ago)
 - [Remove $isFinal dead-code in PhpFunctionReflection](https://github.com/phpstan/phpstan-src/pull/3545) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Added composer test script](https://github.com/symplify/phpstan-extensions/pull/10) on [symplify/phpstan-extensions](https://github.com/symplify/phpstan-extensions) (5 days ago)
 - [Remove `instanceof ConstantArrayType`](https://github.com/FriendsOfREDAXO/rexstan/pull/765) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [Keep sqlftw/sqlftw a optional dependency](https://github.com/staabm/phpstan-dba/pull/690) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexfactor/pull/191) on [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
