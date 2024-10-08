@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.1) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.30](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.30) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.32](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.32) (today)
 - [phpdepend/phpdepend](https://github.com/phpdepend/phpdepend) - [0.1.0](https://github.com/phpdepend/phpdepend/releases/tag/0.1.0) (2 days ago)
@@ -66,6 +67,5 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.191](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.191) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.6](https://github.com/phpstan/phpstan/releases/tag/1.12.6) (2 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.29.7](https://github.com/infection/infection/releases/tag/0.29.7) (2 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.4.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.0) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.83](https://github.com/staabm/phpstan-dba/releases/tag/0.2.83) (5 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.26](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.26) (5 days ago)
