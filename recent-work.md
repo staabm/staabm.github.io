@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.30](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.30) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.32](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.32) (today)
 - [phpdepend/phpdepend](https://github.com/phpdepend/phpdepend) - [0.1.0](https://github.com/phpdepend/phpdepend/releases/tag/0.1.0) (2 days ago)
 - [phpdepend/callmap](https://github.com/phpdepend/callmap) - [0.2.0](https://github.com/phpdepend/callmap/releases/tag/0.2.0) (2 days ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.4.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.0) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.83](https://github.com/staabm/phpstan-dba/releases/tag/0.2.83) (5 days ago)
 - [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) - [0.1.26](https://github.com/FriendsOfREDAXO/rexfactor/releases/tag/0.1.26) (5 days ago)
-- [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.9](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.9) (1 week ago)
