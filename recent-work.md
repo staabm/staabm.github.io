@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add GitHub Action timeouts](https://github.com/ondrejmirtes/simple-downgrader/pull/8) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/3561) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix test-suite regarding indentation](https://github.com/ondrejmirtes/simple-downgrader/pull/7) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
 - [Fix IntegrationPrinterWithPhpParserTest](https://github.com/phpstan/phpdoc-parser/pull/255) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
 - [Support CallLike with variable method name](https://github.com/phpstan/phpstan-src/pull/3553) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [README: Use latest stable PHPStan version](https://github.com/phpdepend/phpdepend/pull/5) on [phpdepend/phpdepend](https://github.com/phpdepend/phpdepend) (3 days ago)
 - [Fix unused private property is not sometimes detected](https://github.com/phpstan/phpstan-src/pull/3539) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Remove inefficient caching from PhpMethodReflection](https://github.com/phpstan/phpstan-src/pull/3534) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Test standalone install also on php 8.1](https://github.com/rectorphp/type-perfect/pull/46) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (6 days ago)
-- [remove unnecessary use of `ParametersAcceptorSelector::selectSingle`](https://github.com/larastan/larastan/pull/2054) on [larastan/larastan](https://github.com/larastan/larastan) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
