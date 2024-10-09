@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [phpdepend/phpdepend](https://github.com/phpdepend/phpdepend) (3 days ago)
 - [phpdepend/callmap](https://github.com/phpdepend/callmap) (3 days ago)
-- [FriendsOfREDAXO/rexfactor](https://github.com/FriendsOfREDAXO/rexfactor) (6 days ago)
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (6 days ago)
+- [phpdepend/phpdepend](https://github.com/phpdepend/phpdepend) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (6 days ago)
+- [larastan/larastan](https://github.com/larastan/larastan) (6 days ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix IntegrationPrinterWithPhpParserTest](https://github.com/phpstan/phpdoc-parser/pull/255) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
 - [Support CallLike with variable method name](https://github.com/phpstan/phpstan-src/pull/3553) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Create dependabot.yml](https://github.com/staabm/phpstan-todo-by/pull/114) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [SubNodeNames are known at static analysis time](https://github.com/nikic/PHP-Parser/pull/1035) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 days ago)
@@ -54,7 +55,6 @@
 - [Test standalone install also on php 8.1](https://github.com/rectorphp/type-perfect/pull/46) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (6 days ago)
 - [remove unnecessary use of `ParametersAcceptorSelector::selectSingle`](https://github.com/larastan/larastan/pull/2054) on [larastan/larastan](https://github.com/larastan/larastan) (6 days ago)
 - [Added composer test script](https://github.com/symplify/phpstan-extensions/pull/10) on [symplify/phpstan-extensions](https://github.com/symplify/phpstan-extensions) (6 days ago)
-- [Remove `instanceof ConstantArrayType`](https://github.com/FriendsOfREDAXO/rexstan/pull/765) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
