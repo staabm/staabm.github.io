@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix PHPStan errors](https://github.com/staabm/phpstan-baseline-analysis/pull/182) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [Add GitHub Action timeouts](https://github.com/ondrejmirtes/simple-downgrader/pull/8) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3561) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix test-suite regarding indentation](https://github.com/ondrejmirtes/simple-downgrader/pull/7) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
@@ -54,7 +55,6 @@
 - [MethodCallCollector: Remove exception case](https://github.com/phpdepend/callmap/pull/1) on [phpdepend/callmap](https://github.com/phpdepend/callmap) (3 days ago)
 - [README: Use latest stable PHPStan version](https://github.com/phpdepend/phpdepend/pull/5) on [phpdepend/phpdepend](https://github.com/phpdepend/phpdepend) (3 days ago)
 - [Fix unused private property is not sometimes detected](https://github.com/phpstan/phpstan-src/pull/3539) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Remove inefficient caching from PhpMethodReflection](https://github.com/phpstan/phpstan-src/pull/3534) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
