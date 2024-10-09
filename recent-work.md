@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
+- [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
-- [phpdepend/callmap](https://github.com/phpdepend/callmap) (3 days ago)
-- [phpdepend/phpdepend](https://github.com/phpdepend/phpdepend) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [larastan/larastan](https://github.com/larastan/larastan) (6 days ago)
+- [phpdepend/phpdepend](https://github.com/phpdepend/phpdepend) (3 days ago)
+- [phpdepend/callmap](https://github.com/phpdepend/callmap) (3 days ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [PHPStan enable bleeding edge](https://github.com/staabm/phpstan-dba/pull/692) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [PHPStan enable bleeding edge](https://github.com/staabm/phpstan-baseline-analysis/pull/184) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
+- [Added phpstan/phpstan-deprecation-rules](https://github.com/staabm/phpstan-baseline-analysis/pull/183) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [Fix PHPStan errors](https://github.com/staabm/phpstan-baseline-analysis/pull/182) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [Add GitHub Action timeouts](https://github.com/ondrejmirtes/simple-downgrader/pull/8) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3561) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -52,13 +55,11 @@
 - [Remove $isFinal dead-code in PhpFunctionReflection](https://github.com/phpstan/phpstan-src/pull/3545) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [More precise md5/sha1 return type](https://github.com/phpstan/phpstan-src/pull/3541) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [`token_name()` returns non-empty-string](https://github.com/phpstan/phpstan-src/pull/3540) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [MethodCallCollector: Remove exception case](https://github.com/phpdepend/callmap/pull/1) on [phpdepend/callmap](https://github.com/phpdepend/callmap) (3 days ago)
-- [README: Use latest stable PHPStan version](https://github.com/phpdepend/phpdepend/pull/5) on [phpdepend/phpdepend](https://github.com/phpdepend/phpdepend) (3 days ago)
-- [Fix unused private property is not sometimes detected](https://github.com/phpstan/phpstan-src/pull/3539) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.13](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.13) (today)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.3.1](https://github.com/nikic/PHP-Parser/releases/tag/v5.3.1) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.1) (1 day ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.30](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.30) (1 day ago)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.191](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.191) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.6](https://github.com/phpstan/phpstan/releases/tag/1.12.6) (3 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.29.7](https://github.com/infection/infection/releases/tag/0.29.7) (3 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.83](https://github.com/staabm/phpstan-dba/releases/tag/0.2.83) (6 days ago)
