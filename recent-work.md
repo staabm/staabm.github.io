@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix test-suite regarding indentation](https://github.com/ondrejmirtes/simple-downgrader/pull/7) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
 - [Fix IntegrationPrinterWithPhpParserTest](https://github.com/phpstan/phpdoc-parser/pull/255) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
 - [Support CallLike with variable method name](https://github.com/phpstan/phpstan-src/pull/3553) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Create dependabot.yml](https://github.com/staabm/phpstan-todo-by/pull/114) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
@@ -54,7 +55,6 @@
 - [Remove inefficient caching from PhpMethodReflection](https://github.com/phpstan/phpstan-src/pull/3534) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Test standalone install also on php 8.1](https://github.com/rectorphp/type-perfect/pull/46) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (6 days ago)
 - [remove unnecessary use of `ParametersAcceptorSelector::selectSingle`](https://github.com/larastan/larastan/pull/2054) on [larastan/larastan](https://github.com/larastan/larastan) (6 days ago)
-- [Added composer test script](https://github.com/symplify/phpstan-extensions/pull/10) on [symplify/phpstan-extensions](https://github.com/symplify/phpstan-extensions) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
