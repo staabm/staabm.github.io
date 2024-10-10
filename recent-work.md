@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/orm](https://github.com/doctrine/orm) - [2.19.8](https://github.com/doctrine/orm/releases/tag/2.19.8) (today)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.13](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.13) (1 day ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.3.1](https://github.com/nikic/PHP-Parser/releases/tag/v5.3.1) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.1) (2 days ago)
@@ -68,4 +69,3 @@
 - [phpdepend/callmap](https://github.com/phpdepend/callmap) - [0.2.0](https://github.com/phpdepend/callmap/releases/tag/0.2.0) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.191](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.191) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.6](https://github.com/phpstan/phpstan/releases/tag/1.12.6) (4 days ago)
-- [infection/infection](https://github.com/infection/infection) - [0.29.7](https://github.com/infection/infection/releases/tag/0.29.7) (4 days ago)
