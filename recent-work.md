@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update to nikic/php-parser 5.x](https://github.com/TomasVotruba/class-leak/pull/47) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (today)
 - [Provide better error message after syntax error](https://github.com/TomasVotruba/class-leak/pull/46) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (today)
 - [POC: Don&#39;t use die() but echo to skip tests.](https://github.com/antecedent/patchwork/pull/168) on [antecedent/patchwork](https://github.com/antecedent/patchwork) (today)
 - [CI: Added windows coverage](https://github.com/staabm/side-effects-detector/pull/13) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (today)
@@ -54,7 +55,6 @@
 - [Fix IntegrationPrinterWithPhpParserTest](https://github.com/phpstan/phpdoc-parser/pull/255) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 days ago)
 - [Support CallLike with variable method name](https://github.com/phpstan/phpstan-src/pull/3553) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Create dependabot.yml](https://github.com/staabm/phpstan-todo-by/pull/114) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
-- [SubNodeNames are known at static analysis time](https://github.com/nikic/PHP-Parser/pull/1035) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
