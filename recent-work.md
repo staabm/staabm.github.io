@@ -6,12 +6,12 @@
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (today)
 - [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 days ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (2 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (4 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (4 days ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (4 days ago)
 - [phpdepend/phpdepend](https://github.com/phpdepend/phpdepend) (5 days ago)
 
 
