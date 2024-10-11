@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 days ago)
-- [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (2 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
+- [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (4 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
-- [phpdepend/phpdepend](https://github.com/phpdepend/phpdepend) (5 days ago)
 - [phpdepend/callmap](https://github.com/phpdepend/callmap) (5 days ago)
+- [phpdepend/phpdepend](https://github.com/phpdepend/phpdepend) (5 days ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [CI: Added windows coverage](https://github.com/staabm/side-effects-detector/pull/13) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (today)
+- [Cover more php-src real world scenarios](https://github.com/staabm/side-effects-detector/pull/12) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (today)
 - [PHPStan enable bleeding edge](https://github.com/staabm/phpstan-dba/pull/692) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [PHPStan enable bleeding edge](https://github.com/staabm/phpstan-baseline-analysis/pull/184) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
 - [Added phpstan/phpstan-deprecation-rules](https://github.com/staabm/phpstan-baseline-analysis/pull/183) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 days ago)
@@ -53,8 +55,6 @@
 - [SubNodeNames are known at static analysis time](https://github.com/nikic/PHP-Parser/pull/1035) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (4 days ago)
 - [Makefile works on windows](https://github.com/nikic/PHP-Parser/pull/1034) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (4 days ago)
 - [Remove $isFinal dead-code in PhpFunctionReflection](https://github.com/phpstan/phpstan-src/pull/3545) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [More precise md5/sha1 return type](https://github.com/phpstan/phpstan-src/pull/3541) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [`token_name()` returns non-empty-string](https://github.com/phpstan/phpstan-src/pull/3540) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
