@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [POC: Don&#39;t use die() but echo to skip tests.](https://github.com/antecedent/patchwork/pull/168) on [antecedent/patchwork](https://github.com/antecedent/patchwork) (today)
 - [CI: Added windows coverage](https://github.com/staabm/side-effects-detector/pull/13) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (today)
 - [Cover more php-src real world scenarios](https://github.com/staabm/side-effects-detector/pull/12) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (today)
 - [PHPStan enable bleeding edge](https://github.com/staabm/phpstan-dba/pull/692) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
@@ -54,7 +55,6 @@
 - [Create dependabot.yml](https://github.com/staabm/phpstan-todo-by/pull/114) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
 - [SubNodeNames are known at static analysis time](https://github.com/nikic/PHP-Parser/pull/1035) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (4 days ago)
 - [Makefile works on windows](https://github.com/nikic/PHP-Parser/pull/1034) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (4 days ago)
-- [Remove $isFinal dead-code in PhpFunctionReflection](https://github.com/phpstan/phpstan-src/pull/3545) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
