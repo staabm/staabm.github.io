@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.33.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.33.0) (today)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.3.0](https://github.com/doctrine/orm/releases/tag/3.3.0) (today)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.13](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.13) (4 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.3.1](https://github.com/nikic/PHP-Parser/releases/tag/v5.3.1) (5 days ago)
@@ -68,4 +69,3 @@
 - [phpdepend/phpdepend](https://github.com/phpdepend/phpdepend) - [0.1.0](https://github.com/phpdepend/phpdepend/releases/tag/0.1.0) (1 week ago)
 - [phpdepend/callmap](https://github.com/phpdepend/callmap) - [0.2.0](https://github.com/phpdepend/callmap/releases/tag/0.2.0) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.191](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.191) (1 week ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.6](https://github.com/phpstan/phpstan/releases/tag/1.12.6) (1 week ago)
