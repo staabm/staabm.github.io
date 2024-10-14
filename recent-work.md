@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (2 days ago)
-- [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (2 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (4 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
-- [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (4 days ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (5 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (6 days ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (6 days ago)
+- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (3 days ago)
+- [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (3 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (5 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
+- [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (5 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (6 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
 - [phpdepend/phpdepend](https://github.com/phpdepend/phpdepend) (1 week ago)
 
 
@@ -26,7 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
-- [Chemaclass](https://github.com/Chemaclass) (4 weeks ago)
+- [Chemaclass](https://github.com/Chemaclass) (1 month ago)
 - [phpstan](https://github.com/phpstan) (2 months ago)
 - [oliverklee](https://github.com/oliverklee) (3 months ago)
 - [TicketSwap](https://github.com/TicketSwap) (3 months ago)
@@ -40,32 +40,32 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Disable xdebug in subprocess when inactive](https://github.com/sebastianbergmann/phpunit/pull/5989) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
-- [Update to nikic/php-parser 5.x](https://github.com/TomasVotruba/class-leak/pull/47) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (2 days ago)
-- [Provide better error message after syntax error](https://github.com/TomasVotruba/class-leak/pull/46) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (2 days ago)
-- [POC: Don&#39;t use die() but echo to skip tests.](https://github.com/antecedent/patchwork/pull/168) on [antecedent/patchwork](https://github.com/antecedent/patchwork) (2 days ago)
-- [CI: Added windows coverage](https://github.com/staabm/side-effects-detector/pull/13) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (2 days ago)
-- [Cover more php-src real world scenarios](https://github.com/staabm/side-effects-detector/pull/12) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (2 days ago)
-- [PHPStan enable bleeding edge](https://github.com/staabm/phpstan-dba/pull/692) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [PHPStan enable bleeding edge](https://github.com/staabm/phpstan-baseline-analysis/pull/184) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
-- [Added phpstan/phpstan-deprecation-rules](https://github.com/staabm/phpstan-baseline-analysis/pull/183) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
-- [Fix PHPStan errors](https://github.com/staabm/phpstan-baseline-analysis/pull/182) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
-- [Add GitHub Action timeouts](https://github.com/ondrejmirtes/simple-downgrader/pull/8) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (4 days ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/3561) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Fix test-suite regarding indentation](https://github.com/ondrejmirtes/simple-downgrader/pull/7) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (4 days ago)
-- [Fix IntegrationPrinterWithPhpParserTest](https://github.com/phpstan/phpdoc-parser/pull/255) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (4 days ago)
-- [Support CallLike with variable method name](https://github.com/phpstan/phpstan-src/pull/3553) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Disable xdebug in subprocess when inactive](https://github.com/sebastianbergmann/phpunit/pull/5989) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
+- [Update to nikic/php-parser 5.x](https://github.com/TomasVotruba/class-leak/pull/47) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (3 days ago)
+- [Provide better error message after syntax error](https://github.com/TomasVotruba/class-leak/pull/46) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (3 days ago)
+- [POC: Don&#39;t use die() but echo to skip tests.](https://github.com/antecedent/patchwork/pull/168) on [antecedent/patchwork](https://github.com/antecedent/patchwork) (3 days ago)
+- [CI: Added windows coverage](https://github.com/staabm/side-effects-detector/pull/13) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (3 days ago)
+- [Cover more php-src real world scenarios](https://github.com/staabm/side-effects-detector/pull/12) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (3 days ago)
+- [PHPStan enable bleeding edge](https://github.com/staabm/phpstan-dba/pull/692) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
+- [PHPStan enable bleeding edge](https://github.com/staabm/phpstan-baseline-analysis/pull/184) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
+- [Added phpstan/phpstan-deprecation-rules](https://github.com/staabm/phpstan-baseline-analysis/pull/183) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
+- [Fix PHPStan errors](https://github.com/staabm/phpstan-baseline-analysis/pull/182) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
+- [Add GitHub Action timeouts](https://github.com/ondrejmirtes/simple-downgrader/pull/8) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (5 days ago)
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/3561) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Fix test-suite regarding indentation](https://github.com/ondrejmirtes/simple-downgrader/pull/7) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (5 days ago)
+- [Fix IntegrationPrinterWithPhpParserTest](https://github.com/phpstan/phpdoc-parser/pull/255) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (5 days ago)
+- [Support CallLike with variable method name](https://github.com/phpstan/phpstan-src/pull/3553) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.33.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.33.0) (today)
-- [doctrine/orm](https://github.com/doctrine/orm) - [3.3.0](https://github.com/doctrine/orm/releases/tag/3.3.0) (today)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.13](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.13) (4 days ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.3.1](https://github.com/nikic/PHP-Parser/releases/tag/v5.3.1) (5 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.1) (5 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.30](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.30) (5 days ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.32](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.32) (5 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.33.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.33.0) (1 day ago)
+- [doctrine/orm](https://github.com/doctrine/orm) - [3.3.0](https://github.com/doctrine/orm/releases/tag/3.3.0) (1 day ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.13](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.13) (5 days ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.3.1](https://github.com/nikic/PHP-Parser/releases/tag/v5.3.1) (6 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.1) (6 days ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.30](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.30) (6 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.1.32](https://github.com/staabm/phpstan-todo-by/releases/tag/0.1.32) (6 days ago)
 - [phpdepend/phpdepend](https://github.com/phpdepend/phpdepend) - [0.1.0](https://github.com/phpdepend/phpdepend/releases/tag/0.1.0) (1 week ago)
 - [phpdepend/callmap](https://github.com/phpdepend/callmap) - [0.2.0](https://github.com/phpdepend/callmap/releases/tag/0.2.0) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.191](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.191) (1 week ago)
