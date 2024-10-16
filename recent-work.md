@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove dead code](https://github.com/phpstan/phpstan-src/pull/3575) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Disable xdebug in subprocess when inactive](https://github.com/sebastianbergmann/phpunit/pull/5989) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [Update to nikic/php-parser 5.x](https://github.com/TomasVotruba/class-leak/pull/47) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (5 days ago)
 - [Provide better error message after syntax error](https://github.com/TomasVotruba/class-leak/pull/46) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (5 days ago)
@@ -54,7 +55,6 @@
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3561) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix test-suite regarding indentation](https://github.com/ondrejmirtes/simple-downgrader/pull/7) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 week ago)
 - [Fix IntegrationPrinterWithPhpParserTest](https://github.com/phpstan/phpdoc-parser/pull/255) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
-- [Support CallLike with variable method name](https://github.com/phpstan/phpstan-src/pull/3553) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
