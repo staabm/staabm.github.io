@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (5 days ago)
-- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (5 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (6 days ago)
+- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (6 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 week ago)
@@ -40,14 +40,14 @@
 
 #### 🔨 My recent Pull Requests
 
-- [E_STRICT is deprecated as of PHP 8.4](https://github.com/JetBrains/phpstorm-stubs/pull/1681) on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (today)
-- [Remove dead code](https://github.com/phpstan/phpstan-src/pull/3575) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Disable xdebug in subprocess when inactive](https://github.com/sebastianbergmann/phpunit/pull/5989) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
-- [Update to nikic/php-parser 5.x](https://github.com/TomasVotruba/class-leak/pull/47) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (5 days ago)
-- [Provide better error message after syntax error](https://github.com/TomasVotruba/class-leak/pull/46) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (5 days ago)
-- [POC: Don&#39;t use die() but echo to skip tests.](https://github.com/antecedent/patchwork/pull/168) on [antecedent/patchwork](https://github.com/antecedent/patchwork) (5 days ago)
-- [CI: Added windows coverage](https://github.com/staabm/side-effects-detector/pull/13) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (5 days ago)
-- [Cover more php-src real world scenarios](https://github.com/staabm/side-effects-detector/pull/12) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (5 days ago)
+- [E_STRICT is deprecated as of PHP 8.4](https://github.com/JetBrains/phpstorm-stubs/pull/1681) on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (1 day ago)
+- [Remove dead code](https://github.com/phpstan/phpstan-src/pull/3575) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Disable xdebug in subprocess when inactive](https://github.com/sebastianbergmann/phpunit/pull/5989) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
+- [Update to nikic/php-parser 5.x](https://github.com/TomasVotruba/class-leak/pull/47) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (6 days ago)
+- [Provide better error message after syntax error](https://github.com/TomasVotruba/class-leak/pull/46) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (6 days ago)
+- [POC: Don&#39;t use die() but echo to skip tests.](https://github.com/antecedent/patchwork/pull/168) on [antecedent/patchwork](https://github.com/antecedent/patchwork) (6 days ago)
+- [CI: Added windows coverage](https://github.com/staabm/side-effects-detector/pull/13) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (6 days ago)
+- [Cover more php-src real world scenarios](https://github.com/staabm/side-effects-detector/pull/12) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (6 days ago)
 - [PHPStan enable bleeding edge](https://github.com/staabm/phpstan-dba/pull/692) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [PHPStan enable bleeding edge](https://github.com/staabm/phpstan-baseline-analysis/pull/184) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [Added phpstan/phpstan-deprecation-rules](https://github.com/staabm/phpstan-baseline-analysis/pull/183) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
@@ -59,12 +59,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [4.3.5](https://github.com/lucatume/wp-browser/releases/tag/4.3.5) (today)
-- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.18.0](https://github.com/TypedDevs/bashunit/releases/tag/0.18.0) (today)
-- [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.9](https://github.com/larastan/larastan/releases/tag/v2.9.9) (today)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.7.0](https://github.com/shopware/shopware/releases/tag/v6.6.7.0) (2 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.33.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.33.0) (3 days ago)
-- [doctrine/orm](https://github.com/doctrine/orm) - [3.3.0](https://github.com/doctrine/orm/releases/tag/3.3.0) (3 days ago)
+- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [4.3.5](https://github.com/lucatume/wp-browser/releases/tag/4.3.5) (1 day ago)
+- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.18.0](https://github.com/TypedDevs/bashunit/releases/tag/0.18.0) (1 day ago)
+- [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.9](https://github.com/larastan/larastan/releases/tag/v2.9.9) (1 day ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.7.0](https://github.com/shopware/shopware/releases/tag/v6.6.7.0) (3 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.33.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.33.0) (4 days ago)
+- [doctrine/orm](https://github.com/doctrine/orm) - [3.3.0](https://github.com/doctrine/orm/releases/tag/3.3.0) (4 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.13](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.13) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.3.1](https://github.com/nikic/PHP-Parser/releases/tag/v5.3.1) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.1) (1 week ago)
