@@ -7,12 +7,12 @@
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 day ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
 - [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (1 week ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 week ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -43,7 +43,7 @@
 - [Test PHP 8.4](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/117) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 day ago)
 - [E_STRICT is deprecated as of PHP 8.4](https://github.com/JetBrains/phpstorm-stubs/pull/1681) on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (2 days ago)
 - [Remove dead code](https://github.com/phpstan/phpstan-src/pull/3575) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Disable xdebug in subprocess when inactive](https://github.com/sebastianbergmann/phpunit/pull/5989) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
+- [Disable Xdebug in subprocesses when it is not used](https://github.com/sebastianbergmann/phpunit/pull/5989) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
 - [Update to nikic/php-parser 5.x](https://github.com/TomasVotruba/class-leak/pull/47) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (1 week ago)
 - [Provide better error message after syntax error](https://github.com/TomasVotruba/class-leak/pull/46) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (1 week ago)
 - [Don&#39;t use die() but echo to skip tests.](https://github.com/antecedent/patchwork/pull/168) on [antecedent/patchwork](https://github.com/antecedent/patchwork) (1 week ago)
