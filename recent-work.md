@@ -4,7 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
-- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (1 day ago)
+- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (today)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 day ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -40,7 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Inline SKIPIF evaluation without side-effects](https://github.com/sebastianbergmann/phpunit/pull/5998) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [Inline CLEAN evaluation without main-process pollution](https://github.com/sebastianbergmann/phpunit/pull/5999) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [Do not run `SKIPIF` section of PHPT test in separate process when it is free of side effects](https://github.com/sebastianbergmann/phpunit/pull/5998) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Test PHP 8.4](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/117) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 day ago)
 - [E_STRICT is deprecated as of PHP 8.4](https://github.com/JetBrains/phpstorm-stubs/pull/1681) on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (2 days ago)
 - [Remove dead code](https://github.com/phpstan/phpstan-src/pull/3575) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,13 +55,12 @@
 - [PHPStan enable bleeding edge](https://github.com/staabm/phpstan-baseline-analysis/pull/184) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [Added phpstan/phpstan-deprecation-rules](https://github.com/staabm/phpstan-baseline-analysis/pull/183) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [Fix PHPStan errors](https://github.com/staabm/phpstan-baseline-analysis/pull/182) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
-- [Add GitHub Action timeouts](https://github.com/ondrejmirtes/simple-downgrader/pull/8) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) - [1.0.1](https://github.com/staabm/side-effects-detector/releases/tag/1.0.1) (today)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.6](https://github.com/lucatume/wp-browser/releases/tag/3.7.6) (today)
-- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) - [1.0](https://github.com/staabm/side-effects-detector/releases/tag/1.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.7](https://github.com/phpstan/phpstan/releases/tag/1.12.7) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.31](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.31) (today)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.18.0](https://github.com/TypedDevs/bashunit/releases/tag/0.18.0) (2 days ago)
