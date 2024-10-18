@@ -3,11 +3,11 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (1 day ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 day ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
 - [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (1 week ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) - [1.0](https://github.com/staabm/side-effects-detector/releases/tag/1.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.7](https://github.com/phpstan/phpstan/releases/tag/1.12.7) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.31](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.31) (today)
-- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) - [0.1](https://github.com/staabm/side-effects-detector/releases/tag/0.1) (1 day ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [4.3.5](https://github.com/lucatume/wp-browser/releases/tag/4.3.5) (2 days ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.18.0](https://github.com/TypedDevs/bashunit/releases/tag/0.18.0) (2 days ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.9](https://github.com/larastan/larastan/releases/tag/v2.9.9) (2 days ago)
