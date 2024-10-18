@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kahlan/kahlan](https://github.com/kahlan/kahlan) - [5.2.8](https://github.com/kahlan/kahlan/releases/tag/5.2.8) (today)
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) - [1.0.1](https://github.com/staabm/side-effects-detector/releases/tag/1.0.1) (today)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.6](https://github.com/lucatume/wp-browser/releases/tag/3.7.6) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.7](https://github.com/phpstan/phpstan/releases/tag/1.12.7) (today)
@@ -68,4 +69,3 @@
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.7.0](https://github.com/shopware/shopware/releases/tag/v6.6.7.0) (4 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [1.33.0](https://github.com/phpstan/phpdoc-parser/releases/tag/1.33.0) (5 days ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - [3.3.0](https://github.com/doctrine/orm/releases/tag/3.3.0) (5 days ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.13](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.13) (1 week ago)
