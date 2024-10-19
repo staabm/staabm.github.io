@@ -100,9 +100,8 @@ I spent a few more days on it to test it on some more real world examples and ve
 So in the end detecting situations in which it's fine to not start subprocesses for `--SKIPIF--` and `--CLEAN--` sections of PHPT tests was a matter of 2 pull requests,
 which we reviewed with the PHPUnit codesprint team in Munich.
 
-[PR #5998: Do not run `--SKIPIF--` section of PHPT test in separate process when not required](https://github.com/sebastianbergmann/phpunit/pull/5998)
-
-[PR #5995: Do not run `--CLEAN--` section of PHPT test in separate process when it is free of side effects that modify the parent process](https://github.com/sebastianbergmann/phpunit/pull/5999)
+- [PR #5998: Do not run `--SKIPIF--` section of PHPT test in separate process when not required](https://github.com/sebastianbergmann/phpunit/pull/5998)
+- [PR #5995: Do not run `--CLEAN--` section of PHPT test in separate process when it is free of side effects that modify the parent process](https://github.com/sebastianbergmann/phpunit/pull/5999)
 
 My testing suggested that each process creation we can avoid on macOs saves us 25-30ms. On Windows its about 40-50ms.
 These patches will be released with PHPUnit 11.5.0.
