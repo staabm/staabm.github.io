@@ -54,7 +54,7 @@ What I particularly like about this patch is, that as soon as you have a debugge
 Recently I met old and new friends at the [PHP Developer day in Dresden](https://phpdd.org).
 
 While talking with [Juliette Reinders Folmer](https://github.com/jrfnl), she mentioned long turnaround times in projects which rely on PHPT tests with PHPUnit.
-That was my trigger to look into PHPT their inner workings.
+That was my trigger to look into the PHPT TestRunner inner workings.
 
 I realized that for a fully fledged PHPT test, until PHPUnit 11.4.2 we had to spawn 1 subprocess for each `--SKIPIF--`, `--TEST--` and `--CLEAN--` section of a single PHPT test.
 This means a lot of process creation overhead, especially on Windows based systems which are particular slow in creating processes.
