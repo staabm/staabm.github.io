@@ -25,10 +25,9 @@ Since most of us never met or teamed up before, it was a great way to share know
 We got a lot of stuff done, and it was a awesome event. I am looking forward to the next one.
 
 In the following I want to share the topics I worked on recently which got finalized during the codesprint.
+I am particular grateful that the team took the time to review and discuss my recently submitted pull requests.
 
 ### My Focus: Reduce overhead when running PHPT tests
-
-I am particular grateful that the team took the time to review and discuss my recently submitted pull requests.
 
 #### [PR #5989: Disable xdebug in subprocess when inactive](https://github.com/sebastianbergmann/phpunit/pull/5989)
 
