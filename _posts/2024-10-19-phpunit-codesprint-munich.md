@@ -41,7 +41,7 @@ So one idea I came up with is, to detect within the PHPUnit main process whether
 When PHPUnit is _not_ configured to collect coverage data with Xdebug and [_no_ debugger is attached](https://xdebug.org/docs/all_functions#xdebug_is_debugger_active),
 we take this as a signal that Xdebug is likely not needed in subprocesses which get spawned by PHPUnit.
 
-Comparing PHPUnit runs of a PHPT test before and after the change, show a 4-5x improvement in runtime.
+Comparing PHPUnit runs of a PHPT test before and after the change, show a 4-5x improvement in runtime, when Xdebug is loaded.
 
 The PR will also improve runtime of regular PHPUnit tests when run in process isolation.
 It will be released with PHPUnit 11.4.2.
