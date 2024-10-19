@@ -16,6 +16,9 @@ We spent 2 days on discussing, coding and issue triage for the PHPUnit project t
 
 <img src="https://media.phpc.social/media_attachments/files/113/334/784/242/183/071/original/b6f5598e204a00c5.jpeg" alt="PHPUnit Codesprint team in Munich" width="920">
 
+_From left to right: [Andreas Möller](https://phpc.social/@localheinz), myself, [Sebastian Heuer](https://phpc.social/@sebastianheuer), [Arne Blankerts](https://phpc.social/@theseer), Nicola Pilcher, and [Fabian](https://phpc.social/@Schrank).
+Photo by [Sebastian Bergmann](https://phpc.social/@sebastian)._
+
 It was the first time I ever was part of a mob programming session - a similar setup to pair programming but in our case with 7 people at once.
 Since most of us never met or teamed up before, it was a great way to share knowledge and get to know each other.
 
