@@ -95,7 +95,7 @@ It took me a few days building a small tool, in which I can feed a string of PHP
 [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) was born.
 
 The idea was proposed to Sebastian Bergmann who gave me a GO on integrating it in PHPUnit.
-I spent a few more days on it to feed in some real world examples and verify it will return the expected result.
+I spent a few more days on it to test it on some more real world examples and verify it will return the expected result.
 
 So in the end detecting situations in which it's fine to not start subprocesses for `--SKIPIF--` and `--CLEAN--` sections of PHPT tests was a matter of 2 pull requests,
 which we reviewed with the PHPUnit codesprint team in Munich.
