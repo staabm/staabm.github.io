@@ -107,17 +107,15 @@ which we reviewed with the PHPUnit codesprint team in Munich.
 My testing suggested that each process creation we can avoid on macOs saves us 25-30ms. On Windows its about 40-50ms.
 These patches will be released with PHPUnit 11.5.0.
 
+ProTip™: In the future try to prevent use of `die` or `exit` in `--SKIPIF--` sections of PHPT tests,
+and use `echo` or similar instead, so PHPUnit can run your `--SKIPIF--` code in the main process.
+In case you are not sure whats happening, try running your test with `--debug`,
+and watch for the newly added `Child Process Started`, `Child Process Finished` events.
 
-### Future work
-
-For the future is planned to
-- stabilize the implementation to make it general available (without Bleeding Edge)
-- finalize the `composer/pcre` integration
-- finalize the PHP-CS-Fixer `Preg::match` integration
-- use similar type narrowing for `preg_match_all` and maybe other functions
-- [use more precise types](https://github.com/phpstan/phpstan/issues/11222) when possible
+I did just that in [antecedent/patchwork](https://github.com/antecedent/patchwork/pull/168) to utlize this new capability.
 
 
 ### Support my open source work
 
-In case this article was useful, or you want to honor the effort I put into one of the hundreds of pull-requests to PHPStan, please [considering sponsoring my open-source efforts 💕](https://github.com/sponsors/staabm).
+A big thank-you goes out to my GitHub sponsors who paid for the train and hotel.
+In case my open source work is valuable to you, consider [sponsoring my efforts](https://github.com/sponsors/staabm).
