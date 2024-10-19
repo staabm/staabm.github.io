@@ -12,7 +12,7 @@ ogImage:
 
 
 In October 2024, I was part of a team of PHPUnit contributors who met in Munich for a codesprint at the office of [celebrate.company](https://www.celebrate.company/).
-We spent 2 days on discussing, coding and issue triage for the PHPUnit project together with Sebastian Bergmann, the creator of PHPUnit.
+We spent 2 days on discussing, coding and issue triage for the PHPUnit open source project together with Sebastian Bergmann, the creator of PHPUnit.
 
 <img src="https://media.phpc.social/media_attachments/files/113/334/784/242/183/071/original/b6f5598e204a00c5.jpeg" alt="PHPUnit Codesprint team in Munich" width="920">
 
