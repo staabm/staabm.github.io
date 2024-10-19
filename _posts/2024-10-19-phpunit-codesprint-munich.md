@@ -22,6 +22,8 @@ Photo by [Sebastian Bergmann](https://phpc.social/@sebastian)._
 It was the first time I ever was part of a mob programming session - a similar setup to pair programming but in our case with 7 people at once.
 Since most of us never met or teamed up before, it was a great way to share knowledge and get to know each other.
 
+I was a great event, and I am looking forward to the next one.
+
 In the following I want to share the topics I worked on recently which got finalized during the codesprint.
 
 ### My Focus: Reduce overhead when running PHPT tests
