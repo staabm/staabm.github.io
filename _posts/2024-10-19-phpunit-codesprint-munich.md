@@ -106,7 +106,7 @@ which we reviewed with the PHPUnit codesprint team in Munich.
 My testing suggested that each process creation we can avoid on macOs saves us 25-30ms. On Windows its about 40-50ms.
 These patches will be released with PHPUnit 11.5.0.
 
-ProTip™: In the future try to prevent use of `die` or `exit` in `--SKIPIF--` sections of PHPT tests,
+ProTip™: In the future try to prevent use of `die()` or `exit()` in `--SKIPIF--` sections of PHPT tests,
 and use `echo` or similar instead, so PHPUnit can run your `--SKIPIF--` code in the main process.
 In case you are not sure whats happening, try running your test with `--debug`,
 and watch for the newly added `Child Process Started`, `Child Process Finished` events.
