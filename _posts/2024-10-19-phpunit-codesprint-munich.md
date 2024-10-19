@@ -38,7 +38,7 @@ I spent a lot of time in debugging these tools, and I am using Xdebug for that.
 For that reason most of the time I have Xdebug enabled in my PHP cli configuration, which slows things down considerably.
 My thesis is, that a lot of developers out there have Xdebug enabled on their workstations as well, for whatever reason.
 
-So one idea I came up with is, to detect in the PHPUnit main process whether Xdebug is loaded.
+So one idea I came up with is, to detect within the PHPUnit main process whether Xdebug is loaded.
 When PHPUnit is _not_ configured to collect coverage data with Xdebug and [_no_ debugger is attached](https://xdebug.org/docs/all_functions#xdebug_is_debugger_active),
 we take this as a signal that Xdebug is likely not needed in subprocesses which get spawned by PHPUnit.
 
