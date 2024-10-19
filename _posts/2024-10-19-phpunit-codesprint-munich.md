@@ -14,6 +14,8 @@ ogImage:
 In October 2024, I was part of a team of PHPUnit contributors who met in Munich for a codesprint at the office of [celebrate.company](https://www.celebrate.company/).
 We spent 2 days on discussing, coding and issue triage for the PHPUnit project together with Sebastian Bergmann, the creator of PHPUnit.
 
+<img src="https://media.phpc.social/media_attachments/files/113/334/784/242/183/071/original/b6f5598e204a00c5.jpeg" alt="PHPUnit Codesprint team in Munich" width="920">
+
 It was the first time I ever was part of a mob programming session - a similar setup to pair programming but in our case with 7 people at once.
 Since most of us never met or teamed up before, it was a great way to share knowledge and get to know each other.
 
