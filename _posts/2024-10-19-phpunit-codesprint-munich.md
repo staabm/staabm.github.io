@@ -90,11 +90,11 @@ unlink(__DIR__ . '/stream-url-stat.link.txt');
 Looking at code of these `--SKIPF--` and `--CLEAN--` sections made me think that in a lot of cases these could just be executed within the PHPUnit main process, without the need to isolate it in a subprocess.
 Of course there are cases where process isolation is required but in the end a big portion of PHP tests do only some really simple checks.
 
-At that my point my experience in static analysis tooling came in handy.
+At that point my experience in static analysis tooling came in handy.
 It took me a few days building a small tool, in which I can feed a string of PHP-code and get a list of side effects back executing such code would have.
 [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) was born.
 
-The idea was proposed to Sebastian Bergmann who gave me a GO on this.
+The idea was proposed to Sebastian Bergmann who gave me a GO on integrating it in PHPUnit.
 I spent a few more days on it to feed in some real world examples and verify it will return the expected result.
 
 So in the end detecting situations in which it's fine to not start subprocesses for `--SKIPIF--` and `--CLEAN--` sections of PHPT tests was a matter of 2 pull requests,
