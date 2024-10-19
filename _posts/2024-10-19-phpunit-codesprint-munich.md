@@ -47,7 +47,7 @@ Comparing PHPUnit runs of a PHPT test before and after the change, show a 4-5x i
 The PR will also improve runtime of regular PHPUnit tests when run in process isolation.
 It will be released with PHPUnit 11.4.2.
 
-What I particularly like about this patch is, that as soon as you have a debugger attached, there is no additional CLI option or configuration needed to get started.
+What I particularly like about this patch is, that as soon as you have a debugger attached, there is no additional CLI option or configuration needed to get step-debugging started.
 
 
 #### Do not run SKIPIF/CLEAN section of PHPT test in separate process when not required
