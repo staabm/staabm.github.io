@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) - [1.0.2](https://github.com/staabm/side-effects-detector/releases/tag/1.0.2) (today)
 - [kahlan/kahlan](https://github.com/kahlan/kahlan) - [5.2.8](https://github.com/kahlan/kahlan/releases/tag/5.2.8) (1 day ago)
-- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) - [1.0.1](https://github.com/staabm/side-effects-detector/releases/tag/1.0.1) (1 day ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.6](https://github.com/lucatume/wp-browser/releases/tag/3.7.6) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.7](https://github.com/phpstan/phpstan/releases/tag/1.12.7) (1 day ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.31](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.31) (1 day ago)
