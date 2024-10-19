@@ -17,11 +17,11 @@
 
 #### 📜 My recent blog posts
 
+- [Phpunit Codesprint Munich](https://staabm.github.io/2024/10/19/phpunit-codesprint-munich.html) (today)
 - [Array Shapes For Preg Match Matches](https://staabm.github.io/2024/07/05/array-shapes-for-preg-match-matches.html) (3 months ago)
 - [Readable end-to-end tests for PHPStan with bashunit](https://staabm.github.io/2024/06/28/readable-phpstan-end-to-end-tests-with-bashunit.html) (3 months ago)
 - [Sponsored PHPStan feature: require-extends and require-implements phpDoc](https://staabm.github.io/2024/01/15/phpstan-require-extends-implements.html) (9 months ago)
 - [Published: Open source contributions statistics generator](https://staabm.github.io/2024/01/10/oss-contribs-published.html) (9 months ago)
-- [PHPStan tailored to your needs](https://staabm.github.io/2024/01/01/phpstan-customizing.html) (9 months ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
