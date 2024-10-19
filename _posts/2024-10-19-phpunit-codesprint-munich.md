@@ -108,7 +108,7 @@ These patches will be released with PHPUnit 11.5.0.
 
 ProTip™: In the future try to prevent use of `die()` or `exit()` in `--SKIPIF--` sections of PHPT tests,
 and use `echo` or similar instead, so PHPUnit can run your `--SKIPIF--` code in the main process.
-In case you are not sure whats happening, try running your test with `--debug`,
+In case you are not sure whether PHPUnit is starting subprocesses, try running your test with `--debug`,
 and watch for the newly added `Child Process Started`, `Child Process Finished` events.
 
 I did just that in [antecedent/patchwork](https://github.com/antecedent/patchwork/pull/168) to utilize this new capability.
