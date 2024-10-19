@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (today)
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 days ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (1 week ago)
-- [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 week ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
+- [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) - [1.0.3](https://github.com/staabm/side-effects-detector/releases/tag/1.0.3) (today)
+- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) - [1.0.4](https://github.com/staabm/side-effects-detector/releases/tag/1.0.4) (today)
 - [kahlan/kahlan](https://github.com/kahlan/kahlan) - [5.2.8](https://github.com/kahlan/kahlan/releases/tag/5.2.8) (1 day ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.6](https://github.com/lucatume/wp-browser/releases/tag/3.7.6) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.7](https://github.com/phpstan/phpstan/releases/tag/1.12.7) (1 day ago)
