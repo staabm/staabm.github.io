@@ -97,7 +97,7 @@ It took me a few days building a small tool, in which I can feed a string of PHP
 The idea was proposed to Sebastian Bergmann who gave me a GO on integrating it in PHPUnit.
 I spent a few more days on it to test it on some more real world examples and try to verify it will return the expected result.
 
-So in the end detecting situations in which it's fine to not start subprocesses for `--SKIPIF--` and `--CLEAN--` sections of PHPT tests was a matter of 2 pull requests,
+So in the end detecting situations in which it's fine to avoid to start subprocesses for `--SKIPIF--` and `--CLEAN--` sections of PHPT tests was a matter of 2 pull requests,
 which we reviewed with the PHPUnit codesprint team in Munich.
 
 - [PR #5998: Do not run `--SKIPIF--` section of PHPT test in separate process when not required](https://github.com/sebastianbergmann/phpunit/pull/5998)
