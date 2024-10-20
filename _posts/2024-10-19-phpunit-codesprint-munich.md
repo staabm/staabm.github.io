@@ -16,7 +16,7 @@ We spent 2 days on discussing, coding and issue triage for the PHPUnit open sour
 
 <img src="https://media.phpc.social/media_attachments/files/113/334/784/242/183/071/original/b6f5598e204a00c5.jpeg" alt="PHPUnit Code Sprint team in Munich" width="920">
 
-_From left to right: [Andreas Möller](https://phpc.social/@localheinz), myself, [Sebastian Heuer](https://phpc.social/@sebastianheuer), [Arne Blankerts](https://phpc.social/@theseer), Nicola Pilcher, and [Fabian](https://phpc.social/@Schrank).
+_From left to right: [Andreas Möller](https://phpc.social/@localheinz), myself, [Sebastian Heuer](https://phpc.social/@sebastianheuer), [Arne Blankerts](https://phpc.social/@theseer), Nicola Pilcher, and [Fabian Blechschmidt](https://phpc.social/@Schrank).
 Photo by [Sebastian Bergmann](https://phpc.social/@sebastian)._
 
 It was the first time I ever was part of a mob programming session - a similar setup to pair programming but in our case with 7 people at once.
