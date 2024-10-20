@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Remove `*\ResultPrinter-&gt;print()` which is only used from tests](https://github.com/sebastianbergmann/phpunit/pull/6008) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [Remove `*\ResultPrinter::flush()` which is only used from tests](https://github.com/sebastianbergmann/phpunit/pull/6008) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Provide better error message after syntax error](https://github.com/rectorphp/swiss-knife/pull/55) on [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (today)
 - [Removed unused PHPUnit\TextUI\Configuration\Builder class](https://github.com/sebastianbergmann/phpunit/pull/6006) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [fix typo](https://github.com/staabm/staabm.github.io/pull/117) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
