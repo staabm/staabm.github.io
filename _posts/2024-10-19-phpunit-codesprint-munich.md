@@ -5,16 +5,16 @@ tags:
 image: "images/og-images/phpunit-codesprint-munich.jpg"
 
 ogImage:
-    title: "PHPUnit Codesprint in Munich"
+    title: "PHPUnit Code Sprint in Munich"
     imageUrl: "https://staabm.github.io/staabm.svg"
     fileName: "phpunit-codesprint-munich"
 ---
 
 
-In October 2024, I was part of a team of PHPUnit contributors who met in Munich for a codesprint at the office of [celebrate.company](https://www.celebrate.company/).
+In October 2024, I was part of a team of PHPUnit contributors who met in Munich for a Code Sprint at the office of [celebrate.company](https://www.celebrate.company/).
 We spent 2 days on discussing, coding and issue triage for the PHPUnit open source project together with Sebastian Bergmann, the creator of PHPUnit.
 
-<img src="https://media.phpc.social/media_attachments/files/113/334/784/242/183/071/original/b6f5598e204a00c5.jpeg" alt="PHPUnit Codesprint team in Munich" width="920">
+<img src="https://media.phpc.social/media_attachments/files/113/334/784/242/183/071/original/b6f5598e204a00c5.jpeg" alt="PHPUnit Code Sprint team in Munich" width="920">
 
 _From left to right: [Andreas Möller](https://phpc.social/@localheinz), myself, [Sebastian Heuer](https://phpc.social/@sebastianheuer), [Arne Blankerts](https://phpc.social/@theseer), Nicola Pilcher, and [Fabian](https://phpc.social/@Schrank).
 Photo by [Sebastian Bergmann](https://phpc.social/@sebastian)._
@@ -24,7 +24,7 @@ Since most of us never met or teamed up before, it was a great way to share know
 
 We got a lot of stuff done, and it was a awesome event. I am looking forward to the next one.
 
-In the following I want to share the topics I worked on recently which got finalized during the codesprint.
+In the following I want to share the topics I worked on recently which got finalized during the Code Sprint.
 I am particular grateful that the team took the time to review and discuss my recently submitted pull requests.
 
 ### My Focus: Reduce overhead when running PHPT tests
@@ -98,7 +98,7 @@ The idea was proposed to Sebastian Bergmann who gave me a GO on integrating it i
 I spent a few more days on it to test it on some more real world examples and try to verify it will return the expected result.
 
 So in the end detecting situations in which it's fine to avoid to start subprocesses for `--SKIPIF--` and `--CLEAN--` sections of PHPT tests was a matter of 2 pull requests,
-which we reviewed with the PHPUnit codesprint team in Munich.
+which we reviewed with the PHPUnit Code Sprint team in Munich.
 
 - [PR #5998: Do not run `--SKIPIF--` section of PHPT test in separate process when not required](https://github.com/sebastianbergmann/phpunit/pull/5998)
 - [PR #5995: Do not run `--CLEAN--` section of PHPT test in separate process when it is free of side effects that modify the parent process](https://github.com/sebastianbergmann/phpunit/pull/5999)
