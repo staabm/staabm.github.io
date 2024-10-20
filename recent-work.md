@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (1 day ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix typo](https://github.com/staabm/staabm.github.io/pull/117) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [Removed unused import in TestCase*.tpl](https://github.com/sebastianbergmann/phpunit/pull/6005) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Post: PHPUnit Codesprint in Munich](https://github.com/staabm/staabm.github.io/pull/116) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [PHPUnit process is blocked when there&#39;s a lot of output and a test with separate process](https://github.com/sebastianbergmann/phpunit/pull/6003) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Do not run `CLEAN` section of PHPT test in separate process when it is free of side effects that modify the parent process](https://github.com/sebastianbergmann/phpunit/pull/5999) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
@@ -53,15 +55,13 @@
 - [Don&#39;t use die() but echo to skip tests.](https://github.com/antecedent/patchwork/pull/168) on [antecedent/patchwork](https://github.com/antecedent/patchwork) (1 week ago)
 - [CI: Added windows coverage](https://github.com/staabm/side-effects-detector/pull/13) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (1 week ago)
 - [Cover more php-src real world scenarios](https://github.com/staabm/side-effects-detector/pull/12) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (1 week ago)
-- [PHPStan enable bleeding edge](https://github.com/staabm/phpstan-dba/pull/692) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [PHPStan enable bleeding edge](https://github.com/staabm/phpstan-baseline-analysis/pull/184) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) - [1.0.5](https://github.com/staabm/side-effects-detector/releases/tag/1.0.5) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.192](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.192) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.4.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.2) (1 day ago)
-- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) - [1.0.4](https://github.com/staabm/side-effects-detector/releases/tag/1.0.4) (1 day ago)
 - [kahlan/kahlan](https://github.com/kahlan/kahlan) - [5.2.8](https://github.com/kahlan/kahlan/releases/tag/5.2.8) (2 days ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.6](https://github.com/lucatume/wp-browser/releases/tag/3.7.6) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.7](https://github.com/phpstan/phpstan/releases/tag/1.12.7) (2 days ago)
