@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.32](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.32) (today)
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) - [1.0.5](https://github.com/staabm/side-effects-detector/releases/tag/1.0.5) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.192](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.192) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.4.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.2) (2 days ago)
 - [kahlan/kahlan](https://github.com/kahlan/kahlan) - [5.2.8](https://github.com/kahlan/kahlan/releases/tag/5.2.8) (3 days ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.6](https://github.com/lucatume/wp-browser/releases/tag/3.7.6) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.7](https://github.com/phpstan/phpstan/releases/tag/1.12.7) (3 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.31](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.31) (3 days ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.18.0](https://github.com/TypedDevs/bashunit/releases/tag/0.18.0) (5 days ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.9](https://github.com/larastan/larastan/releases/tag/v2.9.9) (5 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.7.0](https://github.com/shopware/shopware/releases/tag/v6.6.7.0) (1 week ago)
