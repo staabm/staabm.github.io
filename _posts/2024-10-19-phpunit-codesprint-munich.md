@@ -29,7 +29,7 @@ I am particular grateful that the team took the time to review and discuss my re
 
 ### My Focus: Reduce overhead when running PHPT tests
 
-#### [PR #5989: Disable xdebug in subprocess when inactive](https://github.com/sebastianbergmann/phpunit/pull/5989)
+#### [PR #5989: Disable Xdebug in subprocess when inactive](https://github.com/sebastianbergmann/phpunit/pull/5989)
 
 In my daily job I am often running different PHP cli tools like PHPUnit, PHPStan, Composer, RectorPHP etc.
 I spent a lot of time in debugging these tools, and I am using Xdebug for that.
@@ -38,7 +38,7 @@ For that reason most of the time I have Xdebug enabled in my PHP cli configurati
 My thesis is, that a lot of developers out there have Xdebug enabled on their workstations as well, for whatever reason.
 
 So one idea I came up with is, to detect within the PHPUnit main process whether Xdebug is loaded.
-When PHPUnit is _not_ configured to collect coverage data with Xdebug and [_no_ debugger is attached](https://xdebug.org/docs/all_functions#xdebug_is_debugger_active),
+When PHPUnit is _not_ configured to collect coverage data with Xdebug and [_no_ debugger is attached](https://Xdebug.org/docs/all_functions#Xdebug_is_debugger_active),
 we take this as a signal that Xdebug is likely not needed in subprocesses which get spawned by PHPUnit.
 
 Comparing PHPUnit runs of a PHPT test before and after the change, show a 4-5x improvement in runtime, when Xdebug is loaded.
