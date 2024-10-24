@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.4.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.4.0) (today)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.7.1](https://github.com/shopware/shopware/releases/tag/v6.6.7.1) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.33](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.33) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.18.0](https://github.com/redaxo/redaxo/releases/tag/5.18.0) (2 days ago)
@@ -68,4 +69,3 @@
 - [kahlan/kahlan](https://github.com/kahlan/kahlan) - [5.2.8](https://github.com/kahlan/kahlan/releases/tag/5.2.8) (6 days ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.6](https://github.com/lucatume/wp-browser/releases/tag/3.7.6) (6 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.7](https://github.com/phpstan/phpstan/releases/tag/1.12.7) (6 days ago)
-- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.18.0](https://github.com/TypedDevs/bashunit/releases/tag/0.18.0) (1 week ago)
