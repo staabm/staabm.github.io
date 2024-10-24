@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.33](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.33) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.18.0](https://github.com/redaxo/redaxo/releases/tag/5.18.0) (2 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.32](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.32) (3 days ago)
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) - [1.0.5](https://github.com/staabm/side-effects-detector/releases/tag/1.0.5) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.192](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.192) (5 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.4.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.2) (5 days ago)
