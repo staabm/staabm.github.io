@@ -102,7 +102,7 @@ At this point the [implementation got simpler](https://github.com/phpstan/phpsta
 
 Ondřej was also pretty happy about that:
 
-[<img width="658" alt="grafik" src="https://github.com/phpstan/phpstan-src/assets/120441/aa4a81c3-6dca-457e-b7fb-dc1642a75c0e">](https://github.com/phpstan/phpstan-src/pull/3184#issuecomment-2188728831)
+[<img width="658" alt="grafik" src="/images/post-images/preg-match-array-shapes/purrrfect.png">](https://github.com/phpstan/phpstan-src/pull/3184#issuecomment-2188728831)
 
 
 ### How can the `$flags` parameter influence the array-shape of `$matches`?
