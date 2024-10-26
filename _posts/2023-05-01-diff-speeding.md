@@ -20,7 +20,7 @@ Like usual I started into the use-case at hand by running a profiler on my workl
 One thing which stood out was the amount of time spent while creating the diff between the original and the migrated code after the actual code transformation happened.
 I found it pretty surprising as my initial guess would be a slow type-resolving or duplicate work within a certain Rector rule.
 
-<img width="379" alt="grafik" src="https://user-images.githubusercontent.com/120441/235432999-bf1cd05c-31cd-451f-8ebb-e4f063533f4f.png">
+<img width="379" alt="grafik" src="/images/post-images/diff-speeding/profile1.png">
 
 At this point we only know which things are slow, but have not yet a good idea on how it can be improved.
 First I [reported a new issue at the Rector repo](https://github.com/rectorphp/rector/issues/7899) with my findings, to get in touch with maintainers and other users.
@@ -41,7 +41,7 @@ Turned out when running Rector and we are not interested in the diff, we still p
 
 `blackfire run php bin/rector.php -c rector-test.php --dry-run -vvv --debug --no-diffs`
 
-<img width="510" alt="grafik" src="https://user-images.githubusercontent.com/120441/235308060-c6fc62b3-9639-48f4-871b-9aa5c975b60d.png">
+<img width="510" alt="grafik" src="/images/post-images/diff-speeding/diff.png">
 
 
 ### Diff only once
@@ -49,7 +49,7 @@ Turned out when running Rector and we are not interested in the diff, we still p
 Back at the drawing board I had a closer look at the profiles. In my simple case it was surprising to me that Rector build the diff several times,
 even though my workload only changes a single file and prints only a single diff in the end:
 
-<img width="320" alt="grafik" src="https://user-images.githubusercontent.com/120441/235434775-3d3978a5-2fe4-43a3-8868-0e18c34d720e.png">
+<img width="320" alt="grafik" src="/images/post-images/diff-speeding/profile2.png">
 
 Rector is working thru the code in several phases. It applies the rules in a loop, one after another as long as the code changes.
 When code stabilizes and the rules no longer refactor it, the loop is aborted.
@@ -60,7 +60,7 @@ The current rector release re-builds the code-diff between each of these steps a
 I did change that and [made Rector only build the diff once](https://github.com/rectorphp/rector-src/pull/3711/), after all rules have been applied.
 This resulted in a nice improvement:
 
-<img width="1144" alt="grafik" src="https://user-images.githubusercontent.com/120441/235315456-193656db-901b-4edf-9598-534fdb64e281.png">
+<img width="1144" alt="grafik" src="/images/post-images/diff-speeding/diff2.png">
 
 2 minutes faster then before is actually a great improvement.
 
@@ -78,7 +78,7 @@ This made me think about looking into the underlying [sebastianbergmann/diff](ht
 I realized that the actual slowdown seems to be related to an innocent `max()` function call in `MemoryEfficientLongestCommonSubsequenceCalculator`.
 Proving it was pretty easy. Just [replace the `max()` by a small `if`](https://github.com/sebastianbergmann/diff/pull/118) and re-measure the workload:
 
-<img width="524" alt="grafik" src="https://user-images.githubusercontent.com/120441/235421208-e21d763e-8744-4544-a848-01ef24c6e39f.png">
+<img width="524" alt="grafik" src="/images/post-images/diff-speeding/diff3.png">
 
 Tadaa: the whole workload is now equal fast, no matter whether diffing is enabled or not. Starting from the initial 7min 35s we are now down to 3min 20s in a real world project workload.
 
