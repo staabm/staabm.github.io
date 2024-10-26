@@ -14,7 +14,7 @@ ogImage:
 In October 2024, I was part of a team of PHPUnit contributors who met in Munich for a Code Sprint at the office of [celebrate.company](https://www.celebrate.company/).
 We spent 2 days on discussing, coding and issue triage for the PHPUnit open source project together with Sebastian Bergmann, the creator of PHPUnit.
 
-<img src="https://media.phpc.social/media_attachments/files/113/334/784/242/183/071/original/b6f5598e204a00c5.jpeg" alt="PHPUnit Code Sprint team in Munich" width="920">
+<img src="/images/post-images/phpunit-munich-2024.png" alt="PHPUnit Code Sprint team in Munich" width="920">
 
 _From left to right: [Andreas Möller](https://phpc.social/@localheinz), myself, [Sebastian Heuer](https://phpc.social/@sebastianheuer), [Arne Blankerts](https://phpc.social/@theseer), Nicola Pilcher, and [Fabian Blechschmidt](https://phpc.social/@Schrank).
 Photo by [Sebastian Bergmann](https://phpc.social/@sebastian)._
