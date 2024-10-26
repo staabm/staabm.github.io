@@ -34,7 +34,7 @@ I used [Blackfire](https://blackfire.io/) for this.
 After that you can open the profile in your browser and start digging into the results.
 Watching these profiles needs a bit of practice, but you will get better over time.
 
-<img width="657" alt="grafik" src="https://user-images.githubusercontent.com/120441/208893476-e7d44943-201f-44cf-a662-e66ffba16a84.png">
+<img width="657" alt="grafik" src="/images/post-images/phpstan-speedzember/profile1.png">
 
 Look only for the things which clearly dominate the profile. Usually there are a few functions/methods taking most of the time.
 After we have an idea what is slow, lets think about how the logic could be made faster.
@@ -50,7 +50,7 @@ People usually find it surprising when a final patch, which changes just a few l
 See for example [`Faster ConstantFloatType->isSuperTypeOf(ConstantFloatType)`](https://github.com/phpstan/phpstan-src/pull/2080).
 It is a tiny change resulting in a big speedup for some very specific code snippet.
 
-<img width="715" alt="grafik" src="https://user-images.githubusercontent.com/120441/208913014-26a2efaf-8220-4a23-9cd2-2911b779538f.png">
+<img width="715" alt="grafik" src="/images/post-images/phpstan-speedzember/diff1.png">
 
 The actual code changes are easy to grasp… the hard part is to identify which lines to change.
 Usually it takes a few hours of trial and error, watching profiles, or thinking about it while going out for a walk.
@@ -110,7 +110,7 @@ PHPStan implements rules on top of the type system. Reducing calls into the `Sco
 - [https://github.com/phpstan/phpstan-src/pull/2106](https://github.com/phpstan/phpstan-src/pull/2106)
 
 Our internal benchmarks looked pretty good:
-<img width="918" alt="grafik" src="https://user-images.githubusercontent.com/120441/208891903-d7ccc2e5-32aa-442b-ab2a-845cde12e99d.png">
+<img width="918" alt="grafik" src="/images/post-images/phpstan-speedzember/gh-comment.png">
 
 
 ## The oversized array case
@@ -142,11 +142,11 @@ Whether performance improvements we measured on small reduced snippets also make
 
 After release we got a lot of positive reports though, which makes me confident that we are on the right track.
 
-<img width="916" alt="grafik" src="https://user-images.githubusercontent.com/120441/208891496-abcf01ac-a86a-4b97-8e91-efd26292ad45.png">
+<img width="916" alt="grafik" src="/images/post-images/phpstan-speedzember/gh-comments2.png">
 
-<img width="910" alt="grafik" src="https://user-images.githubusercontent.com/120441/208891732-fbe8dbbf-d6c9-4c26-bff6-26e1121cdd82.png">
+<img width="910" alt="grafik" src="/images/post-images/phpstan-speedzember/gh-comments3.png">
 
-<img width="911" alt="grafik" src="https://user-images.githubusercontent.com/120441/208892101-bb9ba37d-21f6-4fd5-9c6c-13b64a10ce95.png">
+<img width="911" alt="grafik" src="/images/post-images/phpstan-speedzember/gh-comments4.png">
 
 ## Save the planet; keep people in focus
 
