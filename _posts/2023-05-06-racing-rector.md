@@ -35,7 +35,7 @@ This means - where possible - I changed the code so file IO was only triggered a
 The result is a [~18% performance improvement](https://github.com/symfony/symfony/pull/50087) in symfony GlobResource
 which in turn will make a lot of code faster relying on the symfony-config component - obviously even outside of Rector.
 
-<img width="1144" alt="grafik" src="https://user-images.githubusercontent.com/120441/233592449-2844bad8-6217-4ec9-a387-a83bd18a6269.png">
+<img width="1144" alt="grafik" src="/images/post-images/racing-rector/diff.png">
 
 Later on this optimization was mentioned on the symfony blog: [New in Symfony 6.3: Performance Improvements](https://symfony.com/blog/new-in-symfony-6-3-performance-improvements)
 
@@ -66,14 +66,14 @@ Examples for this approach can be found in
 
 and some of them were really fruitful:
 
-<img width="724" alt="grafik" src="https://user-images.githubusercontent.com/120441/233792138-5927fd77-916f-4939-9efa-8302647a2cda.png">
+<img width="724" alt="grafik" src="/images/post-images/racing-rector/diff2.png">
 
 
 ## Summary
 
 In the above I described just a few things I had a look at. The sum of all these - and a lot more not mentioned here at all - lead to a really awesome Rector 0.16 release:
 
-[<img width="582" alt="grafik" src="https://user-images.githubusercontent.com/120441/236643238-75083d73-4685-4c1e-a317-3bf7e540cc05.png">](https://twitter.com/VotrubaT/status/1654486734250311680)
+[<img width="582" alt="grafik" src="/images/post-images/racing-rector/tweet.png">](https://twitter.com/VotrubaT/status/1654486734250311680)
 
 Also be aware that not all my changes improve things and some ideas will just be put into the trash-bin after a few hours.
 Feel free to [look through the full list](https://github.com/rectorphp/rector-src/pulls?q=is%3Apr+author%3Astaabm+sort%3Aupdated-desc)… not all things I try are successful or land in the project in the end.
