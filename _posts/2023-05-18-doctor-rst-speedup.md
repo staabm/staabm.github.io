@@ -79,7 +79,7 @@ Its not a perfect situation but we could get at least a first idea of the perfor
 As we already saw in previous investigations [reducing IO](https://github.com/OskarStark/doctor-rst/pull/1404) is a good first thing.
 In the following graph you can see a lot of calls to `SplFileInfo->getRealPath()`:
 
-<img src="(images/post-images/doctor-rst-speedup/profile3.png">
+<img src="/images/post-images/doctor-rst-speedup/profile3.png">
 
 We just had to [introduce a local variable and call it a day](https://github.com/OskarStark/doctor-rst/pull/1404).
 
