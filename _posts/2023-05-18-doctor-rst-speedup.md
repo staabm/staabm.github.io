@@ -79,7 +79,7 @@ Its not a perfect situation but we could get at least a first idea of the perfor
 As we already saw in previous investigations [reducing IO](https://github.com/OskarStark/doctor-rst/pull/1404) is a good first thing.
 In the following graph you can see a lot of calls to `SplFileInfo->getRealPath()`:
 
-![grafik](https://github.com/OskarStark/doctor-rst/assets/120441/31e9a44e-e186-4c19-aca2-edcffb068dd7)
+<img src="(images/post-images/doctor-rst-speedup/profile3.png">
 
 We just had to [introduce a local variable and call it a day](https://github.com/OskarStark/doctor-rst/pull/1404).
 
@@ -100,7 +100,7 @@ I had a look at all used `->matches(…)` invocations and decided to concentrate
 
 [Rewriting these expression](https://github.com/OskarStark/doctor-rst/pull/1405) already yielded a great improvement, as these were invoked quite frequently:
 
-![grafik](https://github.com/OskarStark/doctor-rst/assets/120441/3156e4de-125a-45d7-90f6-8d3e583cc94a)
+<img src="/images/post-images/doctor-rst-speedup/mem-diff.png" >
 
 ----
 
@@ -113,7 +113,7 @@ I decided to add some quick checks which in most cases prevent the actual regula
 
 These yielded another great improvement in memory consumption and a small improvement in runtime:
 
-![grafik](https://github.com/OskarStark/doctor-rst/assets/120441/ff059bf4-bdd6-4e26-8f1a-328825415467)
+<img src="/images/post-images/doctor-rst-speedup/cpu-diff.png">
 
 
 ----
