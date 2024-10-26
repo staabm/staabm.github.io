@@ -69,7 +69,7 @@ To get the analysis process running nevertheless, I then decided to reduce the n
 Therefore I locally deleted *.rst files in the my symfony-docs checkout until blackfire did run without memory issues.
 Its not a perfect situation but we could get at least a first idea of the performance characteristics of the workload.
 
-<img width="854" alt="grafik" src="https://github.com/staabm/staabm.github.io/assets/120441/e0c8ecc0-0ee4-486e-a071-1ff4b53c7575">
+<img width="854" alt="grafik" src="/images/post-images/doctor-rst-speedup/profile1.png">
 
 
 ### The findings
@@ -90,13 +90,13 @@ These functions are known to be inefficient in PHP - even though with the latest
 
 The profiles show us a memory bottleneck on said calls:
 
-<img width="1140" alt="grafik" src="https://github.com/staabm/staabm.github.io/assets/120441/ad84fef1-8ba7-4916-9b3e-ff9d56de7d73">
+<img width="1140" alt="grafik" src="/images/post-images/doctor-rst-speedup/profile2.png">
 
 
 One experience I had in the past is that in most cases using regular string functions is way more efficient.
 I had a look at all used `->matches(…)` invocations and decided to concentrate on a few simple ones, which can be expressed without regular expressions.
 
-<img width="795" alt="grafik" src="https://github.com/OskarStark/doctor-rst/assets/120441/be37dfe0-216f-42dd-b688-b468b189b086">
+<img width="795" alt="grafik" src="/images/post-images/doctor-rst-speedup/code-diff.png">
 
 [Rewriting these expression](https://github.com/OskarStark/doctor-rst/pull/1405) already yielded a great improvement, as these were invoked quite frequently:
 
@@ -109,7 +109,7 @@ In this case we had a expression trying to match a string starting with some cer
 
 I decided to add some quick checks which in most cases prevent the actual regular expression to be executed.
 
-<img width="677" alt="grafik" src="https://github.com/OskarStark/doctor-rst/assets/120441/3bf91772-3ac6-447f-9bf7-abdc4e819bff">
+<img width="677" alt="grafik" src="/images/post-images/doctor-rst-speedup/code-diff2.png">
 
 These yielded another great improvement in memory consumption and a small improvement in runtime:
 
