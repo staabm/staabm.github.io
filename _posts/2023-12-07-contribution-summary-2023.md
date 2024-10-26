@@ -98,7 +98,7 @@ Push the "Apply" button and the changes are applied to your codebase.
 
 Got [interviewed by the Super Duper Developers Club](https://superdev.club/podcasts/statische-code-analyse-mit-markus-staab/) about my open source work (German).
 
-<img src="https://github.com/FriendsOfREDAXO/rexfactor/assets/120441/ca21fb03-7d2e-4532-b34c-89887c6f13cf">
+<img src="/images/post-images/contribution-summary-2023/podcast.png">
 
 
 #### Rector Highlight: "Implement a max jobs per worker budget"
@@ -106,7 +106,7 @@ Got [interviewed by the Super Duper Developers Club](https://superdev.club/podca
 Running Rector on huge projects in a single run was not possible in the past. After [implementing process and memory management](https://github.com/rectorphp/rector-src/pull/4965) this is a fixed problem.
 Even huge projects like [the Mautic codebase can be refactored with Rector now](https://twitter.com/markusstaab/status/1700507324639588597) without out-of-memory issues.
 
-<img width="853" alt="grafik" src="https://github.com/rectorphp/rector-src/assets/120441/0f7b2448-4565-41bf-8d1b-897abfcad954">
+<img width="853" alt="grafik" src="/images/post-images/contribution-summary-2023/rector-savings.png">
 
 
 #### Highlight: phpstan-dba
@@ -136,7 +136,7 @@ A [summary of my performance work and my vita](https://blog.blackfire.io/meeting
 
 One of the craziest contributions this year. After days of in-depth analysis finally [a one line fix](https://github.com/phpstan/phpstan-src/pull/2655) resulted in fixing 5 bugs.
 
-<img src="https://github.com/phpstan/phpstan-src/assets/120441/620c4c70-5ba0-4d6b-9090-40c5cc9f59aa" >
+<img src="/images/post-images/contribution-summary-2023/phpstan-jackpot.png" >
 
 
 
