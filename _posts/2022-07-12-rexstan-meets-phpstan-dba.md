@@ -32,13 +32,13 @@ The `rex_sql` api was designed back in 2010 without static analysis in mind. I a
 
 With this logic applied, `rexstan` is able to detect syntax errors in queries e.g. given to the `rex_sql->setQuery()` class:
 
-<img width="733" alt="PHPStorm screenshot showing a phpstan-dba reported sql query error" src="https://user-images.githubusercontent.com/120441/174474750-45edaaaf-98b3-4ec1-bce8-8244ab78f329.png">
+<img width="733" alt="PHPStorm screenshot showing a phpstan-dba reported sql query error" src="/images/post-images/rexstan-meets-phpstan-dba/phpstorm-err.png">
 
 The required configuration is described in more detail in a [dedicated phpstan-dba doc chapter](https://github.com/staabm/phpstan-dba/blob/main/docs/rules.md).
 
 ### Utils: `rex::getTable()` and `rex::getTablePrefix()`
 
-In REDAXO it is common to use small utility methods to build the sql query. These methods return a concatenation of a hardcoded pre-configured string and the given arguments. 
+In REDAXO it is common to use small utility methods to build the sql query. These methods return a concatenation of a hardcoded pre-configured string and the given arguments.
 
 `phpstan-dba` would skip queries containing calls to these methods as they will inject a non-constant value, not known at analysis time.
 
