@@ -6,6 +6,6 @@ title: Imprint
 Markus Staab
 Drosselweg 16
 63829 Krombach
-Deutschland
+Germany
 
 maggus.staab+blog@gmail.com
