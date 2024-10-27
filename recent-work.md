@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Don&#39;t use `die()` in PHPT `--SKIPIF--`](https://github.com/symfony/symfony/pull/58680) on [symfony/symfony](https://github.com/symfony/symfony) (today)
 - [Removed dead test-code after min-phpversion raise](https://github.com/phpstan/phpstan-nette/pull/164) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
 - [Removed always true PHP_VERSION_ID condition](https://github.com/phpstan/phpstan-deprecation-rules/pull/118) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 day ago)
 - [Remove dead test because of raised min-php version](https://github.com/phpstan/phpstan-strict-rules/pull/250) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 day ago)
@@ -54,7 +55,6 @@
 - [Do not run `CLEAN` section of PHPT test in separate process when it is free of side effects that modify the parent process](https://github.com/sebastianbergmann/phpunit/pull/5999) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [Do not run `SKIPIF` section of PHPT test in separate process when it is free of side effects](https://github.com/sebastianbergmann/phpunit/pull/5998) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [Test PHP 8.4](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/117) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
-- [E_STRICT is deprecated as of PHP 8.4](https://github.com/JetBrains/phpstorm-stubs/pull/1681) on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
