@@ -7,10 +7,10 @@
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 day ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 day ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
-- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
+- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (1 week ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (1 week ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
