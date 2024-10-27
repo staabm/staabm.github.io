@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
-- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (6 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 day ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 day ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
+- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (1 week ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (1 week ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
@@ -40,15 +40,15 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Removed dead test-code after min-phpversion raise](https://github.com/phpstan/phpstan-nette/pull/164) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
-- [Removed always true PHP_VERSION_ID condition](https://github.com/phpstan/phpstan-deprecation-rules/pull/118) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
-- [Remove dead test because of raised min-php version](https://github.com/phpstan/phpstan-strict-rules/pull/250) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
-- [Utilize composer min-php version to narrow PHP_VERSION_ID](https://github.com/phpstan/phpstan-src/pull/3584) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Remove `*\ResultPrinter::flush()` which is only used from tests](https://github.com/sebastianbergmann/phpunit/pull/6008) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
-- [Provide better error message after syntax error](https://github.com/rectorphp/swiss-knife/pull/55) on [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (6 days ago)
-- [Removed unused PHPUnit\TextUI\Configuration\Builder class](https://github.com/sebastianbergmann/phpunit/pull/6006) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
-- [fix typo](https://github.com/staabm/staabm.github.io/pull/117) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
-- [Removed unused import in TestCase*.tpl](https://github.com/sebastianbergmann/phpunit/pull/6005) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
+- [Removed dead test-code after min-phpversion raise](https://github.com/phpstan/phpstan-nette/pull/164) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
+- [Removed always true PHP_VERSION_ID condition](https://github.com/phpstan/phpstan-deprecation-rules/pull/118) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 day ago)
+- [Remove dead test because of raised min-php version](https://github.com/phpstan/phpstan-strict-rules/pull/250) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 day ago)
+- [Utilize composer min-php version to narrow PHP_VERSION_ID](https://github.com/phpstan/phpstan-src/pull/3584) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Remove `*\ResultPrinter::flush()` which is only used from tests](https://github.com/sebastianbergmann/phpunit/pull/6008) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
+- [Provide better error message after syntax error](https://github.com/rectorphp/swiss-knife/pull/55) on [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (1 week ago)
+- [Removed unused PHPUnit\TextUI\Configuration\Builder class](https://github.com/sebastianbergmann/phpunit/pull/6006) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
+- [fix typo](https://github.com/staabm/staabm.github.io/pull/117) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
+- [Removed unused import in TestCase*.tpl](https://github.com/sebastianbergmann/phpunit/pull/6005) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [Post: PHPUnit Codesprint in Munich](https://github.com/staabm/staabm.github.io/pull/116) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [PHPUnit process is blocked when there&#39;s a lot of output and a test with separate process](https://github.com/sebastianbergmann/phpunit/pull/6003) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [Do not run `CLEAN` section of PHPT test in separate process when it is free of side effects that modify the parent process](https://github.com/sebastianbergmann/phpunit/pull/5999) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.4.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.4.0) (2 days ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.7.1](https://github.com/shopware/shopware/releases/tag/v6.6.7.1) (2 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.33](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.33) (2 days ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.18.0](https://github.com/redaxo/redaxo/releases/tag/5.18.0) (4 days ago)
-- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) - [1.0.5](https://github.com/staabm/side-effects-detector/releases/tag/1.0.5) (6 days ago)
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.4.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.4.0) (3 days ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.7.1](https://github.com/shopware/shopware/releases/tag/v6.6.7.1) (3 days ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.33](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.33) (3 days ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.18.0](https://github.com/redaxo/redaxo/releases/tag/5.18.0) (5 days ago)
+- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) - [1.0.5](https://github.com/staabm/side-effects-detector/releases/tag/1.0.5) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.192](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.192) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.4.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.2) (1 week ago)
 - [kahlan/kahlan](https://github.com/kahlan/kahlan) - [5.2.8](https://github.com/kahlan/kahlan/releases/tag/5.2.8) (1 week ago)
