@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (2 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (2 days ago)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (2 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 days ago)
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (1 week ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Drop lowest CI build - not worth the resources](https://github.com/staabm/phpstan-dba/pull/695) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Fix build](https://github.com/staabm/phpstan-dba/pull/694) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Support `iterable` typed parameter](https://github.com/staabm/phpstan-dba/pull/693) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Added PHPT details link](https://github.com/sebastianbergmann/phpunit/pull/6016) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Fix signature type for default-null parameters](https://github.com/phpstan/phpstan-src/pull/3586) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [[PhpUnitBridge] Don&#39;t use `die()` in PHPT `--SKIPIF--`](https://github.com/symfony/symfony/pull/58680) on [symfony/symfony](https://github.com/symfony/symfony) (1 day ago)
@@ -52,9 +55,6 @@
 - [Removed unused PHPUnit\TextUI\Configuration\Builder class](https://github.com/sebastianbergmann/phpunit/pull/6006) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [fix typo](https://github.com/staabm/staabm.github.io/pull/117) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [Removed unused import in TestCase*.tpl](https://github.com/sebastianbergmann/phpunit/pull/6005) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [Post: PHPUnit Codesprint in Munich](https://github.com/staabm/staabm.github.io/pull/116) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
-- [PHPUnit process is blocked when there&#39;s a lot of output and a test with separate process](https://github.com/sebastianbergmann/phpunit/pull/6003) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [Do not run `CLEAN` section of PHPT test in separate process when it is free of side effects that modify the parent process](https://github.com/sebastianbergmann/phpunit/pull/5999) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
