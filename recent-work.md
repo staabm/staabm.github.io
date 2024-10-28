@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [More precise `array_keys` return type](https://github.com/phpstan/phpstan-src/pull/3590) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix pgsql test](https://github.com/staabm/phpstan-dba/pull/697) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Support `#` comments](https://github.com/staabm/phpstan-dba/pull/696) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Handle copy error in setup](https://github.com/yakamara/redaxo_yrewrite/pull/577) on [yakamara/redaxo_yrewrite](https://github.com/yakamara/redaxo_yrewrite) (today)
@@ -54,7 +55,6 @@
 - [Remove dead test because of raised min-php version](https://github.com/phpstan/phpstan-strict-rules/pull/250) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (2 days ago)
 - [Utilize composer min-php version to narrow PHP_VERSION_ID](https://github.com/phpstan/phpstan-src/pull/3584) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Remove `*\ResultPrinter::flush()` which is only used from tests](https://github.com/sebastianbergmann/phpunit/pull/6008) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [Provide better error message after syntax error](https://github.com/rectorphp/swiss-knife/pull/55) on [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
