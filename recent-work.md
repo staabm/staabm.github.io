@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support `#` comments](https://github.com/staabm/phpstan-dba/pull/696) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Handle copy error in setup](https://github.com/yakamara/redaxo_yrewrite/pull/577) on [yakamara/redaxo_yrewrite](https://github.com/yakamara/redaxo_yrewrite) (today)
 - [Drop lowest CI build - not worth the resources](https://github.com/staabm/phpstan-dba/pull/695) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Fix build](https://github.com/staabm/phpstan-dba/pull/694) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
@@ -54,11 +55,11 @@
 - [Remove `*\ResultPrinter::flush()` which is only used from tests](https://github.com/sebastianbergmann/phpunit/pull/6008) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [Provide better error message after syntax error](https://github.com/rectorphp/swiss-knife/pull/55) on [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (1 week ago)
 - [Removed unused PHPUnit\TextUI\Configuration\Builder class](https://github.com/sebastianbergmann/phpunit/pull/6006) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [fix typo](https://github.com/staabm/staabm.github.io/pull/117) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.3) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.84](https://github.com/staabm/phpstan-dba/releases/tag/0.2.84) (today)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.4.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.4.0) (4 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.7.1](https://github.com/shopware/shopware/releases/tag/v6.6.7.1) (4 days ago)
@@ -66,6 +67,5 @@
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.18.0](https://github.com/redaxo/redaxo/releases/tag/5.18.0) (6 days ago)
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) - [1.0.5](https://github.com/staabm/side-effects-detector/releases/tag/1.0.5) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.192](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.192) (1 week ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.4.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.2) (1 week ago)
 - [kahlan/kahlan](https://github.com/kahlan/kahlan) - [5.2.8](https://github.com/kahlan/kahlan/releases/tag/5.2.8) (1 week ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.6](https://github.com/lucatume/wp-browser/releases/tag/3.7.6) (1 week ago)
