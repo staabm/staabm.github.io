@@ -5,9 +5,9 @@
 
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (2 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (2 days ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (2 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 days ago)
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (1 week ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Handle copy error in setup](https://github.com/yakamara/redaxo_yrewrite/pull/577) on [yakamara/redaxo_yrewrite](https://github.com/yakamara/redaxo_yrewrite) (today)
 - [Drop lowest CI build - not worth the resources](https://github.com/staabm/phpstan-dba/pull/695) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Fix build](https://github.com/staabm/phpstan-dba/pull/694) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Support `iterable` typed parameter](https://github.com/staabm/phpstan-dba/pull/693) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
@@ -54,11 +55,11 @@
 - [Provide better error message after syntax error](https://github.com/rectorphp/swiss-knife/pull/55) on [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (1 week ago)
 - [Removed unused PHPUnit\TextUI\Configuration\Builder class](https://github.com/sebastianbergmann/phpunit/pull/6006) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [fix typo](https://github.com/staabm/staabm.github.io/pull/117) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
-- [Removed unused import in TestCase*.tpl](https://github.com/sebastianbergmann/phpunit/pull/6005) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.84](https://github.com/staabm/phpstan-dba/releases/tag/0.2.84) (today)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.4.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.4.0) (4 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.7.1](https://github.com/shopware/shopware/releases/tag/v6.6.7.1) (4 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.33](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.33) (4 days ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.4.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.2) (1 week ago)
 - [kahlan/kahlan](https://github.com/kahlan/kahlan) - [5.2.8](https://github.com/kahlan/kahlan/releases/tag/5.2.8) (1 week ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.6](https://github.com/lucatume/wp-browser/releases/tag/3.7.6) (1 week ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.7](https://github.com/phpstan/phpstan/releases/tag/1.12.7) (1 week ago)
