@@ -5,14 +5,14 @@
 
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (3 days ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (3 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (3 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (3 days ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (3 days ago)
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (1 week ago)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -62,10 +62,10 @@
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.85](https://github.com/staabm/phpstan-dba/releases/tag/0.2.85) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.5.4](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.5.4) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.3) (1 day ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.2.0-BETA1) (2 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.4.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.4.0) (5 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.7.1](https://github.com/shopware/shopware/releases/tag/v6.6.7.1) (5 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.33](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.33) (5 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.18.0](https://github.com/redaxo/redaxo/releases/tag/5.18.0) (1 week ago)
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) - [1.0.5](https://github.com/staabm/side-effects-detector/releases/tag/1.0.5) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.192](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.192) (1 week ago)
-- [kahlan/kahlan](https://github.com/kahlan/kahlan) - [5.2.8](https://github.com/kahlan/kahlan/releases/tag/5.2.8) (1 week ago)
