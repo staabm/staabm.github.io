@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.5.5](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.5.5) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.85](https://github.com/staabm/phpstan-dba/releases/tag/0.2.85) (1 day ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.5.4](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.5.4) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.3) (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.2.0-BETA1) (2 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.4.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.4.0) (5 days ago)
