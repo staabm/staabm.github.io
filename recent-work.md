@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove common prefixes and suffixes from actual and expected single-line strings](https://github.com/sebastianbergmann/comparator/pull/117) on [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (today)
 - [More precise `array_keys` return type](https://github.com/phpstan/phpstan-src/pull/3590) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix pgsql test](https://github.com/staabm/phpstan-dba/pull/697) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Support `#` comments](https://github.com/staabm/phpstan-dba/pull/696) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
@@ -54,7 +55,6 @@
 - [Removed always true PHP_VERSION_ID condition](https://github.com/phpstan/phpstan-deprecation-rules/pull/118) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (3 days ago)
 - [Remove dead test because of raised min-php version](https://github.com/phpstan/phpstan-strict-rules/pull/250) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (3 days ago)
 - [Utilize composer min-php version to narrow PHP_VERSION_ID](https://github.com/phpstan/phpstan-src/pull/3584) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Remove `*\ResultPrinter::flush()` which is only used from tests](https://github.com/sebastianbergmann/phpunit/pull/6008) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
