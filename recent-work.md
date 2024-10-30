@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (today)
+- [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) (today)
 - [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (4 days ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (4 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (4 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (4 days ago)
-- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix &#34;Uninitialized string offset -1&#34; warning](https://github.com/sebastianbergmann/comparator/pull/119) on [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (today)
+- [Cleanup unused parameter](https://github.com/johnbillion/wp-compat/pull/14) on [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) (today)
+- [More precise types in immediately invoked callables](https://github.com/phpstan/phpstan-src/pull/3592) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Correctly handle encapsed string method names.](https://github.com/johnbillion/wp-compat/pull/13) on [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) (today)
 - [Add support for `method_exists()` guards](https://github.com/johnbillion/wp-compat/pull/12) on [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) (today)
 - [Remove common prefixes and suffixes from actual and expected single-line strings](https://github.com/sebastianbergmann/comparator/pull/117) on [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (1 day ago)
@@ -52,9 +55,6 @@
 - [Support `iterable` typed parameter](https://github.com/staabm/phpstan-dba/pull/693) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [Added PHPT details link](https://github.com/sebastianbergmann/phpunit/pull/6016) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [Fix signature type for default-null parameters](https://github.com/phpstan/phpstan-src/pull/3586) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [[PhpUnitBridge] Don&#39;t use `die()` in PHPT `--SKIPIF--`](https://github.com/symfony/symfony/pull/58680) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
-- [Removed dead test-code after min-phpversion raise](https://github.com/phpstan/phpstan-nette/pull/164) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (4 days ago)
-- [Removed always true PHP_VERSION_ID condition](https://github.com/phpstan/phpstan-deprecation-rules/pull/118) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
