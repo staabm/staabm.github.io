@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Correctly handle encapsed string method names.](https://github.com/johnbillion/wp-compat/pull/13) on [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) (today)
 - [Add support for `method_exists()` guards](https://github.com/johnbillion/wp-compat/pull/12) on [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) (today)
 - [Remove common prefixes and suffixes from actual and expected single-line strings](https://github.com/sebastianbergmann/comparator/pull/117) on [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (1 day ago)
 - [More precise `array_keys` return type](https://github.com/phpstan/phpstan-src/pull/3590) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,11 +55,11 @@
 - [[PhpUnitBridge] Don&#39;t use `die()` in PHPT `--SKIPIF--`](https://github.com/symfony/symfony/pull/58680) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
 - [Removed dead test-code after min-phpversion raise](https://github.com/phpstan/phpstan-nette/pull/164) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (4 days ago)
 - [Removed always true PHP_VERSION_ID condition](https://github.com/phpstan/phpstan-deprecation-rules/pull/118) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (4 days ago)
-- [Remove dead test because of raised min-php version](https://github.com/phpstan/phpstan-strict-rules/pull/250) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [6.2.0](https://github.com/sebastianbergmann/comparator/releases/tag/6.2.0) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.11](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.11) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.29.8](https://github.com/infection/infection/releases/tag/0.29.8) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.5.5](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.5.5) (1 day ago)
@@ -68,4 +69,3 @@
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.4.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.4.0) (6 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.7.1](https://github.com/shopware/shopware/releases/tag/v6.6.7.1) (6 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.33](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.33) (6 days ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.18.0](https://github.com/redaxo/redaxo/releases/tag/5.18.0) (1 week ago)
