@@ -116,7 +116,7 @@ I did just that in [antecedent/patchwork](https://github.com/antecedent/patchwor
 
 ### Remove common prefixes and suffixes from actual and expected single-line strings
 
-We discussed the idea of removing unnecessary content from overlong strings or arrays with overlong keys or values:
+We [discussed the idea](https://github.com/sebastianbergmann/phpunit/issues/5846#issuecomment-2423687846) of removing unnecessary content from overlong strings or arrays with overlong keys or values:
 
 <img src="/images/post-images/phpunit-codesprint-munich/diff-overlong.png" alt="Long string in PHPUnit output" width="920">
 
