@@ -114,7 +114,7 @@ and watch for the newly added `Child Process Started`, `Child Process Finished` 
 I did just that in [antecedent/patchwork](https://github.com/antecedent/patchwork/pull/168) and [symfony/symfony](https://github.com/symfony/symfony/pull/58680) to utilize this new capability.
 
 
-#### Remove common prefixes and suffixes from actual and expected single-line strings
+### Remove common prefixes and suffixes from actual and expected single-line strings
 
 We discussed the idea of removing unnecessary content from overlong strings or arrays with overlong keys or values:
 
