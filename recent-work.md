@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [More precise types in immediately invoked callables](https://github.com/phpstan/phpstan-src/pull/3593) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix &#34;Uninitialized string offset -1&#34; warning](https://github.com/sebastianbergmann/comparator/pull/119) on [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (today)
 - [Cleanup unused parameter](https://github.com/johnbillion/wp-compat/pull/14) on [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) (today)
 - [More precise types in immediately invoked callables](https://github.com/phpstan/phpstan-src/pull/3592) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Fix build](https://github.com/staabm/phpstan-dba/pull/694) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [Support `iterable` typed parameter](https://github.com/staabm/phpstan-dba/pull/693) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [Added PHPT details link](https://github.com/sebastianbergmann/phpunit/pull/6016) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
-- [Fix signature type for default-null parameters](https://github.com/phpstan/phpstan-src/pull/3586) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
