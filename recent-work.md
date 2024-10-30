@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [0.3.0](https://github.com/johnbillion/wp-compat/releases/tag/0.3.0) (today)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [6.2.0](https://github.com/sebastianbergmann/comparator/releases/tag/6.2.0) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.11](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.11) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.29.8](https://github.com/infection/infection/releases/tag/0.29.8) (1 day ago)
@@ -68,4 +69,3 @@
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.2.0-BETA1) (3 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.4.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.4.0) (6 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.7.1](https://github.com/shopware/shopware/releases/tag/v6.6.7.1) (6 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.33](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.33) (6 days ago)
