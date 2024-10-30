@@ -111,7 +111,18 @@ and use `echo` or similar instead, so PHPUnit can run your `--SKIPIF--` code in 
 In case you are not sure whether PHPUnit is starting subprocesses, try running your test with `--debug`,
 and watch for the newly added `Child Process Started`, `Child Process Finished` events.
 
-I did just that in [antecedent/patchwork](https://github.com/antecedent/patchwork/pull/168) to utilize this new capability.
+I did just that in [antecedent/patchwork](https://github.com/antecedent/patchwork/pull/168) and [symfony/symfony](https://github.com/symfony/symfony/pull/58680) to utilize this new capability.
+
+
+#### Remove common prefixes and suffixes from actual and expected single-line strings
+
+We discussed the idea of removing unnecessary content from overlong strings or arrays with overlong keys or values:
+
+<img src="/images/post-images/phpunit-codesprint-munich/diff-overlong.png" alt="Long string in PHPUnit output" width="920">
+
+This idea was [implemented in the aftermath](https://github.com/sebastianbergmann/comparator/pull/117) of the Code Sprint in the comparator component.
+
+<img src="/images/post-images/phpunit-codesprint-munich/diff-shortened.png" alt="Shortened string in PHPUnit output" width="920">
 
 
 ### Support my open source work
