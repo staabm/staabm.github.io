@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Report invalid string offsets](https://github.com/phpstan/phpstan-src/pull/3594) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [More precise types in immediately invoked callables](https://github.com/phpstan/phpstan-src/pull/3593) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix `Uninitialized string offset -1` warning](https://github.com/sebastianbergmann/comparator/pull/119) on [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (1 day ago)
 - [Cleanup unused parameter](https://github.com/johnbillion/wp-compat/pull/14) on [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) (1 day ago)
@@ -54,7 +55,6 @@
 - [Drop lowest CI build - not worth the resources](https://github.com/staabm/phpstan-dba/pull/695) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [Fix build](https://github.com/staabm/phpstan-dba/pull/694) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [Support `iterable` typed parameter](https://github.com/staabm/phpstan-dba/pull/693) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
-- [Added PHPT details link](https://github.com/sebastianbergmann/phpunit/pull/6016) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
