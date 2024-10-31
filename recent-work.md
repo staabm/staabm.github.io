@@ -11,8 +11,8 @@
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) (4 days ago)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (5 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (5 days ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (5 days ago)
 
 
 #### 📜 My recent blog posts
