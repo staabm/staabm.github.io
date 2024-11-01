@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [run-tests.php: fix wrong comment](https://github.com/php/php-src/pull/16666) on [php/php-src](https://github.com/php/php-src) (today)
+- [Avoid subprocess when SKIPIF triggers IO](https://github.com/sebastianbergmann/phpunit/pull/6022) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [POC run-tests.php: avoid SKIPIF evaluation in subprocesses](https://github.com/php/php-src/pull/16664) on [php/php-src](https://github.com/php/php-src) (today)
 - [Report invalid string offsets](https://github.com/phpstan/phpstan-src/pull/3594) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [More precise types in immediately invoked callables](https://github.com/phpstan/phpstan-src/pull/3593) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -53,8 +55,6 @@
 - [Fix pgsql test](https://github.com/staabm/phpstan-dba/pull/697) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [Support `#` comments](https://github.com/staabm/phpstan-dba/pull/696) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [Handle copy error in setup](https://github.com/yakamara/redaxo_yrewrite/pull/577) on [yakamara/redaxo_yrewrite](https://github.com/yakamara/redaxo_yrewrite) (4 days ago)
-- [Drop lowest CI build - not worth the resources](https://github.com/staabm/phpstan-dba/pull/695) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [Fix build](https://github.com/staabm/phpstan-dba/pull/694) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
