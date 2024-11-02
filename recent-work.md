@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [4.3.6](https://github.com/lucatume/wp-browser/releases/tag/4.3.6) (today)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.10](https://github.com/larastan/larastan/releases/tag/v2.9.10) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.34](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.34) (today)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [6.2.1](https://github.com/sebastianbergmann/comparator/releases/tag/6.2.1) (2 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.5.5](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.5.5) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.85](https://github.com/staabm/phpstan-dba/releases/tag/0.2.85) (5 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.3) (5 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.2.0-BETA1) (6 days ago)
