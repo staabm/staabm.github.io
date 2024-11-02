@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [run-tests: drop hrtime() polyfill](https://github.com/php/php-src/pull/16677) on [php/php-src](https://github.com/php/php-src) (today)
+- [run-tests: removed unused code](https://github.com/php/php-src/pull/16675) on [php/php-src](https://github.com/php/php-src) (today)
 - [Differentiate `die(&#34;skip..&#34;)` from `die()` or `exit()`](https://github.com/staabm/side-effects-detector/pull/21) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (today)
 - [run-tests.php: fix wrong comment](https://github.com/php/php-src/pull/16666) on [php/php-src](https://github.com/php/php-src) (1 day ago)
 - [Avoid subprocess when SKIPIF triggers IO](https://github.com/sebastianbergmann/phpunit/pull/6022) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
@@ -53,8 +55,6 @@
 - [Add support for `method_exists()` guards](https://github.com/johnbillion/wp-compat/pull/12) on [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) (3 days ago)
 - [Remove common prefixes and suffixes from actual and expected single-line strings](https://github.com/sebastianbergmann/comparator/pull/117) on [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (4 days ago)
 - [More precise `array_keys` return type](https://github.com/phpstan/phpstan-src/pull/3590) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Fix pgsql test](https://github.com/staabm/phpstan-dba/pull/697) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [Support `#` comments](https://github.com/staabm/phpstan-dba/pull/696) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
