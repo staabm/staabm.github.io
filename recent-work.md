@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [php/php-src](https://github.com/php/php-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (1 day ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) (3 days ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (3 days ago)
 - [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (4 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
 
 
 #### 📜 My recent blog posts
