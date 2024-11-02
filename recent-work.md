@@ -4,13 +4,13 @@
 #### 💻 Check out what I'm currently working on
 
 - [php/php-src](https://github.com/php/php-src) (today)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (1 day ago)
-- [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) (3 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
+- [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) (3 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (3 days ago)
 - [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (4 days ago)
 
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Don&#39;t report &#34;is always true/false&#34; for conditionally defined variables](https://github.com/phpstan/phpstan-src/pull/3598) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Remove dead code in ConstantConditionRuleHelper](https://github.com/phpstan/phpstan-src/pull/3597) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [run-tests: refactor worker globals into global WorkerContext value-object](https://github.com/php/php-src/pull/16678) on [php/php-src](https://github.com/php/php-src) (today)
 - [run-tests: drop hrtime() polyfill](https://github.com/php/php-src/pull/16677) on [php/php-src](https://github.com/php/php-src) (today)
 - [run-tests: removed unused code](https://github.com/php/php-src/pull/16675) on [php/php-src](https://github.com/php/php-src) (today)
@@ -53,8 +55,6 @@
 - [Cleanup unused parameter](https://github.com/johnbillion/wp-compat/pull/14) on [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) (3 days ago)
 - [More precise types in immediately invoked callables](https://github.com/phpstan/phpstan-src/pull/3592) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Correctly handle encapsed string method names.](https://github.com/johnbillion/wp-compat/pull/13) on [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) (3 days ago)
-- [Add support for `method_exists()` guards](https://github.com/johnbillion/wp-compat/pull/12) on [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) (3 days ago)
-- [Remove common prefixes and suffixes from actual and expected single-line strings](https://github.com/sebastianbergmann/comparator/pull/117) on [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
