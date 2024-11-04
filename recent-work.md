@@ -5,13 +5,13 @@
 
 - [php/php-src](https://github.com/php/php-src) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (5 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 - [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) (5 days ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (5 days ago)
 - [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (6 days ago)
 
 
@@ -61,7 +61,6 @@
 
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.5.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.5.0) (today)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.7](https://github.com/lucatume/wp-browser/releases/tag/3.7.7) (today)
-- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.8.1](https://github.com/briannesbitt/Carbon/releases/tag/3.8.1) (1 day ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.10](https://github.com/larastan/larastan/releases/tag/v2.9.10) (2 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.34](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.34) (2 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [6.2.1](https://github.com/sebastianbergmann/comparator/releases/tag/6.2.1) (4 days ago)
@@ -69,3 +68,4 @@
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.11](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.11) (5 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.29.8](https://github.com/infection/infection/releases/tag/0.29.8) (6 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.5.5](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.5.5) (6 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.85](https://github.com/staabm/phpstan-dba/releases/tag/0.2.85) (1 week ago)
