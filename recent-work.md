@@ -33,9 +33,9 @@
 - [TicketSwap](https://github.com/TicketSwap) (4 months ago)
 - [brotkrueml](https://github.com/brotkrueml) (5 months ago)
 - [peterfox](https://github.com/peterfox) (7 months ago)
-- [maks-rafalko](https://github.com/maks-rafalko) (7 months ago)
 - [annervisser](https://github.com/annervisser) (7 months ago)
 - [getsentry](https://github.com/getsentry) (1 year ago)
+- [eliashaeussler](https://github.com/eliashaeussler) (1 year ago)
 
 
 #### 🔨 My recent Pull Requests
@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.7](https://github.com/lucatume/wp-browser/releases/tag/3.7.7) (today)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - [3.8.1](https://github.com/briannesbitt/Carbon/releases/tag/3.8.1) (1 day ago)
-- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [4.3.6](https://github.com/lucatume/wp-browser/releases/tag/4.3.6) (2 days ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.10](https://github.com/larastan/larastan/releases/tag/v2.9.10) (2 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.34](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.34) (2 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [6.2.1](https://github.com/sebastianbergmann/comparator/releases/tag/6.2.1) (4 days ago)
