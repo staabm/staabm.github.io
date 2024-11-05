@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [php/php-src](https://github.com/php/php-src) (3 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
