@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [php/php-src](https://github.com/php/php-src) (3 days ago)
-- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (6 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
+- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (4 days ago)
 - [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) (6 days ago)
-- [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (1 week ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (6 days ago)
 
 
 #### 📜 My recent blog posts
