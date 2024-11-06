@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) - [v7.1.7](https://github.com/symfony/symfony/releases/tag/v7.1.7) (today)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.5.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.5.0) (2 days ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.7](https://github.com/lucatume/wp-browser/releases/tag/3.7.7) (2 days ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.10](https://github.com/larastan/larastan/releases/tag/v2.9.10) (4 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.11](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.11) (1 week ago)
 - [infection/infection](https://github.com/infection/infection) - [0.29.8](https://github.com/infection/infection/releases/tag/0.29.8) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.5.5](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.5.5) (1 week ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.85](https://github.com/staabm/phpstan-dba/releases/tag/0.2.85) (1 week ago)
