@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [php/php-src](https://github.com/php/php-src) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
-- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (4 days ago)
-- [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) (6 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (6 days ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [php/php-src](https://github.com/php/php-src) (4 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
+- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (5 days ago)
+- [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) (1 week ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -26,7 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
-- [johnbillion](https://github.com/johnbillion) (6 days ago)
+- [johnbillion](https://github.com/johnbillion) (1 week ago)
 - [Chemaclass](https://github.com/Chemaclass) (1 month ago)
 - [phpstan](https://github.com/phpstan) (2 months ago)
 - [oliverklee](https://github.com/oliverklee) (4 months ago)
@@ -40,32 +40,32 @@
 
 #### 🔨 My recent Pull Requests
 
-- [More precise `toLowerString()` return type](https://github.com/nikic/PHP-Parser/pull/1039) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
-- [More precise types in immediately invoked callables](https://github.com/phpstan/phpstan-src/pull/3602) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Don&#39;t report &#34;is always true/false&#34; for conditionally defined variables](https://github.com/phpstan/phpstan-src/pull/3598) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Remove dead code in ConstantConditionRuleHelper](https://github.com/phpstan/phpstan-src/pull/3597) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [run-tests: refactor worker globals into global WorkerContext value-object](https://github.com/php/php-src/pull/16678) on [php/php-src](https://github.com/php/php-src) (3 days ago)
-- [run-tests: drop hrtime() polyfill](https://github.com/php/php-src/pull/16677) on [php/php-src](https://github.com/php/php-src) (3 days ago)
-- [run-tests: removed unused code](https://github.com/php/php-src/pull/16675) on [php/php-src](https://github.com/php/php-src) (3 days ago)
-- [Differentiate `die(&#34;skip..&#34;)` from `die()` or `exit()`](https://github.com/staabm/side-effects-detector/pull/21) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (3 days ago)
-- [run-tests.php: fix wrong comment](https://github.com/php/php-src/pull/16666) on [php/php-src](https://github.com/php/php-src) (4 days ago)
-- [Avoid subprocess when SKIPIF triggers IO](https://github.com/sebastianbergmann/phpunit/pull/6022) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
-- [POC run-tests.php: avoid SKIPIF evaluation in subprocesses](https://github.com/php/php-src/pull/16664) on [php/php-src](https://github.com/php/php-src) (4 days ago)
-- [Report invalid string offsets](https://github.com/phpstan/phpstan-src/pull/3594) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [More precise types in immediately invoked callables](https://github.com/phpstan/phpstan-src/pull/3593) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Fix `Uninitialized string offset -1` warning](https://github.com/sebastianbergmann/comparator/pull/119) on [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (6 days ago)
-- [Cleanup unused parameter](https://github.com/johnbillion/wp-compat/pull/14) on [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) (6 days ago)
+- [More precise `toLowerString()` return type](https://github.com/nikic/PHP-Parser/pull/1039) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 day ago)
+- [More precise types in immediately invoked callables](https://github.com/phpstan/phpstan-src/pull/3602) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Don&#39;t report &#34;is always true/false&#34; for conditionally defined variables](https://github.com/phpstan/phpstan-src/pull/3598) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Remove dead code in ConstantConditionRuleHelper](https://github.com/phpstan/phpstan-src/pull/3597) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [run-tests: refactor worker globals into global WorkerContext value-object](https://github.com/php/php-src/pull/16678) on [php/php-src](https://github.com/php/php-src) (4 days ago)
+- [run-tests: drop hrtime() polyfill](https://github.com/php/php-src/pull/16677) on [php/php-src](https://github.com/php/php-src) (4 days ago)
+- [run-tests: removed unused code](https://github.com/php/php-src/pull/16675) on [php/php-src](https://github.com/php/php-src) (4 days ago)
+- [Differentiate `die(&#34;skip..&#34;)` from `die()` or `exit()`](https://github.com/staabm/side-effects-detector/pull/21) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (4 days ago)
+- [run-tests.php: fix wrong comment](https://github.com/php/php-src/pull/16666) on [php/php-src](https://github.com/php/php-src) (5 days ago)
+- [Avoid subprocess when SKIPIF triggers IO](https://github.com/sebastianbergmann/phpunit/pull/6022) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
+- [POC run-tests.php: avoid SKIPIF evaluation in subprocesses](https://github.com/php/php-src/pull/16664) on [php/php-src](https://github.com/php/php-src) (5 days ago)
+- [Report invalid string offsets](https://github.com/phpstan/phpstan-src/pull/3594) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [More precise types in immediately invoked callables](https://github.com/phpstan/phpstan-src/pull/3593) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [Fix `Uninitialized string offset -1` warning](https://github.com/sebastianbergmann/comparator/pull/119) on [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (1 week ago)
+- [Cleanup unused parameter](https://github.com/johnbillion/wp-compat/pull/14) on [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.5.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.5.0) (1 day ago)
-- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.7](https://github.com/lucatume/wp-browser/releases/tag/3.7.7) (1 day ago)
-- [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.10](https://github.com/larastan/larastan/releases/tag/v2.9.10) (3 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.34](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.34) (3 days ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [6.2.1](https://github.com/sebastianbergmann/comparator/releases/tag/6.2.1) (5 days ago)
-- [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [0.3.0](https://github.com/johnbillion/wp-compat/releases/tag/0.3.0) (6 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.11](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.11) (6 days ago)
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.5.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.5.0) (2 days ago)
+- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.7](https://github.com/lucatume/wp-browser/releases/tag/3.7.7) (2 days ago)
+- [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.10](https://github.com/larastan/larastan/releases/tag/v2.9.10) (4 days ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.34](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.34) (4 days ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [6.2.1](https://github.com/sebastianbergmann/comparator/releases/tag/6.2.1) (6 days ago)
+- [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [0.3.0](https://github.com/johnbillion/wp-compat/releases/tag/0.3.0) (1 week ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.11](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.11) (1 week ago)
 - [infection/infection](https://github.com/infection/infection) - [0.29.8](https://github.com/infection/infection/releases/tag/0.29.8) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.5.5](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.5.5) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.2.85](https://github.com/staabm/phpstan-dba/releases/tag/0.2.85) (1 week ago)
