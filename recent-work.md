@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.8](https://github.com/phpstan/phpstan/releases/tag/1.12.8) (today)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.15](https://github.com/shopware/shopware/releases/tag/v6.5.8.15) (today)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.5.1](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.5.1) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.12](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.12) (today)
@@ -68,4 +69,3 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.34](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.34) (4 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [6.2.1](https://github.com/sebastianbergmann/comparator/releases/tag/6.2.1) (6 days ago)
 - [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [0.3.0](https://github.com/johnbillion/wp-compat/releases/tag/0.3.0) (1 week ago)
-- [infection/infection](https://github.com/infection/infection) - [0.29.8](https://github.com/infection/infection/releases/tag/0.29.8) (1 week ago)
