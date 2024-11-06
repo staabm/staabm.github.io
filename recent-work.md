@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.5.1](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.5.1) (today)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.8.1](https://github.com/shopware/shopware/releases/tag/v6.6.8.1) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.12](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.12) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.0-BETA2](https://github.com/symfony/symfony/releases/tag/v7.2.0-BETA2) (today)
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.5.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.5.0) (2 days ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.7](https://github.com/lucatume/wp-browser/releases/tag/3.7.7) (2 days ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.10](https://github.com/larastan/larastan/releases/tag/v2.9.10) (4 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.34](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.34) (4 days ago)
