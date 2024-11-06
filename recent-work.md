@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [More details php version information in diagnose](https://github.com/phpstan/phpstan-src/pull/3609) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [More precise `toLowerString()` return type](https://github.com/nikic/PHP-Parser/pull/1039) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 day ago)
 - [More precise types in immediately invoked callables](https://github.com/phpstan/phpstan-src/pull/3602) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Don&#39;t report &#34;is always true/false&#34; for conditionally defined variables](https://github.com/phpstan/phpstan-src/pull/3598) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -54,7 +55,6 @@
 - [Report invalid string offsets](https://github.com/phpstan/phpstan-src/pull/3594) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [More precise types in immediately invoked callables](https://github.com/phpstan/phpstan-src/pull/3593) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix `Uninitialized string offset -1` warning](https://github.com/sebastianbergmann/comparator/pull/119) on [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (1 week ago)
-- [Cleanup unused parameter](https://github.com/johnbillion/wp-compat/pull/14) on [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
