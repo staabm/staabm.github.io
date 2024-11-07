@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 days ago)
 - [php/php-src](https://github.com/php/php-src) (5 days ago)
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (6 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (1 week ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [dev-main targets 2.x](https://github.com/staabm/phpstan-dba/pull/699) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Remove use of Mysqli stub and generic mysqli result type](https://github.com/staabm/phpstan-dba/pull/698) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [More details php version information in diagnose](https://github.com/phpstan/phpstan-src/pull/3609) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [More precise `toLowerString()` return type](https://github.com/nikic/PHP-Parser/pull/1039) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 days ago)
 - [More precise types in immediately invoked callables](https://github.com/phpstan/phpstan-src/pull/3602) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -53,8 +55,6 @@
 - [Avoid subprocess when SKIPIF triggers IO](https://github.com/sebastianbergmann/phpunit/pull/6022) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
 - [POC run-tests.php: avoid SKIPIF evaluation in subprocesses](https://github.com/php/php-src/pull/16664) on [php/php-src](https://github.com/php/php-src) (6 days ago)
 - [Report invalid string offsets](https://github.com/phpstan/phpstan-src/pull/3594) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [More precise types in immediately invoked callables](https://github.com/phpstan/phpstan-src/pull/3593) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix `Uninitialized string offset -1` warning](https://github.com/sebastianbergmann/comparator/pull/119) on [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
