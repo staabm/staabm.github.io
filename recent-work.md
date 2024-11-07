@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix more type errors](https://github.com/staabm/phpstan-dba/pull/708) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Fix type errors](https://github.com/staabm/phpstan-dba/pull/707) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Added rule identifiers](https://github.com/staabm/phpstan-dba/pull/706) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Remove use of Doctrine stub and and generic Doctrine result types](https://github.com/staabm/phpstan-dba/pull/705) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Fix union result with PdoStatement](https://github.com/staabm/phpstan-dba/pull/704) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Fix union result with mysqli](https://github.com/staabm/phpstan-dba/pull/703) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
@@ -52,9 +55,6 @@
 - [More details php version information in diagnose](https://github.com/phpstan/phpstan-src/pull/3609) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [More precise `toLowerString()` return type](https://github.com/nikic/PHP-Parser/pull/1039) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 days ago)
 - [More precise types in immediately invoked callables](https://github.com/phpstan/phpstan-src/pull/3602) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Don&#39;t report &#34;is always true/false&#34; for conditionally defined variables](https://github.com/phpstan/phpstan-src/pull/3598) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Remove dead code in ConstantConditionRuleHelper](https://github.com/phpstan/phpstan-src/pull/3597) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [run-tests: refactor worker globals into global WorkerContext value-object](https://github.com/php/php-src/pull/16678) on [php/php-src](https://github.com/php/php-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
