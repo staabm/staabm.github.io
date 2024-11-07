@@ -43,7 +43,7 @@
 - [.env: Support ssl-certificates via DBA_SSL](https://github.com/staabm/phpstan-dba/pull/702) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [mention phpVersion config range](https://github.com/phpstan/phpstan/pull/11974) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Remove mysqli_result from skipCheckGenericClasses](https://github.com/staabm/phpstan-dba/pull/701) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [Remove use of PDOStatement stub](https://github.com/staabm/phpstan-dba/pull/700) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Remove use of PDOStatement stub and and generic PDOStatement result type](https://github.com/staabm/phpstan-dba/pull/700) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [dev-main targets 2.x](https://github.com/staabm/phpstan-dba/pull/699) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Remove use of Mysqli stub and generic mysqli result type](https://github.com/staabm/phpstan-dba/pull/698) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [More details php version information in diagnose](https://github.com/phpstan/phpstan-src/pull/3609) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
