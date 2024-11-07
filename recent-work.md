@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove use of Doctrine stub and and generic Doctrine result types](https://github.com/staabm/phpstan-dba/pull/705) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Fix union result with PdoStatement](https://github.com/staabm/phpstan-dba/pull/704) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Fix union result with mysqli](https://github.com/staabm/phpstan-dba/pull/703) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [.env: Support ssl-certificates via DBA_SSL](https://github.com/staabm/phpstan-dba/pull/702) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [mention phpVersion config range](https://github.com/phpstan/phpstan/pull/11974) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Remove mysqli_result from skipCheckGenericClasses](https://github.com/staabm/phpstan-dba/pull/701) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
@@ -52,9 +55,6 @@
 - [Don&#39;t report &#34;is always true/false&#34; for conditionally defined variables](https://github.com/phpstan/phpstan-src/pull/3598) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Remove dead code in ConstantConditionRuleHelper](https://github.com/phpstan/phpstan-src/pull/3597) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [run-tests: refactor worker globals into global WorkerContext value-object](https://github.com/php/php-src/pull/16678) on [php/php-src](https://github.com/php/php-src) (5 days ago)
-- [run-tests: drop hrtime() polyfill](https://github.com/php/php-src/pull/16677) on [php/php-src](https://github.com/php/php-src) (5 days ago)
-- [run-tests: removed unused code](https://github.com/php/php-src/pull/16675) on [php/php-src](https://github.com/php/php-src) (5 days ago)
-- [Differentiate `die(&#34;skip..&#34;)` from `die()` or `exit()`](https://github.com/staabm/side-effects-detector/pull/21) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
