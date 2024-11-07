@@ -7,9 +7,9 @@
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 days ago)
 - [php/php-src](https://github.com/php/php-src) (5 days ago)
-- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (6 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
+- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (6 days ago)
 - [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (1 week ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [.env: Support ssl-certificates via DBA_SSL](https://github.com/staabm/phpstan-dba/pull/702) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [mention phpVersion config range](https://github.com/phpstan/phpstan/pull/11974) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Remove mysqli_result from skipCheckGenericClasses](https://github.com/staabm/phpstan-dba/pull/701) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Remove use of PDOStatement stub](https://github.com/staabm/phpstan-dba/pull/700) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [dev-main targets 2.x](https://github.com/staabm/phpstan-dba/pull/699) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
@@ -53,8 +55,6 @@
 - [run-tests: drop hrtime() polyfill](https://github.com/php/php-src/pull/16677) on [php/php-src](https://github.com/php/php-src) (5 days ago)
 - [run-tests: removed unused code](https://github.com/php/php-src/pull/16675) on [php/php-src](https://github.com/php/php-src) (5 days ago)
 - [Differentiate `die(&#34;skip..&#34;)` from `die()` or `exit()`](https://github.com/staabm/side-effects-detector/pull/21) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (5 days ago)
-- [run-tests.php: fix wrong comment](https://github.com/php/php-src/pull/16666) on [php/php-src](https://github.com/php/php-src) (6 days ago)
-- [Avoid subprocess when SKIPIF triggers IO](https://github.com/sebastianbergmann/phpunit/pull/6022) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
