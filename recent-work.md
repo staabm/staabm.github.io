@@ -10,9 +10,9 @@
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (6 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
+- [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (1 week ago)
-- [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove mysqli_result from skipCheckGenericClasses](https://github.com/staabm/phpstan-dba/pull/701) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Remove use of PDOStatement stub](https://github.com/staabm/phpstan-dba/pull/700) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [dev-main targets 2.x](https://github.com/staabm/phpstan-dba/pull/699) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Remove use of Mysqli stub and generic mysqli result type](https://github.com/staabm/phpstan-dba/pull/698) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [More details php version information in diagnose](https://github.com/phpstan/phpstan-src/pull/3609) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,12 +55,11 @@
 - [Differentiate `die(&#34;skip..&#34;)` from `die()` or `exit()`](https://github.com/staabm/side-effects-detector/pull/21) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (5 days ago)
 - [run-tests.php: fix wrong comment](https://github.com/php/php-src/pull/16666) on [php/php-src](https://github.com/php/php-src) (6 days ago)
 - [Avoid subprocess when SKIPIF triggers IO](https://github.com/sebastianbergmann/phpunit/pull/6022) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
-- [POC run-tests.php: avoid SKIPIF evaluation in subprocesses](https://github.com/php/php-src/pull/16664) on [php/php-src](https://github.com/php/php-src) (6 days ago)
-- [Report invalid string offsets](https://github.com/phpstan/phpstan-src/pull/3594) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.0.0](https://github.com/phpstan/phpdoc-parser/releases/tag/2.0.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.8](https://github.com/phpstan/phpstan/releases/tag/1.12.8) (1 day ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.15](https://github.com/shopware/shopware/releases/tag/v6.5.8.15) (1 day ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.5.1](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.5.1) (1 day ago)
@@ -68,4 +69,3 @@
 - [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.10](https://github.com/larastan/larastan/releases/tag/v2.9.10) (5 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.34](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.34) (5 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [6.2.1](https://github.com/sebastianbergmann/comparator/releases/tag/6.2.1) (1 week ago)
-- [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [0.3.0](https://github.com/johnbillion/wp-compat/releases/tag/0.3.0) (1 week ago)
