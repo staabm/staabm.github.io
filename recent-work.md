@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [More precise types for `preg_match` greater than `0`](https://github.com/phpstan/phpstan-src/pull/3612) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix more type errors](https://github.com/staabm/phpstan-dba/pull/708) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Fix type errors](https://github.com/staabm/phpstan-dba/pull/707) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Added rule identifiers](https://github.com/staabm/phpstan-dba/pull/706) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
@@ -54,7 +55,6 @@
 - [Remove use of Mysqli stub and generic mysqli result type](https://github.com/staabm/phpstan-dba/pull/698) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [More details php version information in diagnose](https://github.com/phpstan/phpstan-src/pull/3609) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [More precise `toLowerString()` return type](https://github.com/nikic/PHP-Parser/pull/1039) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (3 days ago)
-- [More precise types in immediately invoked callables](https://github.com/phpstan/phpstan-src/pull/3602) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
