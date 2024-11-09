@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.5.6](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.5.6) (today)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.8](https://github.com/lucatume/wp-browser/releases/tag/3.7.8) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.193](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.193) (1 day ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.0.0](https://github.com/phpstan/phpdoc-parser/releases/tag/2.0.0) (2 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.12](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.12) (3 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.0-BETA2](https://github.com/symfony/symfony/releases/tag/v7.2.0-BETA2) (3 days ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.10](https://github.com/larastan/larastan/releases/tag/v2.9.10) (1 week ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.34](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.34) (1 week ago)
