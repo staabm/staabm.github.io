@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.9](https://github.com/phpstan/phpstan/releases/tag/1.12.9) (1 day ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [1.5.6](https://github.com/phpstan/phpstan-doctrine/releases/tag/1.5.6) (2 days ago)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [2.0.0](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/2.0.0) (today)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.0](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.0) (today)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.0](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.0) (today)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.0](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.0) (today)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.0](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.0) (today)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.0](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.0) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.0.0](https://github.com/phpstan/phpstan/releases/tag/2.0.0) (today)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.8](https://github.com/lucatume/wp-browser/releases/tag/3.7.8) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.193](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.193) (3 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.0.0](https://github.com/phpstan/phpdoc-parser/releases/tag/2.0.0) (4 days ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.15](https://github.com/shopware/shopware/releases/tag/v6.5.8.15) (5 days ago)
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.5.1](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.5.1) (5 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [1.4.12](https://github.com/phpstan/phpstan-symfony/releases/tag/1.4.12) (5 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.0-BETA2](https://github.com/symfony/symfony/releases/tag/v7.2.0-BETA2) (5 days ago)
-- [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.10](https://github.com/larastan/larastan/releases/tag/v2.9.10) (1 week ago)
