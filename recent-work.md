@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [symplify/phpstan-extensions](https://github.com/symplify/phpstan-extensions) (today)
+- [ebrana/elasticsearch-bundle](https://github.com/ebrana/elasticsearch-bundle) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (6 days ago)
 - [php/php-src](https://github.com/php/php-src) (1 week ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (1 week ago)
 
 
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [drop phpstan/phpstan-php-parser](https://github.com/ebrana/elasticsearch-bundle/pull/6) on [ebrana/elasticsearch-bundle](https://github.com/ebrana/elasticsearch-bundle) (today)
+- [drop phpstan/phpstan-php-parser](https://github.com/alcohol/iso4217/pull/38) on [alcohol/iso4217](https://github.com/alcohol/iso4217) (today)
+- [Remove obsolete phpstan-php-parser dependency](https://github.com/staabm/phpstan-dba/pull/710) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Min requirement is PHPStan 2.0](https://github.com/staabm/phpstan-todo-by/pull/125) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Support PHPStan 2.x](https://github.com/TomasVotruba/unused-public/pull/134) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Fix &#34;Argument #1 ($string) must be of type string, bool given&#34;](https://github.com/symplify/phpstan-extensions/pull/11) on [symplify/phpstan-extensions](https://github.com/symplify/phpstan-extensions) (today)
@@ -52,13 +55,11 @@
 - [Remove use of Doctrine stub and and generic Doctrine result types](https://github.com/staabm/phpstan-dba/pull/705) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [Fix union result with PdoStatement](https://github.com/staabm/phpstan-dba/pull/704) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [Fix union result with mysqli](https://github.com/staabm/phpstan-dba/pull/703) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [.env: Support ssl-certificates via DBA_SSL](https://github.com/staabm/phpstan-dba/pull/702) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [mention phpVersion config range](https://github.com/phpstan/phpstan/pull/11974) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
-- [Remove mysqli_result from skipCheckGenericClasses](https://github.com/staabm/phpstan-dba/pull/701) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.8.2](https://github.com/shopware/shopware/releases/tag/v6.6.8.2) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.2](https://github.com/staabm/phpstan-todo-by/releases/tag/0.2) (today)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [2.0.0](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/2.0.0) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.0](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.0) (today)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.0](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.0.0](https://github.com/phpstan/phpstan/releases/tag/2.0.0) (today)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.8](https://github.com/lucatume/wp-browser/releases/tag/3.7.8) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.193](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.193) (3 days ago)
