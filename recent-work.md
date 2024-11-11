@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
+- [symplify/phpstan-extensions](https://github.com/symplify/phpstan-extensions) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (6 days ago)
 - [php/php-src](https://github.com/php/php-src) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (1 week ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Min requirement is PHPStan 2.0](https://github.com/staabm/phpstan-todo-by/pull/125) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Support PHPStan 2.x](https://github.com/TomasVotruba/unused-public/pull/134) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Fix &#34;Argument #1 ($string) must be of type string, bool given&#34;](https://github.com/symplify/phpstan-extensions/pull/11) on [symplify/phpstan-extensions](https://github.com/symplify/phpstan-extensions) (today)
 - [Support PHPStan 2.x](https://github.com/TomasVotruba/type-coverage/pull/45) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (today)
@@ -54,7 +55,6 @@
 - [.env: Support ssl-certificates via DBA_SSL](https://github.com/staabm/phpstan-dba/pull/702) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [mention phpVersion config range](https://github.com/phpstan/phpstan/pull/11974) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [Remove mysqli_result from skipCheckGenericClasses](https://github.com/staabm/phpstan-dba/pull/701) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [Remove use of PDOStatement stub and and generic PDOStatement result type](https://github.com/staabm/phpstan-dba/pull/700) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
