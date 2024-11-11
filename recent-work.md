@@ -59,6 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.0.1](https://github.com/phpstan/phpstan/releases/tag/2.0.1) (today)
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.6.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.6.0) (today)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.8.2](https://github.com/shopware/shopware/releases/tag/v6.6.8.2) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.2](https://github.com/staabm/phpstan-todo-by/releases/tag/0.2) (today)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [2.0.0](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/2.0.0) (today)
@@ -67,5 +69,3 @@
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.0](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.0) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.0](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.0) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.0](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.0) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.0.0](https://github.com/phpstan/phpstan/releases/tag/2.0.0) (today)
-- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.8](https://github.com/lucatume/wp-browser/releases/tag/3.7.8) (3 days ago)
