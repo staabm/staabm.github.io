@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (6 days ago)
 - [php/php-src](https://github.com/php/php-src) (1 week ago)
-- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
+- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
-- [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) (1 week ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (1 week ago)
 
 
 #### 📜 My recent blog posts
