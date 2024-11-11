@@ -34,8 +34,8 @@
 - [brotkrueml](https://github.com/brotkrueml) (6 months ago)
 - [peterfox](https://github.com/peterfox) (7 months ago)
 - [annervisser](https://github.com/annervisser) (7 months ago)
-- [getsentry](https://github.com/getsentry) (1 year ago)
 - [eliashaeussler](https://github.com/eliashaeussler) (1 year ago)
+- [DaveLiddament](https://github.com/DaveLiddament) (1 year ago)
 
 
 #### 🔨 My recent Pull Requests
