@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [ebrana/elasticsearch-bundle](https://github.com/ebrana/elasticsearch-bundle) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
+- [alcohol/iso4217](https://github.com/alcohol/iso4217) (1 day ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [symplify/phpstan-extensions](https://github.com/symplify/phpstan-extensions) (1 day ago)
+- [ebrana/elasticsearch-bundle](https://github.com/ebrana/elasticsearch-bundle) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
 - [php/php-src](https://github.com/php/php-src) (1 week ago)
-- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (1 week ago)
 
 
 #### 📜 My recent blog posts
