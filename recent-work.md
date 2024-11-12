@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor ComposerPhpVersionFactory, ConstantResolver](https://github.com/phpstan/phpstan-src/pull/3627) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [drop phpstan/phpstan-php-parser](https://github.com/ebrana/elasticsearch-bundle/pull/6) on [ebrana/elasticsearch-bundle](https://github.com/ebrana/elasticsearch-bundle) (1 day ago)
 - [drop phpstan/phpstan-php-parser](https://github.com/alcohol/iso4217/pull/38) on [alcohol/iso4217](https://github.com/alcohol/iso4217) (1 day ago)
 - [Remove obsolete phpstan-php-parser dependency](https://github.com/staabm/phpstan-dba/pull/710) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
@@ -54,11 +55,11 @@
 - [Added rule identifiers](https://github.com/staabm/phpstan-dba/pull/706) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [Remove use of Doctrine stub and and generic Doctrine result types](https://github.com/staabm/phpstan-dba/pull/705) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [Fix union result with PdoStatement](https://github.com/staabm/phpstan-dba/pull/704) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [Fix union result with mysqli](https://github.com/staabm/phpstan-dba/pull/703) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/pcre](https://github.com/composer/pcre) - [3.3.2](https://github.com/composer/pcre/releases/tag/3.3.2) (today)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.11](https://github.com/larastan/larastan/releases/tag/v2.9.11) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.0.1](https://github.com/phpstan/phpstan/releases/tag/2.0.1) (1 day ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.6.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.6.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.0](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.0) (1 day ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.0](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.0) (1 day ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.0](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.0) (1 day ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.0](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.0) (1 day ago)
