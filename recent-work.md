@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Utilize phpVersion.min&#43;max in VersionCompareFunctionDynamicReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/3631) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/3630) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Refactor ComposerPhpVersionFactory, ConstantResolver](https://github.com/phpstan/phpstan-src/pull/3627) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [drop phpstan/phpstan-php-parser](https://github.com/ebrana/elasticsearch-bundle/pull/6) on [ebrana/elasticsearch-bundle](https://github.com/ebrana/elasticsearch-bundle) (2 days ago)
@@ -54,7 +55,6 @@
 - [Fix more type errors](https://github.com/staabm/phpstan-dba/pull/708) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 - [Fix type errors](https://github.com/staabm/phpstan-dba/pull/707) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 - [Added rule identifiers](https://github.com/staabm/phpstan-dba/pull/706) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
-- [Remove use of Doctrine stub and and generic Doctrine result types](https://github.com/staabm/phpstan-dba/pull/705) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
