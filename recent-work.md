@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) - [v5.4.47](https://github.com/symfony/symfony/releases/tag/v5.4.47) (today)
+- [symfony/symfony](https://github.com/symfony/symfony) - [v7.1.8](https://github.com/symfony/symfony/releases/tag/v7.1.8) (today)
 - [composer/pcre](https://github.com/composer/pcre) - [3.3.2](https://github.com/composer/pcre/releases/tag/3.3.2) (1 day ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.11](https://github.com/larastan/larastan/releases/tag/v2.9.11) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.0.1](https://github.com/phpstan/phpstan/releases/tag/2.0.1) (2 days ago)
