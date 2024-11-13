@@ -3,13 +3,13 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
-- [alcohol/iso4217](https://github.com/alcohol/iso4217) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
+- [alcohol/iso4217](https://github.com/alcohol/iso4217) (2 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
 - [symplify/phpstan-extensions](https://github.com/symplify/phpstan-extensions) (2 days ago)
 - [ebrana/elasticsearch-bundle](https://github.com/ebrana/elasticsearch-bundle) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
 - [php/php-src](https://github.com/php/php-src) (1 week ago)
