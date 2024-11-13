@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) - [v5.4.47](https://github.com/symfony/symfony/releases/tag/v5.4.47) (today)
 - [composer/pcre](https://github.com/composer/pcre) - [3.3.2](https://github.com/composer/pcre/releases/tag/3.3.2) (1 day ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v2.9.11](https://github.com/larastan/larastan/releases/tag/v2.9.11) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.0.1](https://github.com/phpstan/phpstan/releases/tag/2.0.1) (2 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [2.0.0](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/2.0.0) (2 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.0](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.0) (2 days ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.0](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.0) (2 days ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.0](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.0) (2 days ago)
