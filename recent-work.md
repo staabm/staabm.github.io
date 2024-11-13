@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix build](https://github.com/phpstan/phpstan-src/pull/3630) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Refactor ComposerPhpVersionFactory, ConstantResolver](https://github.com/phpstan/phpstan-src/pull/3627) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [drop phpstan/phpstan-php-parser](https://github.com/ebrana/elasticsearch-bundle/pull/6) on [ebrana/elasticsearch-bundle](https://github.com/ebrana/elasticsearch-bundle) (2 days ago)
 - [drop phpstan/phpstan-php-parser](https://github.com/alcohol/iso4217/pull/38) on [alcohol/iso4217](https://github.com/alcohol/iso4217) (2 days ago)
@@ -54,7 +55,6 @@
 - [Fix type errors](https://github.com/staabm/phpstan-dba/pull/707) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 - [Added rule identifiers](https://github.com/staabm/phpstan-dba/pull/706) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 - [Remove use of Doctrine stub and and generic Doctrine result types](https://github.com/staabm/phpstan-dba/pull/705) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
-- [Fix union result with PdoStatement](https://github.com/staabm/phpstan-dba/pull/704) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
