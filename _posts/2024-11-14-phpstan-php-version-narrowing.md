@@ -51,7 +51,7 @@ If you are curious, find the implementation of the above idea in [PHPStan pull r
 
 This means, as of PHPStan 2.0:
 - we will use the `composer.json` php-requirement in case no `phpVersion` parameter is set in the NEON config file
-- the `phpVersion` parameter in the NEON config supports declaring a PHP version range, which will overrule the `composer.json` php-requirement:
+- the `phpVersion` parameter in the NEON config now supports declaring a PHP version range, which will overrule the `composer.json` php-requirement:
 ```
 parameters:
 	phpVersion:
