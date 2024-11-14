@@ -56,8 +56,8 @@ This means, as of PHPStan 2.0:
 ```
 parameters:
 	phpVersion:
-		min: 80303
-		max: 80104
+		min: 80104
+		max: 80303
 ```
 
 With this information at hand, we are now able to detect 'always true' and 'always false' conditions in code like
