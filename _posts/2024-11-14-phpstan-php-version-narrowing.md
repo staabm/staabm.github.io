@@ -16,7 +16,7 @@ Since PHPStan 2.0 we start to narrow PHP version related information for more pr
 
 ### Dead code detection for PHP_* constants
 
-From time to time its required to check PHP version specific behavior to e.g. work around bugs or detect certain behaviour of the language.
+From time to time its required to check the PHP version to e.g. work around bugs or detect certain behaviour of the language.
 Oftentimes checking for certain PHP-version ranges also helps to assert certain behaviour in automated tests.
 
 Example test taken from `maglnet/composer-require-checker`:
