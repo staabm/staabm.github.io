@@ -75,6 +75,7 @@ Right after PHPStan 2.0 the first examples show up, that this idea works really 
 - [phpstan-strict-rules: Remove dead test because of raised min-php version](https://github.com/phpstan/phpstan-strict-rules/pull/250)
 - [phpstan-nette: Removed dead test-code after min-phpversion raise](https://github.com/phpstan/phpstan-nette/pull/164)
 - [phpstan-deprecation-rules: Removed always true PHP_VERSION_ID condition](https://github.com/phpstan/phpstan-deprecation-rules/pull/118)
+- [phpstan-dba: Remove dead PHP_VERSION_ID check](https://github.com/staabm/phpstan-dba/pull/712)
 
 <img src="/images/post-images/phpstan-php-version-narrowing/feedback.png">
 
