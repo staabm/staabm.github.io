@@ -65,6 +65,8 @@ Right after PHPStan 2.0 the first examples show up, that this idea works really 
 - [phpstan-nette: Removed dead test-code after min-phpversion raise](https://github.com/phpstan/phpstan-nette/pull/164)
 - [phpstan-deprecation-rules: Removed always true PHP_VERSION_ID condition](https://github.com/phpstan/phpstan-deprecation-rules/pull/118)
 
+<img src="/images/post-images/phpstan-php-version-narrowing/feedback.png">
+
 In case this feature detected dead code in one of your projects, retweet or retoot my messages to give me a signal that this feature is useful for you.
 
 
