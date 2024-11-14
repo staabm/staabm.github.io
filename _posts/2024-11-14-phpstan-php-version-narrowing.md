@@ -5,7 +5,7 @@ tags:
 image: "images/og-images/phpstan-php-version-narrowing.jpg"
 
 ogImage:
-    title: "PHPStan narrows PHP_* constants"
+    title: "PHPStan narrows PHP version constants"
     imageUrl: "https://staabm.github.io/staabm.svg"
     fileName: "phpstan-php-version-narrowing"
 ---
