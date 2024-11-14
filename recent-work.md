@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [symplify/phpstan-extensions](https://github.com/symplify/phpstan-extensions) (3 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
 - [alcohol/iso4217](https://github.com/alcohol/iso4217) (3 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [ebrana/elasticsearch-bundle](https://github.com/ebrana/elasticsearch-bundle) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove dead PHP_VERSION_ID check](https://github.com/staabm/phpstan-dba/pull/712) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [PHPStan bug](https://github.com/staabm/phpstan-dba/pull/711) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Add phpstan/phpstan-deprecation-rules](https://github.com/composer/pcre/pull/41) on [composer/pcre](https://github.com/composer/pcre) (today)
 - [Create 2024-12-5-phpstan-performance-on-different-hardware.md](https://github.com/staabm/staabm.github.io/pull/119) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
@@ -54,7 +55,6 @@
 - [Support PHPStan 2.x](https://github.com/TomasVotruba/unused-public/pull/134) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
 - [Fix &#34;Argument #1 ($string) must be of type string, bool given&#34;](https://github.com/symplify/phpstan-extensions/pull/11) on [symplify/phpstan-extensions](https://github.com/symplify/phpstan-extensions) (3 days ago)
 - [Support PHPStan 2.x](https://github.com/TomasVotruba/type-coverage/pull/45) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (3 days ago)
-- [PHPStan 2.0 support](https://github.com/staabm/phpstan-dba/pull/709) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
