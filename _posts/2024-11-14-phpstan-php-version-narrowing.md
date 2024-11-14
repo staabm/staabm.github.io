@@ -35,7 +35,7 @@ Example test taken from `maglnet/composer-require-checker`:
 ...
 ```
 
-Time moves on.. new PHP versions get released and old versions get deprecated, and finally will be declared end-of-live.
+Time moves on, new PHP versions get released and old versions get deprecated, and finally will be declared end-of-live.
 The PHP versions your code supports follows this lifecycle, which means the code related to PHP version-checks might become dead code at some point.
 
 In my experience code which no longer needs to be maintained because it is only relevant for no longer supported PHP versions is often overlooked.
