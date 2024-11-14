@@ -59,6 +59,15 @@ parameters:
 		max: 80104
 ```
 
+With this information at hand, we are now able to detect 'always true' and 'always false' conditions in code like
+```php
+if (PHP_MAJOR_VERSION === 7) {}
+
+if (PHP_VERSION_ID < 80100) {}
+
+if (version_compare(PHP_VERSION, '7.0.0') === 1) {}
+```
+
 Right after PHPStan 2.0 the first examples show up, that this idea works really well:
 - [Remove now-unnecessary PHP <8.2 code](https://github.com/maglnet/ComposerRequireChecker/pull/554)
 - [phpstan-strict-rules: Remove dead test because of raised min-php version](https://github.com/phpstan/phpstan-strict-rules/pull/250)
