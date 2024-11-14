@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Re-record](https://github.com/staabm/phpstan-dba/pull/713) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Added ConditionalJoin interface](https://github.com/SQLFTW/sqlftw/pull/27) on [SQLFTW/sqlftw](https://github.com/SQLFTW/sqlftw) (today)
 - [Remove dead PHP_VERSION_ID check](https://github.com/staabm/phpstan-dba/pull/712) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [PHPStan bug](https://github.com/staabm/phpstan-dba/pull/711) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Add phpstan/phpstan-deprecation-rules](https://github.com/composer/pcre/pull/41) on [composer/pcre](https://github.com/composer/pcre) (today)
@@ -53,8 +55,6 @@
 - [Remove obsolete phpstan-php-parser dependency](https://github.com/staabm/phpstan-dba/pull/710) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [Min requirement is PHPStan 2.0](https://github.com/staabm/phpstan-todo-by/pull/125) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
 - [Support PHPStan 2.x](https://github.com/TomasVotruba/unused-public/pull/134) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
-- [Fix &#34;Argument #1 ($string) must be of type string, bool given&#34;](https://github.com/symplify/phpstan-extensions/pull/11) on [symplify/phpstan-extensions](https://github.com/symplify/phpstan-extensions) (3 days ago)
-- [Support PHPStan 2.x](https://github.com/TomasVotruba/type-coverage/pull/45) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
