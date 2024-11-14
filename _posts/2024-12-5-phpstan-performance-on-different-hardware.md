@@ -46,7 +46,7 @@ php -v
 ```
 
 Lenovo Thinkpad P1 Gen 5, Intel Core i9-12900H, 1 TB SSD, 32 GB RAM (on full battery)
-- 110-120 seconds
+- 115-120 seconds
 
 Lenovo Thinkpad P1 Gen 5, Intel Core i9-12900H, 1 TB SSD, 32 GB RAM (plugged in)
 - 110-120 seconds
