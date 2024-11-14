@@ -78,7 +78,7 @@ Right after PHPStan 2.0 the first examples show up, that this idea works really 
 
 <img src="/images/post-images/phpstan-php-version-narrowing/feedback.png">
 
-In case this feature detected dead code in one of your projects, retweet or retoot my messages to give me a signal that this feature is useful for you.
+In case this feature detected dead code in one of your projects, [retweet](https://x.com/markusstaab/status/1856976906874224866) or [retoot](https://phpc.social/@markusstaab/113480354221540474) my messages to give me a signal that this feature is useful for you.
 
 
 ### Future work
