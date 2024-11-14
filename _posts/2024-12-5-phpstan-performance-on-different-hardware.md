@@ -41,8 +41,10 @@ Apple MacBook M4 Pro (2024), 14‑Core CPU, 1 TB SSD, 48 GB RAM (on full battery
 #### Running windows11x64 23H2
 
 ```
-php -v
-
+$ php -v
+PHP 8.2.12 (cli) (built: Oct 24 2023 21:15:35) (NTS Visual C++ 2019 x64)
+Copyright (c) The PHP Group
+Zend Engine v4.2.12, Copyright (c) Zend Technologie
 ```
 
 Lenovo Thinkpad P1 Gen 5, Intel Core i9-12900H, 1 TB SSD, 32 GB RAM (on full battery)
