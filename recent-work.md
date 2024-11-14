@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add phpstan/phpstan-deprecation-rules](https://github.com/composer/pcre/pull/41) on [composer/pcre](https://github.com/composer/pcre) (today)
+- [Create 2024-12-5-phpstan-performance-on-different-hardware.md](https://github.com/staabm/staabm.github.io/pull/119) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Create 2024-11-14-phpstan-php-version-narrowing.md](https://github.com/staabm/staabm.github.io/pull/118) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Utilize phpVersion.min&#43;max in VersionCompareFunctionDynamicReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/3631) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/3630) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Support PHPStan 2.x](https://github.com/TomasVotruba/type-coverage/pull/45) on [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage) (3 days ago)
 - [PHPStan 2.0 support](https://github.com/staabm/phpstan-dba/pull/709) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [More precise types for `preg_match` greater than `0`](https://github.com/phpstan/phpstan-src/pull/3612) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Fix more type errors](https://github.com/staabm/phpstan-dba/pull/708) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [Fix type errors](https://github.com/staabm/phpstan-dba/pull/707) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
