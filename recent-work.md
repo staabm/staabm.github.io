@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Create 2024-11-14-phpstan-php-version-narrowing.md](https://github.com/staabm/staabm.github.io/pull/118) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Utilize phpVersion.min&#43;max in VersionCompareFunctionDynamicReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/3631) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/3630) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Refactor ComposerPhpVersionFactory, ConstantResolver](https://github.com/phpstan/phpstan-src/pull/3627) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [More precise types for `preg_match` greater than `0`](https://github.com/phpstan/phpstan-src/pull/3612) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Fix more type errors](https://github.com/staabm/phpstan-dba/pull/708) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [Fix type errors](https://github.com/staabm/phpstan-dba/pull/707) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [Added rule identifiers](https://github.com/staabm/phpstan-dba/pull/706) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
