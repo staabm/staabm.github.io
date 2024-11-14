@@ -55,6 +55,3 @@ Lenovo Thinkpad P1 Gen 5, Intel Core i9-12900H, 1 TB SSD, 32 GB RAM (plugged in)
 
 -> In my experience the performance of "on battery" vs. "plugged in" is not that different on this Thinkpad.
 
-### Support my open source work
-
-In case this article was useful, or you want to honor the effort I put into one of the hundreds of pull-requests to PHPStan, please [considering sponsoring my open-source efforts 💕](https://github.com/sponsors/staabm).
