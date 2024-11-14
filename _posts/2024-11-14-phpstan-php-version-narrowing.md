@@ -61,6 +61,7 @@ parameters:
 ```
 
 With this information at hand, we are now able to detect 'always true' and 'always false' conditions in code like
+
 ```php
 if (PHP_MAJOR_VERSION === 7) {}
 
