@@ -24,6 +24,8 @@ These numbers are not scientific, but give us a rough idea.
 
 #### Running macOS
 
+##### no opcache
+
 ```
 $ php -v
 PHP 8.3.13 (cli) (built: Oct 22 2024 18:39:14) (NTS)
@@ -38,6 +40,8 @@ Apple MacBook M4 Pro (2024), 14‑Core CPU, 1 TB SSD, 48 GB RAM (on full battery
 - 57-59 seconds
 
 -> In my experience the performance of "on battery" vs. "plugged in" is not that different on a MacBook.
+
+##### with opcache
 
 ```
 $ php -v
