@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [symplify/phpstan-extensions](https://github.com/symplify/phpstan-extensions) (4 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix replay](https://github.com/staabm/phpstan-dba/pull/714) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Re-record](https://github.com/staabm/phpstan-dba/pull/713) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Added ConditionalJoin interface](https://github.com/SQLFTW/sqlftw/pull/27) on [SQLFTW/sqlftw](https://github.com/SQLFTW/sqlftw) (1 day ago)
 - [Remove dead PHP_VERSION_ID check](https://github.com/staabm/phpstan-dba/pull/712) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
@@ -54,7 +55,6 @@
 - [drop phpstan/phpstan-php-parser](https://github.com/alcohol/iso4217/pull/38) on [alcohol/iso4217](https://github.com/alcohol/iso4217) (4 days ago)
 - [Remove obsolete phpstan-php-parser dependency](https://github.com/staabm/phpstan-dba/pull/710) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [Min requirement is PHPStan 2.0](https://github.com/staabm/phpstan-todo-by/pull/125) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
-- [Support PHPStan 2.x](https://github.com/TomasVotruba/unused-public/pull/134) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
