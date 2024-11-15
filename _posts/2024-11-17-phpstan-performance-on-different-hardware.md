@@ -16,10 +16,10 @@ The idea was to get a faster feedback loop when working on complex stuff like PH
 
 ### How much impact has hardware on PHPStan performance?
 
-To get an idea what to expect when running different hardware, lets collect some data-points to see how much impact the hardware has on PHPStan performance.
+Lets find out what we can expect when running different hardware, lets collect some data-points to see how much impact the hardware has on PHPStan performance.
 
 For the sake of this article we compare running [PHPStan@cc4eb92](https://github.com/phpstan/phpstan-src/commit/cc4eb92285fd8c96e595437cb9c593553bb5e957).
-We are running `time make` from within the terminal/console and the project root 5 times. We do so after a fresh bootup and without any other applications running.
+We are running `time make` from within the terminal/console and the project root 5 times. We do so after a fresh boot-up and without any other applications running.
 
 #### Running macOS
 
