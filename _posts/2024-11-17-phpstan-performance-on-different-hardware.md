@@ -24,6 +24,8 @@ These numbers are not scientific, but give us a rough idea.
 
 #### Running macOS
 
+##### no opcache
+
 ```
 $ php -v
 PHP 8.3.13 (cli) (built: Oct 22 2024 18:39:14) (NTS)
@@ -39,6 +41,8 @@ Apple MacBook M4 Pro (2024), 14‑Core CPU, 1 TB SSD, 48 GB RAM (on full battery
 
 -> In my experience the performance of "on battery" vs. "plugged in" is not that different on a MacBook.
 
+##### with opcache
+
 ```
 $ php -v
 PHP 8.3.13 (cli) (built: Oct 22 2024 18:39:14) (NTS)
@@ -52,6 +56,8 @@ Apple MacBook M2 Pro (2023), 12‑Core CPU, 1 TB SSD, 16 GB RAM (plugged in)
 
 Apple MacBook M2 Pro (2023), 12‑Core CPU, 1 TB SSD, 16 GB RAM (on full battery)
 - 75-85 seconds
+
+-> opcache on the CLI does not affect the app, as long as you don't use filebased caching.
 
 #### Running windows11x64 23H2
 
