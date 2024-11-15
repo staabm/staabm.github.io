@@ -57,6 +57,8 @@ Apple MacBook M2 Pro (2023), 12‑Core CPU, 1 TB SSD, 16 GB RAM (plugged in)
 Apple MacBook M2 Pro (2023), 12‑Core CPU, 1 TB SSD, 16 GB RAM (on full battery)
 - 75-85 seconds
 
+-> opcache on the CLI does not affect the app, as long as you don't use filebased caching.
+
 #### Running windows11x64 23H2
 
 ```
