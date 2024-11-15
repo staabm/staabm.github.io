@@ -14,3 +14,7 @@ extend-ignore-re = [
 [default.extend-identifiers]
 # Typos
 "Github" = "GitHub"
+
+# Don't correct this words
+[default.extend-words]
+Symplify = "Symplify"

@@ -23,7 +23,7 @@ var_dump((bool) '0'); // bool(false)
 var_dump((bool) '1'); // bool(true)
 ```
 
-there are some really weird cases, e.g. when checking for emptyness:
+there are some really weird cases, e.g. when checking for emptiness:
 ```php
 var_dump(empty('')); // bool(true)
 var_dump(empty('0')); // bool(true)
