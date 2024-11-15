@@ -38,6 +38,20 @@ Apple MacBook M4 Pro (2024), 14‑Core CPU, 1 TB SSD, 48 GB RAM (on full battery
 
 -> In my experience the performance of "on battery" vs. "plugged in" is not that different on a MacBook.
 
+```
+$ php -v
+PHP 8.3.13 (cli) (built: Oct 22 2024 18:39:14) (NTS)
+Copyright (c) The PHP Group
+Zend Engine v4.3.13, Copyright (c) Zend Technologies
+    with Zend OPcache v8.3.13, Copyright (c), by Zend Technologies
+```
+
+Apple MacBook M2 Pro (2023), 12‑Core CPU, 1 TB SSD, 16 GB RAM (plugged in)
+- 76-82 seconds
+
+Apple MacBook M2 Pro (2023), 12‑Core CPU, 1 TB SSD, 16 GB RAM (on full battery)
+- 75-85 seconds
+
 #### Running windows11x64 23H2
 
 ```
