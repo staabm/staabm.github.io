@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix types](https://github.com/staabm/phpstan-dba/pull/715) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Fix replay](https://github.com/staabm/phpstan-dba/pull/714) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Re-record](https://github.com/staabm/phpstan-dba/pull/713) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Added ConditionalJoin interface](https://github.com/SQLFTW/sqlftw/pull/27) on [SQLFTW/sqlftw](https://github.com/SQLFTW/sqlftw) (1 day ago)
@@ -54,7 +55,6 @@
 - [drop phpstan/phpstan-php-parser](https://github.com/ebrana/elasticsearch-bundle/pull/6) on [ebrana/elasticsearch-bundle](https://github.com/ebrana/elasticsearch-bundle) (4 days ago)
 - [drop phpstan/phpstan-php-parser](https://github.com/alcohol/iso4217/pull/38) on [alcohol/iso4217](https://github.com/alcohol/iso4217) (4 days ago)
 - [Remove obsolete phpstan-php-parser dependency](https://github.com/staabm/phpstan-dba/pull/710) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [Min requirement is PHPStan 2.0](https://github.com/staabm/phpstan-todo-by/pull/125) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
