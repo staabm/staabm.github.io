@@ -17,4 +17,4 @@ extend-ignore-re = [
 
 # Don't correct this words
 [default.extend-words]
-Simplify = "Simplify"
+Symplify = "Symplify"
