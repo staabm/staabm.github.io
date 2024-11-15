@@ -53,5 +53,4 @@ Lenovo Thinkpad P1 Gen 5, Intel Core i9-12900H, 1 TB SSD, 32 GB RAM (on full bat
 Lenovo Thinkpad P1 Gen 5, Intel Core i9-12900H, 1 TB SSD, 32 GB RAM (plugged in)
 - 110-120 seconds
 
--> In my experience the performance of "on battery" vs. "plugged in" is not that different on this Thinkpad.
-
+-> In my experience the performance of "on battery" vs. "plugged in" is marginal different on a Thinkpad.
