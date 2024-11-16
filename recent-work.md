@@ -40,6 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Enable PHPStan bleeding edge](https://github.com/sebastianbergmann/phpunit/pull/6039) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [Fix type errors in PhptTestCase](https://github.com/sebastianbergmann/phpunit/pull/6038) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [Fix PHPStan errors on properties](https://github.com/sebastianbergmann/phpunit/pull/6037) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [fix typos in @phpstan-assert](https://github.com/sebastianbergmann/phpunit/pull/6036) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Enable PHPStan bleeding edge](https://github.com/sebastianbergmann/phpunit/pull/6035) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Fix PHPStan errors on properties](https://github.com/sebastianbergmann/phpunit/pull/6034) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Fix type errors in PhptTestCase](https://github.com/sebastianbergmann/phpunit/pull/6033) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
@@ -51,10 +55,6 @@
 - [Re-record](https://github.com/staabm/phpstan-dba/pull/713) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [Added ConditionalJoin interface](https://github.com/SQLFTW/sqlftw/pull/27) on [SQLFTW/sqlftw](https://github.com/SQLFTW/sqlftw) (2 days ago)
 - [Remove dead PHP_VERSION_ID check](https://github.com/staabm/phpstan-dba/pull/712) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
-- [PHPStan bug](https://github.com/staabm/phpstan-dba/pull/711) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
-- [Add phpstan/phpstan-deprecation-rules](https://github.com/composer/pcre/pull/41) on [composer/pcre](https://github.com/composer/pcre) (2 days ago)
-- [Create 2024-11-17-phpstan-performance-on-different-hardware.md](https://github.com/staabm/staabm.github.io/pull/119) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
-- [Create 2024-11-14-phpstan-php-version-narrowing.md](https://github.com/staabm/staabm.github.io/pull/118) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
