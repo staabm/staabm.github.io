@@ -40,6 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Enable PHPStan bleeding edge](https://github.com/sebastianbergmann/phpunit/pull/6035) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [Fix PHPStan errors on properties](https://github.com/sebastianbergmann/phpunit/pull/6034) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [Fix type errors in PhptTestCase](https://github.com/sebastianbergmann/phpunit/pull/6033) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [fix typos in @phpstan-assert](https://github.com/sebastianbergmann/phpunit/pull/6031) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Update 2024-11-17-phpstan-performance-on-different-hardware.md](https://github.com/staabm/staabm.github.io/pull/121) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [fix typos](https://github.com/staabm/staabm.github.io/pull/120) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [Fix types](https://github.com/staabm/phpstan-dba/pull/715) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
@@ -51,10 +55,6 @@
 - [Add phpstan/phpstan-deprecation-rules](https://github.com/composer/pcre/pull/41) on [composer/pcre](https://github.com/composer/pcre) (2 days ago)
 - [Create 2024-11-17-phpstan-performance-on-different-hardware.md](https://github.com/staabm/staabm.github.io/pull/119) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [Create 2024-11-14-phpstan-php-version-narrowing.md](https://github.com/staabm/staabm.github.io/pull/118) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
-- [Utilize phpVersion.min&#43;max in VersionCompareFunctionDynamicReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/3631) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Fix build](https://github.com/phpstan/phpstan-src/pull/3630) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Refactor ComposerPhpVersionFactory, ConstantResolver](https://github.com/phpstan/phpstan-src/pull/3627) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [drop phpstan/phpstan-php-parser](https://github.com/ebrana/elasticsearch-bundle/pull/6) on [ebrana/elasticsearch-bundle](https://github.com/ebrana/elasticsearch-bundle) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
