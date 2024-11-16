@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix array-shape descriptions with special chars](https://github.com/phpstan/phpstan-src/pull/3639) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Enable PHPStan bleeding edge](https://github.com/sebastianbergmann/phpunit/pull/6040) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Enable PHPStan bleeding edge](https://github.com/sebastianbergmann/phpunit/pull/6039) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Fix type errors in PhptTestCase](https://github.com/sebastianbergmann/phpunit/pull/6038) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
@@ -54,7 +55,6 @@
 - [Fix types](https://github.com/staabm/phpstan-dba/pull/715) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Fix replay](https://github.com/staabm/phpstan-dba/pull/714) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Re-record](https://github.com/staabm/phpstan-dba/pull/713) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
-- [Added ConditionalJoin interface](https://github.com/SQLFTW/sqlftw/pull/27) on [SQLFTW/sqlftw](https://github.com/SQLFTW/sqlftw) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
