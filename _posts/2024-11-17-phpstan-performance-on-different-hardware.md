@@ -75,3 +75,27 @@ Lenovo Thinkpad P1 Gen 5, Intel Core i9-12900H, 1 TB SSD, 32 GB RAM (plugged in)
 - 110-120 seconds
 
 -> In my experience the performance of "on battery" vs. "plugged in" is marginal different on a Thinkpad.
+
+### Closer look at Apple MacBook M4 Pro (2024), 14‑Core CPU, 1 TB SSD, 48 GB RAM
+
+```
+$ php -v
+PHP 8.3.13 (cli) (built: Oct 22 2024 18:39:14) (NTS)
+Copyright (c) The PHP Group
+Zend Engine v4.3.13, Copyright (c) Zend Technologies
+```
+
+Still on PHPStan@cc4eb92 but looking at the separate `make` targets:
+
+`time make cs`
+
+- 290-310 milli-seconds
+
+`time make tests`
+
+- 37-45 seconds
+
+`time make phpstan`
+
+- 18-19 seconds
+
