@@ -59,12 +59,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.0.2](https://github.com/phpstan/phpstan/releases/tag/2.0.2) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.3](https://github.com/staabm/phpstan-dba/releases/tag/0.3) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.1](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.1) (2 days ago)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.10](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.10) (4 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.2.0-RC1) (4 days ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.3.2](https://github.com/composer/pcre/releases/tag/3.3.2) (5 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.0.1](https://github.com/phpstan/phpstan/releases/tag/2.0.1) (6 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.6.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.6.0) (6 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.8.2](https://github.com/shopware/shopware/releases/tag/v6.6.8.2) (6 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.2](https://github.com/staabm/phpstan-todo-by/releases/tag/0.2) (6 days ago)
