@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement Scope-&gt;getPhpVersion()](https://github.com/phpstan/phpstan-src/pull/3642) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [FunctionCallParametersCheck: Add native parameter type](https://github.com/phpstan/phpstan-src/pull/3641) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Revert &#34;Disable tomasvotruba/unused-public for now&#34;](https://github.com/staabm/phpstan-dba/pull/717) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Hack new PHPStan 2.x compatible ReflectionCache](https://github.com/staabm/phpstan-dba/pull/716) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Fix array-shape descriptions with special chars](https://github.com/phpstan/phpstan-src/pull/3639) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Fix type errors in PhptTestCase](https://github.com/sebastianbergmann/phpunit/pull/6033) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [fix typos in @phpstan-assert](https://github.com/sebastianbergmann/phpunit/pull/6031) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Update 2024-11-17-phpstan-performance-on-different-hardware.md](https://github.com/staabm/staabm.github.io/pull/121) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
-- [fix typos](https://github.com/staabm/staabm.github.io/pull/120) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
-- [Fix types](https://github.com/staabm/phpstan-dba/pull/715) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
