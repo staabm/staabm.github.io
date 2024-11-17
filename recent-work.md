@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [ebrana/elasticsearch-bundle](https://github.com/ebrana/elasticsearch-bundle) (6 days ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (6 days ago)
 - [alcohol/iso4217](https://github.com/alcohol/iso4217) (6 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (6 days ago)
 - [symplify/phpstan-extensions](https://github.com/symplify/phpstan-extensions) (6 days ago)
+- [ebrana/elasticsearch-bundle](https://github.com/ebrana/elasticsearch-bundle) (6 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Revert &#34;Disable tomasvotruba/unused-public for now&#34;](https://github.com/staabm/phpstan-dba/pull/717) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Hack new PHPStan 2.x compatible ReflectionCache](https://github.com/staabm/phpstan-dba/pull/716) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Fix array-shape descriptions with special chars](https://github.com/phpstan/phpstan-src/pull/3639) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Enable PHPStan bleeding edge](https://github.com/sebastianbergmann/phpunit/pull/6040) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
@@ -54,11 +55,11 @@
 - [Update 2024-11-17-phpstan-performance-on-different-hardware.md](https://github.com/staabm/staabm.github.io/pull/121) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [fix typos](https://github.com/staabm/staabm.github.io/pull/120) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [Fix types](https://github.com/staabm/phpstan-dba/pull/715) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
-- [Fix replay](https://github.com/staabm/phpstan-dba/pull/714) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.3](https://github.com/staabm/phpstan-dba/releases/tag/0.3) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.1](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.1) (2 days ago)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.10](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.10) (4 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.2.0-RC1) (4 days ago)
@@ -68,4 +69,3 @@
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.8.2](https://github.com/shopware/shopware/releases/tag/v6.6.8.2) (6 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.2](https://github.com/staabm/phpstan-todo-by/releases/tag/0.2) (6 days ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) - [2.0.0](https://github.com/phpstan/phpstan-webmozart-assert/releases/tag/2.0.0) (6 days ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.0](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.0) (6 days ago)
