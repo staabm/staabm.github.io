@@ -69,9 +69,11 @@ Zend Engine v4.2.12, Copyright (c) Zend Technologie
 ```
 
 Lenovo Thinkpad P1 Gen 5, Intel Core i9-12900H, 1 TB SSD, 32 GB RAM (on full battery)
+_Microsoft defender XDR hardened_
 - 115-120 seconds
 
 Lenovo Thinkpad P1 Gen 5, Intel Core i9-12900H, 1 TB SSD, 32 GB RAM (plugged in)
+_Microsoft defender XDR hardened_
 - 110-120 seconds
 
 -> In my experience the performance of "on battery" vs. "plugged in" is marginal different on a Thinkpad.
