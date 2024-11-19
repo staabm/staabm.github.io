@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
-- [alcohol/iso4217](https://github.com/alcohol/iso4217) (1 week ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
-- [ebrana/elasticsearch-bundle](https://github.com/ebrana/elasticsearch-bundle) (1 week ago)
 - [symplify/phpstan-extensions](https://github.com/symplify/phpstan-extensions) (1 week ago)
+- [alcohol/iso4217](https://github.com/alcohol/iso4217) (1 week ago)
+- [ebrana/elasticsearch-bundle](https://github.com/ebrana/elasticsearch-bundle) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.43.0](https://github.com/Roave/BetterReflection/releases/tag/6.43.0) (today)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v0.8.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v0.8.0) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.0.2](https://github.com/phpstan/phpstan/releases/tag/2.0.2) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.3](https://github.com/staabm/phpstan-dba/releases/tag/0.3) (2 days ago)
@@ -66,6 +67,5 @@
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.10](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.10) (6 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.2.0-RC1) (6 days ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.3.2](https://github.com/composer/pcre/releases/tag/3.3.2) (1 week ago)
+- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.21.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.21.1) (1 week ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.6.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.6.0) (1 week ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.8.2](https://github.com/shopware/shopware/releases/tag/v6.6.8.2) (1 week ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.2](https://github.com/staabm/phpstan-todo-by/releases/tag/0.2) (1 week ago)
