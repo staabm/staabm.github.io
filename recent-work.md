@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.35](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.35) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.43.0](https://github.com/Roave/BetterReflection/releases/tag/6.43.0) (today)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v0.8.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v0.8.0) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.0.2](https://github.com/phpstan/phpstan/releases/tag/2.0.2) (2 days ago)
@@ -68,4 +69,3 @@
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.2.0-RC1) (6 days ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.3.2](https://github.com/composer/pcre/releases/tag/3.3.2) (1 week ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.21.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.21.1) (1 week ago)
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.6.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.6.0) (1 week ago)
