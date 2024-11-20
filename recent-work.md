@@ -8,10 +8,10 @@
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
-- [symplify/phpstan-extensions](https://github.com/symplify/phpstan-extensions) (1 week ago)
 - [alcohol/iso4217](https://github.com/alcohol/iso4217) (1 week ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 - [ebrana/elasticsearch-bundle](https://github.com/ebrana/elasticsearch-bundle) (1 week ago)
+- [symplify/phpstan-extensions](https://github.com/symplify/phpstan-extensions) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 
 
