@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (1 day ago)
 - [composer/pcre](https://github.com/composer/pcre) (2 days ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) (3 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
-- [ebrana/elasticsearch-bundle](https://github.com/ebrana/elasticsearch-bundle) (1 week ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 - [symplify/phpstan-extensions](https://github.com/symplify/phpstan-extensions) (1 week ago)
+- [alcohol/iso4217](https://github.com/alcohol/iso4217) (1 week ago)
 
 
 #### 📜 My recent blog posts
