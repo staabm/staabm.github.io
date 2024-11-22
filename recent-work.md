@@ -10,8 +10,8 @@
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 - [symplify/phpstan-extensions](https://github.com/symplify/phpstan-extensions) (1 week ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 - [alcohol/iso4217](https://github.com/alcohol/iso4217) (1 week ago)
 
 
