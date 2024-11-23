@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [twigstan/twigstan](https://github.com/twigstan/twigstan) - [0.0.1](https://github.com/twigstan/twigstan/releases/tag/0.0.1) (today)
+- [twigstan/twigstan](https://github.com/twigstan/twigstan) - [0.0.2](https://github.com/twigstan/twigstan/releases/tag/0.0.2) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.36](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.36) (4 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.43.0](https://github.com/Roave/BetterReflection/releases/tag/6.43.0) (4 days ago)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v0.8.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v0.8.0) (5 days ago)
