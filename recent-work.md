@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Utilize PHPStan Type interface in TypeNormalizer](https://github.com/rectorphp/rector-src/pull/6478) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [CI: Enable PHPStan](https://github.com/staabm/cross-repo-unused-methods/pull/1) on [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (3 days ago)
 - [Support for `@pure-unless-parameter-passed`](https://github.com/phpstan/phpdoc-parser/pull/259) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (5 days ago)
 - [Implement Scope-&gt;getPhpVersion()](https://github.com/phpstan/phpstan-src/pull/3642) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
@@ -54,7 +55,6 @@
 - [fix typos in @phpstan-assert](https://github.com/sebastianbergmann/phpunit/pull/6036) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [Enable PHPStan bleeding edge](https://github.com/sebastianbergmann/phpunit/pull/6035) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [Fix PHPStan errors on properties](https://github.com/sebastianbergmann/phpunit/pull/6034) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [Fix type errors in PhptTestCase](https://github.com/sebastianbergmann/phpunit/pull/6033) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
