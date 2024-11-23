@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [composer/pcre](https://github.com/composer/pcre) (3 days ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) (4 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
-- [symplify/phpstan-extensions](https://github.com/symplify/phpstan-extensions) (1 week ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [ebrana/elasticsearch-bundle](https://github.com/ebrana/elasticsearch-bundle) (1 week ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
-- [alcohol/iso4217](https://github.com/alcohol/iso4217) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use Type-&gt;getIterableKeyType() over ArrayType-&gt;getKeyType()](https://github.com/rectorphp/rector-src/pull/6480) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [Use Type-&gt;getIterableValueType() over ArrayType-&gt;getItemType()](https://github.com/rectorphp/rector-src/pull/6479) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Utilize PHPStan Type interface in TypeNormalizer](https://github.com/rectorphp/rector-src/pull/6478) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [CI: Enable PHPStan](https://github.com/staabm/cross-repo-unused-methods/pull/1) on [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (3 days ago)
 - [Support for `@pure-unless-parameter-passed`](https://github.com/phpstan/phpdoc-parser/pull/259) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (5 days ago)
@@ -53,8 +55,6 @@
 - [Fix type errors in PhptTestCase](https://github.com/sebastianbergmann/phpunit/pull/6038) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [Fix PHPStan errors on properties](https://github.com/sebastianbergmann/phpunit/pull/6037) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [fix typos in @phpstan-assert](https://github.com/sebastianbergmann/phpunit/pull/6036) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [Enable PHPStan bleeding edge](https://github.com/sebastianbergmann/phpunit/pull/6035) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [Fix PHPStan errors on properties](https://github.com/sebastianbergmann/phpunit/pull/6034) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
