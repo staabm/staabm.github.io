@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [non-capturing catch support-detection is scope php-version dependent](https://github.com/phpstan/phpstan-src/pull/3663) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Named argument detection is scope php-version dependent](https://github.com/phpstan/phpstan-src/pull/3662) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Scope-&gt;getPhpVersion() allows array via phpVersion NEON config](https://github.com/phpstan/phpstan-src/pull/3659) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Use Type-&gt;getIterableKeyType() over ArrayType-&gt;getKeyType()](https://github.com/rectorphp/rector-src/pull/6480) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix array-shape descriptions with special chars](https://github.com/phpstan/phpstan-src/pull/3639) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Enable PHPStan bleeding edge](https://github.com/sebastianbergmann/phpunit/pull/6040) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [Enable PHPStan bleeding edge](https://github.com/sebastianbergmann/phpunit/pull/6039) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [Fix type errors in PhptTestCase](https://github.com/sebastianbergmann/phpunit/pull/6038) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
