@@ -59,7 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [twigstan/twigstan](https://github.com/twigstan/twigstan) - [0.1.0](https://github.com/twigstan/twigstan/releases/tag/0.1.0) (today)
+- [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [1.0.0](https://github.com/johnbillion/wp-compat/releases/tag/1.0.0) (today)
+- [twigstan/twigstan](https://github.com/twigstan/twigstan) - [0.1.1](https://github.com/twigstan/twigstan/releases/tag/0.1.1) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.65.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.65.0) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.36](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.36) (6 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.43.0](https://github.com/Roave/BetterReflection/releases/tag/6.43.0) (6 days ago)
@@ -68,4 +69,3 @@
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.3](https://github.com/staabm/phpstan-dba/releases/tag/0.3) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.1](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.1) (1 week ago)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.10](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.10) (1 week ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.2.0-RC1) (1 week ago)
