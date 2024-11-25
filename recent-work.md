@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement SocketCreateReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/3667) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Scope: use `scope-&gt;getConstant` instead](https://github.com/phpstan/phpstan-src/pull/3666) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [non-capturing catch support-detection is scope php-version dependent](https://github.com/phpstan/phpstan-src/pull/3663) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Named argument detection is scope php-version dependent](https://github.com/phpstan/phpstan-src/pull/3662) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Scope-&gt;getPhpVersion() allows array via phpVersion NEON config](https://github.com/phpstan/phpstan-src/pull/3659) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -53,14 +55,12 @@
 - [Revert &#34;Disable tomasvotruba/unused-public for now&#34;](https://github.com/staabm/phpstan-dba/pull/717) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [Hack new PHPStan 2.x compatible ReflectionCache](https://github.com/staabm/phpstan-dba/pull/716) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [Fix array-shape descriptions with special chars](https://github.com/phpstan/phpstan-src/pull/3639) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Enable PHPStan bleeding edge](https://github.com/sebastianbergmann/phpunit/pull/6040) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [Enable PHPStan bleeding edge](https://github.com/sebastianbergmann/phpunit/pull/6039) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [twigstan/twigstan](https://github.com/twigstan/twigstan) - [0.1.0](https://github.com/twigstan/twigstan/releases/tag/0.1.0) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.65.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.65.0) (today)
-- [twigstan/twigstan](https://github.com/twigstan/twigstan) - [0.0.2](https://github.com/twigstan/twigstan/releases/tag/0.0.2) (2 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.36](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.36) (6 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.43.0](https://github.com/Roave/BetterReflection/releases/tag/6.43.0) (6 days ago)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v0.8.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v0.8.0) (1 week ago)
