@@ -397,7 +397,7 @@ function arrayAccess(\ArrayAccess $arr, $mixed) {
 }
 ```
 
-#### Immediate-invoked-function-expression (IFFE)
+#### Immediate-invoked-function-expression (IIFE)
 
 A pattern know from javascript projects and sometimes also popping up in PHP code is immediately-invoked-function-expressions.
 Type inference improvements for this pattern in particular was implemented to support [TwigStan](https://github.com/twigstan/twigstan):
