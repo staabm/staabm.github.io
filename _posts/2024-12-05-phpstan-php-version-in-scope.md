@@ -36,7 +36,7 @@ There is a dedicated blog post about this topic already: [PHPStan PHP Version Na
 
 #### So what's next?
 
-The current plan is to make PHPStan aware of a narrowed PHP-Version within the current scope and utilize this information in type inference and error reporting.
+The current plan is to make PHPStan aware of a narrowed [PHP-Version within the current scope](https://github.com/phpstan/phpstan-src/pull/3642) and utilize this information in type inference and error reporting.
 This means while analyzing code we no longer use just use a fixed PHP version configured in e.g. PHPStan NEON configuration, but also narrow it further down based on the code at hand.
 
 Let me give you a few examples which currently don't work well, but should work much better after the project evolves:
