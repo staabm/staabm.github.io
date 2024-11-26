@@ -12,19 +12,19 @@ ogImage:
 
 
 In a recent article I was summarizing the problems and results of my work on [`mixed` types in PHPStan](https://staabm.github.io/2024/11/26/phpstan-mixed-types.html).
-Now we will have a look what comes next.
+Now we will have a look at what comes next.
 
 ### My new PHPStan focus: multi-phpversion support
 
 For a few years, I am now contributing to PHPStan with a focus on improving the type inference,
 which means I am looking into code where `mixed` types are involved and how I can improve the situation.
 
-In my opinion we are in a pretty good `mixed` type shape the most common problems, I can think of seem to be addressed.
-For sure new examples will show up and we will continue to improve the situation,
-but I am no longer prioritizing `mixed` problems over other things in my PHPStan work.
+In my opinion we are in a pretty good `mixed` type shape, as the most common problems I can think of seem to be addressed.
+For sure new examples will show up, and we will continue to improve the situation.
+I am no longer prioritizing `mixed` problems over other things in my PHPStan work, though.
 
 So what's ahead? My new focus area will be improving the PHPStan story around multi-phpversion supporting code.
-This means focusing on stuff which is different between different PHP versions and on tasks common to projects which are in the process of a PHP version upgrade.
+This means focusing on stuff which is different between different PHP versions and on tasks/hurdles common to projects which are in the process of a PHP version upgrade.
 
 #### Narrow types by PHP_VERSION_ID
 
