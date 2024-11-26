@@ -42,7 +42,7 @@ This means while analyzing code we no longer use just use a fixed PHP version co
 Let me give you a few examples which currently don't work well, but should work much better after the project evolves:
 
 At the moment PHPStan will report null coalescing errors in your code only if you narrow down the PHP version by configuration.
-This means you e.g. defined the PHP version range by NEON config, `composer.json` (as of PHPStan 2+) or implicitly by the PHP runtime version you are using for PHPStan.
+This means you e.g. defined the PHP version or version-range by NEON config, `composer.json` (as of PHPStan 2+) or implicitly by the PHP runtime version you are using for PHPStan.
 Running the below example on e.g. with PHP8 will not yield any errors. As of now you would need e.g. a separate CI job configured for PHPStan 7.3 or lower to catch the error.
 In the future, I want PHPStan catch this error even when running on PHP8 or later.
 
@@ -56,7 +56,7 @@ if (PHP_VERSION_ID < 70400) {
 
 ```
 
-Currently PHPStan is using a single knowledge base for return and parameter types of functions and methods.
+Currently, PHPStan is using a single knowledge base for return and parameter types of functions and methods.
 This information is narrowed down by PHPStan Extensions when e.g. parameter values are known at static analysis time.
 In the future I want to improve the type inference e.g. for cases where PHPStan used `resource` types in the past, but use class/object types in more modern versions:
 
@@ -65,14 +65,14 @@ In the future I want to improve the type inference e.g. for cases where PHPStan 
 
 class MySocket
 {
-	public function create(): \Socket
-	{
-		if (PHP_VERSION_ID < 80000) {
-		    throw new RuntimeException('PHP 8.0 required');
-		}
+  public function create(): \Socket
+  {
+    if (PHP_VERSION_ID < 80000) {
+        throw new RuntimeException('PHP 8.0 required');
+    }
 
-        return socket_create(AF_INET, SOCK_DGRAM, SOL_UDP); // at this this can only return `\Socket|false` but PHPStan sometimes mixes it up with `resource`
-	}
+    return socket_create(AF_INET, SOCK_DGRAM, SOL_UDP); // can only return `\Socket|false` but PHPStan sometimes mixes it up with `resource`
+  }
 }
 
 ```
@@ -82,6 +82,6 @@ These are only a few examples of my current state of mind. I am pretty sure we w
 
 ### How can you support my effort?
 
-I think working on this thing will be a multi month effort and will at least take dozens of pull requests.
-If you are hit by one of the problems I described above and feel the pain
-you might be interested in [sponsoring my free time efforts](https://github.com/sponsors/staabm), so I can spend more time on this problem.
+I think working on this thing will be a multi month effort and will at least take several dozens of pull requests.
+
+If you are hit by one of the problems I described above and feel the pain you might be interested in [sponsoring my free time efforts](https://github.com/sponsors/staabm), so I can spend more time on this problem.
