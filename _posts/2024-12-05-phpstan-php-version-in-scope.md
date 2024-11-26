@@ -41,7 +41,7 @@ This means while analyzing code we no longer use just use a fixed PHP version co
 
 Let me give you a few examples which currently don't work well, but should work much better after the project evolves:
 
-At the moment PHPStan will report null coalescing errors in your code only if you narrow down the PHP version by configuration.
+At the time of writing PHPStan 2.0.2 will report null coalescing errors in your code only if you narrow down the PHP version by configuration.
 This means you e.g. defined the PHP version or version-range by NEON config, `composer.json` (as of PHPStan 2+) or implicitly by the PHP runtime version you are using for PHPStan.
 Running the below example on e.g. with PHP8 will not yield any errors. As of now you would need e.g. a separate CI job configured for PHPStan 7.3 or lower to catch the error.
 In the future, I want PHPStan catch this error even when running on PHP8 or later.
@@ -60,7 +60,6 @@ Currently, PHPStan is using a single knowledge base for return and parameter typ
 This information is narrowed down by PHPStan Extensions when e.g. parameter values are known at static analysis time.
 In the future I want to improve the type inference e.g. for cases where PHPStan used `resource` types in the past, but use class/object types in more modern versions:
 
-
 ```php
 
 class MySocket
@@ -78,7 +77,6 @@ class MySocket
 ```
 
 These are only a few examples of my current state of mind. I am pretty sure we will shape new ideas after iterating on the problems involved and the solutions we come up with.
-
 
 ### How can you support my effort?
 
