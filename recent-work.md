@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.37](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.37) (today)
 - [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [1.0.0](https://github.com/johnbillion/wp-compat/releases/tag/1.0.0) (1 day ago)
 - [twigstan/twigstan](https://github.com/twigstan/twigstan) - [0.1.1](https://github.com/twigstan/twigstan/releases/tag/0.1.1) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.65.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.65.0) (1 day ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.36](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.36) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.43.0](https://github.com/Roave/BetterReflection/releases/tag/6.43.0) (1 week ago)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v0.8.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v0.8.0) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.0.2](https://github.com/phpstan/phpstan/releases/tag/2.0.2) (1 week ago)
