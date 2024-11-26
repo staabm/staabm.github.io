@@ -483,6 +483,8 @@ function main4(mixed $c): void{
 A different take was used to improve type inference of the `$matches` by-ref parameter of `preg_match()` based on a REGEX abstract syntax tree.
 It's a complex story on its own with a [dedicated array shape match inference article](https://staabm.github.io/2024/07/05/array-shapes-for-preg-match-matches.html).
 
+Similar improvements landed for the `printf()` family of functions, see [PHPStan sprintf/sscanf type inference](https://staabm.github.io/2022/06/23/phpstan-sprintf-sscanf-inference.html).
+
 Last but not least a PHPStan extension was created which introspects the database schema
 to implement a type inference for the database access layer via SQL abstract syntax tree.
 This is covered by a [series of blog posts](https://staabm.github.io/archive.html#phpstan-dba).
