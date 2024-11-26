@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 - [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (4 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [composer/pcre](https://github.com/composer/pcre) (6 days ago)
