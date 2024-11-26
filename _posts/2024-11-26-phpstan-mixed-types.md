@@ -26,7 +26,7 @@ but also look at PHPStan extensions work which was helpful along the way.
 #### Narrow types from if-conditions
 
 What most situations we are looking at have in common is, that we have very little information at the beginning.
-One useful tool to get information is a subtractable type, which PHPStan is using for `mixed` for a long time already.
+One useful tool to handle that is a subtractable type, which PHPStan is using for `mixed` for a long time already.
 This means we don't describe what we know about a type, but instead we narrow it down by what we know it is not:
 
 ```php
@@ -45,7 +45,7 @@ function doFoo($mixed) {
 
 ```
 
-The subtractable type narrowing is used in PHPStan strict-comparisons (e.g. `===` or `!==`) and for some very specific but often used code patterns.
+The subtractable type narrowing is used in PHPStan strict-comparisons (e.g. `===` or `!==`) and for some very specific but often used code patterns already.
 I was looking at cases where it was still missing like, type-casts in conditions:
 
 ```php
@@ -190,7 +190,7 @@ public function stringTypes(string $s, $nonES, $falsyString): void
 
 ```
 
-A pretty complex way of looking at code was to think about what `isset($array[$key])` means for the type of `$key`:
+A pretty complex field was to think about what `isset($array[$key])` means for the type of `$key`:
 
 ```php
 /**
@@ -480,18 +480,19 @@ function main4(mixed $c): void{
 
 #### Utilizing information outside the PHP Source
 
-A different take was used to improve type inference of the `$matches` by-ref parameter of `preg_match()` based on a REGEX-Ast.
+A different take was used to improve type inference of the `$matches` by-ref parameter of `preg_match()` based on a REGEX abstract syntax tree.
 It's a complex story on its own with a [dedicated array shape match inference article](https://staabm.github.io/2024/07/05/array-shapes-for-preg-match-matches.html).
 
 Last but not least a PHPStan extension was created which introspects the database schema
-to implement a type inference for sql queries and the SQL AST. This is covered by a [series of blog posts](https://staabm.github.io/archive.html#phpstan-dba).
+to implement a type inference for the database access layer via SQL abstract syntax tree.
+This is covered by a [series of blog posts](https://staabm.github.io/archive.html#phpstan-dba).
 
 
 ### After one focus area is before the next
 
 This article highlighted only a few of the many contributions I made to PHPStan in the [last](https://staabm.github.io/2023/12/07/contribution-summary-2023.html) [years](https://staabm.github.io/2022/12/20/2022-wrap-up.html).
 
-A big thank you goes out to [all my sponsors and supporters](https://github.com/sponsors/staabm), who make it possible for me to work on PHPStan and other open-source projects.
+A big thank-you goes out to [all my sponsors and supporters](https://github.com/sponsors/staabm), who make it possible for me to work on PHPStan and other open-source projects.
 
 While closing this type inference focus chapter, I am looking forward to the next challenges.
 What comes up next will be the topic of a future blog post.
