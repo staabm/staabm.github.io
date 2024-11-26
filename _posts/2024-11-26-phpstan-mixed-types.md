@@ -488,7 +488,7 @@ It's a complex story on its own with a [dedicated array shape match inference ar
 Similar improvements landed for the `printf()` family of functions, see [PHPStan sprintf/sscanf type inference](https://staabm.github.io/2022/06/23/phpstan-sprintf-sscanf-inference.html).
 
 Last but not least a PHPStan extension named `phpstan-dba` was created which introspects the database schema
-to implement a type inference for the database access layer via SQL abstract syntax tree.
+to implement type inference for the database access layer via SQL abstract syntax tree.
 This is covered by a [series of blog posts](https://staabm.github.io/archive.html#phpstan-dba).
 
 
