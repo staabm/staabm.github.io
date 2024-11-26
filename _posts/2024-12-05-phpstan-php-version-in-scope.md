@@ -20,30 +20,30 @@ For a few years, I am now contributing to PHPStan with a focus on improving the 
 which means I am looking into code where `mixed` types are involved and how I can improve the situation.
 
 In my opinion we are in a pretty good `mixed` type shape, as the most common problems I can think of seem to be addressed.
-For sure new examples will show up, and we will continue to improve the situation.
+For sure new examples will show up, and we still will and have to continue to improve the situation.
 I am no longer prioritizing `mixed` problems over other things in my PHPStan work, though.
 
 So what's ahead? My new focus area will be improving the PHPStan story around multi-phpversion supporting code.
-This means focusing on stuff which is different between different PHP versions and on tasks/hurdles common to projects which are in the process of a PHP version upgrade.
+This means focusing on stuff which is different between PHP versions and tasks/hurdles common to projects which are in the process of a PHP version upgrade.
 
 #### Narrow types by PHP_VERSION_ID
 
 The first step in this direction was already achieved by making PHPStan aware of `composer.json` defined PHP version requirements
-and taking this knowledge into account to narrow constants like `PHP_VERSION_ID` et. all.
+and taking this knowledge into account to narrow constants like `PHP_VERSION_ID` et. all. since PHPStan 2.0.
 
 There is a dedicated blog post about this topic already: [PHPStan PHP Version Narrowing](https://staabm.github.io/2024/11/14/phpstan-php-version-narrowing.html)
 
 
 #### So what's next?
 
-The current plan is to make PHPStan aware of the PHP-Version within the current scope and utilize this information in type inference and error reporting.
-This means while analyzing code we no longer use just use a fixed PHP version configured in e.g. PHPStan NEON configuration, but also narrow it further down based on the code at hand:
+The current plan is to make PHPStan aware of a narrowed PHP-Version within the current scope and utilize this information in type inference and error reporting.
+This means while analyzing code we no longer use just use a fixed PHP version configured in e.g. PHPStan NEON configuration, but also narrow it further down based on the code at hand.
 
 Let me give you a few examples which currently don't work well, but should work much better after the project evolves:
 
 At the time of writing PHPStan 2.0.2 will report null coalescing errors in your code only if you narrow down the PHP version by configuration.
-This means you e.g. defined the PHP version or version-range by NEON config, `composer.json` (as of PHPStan 2+) or implicitly by the PHP runtime version you are using for PHPStan.
-Running the below example on e.g. with PHP8 will not yield any errors. As of now you would need e.g. a separate CI job configured for PHPStan 7.3 or lower to catch the error.
+This means you e.g. define the PHP version or version-range by NEON config, `composer.json` (as of PHPStan 2+) or implicitly by the PHP runtime version you are using for PHPStan.
+Running the below example without additional configuration on PHP8 will not yield any errors. As of now you would need e.g. a separate CI job configured for PHPStan 7.3 or lower to catch the error.
 In the future, I want PHPStan catch this error even when running on PHP8 or later.
 
 ```php
@@ -56,9 +56,9 @@ if (PHP_VERSION_ID < 70400) {
 
 ```
 
-Currently, PHPStan is using a single knowledge base for return and parameter types of functions and methods.
+Another example: PHPStan is using a single knowledge base for return and parameter types of functions and methods.
 This information is narrowed down by PHPStan Extensions when e.g. parameter values are known at static analysis time.
-In the future I want to improve the type inference e.g. for cases where PHPStan used `resource` types in the past, but use class/object types in more modern versions:
+In the future I want to improve the type inference e.g. for cases where PHP used `resource` types in the past, but uses class/object types in more modern versions:
 
 ```php
 
