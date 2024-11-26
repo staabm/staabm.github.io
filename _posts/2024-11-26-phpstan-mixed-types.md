@@ -500,3 +500,5 @@ A big thank-you goes out to [all my sponsors and supporters](https://github.com/
 
 While closing this type inference focus chapter, I am looking forward to the next challenges.
 What comes up next will be the topic of a future blog post.
+
+stay tuned ⚡️
