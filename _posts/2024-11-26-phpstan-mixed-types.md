@@ -480,6 +480,14 @@ function main4(mixed $c): void{
 
 ```
 
+#### New PHPStan doc-types
+
+To express types better a few phpdoc types have been implemented
+- [`@param-out`](https://github.com/phpstan/phpstan-src/pull/1804)
+- support for [`value-of<BackedEnum>`](https://github.com/phpstan/phpstan-src/pull/1082)
+- [`@pure-unless-callable-is-impure`](https://github.com/phpstan/phpdoc-parser/pull/253)
+- [`@pure-unless-parameter-passed`](https://github.com/phpstan/phpdoc-parser/pull/259)
+
 #### New PHPStan Extension types
 
 Using [ParameterOutTypeExtensions](https://github.com/phpstan/phpstan-src/pull/3083) by-reference parameters can be programmatically and context-sensitively narrowed for functions/methods since PHPStan 1.11.6.
