@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Ease debugging BaselineNeonErrorFormatterIntegrationTest](https://github.com/phpstan/phpstan-src/pull/3672) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Create 2024-11-26-phpstan-mixed-types.md](https://github.com/staabm/staabm.github.io/pull/123) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Create 2024-12-05-phpstan-php-version-in-scope.md](https://github.com/staabm/staabm.github.io/pull/122) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Implement SocketCreateReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/3667) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Support for `@pure-unless-parameter-passed`](https://github.com/phpstan/phpdoc-parser/pull/259) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
 - [Implement Scope-&gt;getPhpVersion()](https://github.com/phpstan/phpstan-src/pull/3642) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [FunctionCallParametersCheck: Add native parameter type](https://github.com/phpstan/phpstan-src/pull/3641) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Revert &#34;Disable tomasvotruba/unused-public for now&#34;](https://github.com/staabm/phpstan-dba/pull/717) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
