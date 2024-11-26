@@ -16,7 +16,7 @@ This in turn leads to suboptimal PHPStan analysis results which can lead to miss
 
 ### A `mixed` type PHPStan journey
 
-For a few years, I am now contributing to PHPStan with a focus on improving the type inference,
+For a few years and after [hundreds of merged pull requests](https://github.com/phpstan/phpstan-src/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3Astaabm+is%3Amerged), I am now contributing to PHPStan with a focus on improving the type inference,
 which means looking into code where `mixed` types are involved and figure out how the situation can be improved.
 
 I will start to focus on a different area soon, so I thought it would be a good time to summarize the achievements made.
