@@ -76,6 +76,8 @@ class MySocket
 
 ```
 
+This also means your developer experience when using PHP version specific language features in code being analyzed with PHPStan should improve over time.
+
 These are only a few examples of my current state of mind. I am pretty sure we will shape new ideas after iterating on the problems involved and the solutions we come up with.
 
 ### How can you support my effort?
