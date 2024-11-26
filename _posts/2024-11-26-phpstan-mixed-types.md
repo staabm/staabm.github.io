@@ -480,6 +480,11 @@ function main4(mixed $c): void{
 
 ```
 
+#### New PHPStan Extension types
+
+Using [ParameterOutTypeExtensions](https://github.com/phpstan/phpstan-src/pull/3083) by-reference parameters can be programmatically and context-sensitively narrowed for functions/methods since PHPStan 1.11.6.
+This was later on used to improve by-reference parameter type inference after calls to `parse_str` and `preg_match*`.
+
 #### Utilizing information outside the PHP Source
 
 A different take was used to improve type inference of the `$matches` by-ref parameter of `preg_match()` based on a REGEX abstract syntax tree.
