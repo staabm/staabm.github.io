@@ -42,9 +42,10 @@ This means while analyzing code we no longer use just use a fixed PHP version co
 Let me give you a few examples which currently don't work well, but should work much better after the project evolves:
 
 At the time of writing PHPStan 2.0.2 will report null coalescing errors in your code only if you narrow down the PHP version by configuration.
-This means you e.g. define the PHP version or version-range by NEON config, `composer.json` (as of PHPStan 2+) or implicitly by the PHP runtime version you are using for PHPStan.
+This means you define the PHP version or version-range by NEON config, `composer.json` (as of PHPStan 2+) or implicitly by the PHP runtime version you are using for PHPStan.
+
 Running the below example without additional configuration on PHP8 will not yield any errors. As of now you would need e.g. a separate CI job configured for PHPStan 7.3 or lower to catch the error.
-In the future, I want PHPStan catch this error even when running on PHP8 or later.
+In the future, I want PHPStan catch this error even when running on PHP8 or later and without additional configuration required:
 
 ```php
 
