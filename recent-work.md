@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use fixed mariadb version](https://github.com/staabm/phpstan-dba/pull/721) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [doctrine-dbal might return `list`](https://github.com/staabm/phpstan-dba/pull/720) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Ease debugging BaselineNeonErrorFormatterIntegrationTest](https://github.com/phpstan/phpstan-src/pull/3672) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Create 2024-11-26-phpstan-mixed-types.md](https://github.com/staabm/staabm.github.io/pull/123) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
@@ -54,7 +55,6 @@
 - [Utilize PHPStan Type interface in TypeNormalizer](https://github.com/rectorphp/rector-src/pull/6478) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [CI: Enable PHPStan](https://github.com/staabm/cross-repo-unused-methods/pull/1) on [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (6 days ago)
 - [Support for `@pure-unless-parameter-passed`](https://github.com/phpstan/phpdoc-parser/pull/259) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
-- [Implement Scope-&gt;getPhpVersion()](https://github.com/phpstan/phpstan-src/pull/3642) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
