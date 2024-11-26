@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 - [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (4 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [composer/pcre](https://github.com/composer/pcre) (6 days ago)
@@ -17,11 +17,11 @@
 
 #### 📜 My recent blog posts
 
+- [Phpstan Mixed Types](https://staabm.github.io/2024/11/26/phpstan-mixed-types.html) (today)
 - [Phpstan Performance On Different Hardware](https://staabm.github.io/2024/11/17/phpstan-performance-on-different-hardware.html) (1 week ago)
 - [Phpstan Php Version Narrowing](https://staabm.github.io/2024/11/14/phpstan-php-version-narrowing.html) (1 week ago)
 - [Phpunit Codesprint Munich](https://staabm.github.io/2024/10/19/phpunit-codesprint-munich.html) (1 month ago)
 - [Array Shapes For Preg Match Matches](https://staabm.github.io/2024/07/05/array-shapes-for-preg-match-matches.html) (4 months ago)
-- [Readable end-to-end tests for PHPStan with bashunit](https://staabm.github.io/2024/06/28/readable-phpstan-end-to-end-tests-with-bashunit.html) (5 months ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Create 2024-11-26-phpstan-mixed-types.md](https://github.com/staabm/staabm.github.io/pull/123) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [Create 2024-12-05-phpstan-php-version-in-scope.md](https://github.com/staabm/staabm.github.io/pull/122) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Implement SocketCreateReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/3667) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Scope: use `scope-&gt;getConstant` instead](https://github.com/phpstan/phpstan-src/pull/3666) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [non-capturing catch support-detection is scope php-version dependent](https://github.com/phpstan/phpstan-src/pull/3663) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -53,8 +55,6 @@
 - [Implement Scope-&gt;getPhpVersion()](https://github.com/phpstan/phpstan-src/pull/3642) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [FunctionCallParametersCheck: Add native parameter type](https://github.com/phpstan/phpstan-src/pull/3641) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Revert &#34;Disable tomasvotruba/unused-public for now&#34;](https://github.com/staabm/phpstan-dba/pull/717) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [Hack new PHPStan 2.x compatible ReflectionCache](https://github.com/staabm/phpstan-dba/pull/716) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [Fix array-shape descriptions with special chars](https://github.com/phpstan/phpstan-src/pull/3639) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
