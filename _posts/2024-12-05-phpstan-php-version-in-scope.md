@@ -11,7 +11,7 @@ ogImage:
 ---
 
 
-In a recent article I was summarizing the problems and results of my work on `mixed` types in PHPStan.
+In a recent article I was summarizing the problems and results of my work on [`mixed` types in PHPStan](https://staabm.github.io/2024/11/26/phpstan-mixed-types.html).
 Now we will have a look what comes next.
 
 ### My new PHPStan focus: multi-phpversion support
