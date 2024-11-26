@@ -395,7 +395,9 @@ function arrayAccess(\ArrayAccess $arr, $mixed) {
 }
 ```
 
-A pattern know from javascript projects and sometimes also popping up in PHP code is a immediately-invoked-function-expression (IFFE).
+#### Immediate-invoked-function-expression (IFFE)
+
+A pattern know from javascript projects and sometimes also popping up in PHP code is a immediately-invoked-function-expression.
 Type inference improvements for this pattern in particular was implemented to support the [TwigStan](https://github.com/twigstan/twigstan):
 
 ```php
@@ -475,3 +477,17 @@ function main4(mixed $c): void{
 }
 
 ```
+
+#### Utilizing information outside the PHP Source
+
+A different take was used to improve type inference of the `$matches` by-ref parameter of `preg_match()` based on a REGEX-Ast.
+It's a complex story on its own with a [dedicated array shape match inference article](https://staabm.github.io/2024/07/05/array-shapes-for-preg-match-matches.html).
+
+Last but not least a PHPStan extension was created which introspects the database schema
+to implement a type inference for sql queries and the SQL AST. This is covered by a [series of blog posts](https://staabm.github.io/archive.html#phpstan-dba).
+
+
+### After one focus area is before the next
+
+While closing this type inference focus chapter, I am looking forward to the next challenges.
+What comes up next will be the topic of a future blog post.
