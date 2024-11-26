@@ -16,10 +16,10 @@ This in turn leads to suboptimal PHPStan analysis results which can lead to miss
 
 ### A `mixed` type PHPStan journey
 
-For a few years, I am now contributing to PHPStan with a focus on improving the type inference,
+For a [few years](https://github.com/phpstan/phpstan-src/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3Astaabm+is%3Amerged), I am now contributing to PHPStan with a focus on improving the type inference,
 which means looking into code where `mixed` types are involved and figure out how the situation can be improved.
 
-I will start to focus on a different area soon, so I thought it would be a good time to summarize the achievements made.
+I will start to focus on a different PHPStan area soon, so I thought it would be a good time to summarize the achievements made.
 
 In this article I want to share the most meaningful contributions to PHPStan core,
 but also look at PHPStan extensions work which was helpful along the way.
@@ -397,10 +397,10 @@ function arrayAccess(\ArrayAccess $arr, $mixed) {
 }
 ```
 
-#### Immediate-invoked-function-expression (IFFE)
+#### Immediate-invoked-function-expression (IIFE)
 
-A pattern know from javascript projects and sometimes also popping up in PHP code is a immediately-invoked-function-expression.
-Type inference improvements for this pattern in particular was implemented to support the [TwigStan](https://github.com/twigstan/twigstan):
+A pattern know from javascript projects and sometimes also popping up in PHP code is immediately-invoked-function-expressions.
+Type inference improvements for this pattern in particular was implemented to support [TwigStan](https://github.com/twigstan/twigstan):
 
 ```php
 
@@ -488,7 +488,7 @@ It's a complex story on its own with a [dedicated array shape match inference ar
 Similar improvements landed for the `printf()` family of functions, see [PHPStan sprintf/sscanf type inference](https://staabm.github.io/2022/06/23/phpstan-sprintf-sscanf-inference.html).
 
 Last but not least a PHPStan extension named `phpstan-dba` was created which introspects the database schema
-to implement a type inference for the database access layer via SQL abstract syntax tree.
+to implement type inference for the database access layer via SQL abstract syntax tree.
 This is covered by a [series of blog posts](https://staabm.github.io/archive.html#phpstan-dba).
 
 
@@ -500,3 +500,5 @@ A big thank-you goes out to [all my sponsors and supporters](https://github.com/
 
 While closing this type inference focus chapter, I am looking forward to the next challenges.
 What comes up next will be the topic of a future blog post.
+
+stay tuned ⚡️
