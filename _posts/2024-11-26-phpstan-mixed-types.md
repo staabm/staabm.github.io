@@ -489,5 +489,7 @@ to implement a type inference for sql queries and the SQL AST. This is covered b
 
 ### After one focus area is before the next
 
+This article highlighted only a few of the many contributions I made to PHPStan in the [last](https://staabm.github.io/2023/12/07/contribution-summary-2023.html) [years](https://staabm.github.io/2022/12/20/2022-wrap-up.html).
+
 While closing this type inference focus chapter, I am looking forward to the next challenges.
 What comes up next will be the topic of a future blog post.
