@@ -482,11 +482,13 @@ function main4(mixed $c): void{
 
 #### New PHPStan doc-types
 
-To express types better a few phpdoc types have been implemented
+To express types better a few phpdoc improvements have been implemented
 - [`@param-out`](https://github.com/phpstan/phpstan-src/pull/1804)
 - support for [`value-of<BackedEnum>`](https://github.com/phpstan/phpstan-src/pull/1082)
 - [`@pure-unless-callable-is-impure`](https://github.com/phpstan/phpdoc-parser/pull/253)
 - [`@pure-unless-parameter-passed`](https://github.com/phpstan/phpdoc-parser/pull/259)
+
+Whats great about new phpdoc types is, that we can utilize them in stubs shipped with PHPStan releases, but they can also be used in any userland php codebase to make intent clear and help improve static analysis results.
 
 #### New PHPStan Extension types
 
