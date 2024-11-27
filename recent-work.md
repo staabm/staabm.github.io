@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) - [v5.4.48](https://github.com/symfony/symfony/releases/tag/v5.4.48) (today)
+- [symfony/symfony](https://github.com/symfony/symfony) - [v7.1.9](https://github.com/symfony/symfony/releases/tag/v7.1.9) (today)
 - [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [0.3.1](https://github.com/johnbillion/wp-compat/releases/tag/0.3.1) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.4.4](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.4) (today)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.9](https://github.com/lucatume/wp-browser/releases/tag/3.7.9) (today)
