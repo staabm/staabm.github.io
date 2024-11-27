@@ -325,7 +325,7 @@ To express types better a few phpdoc improvements have been implemented
 - [`@require-extends and @require-implements`](https://staabm.github.io/2024/01/15/phpstan-require-extends-implements.html)
 
 
-Whats great about new phpdoc types is, that we can utilize them in stubs shipped with PHPStan releases, but they can also be used in any userland php codebase to make intent clear and help improve static analysis results.
+Whats great about new phpdoc types is, that we can utilize them in stubs shipped with PHPStan releases, but they can also be used in any userland php codebase to help improve static analysis results.
 
 If PHPStan would infer all this information from the source it would be a lot slower as it is right now.
 
