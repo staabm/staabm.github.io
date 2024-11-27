@@ -41,7 +41,14 @@ to name a few - and as soon as you are planning a PHP upgrade you usually need t
 so can run your application on your current and your future production system at the same time.
 
 The topic gets even more complicated in case you are building a tool, library or a framework as you usually need to support multiple PHP version for a longer time.
-You also need to handle phasing out and adding support for new PHP versions to your compatibility matrix over and over.
+You also need to handle phasing out and adding support for new PHP versions to your compatibility matrix over and over,
+which means you constantly need to question like:
+- which code is going to be dead because of a min-php version raise?
+- which code needs adjustments to support a new PHP version?
+
+So my goals are:
+- Projects which can only afford a single PHPStan CI job should detect as many errors as possible
+- Running PHPStan on multiple PHP versions should be as frictionless as possible
 
 #### Narrow types by PHP_VERSION_ID
 
