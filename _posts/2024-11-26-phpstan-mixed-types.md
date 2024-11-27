@@ -195,6 +195,9 @@ public function stringTypes(string $s, $nonES, $falsyString): void
 A pretty complex field was to think about what `isset($array[$key])` means for the type of `$key`:
 
 ```php
+
+// ...
+
 /**
  * @param array<int, string> $intKeyedArr
  * @param array<string, string> $stringKeyedArr
@@ -264,54 +267,6 @@ function narrowKey($mixed, string $s, int $i, array $generalArr, array $intKeyed
   assertType('string', $s);
 }
 
-/**
- * @param array<int, array<string, float>> $arr
- */
-function multiDim($mixed, $mixed2, array $arr) {
-  if (isset($arr[$mixed])) {
-    assertType('mixed~(array|object|resource)', $mixed);
-  } else {
-    assertType('mixed', $mixed);
-  }
-  assertType('mixed', $mixed);
-
-  if (isset($arr[$mixed]) && isset($arr[$mixed][$mixed2])) {
-    assertType('mixed~(array|object|resource)', $mixed);
-    assertType('mixed~(array|object|resource)', $mixed2);
-  } else {
-    assertType('mixed', $mixed);
-  }
-  assertType('mixed', $mixed);
-
-  if (isset($arr[$mixed][$mixed2])) {
-    assertType('mixed~(array|object|resource)', $mixed);
-    assertType('mixed~(array|object|resource)', $mixed2);
-  } else {
-    assertType('mixed', $mixed);
-    assertType('mixed', $mixed2);
-  }
-  assertType('mixed', $mixed);
-  assertType('mixed', $mixed2);
-}
-
-/**
- * @param array<int, string> $arr
- */
-function emptyArrr($mixed, array $arr)
-{
-  if (count($arr) !== 0) {
-    return;
-  }
-
-  assertType('array{}', $arr);
-  if (isset($arr[$mixed])) {
-    assertType('mixed', $mixed);
-  } else {
-    assertType('mixed', $mixed);
-  }
-  assertType('mixed', $mixed);
-}
-
 function emptyString($mixed)
 {
   // see https://3v4l.org/XHZdr
@@ -337,50 +292,6 @@ function numericString($mixed, int $i, string $s)
   $arr = ['0' => 1, '2' => 2];
   if (isset($arr[$mixed])) {
     assertType("0|2|'0'|'2'|float|false", $mixed);
-  } else {
-    assertType('mixed', $mixed);
-  }
-  assertType('mixed', $mixed);
-
-  $arr = ['1' => 1, '2' => 2];
-  if (isset($arr[$i])) {
-    assertType("1|2", $i);
-  } else {
-    assertType('int', $i);
-  }
-  assertType('int', $i);
-
-  $arr = ['1' => 1, '2' => 2, 3 => 3];
-  if (isset($arr[$s])) {
-    assertType("'1'|'2'|'3'", $s);
-  } else {
-    assertType('string', $s);
-  }
-  assertType('string', $s);
-
-  $arr = ['1' => 1, '2' => 2, 3 => 3];
-  if (isset($arr[substr($s, 10)])) {
-    assertType("string", $s);
-    assertType("'1'|'2'|'3'", substr($s, 10));
-  } else {
-    assertType('string', $s);
-  }
-  assertType('string', $s);
-}
-
-function intKeys($mixed)
-{
-  $arr = [1 => 1, 2 => 2];
-  if (isset($arr[$mixed])) {
-    assertType("1|2|'1'|'2'|float|true", $mixed);
-  } else {
-    assertType('mixed', $mixed);
-  }
-  assertType('mixed', $mixed);
-
-  $arr = [0 => 0, 1 => 1, 2 => 2];
-  if (isset($arr[$mixed])) {
-    assertType("0|1|2|'0'|'1'|'2'|bool|float", $mixed);
   } else {
     assertType('mixed', $mixed);
   }
