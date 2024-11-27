@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Use fixed mariadb version](https://github.com/staabm/phpstan-dba/pull/721) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [Fix mariadb CI build](https://github.com/staabm/phpstan-dba/pull/721) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [doctrine-dbal might return `list`](https://github.com/staabm/phpstan-dba/pull/720) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Ease debugging BaselineNeonErrorFormatterIntegrationTest](https://github.com/phpstan/phpstan-src/pull/3672) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Create 2024-11-26-phpstan-mixed-types.md](https://github.com/staabm/staabm.github.io/pull/123) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [4.3.8](https://github.com/lucatume/wp-browser/releases/tag/4.3.8) (today)
+- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.9](https://github.com/lucatume/wp-browser/releases/tag/3.7.9) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.3.1](https://github.com/staabm/phpstan-dba/releases/tag/0.3.1) (1 day ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.37](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.37) (1 day ago)
 - [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [1.0.0](https://github.com/johnbillion/wp-compat/releases/tag/1.0.0) (2 days ago)
