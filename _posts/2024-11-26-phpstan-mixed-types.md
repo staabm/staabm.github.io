@@ -332,7 +332,7 @@ If PHPStan would infer all this information from the source it would be a lot sl
 By adding doc-types you also give information/semantic to the code and tell about your intents.
 This is something not only helpful for the tooling but also developers reading your implementation.
 
-That way PHPStan can tell you whether expections are right or whether you are lying :-).
+That way PHPStan can tell you whether expectations are right or whether you are lying :-).
 
 
 #### New PHPStan Extension types
