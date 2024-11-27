@@ -45,6 +45,8 @@ You also need to handle phasing out and adding support for new PHP versions to y
 which means you constantly need to answer questions like:
 - which code is going to be dead because of a min-php version raise?
 - which code needs adjustments to support a new PHP version?
+- how can we make sure that code which gets adapted for thew new PHP version still works on the old PHP version?
+- do we have a rough idea how many problems we need to solve?
 
 To help you answer this questions my goals are:
 - Projects which can only afford a single PHPStan CI job should detect as many cross-php version related errors as possible
@@ -54,7 +56,7 @@ To help you answer this questions my goals are:
 
 I think working on this thing will be a multi month effort and will at least take several dozens of pull requests.
 
-If you are hit by one of the problems I described above and feel the pain you should talk to your boss to [sponsoring my free time efforts](https://github.com/sponsors/staabm),
+If you are hit by at least one of the problems I described above and feel the pain you should talk to your boss to [sponsoring my free time efforts](https://github.com/sponsors/staabm),
 so I can spend more time on it, and you have less problems to deal with in your daily job.
 
 ### What's already done?
