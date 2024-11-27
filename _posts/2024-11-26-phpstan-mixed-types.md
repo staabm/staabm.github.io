@@ -196,8 +196,6 @@ A pretty complex field was to think about what `isset($array[$key])` means for t
 
 ```php
 
-// ...
-
 /**
  * @param array<int, string> $intKeyedArr
  * @param array<string, string> $stringKeyedArr
@@ -217,26 +215,12 @@ function narrowKey($mixed, string $s, int $i, array $generalArr, array $intKeyed
   }
   assertType('int', $i);
 
-  if (isset($generalArr[$s])) {
-    assertType('string', $s);
-  } else {
-    assertType('string', $s);
-  }
-  assertType('string', $s);
-
   if (isset($intKeyedArr[$mixed])) {
     assertType('mixed~(array|object|resource)', $mixed);
   } else {
     assertType('mixed', $mixed);
   }
   assertType('mixed', $mixed);
-
-  if (isset($intKeyedArr[$i])) {
-    assertType('int', $i);
-  } else {
-    assertType('int', $i);
-  }
-  assertType('int', $i);
 
   if (isset($intKeyedArr[$s])) {
     assertType("lowercase-string&numeric-string&uppercase-string", $s);
@@ -251,20 +235,6 @@ function narrowKey($mixed, string $s, int $i, array $generalArr, array $intKeyed
     assertType('mixed', $mixed);
   }
   assertType('mixed', $mixed);
-
-  if (isset($stringKeyedArr[$i])) {
-    assertType('int', $i);
-  } else {
-    assertType('int', $i);
-  }
-  assertType('int', $i);
-
-  if (isset($stringKeyedArr[$s])) {
-    assertType('string', $s);
-  } else {
-    assertType('string', $s);
-  }
-  assertType('string', $s);
 }
 
 function emptyString($mixed)
@@ -288,14 +258,6 @@ function numericString($mixed, int $i, string $s)
     assertType('mixed', $mixed);
   }
   assertType('mixed', $mixed);
-
-  $arr = ['0' => 1, '2' => 2];
-  if (isset($arr[$mixed])) {
-    assertType("0|2|'0'|'2'|float|false", $mixed);
-  } else {
-    assertType('mixed', $mixed);
-  }
-  assertType('mixed', $mixed);
 }
 
 function arrayAccess(\ArrayAccess $arr, $mixed) {
@@ -306,6 +268,7 @@ function arrayAccess(\ArrayAccess $arr, $mixed) {
   }
   assertType('mixed', $mixed);
 }
+
 ```
 
 #### Immediate-invoked-function-expression (IIFE)
