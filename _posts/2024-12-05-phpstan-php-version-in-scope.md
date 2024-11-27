@@ -46,8 +46,8 @@ which means you constantly need to answer questions like:
 - which code is going to be dead because of a min-php version raise?
 - which code needs adjustments to support a new PHP version?
 
-To support you my goals are:
-- Projects which can only afford a single PHPStan CI job should detect as much cross-php version related errors as possible
+To help you answer this questions my goals are:
+- Projects which can only afford a single PHPStan CI job should detect as many cross-php version related errors as possible
 - Running PHPStan on multiple PHP versions should be as frictionless as possible
 
 #### How can you support my effort?
