@@ -47,7 +47,7 @@ which means you constantly need to question like:
 - which code needs adjustments to support a new PHP version?
 
 So my goals are:
-- Projects which can only afford a single PHPStan CI job should detect as many errors as possible
+- Projects which can only afford a single PHPStan CI job should detect as much cross-php version related errors as possible
 - Running PHPStan on multiple PHP versions should be as frictionless as possible
 
 #### Narrow types by PHP_VERSION_ID
