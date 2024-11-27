@@ -31,13 +31,17 @@ This means focusing on stuff which is different between PHP versions and tasks/h
 If you want to cover your codebase cross several PHP versions, you need to set up a CI matrix with different PHP versions.
 You also need multiple PHPStan baselines to ignore errors which are only relevant for a specific PHP version.
 Such a setup brings additional complexity not everyone is willing to deal with.
-In my experience most projects setup PHPStan only for a few PHP versions and ignore the rest, which leave a lot of potential errors undetected.
 
-Another challenge you face over and over when upgrading PHP version is the `resource` to objects migration.
+In my experience most projects setup PHPStan only for a few PHP versions and ignore the rest, which leaves a lot of potential errors undetected.
+
+Another challenge you face over and over when upgrading PHP versions is the `resource` to objects migration.
 There are [articles on the web](https://php.watch/articles/resource-object) on this problem alone.
-Different PHP versions use different types for some APIs and as soon as you are planning
-a PHP upgrade you usually need to deal with supporting both signatures - `resource` and the corresponding object-types - in tandem for a while,
+Different PHP versions use different types for some APIs - e.g. [`curl_init`](https://www.php.net/curl_init) or [`socket_create`](https://www.php.net/socket_create),
+to name a few - and as soon as you are planning a PHP upgrade you usually need to deal with supporting both signatures - `resource` and the corresponding object-types - in tandem for a while,
 so can run your application on your current and your future production system at the same time.
+
+The topic gets even more complicated in case you are building a tool, library or a framework as you usually need to support multiple PHP version for a longer time.
+You also need to handle phasing out and adding support for new PHP versions to your compatibility matrix over and over.
 
 #### Narrow types by PHP_VERSION_ID
 
