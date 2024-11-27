@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (5 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use `$_ENV` over `getenv()` for consistency](https://github.com/staabm/phpstan-dba/pull/722) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Fix mariadb CI build](https://github.com/staabm/phpstan-dba/pull/721) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [doctrine-dbal might return `list`](https://github.com/staabm/phpstan-dba/pull/720) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Ease debugging BaselineNeonErrorFormatterIntegrationTest](https://github.com/phpstan/phpstan-src/pull/3672) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Use Type-&gt;getIterableValueType() over ArrayType-&gt;getItemType()](https://github.com/rectorphp/rector-src/pull/6479) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [Utilize PHPStan Type interface in TypeNormalizer](https://github.com/rectorphp/rector-src/pull/6478) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [CI: Enable PHPStan](https://github.com/staabm/cross-repo-unused-methods/pull/1) on [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (1 week ago)
-- [Support for `@pure-unless-parameter-passed`](https://github.com/phpstan/phpdoc-parser/pull/259) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
