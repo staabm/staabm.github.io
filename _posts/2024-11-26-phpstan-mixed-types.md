@@ -327,6 +327,14 @@ To express types better a few phpdoc improvements have been implemented
 
 Whats great about new phpdoc types is, that we can utilize them in stubs shipped with PHPStan releases, but they can also be used in any userland php codebase to make intent clear and help improve static analysis results.
 
+If PHPStan would infer all this information from the source it would be a lot slower as it is right now.
+
+By adding doc-types you also give information/semantic to the code and tell about your intents.
+This is something not only helpful for the tooling but also developers reading your implementation.
+
+That way PHPStan can tell you whether expections are right or whether you are lying :-).
+
+
 #### New PHPStan Extension types
 
 Using [ParameterOutTypeExtensions](https://github.com/phpstan/phpstan-src/pull/3083) by-reference parameters can be programmatically and context-sensitively narrowed for functions/methods since PHPStan 1.11.6.
