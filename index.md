@@ -10,7 +10,7 @@ Below you can find a list of my personal contribution highlights:
 - [`@param-out` implementation](https://phpstan.org/blog/phpstan-1-9-0-with-phpdoc-asserts-list-type#parameter-type-assigned-by-reference) in PHPStan
 - [type inference for regular expressions](https://phpstan.org/blog/phpstan-1-12-road-to-phpstan-2-0#general-availability-of-precise-type-inference-for-regular-expressions) in PHPStan, see also [my blog post](https://staabm.github.io/2024/07/05/array-shapes-for-preg-match-matches.html)
 - [`@require-extends` and `@require-implements`](https://phpstan.org/writing-php-code/phpdocs-basics#enforcing-class-inheritance-for-interfaces-and-traits) in PHPStan, see also [my blog post](https://staabm.github.io/2024/01/15/phpstan-require-extends-implements.html)
-- `@non-falsey-string` type in PHPStan, see also [my blog post](https://staabm.github.io/2022/08/11/phpstan-non-falsy-string.html)
+- `non-falsy-string` type in PHPStan, see also [my blog post](https://staabm.github.io/2022/08/11/phpstan-non-falsy-string.html)
 - PHPStan `sprintf()`/`sscanf()` type inference, see also [my blog post](https://staabm.github.io/2022/06/23/phpstan-sprintf-sscanf-inference.html)
 - Endless pull requests to improve performance and efficiency in PHPStan and Rector
 - Hundreds of bug fixes in PHPStan, Rector, PHPUnit, Composer…
