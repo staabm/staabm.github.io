@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support localhost:port notation for tests](https://github.com/staabm/phpstan-dba/pull/723) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Use `$_ENV` over `getenv()` for consistency](https://github.com/staabm/phpstan-dba/pull/722) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Fix mariadb CI build](https://github.com/staabm/phpstan-dba/pull/721) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [doctrine-dbal might return `list`](https://github.com/staabm/phpstan-dba/pull/720) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
@@ -54,16 +55,15 @@
 - [Use Type-&gt;getIterableKeyType() over ArrayType-&gt;getKeyType()](https://github.com/rectorphp/rector-src/pull/6480) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [Use Type-&gt;getIterableValueType() over ArrayType-&gt;getItemType()](https://github.com/rectorphp/rector-src/pull/6479) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [Utilize PHPStan Type interface in TypeNormalizer](https://github.com/rectorphp/rector-src/pull/6478) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
-- [CI: Enable PHPStan](https://github.com/staabm/cross-repo-unused-methods/pull/1) on [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [0.3.1](https://github.com/johnbillion/wp-compat/releases/tag/0.3.1) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.4.4](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.4) (today)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.9](https://github.com/lucatume/wp-browser/releases/tag/3.7.9) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.3.1](https://github.com/staabm/phpstan-dba/releases/tag/0.3.1) (1 day ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.37](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.37) (1 day ago)
-- [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [1.0.0](https://github.com/johnbillion/wp-compat/releases/tag/1.0.0) (2 days ago)
 - [twigstan/twigstan](https://github.com/twigstan/twigstan) - [0.1.1](https://github.com/twigstan/twigstan/releases/tag/0.1.1) (2 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.65.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.65.0) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.43.0](https://github.com/Roave/BetterReflection/releases/tag/6.43.0) (1 week ago)
