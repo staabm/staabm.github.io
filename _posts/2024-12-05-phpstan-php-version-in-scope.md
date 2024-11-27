@@ -70,6 +70,7 @@ There is a dedicated blog post about this topic already: [PHPStan PHP Version Na
 
 The current plan is to make PHPStan aware of a narrowed [PHP-Version within the current scope](https://github.com/phpstan/phpstan-src/pull/3642) and utilize this information in type inference and error reporting.
 This means while analyzing code we no longer use just use a fixed PHP version configured in e.g. PHPStan NEON configuration, but also narrow it further down based on the code at hand.
+Nearly all rules in the PHPStan core and 1st party extensions need to be adjusted.
 
 Let me give you a few examples which currently don't work well, but should work much better after the project evolves:
 
@@ -108,6 +109,29 @@ class MySocket
 }
 
 ```
+
+Similar examples can be found for lots of other topics like for example
+- named arguments
+- parameter contravariance
+- return type covariance
+- non-capturing exception catches
+- native union types
+- several deprecated features around how php-src handles parameters
+- class constants
+- legacy constructors
+- parameter type widening
+- `unset` cast
+- multibyte string handling functions
+- readonly properties
+- readonly classes
+- enums
+- intersection types
+- tentative return types
+- array unpacking
+- dynamic properties
+- constants in traits
+- php native attributes
+- implicit parameter nullability
 
 This also means your developer experience when using PHP version specific language features in code being analyzed with PHPStan should improve over time.
 
