@@ -23,8 +23,21 @@ In my opinion we are in a pretty good `mixed` type shape, as the most common pro
 For sure new examples will show up, and we still will and have to continue to improve the situation.
 I am no longer prioritizing `mixed` problems over other things in my PHPStan work, though.
 
+#### Problem space
+
 So what's ahead? My new focus area will be improving the PHPStan story around multi-phpversion supporting code.
 This means focusing on stuff which is different between PHP versions and tasks/hurdles common to projects which are in the process of a PHP version upgrade.
+
+If you want to cover your codebase cross several PHP versions, you need to set up a CI matrix with different PHP versions.
+You also need multiple PHPStan baselines to ignore errors which are only relevant for a specific PHP version.
+Such a setup brings additional complexity not everyone is willing to deal with.
+In my experience most projects setup PHPStan only for a few PHP versions and ignore the rest, which leave a lot of potential errors undetected.
+
+Another challenge you face over and over when upgrading PHP version is the `resource` to objects migration.
+There are [articles on the web](https://php.watch/articles/resource-object) on this problem alone.
+Different PHP versions use different types for some APIs and as soon as you are planning
+a PHP upgrade you usually need to deal with supporting both signatures - `resource` and the corresponding object-types - in tandem for a while,
+so can run your application on your current and your future production system at the same time.
 
 #### Narrow types by PHP_VERSION_ID
 
