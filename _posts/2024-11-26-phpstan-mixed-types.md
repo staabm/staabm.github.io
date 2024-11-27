@@ -195,6 +195,7 @@ public function stringTypes(string $s, $nonES, $falsyString): void
 A pretty complex field was to think about what `isset($array[$key])` means for the type of `$key`:
 
 ```php
+
 /**
  * @param array<int, string> $intKeyedArr
  * @param array<string, string> $stringKeyedArr
@@ -214,26 +215,12 @@ function narrowKey($mixed, string $s, int $i, array $generalArr, array $intKeyed
   }
   assertType('int', $i);
 
-  if (isset($generalArr[$s])) {
-    assertType('string', $s);
-  } else {
-    assertType('string', $s);
-  }
-  assertType('string', $s);
-
   if (isset($intKeyedArr[$mixed])) {
     assertType('mixed~(array|object|resource)', $mixed);
   } else {
     assertType('mixed', $mixed);
   }
   assertType('mixed', $mixed);
-
-  if (isset($intKeyedArr[$i])) {
-    assertType('int', $i);
-  } else {
-    assertType('int', $i);
-  }
-  assertType('int', $i);
 
   if (isset($intKeyedArr[$s])) {
     assertType("lowercase-string&numeric-string&uppercase-string", $s);
@@ -244,68 +231,6 @@ function narrowKey($mixed, string $s, int $i, array $generalArr, array $intKeyed
 
   if (isset($stringKeyedArr[$mixed])) {
     assertType('mixed~(array|object|resource)', $mixed);
-  } else {
-    assertType('mixed', $mixed);
-  }
-  assertType('mixed', $mixed);
-
-  if (isset($stringKeyedArr[$i])) {
-    assertType('int', $i);
-  } else {
-    assertType('int', $i);
-  }
-  assertType('int', $i);
-
-  if (isset($stringKeyedArr[$s])) {
-    assertType('string', $s);
-  } else {
-    assertType('string', $s);
-  }
-  assertType('string', $s);
-}
-
-/**
- * @param array<int, array<string, float>> $arr
- */
-function multiDim($mixed, $mixed2, array $arr) {
-  if (isset($arr[$mixed])) {
-    assertType('mixed~(array|object|resource)', $mixed);
-  } else {
-    assertType('mixed', $mixed);
-  }
-  assertType('mixed', $mixed);
-
-  if (isset($arr[$mixed]) && isset($arr[$mixed][$mixed2])) {
-    assertType('mixed~(array|object|resource)', $mixed);
-    assertType('mixed~(array|object|resource)', $mixed2);
-  } else {
-    assertType('mixed', $mixed);
-  }
-  assertType('mixed', $mixed);
-
-  if (isset($arr[$mixed][$mixed2])) {
-    assertType('mixed~(array|object|resource)', $mixed);
-    assertType('mixed~(array|object|resource)', $mixed2);
-  } else {
-    assertType('mixed', $mixed);
-    assertType('mixed', $mixed2);
-  }
-  assertType('mixed', $mixed);
-  assertType('mixed', $mixed2);
-}
-
-/**
- * @param array<int, string> $arr
- */
-function emptyArrr($mixed, array $arr)
-{
-  if (count($arr) !== 0) {
-    return;
-  }
-
-  assertType('array{}', $arr);
-  if (isset($arr[$mixed])) {
-    assertType('mixed', $mixed);
   } else {
     assertType('mixed', $mixed);
   }
@@ -333,58 +258,6 @@ function numericString($mixed, int $i, string $s)
     assertType('mixed', $mixed);
   }
   assertType('mixed', $mixed);
-
-  $arr = ['0' => 1, '2' => 2];
-  if (isset($arr[$mixed])) {
-    assertType("0|2|'0'|'2'|float|false", $mixed);
-  } else {
-    assertType('mixed', $mixed);
-  }
-  assertType('mixed', $mixed);
-
-  $arr = ['1' => 1, '2' => 2];
-  if (isset($arr[$i])) {
-    assertType("1|2", $i);
-  } else {
-    assertType('int', $i);
-  }
-  assertType('int', $i);
-
-  $arr = ['1' => 1, '2' => 2, 3 => 3];
-  if (isset($arr[$s])) {
-    assertType("'1'|'2'|'3'", $s);
-  } else {
-    assertType('string', $s);
-  }
-  assertType('string', $s);
-
-  $arr = ['1' => 1, '2' => 2, 3 => 3];
-  if (isset($arr[substr($s, 10)])) {
-    assertType("string", $s);
-    assertType("'1'|'2'|'3'", substr($s, 10));
-  } else {
-    assertType('string', $s);
-  }
-  assertType('string', $s);
-}
-
-function intKeys($mixed)
-{
-  $arr = [1 => 1, 2 => 2];
-  if (isset($arr[$mixed])) {
-    assertType("1|2|'1'|'2'|float|true", $mixed);
-  } else {
-    assertType('mixed', $mixed);
-  }
-  assertType('mixed', $mixed);
-
-  $arr = [0 => 0, 1 => 1, 2 => 2];
-  if (isset($arr[$mixed])) {
-    assertType("0|1|2|'0'|'1'|'2'|bool|float", $mixed);
-  } else {
-    assertType('mixed', $mixed);
-  }
-  assertType('mixed', $mixed);
 }
 
 function arrayAccess(\ArrayAccess $arr, $mixed) {
@@ -395,6 +268,7 @@ function arrayAccess(\ArrayAccess $arr, $mixed) {
   }
   assertType('mixed', $mixed);
 }
+
 ```
 
 #### Immediate-invoked-function-expression (IIFE)
@@ -438,47 +312,22 @@ function main2(mixed $c): void{
   assertType("array{date: DateTime, id: 1, name: 'ruud'}", $c);
 }
 
-/** @param array{date: DateTime} $c */
-function main3(mixed $c): void{
-  assertType('array{date: DateTime}', $c);
-  $c['id']=1;
-  $c['name'] = 'staabm';
-  assertType("array{date: DateTime, id: 1, name: 'staabm'}", $c);
-
-  $x = (function() use (&$c) {
-    assertType("array{date: DateTime, id: 1, name: 'staabm'}", $c);
-    if (rand(0,1)) {
-      $c['name'] = 'ruud';
-    }
-    assertType("array{date: DateTime, id: 1, name: 'ruud'|'staabm'}", $c);
-    return 'x';
-  })();
-
-  assertType("array{date: DateTime, id: 1, name: 'ruud'|'staabm'}", $c);
-}
-
-/** @param array{date: DateTime} $c */
-function main4(mixed $c): void{
-  assertType('array{date: DateTime}', $c);
-  $c['id']=1;
-  $c['name'] = 'staabm';
-  assertType("array{date: DateTime, id: 1, name: 'staabm'}", $c);
-
-  $x = (function() use (&$c) {
-    assertType("array{date: DateTime, id: 1, name: 'staabm'}", $c);
-    if (rand(0,1)) {
-      $c['name'] = 'ruud';
-      assertType("array{date: DateTime, id: 1, name: 'ruud'}", $c);
-      return 'y';
-    }
-    assertType("array{date: DateTime, id: 1, name: 'staabm'}", $c);
-    return 'x';
-  })();
-
-  assertType("array{date: DateTime, id: 1, name: 'ruud'|'staabm'}", $c);
-}
-
 ```
+
+#### New PHPStan doc-types
+
+To express types better a few phpdoc improvements have been implemented
+- [`@param-out`](https://github.com/phpstan/phpstan-src/pull/1804)
+- support for [`value-of<BackedEnum>`](https://github.com/phpstan/phpstan-src/pull/1082)
+- [`@pure-unless-callable-is-impure`](https://github.com/phpstan/phpdoc-parser/pull/253)
+- [`@pure-unless-parameter-passed`](https://github.com/phpstan/phpdoc-parser/pull/259)
+
+Whats great about new phpdoc types is, that we can utilize them in stubs shipped with PHPStan releases, but they can also be used in any userland php codebase to make intent clear and help improve static analysis results.
+
+#### New PHPStan Extension types
+
+Using [ParameterOutTypeExtensions](https://github.com/phpstan/phpstan-src/pull/3083) by-reference parameters can be programmatically and context-sensitively narrowed for functions/methods since PHPStan 1.11.6.
+This was later on used to improve by-reference parameter type inference after calls to `parse_str` and `preg_match*`.
 
 #### Utilizing information outside the PHP Source
 
