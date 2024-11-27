@@ -50,6 +50,14 @@ So my goals are:
 - Projects which can only afford a single PHPStan CI job should detect as much cross-php version related errors as possible
 - Running PHPStan on multiple PHP versions should be as frictionless as possible
 
+#### How can you support my effort?
+
+I think working on this thing will be a multi month effort and will at least take several dozens of pull requests.
+
+If you are hit by one of the problems I described above and feel the pain you might be interested in [sponsoring my free time efforts](https://github.com/sponsors/staabm), so I can spend more time on this problem.
+
+### What's already done?
+
 #### Narrow types by PHP_VERSION_ID
 
 The first step in this direction was already achieved by making PHPStan aware of `composer.json` defined PHP version requirements
@@ -58,7 +66,7 @@ and taking this knowledge into account to narrow constants like `PHP_VERSION_ID`
 There is a dedicated blog post about this topic already: [PHPStan PHP Version Narrowing](https://staabm.github.io/2024/11/14/phpstan-php-version-narrowing.html)
 
 
-#### So what's next?
+### What's next?
 
 The current plan is to make PHPStan aware of a narrowed [PHP-Version within the current scope](https://github.com/phpstan/phpstan-src/pull/3642) and utilize this information in type inference and error reporting.
 This means while analyzing code we no longer use just use a fixed PHP version configured in e.g. PHPStan NEON configuration, but also narrow it further down based on the code at hand.
@@ -104,9 +112,3 @@ class MySocket
 This also means your developer experience when using PHP version specific language features in code being analyzed with PHPStan should improve over time.
 
 These are only a few examples of my current state of mind. I am pretty sure we will shape new ideas after iterating on the problems involved and the solutions we come up with.
-
-### How can you support my effort?
-
-I think working on this thing will be a multi month effort and will at least take several dozens of pull requests.
-
-If you are hit by one of the problems I described above and feel the pain you might be interested in [sponsoring my free time efforts](https://github.com/sponsors/staabm), so I can spend more time on this problem.
