@@ -12,6 +12,9 @@ ogImage:
   fileName: "diff-speeding"
 ---
 
+
+## Rector diff speeding
+
 After bringing a performance boost to PHPStan in [Speedzember](https://staabm.github.io/2022/12/23/phpstan-speedzember.html), I had a closer look at [Rector](https://getrector.com/).
 
 ## Look into it
