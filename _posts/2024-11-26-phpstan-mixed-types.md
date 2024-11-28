@@ -11,10 +11,10 @@ ogImage:
 ---
 
 
+### A `mixed` type PHPStan journey
+
 A `mixed` typed represents the absence of type information. It is a union of all types, which means it can be anything.
 This in turn leads to suboptimal PHPStan analysis results which can lead to missing errors or even false positives.
-
-### A `mixed` type PHPStan journey
 
 For a [few years](https://github.com/phpstan/phpstan-src/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3Astaabm+is%3Amerged), I am now contributing to PHPStan with a focus on improving the type inference,
 which means looking into code where `mixed` types are involved and figure out how the situation can be improved.
