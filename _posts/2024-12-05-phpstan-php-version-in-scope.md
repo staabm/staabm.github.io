@@ -59,6 +59,8 @@ I think working on this thing will be a multi month effort and will at least tak
 If you are hit by at least one of the problems I described above and feel the pain you should talk to your boss to [sponsoring my free time efforts](https://github.com/sponsors/staabm),
 so I can spend more time on it, and you have less problems to deal with in your daily job.
 
+Your task to upgrade your employers codebases to PHP 8.4 may be already in the pipeline :-).
+
 ### What's already done?
 
 #### Narrow types by PHP_VERSION_ID
