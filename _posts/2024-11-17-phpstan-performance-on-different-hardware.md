@@ -10,6 +10,7 @@ ogImage:
     fileName: "phpstan-performance-on-different-hardware"
 ---
 
+### PHPStan performance on different hardware
 
 I recently updated my macbook to the newly released model.
 The idea was to get a faster feedback loop when working on complex stuff like PHPStan itself.
