@@ -55,7 +55,7 @@ To help you answer this questions my goals are:
 
 I think working on this thing will be a multi month effort and will at least take several dozens of pull requests.
 
-If you are hit by at least one of the problems I described above and feel the pain you should talk to your boss to [sponsoring my free time efforts](https://github.com/sponsors/staabm),
+If you are hit by at least one of the problems I described above and feel the pain you should talk to your boss to [sponsor my free time efforts](https://github.com/sponsors/staabm),
 so I can spend more time on it, and you have less problems to deal with in your daily job.
 
 Your task to upgrade your employers codebases to PHP 8.4 may be already in the pipeline :-).
