@@ -113,7 +113,7 @@ class MySocket
 
 ```
 
-Similar examples can be found for lots of other topics like for example
+There are a lot of other problem areas, for which you see the errors only when PHPStan is configured with certain PHP versions:
 - named arguments
 - parameter contravariance
 - return type covariance
@@ -136,6 +136,8 @@ Similar examples can be found for lots of other topics like for example
 - php native attributes
 - implicit parameter nullability
 
-This also means your developer experience when using PHP version specific language features in code being analyzed with PHPStan should improve over time.
+What you just read about is the result of my initial research.
+I am pretty sure we will shape new ideas after iterating on the problems involved and the solutions we come up with.
 
-These are only a few examples of my current state of mind. I am pretty sure we will shape new ideas after iterating on the problems involved and the solutions we come up with.
+I will work through the mentioned problem areas one after another, which also means your developer experience when using PHP
+version specific language features with PHPStan should improve over time, release after release.
