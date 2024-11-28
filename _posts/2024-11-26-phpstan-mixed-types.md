@@ -158,12 +158,12 @@ A case where we did not properly narrow types was in comparisons with `strlen()`
 ```php
 
 function narrowString(string $s) {
-  $i = rand(0, 1) ? 1 : 5;
+  $i = range(1, 5);
   if (strlen($s) == $i) {
     \PHPStan\dumpType($s); // non-empty-string
   }
 
-  $i = rand(0, 1) ? 2 : 5;
+  $i = range(2, 5);
   if (strlen($s) == $i) {
     \PHPStan\dumpType($s); // non-falsey-string
   }
