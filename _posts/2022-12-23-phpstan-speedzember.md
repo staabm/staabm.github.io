@@ -11,6 +11,8 @@ ogImage:
   fileName: "phpstan-speedzember"
 ---
 
+## PHPStan speedzember
+
 In december I was on vacation from my daily job.
 As the whether was either too cold or too rainy to go outside I decided to spend some time on PHPStan.
 
