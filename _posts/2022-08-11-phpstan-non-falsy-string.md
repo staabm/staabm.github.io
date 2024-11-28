@@ -10,6 +10,8 @@ ogImage:
   fileName: "phpstan-non-falsy-string-type"
 ---
 
+## New PHPStan phpdoc type: `non-falsy-string`
+
 Recently my [pull request was merged which adds `non-falsy-string`](https://github.com/phpstan/phpstan-src/pull/1542) to the PHPStan type system.
 
 ## Whats the problem?
