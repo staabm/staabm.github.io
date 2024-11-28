@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) (today)
-- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
@@ -40,6 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update symfony dependencies](https://github.com/thecodingmachine/safe/pull/475) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (today)
+- [fix named arg w json_decode to be consistent with php](https://github.com/thecodingmachine/safe/pull/473) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (today)
+- [Remove Travis CI badge from README](https://github.com/thecodingmachine/safe/pull/472) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (today)
+- [Debug generator action](https://github.com/thecodingmachine/safe/pull/470) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (today)
 - [CI: disable fail-fast so we see all results](https://github.com/thecodingmachine/safe/pull/469) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (today)
 - [Phpstan php version in scope](https://github.com/staabm/staabm.github.io/pull/124) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [print host in database chooser](https://github.com/FriendsOfREDAXO/adminer/pull/52) on [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) (1 day ago)
@@ -51,10 +55,6 @@
 - [Create 2024-11-26-phpstan-mixed-types.md](https://github.com/staabm/staabm.github.io/pull/123) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [Create 2024-11-28-phpstan-php-version-in-scope.md](https://github.com/staabm/staabm.github.io/pull/122) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [Implement SocketCreateReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/3667) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Scope: use `scope-&gt;getConstant` instead](https://github.com/phpstan/phpstan-src/pull/3666) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [non-capturing catch support-detection is scope php-version dependent](https://github.com/phpstan/phpstan-src/pull/3663) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Named argument detection is scope php-version dependent](https://github.com/phpstan/phpstan-src/pull/3662) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Scope-&gt;getPhpVersion() allows array via phpVersion NEON config](https://github.com/phpstan/phpstan-src/pull/3659) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
