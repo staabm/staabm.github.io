@@ -142,3 +142,6 @@ I am pretty sure we will shape new ideas after iterating on the problems involve
 
 I will work through the mentioned problem areas one after another, which also means your developer experience when using PHP
 version specific language features with PHPStan should improve over time, release after release.
+
+Do these problems sound relevant to you?
+Please spread the word about my free time project on [Mastodon](https://phpc.social/@markusstaab/113559437972344037) or [Twitter/X](https://x.com/markusstaab/status/1862037669833769276).
