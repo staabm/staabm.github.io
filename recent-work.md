@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [twigstan/twigstan](https://github.com/twigstan/twigstan) - [0.1.2](https://github.com/twigstan/twigstan/releases/tag/0.1.2) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.1.9](https://github.com/symfony/symfony/releases/tag/v7.1.9) (1 day ago)
 - [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [0.3.1](https://github.com/johnbillion/wp-compat/releases/tag/0.3.1) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.4.4](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.4) (1 day ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.9](https://github.com/lucatume/wp-browser/releases/tag/3.7.9) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.3.1](https://github.com/staabm/phpstan-dba/releases/tag/0.3.1) (2 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.37](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.37) (2 days ago)
-- [twigstan/twigstan](https://github.com/twigstan/twigstan) - [0.1.1](https://github.com/twigstan/twigstan/releases/tag/0.1.1) (3 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.65.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.65.0) (3 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.43.0](https://github.com/Roave/BetterReflection/releases/tag/6.43.0) (1 week ago)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v0.8.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v0.8.0) (1 week ago)
