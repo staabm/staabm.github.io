@@ -12,6 +12,8 @@ ogImage:
     fileName: "phpstan-result-cache-gotcha"
 ---
 
+## PHPStan result cache gotchas
+
 As part of the [performance post series](https://staabm.github.io/archive.html#performance) we had a look into a lot of profiling and in detail code optimizations.
 
 In this post we will have a top level look on PHPStan performance from a enduser perspective.
