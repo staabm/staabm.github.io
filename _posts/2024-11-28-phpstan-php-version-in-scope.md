@@ -10,11 +10,10 @@ ogImage:
     fileName: "phpstan-php-version-in-scope"
 ---
 
+### My new PHPStan focus: multi-phpversion support
 
 In a recent article I was summarizing the problems and results of my work on [`mixed` types in PHPStan](https://staabm.github.io/2024/11/26/phpstan-mixed-types.html).
 Now we will have a look at what comes next.
-
-### My new PHPStan focus: multi-phpversion support
 
 For a few years, I am now contributing to PHPStan with a focus on improving the type inference,
 which means I am looking into code where `mixed` types are involved and how I can improve the situation.
