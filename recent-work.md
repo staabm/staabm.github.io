@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) (today)
+- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (today)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
 - [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (6 days ago)
 - [composer/pcre](https://github.com/composer/pcre) (1 week ago)
-- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.1](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.1) (today)
 - [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [2.0.3](https://github.com/FriendsOfREDAXO/adminer/releases/tag/2.0.3) (today)
 - [twigstan/twigstan](https://github.com/twigstan/twigstan) - [0.1.2](https://github.com/twigstan/twigstan/releases/tag/0.1.2) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.1.9](https://github.com/symfony/symfony/releases/tag/v7.1.9) (1 day ago)
@@ -68,4 +69,3 @@
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.3.1](https://github.com/staabm/phpstan-dba/releases/tag/0.3.1) (2 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.37](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.37) (2 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.65.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.65.0) (3 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.43.0](https://github.com/Roave/BetterReflection/releases/tag/6.43.0) (1 week ago)
