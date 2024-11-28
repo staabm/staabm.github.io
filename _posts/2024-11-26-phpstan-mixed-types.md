@@ -359,6 +359,6 @@ This article highlighted only a few of the many contributions I made to PHPStan 
 A big thank-you goes out to [all my sponsors and supporters](https://github.com/sponsors/staabm), who make it possible for me to work on PHPStan and other open-source projects.
 
 While closing this type inference focus chapter, I am looking forward to the next challenges.
-What comes up next will be the topic of a future blog post.
+What comes up next will be the topic of a [future blog post](https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html).
 
 stay tuned ⚡️
