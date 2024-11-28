@@ -91,7 +91,7 @@ if (PHP_VERSION_ID < 70400) {
     // which requires PHP 7.4+
     $y = $_GET['y'] ?? [];
 } else {
-    $x = $_GET['x']?? [];
+    $x = $_GET['x'] ?? [];
 }
 
 ```
