@@ -145,4 +145,4 @@ I will work through the mentioned problem areas one after another, which also me
 version specific language features with PHPStan should improve over time, release after release.
 
 Do these problems sound relevant to you?
-Please spread the word about my free time project on [Mastodon](https://phpc.social/@markusstaab/113559437972344037) or [Twitter/X](https://x.com/markusstaab/status/1862037669833769276).
+Please spread the word about my free time project and [retoot on Mastodon](https://phpc.social/@markusstaab/113559437972344037) or [retweet on Twitter/X](https://x.com/markusstaab/status/1862037669833769276).
