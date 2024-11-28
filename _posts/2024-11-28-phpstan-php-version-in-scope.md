@@ -109,7 +109,8 @@ class MySocket
         throw new RuntimeException('PHP 8.0 required');
     }
 
-    return socket_create(AF_INET, SOCK_DGRAM, SOL_UDP); // can only return `\Socket|false` but PHPStan sometimes mixes it up with PHP7 `resource` type
+    // can only return `\Socket|false` but PHPStan sometimes mixes it up with PHP7 `resource` type
+    return socket_create(AF_INET, SOCK_DGRAM, SOL_UDP);
   }
 }
 
