@@ -17,11 +17,11 @@
 
 #### 📜 My recent blog posts
 
+- [Phpstan Php Version In Scope](https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html) (today)
 - [Phpstan Mixed Types](https://staabm.github.io/2024/11/26/phpstan-mixed-types.html) (2 days ago)
 - [Phpstan Performance On Different Hardware](https://staabm.github.io/2024/11/17/phpstan-performance-on-different-hardware.html) (1 week ago)
 - [Phpstan Php Version Narrowing](https://staabm.github.io/2024/11/14/phpstan-php-version-narrowing.html) (2 weeks ago)
 - [Phpunit Codesprint Munich](https://staabm.github.io/2024/10/19/phpunit-codesprint-munich.html) (1 month ago)
-- [Array Shapes For Preg Match Matches](https://staabm.github.io/2024/07/05/array-shapes-for-preg-match-matches.html) (4 months ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Phpstan php version in scope](https://github.com/staabm/staabm.github.io/pull/124) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [print host in database chooser](https://github.com/FriendsOfREDAXO/adminer/pull/52) on [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) (1 day ago)
 - [Support localhost:port notation for tests](https://github.com/staabm/phpstan-dba/pull/723) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Use `$_ENV` over `getenv()` for consistency](https://github.com/staabm/phpstan-dba/pull/722) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
@@ -54,7 +55,6 @@
 - [Named argument detection is scope php-version dependent](https://github.com/phpstan/phpstan-src/pull/3662) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Scope-&gt;getPhpVersion() allows array via phpVersion NEON config](https://github.com/phpstan/phpstan-src/pull/3659) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Use Type-&gt;getIterableKeyType() over ArrayType-&gt;getKeyType()](https://github.com/rectorphp/rector-src/pull/6480) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
-- [Use Type-&gt;getIterableValueType() over ArrayType-&gt;getItemType()](https://github.com/rectorphp/rector-src/pull/6479) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
