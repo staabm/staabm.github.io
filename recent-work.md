@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Force generator to use PHP 8.1.x](https://github.com/thecodingmachine/safe/pull/476) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (today)
 - [Update symfony dependencies](https://github.com/thecodingmachine/safe/pull/475) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (today)
 - [fix named arg w json_decode to be consistent with php](https://github.com/thecodingmachine/safe/pull/473) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (today)
 - [Remove Travis CI badge from README](https://github.com/thecodingmachine/safe/pull/472) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (today)
@@ -54,7 +55,6 @@
 - [Ease debugging BaselineNeonErrorFormatterIntegrationTest](https://github.com/phpstan/phpstan-src/pull/3672) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Create 2024-11-26-phpstan-mixed-types.md](https://github.com/staabm/staabm.github.io/pull/123) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [Create 2024-11-28-phpstan-php-version-in-scope.md](https://github.com/staabm/staabm.github.io/pull/122) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
-- [Implement SocketCreateReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/3667) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
