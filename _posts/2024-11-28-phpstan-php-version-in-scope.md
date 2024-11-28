@@ -87,7 +87,8 @@ In the future, I want PHPStan catch this error even when running on PHP8 or late
 ```php
 
 if (PHP_VERSION_ID < 70400) {
-    $y = $_GET['y'] ?? []; // should error about null coalescing operator, which requires PHP 7.4+
+    // should error about null coalescing operator, which requires PHP 7.4+
+    $y = $_GET['y'] ?? [];
 } else {
     $x = $_GET['x']?? [];
 }
