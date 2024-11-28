@@ -12,6 +12,8 @@ ogImage:
 
 ### My new PHPStan focus: multi-phpversion support
 
+[_TL;DR: What’s already done?_](https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html#whats-already-done)
+
 In a recent article I was summarizing the problems and results of my work on [`mixed` types in PHPStan](https://staabm.github.io/2024/11/26/phpstan-mixed-types.html).
 Now we will have a look at what comes next.
 
@@ -59,16 +61,6 @@ If you are hit by at least one of the problems I described above and feel the pa
 so I can spend more time on it, and you have less problems to deal with in your daily job.
 
 Your task to upgrade your employers codebases to PHP 8.4 may be already in the pipeline :-).
-
-### What's already done?
-
-#### Narrow types by PHP_VERSION_ID
-
-The first step in this direction was already achieved by making PHPStan aware of `composer.json` defined PHP version requirements
-and taking this knowledge into account to narrow constants like `PHP_VERSION_ID` et. all. since PHPStan 2.0.
-
-There is a dedicated blog post about this topic already: [PHPStan PHP Version Narrowing](https://staabm.github.io/2024/11/14/phpstan-php-version-narrowing.html)
-
 
 ### What's next?
 
@@ -150,3 +142,27 @@ version specific language features with PHPStan should improve over time, releas
 
 Do these problems sound relevant to you?
 Please spread the word about my free time project and [retoot on Mastodon](https://phpc.social/@markusstaab/113559437972344037) or [retweet on Twitter/X](https://x.com/markusstaab/status/1862037669833769276).
+
+### What's already done?
+
+_this chapter will be updated as soon as the project evolves_
+
+#### Narrow types by PHP_VERSION_ID
+
+The first step in this direction was already achieved by making PHPStan aware of `composer.json` defined PHP version requirements
+and taking this knowledge into account to narrow constants like `PHP_VERSION_ID` et. all. since PHPStan 2.0.
+
+There is a dedicated blog post about this topic already: [PHPStan PHP Version Narrowing](https://staabm.github.io/2024/11/14/phpstan-php-version-narrowing.html)
+
+#### Report deprecations in `ini_*()` functions
+
+At the time of writing there are ~20 deprecated php.ini options.
+A [new PHPStan rule](https://github.com/phpstan/phpstan-deprecation-rules/pull/120) was implemented which reports usages of `ini_*()` functions which use a deprecated option:
+
+```php
+<?php declare(strict_types = 1);
+
+var_dump(ini_get('assert.active'));
+```
+
+[PHPStan playground snippet](https://phpstan.org/r/e0076edd-fb0d-4490-96cc-d3ff4356b0ae)
