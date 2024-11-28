@@ -11,10 +11,9 @@ ogImage:
 ---
 
 
-Since PHPStan 2.0 we start to narrow PHP version related information for more precise results.
-
-
 ### Dead code detection for PHP_* constants
+
+Since PHPStan 2.0 we start to narrow PHP version related information for more precise results.
 
 From time to time its required to check the PHP version to e.g. work around bugs or detect certain behaviour of the language.
 Oftentimes checking for certain PHP-version ranges also helps to assert certain behaviour in automated tests.
