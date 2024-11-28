@@ -10,6 +10,7 @@ ogImage:
     fileName: "phpunit-codesprint-munich"
 ---
 
+### PHPUnit codesprint Munich
 
 In October 2024, I was part of a team of PHPUnit contributors who met in Munich for a Code Sprint at the office of [celebrate.company](https://www.celebrate.company/).
 We spent 2 days on discussing, coding and issue triage for the PHPUnit open source project together with Sebastian Bergmann, the creator of PHPUnit.
