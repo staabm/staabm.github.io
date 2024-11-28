@@ -17,7 +17,7 @@
 
 #### 📜 My recent blog posts
 
-- [Phpstan Php Version In Scope](https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html) (today)
+- [My new PHPStan focus: multi-phpversion support](https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html) (today)
 - [Phpstan Mixed Types](https://staabm.github.io/2024/11/26/phpstan-mixed-types.html) (2 days ago)
 - [Phpstan Performance On Different Hardware](https://staabm.github.io/2024/11/17/phpstan-performance-on-different-hardware.html) (1 week ago)
 - [Phpstan Php Version Narrowing](https://staabm.github.io/2024/11/14/phpstan-php-version-narrowing.html) (2 weeks ago)
