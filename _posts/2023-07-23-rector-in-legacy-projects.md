@@ -11,6 +11,8 @@ ogImage:
   fileName: "rector-in-legacy-projects"
 ---
 
+## Rector in legacy projects
+
 After collecting some experience with introducing Rector to legacy projects,
 I want to write down what I have learned along the way.
 
@@ -34,7 +36,7 @@ These are the top level steps I try to follow:
    2. add [TomasVotruba/type-coverage](https://tomasvotruba.com/blog/how-to-measure-your-type-coverage/) to create type coverage information
    3. create a [PHPStan baseline](https://phpstan.org/blog/phpstans-baseline-feature-lets-you-hold-new-code-to-a-higher-standard) with all existing errors
    4. [analyze your baseline](https://staabm.github.io/2022/07/04/phpstan-baseline-analysis.html), to get an idea of the overall type coverage of the project
-2. Preparation 
+2. Preparation
    1. Fix all "Implicit array creation is not allowed - variable ... does not exist" PHPStan errors
    2. Fix all "Variable ... might not be defined" PHPStan errors
 2. Adding Types - order is important!
