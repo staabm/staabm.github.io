@@ -11,9 +11,9 @@ ogImage:
   fileName: "github-maintainer-month"
 ---
 
-To celebrate [Maintainer Month](https://github.blog/2022-06-24-thank-you-to-our-maintainers/), GitHub has invested an additional $500,000 to help sponsor the open source projects that it depends on.
-
 ## GitHub Maintainer Month
+
+To celebrate [Maintainer Month](https://github.blog/2022-06-24-thank-you-to-our-maintainers/), GitHub has invested an additional $500,000 to help sponsor the open source projects that it depends on.
 
 <img src="/images/post-images/maintainer-month/love.png" alt="GitHub Maintainer Month">
 
