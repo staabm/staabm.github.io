@@ -44,7 +44,7 @@ You also need to handle phasing out and adding support for new PHP versions to y
 which means you constantly need to answer questions like:
 - which code is going to be dead because of a min-php version raise?
 - which code needs adjustments to support a new PHP version?
-- how can we make sure that code which gets adapted for thew new PHP version still works on the old PHP version?
+- how can we make sure that code which gets adapted for the new PHP version still works on the old PHP version?
 - do we have a rough idea how many problems we need to solve?
 
 To help you answer this questions my goals are:
