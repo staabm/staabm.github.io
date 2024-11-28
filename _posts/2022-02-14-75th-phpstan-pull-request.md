@@ -11,6 +11,8 @@ ogImage:
   fileName: "75th-pull-request-to-PHPStan"
 ---
 
+## Achievement unlocked: 75 PHPStan pull requests merged
+
 This post describes how I started into [PHPStan](https://phpstan.org/). You can get a feeling of how I approach complex things and start building a mental model about a new problem domain.
 
 First things first: PHPStan?
@@ -125,10 +127,10 @@ public function sayHello($array): void
     foreach($array as $value) {
         $x = 25;
     }
-    
+
     // since foreach will be iterated at least once,
     // $x can never be `null` at this point
-    if ($x === null) { 
+    if ($x === null) {
     }
 }
 ```
@@ -140,4 +142,4 @@ Read [more about PHPStan doctypes](https://phpstan.org/writing-php-code/phpdoc-t
 
 ## 💌 Support my open source activities
 
-In case you find this stuff useful, and your daily business depends on PHPStan understanding your code [consider supporting my work](https://github.com/sponsors/staabm). 
+In case you find this stuff useful, and your daily business depends on PHPStan understanding your code [consider supporting my work](https://github.com/sponsors/staabm).
