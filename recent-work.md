@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Report deprecations in `ini_*()` functions](https://github.com/staabm/staabm.github.io/pull/125) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Implement CallWithDeprecatedIniOptionRule](https://github.com/phpstan/phpstan-deprecation-rules/pull/120) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
 - [Force generator to use PHP 8.1.x](https://github.com/thecodingmachine/safe/pull/476) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (today)
 - [Update symfony dependencies](https://github.com/thecodingmachine/safe/pull/475) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (today)
@@ -54,7 +55,6 @@
 - [Fix mariadb CI build](https://github.com/staabm/phpstan-dba/pull/721) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [doctrine-dbal might return `list`](https://github.com/staabm/phpstan-dba/pull/720) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [Ease debugging BaselineNeonErrorFormatterIntegrationTest](https://github.com/phpstan/phpstan-src/pull/3672) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Create 2024-11-26-phpstan-mixed-types.md](https://github.com/staabm/staabm.github.io/pull/123) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
