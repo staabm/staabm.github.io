@@ -104,7 +104,7 @@ In the future I want to improve the type inference e.g. for cases where PHP used
 
 class MySocket
 {
-  public function create(): \Socket
+  public function create(): ?Socket
   {
     if (PHP_VERSION_ID < 80000) {
         throw new RuntimeException('PHP 8.0 required');
@@ -112,7 +112,7 @@ class MySocket
 
     // can only return `\Socket|false` but PHPStan sometimes
     // mixes it up with PHP7 `resource` type
-    return socket_create(AF_INET, SOCK_DGRAM, SOL_UDP);
+    return socket_create(AF_INET, SOCK_DGRAM, SOL_UDP) ?: null;
   }
 }
 
