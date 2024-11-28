@@ -12,6 +12,8 @@ ogImage:
 
 ### My new PHPStan focus: multi-phpversion support
 
+[_TLDR; What’s already done?_](https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html#whats-already-done)
+
 In a recent article I was summarizing the problems and results of my work on [`mixed` types in PHPStan](https://staabm.github.io/2024/11/26/phpstan-mixed-types.html).
 Now we will have a look at what comes next.
 
