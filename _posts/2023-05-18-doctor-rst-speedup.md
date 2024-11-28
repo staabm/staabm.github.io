@@ -12,6 +12,8 @@ ogImage:
   fileName: "doctor-rst-speedup"
 ---
 
+## DOCtor-RST speedup
+
 This is another part in the [performance series](https://staabm.github.io/archive.html#performance).
 
 Since I have published the last [performance article about Rector](https://staabm.github.io/2023/05/06/racing-rector.html), [Oskar Stark](https://twitter.com/OskarStark) - one of my twitter followers [got in touch](https://twitter.com/OskarStark/status/1658685669009510400) with me:
