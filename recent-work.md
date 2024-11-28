@@ -47,7 +47,7 @@
 - [doctrine-dbal might return `list`](https://github.com/staabm/phpstan-dba/pull/720) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [Ease debugging BaselineNeonErrorFormatterIntegrationTest](https://github.com/phpstan/phpstan-src/pull/3672) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Create 2024-11-26-phpstan-mixed-types.md](https://github.com/staabm/staabm.github.io/pull/123) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
-- [Create 2024-12-05-phpstan-php-version-in-scope.md](https://github.com/staabm/staabm.github.io/pull/122) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
+- [Create 2024-11-28-phpstan-php-version-in-scope.md](https://github.com/staabm/staabm.github.io/pull/122) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [Implement SocketCreateReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/3667) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Scope: use `scope-&gt;getConstant` instead](https://github.com/phpstan/phpstan-src/pull/3666) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [non-capturing catch support-detection is scope php-version dependent](https://github.com/phpstan/phpstan-src/pull/3663) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
