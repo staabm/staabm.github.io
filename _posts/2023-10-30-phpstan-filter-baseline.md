@@ -11,6 +11,8 @@ ogImage:
     fileName: "phpstan-filter-baseline"
 ---
 
+## PHPStan baseline filter
+
 Having a week off from my primary job, means more time for my opensource projects :-).
 
 In this post I will describe one way to work thru the sometimes huge PHPStan baseline.
