@@ -4,9 +4,9 @@
 #### 💻 Check out what I'm currently working on
 
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (today)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 day ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) (1 day ago)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [more progress](https://github.com/staabm/staabm.github.io/pull/126) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Report deprecations in `ini_*()` functions](https://github.com/staabm/staabm.github.io/pull/125) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [Implement CallWithDeprecatedIniOptionRule](https://github.com/phpstan/phpstan-deprecation-rules/pull/120) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 day ago)
 - [Force generator to use PHP 8.1.x](https://github.com/thecodingmachine/safe/pull/476) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (1 day ago)
@@ -54,11 +55,11 @@
 - [Use `$_ENV` over `getenv()` for consistency](https://github.com/staabm/phpstan-dba/pull/722) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [Fix mariadb CI build](https://github.com/staabm/phpstan-dba/pull/721) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [doctrine-dbal might return `list`](https://github.com/staabm/phpstan-dba/pull/720) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
-- [Ease debugging BaselineNeonErrorFormatterIntegrationTest](https://github.com/phpstan/phpstan-src/pull/3672) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [4.3.9](https://github.com/lucatume/wp-browser/releases/tag/4.3.9) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.0](https://github.com/symfony/symfony/releases/tag/v7.2.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.0.3](https://github.com/phpstan/phpstan/releases/tag/2.0.3) (1 day ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.1](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.1) (1 day ago)
@@ -66,6 +67,5 @@
 - [twigstan/twigstan](https://github.com/twigstan/twigstan) - [0.1.2](https://github.com/twigstan/twigstan/releases/tag/0.1.2) (1 day ago)
 - [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [0.3.1](https://github.com/johnbillion/wp-compat/releases/tag/0.3.1) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.4.4](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.4) (2 days ago)
-- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.9](https://github.com/lucatume/wp-browser/releases/tag/3.7.9) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.3.1](https://github.com/staabm/phpstan-dba/releases/tag/0.3.1) (3 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.37](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.37) (3 days ago)
