@@ -145,7 +145,7 @@ Please spread the word about my free time project and [retoot on Mastodon](https
 
 ### What's already done?
 
-_this chapter will be updated as soon as the project evolves_
+_this chapter will be updated to reflect the ongoing progress_
 
 #### Narrow types by PHP_VERSION_ID
 
