@@ -10,20 +10,39 @@
       "url": "https://staabm.github.io/"
     }
   },
-  "projects": [],
+  "projects": [
+    {
+      "guid": "PHPStan multi-phpversion support",
+      "name": "Improve the PHPStan story around multi-phpversion supporting code",
+      "description": "My new focus area will be improving the PHPStan story around multi php-version supporting code. This means focusing on stuff which is different between PHP versions.\n\nIf you want to cover your codebase cross several PHP versions, you need to set up a CI matrix with different PHP versions. You also need multiple PHPStan baselines to ignore errors which are only relevant for a specific PHP version. Such a setup brings additional complexity not everyone is willing to deal with.\n\nIn my experience most projects set up PHPStan only for a few PHP versions and ignore the rest, which leaves a lot of potential errors undetected.\n\nLet me work on PHPStan to iterate on this use-case so your next PHP version upgrade will be easier and contain less hurdles. ",
+      "webpageUrl": {
+        "url": "https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/phpstan/phpstan-src"
+      },
+      "licenses": [
+        "MIT"
+      ],
+      "tags": [
+        "static analysis",
+        "php"
+      ]
+    }
+  ],
   "funding": {
     "channels": [
       {
         "guid": "github sponsors",
-        "type": "other"
+        "type": "other",
+        "description": "Sponsoring via https://github.com/sponsors/staabm"
       }
     ],
     "plans": [
       {
-        "guid": "PHPStan multi-php version suppor",
+        "guid": "monthly500",
         "status": "active",
-        "name": "Improve the PHPStan story around multi-phpversion supporting code",
-        "description": "See the detailed plan on https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html",
+        "name": "monthly funding plan",
         "amount": 500,
         "currency": "EUR",
         "frequency": "monthly",
