@@ -26,7 +26,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
-- [johnbillion](https://github.com/johnbillion) (1 month ago)
 - [Chemaclass](https://github.com/Chemaclass) (2 months ago)
 - [phpstan](https://github.com/phpstan) (3 months ago)
 - [oliverklee](https://github.com/oliverklee) (4 months ago)
@@ -36,6 +35,7 @@
 - [annervisser](https://github.com/annervisser) (8 months ago)
 - [eliashaeussler](https://github.com/eliashaeussler) (1 year ago)
 - [DaveLiddament](https://github.com/DaveLiddament) (2 years ago)
+- [SecuMailer](https://github.com/SecuMailer) (2 years ago)
 
 
 #### 🔨 My recent Pull Requests
