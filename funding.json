@@ -20,7 +20,7 @@
     ],
     "plans": [
       {
-        "guid": "PHPStan multi-php version suppor",
+        "guid": "PHPStan multi-php version support",
         "status": "active",
         "name": "Improve the PHPStan story around multi-phpversion supporting code",
         "description": "See the detailed plan on https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html",
