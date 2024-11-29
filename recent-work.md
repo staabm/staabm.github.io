@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Lazier return in `UnionType-&gt;isSuperTypeOf()` (~40% faster)](https://github.com/phpstan/phpstan-src/pull/3693) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Lazier return in `UnionType-&gt;isSuperTypeOfWithReason()` (~40% faster)](https://github.com/phpstan/phpstan-src/pull/3692) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update EOL-Daten für PHP 8.4](https://github.com/redaxo/redaxo/pull/6185) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [Update PHPStan to 1.12.12](https://github.com/FriendsOfREDAXO/rexstan/pull/780) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Use `is_file` over `file_exists`](https://github.com/sebastianbergmann/phpunit/pull/6051) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
@@ -53,12 +55,11 @@
 - [Remove Travis CI badge from README](https://github.com/thecodingmachine/safe/pull/472) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (1 day ago)
 - [Debug generator action](https://github.com/thecodingmachine/safe/pull/470) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (1 day ago)
 - [CI: disable fail-fast so we see all results](https://github.com/thecodingmachine/safe/pull/469) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (1 day ago)
-- [Phpstan php version in scope](https://github.com/staabm/staabm.github.io/pull/124) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
-- [print host in database chooser](https://github.com/FriendsOfREDAXO/adminer/pull/52) on [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.21.2](https://github.com/pmmp/PocketMine-MP/releases/tag/5.21.2) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.194](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.194) (today)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.10](https://github.com/lucatume/wp-browser/releases/tag/3.7.10) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.38](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.38) (today)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [2.0.3](https://github.com/FriendsOfREDAXO/adminer/releases/tag/2.0.3) (1 day ago)
 - [twigstan/twigstan](https://github.com/twigstan/twigstan) - [0.1.2](https://github.com/twigstan/twigstan/releases/tag/0.1.2) (1 day ago)
 - [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [0.3.1](https://github.com/johnbillion/wp-compat/releases/tag/0.3.1) (2 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.4.4](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.4) (2 days ago)
