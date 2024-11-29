@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (1 day ago)
-- [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) (1 day ago)
+- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (today)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 day ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
