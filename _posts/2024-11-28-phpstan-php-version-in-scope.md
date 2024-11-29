@@ -162,6 +162,7 @@ A [new PHPStan rule](https://github.com/phpstan/phpstan-deprecation-rules/pull/1
 ```php
 <?php declare(strict_types = 1);
 
+// new error: Call to function ini_get() with deprecated option 'assert.active'.
 var_dump(ini_get('assert.active'));
 ```
 
