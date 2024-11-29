@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.38](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.38) (today)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [4.3.9](https://github.com/lucatume/wp-browser/releases/tag/4.3.9) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.0](https://github.com/symfony/symfony/releases/tag/v7.2.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.0.3](https://github.com/phpstan/phpstan/releases/tag/2.0.3) (1 day ago)
@@ -68,4 +69,3 @@
 - [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [0.3.1](https://github.com/johnbillion/wp-compat/releases/tag/0.3.1) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.4.4](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.4) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.3.1](https://github.com/staabm/phpstan-dba/releases/tag/0.3.1) (3 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.37](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.37) (3 days ago)
