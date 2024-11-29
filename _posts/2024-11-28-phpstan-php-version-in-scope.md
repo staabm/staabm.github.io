@@ -166,3 +166,19 @@ var_dump(ini_get('assert.active'));
 ```
 
 [PHPStan playground snippet](https://phpstan.org/r/e0076edd-fb0d-4490-96cc-d3ff4356b0ae)
+
+#### Scope narrowed PHP Version
+
+Starting with PHPStan 2.0.3 the php-version in will be narrowed down and builtin rules have been adjusted to report errors in more cases:
+
+- [warn for private final methods](https://github.com/phpstan/phpstan-src/pull/3642)
+- [non-capturing catch](https://github.com/phpstan/phpstan-src/pull/3663)
+- [named arguments](https://github.com/phpstan/phpstan-src/pull/3662)
+
+For more details see the [above background story](https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html#whats-next).
+
+##### More precise `resource` to object migration types
+
+Type narrowing was improved so if-conditions narrowing the PHP version are handled with more precise return types:
+
+- [`Socket`](https://github.com/phpstan/phpstan-src/pull/3667)
