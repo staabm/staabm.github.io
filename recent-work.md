@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.10](https://github.com/lucatume/wp-browser/releases/tag/3.7.10) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.38](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.38) (today)
-- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [4.3.9](https://github.com/lucatume/wp-browser/releases/tag/4.3.9) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.0](https://github.com/symfony/symfony/releases/tag/v7.2.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.0.3](https://github.com/phpstan/phpstan/releases/tag/2.0.3) (1 day ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.1](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.1) (1 day ago)
