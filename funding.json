@@ -1,0 +1,37 @@
+{
+  "version": "v1.0.0",
+  "entity": {
+    "type": "individual",
+    "role": "contributor",
+    "name": "Markus Staab",
+    "email": "maggus.staab+funding@gmail.com",
+    "description": "I am one of the top contributors to PHPStan, Rector and PHPUnit.\nThese 3 tools are under the most popular quality tools in the PHP ecosystem.",
+    "webpageUrl": {
+      "url": "https://staabm.github.io/"
+    }
+  },
+  "projects": [],
+  "funding": {
+    "channels": [
+      {
+        "guid": "github sponsors",
+        "type": "other"
+      }
+    ],
+    "plans": [
+      {
+        "guid": "PHPStan multi-php version suppor",
+        "status": "active",
+        "name": "Improve the PHPStan story around multi-phpversion supporting code",
+        "description": "See the detailed plan on https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html",
+        "amount": 500,
+        "currency": "EUR",
+        "frequency": "monthly",
+        "channels": [
+          "github sponsors"
+        ]
+      }
+    ],
+    "history": []
+  }
+}
