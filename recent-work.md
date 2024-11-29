@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [typo](https://github.com/staabm/staabm.github.io/pull/127) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Lazier return in `UnionType-&gt;isSuperTypeOf()` (~40% faster)](https://github.com/phpstan/phpstan-src/pull/3693) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Lazier return in `UnionType-&gt;isSuperTypeOfWithReason()` (~40% faster)](https://github.com/phpstan/phpstan-src/pull/3692) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update EOL-Daten für PHP 8.4](https://github.com/redaxo/redaxo/pull/6185) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
@@ -54,7 +55,6 @@
 - [fix named arg w json_decode to be consistent with php](https://github.com/thecodingmachine/safe/pull/473) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (1 day ago)
 - [Remove Travis CI badge from README](https://github.com/thecodingmachine/safe/pull/472) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (1 day ago)
 - [Debug generator action](https://github.com/thecodingmachine/safe/pull/470) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (1 day ago)
-- [CI: disable fail-fast so we see all results](https://github.com/thecodingmachine/safe/pull/469) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
