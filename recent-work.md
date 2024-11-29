@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use `is_file` over `file_exists`](https://github.com/sebastianbergmann/phpunit/pull/6051) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Remove duplicate `is_file()` check](https://github.com/sebastianbergmann/phpunit/pull/6050) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [more progress](https://github.com/staabm/staabm.github.io/pull/126) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Report deprecations in `ini_*()` functions](https://github.com/staabm/staabm.github.io/pull/125) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
@@ -54,7 +55,6 @@
 - [print host in database chooser](https://github.com/FriendsOfREDAXO/adminer/pull/52) on [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) (2 days ago)
 - [Support localhost:port notation for tests](https://github.com/staabm/phpstan-dba/pull/723) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [Use `$_ENV` over `getenv()` for consistency](https://github.com/staabm/phpstan-dba/pull/722) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
-- [Fix mariadb CI build](https://github.com/staabm/phpstan-dba/pull/721) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
