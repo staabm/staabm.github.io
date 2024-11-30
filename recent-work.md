@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [5x Faster `IntersectionType-&gt;getEnumCases()`](https://github.com/phpstan/phpstan-src/pull/3695) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Use `is_file` over `file_exists`](https://github.com/sebastianbergmann/phpunit/pull/6058) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [typo](https://github.com/staabm/staabm.github.io/pull/127) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [Lazier return in `UnionType-&gt;isSuperTypeOf()` (~40% faster)](https://github.com/phpstan/phpstan-src/pull/3693) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Force generator to use PHP 8.1.x](https://github.com/thecodingmachine/safe/pull/476) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (2 days ago)
 - [Update symfony dependencies](https://github.com/thecodingmachine/safe/pull/475) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (2 days ago)
 - [fix named arg w json_decode to be consistent with php](https://github.com/thecodingmachine/safe/pull/473) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (2 days ago)
-- [Remove Travis CI badge from README](https://github.com/thecodingmachine/safe/pull/472) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
