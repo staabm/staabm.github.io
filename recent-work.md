@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [1.1.0](https://github.com/johnbillion/wp-compat/releases/tag/1.1.0) (today)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.21.2](https://github.com/pmmp/PocketMine-MP/releases/tag/5.21.2) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.194](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.194) (1 day ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.10](https://github.com/lucatume/wp-browser/releases/tag/3.7.10) (1 day ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.1](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.1) (2 days ago)
 - [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [2.0.3](https://github.com/FriendsOfREDAXO/adminer/releases/tag/2.0.3) (2 days ago)
 - [twigstan/twigstan](https://github.com/twigstan/twigstan) - [0.1.2](https://github.com/twigstan/twigstan/releases/tag/0.1.2) (2 days ago)
-- [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [0.3.1](https://github.com/johnbillion/wp-compat/releases/tag/0.3.1) (3 days ago)
