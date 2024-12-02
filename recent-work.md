@@ -3,13 +3,13 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
-- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (4 days ago)
 - [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) (4 days ago)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [PHPStan: enable bleeding edge](https://github.com/thecodingmachine/safe/pull/494) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (today)
 - [Added lint in github actions](https://github.com/thecodingmachine/safe/pull/493) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (today)
 - [Update PHPStan to 2.x](https://github.com/staabm/phpstan-baseline-analysis/pull/187) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [5x Faster `IntersectionType-&gt;getEnumCases()`](https://github.com/phpstan/phpstan-src/pull/3695) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [more progress](https://github.com/staabm/staabm.github.io/pull/126) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
 - [Report deprecations in `ini_*()` functions](https://github.com/staabm/staabm.github.io/pull/125) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 - [Implement CallWithDeprecatedIniOptionRule](https://github.com/phpstan/phpstan-deprecation-rules/pull/120) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (4 days ago)
-- [Force generator to use PHP 8.1.x](https://github.com/thecodingmachine/safe/pull/476) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
