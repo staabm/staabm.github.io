@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [5.0.2](https://github.com/Smile-SA/gdpr-dump/releases/tag/5.0.2) (today)
 - [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [1.1.0](https://github.com/johnbillion/wp-compat/releases/tag/1.1.0) (2 days ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.21.2](https://github.com/pmmp/PocketMine-MP/releases/tag/5.21.2) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.194](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.194) (3 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.0.3](https://github.com/phpstan/phpstan/releases/tag/2.0.3) (4 days ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.1](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.1) (4 days ago)
 - [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [2.0.3](https://github.com/FriendsOfREDAXO/adminer/releases/tag/2.0.3) (4 days ago)
-- [twigstan/twigstan](https://github.com/twigstan/twigstan) - [0.1.2](https://github.com/twigstan/twigstan/releases/tag/0.1.2) (4 days ago)
