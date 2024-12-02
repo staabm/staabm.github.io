@@ -59,6 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.1](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.1) (today)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.44.0](https://github.com/Roave/BetterReflection/releases/tag/6.44.0) (today)
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [5.0.2](https://github.com/Smile-SA/gdpr-dump/releases/tag/5.0.2) (today)
 - [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [1.1.0](https://github.com/johnbillion/wp-compat/releases/tag/1.1.0) (2 days ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.21.2](https://github.com/pmmp/PocketMine-MP/releases/tag/5.21.2) (3 days ago)
@@ -67,5 +69,3 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.38](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.38) (3 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.0](https://github.com/symfony/symfony/releases/tag/v7.2.0) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.0.3](https://github.com/phpstan/phpstan/releases/tag/2.0.3) (4 days ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.1](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.1) (4 days ago)
-- [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [2.0.3](https://github.com/FriendsOfREDAXO/adminer/releases/tag/2.0.3) (4 days ago)
