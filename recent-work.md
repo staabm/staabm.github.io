@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added lint in github actions](https://github.com/thecodingmachine/safe/pull/493) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (today)
 - [Update PHPStan to 2.x](https://github.com/staabm/phpstan-baseline-analysis/pull/187) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [5x Faster `IntersectionType-&gt;getEnumCases()`](https://github.com/phpstan/phpstan-src/pull/3695) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Use `is_file` over `file_exists`](https://github.com/sebastianbergmann/phpunit/pull/6058) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
@@ -54,7 +55,6 @@
 - [Report deprecations in `ini_*()` functions](https://github.com/staabm/staabm.github.io/pull/125) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 - [Implement CallWithDeprecatedIniOptionRule](https://github.com/phpstan/phpstan-deprecation-rules/pull/120) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (4 days ago)
 - [Force generator to use PHP 8.1.x](https://github.com/thecodingmachine/safe/pull/476) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (4 days ago)
-- [Update symfony dependencies](https://github.com/thecodingmachine/safe/pull/475) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
