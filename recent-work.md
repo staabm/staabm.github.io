@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Create FUNDING.yml](https://github.com/thecodingmachine/safe/pull/496) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (today)
 - [PHPStan: enable bleeding edge](https://github.com/thecodingmachine/safe/pull/494) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (1 day ago)
 - [Added lint in github actions](https://github.com/thecodingmachine/safe/pull/493) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (1 day ago)
 - [Update PHPStan to 2.x](https://github.com/staabm/phpstan-baseline-analysis/pull/187) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
@@ -54,7 +55,6 @@
 - [Remove duplicate `is_file()` check](https://github.com/sebastianbergmann/phpunit/pull/6050) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [more progress](https://github.com/staabm/staabm.github.io/pull/126) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 - [Report deprecations in `ini_*()` functions](https://github.com/staabm/staabm.github.io/pull/125) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
-- [Implement CallWithDeprecatedIniOptionRule](https://github.com/phpstan/phpstan-deprecation-rules/pull/120) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
