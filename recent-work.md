@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.9.0](https://github.com/shopware/shopware/releases/tag/v6.6.9.0) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.1](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.1) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.44.0](https://github.com/Roave/BetterReflection/releases/tag/6.44.0) (1 day ago)
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [5.0.2](https://github.com/Smile-SA/gdpr-dump/releases/tag/5.0.2) (1 day ago)
@@ -68,4 +69,3 @@
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.10](https://github.com/lucatume/wp-browser/releases/tag/3.7.10) (4 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.38](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.38) (4 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.0](https://github.com/symfony/symfony/releases/tag/v7.2.0) (4 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.0.3](https://github.com/phpstan/phpstan/releases/tag/2.0.3) (5 days ago)
