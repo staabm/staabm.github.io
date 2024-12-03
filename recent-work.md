@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (1 day ago)
+- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
