@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.22.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.22.0) (today)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.11](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.11) (1 day ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.9.0](https://github.com/shopware/shopware/releases/tag/v6.6.9.0) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.1](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.1) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.44.0](https://github.com/Roave/BetterReflection/releases/tag/6.44.0) (2 days ago)
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [5.0.2](https://github.com/Smile-SA/gdpr-dump/releases/tag/5.0.2) (2 days ago)
 - [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [1.1.0](https://github.com/johnbillion/wp-compat/releases/tag/1.1.0) (4 days ago)
-- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.21.2](https://github.com/pmmp/PocketMine-MP/releases/tag/5.21.2) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [1.0.194](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/1.0.194) (5 days ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.10](https://github.com/lucatume/wp-browser/releases/tag/3.7.10) (5 days ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.38](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.38) (5 days ago)
