@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement ArrayColumnRule](https://github.com/phpstan/phpstan-src/pull/3706) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Create FUNDING.yml](https://github.com/thecodingmachine/safe/pull/496) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (1 day ago)
 - [PHPStan: enable bleeding edge](https://github.com/thecodingmachine/safe/pull/494) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (2 days ago)
 - [Added lint in github actions](https://github.com/thecodingmachine/safe/pull/493) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (2 days ago)
@@ -54,7 +55,6 @@
 - [Use `is_file` over `file_exists`](https://github.com/sebastianbergmann/phpunit/pull/6051) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
 - [Remove duplicate `is_file()` check](https://github.com/sebastianbergmann/phpunit/pull/6050) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
 - [more progress](https://github.com/staabm/staabm.github.io/pull/126) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
-- [Report deprecations in `ini_*()` functions](https://github.com/staabm/staabm.github.io/pull/125) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
