@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.23.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.23.0) (today)
+- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.23.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.23.1) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [9.6.22](https://github.com/sebastianbergmann/phpunit/releases/tag/9.6.22) (today)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [6.3.0](https://github.com/sebastianbergmann/exporter/releases/tag/6.3.0) (today)
 - [twigstan/twigstan](https://github.com/twigstan/twigstan) - [0.1.3](https://github.com/twigstan/twigstan/releases/tag/0.1.3) (1 day ago)
