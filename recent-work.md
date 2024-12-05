@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [6.2.0](https://github.com/sebastianbergmann/exporter/releases/tag/6.2.0) (today)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [6.3.0](https://github.com/sebastianbergmann/exporter/releases/tag/6.3.0) (today)
 - [twigstan/twigstan](https://github.com/twigstan/twigstan) - [0.1.3](https://github.com/twigstan/twigstan/releases/tag/0.1.3) (1 day ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.22.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.22.0) (1 day ago)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.11](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.11) (2 days ago)
