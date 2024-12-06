@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
@@ -11,7 +12,6 @@
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 week ago)
 - [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) (1 week ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 
 
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Detect callables invoked via `register_shutdown_function`](https://github.com/TomasVotruba/unused-public/pull/139) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
+- [Fix build](https://github.com/staabm/phpstan-dba/pull/726) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Implement ArrayColumnRule](https://github.com/phpstan/phpstan-src/pull/3706) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Create FUNDING.yml](https://github.com/thecodingmachine/safe/pull/496) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (3 days ago)
 - [PHPStan: enable bleeding edge](https://github.com/thecodingmachine/safe/pull/494) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (4 days ago)
@@ -53,8 +55,6 @@
 - [Update EOL-Daten für PHP 8.4](https://github.com/redaxo/redaxo/pull/6185) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [Update PHPStan to 1.12.12](https://github.com/FriendsOfREDAXO/rexstan/pull/780) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [Use `is_file` over `file_exists`](https://github.com/sebastianbergmann/phpunit/pull/6051) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [Remove duplicate `is_file()` check](https://github.com/sebastianbergmann/phpunit/pull/6050) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [more progress](https://github.com/staabm/staabm.github.io/pull/126) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
