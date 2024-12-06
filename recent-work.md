@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Detect callables in any static array](https://github.com/TomasVotruba/unused-public/pull/140) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Declare public `@api`](https://github.com/staabm/SysMonitor/pull/27) on [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (today)
 - [Detect callables invoked via `register_shutdown_function`](https://github.com/TomasVotruba/unused-public/pull/139) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Fix build](https://github.com/staabm/phpstan-dba/pull/726) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
@@ -54,11 +55,11 @@
 - [Lazier return in `UnionType-&gt;isSuperTypeOf()` (~40% faster)](https://github.com/phpstan/phpstan-src/pull/3693) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Lazier return in `UnionType-&gt;isSuperTypeOfWithReason()` (~40% faster)](https://github.com/phpstan/phpstan-src/pull/3692) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Update EOL-Daten für PHP 8.4](https://github.com/redaxo/redaxo/pull/6185) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
-- [Update PHPStan to 1.12.12](https://github.com/FriendsOfREDAXO/rexstan/pull/780) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.18.1](https://github.com/redaxo/redaxo/releases/tag/5.18.1) (today)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) - [1.0.6](https://github.com/staabm/SysMonitor/releases/tag/1.0.6) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.5.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.0) (today)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.23.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.23.1) (1 day ago)
@@ -68,4 +69,3 @@
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.9.0](https://github.com/shopware/shopware/releases/tag/v6.6.9.0) (3 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.1](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.1) (4 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.44.0](https://github.com/Roave/BetterReflection/releases/tag/6.44.0) (4 days ago)
-- [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [5.0.2](https://github.com/Smile-SA/gdpr-dump/releases/tag/5.0.2) (4 days ago)
