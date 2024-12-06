@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.5.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.0) (today)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.23.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.23.1) (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [9.6.22](https://github.com/sebastianbergmann/phpunit/releases/tag/9.6.22) (1 day ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [6.3.0](https://github.com/sebastianbergmann/exporter/releases/tag/6.3.0) (1 day ago)
 - [twigstan/twigstan](https://github.com/twigstan/twigstan) - [0.1.3](https://github.com/twigstan/twigstan/releases/tag/0.1.3) (2 days ago)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.11](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.11) (3 days ago)
