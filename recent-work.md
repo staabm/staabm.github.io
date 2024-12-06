@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (today)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 days ago)
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 week ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) (1 week ago)
 
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Declare public `@api`](https://github.com/staabm/SysMonitor/pull/27) on [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (today)
 - [Detect callables invoked via `register_shutdown_function`](https://github.com/TomasVotruba/unused-public/pull/139) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [Fix build](https://github.com/staabm/phpstan-dba/pull/726) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Implement ArrayColumnRule](https://github.com/phpstan/phpstan-src/pull/3706) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,11 +55,11 @@
 - [Lazier return in `UnionType-&gt;isSuperTypeOfWithReason()` (~40% faster)](https://github.com/phpstan/phpstan-src/pull/3692) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Update EOL-Daten für PHP 8.4](https://github.com/redaxo/redaxo/pull/6185) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [Update PHPStan to 1.12.12](https://github.com/FriendsOfREDAXO/rexstan/pull/780) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [Use `is_file` over `file_exists`](https://github.com/sebastianbergmann/phpunit/pull/6051) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/SysMonitor](https://github.com/staabm/SysMonitor) - [1.0.6](https://github.com/staabm/SysMonitor/releases/tag/1.0.6) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.5.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.0) (today)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.23.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.23.1) (1 day ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [6.3.0](https://github.com/sebastianbergmann/exporter/releases/tag/6.3.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.1](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.1) (4 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.44.0](https://github.com/Roave/BetterReflection/releases/tag/6.44.0) (4 days ago)
 - [Smile-SA/gdpr-dump](https://github.com/Smile-SA/gdpr-dump) - [5.0.2](https://github.com/Smile-SA/gdpr-dump/releases/tag/5.0.2) (4 days ago)
-- [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [1.1.0](https://github.com/johnbillion/wp-compat/releases/tag/1.1.0) (6 days ago)
