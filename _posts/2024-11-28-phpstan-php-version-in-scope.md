@@ -33,7 +33,7 @@ If you want to cover your codebase cross several PHP versions, you need to set u
 You also need multiple PHPStan baselines to ignore errors which are only relevant for a specific PHP version.
 Such a setup brings additional complexity not everyone is willing to deal with.
 
-In my experience most projects set up PHPStan only for a few PHP versions and ignore the rest, which leaves a lot of potential errors undetected.
+In my experience most projects set up PHPStan only for a single PHP versions and ignore the rest, which leaves a lot of potential errors undetected.
 
 Another challenge you face over and over when upgrading PHP versions is the `resource` to objects migration.
 There are [articles on the web](https://php.watch/articles/resource-object) on this problem alone.
