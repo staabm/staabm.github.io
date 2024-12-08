@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [4.4.0](https://github.com/lucatume/wp-browser/releases/tag/4.4.0) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.18.1](https://github.com/redaxo/redaxo/releases/tag/5.18.1) (2 days ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) - [1.0.6](https://github.com/staabm/SysMonitor/releases/tag/1.0.6) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.5.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.0) (2 days ago)
@@ -68,4 +69,3 @@
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.11](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.11) (5 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.9.0](https://github.com/shopware/shopware/releases/tag/v6.6.9.0) (5 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.1](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.1) (6 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.44.0](https://github.com/Roave/BetterReflection/releases/tag/6.44.0) (6 days ago)
