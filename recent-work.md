@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix wrong type in `ProcessedCodeCoverageData`](https://github.com/sebastianbergmann/php-code-coverage/pull/1052) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
 - [Fix `phpstan-type` declarations](https://github.com/sebastianbergmann/php-code-coverage/pull/1051) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
 - [Support CallableTypeCollector](https://github.com/staabm/cross-repo-unused-methods/pull/2) on [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (3 days ago)
 - [Detect callables in any static array](https://github.com/TomasVotruba/unused-public/pull/140) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
@@ -54,7 +55,6 @@
 - [5x Faster `IntersectionType-&gt;getEnumCases()`](https://github.com/phpstan/phpstan-src/pull/3695) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Use `is_file` over `file_exists`](https://github.com/sebastianbergmann/phpunit/pull/6058) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [typo](https://github.com/staabm/staabm.github.io/pull/127) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
-- [Lazier return in `UnionType-&gt;isSuperTypeOf()` (~40% faster)](https://github.com/phpstan/phpstan-src/pull/3693) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
