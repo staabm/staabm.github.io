@@ -4,12 +4,12 @@
 #### 💻 Check out what I'm currently working on
 
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (3 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (4 days ago)
+- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (4 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
