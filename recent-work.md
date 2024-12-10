@@ -40,7 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Implement AssertSameOverAssertEqualsRule](https://github.com/phpstan/phpstan-phpunit/pull/216) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
+- [[PHPUnit] Support list in YieldDataProviderRector](https://github.com/rectorphp/rector-phpunit/pull/418) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
+- [Implement AssertEqualsIsDiscouragedRule](https://github.com/phpstan/phpstan-phpunit/pull/216) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [YieldDataProviderRector: added failling test](https://github.com/rectorphp/rector-phpunit/pull/414) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 day ago)
 - [Fix wrong type in `ProcessedCodeCoverageData`](https://github.com/sebastianbergmann/php-code-coverage/pull/1052) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
 - [Fix `phpstan-type` declarations](https://github.com/sebastianbergmann/php-code-coverage/pull/1051) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
@@ -54,7 +55,6 @@
 - [PHPStan: enable bleeding edge](https://github.com/thecodingmachine/safe/pull/494) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (1 week ago)
 - [Added lint in github actions](https://github.com/thecodingmachine/safe/pull/493) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (1 week ago)
 - [Update PHPStan to 2.x](https://github.com/staabm/phpstan-baseline-analysis/pull/187) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
-- [5x Faster `IntersectionType-&gt;getEnumCases()`](https://github.com/phpstan/phpstan-src/pull/3695) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
