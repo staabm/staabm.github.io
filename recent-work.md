@@ -4,8 +4,8 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 day ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 days ago)
 - [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (4 days ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (5 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [RegexArrayShapeMatcher: Don&#39;t narrow &#39;J&#39; modifier](https://github.com/phpstan/phpstan-src/pull/3723) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [RegexArrayShapeMatcher: fix regex alternatives in capture group are concatenated](https://github.com/phpstan/phpstan-src/pull/3722) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [RegexArrayShapeMatcher: fix regex wildcard omitted from type](https://github.com/phpstan/phpstan-src/pull/3721) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [[PHPUnit] Support list in YieldDataProviderRector](https://github.com/rectorphp/rector-phpunit/pull/418) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 day ago)
@@ -54,11 +55,11 @@
 - [Fix build](https://github.com/staabm/phpstan-dba/pull/726) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [Implement ArrayColumnRule](https://github.com/phpstan/phpstan-src/pull/3706) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Create FUNDING.yml](https://github.com/thecodingmachine/safe/pull/496) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (1 week ago)
-- [PHPStan: enable bleeding edge](https://github.com/thecodingmachine/safe/pull/494) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [antecedent/patchwork](https://github.com/antecedent/patchwork) - [2.2.1](https://github.com/antecedent/patchwork/releases/tag/2.2.1) (today)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v0.9.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v0.9.0) (1 day ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.23.2](https://github.com/pmmp/PocketMine-MP/releases/tag/5.23.2) (2 days ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.11](https://github.com/lucatume/wp-browser/releases/tag/3.7.11) (2 days ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.5.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.0) (5 days ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [6.3.0](https://github.com/sebastianbergmann/exporter/releases/tag/6.3.0) (6 days ago)
 - [twigstan/twigstan](https://github.com/twigstan/twigstan) - [0.1.3](https://github.com/twigstan/twigstan/releases/tag/0.1.3) (1 week ago)
-- [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.11](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.11) (1 week ago)
