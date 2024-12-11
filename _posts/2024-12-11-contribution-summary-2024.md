@@ -66,7 +66,7 @@ If you look closely you can easily see my focus on quality assurance and static 
 
 ### Thank you
 
-I want to say thank you to anyone supporting my efforts.
+I want to say thank you to everyone supporting my efforts.
 Whether you sponsor my time or you invest your own time to review my pull requests or maintain one of the above projects.
 
 I couldn't deliver so much value in the PHP ecosystem without you 🥰.
