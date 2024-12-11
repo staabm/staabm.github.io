@@ -30,14 +30,14 @@ The following table shows the distribution of freetime contributions across the 
 |-------------------------------------------|-----------------------|--------------------|
 | phpstan/phpstan*                          | ~234   (~116 in 2022) | 69    (33 in 2023) |
 | rector/rector*                            | ~31   (~178 in 2023)  | 2                  |
-| FriendsOfREDAXO/rexstan                   | 11                    | -                  |
 | staabm/phpstandba                         | 38  (~44 in 2023)     | 8                  |
+| sebastianbergmann/phpunit                 | 37                    | -                  |
 | staabm/phpstan-todo-by                    | 35  (~33 in 2023)     | 7                  |
 | TomasVotruba/unused-public                | 28                    | 1                  |
 | staabm/phpstan-baseline-analysis          | 22                    | -                  |
 | Roave/BetterReflection                    | 12                    | -                  |
 | composer/*                                | 12   (2 in 2023)      | -                  |
-| sebastianbergmann/phpunit                 | 37                    | -                  |
+| FriendsOfREDAXO/rexstan                   | 11                    | -                  |
 | easy-coding-standard/easy-coding-standard | 9                     | 1                  |
 | php/doc-en                                | 7                     | -                  |
 | thecodingmachine/safe                     | 8                     | -                  |
