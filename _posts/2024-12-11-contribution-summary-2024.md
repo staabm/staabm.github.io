@@ -29,7 +29,7 @@ The following table shows the distribution of freetime contributions across the 
 
 | project                                   | merged pull requests  | addressed issues   |
 |-------------------------------------------|-----------------------|--------------------|
-| phpstan/phpstan*                          | ~234   (~116 in 2022) | 69    (33 in 2023) |
+| phpstan/phpstan*                          | ~234   (~116 in 2023) | 69    (33 in 2023) |
 | rector/rector*                            | ~31   (~178 in 2023)  | 2                  |
 | staabm/phpstandba                         | 38  (~44 in 2023)     | 8                  |
 | sebastianbergmann/phpunit                 | 37                    | -                  |
