@@ -62,7 +62,7 @@ I am pretty happy with contributing to so many popular and important projects of
 If you look closely you can easily see my focus and quality assurance and static analysis tools :-).
 
 
-### 2025 is just arround the corner
+### 2025 is just around the corner
 
 I wish you all the best for the upcoming year. I am looking forward to continue my open source work and I hope you will support me in doing so.
 
