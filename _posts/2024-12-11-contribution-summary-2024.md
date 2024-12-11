@@ -61,6 +61,12 @@ _numbers crunched with [staabm/oss-contribs](https://github.com/staabm/oss-contr
 I am pretty happy with contributing to so many popular and important projects of the PHP ecosystem.
 If you look closely you can easily see my focus on quality assurance and static analysis tools :-).
 
+### Thank you
+
+I want to say thank you to anyone supporting my efforts.
+Whether you sponsor my time or you invest your own time to review my pull requests or maintain one of the above projects.
+
+I couldn't deliver so much value in the PHP ecosystem without you 🥰.
 
 ### 2025 is just around the corner
 
