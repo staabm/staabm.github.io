@@ -18,6 +18,7 @@ Let's have a look at my personal highlights of 547 merged pull requests across 8
 - [`@require-extends` and `@require-implements`](https://phpstan.org/writing-php-code/phpdocs-basics#enforcing-class-inheritance-for-interfaces-and-traits) in PHPStan, see also [my blog post](https://staabm.github.io/2024/01/15/phpstan-require-extends-implements.html)
 - [Dead code detection for PHP_* constants](https://staabm.github.io/2024/11/14/phpstan-php-version-narrowing.html)
 - Took part in the [PHPUnit Codesprint in Munich](https://staabm.github.io/2024/10/19/phpunit-codesprint-munich.html)
+- phpstan-todo-by - check for [TODO comments with expiration](https://staabm.github.io/2023/12/17/phpstan-todo-by-published.html)
 - Endless pull requests to improve performance and efficiency in PHPStan and Rector
 - Hundreds of bug fixes in PHPStan, Rector, PHPUnit, Composer…
 
