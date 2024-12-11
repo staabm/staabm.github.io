@@ -25,7 +25,7 @@ Let's have a look at my personal highlights of 547 merged pull requests across 8
 
 In a recent blog post you can in addition find my [current plan for the upcoming months](https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html).
 
-The following table shows the distribution of contributions across the different projects I am working on.
+The following table shows the distribution of freetime contributions across the different projects I am working on.
 
 | project                                   | merged pull requests  | addressed issues   |
 |-------------------------------------------|-----------------------|--------------------|
@@ -58,6 +58,8 @@ The following table shows the distribution of contributions across the different
 | … a lot more                              | -                     | -                  |
 
 _numbers crunched with [staabm/oss-contribs](https://github.com/staabm/oss-contribs)_
+
+I am pretty happy with contributing to so many popular and important projects of the PHP ecosystem.
 
 
 ### 2025 is just arround the corner
