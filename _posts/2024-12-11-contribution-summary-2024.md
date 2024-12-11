@@ -11,9 +11,7 @@ ogImage:
     fileName: "oss-contributions-summary-2024"
 ---
 
-The year 2024 comes to an end and I want to have a look back at my open source contributions.
-
-Let's have a look at my personal highlights of 547 merged pull requests across 80 open-source projects:
+Let's have a look at my personal highlights of 547 merged pull requests across 80 open-source projects in 2024:
 - [A `mixed` type PHPStan journey](https://staabm.github.io/2024/11/26/phpstan-mixed-types.html)
 - [`@param-out` implementation](https://phpstan.org/blog/phpstan-1-9-0-with-phpdoc-asserts-list-type#parameter-type-assigned-by-reference) in PHPStan
 - [type inference for regular expressions](https://phpstan.org/blog/phpstan-1-12-road-to-phpstan-2-0#general-availability-of-precise-type-inference-for-regular-expressions) in PHPStan, see also [my blog post](https://staabm.github.io/2024/07/05/array-shapes-for-preg-match-matches.html)
@@ -24,6 +22,7 @@ Let's have a look at my personal highlights of 547 merged pull requests across 8
 - Hundreds of bug fixes in PHPStan, Rector, PHPUnit, Composer…
 
 In a recent blog post you can in addition find my [current plan for the upcoming months](https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html).
+I am still looking for [financial support for this effort](https://github.com/sponsors/staabm).
 
 The following table shows the distribution of freetime contributions across the different projects I am working on.
 
@@ -60,6 +59,7 @@ The following table shows the distribution of freetime contributions across the 
 _numbers crunched with [staabm/oss-contribs](https://github.com/staabm/oss-contribs)_
 
 I am pretty happy with contributing to so many popular and important projects of the PHP ecosystem.
+If you look closely you can easily see my focus and quality assurance and static analysis tools :-).
 
 
 ### 2025 is just arround the corner
