@@ -11,7 +11,7 @@ ogImage:
     fileName: "oss-contributions-summary-2024"
 ---
 
-2024 marks the year in which the Tomas Votruba (Rector) and Ondřej Mirtes (PHPStan) started supporting my open source work, which means a lot to me 🥰.
+2024 marks the year in which Tomas Votruba (Rector) and Ondřej Mirtes (PHPStan) started sponsoring my open source work, which means a lot to me 🥰.
 
 Let's have a look at my contribution highlights of 547 merged pull requests across 80 open-source projects:
 - [A `mixed` type PHPStan journey](https://staabm.github.io/2024/11/26/phpstan-mixed-types.html)
