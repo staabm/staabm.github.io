@@ -59,7 +59,7 @@ The following table shows the distribution of freetime contributions across the 
 _numbers crunched with [staabm/oss-contribs](https://github.com/staabm/oss-contribs)_
 
 I am pretty happy with contributing to so many popular and important projects of the PHP ecosystem.
-If you look closely you can easily see my focus and quality assurance and static analysis tools :-).
+If you look closely you can easily see my focus on quality assurance and static analysis tools :-).
 
 
 ### 2025 is just around the corner
