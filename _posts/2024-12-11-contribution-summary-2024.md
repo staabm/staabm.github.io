@@ -37,7 +37,7 @@ The following table shows the distribution of freetime contributions across the 
 | TomasVotruba/unused-public                | 28                    | 1                  |
 | staabm/phpstan-baseline-analysis          | 22                    | -                  |
 | Roave/BetterReflection                    | 12                    | -                  |
-| composer/*                                | 12   (2 in 2023)      | -                  |
+| composer/*                                | 12                    | -                  |
 | FriendsOfREDAXO/rexstan                   | 11                    | -                  |
 | easy-coding-standard/easy-coding-standard | 9                     | 1                  |
 | php/doc-en                                | 7                     | -                  |
@@ -52,7 +52,7 @@ The following table shows the distribution of freetime contributions across the 
 | infection/infection                       | 2                     | -                  |
 | shipmonk-rnd/dead-code-detector           | 2                     | -                  |
 | TomasVotruba/cognitive-complexity         | 1                     | -                  |
-| vimeo/psalm                               | 1 (1 in 2023)         | 1                  |
+| vimeo/psalm                               | 1                     | 1                  |
 | symfony/symfony                           | 1                     | -                  |
 | larastan/larastan                         | 1                     | -                  |
 | … a lot more                              | -                     | -                  |
