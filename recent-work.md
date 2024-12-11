@@ -59,6 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [11.0.8](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.8) (today)
+- [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.1](https://github.com/symfony/symfony/releases/tag/v7.2.1) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.45.0](https://github.com/Roave/BetterReflection/releases/tag/6.45.0) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.5.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.1) (today)
 - [antecedent/patchwork](https://github.com/antecedent/patchwork) - [2.2.1](https://github.com/antecedent/patchwork/releases/tag/2.2.1) (today)
@@ -67,5 +69,3 @@
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.11](https://github.com/lucatume/wp-browser/releases/tag/3.7.11) (2 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.29.9](https://github.com/infection/infection/releases/tag/0.29.9) (3 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.18.1](https://github.com/redaxo/redaxo/releases/tag/5.18.1) (5 days ago)
-- [staabm/SysMonitor](https://github.com/staabm/SysMonitor) - [1.0.6](https://github.com/staabm/SysMonitor/releases/tag/1.0.6) (5 days ago)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [6.3.0](https://github.com/sebastianbergmann/exporter/releases/tag/6.3.0) (6 days ago)
