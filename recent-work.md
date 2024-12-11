@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Create 2024-12-11-contribution-summary-2024.md](https://github.com/staabm/staabm.github.io/pull/128) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [RegexArrayShapeMatcher: Don&#39;t narrow &#39;J&#39; modifier](https://github.com/phpstan/phpstan-src/pull/3723) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [RegexArrayShapeMatcher: fix regex alternatives in capture group are concatenated](https://github.com/phpstan/phpstan-src/pull/3722) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [RegexArrayShapeMatcher: fix regex wildcard omitted from type](https://github.com/phpstan/phpstan-src/pull/3721) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Detect callables invoked via `register_shutdown_function`](https://github.com/TomasVotruba/unused-public/pull/139) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (5 days ago)
 - [Fix build](https://github.com/staabm/phpstan-dba/pull/726) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [Implement ArrayColumnRule](https://github.com/phpstan/phpstan-src/pull/3706) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Create FUNDING.yml](https://github.com/thecodingmachine/safe/pull/496) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
