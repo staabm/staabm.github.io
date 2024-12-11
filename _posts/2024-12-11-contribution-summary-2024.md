@@ -14,7 +14,7 @@ ogImage:
 2024 marks the year in which the Rector (Tomas Votruba) and PHPStan (Ondřej Mirtes) projects started supporting my open source work,
 which means a lot to me 🥰.
 
-Let's have a look at my contribution highlights of 547 merged pull requests across 80 open-source projects in 2024:
+Let's have a look at my contribution highlights of 547 merged pull requests across 80 open-source projects:
 - [A `mixed` type PHPStan journey](https://staabm.github.io/2024/11/26/phpstan-mixed-types.html)
 - [`@param-out` implementation](https://phpstan.org/blog/phpstan-1-9-0-with-phpdoc-asserts-list-type#parameter-type-assigned-by-reference) in PHPStan
 - [type inference for regular expressions](https://phpstan.org/blog/phpstan-1-12-road-to-phpstan-2-0#general-availability-of-precise-type-inference-for-regular-expressions) in PHPStan, see also [my blog post](https://staabm.github.io/2024/07/05/array-shapes-for-preg-match-matches.html)
