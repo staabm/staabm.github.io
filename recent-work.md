@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.45.0](https://github.com/Roave/BetterReflection/releases/tag/6.45.0) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.5.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.1) (today)
 - [antecedent/patchwork](https://github.com/antecedent/patchwork) - [2.2.1](https://github.com/antecedent/patchwork/releases/tag/2.2.1) (today)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v0.9.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v0.9.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.18.1](https://github.com/redaxo/redaxo/releases/tag/5.18.1) (5 days ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) - [1.0.6](https://github.com/staabm/SysMonitor/releases/tag/1.0.6) (5 days ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [6.3.0](https://github.com/sebastianbergmann/exporter/releases/tag/6.3.0) (6 days ago)
-- [twigstan/twigstan](https://github.com/twigstan/twigstan) - [0.1.3](https://github.com/twigstan/twigstan/releases/tag/0.1.3) (1 week ago)
