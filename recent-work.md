@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.46.0](https://github.com/Roave/BetterReflection/releases/tag/6.46.0) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [11.0.8](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.8) (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.1](https://github.com/symfony/symfony/releases/tag/v7.2.1) (1 day ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.45.0](https://github.com/Roave/BetterReflection/releases/tag/6.45.0) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.5.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.1) (1 day ago)
 - [antecedent/patchwork](https://github.com/antecedent/patchwork) - [2.2.1](https://github.com/antecedent/patchwork/releases/tag/2.2.1) (1 day ago)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v0.9.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v0.9.0) (2 days ago)
