@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (3 days ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added `strictRulesInstalled` parameter](https://github.com/phpstan/phpstan-strict-rules/pull/254) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
+- [Added `strictRulesInstalled` parameter](https://github.com/phpstan/phpstan-src/pull/3729) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Create 2024-12-11-contribution-summary-2024.md](https://github.com/staabm/staabm.github.io/pull/128) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [RegexArrayShapeMatcher: Don&#39;t narrow &#39;J&#39; modifier](https://github.com/phpstan/phpstan-src/pull/3723) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [RegexArrayShapeMatcher: fix regex alternatives in capture group are concatenated](https://github.com/phpstan/phpstan-src/pull/3722) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Detect callables in any static array](https://github.com/TomasVotruba/unused-public/pull/140) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (6 days ago)
 - [Declare public `@api`](https://github.com/staabm/SysMonitor/pull/27) on [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (6 days ago)
 - [Detect callables invoked via `register_shutdown_function`](https://github.com/TomasVotruba/unused-public/pull/139) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (6 days ago)
-- [Fix build](https://github.com/staabm/phpstan-dba/pull/726) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
-- [Implement ArrayColumnRule](https://github.com/phpstan/phpstan-src/pull/3706) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
