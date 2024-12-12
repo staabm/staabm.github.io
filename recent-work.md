@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (3 days ago)
 - [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (5 days ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (6 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (6 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
-- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update to PHPStan 2.x and Rector 2.x](https://github.com/TomasVotruba/cognitive-complexity/pull/9) on [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (today)
+- [Drop thecodingmachine/safe](https://github.com/FriendsOfREDAXO/rexstan/pull/783) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [Update PHPStan to 2.x](https://github.com/FriendsOfREDAXO/rexstan/pull/782) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Added `strictRulesInstalled` parameter](https://github.com/phpstan/phpstan-strict-rules/pull/254) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
 - [Added `strictRulesInstalled` parameter](https://github.com/phpstan/phpstan-src/pull/3729) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Create 2024-12-11-contribution-summary-2024.md](https://github.com/staabm/staabm.github.io/pull/128) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
@@ -52,9 +55,6 @@
 - [Fix wrong type in `ProcessedCodeCoverageData`](https://github.com/sebastianbergmann/php-code-coverage/pull/1052) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (3 days ago)
 - [Fix `phpstan-type` declarations](https://github.com/sebastianbergmann/php-code-coverage/pull/1051) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (3 days ago)
 - [Support CallableTypeCollector](https://github.com/staabm/cross-repo-unused-methods/pull/2) on [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (6 days ago)
-- [Detect callables in any static array](https://github.com/TomasVotruba/unused-public/pull/140) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (6 days ago)
-- [Declare public `@api`](https://github.com/staabm/SysMonitor/pull/27) on [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (6 days ago)
-- [Detect callables invoked via `register_shutdown_function`](https://github.com/TomasVotruba/unused-public/pull/139) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
