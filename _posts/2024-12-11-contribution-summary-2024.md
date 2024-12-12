@@ -13,6 +13,8 @@ ogImage:
 
 2024 marks the year in which Tomas Votruba (Rector) and Ondřej Mirtes (PHPStan) started sponsoring my open source work, which means a lot to me 🥰.
 
+Another outstanding moment this year was the addition of my [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) library [in PHPUnit](https://github.com/sebastianbergmann/phpunit/pull/5998).
+
 Let's have a look at my contribution highlights of 547 merged pull requests across 80 open-source projects:
 - [A `mixed` type PHPStan journey](https://staabm.github.io/2024/11/26/phpstan-mixed-types.html)
 - [`@param-out` implementation](https://phpstan.org/blog/phpstan-1-9-0-with-phpdoc-asserts-list-type#parameter-type-assigned-by-reference) in PHPStan
