@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support level 10](https://github.com/FriendsOfREDAXO/rexstan/pull/787) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [next release is 2.0](https://github.com/FriendsOfREDAXO/rexstan/pull/786) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Upgrade to PHPStan 2.x](https://github.com/FriendsOfREDAXO/rexstan/pull/785) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Drop `ParametersAcceptorSelector::selectSingle()`](https://github.com/FriendsOfREDAXO/rexstan/pull/784) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Rules: Use more specific node-type](https://github.com/phpstan/phpstan-phpunit/pull/217) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
@@ -53,12 +55,11 @@
 - [RegexArrayShapeMatcher: Don&#39;t narrow &#39;J&#39; modifier](https://github.com/phpstan/phpstan-src/pull/3723) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [RegexArrayShapeMatcher: fix regex alternatives in capture group are concatenated](https://github.com/phpstan/phpstan-src/pull/3722) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [RegexArrayShapeMatcher: fix regex wildcard omitted from type](https://github.com/phpstan/phpstan-src/pull/3721) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [[PHPUnit] Support list in YieldDataProviderRector](https://github.com/rectorphp/rector-phpunit/pull/418) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (3 days ago)
-- [Implement AssertEqualsIsDiscouragedRule](https://github.com/phpstan/phpstan-phpunit/pull/216) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.46.0](https://github.com/Roave/BetterReflection/releases/tag/6.46.0) (1 day ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [11.0.8](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.8) (2 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.1](https://github.com/symfony/symfony/releases/tag/v7.2.1) (2 days ago)
@@ -68,4 +69,3 @@
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.23.2](https://github.com/pmmp/PocketMine-MP/releases/tag/5.23.2) (4 days ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.11](https://github.com/lucatume/wp-browser/releases/tag/3.7.11) (4 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.29.9](https://github.com/infection/infection/releases/tag/0.29.9) (5 days ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.18.1](https://github.com/redaxo/redaxo/releases/tag/5.18.1) (1 week ago)
