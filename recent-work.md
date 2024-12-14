@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix PHPStan level 7 errors](https://github.com/sebastianbergmann/phpunit/pull/6084) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Drop thecodingmachine/safe](https://github.com/staabm/phpstan-baseline-analysis/pull/191) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [Support level 10](https://github.com/FriendsOfREDAXO/rexstan/pull/787) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [next release is 2.0](https://github.com/FriendsOfREDAXO/rexstan/pull/786) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -54,7 +55,6 @@
 - [Added `strictRulesInstalled` parameter](https://github.com/phpstan/phpstan-src/pull/3729) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Create 2024-12-11-contribution-summary-2024.md](https://github.com/staabm/staabm.github.io/pull/128) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
 - [RegexArrayShapeMatcher: Don&#39;t narrow &#39;J&#39; modifier](https://github.com/phpstan/phpstan-src/pull/3723) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [RegexArrayShapeMatcher: fix regex alternatives in capture group are concatenated](https://github.com/phpstan/phpstan-src/pull/3722) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
