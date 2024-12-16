@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support # comments in regex](https://github.com/phpstan/phpstan-src/pull/3735) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [10% faster FunctionCallParametersCheck](https://github.com/phpstan/phpstan-src/pull/3734) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Reduce unnecessary IO](https://github.com/sebastianbergmann/php-code-coverage/pull/1059) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
 - [Added `Directory-&gt;getIterator()` return type](https://github.com/sebastianbergmann/php-code-coverage/pull/1058) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
@@ -54,7 +55,6 @@
 - [Upgrade to PHPStan 2.x](https://github.com/FriendsOfREDAXO/rexstan/pull/785) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [Drop `ParametersAcceptorSelector::selectSingle()`](https://github.com/FriendsOfREDAXO/rexstan/pull/784) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [Rules: Use more specific node-type](https://github.com/phpstan/phpstan-phpunit/pull/217) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
-- [Added Rule error identifiers](https://github.com/TomasVotruba/cognitive-complexity/pull/10) on [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
