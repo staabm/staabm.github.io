@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Turn `Filter::stackTraceAsString()` private](https://github.com/sebastianbergmann/phpunit/pull/6085) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Removed unused method `ClassChildAnalyzer-&gt;hasParentClassMethod()`](https://github.com/rectorphp/rector-src/pull/6595) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Detect unused protected methods](https://github.com/TomasVotruba/unused-public/pull/144) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
 - [More precise reflection-classes return types](https://github.com/phpstan/phpstan-src/pull/3731) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Update to PHPStan 2.x and Rector 2.x](https://github.com/TomasVotruba/cognitive-complexity/pull/9) on [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (4 days ago)
 - [Drop thecodingmachine/safe](https://github.com/FriendsOfREDAXO/rexstan/pull/783) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [Update PHPStan to 2.x](https://github.com/FriendsOfREDAXO/rexstan/pull/782) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [Added `strictRulesInstalled` parameter](https://github.com/phpstan/phpstan-strict-rules/pull/254) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
