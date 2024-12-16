@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Reduce unnecessary IO](https://github.com/sebastianbergmann/php-code-coverage/pull/1059) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
+- [Added `Directory-&gt;getIterator()` return type](https://github.com/sebastianbergmann/php-code-coverage/pull/1058) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
 - [Turn `Filter::stackTraceAsString()` private](https://github.com/sebastianbergmann/phpunit/pull/6085) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Removed unused method `ClassChildAnalyzer-&gt;hasParentClassMethod()`](https://github.com/rectorphp/rector-src/pull/6595) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Detect unused protected methods](https://github.com/TomasVotruba/unused-public/pull/144) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (today)
@@ -53,8 +55,6 @@
 - [Rules: Use more specific node-type](https://github.com/phpstan/phpstan-phpunit/pull/217) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
 - [Added Rule error identifiers](https://github.com/TomasVotruba/cognitive-complexity/pull/10) on [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (4 days ago)
 - [Update to PHPStan 2.x and Rector 2.x](https://github.com/TomasVotruba/cognitive-complexity/pull/9) on [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (4 days ago)
-- [Drop thecodingmachine/safe](https://github.com/FriendsOfREDAXO/rexstan/pull/783) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [Update PHPStan to 2.x](https://github.com/FriendsOfREDAXO/rexstan/pull/782) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
