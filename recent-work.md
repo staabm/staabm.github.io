@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2024.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.3) (today)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.13.1](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.13.1) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0) (4 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.46.0](https://github.com/Roave/BetterReflection/releases/tag/6.46.0) (5 days ago)
@@ -68,4 +69,3 @@
 - [antecedent/patchwork](https://github.com/antecedent/patchwork) - [2.2.1](https://github.com/antecedent/patchwork/releases/tag/2.2.1) (6 days ago)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v0.9.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v0.9.0) (1 week ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.23.2](https://github.com/pmmp/PocketMine-MP/releases/tag/5.23.2) (1 week ago)
-- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.11](https://github.com/lucatume/wp-browser/releases/tag/3.7.11) (1 week ago)
