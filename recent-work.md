@@ -4,7 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Faster `MutatingScope-&gt;getNodeKey()`](https://github.com/phpstan/phpstan-src/pull/3736) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Support # comments in regex](https://github.com/phpstan/phpstan-src/pull/3735) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [10% faster FunctionCallParametersCheck](https://github.com/phpstan/phpstan-src/pull/3734) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Reduce unnecessary IO](https://github.com/sebastianbergmann/php-code-coverage/pull/1059) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
@@ -54,7 +55,6 @@
 - [next release is 2.0](https://github.com/FriendsOfREDAXO/rexstan/pull/786) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [Upgrade to PHPStan 2.x](https://github.com/FriendsOfREDAXO/rexstan/pull/785) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [Drop `ParametersAcceptorSelector::selectSingle()`](https://github.com/FriendsOfREDAXO/rexstan/pull/784) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [Rules: Use more specific node-type](https://github.com/phpstan/phpstan-phpunit/pull/217) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
