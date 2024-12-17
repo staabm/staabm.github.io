@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix `DOMDocument::create*()` return types](https://github.com/phpstan/phpstan-src/pull/3737) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Faster `MutatingScope-&gt;getNodeKey()`](https://github.com/phpstan/phpstan-src/pull/3736) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Support # comments in regex](https://github.com/phpstan/phpstan-src/pull/3735) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [10% faster FunctionCallParametersCheck](https://github.com/phpstan/phpstan-src/pull/3734) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Support level 10](https://github.com/FriendsOfREDAXO/rexstan/pull/787) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [next release is 2.0](https://github.com/FriendsOfREDAXO/rexstan/pull/786) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [Upgrade to PHPStan 2.x](https://github.com/FriendsOfREDAXO/rexstan/pull/785) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [Drop `ParametersAcceptorSelector::selectSingle()`](https://github.com/FriendsOfREDAXO/rexstan/pull/784) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
