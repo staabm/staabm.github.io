@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.47.0](https://github.com/Roave/BetterReflection/releases/tag/6.47.0) (today)
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.39](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.39) (today)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2024.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.3) (today)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.13.1](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.13.1) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0) (4 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.46.0](https://github.com/Roave/BetterReflection/releases/tag/6.46.0) (5 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [11.0.8](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.8) (6 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.1](https://github.com/symfony/symfony/releases/tag/v7.2.1) (6 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.5.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.1) (6 days ago)
 - [antecedent/patchwork](https://github.com/antecedent/patchwork) - [2.2.1](https://github.com/antecedent/patchwork/releases/tag/2.2.1) (6 days ago)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v0.9.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v0.9.0) (1 week ago)
-- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.23.2](https://github.com/pmmp/PocketMine-MP/releases/tag/5.23.2) (1 week ago)
