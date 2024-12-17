@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix regex comment support eating too much chars](https://github.com/phpstan/phpstan-src/pull/3739) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Readonly classes cannot be combined with `#[AllowDynamicProperties]`](https://github.com/phpstan/phpstan-src/pull/3738) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix `DOMDocument::create*()` return types](https://github.com/phpstan/phpstan-src/pull/3737) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Faster `MutatingScope-&gt;getNodeKey()`](https://github.com/phpstan/phpstan-src/pull/3736) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Support # comments in regex](https://github.com/phpstan/phpstan-src/pull/3735) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Fix PHPStan level 7 errors](https://github.com/sebastianbergmann/phpunit/pull/6084) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [Drop thecodingmachine/safe](https://github.com/staabm/phpstan-baseline-analysis/pull/191) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
 - [Support level 10](https://github.com/FriendsOfREDAXO/rexstan/pull/787) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [next release is 2.0](https://github.com/FriendsOfREDAXO/rexstan/pull/786) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [Upgrade to PHPStan 2.x](https://github.com/FriendsOfREDAXO/rexstan/pull/785) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
