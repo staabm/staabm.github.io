@@ -3,8 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -12,7 +13,6 @@
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
 - [TomasVotruba/cognitive-complexity](https://github.com/TomasVotruba/cognitive-complexity) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (5 days ago)
 
 
 #### 📜 My recent blog posts
@@ -59,6 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.2](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.2) (today)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.1](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.1) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.0.4](https://github.com/phpstan/phpstan/releases/tag/2.0.4) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.47.0](https://github.com/Roave/BetterReflection/releases/tag/6.47.0) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.39](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.39) (today)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2024.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.3) (today)
@@ -66,6 +69,3 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0) (4 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [11.0.8](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.8) (6 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.1](https://github.com/symfony/symfony/releases/tag/v7.2.1) (6 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.5.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.1) (6 days ago)
-- [antecedent/patchwork](https://github.com/antecedent/patchwork) - [2.2.1](https://github.com/antecedent/patchwork/releases/tag/2.2.1) (6 days ago)
-- [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v0.9.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v0.9.0) (1 week ago)
