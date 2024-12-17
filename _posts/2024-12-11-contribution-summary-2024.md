@@ -73,6 +73,8 @@ Whether you sponsor my time or you invest your own time to review my pull reques
 
 I couldn't deliver so much value in the PHP ecosystem without you 🥰.
 
+<img src="/images/post-images/contribution-summary-2024/git-wrapped.png" alt="git-wrapped.com stats for @staabm for 2024">
+
 ### 2025 is just around the corner
 
 I wish you all the best for the upcoming year. I am looking forward to continue my open source work and I hope you will support me in doing so.
