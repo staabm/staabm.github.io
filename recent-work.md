@@ -40,6 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix phpdocs](https://github.com/staabm/password_exposed/pull/4) on [staabm/password_exposed](https://github.com/staabm/password_exposed) (today)
+- [Use symfony/http-client](https://github.com/staabm/password_exposed/pull/3) on [staabm/password_exposed](https://github.com/staabm/password_exposed) (today)
+- [Setup Dependabot](https://github.com/staabm/password_exposed/pull/2) on [staabm/password_exposed](https://github.com/staabm/password_exposed) (today)
+- [CI: Setup phpunit github action](https://github.com/staabm/password_exposed/pull/1) on [staabm/password_exposed](https://github.com/staabm/password_exposed) (today)
 - [Fix regex comment support eating too much chars](https://github.com/phpstan/phpstan-src/pull/3739) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Readonly classes cannot be combined with `#[AllowDynamicProperties]`](https://github.com/phpstan/phpstan-src/pull/3738) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix `DOMDocument::create*()` return types](https://github.com/phpstan/phpstan-src/pull/3737) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -51,10 +55,6 @@
 - [Turn `Filter::stackTraceAsString()` private](https://github.com/sebastianbergmann/phpunit/pull/6085) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [Removed unused method `ClassChildAnalyzer-&gt;hasParentClassMethod()`](https://github.com/rectorphp/rector-src/pull/6595) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Detect unused protected methods](https://github.com/TomasVotruba/unused-public/pull/144) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
-- [More precise reflection-classes return types](https://github.com/phpstan/phpstan-src/pull/3731) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Fix PHPStan level 7 errors](https://github.com/sebastianbergmann/phpunit/pull/6084) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
-- [Drop thecodingmachine/safe](https://github.com/staabm/phpstan-baseline-analysis/pull/191) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
-- [Support level 10](https://github.com/FriendsOfREDAXO/rexstan/pull/787) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
