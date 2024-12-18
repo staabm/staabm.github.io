@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.1.0](https://github.com/symplify/phpstan-rules/releases/tag/14.1.0) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.48.0](https://github.com/Roave/BetterReflection/releases/tag/6.48.0) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.29.10](https://github.com/infection/infection/releases/tag/0.29.10) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.40](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.40) (today)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.0.4](https://github.com/phpstan/phpstan/releases/tag/2.0.4) (1 day ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2024.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.3) (1 day ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.13.1](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.13.1) (4 days ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [11.0.8](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.8) (1 week ago)
