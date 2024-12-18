@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Run $lines through array_filter() to remove empty strings that can cause unhandled exceptions](https://github.com/staabm/password_exposed/pull/8) on [staabm/password_exposed](https://github.com/staabm/password_exposed) (today)
+- [Rename package to staabm/password_exposed](https://github.com/staabm/password_exposed/pull/7) on [staabm/password_exposed](https://github.com/staabm/password_exposed) (today)
 - [fix phpdocs](https://github.com/staabm/password_exposed/pull/4) on [staabm/password_exposed](https://github.com/staabm/password_exposed) (today)
 - [Use symfony/http-client](https://github.com/staabm/password_exposed/pull/3) on [staabm/password_exposed](https://github.com/staabm/password_exposed) (today)
 - [Setup Dependabot](https://github.com/staabm/password_exposed/pull/2) on [staabm/password_exposed](https://github.com/staabm/password_exposed) (today)
@@ -53,8 +55,6 @@
 - [Reduce unnecessary IO](https://github.com/sebastianbergmann/php-code-coverage/pull/1059) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 days ago)
 - [Added `Directory-&gt;getIterator()` return type](https://github.com/sebastianbergmann/php-code-coverage/pull/1058) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 days ago)
 - [Turn `Filter::stackTraceAsString()` private](https://github.com/sebastianbergmann/phpunit/pull/6085) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
-- [Removed unused method `ClassChildAnalyzer-&gt;hasParentClassMethod()`](https://github.com/rectorphp/rector-src/pull/6595) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [Detect unused protected methods](https://github.com/TomasVotruba/unused-public/pull/144) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
