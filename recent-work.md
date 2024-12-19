@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support `assertNotEquals` in AssertEqualsIsDiscouragedRule](https://github.com/phpstan/phpstan-phpunit/pull/219) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [Run $lines through array_filter() to remove empty strings that can cause unhandled exceptions](https://github.com/staabm/password_exposed/pull/8) on [staabm/password_exposed](https://github.com/staabm/password_exposed) (1 day ago)
 - [Rename package to staabm/password_exposed](https://github.com/staabm/password_exposed/pull/7) on [staabm/password_exposed](https://github.com/staabm/password_exposed) (1 day ago)
 - [fix phpdocs](https://github.com/staabm/password_exposed/pull/4) on [staabm/password_exposed](https://github.com/staabm/password_exposed) (1 day ago)
@@ -54,7 +55,6 @@
 - [10% faster FunctionCallParametersCheck](https://github.com/phpstan/phpstan-src/pull/3734) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Reduce unnecessary IO](https://github.com/sebastianbergmann/php-code-coverage/pull/1059) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (3 days ago)
 - [Added `Directory-&gt;getIterator()` return type](https://github.com/sebastianbergmann/php-code-coverage/pull/1058) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (3 days ago)
-- [Turn `Filter::stackTraceAsString()` private](https://github.com/sebastianbergmann/phpunit/pull/6085) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
