@@ -1,0 +1,56 @@
+{
+  "version": "v1.0.0",
+  "entity": {
+    "type": "individual",
+    "role": "contributor",
+    "name": "Markus Staab",
+    "email": "maggus.staab+funding@gmail.com",
+    "description": "I am one of the top contributors to PHPStan, Rector and PHPUnit.\nThese 3 tools are under the most popular quality tools in the PHP ecosystem.",
+    "webpageUrl": {
+      "url": "https://staabm.github.io/"
+    }
+  },
+  "projects": [
+    {
+      "guid": "phpstan-multi-phpversion-support",
+      "name": "Improve the PHPStan story around multi-phpversion supporting code",
+      "description": "My new focus area will be improving the PHPStan story around multi php-version supporting code. This means focusing on stuff which is different between PHP versions.\n\nIf you want to cover your codebase cross several PHP versions, you need to set up a CI matrix with different PHP versions. You also need multiple PHPStan baselines to ignore errors which are only relevant for a specific PHP version. Such a setup brings additional complexity not everyone is willing to deal with.\n\nIn my experience most projects set up PHPStan only for a few PHP versions and ignore the rest, which leaves a lot of potential errors undetected.\n\nLet me work on PHPStan to iterate on this use-case so your next PHP version upgrade will be easier and contain less hurdles. ",
+      "webpageUrl": {
+        "url": "https://staabm.github.io/"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/phpstan/phpstan-src"
+      },
+      "licenses": [
+        "MIT"
+      ],
+      "tags": [
+        "static analysis",
+        "php"
+      ]
+    }
+  ],
+  "funding": {
+    "channels": [
+      {
+        "guid": "github-sponsors",
+        "type": "other",
+        "description": "Sponsoring via https://github.com/sponsors/staabm"
+      }
+    ],
+    "plans": [
+      {
+        "guid": "monthly-500",
+        "status": "active",
+        "name": "monthly funding plan",
+        "amount": 500,
+        "currency": "EUR",
+        "frequency": "monthly",
+        "channels": [
+          "github-sponsors"
+        ]
+      }
+    ],
+    "history": []
+  }
+}

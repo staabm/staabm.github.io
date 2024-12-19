@@ -33,7 +33,7 @@ If you want to cover your codebase cross several PHP versions, you need to set u
 You also need multiple PHPStan baselines to ignore errors which are only relevant for a specific PHP version.
 Such a setup brings additional complexity not everyone is willing to deal with.
 
-In my experience most projects set up PHPStan only for a few PHP versions and ignore the rest, which leaves a lot of potential errors undetected.
+In my experience most projects set up PHPStan only for a single PHP version and ignore the rest, which leaves a lot of potential errors undetected.
 
 Another challenge you face over and over when upgrading PHP versions is the `resource` to objects migration.
 There are [articles on the web](https://php.watch/articles/resource-object) on this problem alone.
@@ -55,7 +55,7 @@ To help you answer this questions my goals are:
 
 #### How can you support my effort?
 
-I think working on this thing will be a multi month effort and will at least take several dozens of pull requests.
+I think working on this thing will be a multi month freetime effort and will at least take several dozens of pull requests.
 
 If you are hit by at least one of the problems I described above and feel the pain you should talk to your boss to [sponsor my free time efforts](https://github.com/sponsors/staabm),
 so I can spend more time on it, and you have less problems to deal with in your daily job.
@@ -162,6 +162,8 @@ A [new PHPStan rule](https://github.com/phpstan/phpstan-deprecation-rules/pull/1
 ```php
 <?php declare(strict_types = 1);
 
+// new error:
+// Call to function ini_get() with deprecated option 'assert.active'.
 var_dump(ini_get('assert.active'));
 ```
 
