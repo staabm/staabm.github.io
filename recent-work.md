@@ -4,8 +4,8 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [git export-ignore `composer-dependency-analyser.php` file](https://github.com/symplify/phpstan-rules/pull/157) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (today)
+- [update github-actions with dependabot](https://github.com/FriendsOfREDAXO/rexstan/pull/796) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Fix preg_match() group containing start/end meta characters](https://github.com/phpstan/phpstan-src/pull/3740) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [update symfony/cache dependency](https://github.com/staabm/password_exposed/pull/9) on [staabm/password_exposed](https://github.com/staabm/password_exposed) (today)
 - [Support `assertNotEquals` in AssertEqualsIsDiscouragedRule](https://github.com/phpstan/phpstan-phpunit/pull/219) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
@@ -53,8 +55,6 @@
 - [Readonly classes cannot be combined with `#[AllowDynamicProperties]`](https://github.com/phpstan/phpstan-src/pull/3738) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fix `DOMDocument::create*()` return types](https://github.com/phpstan/phpstan-src/pull/3737) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Faster `MutatingScope-&gt;getNodeKey()`](https://github.com/phpstan/phpstan-src/pull/3736) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Support # comments in regex](https://github.com/phpstan/phpstan-src/pull/3735) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [10% faster FunctionCallParametersCheck](https://github.com/phpstan/phpstan-src/pull/3734) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
