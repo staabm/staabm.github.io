@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [php/php-src](https://github.com/php/php-src) - [php-8.3.15](https://github.com/php/php-src/releases/tag/php-8.3.15) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.3](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.3) (1 day ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.1.0](https://github.com/symplify/phpstan-rules/releases/tag/14.1.0) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.48.0](https://github.com/Roave/BetterReflection/releases/tag/6.48.0) (2 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.1](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.1) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.0.4](https://github.com/phpstan/phpstan/releases/tag/2.0.4) (3 days ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2024.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.3) (3 days ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.13.1](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.13.1) (6 days ago)
