@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.42](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.42) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.49.0](https://github.com/Roave/BetterReflection/releases/tag/6.49.0) (1 day ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.41](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.41) (1 day ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.15](https://github.com/php/php-src/releases/tag/php-8.3.15) (1 day ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.3](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.3) (2 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.1.0](https://github.com/symplify/phpstan-rules/releases/tag/14.1.0) (3 days ago)
