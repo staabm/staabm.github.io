@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.5.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.2) (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - [bun-v1.1.42](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.42) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.49.0](https://github.com/Roave/BetterReflection/releases/tag/6.49.0) (1 day ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.15](https://github.com/php/php-src/releases/tag/php-8.3.15) (1 day ago)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.2](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.2) (4 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.1](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.1) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.0.4](https://github.com/phpstan/phpstan/releases/tag/2.0.4) (4 days ago)
-- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2024.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2024.3) (4 days ago)
