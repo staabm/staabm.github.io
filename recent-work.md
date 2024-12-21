@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improve loose comparison on integer](https://github.com/phpstan/phpstan-src/pull/3748) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Improve loose comparison on boolean](https://github.com/phpstan/phpstan-src/pull/3747) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix test turning warnings into ErrorExceptions](https://github.com/sebastianbergmann/phpunit/pull/6089) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [git export-ignore `composer-dependency-analyser.php` file](https://github.com/symplify/phpstan-rules/pull/157) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 days ago)
@@ -54,7 +55,6 @@
 - [Setup Dependabot](https://github.com/staabm/password_exposed/pull/2) on [staabm/password_exposed](https://github.com/staabm/password_exposed) (3 days ago)
 - [CI: Setup phpunit github action](https://github.com/staabm/password_exposed/pull/1) on [staabm/password_exposed](https://github.com/staabm/password_exposed) (3 days ago)
 - [Fix regex comment support eating too much chars](https://github.com/phpstan/phpstan-src/pull/3739) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Readonly classes cannot be combined with `#[AllowDynamicProperties]`](https://github.com/phpstan/phpstan-src/pull/3738) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
