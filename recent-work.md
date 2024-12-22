@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improve loose comparison on union type](https://github.com/phpstan/phpstan-src/pull/3750) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Improve loose comparison on integer](https://github.com/phpstan/phpstan-src/pull/3748) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Improve loose comparison on boolean](https://github.com/phpstan/phpstan-src/pull/3747) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix test turning warnings into ErrorExceptions](https://github.com/sebastianbergmann/phpunit/pull/6089) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
@@ -54,7 +55,6 @@
 - [Use symfony/http-client](https://github.com/staabm/password_exposed/pull/3) on [staabm/password_exposed](https://github.com/staabm/password_exposed) (4 days ago)
 - [Setup Dependabot](https://github.com/staabm/password_exposed/pull/2) on [staabm/password_exposed](https://github.com/staabm/password_exposed) (4 days ago)
 - [CI: Setup phpunit github action](https://github.com/staabm/password_exposed/pull/1) on [staabm/password_exposed](https://github.com/staabm/password_exposed) (4 days ago)
-- [Fix regex comment support eating too much chars](https://github.com/phpstan/phpstan-src/pull/3739) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
