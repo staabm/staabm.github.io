@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (today)
 - [staabm/dotfiles](https://github.com/staabm/dotfiles) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (4 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
