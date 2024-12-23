@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (today)
 - [staabm/dotfiles](https://github.com/staabm/dotfiles) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (4 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [PHPStan: generate baseline](https://github.com/staabm/cross-repo-unused-methods/pull/5) on [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (today)
+- [Added PHPStan 2.x support](https://github.com/staabm/cross-repo-unused-methods/pull/4) on [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (today)
+- [POC: detect unused protected methods](https://github.com/staabm/cross-repo-unused-methods/pull/3) on [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (today)
 - [README: fix usage example](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/pull/26) on [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (today)
 - [Improve loose comparison on union type](https://github.com/phpstan/phpstan-src/pull/3750) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Improve loose comparison on integer](https://github.com/phpstan/phpstan-src/pull/3748) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -52,9 +55,6 @@
 - [Support `assertNotEquals` in AssertEqualsIsDiscouragedRule](https://github.com/phpstan/phpstan-phpunit/pull/219) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
 - [Run $lines through array_filter() to remove empty strings that can cause unhandled exceptions](https://github.com/staabm/password_exposed/pull/8) on [staabm/password_exposed](https://github.com/staabm/password_exposed) (5 days ago)
 - [Rename package to staabm/password_exposed](https://github.com/staabm/password_exposed/pull/7) on [staabm/password_exposed](https://github.com/staabm/password_exposed) (5 days ago)
-- [fix phpdocs](https://github.com/staabm/password_exposed/pull/4) on [staabm/password_exposed](https://github.com/staabm/password_exposed) (5 days ago)
-- [Use symfony/http-client](https://github.com/staabm/password_exposed/pull/3) on [staabm/password_exposed](https://github.com/staabm/password_exposed) (5 days ago)
-- [Setup Dependabot](https://github.com/staabm/password_exposed/pull/2) on [staabm/password_exposed](https://github.com/staabm/password_exposed) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
