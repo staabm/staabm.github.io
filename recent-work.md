@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Test loose comparison on constant types](https://github.com/phpstan/phpstan-src/pull/3755) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [PHPStan: generate baseline](https://github.com/staabm/cross-repo-unused-methods/pull/5) on [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (2 days ago)
 - [Added PHPStan 2.x support](https://github.com/staabm/cross-repo-unused-methods/pull/4) on [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (2 days ago)
 - [POC: detect unused protected methods](https://github.com/staabm/cross-repo-unused-methods/pull/3) on [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (2 days ago)
@@ -54,7 +55,6 @@
 - [update symfony/cache dependency](https://github.com/staabm/password_exposed/pull/9) on [staabm/password_exposed](https://github.com/staabm/password_exposed) (6 days ago)
 - [Support `assertNotEquals` in AssertEqualsIsDiscouragedRule](https://github.com/phpstan/phpstan-phpunit/pull/219) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
 - [Run $lines through array_filter() to remove empty strings that can cause unhandled exceptions](https://github.com/staabm/password_exposed/pull/8) on [staabm/password_exposed](https://github.com/staabm/password_exposed) (1 week ago)
-- [Rename package to staabm/password_exposed](https://github.com/staabm/password_exposed/pull/7) on [staabm/password_exposed](https://github.com/staabm/password_exposed) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
