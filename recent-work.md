@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove stubs](https://github.com/rectorphp/type-perfect/pull/51) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
 - [Improve loose comparison on string types](https://github.com/phpstan/phpstan-src/pull/3756) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Test loose comparison on constant types](https://github.com/phpstan/phpstan-src/pull/3755) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [PHPStan: generate baseline](https://github.com/staabm/cross-repo-unused-methods/pull/5) on [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (2 days ago)
@@ -54,7 +55,6 @@
 - [update github-actions with dependabot](https://github.com/FriendsOfREDAXO/rexstan/pull/796) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [Fix preg_match() group containing start/end meta characters](https://github.com/phpstan/phpstan-src/pull/3740) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [update symfony/cache dependency](https://github.com/staabm/password_exposed/pull/9) on [staabm/password_exposed](https://github.com/staabm/password_exposed) (6 days ago)
-- [Support `assertNotEquals` in AssertEqualsIsDiscouragedRule](https://github.com/phpstan/phpstan-phpunit/pull/219) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
