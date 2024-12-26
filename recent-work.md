@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 day ago)
-- [staabm/dotfiles](https://github.com/staabm/dotfiles) (3 days ago)
 - [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (3 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
+- [staabm/dotfiles](https://github.com/staabm/dotfiles) (3 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 week ago)
 
 
 #### 📜 My recent blog posts
