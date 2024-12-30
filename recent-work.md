@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [PreviousConnectingVisitor: Utilize WeakReference to assist garbage collector](https://github.com/staabm/phpstan-dba/pull/730) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Reduce use of PreviousConnectingVisitor:: ATTRIBUTE_PARENT to assist garbage collector](https://github.com/staabm/phpstan-dba/pull/729) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Simplify NodeTraverser-&gt;traverseArray()](https://github.com/nikic/PHP-Parser/pull/1056) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
 - [Disable PreviousConnectingVisitor](https://github.com/staabm/phpstan-dba/pull/728) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
@@ -54,18 +55,17 @@
 - [POC: detect unused protected methods](https://github.com/staabm/cross-repo-unused-methods/pull/3) on [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (1 week ago)
 - [README: fix usage example](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/pull/26) on [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (1 week ago)
 - [Improve loose comparison on union type](https://github.com/phpstan/phpstan-src/pull/3750) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Improve loose comparison on integer](https://github.com/phpstan/phpstan-src/pull/3748) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.50.0](https://github.com/Roave/BetterReflection/releases/tag/6.50.0) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.3.2](https://github.com/staabm/phpstan-dba/releases/tag/0.3.2) (today)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.4.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.4.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.3](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.3) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.66.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.66.0) (1 day ago)
 - [kahlan/kahlan](https://github.com/kahlan/kahlan) - [6.0.0](https://github.com/kahlan/kahlan/releases/tag/6.0.0) (4 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.7.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.7.0) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.5.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.2) (1 week ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.49.0](https://github.com/Roave/BetterReflection/releases/tag/6.49.0) (1 week ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.15](https://github.com/php/php-src/releases/tag/php-8.3.15) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.3](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.3) (1 week ago)
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.1.0](https://github.com/symplify/phpstan-rules/releases/tag/14.1.0) (1 week ago)
