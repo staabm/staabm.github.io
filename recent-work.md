@@ -9,9 +9,9 @@
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [staabm/dotfiles](https://github.com/staabm/dotfiles) (1 week ago)
 - [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (1 week ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 
 
