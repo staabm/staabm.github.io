@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
+- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
-- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (5 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [staabm/dotfiles](https://github.com/staabm/dotfiles) (1 week ago)
 - [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (1 week ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 
 
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.3](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.3) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.66.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.66.0) (1 day ago)
 - [kahlan/kahlan](https://github.com/kahlan/kahlan) - [6.0.0](https://github.com/kahlan/kahlan/releases/tag/6.0.0) (4 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.7.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.7.0) (1 week ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.3](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.3) (1 week ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.1.0](https://github.com/symplify/phpstan-rules/releases/tag/14.1.0) (1 week ago)
 - [infection/infection](https://github.com/infection/infection) - [0.29.10](https://github.com/infection/infection/releases/tag/0.29.10) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.2](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.2) (1 week ago)
