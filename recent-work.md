@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
-- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (4 days ago)
-- [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (6 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [staabm/dotfiles](https://github.com/staabm/dotfiles) (6 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
+- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (5 days ago)
+- [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (1 week ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [staabm/dotfiles](https://github.com/staabm/dotfiles) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Implement `ArrayAccess-&gt;offsetExists` narrowing](https://github.com/phpstan/phpstan-src/pull/3760) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Remove phpstan-for-tests.neon from releases](https://github.com/rectorphp/type-perfect/pull/53) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (4 days ago)
-- [CI: Run on PHP 8.4](https://github.com/rectorphp/type-perfect/pull/52) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (4 days ago)
-- [Remove stubs](https://github.com/rectorphp/type-perfect/pull/51) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (4 days ago)
-- [Improve loose comparison on string types](https://github.com/phpstan/phpstan-src/pull/3756) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Test loose comparison on constant types](https://github.com/phpstan/phpstan-src/pull/3755) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [PHPStan: generate baseline](https://github.com/staabm/cross-repo-unused-methods/pull/5) on [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (6 days ago)
-- [Added PHPStan 2.x support](https://github.com/staabm/cross-repo-unused-methods/pull/4) on [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (6 days ago)
-- [POC: detect unused protected methods](https://github.com/staabm/cross-repo-unused-methods/pull/3) on [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (6 days ago)
-- [README: fix usage example](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/pull/26) on [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (6 days ago)
+- [Implement `ArrayAccess-&gt;offsetExists` narrowing](https://github.com/phpstan/phpstan-src/pull/3760) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Remove phpstan-for-tests.neon from releases](https://github.com/rectorphp/type-perfect/pull/53) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (5 days ago)
+- [CI: Run on PHP 8.4](https://github.com/rectorphp/type-perfect/pull/52) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (5 days ago)
+- [Remove stubs](https://github.com/rectorphp/type-perfect/pull/51) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (5 days ago)
+- [Improve loose comparison on string types](https://github.com/phpstan/phpstan-src/pull/3756) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Test loose comparison on constant types](https://github.com/phpstan/phpstan-src/pull/3755) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [PHPStan: generate baseline](https://github.com/staabm/cross-repo-unused-methods/pull/5) on [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (1 week ago)
+- [Added PHPStan 2.x support](https://github.com/staabm/cross-repo-unused-methods/pull/4) on [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (1 week ago)
+- [POC: detect unused protected methods](https://github.com/staabm/cross-repo-unused-methods/pull/3) on [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (1 week ago)
+- [README: fix usage example](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/pull/26) on [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (1 week ago)
 - [Improve loose comparison on union type](https://github.com/phpstan/phpstan-src/pull/3750) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Improve loose comparison on integer](https://github.com/phpstan/phpstan-src/pull/3748) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Improve loose comparison on boolean](https://github.com/phpstan/phpstan-src/pull/3747) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.66.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.66.0) (today)
-- [kahlan/kahlan](https://github.com/kahlan/kahlan) - [6.0.0](https://github.com/kahlan/kahlan/releases/tag/6.0.0) (3 days ago)
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.7.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.7.0) (6 days ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.66.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.66.0) (1 day ago)
+- [kahlan/kahlan](https://github.com/kahlan/kahlan) - [6.0.0](https://github.com/kahlan/kahlan/releases/tag/6.0.0) (4 days ago)
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.7.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.7.0) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.5.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.2) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.49.0](https://github.com/Roave/BetterReflection/releases/tag/6.49.0) (1 week ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.15](https://github.com/php/php-src/releases/tag/php-8.3.15) (1 week ago)
