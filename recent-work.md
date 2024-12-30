@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (5 days ago)
+- [staabm/dotfiles](https://github.com/staabm/dotfiles) (1 week ago)
 - [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [staabm/dotfiles](https://github.com/staabm/dotfiles) (1 week ago)
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Reduce use of PreviousConnectingVisitor:: ATTRIBUTE_PARENT to assist garbage collector](https://github.com/staabm/phpstan-dba/pull/729) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Simplify NodeTraverser-&gt;traverseArray()](https://github.com/nikic/PHP-Parser/pull/1056) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
+- [Disable PreviousConnectingVisitor](https://github.com/staabm/phpstan-dba/pull/728) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Implement `ArrayAccess-&gt;offsetExists` narrowing](https://github.com/phpstan/phpstan-src/pull/3760) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Remove phpstan-for-tests.neon from releases](https://github.com/rectorphp/type-perfect/pull/53) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (5 days ago)
 - [CI: Run on PHP 8.4](https://github.com/rectorphp/type-perfect/pull/52) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (5 days ago)
@@ -52,9 +55,6 @@
 - [README: fix usage example](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/pull/26) on [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (1 week ago)
 - [Improve loose comparison on union type](https://github.com/phpstan/phpstan-src/pull/3750) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Improve loose comparison on integer](https://github.com/phpstan/phpstan-src/pull/3748) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Improve loose comparison on boolean](https://github.com/phpstan/phpstan-src/pull/3747) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix test turning warnings into ErrorExceptions](https://github.com/sebastianbergmann/phpunit/pull/6089) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [git export-ignore `composer-dependency-analyser.php` file](https://github.com/symplify/phpstan-rules/pull/157) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
