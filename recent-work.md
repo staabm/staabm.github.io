@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.4](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.4) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.0](https://github.com/phpstan/phpstan/releases/tag/2.1.0) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.3.3](https://github.com/staabm/phpstan-dba/releases/tag/0.3.3) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.51.0](https://github.com/Roave/BetterReflection/releases/tag/6.51.0) (1 day ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.4.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.4.0) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.3](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.3) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.66.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.66.0) (2 days ago)
 - [kahlan/kahlan](https://github.com/kahlan/kahlan) - [6.0.0](https://github.com/kahlan/kahlan/releases/tag/6.0.0) (5 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.7.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.7.0) (1 week ago)
