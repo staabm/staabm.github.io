@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.0](https://github.com/phpstan/phpstan/releases/tag/2.1.0) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.3.3](https://github.com/staabm/phpstan-dba/releases/tag/0.3.3) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.51.0](https://github.com/Roave/BetterReflection/releases/tag/6.51.0) (1 day ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.4.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.4.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.7.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.7.0) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.5.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.2) (1 week ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.15](https://github.com/php/php-src/releases/tag/php-8.3.15) (1 week ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.3](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.3) (1 week ago)
