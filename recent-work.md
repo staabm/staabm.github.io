@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [More precise phpdocs in PhpToken](https://github.com/symfony/polyfill-php80/pull/6) on [symfony/polyfill-php80](https://github.com/symfony/polyfill-php80) (today)
+- [More precise phpdocs](https://github.com/nikic/PHP-Parser/pull/1058) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
 - [Generate HTML Coverage report](https://github.com/staabm/side-effects-detector/pull/28) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (today)
 - [Support WeakReferences in NodeConnectingVisitor](https://github.com/nikic/PHP-Parser/pull/1057) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
 - [Fix build](https://github.com/staabm/phpstan-dba/pull/732) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
@@ -53,8 +55,6 @@
 - [CI: Run on PHP 8.4](https://github.com/rectorphp/type-perfect/pull/52) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 week ago)
 - [Remove stubs](https://github.com/rectorphp/type-perfect/pull/51) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 week ago)
 - [Improve loose comparison on string types](https://github.com/phpstan/phpstan-src/pull/3756) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Test loose comparison on constant types](https://github.com/phpstan/phpstan-src/pull/3755) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [PHPStan: generate baseline](https://github.com/staabm/cross-repo-unused-methods/pull/5) on [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
