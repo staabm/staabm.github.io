@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support WeakReferences in NodeConnectingVisitor](https://github.com/nikic/PHP-Parser/pull/1057) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
 - [Fix build](https://github.com/staabm/phpstan-dba/pull/732) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [PreviousConnectingVisitor: Ignore Node\Arg, Node\Name](https://github.com/staabm/phpstan-dba/pull/731) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [PreviousConnectingVisitor: Utilize WeakReference to assist garbage collector](https://github.com/staabm/phpstan-dba/pull/730) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
@@ -54,7 +55,6 @@
 - [Test loose comparison on constant types](https://github.com/phpstan/phpstan-src/pull/3755) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [PHPStan: generate baseline](https://github.com/staabm/cross-repo-unused-methods/pull/5) on [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (1 week ago)
 - [Added PHPStan 2.x support](https://github.com/staabm/cross-repo-unused-methods/pull/4) on [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (1 week ago)
-- [POC: detect unused protected methods](https://github.com/staabm/cross-repo-unused-methods/pull/3) on [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
