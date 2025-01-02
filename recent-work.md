@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [ghostwriter/phormat](https://github.com/ghostwriter/phormat) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (3 days ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (3 days ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [staabm/dotfiles](https://github.com/staabm/dotfiles) (1 week ago)
 - [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (1 week ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
+- [staabm/dotfiles](https://github.com/staabm/dotfiles) (1 week ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 
 
 #### 📜 My recent blog posts
