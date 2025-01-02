@@ -8,8 +8,8 @@
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [staabm/dotfiles](https://github.com/staabm/dotfiles) (1 week ago)
 - [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix duplicate registration of ParentConnectingVisitor](https://github.com/ghostwriter/phormat/pull/22) on [ghostwriter/phormat](https://github.com/ghostwriter/phormat) (today)
 - [More precise phpdocs in PhpToken](https://github.com/symfony/polyfill/pull/513) on [symfony/polyfill](https://github.com/symfony/polyfill) (today)
 - [More precise phpdocs in PhpToken](https://github.com/symfony/polyfill-php80/pull/6) on [symfony/polyfill-php80](https://github.com/symfony/polyfill-php80) (1 day ago)
 - [More precise phpdocs](https://github.com/nikic/PHP-Parser/pull/1058) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 day ago)
@@ -54,7 +55,6 @@
 - [Implement `ArrayAccess-&gt;offsetExists` narrowing](https://github.com/phpstan/phpstan-src/pull/3760) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Remove phpstan-for-tests.neon from releases](https://github.com/rectorphp/type-perfect/pull/53) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 week ago)
 - [CI: Run on PHP 8.4](https://github.com/rectorphp/type-perfect/pull/52) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 week ago)
-- [Remove stubs](https://github.com/rectorphp/type-perfect/pull/51) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
