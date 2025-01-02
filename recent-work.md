@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [More precise phpdocs in PhpToken](https://github.com/symfony/polyfill/pull/513) on [symfony/polyfill](https://github.com/symfony/polyfill) (today)
 - [More precise phpdocs in PhpToken](https://github.com/symfony/polyfill-php80/pull/6) on [symfony/polyfill-php80](https://github.com/symfony/polyfill-php80) (1 day ago)
 - [More precise phpdocs](https://github.com/nikic/PHP-Parser/pull/1058) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 day ago)
 - [Generate HTML Coverage report](https://github.com/staabm/side-effects-detector/pull/28) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (1 day ago)
@@ -54,11 +55,11 @@
 - [Remove phpstan-for-tests.neon from releases](https://github.com/rectorphp/type-perfect/pull/53) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 week ago)
 - [CI: Run on PHP 8.4](https://github.com/rectorphp/type-perfect/pull/52) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 week ago)
 - [Remove stubs](https://github.com/rectorphp/type-perfect/pull/51) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 week ago)
-- [Improve loose comparison on string types](https://github.com/phpstan/phpstan-src/pull/3756) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [12.5.5](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.5.5) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.2](https://github.com/symfony/symfony/releases/tag/v7.2.2) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.4](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.4) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.0](https://github.com/phpstan/phpstan/releases/tag/2.1.0) (2 days ago)
@@ -68,4 +69,3 @@
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.66.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.66.0) (4 days ago)
 - [kahlan/kahlan](https://github.com/kahlan/kahlan) - [6.0.0](https://github.com/kahlan/kahlan/releases/tag/6.0.0) (1 week ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.7.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.7.0) (1 week ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.5.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.2) (1 week ago)
