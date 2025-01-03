@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix false positives on non-existing-offset&#39;s](https://github.com/phpstan/phpstan-src/pull/3766) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Improve loose comparison on IntegerRange containing zero](https://github.com/phpstan/phpstan-src/pull/3764) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix duplicate registration of ParentConnectingVisitor](https://github.com/ghostwriter/phormat/pull/22) on [ghostwriter/phormat](https://github.com/ghostwriter/phormat) (1 day ago)
 - [More precise phpdocs in PhpToken](https://github.com/symfony/polyfill/pull/513) on [symfony/polyfill](https://github.com/symfony/polyfill) (1 day ago)
@@ -54,7 +55,6 @@
 - [Simplify NodeTraverser-&gt;traverseArray()](https://github.com/nikic/PHP-Parser/pull/1056) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (4 days ago)
 - [Disable PreviousConnectingVisitor](https://github.com/staabm/phpstan-dba/pull/728) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [Implement `ArrayAccess-&gt;offsetExists` narrowing](https://github.com/phpstan/phpstan-src/pull/3760) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Remove phpstan-for-tests.neon from releases](https://github.com/rectorphp/type-perfect/pull/53) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
