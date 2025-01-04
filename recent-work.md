@@ -4,13 +4,13 @@
 #### 💻 Check out what I'm currently working on
 
 - [staabm/dotfiles](https://github.com/staabm/dotfiles) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [ghostwriter/phormat](https://github.com/ghostwriter/phormat) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (5 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (5 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (6 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [NodeScopeResolver: 10x Faster constant array processing](https://github.com/phpstan/phpstan-src/pull/3769) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix false positives on non-existing-offset&#39;s](https://github.com/phpstan/phpstan-src/pull/3766) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Improve loose comparison on IntegerRange containing zero](https://github.com/phpstan/phpstan-src/pull/3764) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fix duplicate registration of ParentConnectingVisitor](https://github.com/ghostwriter/phormat/pull/22) on [ghostwriter/phormat](https://github.com/ghostwriter/phormat) (2 days ago)
@@ -54,7 +55,6 @@
 - [Reduce use of PreviousConnectingVisitor:: ATTRIBUTE_PARENT to assist garbage collector](https://github.com/staabm/phpstan-dba/pull/729) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [Simplify NodeTraverser-&gt;traverseArray()](https://github.com/nikic/PHP-Parser/pull/1056) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (5 days ago)
 - [Disable PreviousConnectingVisitor](https://github.com/staabm/phpstan-dba/pull/728) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [Implement `ArrayAccess-&gt;offsetExists` narrowing](https://github.com/phpstan/phpstan-src/pull/3760) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
