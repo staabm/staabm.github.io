@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [MinMaxFunctionReturnTypeExtension: Cleanup `instanceof ConstantScalarType`](https://github.com/phpstan/phpstan-src/pull/3773) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Support arrays with union value-types in implode()](https://github.com/phpstan/phpstan-src/pull/3772) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Cleanup `instanceof ConstantBooleanType` checks](https://github.com/phpstan/phpstan-src/pull/3771) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [NodeScopeResolver: 10x Faster constant array processing](https://github.com/phpstan/phpstan-src/pull/3769) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix build](https://github.com/staabm/phpstan-dba/pull/732) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [PreviousConnectingVisitor: Ignore Node\Arg, Node\Name](https://github.com/staabm/phpstan-dba/pull/731) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [PreviousConnectingVisitor: Utilize WeakReference to assist garbage collector](https://github.com/staabm/phpstan-dba/pull/730) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
-- [Reduce use of PreviousConnectingVisitor:: ATTRIBUTE_PARENT to assist garbage collector](https://github.com/staabm/phpstan-dba/pull/729) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
