@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.66.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.66.1) (today)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.12](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.12) (2 days ago)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v0.10.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v0.10.0) (3 days ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [12.5.5](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.5.5) (3 days ago)
@@ -68,4 +69,3 @@
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.3.3](https://github.com/staabm/phpstan-dba/releases/tag/0.3.3) (6 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.51.0](https://github.com/Roave/BetterReflection/releases/tag/6.51.0) (6 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.4.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.4.0) (6 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.66.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.66.0) (1 week ago)
