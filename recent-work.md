@@ -4,7 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [staabm/dotfiles](https://github.com/staabm/dotfiles) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [ghostwriter/phormat](https://github.com/ghostwriter/phormat) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (6 days ago)
