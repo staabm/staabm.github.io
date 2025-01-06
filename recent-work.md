@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify FileIteratorSourceLocator](https://github.com/Roave/BetterReflection/pull/1477) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [More precise implode() return type](https://github.com/phpstan/phpstan-src/pull/3774) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [MinMaxFunctionReturnTypeExtension: Cleanup `instanceof ConstantScalarType`](https://github.com/phpstan/phpstan-src/pull/3773) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Support arrays with union value-types in implode()](https://github.com/phpstan/phpstan-src/pull/3772) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Generate HTML Coverage report](https://github.com/staabm/side-effects-detector/pull/28) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (5 days ago)
 - [Support WeakReferences in NodeConnectingVisitor](https://github.com/nikic/PHP-Parser/pull/1057) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (5 days ago)
 - [Fix build](https://github.com/staabm/phpstan-dba/pull/732) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
-- [PreviousConnectingVisitor: Ignore Node\Arg, Node\Name](https://github.com/staabm/phpstan-dba/pull/731) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
