@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [6.3.0](https://github.com/sebastianbergmann/comparator/releases/tag/6.3.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.5](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.5) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.1](https://github.com/phpstan/phpstan/releases/tag/2.1.1) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.66.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.66.1) (1 day ago)
@@ -68,4 +69,3 @@
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.2](https://github.com/symfony/symfony/releases/tag/v7.2.2) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.3.3](https://github.com/staabm/phpstan-dba/releases/tag/0.3.3) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.51.0](https://github.com/Roave/BetterReflection/releases/tag/6.51.0) (1 week ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.4.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.4.0) (1 week ago)
