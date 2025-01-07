@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.66.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.66.2) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.52.0](https://github.com/Roave/BetterReflection/releases/tag/6.52.0) (1 day ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [6.3.0](https://github.com/sebastianbergmann/comparator/releases/tag/6.3.0) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.5](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.5) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.1](https://github.com/phpstan/phpstan/releases/tag/2.1.1) (2 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.66.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.66.1) (2 days ago)
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.12](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.12) (4 days ago)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v0.10.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v0.10.0) (5 days ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [12.5.5](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.5.5) (5 days ago)
