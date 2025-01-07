@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [staabm/dotfiles](https://github.com/staabm/dotfiles) (4 days ago)
 - [ghostwriter/phormat](https://github.com/ghostwriter/phormat) (5 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
+- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 week ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
-- [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [remove unnecessary files from releases](https://github.com/staabm/secure_dotenv/pull/12) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
 - [Simplify `FileIteratorSourceLocator`, prevent stat calls on paths that aren&#39;t PHP files](https://github.com/Roave/BetterReflection/pull/1477) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
 - [More precise implode() return type](https://github.com/phpstan/phpstan-src/pull/3774) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [MinMaxFunctionReturnTypeExtension: Cleanup `instanceof ConstantScalarType`](https://github.com/phpstan/phpstan-src/pull/3773) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,11 +55,11 @@
 - [More precise phpdocs](https://github.com/nikic/PHP-Parser/pull/1058) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (6 days ago)
 - [Generate HTML Coverage report](https://github.com/staabm/side-effects-detector/pull/28) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (6 days ago)
 - [Support WeakReferences in NodeConnectingVisitor](https://github.com/nikic/PHP-Parser/pull/1057) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (6 days ago)
-- [Fix build](https://github.com/staabm/phpstan-dba/pull/732) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [10.0.3](https://github.com/staabm/secure_dotenv/releases/tag/10.0.3) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.66.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.66.2) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.52.0](https://github.com/Roave/BetterReflection/releases/tag/6.52.0) (1 day ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [6.3.0](https://github.com/sebastianbergmann/comparator/releases/tag/6.3.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v0.10.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v0.10.0) (5 days ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [12.5.5](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.5.5) (5 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.2](https://github.com/symfony/symfony/releases/tag/v7.2.2) (1 week ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.3.3](https://github.com/staabm/phpstan-dba/releases/tag/0.3.3) (1 week ago)
