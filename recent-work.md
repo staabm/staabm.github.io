@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update 1_Bug_report.md to 2.x](https://github.com/rectorphp/rector/pull/8967) on [rectorphp/rector](https://github.com/rectorphp/rector) (today)
 - [Re-added --json option](https://github.com/TomasVotruba/class-leak/pull/61) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (1 day ago)
 - [remove unnecessary files from releases](https://github.com/staabm/secure_dotenv/pull/12) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 day ago)
 - [Simplify `FileIteratorSourceLocator`, prevent stat calls on paths that aren&#39;t PHP files](https://github.com/Roave/BetterReflection/pull/1477) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 days ago)
@@ -54,7 +55,6 @@
 - [More precise phpdocs in PhpToken](https://github.com/symfony/polyfill/pull/513) on [symfony/polyfill](https://github.com/symfony/polyfill) (6 days ago)
 - [More precise phpdocs in PhpToken](https://github.com/symfony/polyfill-php80/pull/6) on [symfony/polyfill-php80](https://github.com/symfony/polyfill-php80) (1 week ago)
 - [More precise phpdocs](https://github.com/nikic/PHP-Parser/pull/1058) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
-- [Generate HTML Coverage report](https://github.com/staabm/side-effects-detector/pull/28) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
