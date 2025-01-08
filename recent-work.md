@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.67.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.67.0) (today)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [10.0.3](https://github.com/staabm/secure_dotenv/releases/tag/10.0.3) (1 day ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.66.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.66.2) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.52.0](https://github.com/Roave/BetterReflection/releases/tag/6.52.0) (2 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [6.3.0](https://github.com/sebastianbergmann/comparator/releases/tag/6.3.0) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.5](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.5) (3 days ago)
