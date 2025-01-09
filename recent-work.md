@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [UPGRADE.md: fix typo](https://github.com/deployphp/deployer/pull/3992) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
 - [Simplify ChangedFilesDetector](https://github.com/rectorphp/rector-src/pull/6662) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Update 1_Bug_report.md to 2.x](https://github.com/rectorphp/rector/pull/8967) on [rectorphp/rector](https://github.com/rectorphp/rector) (1 day ago)
 - [Re-added --json option](https://github.com/TomasVotruba/class-leak/pull/61) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (2 days ago)
@@ -54,7 +55,6 @@
 - [Improve loose comparison on IntegerRange containing zero](https://github.com/phpstan/phpstan-src/pull/3764) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix duplicate registration of ParentConnectingVisitor](https://github.com/ghostwriter/phormat/pull/22) on [ghostwriter/phormat](https://github.com/ghostwriter/phormat) (1 week ago)
 - [More precise phpdocs in PhpToken](https://github.com/symfony/polyfill/pull/513) on [symfony/polyfill](https://github.com/symfony/polyfill) (1 week ago)
-- [More precise phpdocs in PhpToken](https://github.com/symfony/polyfill-php80/pull/6) on [symfony/polyfill-php80](https://github.com/symfony/polyfill-php80) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
