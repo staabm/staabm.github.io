@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Report missing repository config in update-code task (#3996)](https://github.com/deployphp/deployer/pull/3997) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
 - [Report missing repository config in update-code task](https://github.com/deployphp/deployer/pull/3996) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
 - [remove deployer 6.x leftovers](https://github.com/deployphp/deployer/pull/3995) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
 - [remove deployer 6.x leftovers](https://github.com/deployphp/deployer/pull/3994) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
@@ -54,7 +55,6 @@
 - [Support arrays with union value-types in implode()](https://github.com/phpstan/phpstan-src/pull/3772) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Cleanup `instanceof ConstantBooleanType` checks](https://github.com/phpstan/phpstan-src/pull/3771) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [NodeScopeResolver: 10x Faster constant array processing](https://github.com/phpstan/phpstan-src/pull/3769) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Fix false positives on non-existing-offset&#39;s](https://github.com/phpstan/phpstan-src/pull/3766) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
