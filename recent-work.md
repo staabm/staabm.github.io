@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [remove deployer 6.x leftovers](https://github.com/deployphp/deployer/pull/3995) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
 - [remove deployer 6.x leftovers](https://github.com/deployphp/deployer/pull/3994) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
 - [UPGRADE.md: fix typo](https://github.com/deployphp/deployer/pull/3992) on [deployphp/deployer](https://github.com/deployphp/deployer) (1 day ago)
 - [Simplify ChangedFilesDetector](https://github.com/rectorphp/rector-src/pull/6662) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [NodeScopeResolver: 10x Faster constant array processing](https://github.com/phpstan/phpstan-src/pull/3769) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Fix false positives on non-existing-offset&#39;s](https://github.com/phpstan/phpstan-src/pull/3766) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Improve loose comparison on IntegerRange containing zero](https://github.com/phpstan/phpstan-src/pull/3764) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix duplicate registration of ParentConnectingVisitor](https://github.com/ghostwriter/phormat/pull/22) on [ghostwriter/phormat](https://github.com/ghostwriter/phormat) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
