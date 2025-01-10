@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [deployphp/deployer](https://github.com/deployphp/deployer) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 days ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) (today)
 - [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (3 days ago)
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [staabm/dotfiles](https://github.com/staabm/dotfiles) (1 week ago)
