@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [StrlenFunctionReturnTypeExtension: Cleanup `instanceof ConstantString`](https://github.com/phpstan/phpstan-src/pull/3780) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [PropertyExistsTypeSpecifyingExtension: Cleanup `instanceof ConstantString`](https://github.com/phpstan/phpstan-src/pull/3779) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Report missing repository config in update-code task (#3996)](https://github.com/deployphp/deployer/pull/3997) on [deployphp/deployer](https://github.com/deployphp/deployer) (1 day ago)
 - [Report missing repository config in update-code task](https://github.com/deployphp/deployer/pull/3996) on [deployphp/deployer](https://github.com/deployphp/deployer) (1 day ago)
 - [remove deployer 6.x leftovers](https://github.com/deployphp/deployer/pull/3995) on [deployphp/deployer](https://github.com/deployphp/deployer) (1 day ago)
@@ -53,8 +55,6 @@
 - [More precise implode() return type](https://github.com/phpstan/phpstan-src/pull/3774) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [MinMaxFunctionReturnTypeExtension: Cleanup `instanceof ConstantScalarType`](https://github.com/phpstan/phpstan-src/pull/3773) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Support arrays with union value-types in implode()](https://github.com/phpstan/phpstan-src/pull/3772) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Cleanup `instanceof ConstantBooleanType` checks](https://github.com/phpstan/phpstan-src/pull/3771) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [NodeScopeResolver: 10x Faster constant array processing](https://github.com/phpstan/phpstan-src/pull/3769) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
