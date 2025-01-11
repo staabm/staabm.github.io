@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [More precise constant variants of BooleanType](https://github.com/phpstan/phpstan-src/pull/3781) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [StrlenFunctionReturnTypeExtension: Cleanup `instanceof ConstantString`](https://github.com/phpstan/phpstan-src/pull/3780) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [PropertyExistsTypeSpecifyingExtension: Cleanup `instanceof ConstantString`](https://github.com/phpstan/phpstan-src/pull/3779) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Report missing repository config in update-code task (#3996)](https://github.com/deployphp/deployer/pull/3997) on [deployphp/deployer](https://github.com/deployphp/deployer) (1 day ago)
@@ -54,7 +55,6 @@
 - [Simplify `FileIteratorSourceLocator`, prevent stat calls on paths that aren&#39;t PHP files](https://github.com/Roave/BetterReflection/pull/1477) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (5 days ago)
 - [More precise implode() return type](https://github.com/phpstan/phpstan-src/pull/3774) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [MinMaxFunctionReturnTypeExtension: Cleanup `instanceof ConstantScalarType`](https://github.com/phpstan/phpstan-src/pull/3773) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Support arrays with union value-types in implode()](https://github.com/phpstan/phpstan-src/pull/3772) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
