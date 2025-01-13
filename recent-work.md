@@ -11,8 +11,8 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/dotfiles](https://github.com/staabm/dotfiles) (1 week ago)
 - [ghostwriter/phormat](https://github.com/ghostwriter/phormat) (1 week ago)
-- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (2 weeks ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 weeks ago)
+- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
