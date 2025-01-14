@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (4 days ago)
 - [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (1 week ago)
@@ -11,7 +12,6 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/dotfiles](https://github.com/staabm/dotfiles) (1 week ago)
 - [ghostwriter/phormat](https://github.com/ghostwriter/phormat) (1 week ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 weeks ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (2 weeks ago)
 
 
