@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) (4 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) (5 days ago)
 - [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (1 week ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
@@ -40,17 +40,17 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix e2e test](https://github.com/staabm/phpstan-todo-by/pull/133) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
-- [More precise constant variants of BooleanType](https://github.com/phpstan/phpstan-src/pull/3781) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [StrlenFunctionReturnTypeExtension: Cleanup `instanceof ConstantString`](https://github.com/phpstan/phpstan-src/pull/3780) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [PropertyExistsTypeSpecifyingExtension: Cleanup `instanceof ConstantString`](https://github.com/phpstan/phpstan-src/pull/3779) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Report missing repository config in update-code task (#3996)](https://github.com/deployphp/deployer/pull/3997) on [deployphp/deployer](https://github.com/deployphp/deployer) (4 days ago)
-- [Report missing repository config in update-code task](https://github.com/deployphp/deployer/pull/3996) on [deployphp/deployer](https://github.com/deployphp/deployer) (4 days ago)
-- [remove deployer 6.x leftovers](https://github.com/deployphp/deployer/pull/3995) on [deployphp/deployer](https://github.com/deployphp/deployer) (4 days ago)
-- [remove deployer 6.x leftovers](https://github.com/deployphp/deployer/pull/3994) on [deployphp/deployer](https://github.com/deployphp/deployer) (4 days ago)
-- [UPGRADE.md: fix typo](https://github.com/deployphp/deployer/pull/3992) on [deployphp/deployer](https://github.com/deployphp/deployer) (5 days ago)
-- [Simplify ChangedFilesDetector](https://github.com/rectorphp/rector-src/pull/6662) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
-- [Update 1_Bug_report.md to 2.x](https://github.com/rectorphp/rector/pull/8967) on [rectorphp/rector](https://github.com/rectorphp/rector) (6 days ago)
+- [Fix e2e test](https://github.com/staabm/phpstan-todo-by/pull/133) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
+- [More precise constant variants of BooleanType](https://github.com/phpstan/phpstan-src/pull/3781) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [StrlenFunctionReturnTypeExtension: Cleanup `instanceof ConstantString`](https://github.com/phpstan/phpstan-src/pull/3780) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [PropertyExistsTypeSpecifyingExtension: Cleanup `instanceof ConstantString`](https://github.com/phpstan/phpstan-src/pull/3779) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Report missing repository config in update-code task (#3996)](https://github.com/deployphp/deployer/pull/3997) on [deployphp/deployer](https://github.com/deployphp/deployer) (5 days ago)
+- [Report missing repository config in update-code task](https://github.com/deployphp/deployer/pull/3996) on [deployphp/deployer](https://github.com/deployphp/deployer) (5 days ago)
+- [remove deployer 6.x leftovers](https://github.com/deployphp/deployer/pull/3995) on [deployphp/deployer](https://github.com/deployphp/deployer) (5 days ago)
+- [remove deployer 6.x leftovers](https://github.com/deployphp/deployer/pull/3994) on [deployphp/deployer](https://github.com/deployphp/deployer) (5 days ago)
+- [UPGRADE.md: fix typo](https://github.com/deployphp/deployer/pull/3992) on [deployphp/deployer](https://github.com/deployphp/deployer) (6 days ago)
+- [Simplify ChangedFilesDetector](https://github.com/rectorphp/rector-src/pull/6662) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
+- [Update 1_Bug_report.md to 2.x](https://github.com/rectorphp/rector/pull/8967) on [rectorphp/rector](https://github.com/rectorphp/rector) (1 week ago)
 - [Re-added --json option](https://github.com/TomasVotruba/class-leak/pull/61) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (1 week ago)
 - [remove unnecessary files from releases](https://github.com/staabm/secure_dotenv/pull/12) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
 - [Simplify `FileIteratorSourceLocator`, prevent stat calls on paths that aren&#39;t PHP files](https://github.com/Roave/BetterReflection/pull/1477) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.68.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.68.0) (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.5.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.3) (1 day ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.68.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.68.0) (2 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.5.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.3) (2 days ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [10.0.3](https://github.com/staabm/secure_dotenv/releases/tag/10.0.3) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.52.0](https://github.com/Roave/BetterReflection/releases/tag/6.52.0) (1 week ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [6.3.0](https://github.com/sebastianbergmann/comparator/releases/tag/6.3.0) (1 week ago)
