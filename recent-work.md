@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Extract ArrayColumnHelper from ArrayColumnFunctionReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/3785) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix false positve on generic phpdoc types](https://github.com/rectorphp/type-perfect/pull/61) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
 - [Fix negative offset false positive on constant string](https://github.com/phpstan/phpstan-src/pull/3784) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix e2e test](https://github.com/staabm/phpstan-todo-by/pull/133) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
@@ -54,7 +55,6 @@
 - [Simplify ChangedFilesDetector](https://github.com/rectorphp/rector-src/pull/6662) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [Update 1_Bug_report.md to 2.x](https://github.com/rectorphp/rector/pull/8967) on [rectorphp/rector](https://github.com/rectorphp/rector) (1 week ago)
 - [Re-added --json option](https://github.com/TomasVotruba/class-leak/pull/61) on [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (1 week ago)
-- [remove unnecessary files from releases](https://github.com/staabm/secure_dotenv/pull/12) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
