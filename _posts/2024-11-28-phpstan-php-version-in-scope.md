@@ -178,9 +178,3 @@ Starting with PHPStan 2.0.3 the php-version in will be narrowed down and builtin
 - [named arguments](https://github.com/phpstan/phpstan-src/pull/3662)
 
 For more details see the [above background story](https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html#whats-next).
-
-##### More precise `resource` to object migration types
-
-Type narrowing was improved so if-conditions narrowing the PHP version are handled with more precise return types:
-
-- [`Socket`](https://github.com/phpstan/phpstan-src/pull/3667)
