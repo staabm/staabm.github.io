@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (1 week ago)
 - [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (1 week ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
@@ -40,13 +40,13 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Extract ArrayColumnHelper from ArrayColumnFunctionReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/3785) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Fix false positve on generic phpdoc types](https://github.com/rectorphp/type-perfect/pull/61) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 day ago)
-- [Fix negative offset false positive on constant string](https://github.com/phpstan/phpstan-src/pull/3784) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Fix e2e test](https://github.com/staabm/phpstan-todo-by/pull/133) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
-- [More precise constant variants of BooleanType](https://github.com/phpstan/phpstan-src/pull/3781) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [StrlenFunctionReturnTypeExtension: Cleanup `instanceof ConstantString`](https://github.com/phpstan/phpstan-src/pull/3780) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [PropertyExistsTypeSpecifyingExtension: Cleanup `instanceof ConstantString`](https://github.com/phpstan/phpstan-src/pull/3779) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Extract ArrayColumnHelper from ArrayColumnFunctionReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/3785) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Fix false positve on generic phpdoc types](https://github.com/rectorphp/type-perfect/pull/61) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (2 days ago)
+- [Fix negative offset false positive on constant string](https://github.com/phpstan/phpstan-src/pull/3784) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Fix e2e test](https://github.com/staabm/phpstan-todo-by/pull/133) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (5 days ago)
+- [More precise constant variants of BooleanType](https://github.com/phpstan/phpstan-src/pull/3781) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [StrlenFunctionReturnTypeExtension: Cleanup `instanceof ConstantString`](https://github.com/phpstan/phpstan-src/pull/3780) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [PropertyExistsTypeSpecifyingExtension: Cleanup `instanceof ConstantString`](https://github.com/phpstan/phpstan-src/pull/3779) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Report missing repository config in update-code task (#3996)](https://github.com/deployphp/deployer/pull/3997) on [deployphp/deployer](https://github.com/deployphp/deployer) (1 week ago)
 - [Report missing repository config in update-code task](https://github.com/deployphp/deployer/pull/3996) on [deployphp/deployer](https://github.com/deployphp/deployer) (1 week ago)
 - [remove deployer 6.x leftovers](https://github.com/deployphp/deployer/pull/3995) on [deployphp/deployer](https://github.com/deployphp/deployer) (1 week ago)
@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.68.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.68.1) (today)
-- [php/php-src](https://github.com/php/php-src) - [php-8.4.3](https://github.com/php/php-src/releases/tag/php-8.4.3) (today)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.2](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.2) (2 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.5.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.3) (4 days ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.68.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.68.1) (1 day ago)
+- [php/php-src](https://github.com/php/php-src) - [php-8.4.3](https://github.com/php/php-src/releases/tag/php-8.4.3) (1 day ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.2](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.2) (3 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.5.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.3) (5 days ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [10.0.3](https://github.com/staabm/secure_dotenv/releases/tag/10.0.3) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.52.0](https://github.com/Roave/BetterReflection/releases/tag/6.52.0) (1 week ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [6.3.0](https://github.com/sebastianbergmann/comparator/releases/tag/6.3.0) (1 week ago)
