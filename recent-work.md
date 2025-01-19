@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (5 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (1 week ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
 - [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (1 week ago)
@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.6.2](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.6.2) (today)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.2](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.2) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.68.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.68.1) (2 days ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.4.3](https://github.com/php/php-src/releases/tag/php-8.4.3) (2 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.2](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.2) (4 days ago)
