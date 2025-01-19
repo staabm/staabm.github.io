@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [1.6.2](https://github.com/phpstan/phpstan-strict-rules/releases/tag/1.6.2) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.68.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.68.1) (2 days ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.4.3](https://github.com/php/php-src/releases/tag/php-8.4.3) (2 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.2](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.2) (4 days ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [6.3.0](https://github.com/sebastianbergmann/comparator/releases/tag/6.3.0) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.5](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.5) (2 weeks ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.1](https://github.com/phpstan/phpstan/releases/tag/2.1.1) (2 weeks ago)
-- [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - [3.15.12](https://github.com/JumpMind/symmetric-ds/releases/tag/3.15.12) (2 weeks ago)
