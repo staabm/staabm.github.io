@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (6 days ago)
@@ -12,7 +13,6 @@
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 weeks ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
 - [staabm/dotfiles](https://github.com/staabm/dotfiles) (2 weeks ago)
-- [ghostwriter/phormat](https://github.com/ghostwriter/phormat) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
