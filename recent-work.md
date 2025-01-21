@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.8.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.8.0) (today)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) - [1.1.0](https://github.com/staabm/SysMonitor/releases/tag/1.1.0) (1 day ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.2](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.2) (2 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.68.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.68.1) (4 days ago)
@@ -68,4 +69,3 @@
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [10.0.3](https://github.com/staabm/secure_dotenv/releases/tag/10.0.3) (2 weeks ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.52.0](https://github.com/Roave/BetterReflection/releases/tag/6.52.0) (2 weeks ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [6.3.0](https://github.com/sebastianbergmann/comparator/releases/tag/6.3.0) (2 weeks ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.5](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.5) (2 weeks ago)
