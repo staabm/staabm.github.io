@@ -9,8 +9,8 @@
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (1 week ago)
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (2 weeks ago)
 - [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (2 weeks ago)
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (2 weeks ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 weeks ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
 
