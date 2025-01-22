@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.4](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.4) (today)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.8.1](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.8.1) (today)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.23.3](https://github.com/pmmp/PocketMine-MP/releases/tag/5.23.3) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.2](https://github.com/phpstan/phpstan/releases/tag/2.1.2) (1 day ago)
@@ -68,4 +69,3 @@
 - [php/php-src](https://github.com/php/php-src) - [php-8.4.3](https://github.com/php/php-src/releases/tag/php-8.4.3) (5 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.2](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.2) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.5.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.3) (1 week ago)
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [10.0.3](https://github.com/staabm/secure_dotenv/releases/tag/10.0.3) (2 weeks ago)
