@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.53.0](https://github.com/Roave/BetterReflection/releases/tag/6.53.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.6](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.6) (today)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.24.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.24.0) (2 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.4](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.4) (2 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.3](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.3) (3 days ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) - [1.1.0](https://github.com/staabm/SysMonitor/releases/tag/1.1.0) (4 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.68.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.68.1) (1 week ago)
-- [php/php-src](https://github.com/php/php-src) - [php-8.4.3](https://github.com/php/php-src/releases/tag/php-8.4.3) (1 week ago)
