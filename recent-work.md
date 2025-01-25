@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (1 day ago)
 - [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (5 days ago)
