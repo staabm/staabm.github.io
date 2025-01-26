@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (1 day ago)
-- [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (5 days ago)
-- [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (5 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (2 days ago)
+- [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (6 days ago)
+- [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (6 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (2 weeks ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (2 weeks ago)
@@ -17,7 +17,7 @@
 
 #### 📜 My recent blog posts
 
-- [Thank You](https://staabm.github.io/2025/01/24/thank-you.html) (1 day ago)
+- [Thank You](https://staabm.github.io/2025/01/24/thank-you.html) (2 days ago)
 - [Contribution Summary 2024](https://staabm.github.io/2024/12/11/contribution-summary-2024.html) (1 month ago)
 - [My new PHPStan focus: multi-phpversion support](https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html) (1 month ago)
 - [A mixed type PHPStan journey](https://staabm.github.io/2024/11/26/phpstan-mixed-types.html) (2 months ago)
@@ -40,9 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Create 2025-01-24-thank-you.md](https://github.com/staabm/staabm.github.io/pull/129) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
-- [README: Cleanup empty-files](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/pull/34) on [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (1 day ago)
-- [Handle the first occurence of an error as urgent](https://github.com/staabm/SysMonitor/pull/28) on [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (5 days ago)
+- [Create 2025-01-24-thank-you.md](https://github.com/staabm/staabm.github.io/pull/129) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
+- [README: Cleanup empty-files](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/pull/34) on [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (2 days ago)
+- [Handle the first occurence of an error as urgent](https://github.com/staabm/SysMonitor/pull/28) on [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (6 days ago)
 - [Extract ArrayColumnHelper from ArrayColumnFunctionReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/3785) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix false positve on generic phpdoc types](https://github.com/rectorphp/type-perfect/pull/61) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 week ago)
 - [Fix negative offset false positive on constant string](https://github.com/phpstan/phpstan-src/pull/3784) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.54.0](https://github.com/Roave/BetterReflection/releases/tag/6.54.0) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.6](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.6) (1 day ago)
-- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.24.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.24.0) (3 days ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.4](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.4) (3 days ago)
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.8.1](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.8.1) (3 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.2](https://github.com/phpstan/phpstan/releases/tag/2.1.2) (4 days ago)
-- [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - [2.1.3](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/releases/tag/2.1.3) (4 days ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.3](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.3) (4 days ago)
-- [staabm/SysMonitor](https://github.com/staabm/SysMonitor) - [1.1.0](https://github.com/staabm/SysMonitor/releases/tag/1.1.0) (5 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.54.0](https://github.com/Roave/BetterReflection/releases/tag/6.54.0) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.6](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.6) (2 days ago)
+- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.24.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.24.0) (4 days ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.4](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.4) (4 days ago)
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.8.1](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.8.1) (4 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.2](https://github.com/phpstan/phpstan/releases/tag/2.1.2) (5 days ago)
+- [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - [2.1.3](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/releases/tag/2.1.3) (5 days ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.3](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.3) (5 days ago)
+- [staabm/SysMonitor](https://github.com/staabm/SysMonitor) - [1.1.0](https://github.com/staabm/SysMonitor/releases/tag/1.1.0) (6 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.68.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.68.1) (1 week ago)
