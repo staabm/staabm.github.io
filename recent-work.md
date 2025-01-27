@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.68.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.68.2) (today)
 - [kahlan/kahlan](https://github.com/kahlan/kahlan) - [6.0.1](https://github.com/kahlan/kahlan/releases/tag/6.0.1) (1 day ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [6.0.0](https://github.com/vimeo/psalm/releases/tag/6.0.0) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.54.0](https://github.com/Roave/BetterReflection/releases/tag/6.54.0) (2 days ago)
@@ -68,4 +69,3 @@
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.8.1](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.8.1) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.2](https://github.com/phpstan/phpstan/releases/tag/2.1.2) (6 days ago)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - [2.1.3](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/releases/tag/2.1.3) (6 days ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.3](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.3) (6 days ago)
