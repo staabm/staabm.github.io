@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.68.4](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.68.4) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.5.5](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.5) (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.3](https://github.com/symfony/symfony/releases/tag/v7.2.3) (1 day ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.68.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.68.3) (3 days ago)
 - [kahlan/kahlan](https://github.com/kahlan/kahlan) - [6.0.1](https://github.com/kahlan/kahlan/releases/tag/6.0.1) (4 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [6.0.0](https://github.com/vimeo/psalm/releases/tag/6.0.0) (4 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.54.0](https://github.com/Roave/BetterReflection/releases/tag/6.54.0) (5 days ago)
