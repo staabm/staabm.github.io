@@ -7,12 +7,12 @@
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (1 week ago)
-- [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (2 weeks ago)
 - [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (2 weeks ago)
+- [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (2 weeks ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 weeks ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (3 weeks ago)
-- [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) (3 weeks ago)
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
