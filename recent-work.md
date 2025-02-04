@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (5 days ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (6 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (1 week ago)
 - [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (2 weeks ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (2 weeks ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 weeks ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 weeks ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (3 weeks ago)
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 weeks ago)
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (4 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: NativeTypeDeclarationCasingFixer should not touch property names](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8400) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (5 days ago)
+- [fix: NativeTypeDeclarationCasingFixer should not touch property names](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8400) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (6 days ago)
 - [Create 2025-01-24-thank-you.md](https://github.com/staabm/staabm.github.io/pull/129) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [README: Cleanup empty-files](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/pull/34) on [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (1 week ago)
 - [Handle the first occurence of an error as urgent](https://github.com/staabm/SysMonitor/pull/28) on [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (2 weeks ago)
@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [6.2.0](https://github.com/vimeo/psalm/releases/tag/6.2.0) (today)
-- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [12.5.8](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.5.8) (3 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.5.6](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.6) (3 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.68.5](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.68.5) (4 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.3](https://github.com/symfony/symfony/releases/tag/v7.2.3) (5 days ago)
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [6.2.0](https://github.com/vimeo/psalm/releases/tag/6.2.0) (1 day ago)
+- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [12.5.8](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.5.8) (4 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.5.6](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.6) (4 days ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.68.5](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.68.5) (5 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.3](https://github.com/symfony/symfony/releases/tag/v7.2.3) (6 days ago)
 - [kahlan/kahlan](https://github.com/kahlan/kahlan) - [6.0.1](https://github.com/kahlan/kahlan/releases/tag/6.0.1) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.54.0](https://github.com/Roave/BetterReflection/releases/tag/6.54.0) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.6](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.6) (1 week ago)
