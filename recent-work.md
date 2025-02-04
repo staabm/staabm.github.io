@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [MariaDB/server](https://github.com/MariaDB/server) - [mariadb-10.5.28](https://github.com/MariaDB/server/releases/tag/mariadb-10.5.28) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [6.2.0](https://github.com/vimeo/psalm/releases/tag/6.2.0) (1 day ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [12.5.8](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.5.8) (4 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.5.6](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.6) (4 days ago)
@@ -68,4 +69,3 @@
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.54.0](https://github.com/Roave/BetterReflection/releases/tag/6.54.0) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.6](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.6) (1 week ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.24.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.24.0) (1 week ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.4](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.4) (1 week ago)
