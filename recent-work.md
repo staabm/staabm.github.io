@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [6.3.0](https://github.com/vimeo/psalm/releases/tag/6.3.0) (1 day ago)
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [6.4.0](https://github.com/vimeo/psalm/releases/tag/6.4.0) (today)
 - [MariaDB/server](https://github.com/MariaDB/server) - [mariadb-11.4.5](https://github.com/MariaDB/server/releases/tag/mariadb-11.4.5) (1 day ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [12.5.8](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.5.8) (5 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.5.6](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.6) (5 days ago)
