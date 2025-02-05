@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Test error_log() in tests](https://github.com/sebastianbergmann/phpunit/pull/6118) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [fix: NativeTypeDeclarationCasingFixer should not touch property names](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8400) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 week ago)
 - [Create 2025-01-24-thank-you.md](https://github.com/staabm/staabm.github.io/pull/129) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [README: Cleanup empty-files](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/pull/34) on [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (1 week ago)
@@ -54,7 +55,6 @@
 - [Report missing repository config in update-code task (#3996)](https://github.com/deployphp/deployer/pull/3997) on [deployphp/deployer](https://github.com/deployphp/deployer) (3 weeks ago)
 - [Report missing repository config in update-code task](https://github.com/deployphp/deployer/pull/3996) on [deployphp/deployer](https://github.com/deployphp/deployer) (3 weeks ago)
 - [remove deployer 6.x leftovers](https://github.com/deployphp/deployer/pull/3995) on [deployphp/deployer](https://github.com/deployphp/deployer) (3 weeks ago)
-- [remove deployer 6.x leftovers](https://github.com/deployphp/deployer/pull/3994) on [deployphp/deployer](https://github.com/deployphp/deployer) (3 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
