@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.55.0](https://github.com/Roave/BetterReflection/releases/tag/6.55.0) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [6.4.0](https://github.com/vimeo/psalm/releases/tag/6.4.0) (1 day ago)
 - [MariaDB/server](https://github.com/MariaDB/server) - [mariadb-11.4.5](https://github.com/MariaDB/server/releases/tag/mariadb-11.4.5) (2 days ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [12.5.8](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.5.8) (6 days ago)
@@ -66,6 +67,5 @@
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.68.5](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.68.5) (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.3](https://github.com/symfony/symfony/releases/tag/v7.2.3) (1 week ago)
 - [kahlan/kahlan](https://github.com/kahlan/kahlan) - [6.0.1](https://github.com/kahlan/kahlan/releases/tag/6.0.1) (1 week ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.54.0](https://github.com/Roave/BetterReflection/releases/tag/6.54.0) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.6](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.6) (1 week ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.24.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.24.0) (2 weeks ago)
