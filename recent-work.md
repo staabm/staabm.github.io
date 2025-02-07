@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Test error_log() in tests](https://github.com/sebastianbergmann/phpunit/pull/6118) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
+- [Allow assertions on error_log() output](https://github.com/sebastianbergmann/phpunit/pull/6118) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [fix: NativeTypeDeclarationCasingFixer should not touch property names](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8400) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 week ago)
 - [Create 2025-01-24-thank-you.md](https://github.com/staabm/staabm.github.io/pull/129) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 - [README: Cleanup empty-files](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/pull/34) on [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (2 weeks ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.0.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.1) (today)
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [6.4.1](https://github.com/vimeo/psalm/releases/tag/6.4.1) (today)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.16](https://github.com/shopware/shopware/releases/tag/v6.5.8.16) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.1) (today)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.0.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.0) (today)
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - [7.0.0](https://github.com/sebastianbergmann/recursion-context/releases/tag/7.0.0) (today)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [7.0.0](https://github.com/sebastianbergmann/exporter/releases/tag/7.0.0) (today)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [8.0.0](https://github.com/sebastianbergmann/environment/releases/tag/8.0.0) (today)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.0.0](https://github.com/sebastianbergmann/comparator/releases/tag/7.0.0) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.55.0](https://github.com/Roave/BetterReflection/releases/tag/6.55.0) (1 day ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [6.4.0](https://github.com/vimeo/psalm/releases/tag/6.4.0) (2 days ago)
 - [MariaDB/server](https://github.com/MariaDB/server) - [mariadb-11.4.5](https://github.com/MariaDB/server/releases/tag/mariadb-11.4.5) (3 days ago)
