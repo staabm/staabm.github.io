@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [6.5.0](https://github.com/vimeo/psalm/releases/tag/6.5.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.3](https://github.com/phpstan/phpstan/releases/tag/2.1.3) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.0.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.1) (today)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [6.4.1](https://github.com/vimeo/psalm/releases/tag/6.4.1) (today)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.16](https://github.com/shopware/shopware/releases/tag/v6.5.8.16) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.1) (today)
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - [7.0.0](https://github.com/sebastianbergmann/recursion-context/releases/tag/7.0.0) (today)
