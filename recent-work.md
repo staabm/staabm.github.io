@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.16](https://github.com/shopware/shopware/releases/tag/v6.5.8.16) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.1) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.0.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.0) (today)
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - [7.0.0](https://github.com/sebastianbergmann/recursion-context/releases/tag/7.0.0) (today)
@@ -68,4 +69,3 @@
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.55.0](https://github.com/Roave/BetterReflection/releases/tag/6.55.0) (1 day ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [6.4.0](https://github.com/vimeo/psalm/releases/tag/6.4.0) (2 days ago)
 - [MariaDB/server](https://github.com/MariaDB/server) - [mariadb-11.4.5](https://github.com/MariaDB/server/releases/tag/mariadb-11.4.5) (3 days ago)
-- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [12.5.8](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.5.8) (1 week ago)
