@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.17](https://github.com/phpstan/phpstan/releases/tag/1.12.17) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.3](https://github.com/phpstan/phpstan/releases/tag/2.1.3) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.0.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.1) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [6.4.1](https://github.com/vimeo/psalm/releases/tag/6.4.1) (today)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.16](https://github.com/shopware/shopware/releases/tag/v6.5.8.16) (today)
