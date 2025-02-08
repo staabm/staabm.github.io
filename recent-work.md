@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.2](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.2) (today)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.0.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.2) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [6.5.0](https://github.com/vimeo/psalm/releases/tag/6.5.0) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.3](https://github.com/phpstan/phpstan/releases/tag/2.1.3) (1 day ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.0.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.1) (1 day ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.16](https://github.com/shopware/shopware/releases/tag/v6.5.8.16) (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.1) (1 day ago)
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - [7.0.0](https://github.com/sebastianbergmann/recursion-context/releases/tag/7.0.0) (1 day ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [7.0.0](https://github.com/sebastianbergmann/exporter/releases/tag/7.0.0) (1 day ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [8.0.0](https://github.com/sebastianbergmann/environment/releases/tag/8.0.0) (1 day ago)
