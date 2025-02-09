@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.56.0](https://github.com/Roave/BetterReflection/releases/tag/6.56.0) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.2](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.2) (1 day ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.0.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.2) (1 day ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [6.5.0](https://github.com/vimeo/psalm/releases/tag/6.5.0) (2 days ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [7.0.0](https://github.com/sebastianbergmann/exporter/releases/tag/7.0.0) (2 days ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [8.0.0](https://github.com/sebastianbergmann/environment/releases/tag/8.0.0) (2 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.0.0](https://github.com/sebastianbergmann/comparator/releases/tag/7.0.0) (2 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.55.0](https://github.com/Roave/BetterReflection/releases/tag/6.55.0) (3 days ago)
