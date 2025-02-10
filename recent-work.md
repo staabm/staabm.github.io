@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Lint sources on PHP 8.2 via Github Action](https://github.com/deployphp/deployer/pull/4018) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
 - [Lint sources on PHP 7.x via Github Action](https://github.com/deployphp/deployer/pull/4016) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
 - [Simplify NodeTypeResolver](https://github.com/rectorphp/rector-src/pull/6728) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Regression test for error_log()](https://github.com/sebastianbergmann/phpunit/pull/6127) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix e2e test](https://github.com/staabm/phpstan-todo-by/pull/133) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 weeks ago)
 - [More precise constant variants of BooleanType](https://github.com/phpstan/phpstan-src/pull/3781) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
 - [StrlenFunctionReturnTypeExtension: Cleanup `instanceof ConstantString`](https://github.com/phpstan/phpstan-src/pull/3780) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
-- [PropertyExistsTypeSpecifyingExtension: Cleanup `instanceof ConstantString`](https://github.com/phpstan/phpstan-src/pull/3779) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
 
 
 #### 🔭 Latest releases I've contributed to
