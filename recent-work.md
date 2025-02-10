@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
@@ -12,7 +13,6 @@
 - [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (3 weeks ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 weeks ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) (1 month ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Lint sources on PHP 7.x via Github Action](https://github.com/deployphp/deployer/pull/4016) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
 - [Simplify NodeTypeResolver](https://github.com/rectorphp/rector-src/pull/6728) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Regression test for error_log()](https://github.com/sebastianbergmann/phpunit/pull/6127) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Allow assertions on error_log() output](https://github.com/sebastianbergmann/phpunit/pull/6118) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
@@ -54,13 +55,12 @@
 - [More precise constant variants of BooleanType](https://github.com/phpstan/phpstan-src/pull/3781) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
 - [StrlenFunctionReturnTypeExtension: Cleanup `instanceof ConstantString`](https://github.com/phpstan/phpstan-src/pull/3780) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
 - [PropertyExistsTypeSpecifyingExtension: Cleanup `instanceof ConstantString`](https://github.com/phpstan/phpstan-src/pull/3779) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
-- [Report missing repository config in update-code task (#3996)](https://github.com/deployphp/deployer/pull/3997) on [deployphp/deployer](https://github.com/deployphp/deployer) (1 month ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.11](https://github.com/deployphp/deployer/releases/tag/v7.5.11) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.18.2](https://github.com/redaxo/redaxo/releases/tag/5.18.2) (today)
-- [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0-alpha.1](https://github.com/deployphp/deployer/releases/tag/v8.0.0-alpha.1) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [6.5.1](https://github.com/vimeo/psalm/releases/tag/6.5.1) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.4](https://github.com/phpstan/phpstan/releases/tag/2.1.4) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.56.0](https://github.com/Roave/BetterReflection/releases/tag/6.56.0) (1 day ago)
