@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify NodeTypeResolver](https://github.com/rectorphp/rector-src/pull/6728) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Regression test for error_log()](https://github.com/sebastianbergmann/phpunit/pull/6127) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Allow assertions on error_log() output](https://github.com/sebastianbergmann/phpunit/pull/6118) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
 - [fix: NativeTypeDeclarationCasingFixer should not touch property names](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8400) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 week ago)
@@ -54,12 +55,12 @@
 - [StrlenFunctionReturnTypeExtension: Cleanup `instanceof ConstantString`](https://github.com/phpstan/phpstan-src/pull/3780) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
 - [PropertyExistsTypeSpecifyingExtension: Cleanup `instanceof ConstantString`](https://github.com/phpstan/phpstan-src/pull/3779) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
 - [Report missing repository config in update-code task (#3996)](https://github.com/deployphp/deployer/pull/3997) on [deployphp/deployer](https://github.com/deployphp/deployer) (1 month ago)
-- [Report missing repository config in update-code task](https://github.com/deployphp/deployer/pull/3996) on [deployphp/deployer](https://github.com/deployphp/deployer) (1 month ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.9](https://github.com/deployphp/deployer/releases/tag/v7.5.9) (today)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.18.2](https://github.com/redaxo/redaxo/releases/tag/5.18.2) (today)
+- [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0-alpha.1](https://github.com/deployphp/deployer/releases/tag/v8.0.0-alpha.1) (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [6.5.1](https://github.com/vimeo/psalm/releases/tag/6.5.1) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.4](https://github.com/phpstan/phpstan/releases/tag/2.1.4) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.56.0](https://github.com/Roave/BetterReflection/releases/tag/6.56.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.16](https://github.com/shopware/shopware/releases/tag/v6.5.8.16) (3 days ago)
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - [7.0.0](https://github.com/sebastianbergmann/recursion-context/releases/tag/7.0.0) (3 days ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [7.0.0](https://github.com/sebastianbergmann/exporter/releases/tag/7.0.0) (3 days ago)
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [8.0.0](https://github.com/sebastianbergmann/environment/releases/tag/8.0.0) (3 days ago)
