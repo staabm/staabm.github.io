@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) - [v3.0.0](https://github.com/thecodingmachine/safe/releases/tag/v3.0.0) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.29.11](https://github.com/infection/infection/releases/tag/0.29.11) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.7](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.7) (today)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.11](https://github.com/deployphp/deployer/releases/tag/v7.5.11) (1 day ago)
@@ -68,4 +69,3 @@
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.56.0](https://github.com/Roave/BetterReflection/releases/tag/6.56.0) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.2](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.2) (3 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.0.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.2) (3 days ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.16](https://github.com/shopware/shopware/releases/tag/v6.5.8.16) (4 days ago)
