@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (1 day ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (2 weeks ago)
 - [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (3 weeks ago)
 - [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (3 weeks ago)
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.7](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.7) (today)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.11](https://github.com/deployphp/deployer/releases/tag/v7.5.11) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.18.2](https://github.com/redaxo/redaxo/releases/tag/5.18.2) (1 day ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - [6.5.1](https://github.com/vimeo/psalm/releases/tag/6.5.1) (1 day ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.0.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.2) (3 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.16](https://github.com/shopware/shopware/releases/tag/v6.5.8.16) (4 days ago)
 - [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - [7.0.0](https://github.com/sebastianbergmann/recursion-context/releases/tag/7.0.0) (4 days ago)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [7.0.0](https://github.com/sebastianbergmann/exporter/releases/tag/7.0.0) (4 days ago)
