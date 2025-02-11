@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
-- [deployphp/deployer](https://github.com/deployphp/deployer) (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (2 weeks ago)
@@ -26,7 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
-- [Chemaclass](https://github.com/Chemaclass) (4 months ago)
+- [Chemaclass](https://github.com/Chemaclass) (5 months ago)
 - [phpstan](https://github.com/phpstan) (6 months ago)
 - [oliverklee](https://github.com/oliverklee) (7 months ago)
 - [TicketSwap](https://github.com/TicketSwap) (7 months ago)
@@ -40,11 +40,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Lint sources on PHP 8.2 via Github Action](https://github.com/deployphp/deployer/pull/4018) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
-- [Lint sources on PHP 7.x via Github Action](https://github.com/deployphp/deployer/pull/4016) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
-- [Simplify NodeTypeResolver](https://github.com/rectorphp/rector-src/pull/6728) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
-- [Regression test for error_log()](https://github.com/sebastianbergmann/phpunit/pull/6127) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
-- [Allow assertions on error_log() output](https://github.com/sebastianbergmann/phpunit/pull/6118) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
+- [Lint sources on PHP 8.2 via Github Action](https://github.com/deployphp/deployer/pull/4018) on [deployphp/deployer](https://github.com/deployphp/deployer) (1 day ago)
+- [Lint sources on PHP 7.x via Github Action](https://github.com/deployphp/deployer/pull/4016) on [deployphp/deployer](https://github.com/deployphp/deployer) (1 day ago)
+- [Simplify NodeTypeResolver](https://github.com/rectorphp/rector-src/pull/6728) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
+- [Regression test for error_log()](https://github.com/sebastianbergmann/phpunit/pull/6127) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
+- [Allow assertions on error_log() output](https://github.com/sebastianbergmann/phpunit/pull/6118) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
 - [fix: NativeTypeDeclarationCasingFixer should not touch property names](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8400) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 week ago)
 - [Create 2025-01-24-thank-you.md](https://github.com/staabm/staabm.github.io/pull/129) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 - [README: Cleanup empty-files](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/pull/34) on [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (2 weeks ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.11](https://github.com/deployphp/deployer/releases/tag/v7.5.11) (today)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.18.2](https://github.com/redaxo/redaxo/releases/tag/5.18.2) (today)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [6.5.1](https://github.com/vimeo/psalm/releases/tag/6.5.1) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.4](https://github.com/phpstan/phpstan/releases/tag/2.1.4) (today)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.56.0](https://github.com/Roave/BetterReflection/releases/tag/6.56.0) (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.2](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.2) (2 days ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.0.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.2) (2 days ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.16](https://github.com/shopware/shopware/releases/tag/v6.5.8.16) (3 days ago)
-- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - [7.0.0](https://github.com/sebastianbergmann/recursion-context/releases/tag/7.0.0) (3 days ago)
-- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [7.0.0](https://github.com/sebastianbergmann/exporter/releases/tag/7.0.0) (3 days ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.11](https://github.com/deployphp/deployer/releases/tag/v7.5.11) (1 day ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.18.2](https://github.com/redaxo/redaxo/releases/tag/5.18.2) (1 day ago)
+- [vimeo/psalm](https://github.com/vimeo/psalm) - [6.5.1](https://github.com/vimeo/psalm/releases/tag/6.5.1) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.4](https://github.com/phpstan/phpstan/releases/tag/2.1.4) (1 day ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.56.0](https://github.com/Roave/BetterReflection/releases/tag/6.56.0) (2 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.2](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.2) (3 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.0.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.2) (3 days ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.16](https://github.com/shopware/shopware/releases/tag/v6.5.8.16) (4 days ago)
+- [sebastianbergmann/recursion-context](https://github.com/sebastianbergmann/recursion-context) - [7.0.0](https://github.com/sebastianbergmann/recursion-context/releases/tag/7.0.0) (4 days ago)
+- [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [7.0.0](https://github.com/sebastianbergmann/exporter/releases/tag/7.0.0) (4 days ago)
