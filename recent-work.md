@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (2 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
@@ -10,9 +11,8 @@
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (2 weeks ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (2 weeks ago)
-- [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (3 weeks ago)
 - [staabm/cross-repo-unused-methods](https://github.com/staabm/cross-repo-unused-methods) (3 weeks ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
+- [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.3](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.3) (today)
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) - [v3.0.0](https://github.com/thecodingmachine/safe/releases/tag/v3.0.0) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) - [0.29.11](https://github.com/infection/infection/releases/tag/0.29.11) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.7](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.7) (1 day ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.4](https://github.com/phpstan/phpstan/releases/tag/2.1.4) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.56.0](https://github.com/Roave/BetterReflection/releases/tag/6.56.0) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.2](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.2) (4 days ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.0.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.2) (4 days ago)
