@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [yiisoft/yii2](https://github.com/yiisoft/yii2) - [2.0.52](https://github.com/yiisoft/yii2/releases/tag/2.0.52) (today)
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.17](https://github.com/php/php-src/releases/tag/php-8.3.17) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.5](https://github.com/phpstan/phpstan/releases/tag/2.1.5) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.0.1](https://github.com/phpstan/phpdoc-parser/releases/tag/2.0.1) (today)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.3](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.3) (1 day ago)
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) - [v3.0.0](https://github.com/thecodingmachine/safe/releases/tag/v3.0.0) (2 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.29.11](https://github.com/infection/infection/releases/tag/0.29.11) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.7](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.7) (2 days ago)
