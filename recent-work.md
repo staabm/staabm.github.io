@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [php/php-src](https://github.com/php/php-src) - [php-8.4.4](https://github.com/php/php-src/releases/tag/php-8.4.4) (today)
+- [php/php-src](https://github.com/php/php-src) - [php-8.3.17](https://github.com/php/php-src/releases/tag/php-8.3.17) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.5](https://github.com/phpstan/phpstan/releases/tag/2.1.5) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.0.1](https://github.com/phpstan/phpdoc-parser/releases/tag/2.0.1) (today)
 - [MariaDB/server](https://github.com/MariaDB/server) - [mariadb-11.8.1](https://github.com/MariaDB/server/releases/tag/mariadb-11.8.1) (today)
