@@ -59,6 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.5](https://github.com/phpstan/phpstan/releases/tag/2.1.5) (today)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.0.1](https://github.com/phpstan/phpdoc-parser/releases/tag/2.0.1) (today)
 - [MariaDB/server](https://github.com/MariaDB/server) - [mariadb-11.8.1](https://github.com/MariaDB/server/releases/tag/mariadb-11.8.1) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.57.0](https://github.com/Roave/BetterReflection/releases/tag/6.57.0) (1 day ago)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - [2.1.4](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/releases/tag/2.1.4) (1 day ago)
@@ -67,5 +69,3 @@
 - [infection/infection](https://github.com/infection/infection) - [0.29.11](https://github.com/infection/infection/releases/tag/0.29.11) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.7](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.7) (2 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.11](https://github.com/deployphp/deployer/releases/tag/v7.5.11) (3 days ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.18.2](https://github.com/redaxo/redaxo/releases/tag/5.18.2) (3 days ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - [6.5.1](https://github.com/vimeo/psalm/releases/tag/6.5.1) (3 days ago)
