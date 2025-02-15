@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.69.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.69.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.8](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.8) (today)
 - [yiisoft/yii2](https://github.com/yiisoft/yii2) - [2.0.52](https://github.com/yiisoft/yii2/releases/tag/2.0.52) (2 days ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.17](https://github.com/php/php-src/releases/tag/php-8.3.17) (2 days ago)
@@ -68,4 +69,3 @@
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.57.0](https://github.com/Roave/BetterReflection/releases/tag/6.57.0) (3 days ago)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - [2.1.4](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/releases/tag/2.1.4) (3 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.3](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.3) (3 days ago)
-- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) - [v3.0.0](https://github.com/thecodingmachine/safe/releases/tag/v3.0.0) (4 days ago)
