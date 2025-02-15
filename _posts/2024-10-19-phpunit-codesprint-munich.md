@@ -113,6 +113,7 @@ In case you are not sure whether PHPUnit is starting subprocesses, try running y
 and watch for the newly added `Child Process Started`, `Child Process Finished` events.
 
 I did just that in [antecedent/patchwork](https://github.com/antecedent/patchwork/pull/168) and [symfony/symfony](https://github.com/symfony/symfony/pull/58680) to utilize this new capability.
+[Symfony PHPT tests are 9% faster](https://github.com/symfony/symfony/pull/58680#issuecomment-2441035323) after the change.
 
 
 ### Remove common prefixes and suffixes from actual and expected single-line strings
