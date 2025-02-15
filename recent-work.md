@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Readonly properties cannot be unset()](https://github.com/phpstan/phpstan-src/pull/3827) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Readme: fix typo](https://github.com/rectorphp/swiss-knife/pull/85) on [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (2 days ago)
 - [Fix false positive on nullable public properties](https://github.com/TomasVotruba/unused-public/pull/145) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (3 days ago)
 - [Lint sources on PHP 8.2 via Github Action](https://github.com/deployphp/deployer/pull/4018) on [deployphp/deployer](https://github.com/deployphp/deployer) (5 days ago)
@@ -54,7 +55,6 @@
 - [Extract ArrayColumnHelper from ArrayColumnFunctionReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/3785) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
 - [Fix false positve on generic phpdoc types](https://github.com/rectorphp/type-perfect/pull/61) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 month ago)
 - [Fix negative offset false positive on constant string](https://github.com/phpstan/phpstan-src/pull/3784) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
-- [Fix e2e test](https://github.com/staabm/phpstan-todo-by/pull/133) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 month ago)
 
 
 #### 🔭 Latest releases I've contributed to
