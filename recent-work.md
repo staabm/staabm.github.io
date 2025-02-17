@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [infection/infection](https://github.com/infection/infection) - [0.29.12](https://github.com/infection/infection/releases/tag/0.29.12) (today)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.0.2](https://github.com/phpstan/phpdoc-parser/releases/tag/2.0.2) (today)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.25.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.25.0) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.69.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.69.0) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.8](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.8) (2 days ago)
 - [yiisoft/yii2](https://github.com/yiisoft/yii2) - [2.0.52](https://github.com/yiisoft/yii2/releases/tag/2.0.52) (4 days ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.17](https://github.com/php/php-src/releases/tag/php-8.3.17) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.5](https://github.com/phpstan/phpstan/releases/tag/2.1.5) (4 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.0.1](https://github.com/phpstan/phpdoc-parser/releases/tag/2.0.1) (4 days ago)
 - [MariaDB/server](https://github.com/MariaDB/server) - [mariadb-11.8.1](https://github.com/MariaDB/server/releases/tag/mariadb-11.8.1) (4 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.57.0](https://github.com/Roave/BetterReflection/releases/tag/6.57.0) (5 days ago)
-- [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - [2.1.4](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/releases/tag/2.1.4) (5 days ago)
