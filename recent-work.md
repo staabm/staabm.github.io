@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use more precise list-types for getter methods](https://github.com/nikic/PHP-Parser/pull/1070) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
 - [Hooked properties cannot be both final and private](https://github.com/phpstan/phpstan-src/pull/3830) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Readonly properties cannot be unset()](https://github.com/phpstan/phpstan-src/pull/3827) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Readme: fix typo](https://github.com/rectorphp/swiss-knife/pull/85) on [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (5 days ago)
@@ -54,7 +55,6 @@
 - [README: Cleanup empty-files](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/pull/34) on [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (3 weeks ago)
 - [Handle the first occurence of an error as urgent](https://github.com/staabm/SysMonitor/pull/28) on [staabm/SysMonitor](https://github.com/staabm/SysMonitor) (4 weeks ago)
 - [Extract ArrayColumnHelper from ArrayColumnFunctionReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/3785) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
-- [Fix false positve on generic phpdoc types](https://github.com/rectorphp/type-perfect/pull/61) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 month ago)
 
 
 #### 🔭 Latest releases I've contributed to
