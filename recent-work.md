@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.3) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.29.12](https://github.com/infection/infection/releases/tag/0.29.12) (1 day ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.0.2](https://github.com/phpstan/phpdoc-parser/releases/tag/2.0.2) (1 day ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.25.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.25.0) (2 days ago)
@@ -68,4 +69,3 @@
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.17](https://github.com/php/php-src/releases/tag/php-8.3.17) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.5](https://github.com/phpstan/phpstan/releases/tag/2.1.5) (5 days ago)
 - [MariaDB/server](https://github.com/MariaDB/server) - [mariadb-11.8.1](https://github.com/MariaDB/server/releases/tag/mariadb-11.8.1) (5 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.57.0](https://github.com/Roave/BetterReflection/releases/tag/6.57.0) (6 days ago)
