@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.0.3](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.3) (today)
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) - [v3.0.1](https://github.com/thecodingmachine/safe/releases/tag/v3.0.1) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.3) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.29.12](https://github.com/infection/infection/releases/tag/0.29.12) (1 day ago)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.8](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.8) (3 days ago)
 - [yiisoft/yii2](https://github.com/yiisoft/yii2) - [2.0.52](https://github.com/yiisoft/yii2/releases/tag/2.0.52) (5 days ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.17](https://github.com/php/php-src/releases/tag/php-8.3.17) (5 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.5](https://github.com/phpstan/phpstan/releases/tag/2.1.5) (5 days ago)
