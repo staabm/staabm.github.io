@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.19.0](https://github.com/TypedDevs/bashunit/releases/tag/0.19.0) (today)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.10.0](https://github.com/shopware/shopware/releases/tag/v6.6.10.0) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.69.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.69.1) (1 day ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.0.3](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.3) (1 day ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.0.2](https://github.com/phpstan/phpdoc-parser/releases/tag/2.0.2) (2 days ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.25.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.25.0) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.8](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.8) (4 days ago)
-- [yiisoft/yii2](https://github.com/yiisoft/yii2) - [2.0.52](https://github.com/yiisoft/yii2/releases/tag/2.0.52) (6 days ago)
