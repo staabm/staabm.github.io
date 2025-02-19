@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.6](https://github.com/phpstan/phpstan/releases/tag/2.1.6) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.1.0](https://github.com/phpstan/phpdoc-parser/releases/tag/2.1.0) (today)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.19.0](https://github.com/TypedDevs/bashunit/releases/tag/0.19.0) (today)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.10.0](https://github.com/shopware/shopware/releases/tag/v6.6.10.0) (today)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.3) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) - [0.29.12](https://github.com/infection/infection/releases/tag/0.29.12) (2 days ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.25.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.25.0) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.8](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.8) (4 days ago)
