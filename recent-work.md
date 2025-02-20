@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (6 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.9](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.9) (today)
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) - [v3.0.2](https://github.com/thecodingmachine/safe/releases/tag/v3.0.2) (1 day ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.12](https://github.com/deployphp/deployer/releases/tag/v7.5.12) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.6](https://github.com/phpstan/phpstan/releases/tag/2.1.6) (1 day ago)
@@ -68,4 +69,3 @@
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.69.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.69.1) (2 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.0.3](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.3) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.3) (2 days ago)
-- [infection/infection](https://github.com/infection/infection) - [0.29.12](https://github.com/infection/infection/releases/tag/0.29.12) (3 days ago)
