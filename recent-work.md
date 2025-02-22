@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kahlan/kahlan](https://github.com/kahlan/kahlan) - [6.0.2](https://github.com/kahlan/kahlan/releases/tag/6.0.2) (today)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.12](https://github.com/lucatume/wp-browser/releases/tag/3.7.12) (today)
 - [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [2.1.0](https://github.com/FriendsOfREDAXO/adminer/releases/tag/2.1.0) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.4) (1 day ago)
@@ -68,4 +69,3 @@
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v7.5.12](https://github.com/deployphp/deployer/releases/tag/v7.5.12) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.6](https://github.com/phpstan/phpstan/releases/tag/2.1.6) (3 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.1.0](https://github.com/phpstan/phpdoc-parser/releases/tag/2.1.0) (3 days ago)
-- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.19.0](https://github.com/TypedDevs/bashunit/releases/tag/0.19.0) (3 days ago)
