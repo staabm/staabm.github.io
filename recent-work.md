@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.25.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.25.1) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.4](https://github.com/symfony/symfony/releases/tag/v7.2.4) (today)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v0.11.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v0.11.0) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.0.4](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.4) (1 day ago)
@@ -68,4 +69,3 @@
 - [kahlan/kahlan](https://github.com/kahlan/kahlan) - [6.0.2](https://github.com/kahlan/kahlan/releases/tag/6.0.2) (4 days ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - [3.7.12](https://github.com/lucatume/wp-browser/releases/tag/3.7.12) (4 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.10.1](https://github.com/shopware/shopware/releases/tag/v6.6.10.1) (6 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.9](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.9) (6 days ago)
