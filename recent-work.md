@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [php/doc-en](https://github.com/php/doc-en) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 week ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (2 weeks ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement FinalPrivateConstantRule](https://github.com/phpstan/phpstan-src/pull/3838) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Generated baseline can&#39;t be used if regex can&#39;t be compilated to UTF-8 chars](https://github.com/phpstan/phpstan-src/pull/3835) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [htaccess-check: improve error message](https://github.com/redaxo/redaxo/pull/6242) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (6 days ago)
 - [More precise IteratorAggregate::getIterator() description](https://github.com/php/doc-en/pull/4478) on [php/doc-en](https://github.com/php/doc-en) (6 days ago)
@@ -54,7 +55,6 @@
 - [Simplify NodeTypeResolver](https://github.com/rectorphp/rector-src/pull/6728) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 - [Regression test for error_log()](https://github.com/sebastianbergmann/phpunit/pull/6127) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)
 - [Add `expectErrorLog()` for expecting `error_log()` output](https://github.com/sebastianbergmann/phpunit/pull/6118) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 weeks ago)
-- [fix: NativeTypeDeclarationCasingFixer should not touch property names](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8400) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (4 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
