@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 day ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 weeks ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) (2 weeks ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Hooked properties cannot be unset()](https://github.com/phpstan/phpstan-src/pull/3842) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix nullable type deprecation warning](https://github.com/staabm/secure_dotenv/pull/16) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 day ago)
 - [Create dependabot.yml](https://github.com/staabm/secure_dotenv/pull/13) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 day ago)
 - [Hooked properties cannot be both abstract and private](https://github.com/phpstan/phpstan-src/pull/3839) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Readme: fix typo](https://github.com/rectorphp/swiss-knife/pull/85) on [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (2 weeks ago)
 - [Fix false positive on nullable public properties](https://github.com/TomasVotruba/unused-public/pull/145) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 weeks ago)
 - [Lint sources on PHP 8.2 via Github Action](https://github.com/deployphp/deployer/pull/4018) on [deployphp/deployer](https://github.com/deployphp/deployer) (2 weeks ago)
-- [Lint sources on PHP 7.x via Github Action](https://github.com/deployphp/deployer/pull/4016) on [deployphp/deployer](https://github.com/deployphp/deployer) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
