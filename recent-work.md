@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [MissingTypehintCheck: reduce duplicate work](https://github.com/phpstan/phpstan-src/pull/3843) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Hooked properties cannot be unset()](https://github.com/phpstan/phpstan-src/pull/3842) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix nullable type deprecation warning](https://github.com/staabm/secure_dotenv/pull/16) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (2 days ago)
 - [Create dependabot.yml](https://github.com/staabm/secure_dotenv/pull/13) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (2 days ago)
@@ -54,7 +55,6 @@
 - [Readonly properties cannot be unset()](https://github.com/phpstan/phpstan-src/pull/3827) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Readme: fix typo](https://github.com/rectorphp/swiss-knife/pull/85) on [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (2 weeks ago)
 - [Fix false positive on nullable public properties](https://github.com/TomasVotruba/unused-public/pull/145) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 weeks ago)
-- [Lint sources on PHP 8.2 via Github Action](https://github.com/deployphp/deployer/pull/4018) on [deployphp/deployer](https://github.com/deployphp/deployer) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
