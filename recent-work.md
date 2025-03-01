@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.70.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.70.1) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.29.13](https://github.com/infection/infection/releases/tag/0.29.13) (2 days ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [10.0.4](https://github.com/staabm/secure_dotenv/releases/tag/10.0.4) (2 days ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.25.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.25.1) (3 days ago)
@@ -67,5 +68,4 @@
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.0.4](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.4) (4 days ago)
 - [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [2.1.1](https://github.com/FriendsOfREDAXO/adminer/releases/tag/2.1.1) (4 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.5](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.5) (4 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.70.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.70.0) (1 week ago)
 - [kahlan/kahlan](https://github.com/kahlan/kahlan) - [6.0.2](https://github.com/kahlan/kahlan/releases/tag/6.0.2) (1 week ago)
