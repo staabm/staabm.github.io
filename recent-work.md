@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix GetNonVirtualPropertyHookReadRule on abstract property](https://github.com/phpstan/phpstan-src/pull/3845) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3844) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [MissingTypehintCheck: reduce duplicate work](https://github.com/phpstan/phpstan-src/pull/3843) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Hooked properties cannot be unset()](https://github.com/phpstan/phpstan-src/pull/3842) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Use more precise list-types for getter methods](https://github.com/nikic/PHP-Parser/pull/1070) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
 - [Hooked properties cannot be both final and private](https://github.com/phpstan/phpstan-src/pull/3830) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Readonly properties cannot be unset()](https://github.com/phpstan/phpstan-src/pull/3827) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [Readme: fix typo](https://github.com/rectorphp/swiss-knife/pull/85) on [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
