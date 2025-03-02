@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (4 days ago)
 - [php/doc-en](https://github.com/php/doc-en) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/3844) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [MissingTypehintCheck: reduce duplicate work](https://github.com/phpstan/phpstan-src/pull/3843) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Hooked properties cannot be unset()](https://github.com/phpstan/phpstan-src/pull/3842) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fix nullable type deprecation warning](https://github.com/staabm/secure_dotenv/pull/16) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 days ago)
@@ -54,7 +55,6 @@
 - [Hooked properties cannot be both final and private](https://github.com/phpstan/phpstan-src/pull/3830) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Readonly properties cannot be unset()](https://github.com/phpstan/phpstan-src/pull/3827) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Readme: fix typo](https://github.com/rectorphp/swiss-knife/pull/85) on [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (2 weeks ago)
-- [Fix false positive on nullable public properties](https://github.com/TomasVotruba/unused-public/pull/145) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
