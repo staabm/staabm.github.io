@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (2 days ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (3 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 days ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (4 days ago)
 - [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
@@ -40,18 +40,18 @@
 
 #### 🔨 My recent Pull Requests
 
-- [MissingTypehintCheck: reduce duplicate work](https://github.com/phpstan/phpstan-src/pull/3843) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Hooked properties cannot be unset()](https://github.com/phpstan/phpstan-src/pull/3842) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Fix nullable type deprecation warning](https://github.com/staabm/secure_dotenv/pull/16) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (2 days ago)
-- [Create dependabot.yml](https://github.com/staabm/secure_dotenv/pull/13) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (2 days ago)
-- [Hooked properties cannot be both abstract and private](https://github.com/phpstan/phpstan-src/pull/3839) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Implement FinalPrivateConstantRule](https://github.com/phpstan/phpstan-src/pull/3838) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [MissingTypehintCheck: reduce duplicate work](https://github.com/phpstan/phpstan-src/pull/3843) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Hooked properties cannot be unset()](https://github.com/phpstan/phpstan-src/pull/3842) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Fix nullable type deprecation warning](https://github.com/staabm/secure_dotenv/pull/16) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 days ago)
+- [Create dependabot.yml](https://github.com/staabm/secure_dotenv/pull/13) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 days ago)
+- [Hooked properties cannot be both abstract and private](https://github.com/phpstan/phpstan-src/pull/3839) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Implement FinalPrivateConstantRule](https://github.com/phpstan/phpstan-src/pull/3838) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Generated baseline can&#39;t be used if regex can&#39;t be compilated to UTF-8 chars](https://github.com/phpstan/phpstan-src/pull/3835) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [htaccess-check: improve error message](https://github.com/redaxo/redaxo/pull/6242) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [More precise IteratorAggregate::getIterator() description](https://github.com/php/doc-en/pull/4478) on [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 - [Simplify Readme](https://github.com/staabm/phpstan-dba/pull/746) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [Use more precise list-types for getter methods](https://github.com/nikic/PHP-Parser/pull/1070) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
-- [Hooked properties cannot be both final and private](https://github.com/phpstan/phpstan-src/pull/3830) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [Hooked properties cannot be both final and private](https://github.com/phpstan/phpstan-src/pull/3830) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Readonly properties cannot be unset()](https://github.com/phpstan/phpstan-src/pull/3827) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Readme: fix typo](https://github.com/rectorphp/swiss-knife/pull/85) on [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (2 weeks ago)
 - [Fix false positive on nullable public properties](https://github.com/TomasVotruba/unused-public/pull/145) on [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 weeks ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.70.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.70.1) (today)
-- [infection/infection](https://github.com/infection/infection) - [0.29.13](https://github.com/infection/infection/releases/tag/0.29.13) (2 days ago)
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [10.0.4](https://github.com/staabm/secure_dotenv/releases/tag/10.0.4) (2 days ago)
-- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.25.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.25.1) (3 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.4](https://github.com/symfony/symfony/releases/tag/v7.2.4) (3 days ago)
-- [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v0.11.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v0.11.0) (3 days ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.0.4](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.4) (4 days ago)
-- [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [2.1.1](https://github.com/FriendsOfREDAXO/adminer/releases/tag/2.1.1) (4 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.5](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.5) (4 days ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.70.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.70.1) (1 day ago)
+- [infection/infection](https://github.com/infection/infection) - [0.29.13](https://github.com/infection/infection/releases/tag/0.29.13) (3 days ago)
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [10.0.4](https://github.com/staabm/secure_dotenv/releases/tag/10.0.4) (3 days ago)
+- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.25.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.25.1) (4 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.4](https://github.com/symfony/symfony/releases/tag/v7.2.4) (4 days ago)
+- [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v0.11.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v0.11.0) (4 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.0.4](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.4) (5 days ago)
+- [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [2.1.1](https://github.com/FriendsOfREDAXO/adminer/releases/tag/2.1.1) (5 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.5](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.5) (5 days ago)
 - [kahlan/kahlan](https://github.com/kahlan/kahlan) - [6.0.2](https://github.com/kahlan/kahlan/releases/tag/6.0.2) (1 week ago)
