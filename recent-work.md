@@ -31,11 +31,11 @@
 - [oliverklee](https://github.com/oliverklee) (7 months ago)
 - [TicketSwap](https://github.com/TicketSwap) (8 months ago)
 - [brotkrueml](https://github.com/brotkrueml) (9 months ago)
-- [annervisser](https://github.com/annervisser) (11 months ago)
 - [eliashaeussler](https://github.com/eliashaeussler) (2 years ago)
 - [DaveLiddament](https://github.com/DaveLiddament) (2 years ago)
 - [SecuMailer](https://github.com/SecuMailer) (2 years ago)
 - [omphteliba](https://github.com/omphteliba) (2 years ago)
+- [TomasVotruba](https://github.com/TomasVotruba) (2 years ago)
 
 
 #### 🔨 My recent Pull Requests
