@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (4 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (5 days ago)
 - [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (2 weeks ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 weeks ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (3 weeks ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.2](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.2) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.29.14](https://github.com/infection/infection/releases/tag/0.29.14) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.70.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.70.1) (2 days ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [10.0.4](https://github.com/staabm/secure_dotenv/releases/tag/10.0.4) (4 days ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.0.4](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.4) (6 days ago)
 - [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [2.1.1](https://github.com/FriendsOfREDAXO/adminer/releases/tag/2.1.1) (6 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.5](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.5) (6 days ago)
-- [kahlan/kahlan](https://github.com/kahlan/kahlan) - [6.0.2](https://github.com/kahlan/kahlan/releases/tag/6.0.2) (1 week ago)
