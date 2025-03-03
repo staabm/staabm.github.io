@@ -34,6 +34,9 @@ In this post I will write down what I learned from setting up PHPStan in a lot o
 You don't need to enable result cache explicitly, as it's enabled by default.
 PHPStan tries to be as smart as possible about invalidating the cache when required.
 
+Additionally you should _not_ try to be smart and run PHPStan only on a subset of files in your project.
+Read more: [Why you should always analyse the whole project](https://phpstan.org/blog/why-you-should-always-analyse-whole-project).
+
 ### How it works
 
 To find out when/whether PHPStan is using the result cache, you can use the `-vvv` flags.
