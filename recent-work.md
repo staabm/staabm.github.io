@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.25.2](https://github.com/pmmp/PocketMine-MP/releases/tag/5.25.2) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.18.3](https://github.com/redaxo/redaxo/releases/tag/5.18.3) (today)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.9.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.9.0) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.70.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.70.2) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.2](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.2) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) - [0.29.14](https://github.com/infection/infection/releases/tag/0.29.14) (2 days ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [10.0.4](https://github.com/staabm/secure_dotenv/releases/tag/10.0.4) (5 days ago)
-- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.25.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.25.1) (6 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.4](https://github.com/symfony/symfony/releases/tag/v7.2.4) (6 days ago)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v0.11.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v0.11.0) (6 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.0.4](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.4) (1 week ago)
