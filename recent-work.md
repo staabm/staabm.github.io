@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [@immutable class cannot be passed by-ref](https://github.com/phpstan/phpstan-src/pull/3850) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [@readonly property cannot be passed by-ref](https://github.com/phpstan/phpstan-src/pull/3850) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix GetNonVirtualPropertyHookReadRule on abstract property](https://github.com/phpstan/phpstan-src/pull/3845) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3844) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [MissingTypehintCheck: reduce duplicate work](https://github.com/phpstan/phpstan-src/pull/3843) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
