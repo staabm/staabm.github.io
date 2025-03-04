@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support syntax-error detection with spread-operator values](https://github.com/staabm/phpstan-dba/pull/750) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [@readonly property cannot be passed by-ref](https://github.com/phpstan/phpstan-src/pull/3850) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix GetNonVirtualPropertyHookReadRule on abstract property](https://github.com/phpstan/phpstan-src/pull/3845) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3844) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [More precise IteratorAggregate::getIterator() description](https://github.com/php/doc-en/pull/4478) on [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 - [Simplify Readme](https://github.com/staabm/phpstan-dba/pull/746) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [Use more precise list-types for getter methods](https://github.com/nikic/PHP-Parser/pull/1070) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 weeks ago)
-- [Hooked properties cannot be both final and private](https://github.com/phpstan/phpstan-src/pull/3830) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
