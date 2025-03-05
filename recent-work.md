@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.3.5](https://github.com/staabm/phpstan-dba/releases/tag/0.3.5) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.7](https://github.com/phpstan/phpstan/releases/tag/2.1.7) (today)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.3.4](https://github.com/staabm/phpstan-dba/releases/tag/0.3.4) (today)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.10.2](https://github.com/shopware/shopware/releases/tag/v6.6.10.2) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.6) (today)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.25.2](https://github.com/pmmp/PocketMine-MP/releases/tag/5.25.2) (1 day ago)
