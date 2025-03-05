@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.6) (today)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.25.2](https://github.com/pmmp/PocketMine-MP/releases/tag/5.25.2) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.18.3](https://github.com/redaxo/redaxo/releases/tag/5.18.3) (1 day ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.9.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.9.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [10.0.4](https://github.com/staabm/secure_dotenv/releases/tag/10.0.4) (6 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.4](https://github.com/symfony/symfony/releases/tag/v7.2.4) (1 week ago)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v0.11.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v0.11.0) (1 week ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.0.4](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.4) (1 week ago)
