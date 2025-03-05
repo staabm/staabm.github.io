@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix type when using \PDO::FETCH_OBJ on iteration](https://github.com/staabm/phpstan-dba/pull/751) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Support spread operator in prepared statement parameter expressions](https://github.com/staabm/phpstan-dba/pull/750) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [@readonly property cannot be passed by-ref](https://github.com/phpstan/phpstan-src/pull/3850) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fix GetNonVirtualPropertyHookReadRule on abstract property](https://github.com/phpstan/phpstan-src/pull/3845) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -54,11 +55,12 @@
 - [htaccess-check: improve error message](https://github.com/redaxo/redaxo/pull/6242) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [More precise IteratorAggregate::getIterator() description](https://github.com/php/doc-en/pull/4478) on [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 - [Simplify Readme](https://github.com/staabm/phpstan-dba/pull/746) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
-- [Use more precise list-types for getter methods](https://github.com/nikic/PHP-Parser/pull/1070) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.7](https://github.com/phpstan/phpstan/releases/tag/2.1.7) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.3.4](https://github.com/staabm/phpstan-dba/releases/tag/0.3.4) (today)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.10.2](https://github.com/shopware/shopware/releases/tag/v6.6.10.2) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.6) (today)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.25.2](https://github.com/pmmp/PocketMine-MP/releases/tag/5.25.2) (1 day ago)
@@ -67,5 +69,3 @@
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.70.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.70.2) (2 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.2](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.2) (2 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.29.14](https://github.com/infection/infection/releases/tag/0.29.14) (3 days ago)
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [10.0.4](https://github.com/staabm/secure_dotenv/releases/tag/10.0.4) (6 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.4](https://github.com/symfony/symfony/releases/tag/v7.2.4) (1 week ago)
