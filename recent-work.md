@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix typo false-positive](https://github.com/phpstan/phpstan-src/pull/3856) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Fix unsetting array item triggers unset.possiblyHookedProperty](https://github.com/phpstan/phpstan-src/pull/3855) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Drop safe-functions leftovers](https://github.com/FriendsOfREDAXO/rexstan/pull/844) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [Fix type when using \PDO::FETCH_OBJ on iteration](https://github.com/staabm/phpstan-dba/pull/751) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Support spread operator in prepared statement parameter expressions](https://github.com/staabm/phpstan-dba/pull/750) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
@@ -53,8 +55,6 @@
 - [Hooked properties cannot be both abstract and private](https://github.com/phpstan/phpstan-src/pull/3839) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Implement FinalPrivateConstantRule](https://github.com/phpstan/phpstan-src/pull/3838) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Generated baseline can&#39;t be used if regex can&#39;t be compilated to UTF-8 chars](https://github.com/phpstan/phpstan-src/pull/3835) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [htaccess-check: improve error message](https://github.com/redaxo/redaxo/pull/6242) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
-- [More precise IteratorAggregate::getIterator() description](https://github.com/php/doc-en/pull/4478) on [php/doc-en](https://github.com/php/doc-en) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
