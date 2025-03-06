@@ -4,8 +4,8 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ignore error by identifier](https://github.com/staabm/phpstan-dba/pull/753) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Prevent false-positives in placeholder validation](https://github.com/staabm/phpstan-dba/pull/752) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Fix typo false-positive](https://github.com/phpstan/phpstan/pull/12700) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Fix typo false-positive](https://github.com/phpstan/phpstan-src/pull/3856) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix unsetting array item triggers unset.possiblyHookedProperty](https://github.com/phpstan/phpstan-src/pull/3855) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -53,15 +55,13 @@
 - [Hooked properties cannot be unset()](https://github.com/phpstan/phpstan-src/pull/3842) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Fix nullable type deprecation warning](https://github.com/staabm/secure_dotenv/pull/16) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
 - [Create dependabot.yml](https://github.com/staabm/secure_dotenv/pull/13) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
-- [Hooked properties cannot be both abstract and private](https://github.com/phpstan/phpstan-src/pull/3839) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Implement FinalPrivateConstantRule](https://github.com/phpstan/phpstan-src/pull/3838) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.3.6](https://github.com/staabm/phpstan-dba/releases/tag/0.3.6) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.10](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.10) (1 day ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.9.1](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.9.1) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.3.5](https://github.com/staabm/phpstan-dba/releases/tag/0.3.5) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.7](https://github.com/phpstan/phpstan/releases/tag/2.1.7) (1 day ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.10.2](https://github.com/shopware/shopware/releases/tag/v6.6.10.2) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.6) (1 day ago)
