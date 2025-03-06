@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix typo false-positive](https://github.com/phpstan/phpstan/pull/12700) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Fix typo false-positive](https://github.com/phpstan/phpstan-src/pull/3856) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix unsetting array item triggers unset.possiblyHookedProperty](https://github.com/phpstan/phpstan-src/pull/3855) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Drop safe-functions leftovers](https://github.com/FriendsOfREDAXO/rexstan/pull/844) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -54,7 +55,6 @@
 - [Create dependabot.yml](https://github.com/staabm/secure_dotenv/pull/13) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
 - [Hooked properties cannot be both abstract and private](https://github.com/phpstan/phpstan-src/pull/3839) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Implement FinalPrivateConstantRule](https://github.com/phpstan/phpstan-src/pull/3838) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Generated baseline can&#39;t be used if regex can&#39;t be compilated to UTF-8 chars](https://github.com/phpstan/phpstan-src/pull/3835) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
