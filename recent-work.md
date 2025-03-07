@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement PdoStatementTypeNodeResolverExtension](https://github.com/AllenJB/phpstan-pdo-tests/pull/2) on [AllenJB/phpstan-pdo-tests](https://github.com/AllenJB/phpstan-pdo-tests) (today)
 - [Added type declarations](https://github.com/AllenJB/phpstan-pdo-tests/pull/1) on [AllenJB/phpstan-pdo-tests](https://github.com/AllenJB/phpstan-pdo-tests) (today)
 - [ignore error by identifier](https://github.com/staabm/phpstan-dba/pull/753) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Prevent false-positives in placeholder validation](https://github.com/staabm/phpstan-dba/pull/752) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
@@ -54,18 +55,17 @@
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3844) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [MissingTypehintCheck: reduce duplicate work](https://github.com/phpstan/phpstan-src/pull/3843) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Hooked properties cannot be unset()](https://github.com/phpstan/phpstan-src/pull/3842) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix nullable type deprecation warning](https://github.com/staabm/secure_dotenv/pull/16) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [6.3.1](https://github.com/sebastianbergmann/comparator/releases/tag/6.3.1) (today)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.7) (today)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.0.1](https://github.com/sebastianbergmann/comparator/releases/tag/7.0.1) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.3.6](https://github.com/staabm/phpstan-dba/releases/tag/0.3.6) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.10](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.10) (2 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.9.1](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.9.1) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.7](https://github.com/phpstan/phpstan/releases/tag/2.1.7) (2 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.10.2](https://github.com/shopware/shopware/releases/tag/v6.6.10.2) (2 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.6) (2 days ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.25.2](https://github.com/pmmp/PocketMine-MP/releases/tag/5.25.2) (3 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.18.3](https://github.com/redaxo/redaxo/releases/tag/5.18.3) (3 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.70.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.70.2) (4 days ago)
