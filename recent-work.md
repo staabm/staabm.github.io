@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Faster MutatingScope-&gt;mergeWith(Scope)](https://github.com/phpstan/phpstan-src/pull/3861) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Simplify xdiff_string_diff example](https://github.com/php/doc-en/pull/4520) on [php/doc-en](https://github.com/php/doc-en) (today)
 - [Faster TrinaryLogic-&gt;and()](https://github.com/phpstan/phpstan-src/pull/3860) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Reduce method calls in ExpressionTypeHolder](https://github.com/phpstan/phpstan-src/pull/3859) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement PdoStatementTypeNodeResolverExtension](https://github.com/AllenJB/phpstan-pdo-tests/pull/2) on [AllenJB/phpstan-pdo-tests](https://github.com/AllenJB/phpstan-pdo-tests) (today)
@@ -53,17 +55,15 @@
 - [Fix type when using \PDO::FETCH_OBJ on iteration](https://github.com/staabm/phpstan-dba/pull/751) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [Support spread operator in prepared statement parameter expressions](https://github.com/staabm/phpstan-dba/pull/750) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [@readonly property cannot be passed by-ref](https://github.com/phpstan/phpstan-src/pull/3850) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Fix GetNonVirtualPropertyHookReadRule on abstract property](https://github.com/phpstan/phpstan-src/pull/3845) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/3844) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.9.2](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.9.2) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.7) (today)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.0.1](https://github.com/sebastianbergmann/comparator/releases/tag/7.0.1) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.3.6](https://github.com/staabm/phpstan-dba/releases/tag/0.3.6) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.10](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.10) (2 days ago)
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.9.1](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.9.1) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.7](https://github.com/phpstan/phpstan/releases/tag/2.1.7) (2 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.10.2](https://github.com/shopware/shopware/releases/tag/v6.6.10.2) (2 days ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.25.2](https://github.com/pmmp/PocketMine-MP/releases/tag/5.25.2) (3 days ago)
