@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Faster TrinaryLogic-&gt;and()](https://github.com/phpstan/phpstan-src/pull/3860) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Reduce method calls in ExpressionTypeHolder](https://github.com/phpstan/phpstan-src/pull/3859) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement PdoStatementTypeNodeResolverExtension](https://github.com/AllenJB/phpstan-pdo-tests/pull/2) on [AllenJB/phpstan-pdo-tests](https://github.com/AllenJB/phpstan-pdo-tests) (today)
 - [Added type declarations](https://github.com/AllenJB/phpstan-pdo-tests/pull/1) on [AllenJB/phpstan-pdo-tests](https://github.com/AllenJB/phpstan-pdo-tests) (today)
 - [ignore error by identifier](https://github.com/staabm/phpstan-dba/pull/753) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
@@ -53,8 +55,6 @@
 - [@readonly property cannot be passed by-ref](https://github.com/phpstan/phpstan-src/pull/3850) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Fix GetNonVirtualPropertyHookReadRule on abstract property](https://github.com/phpstan/phpstan-src/pull/3845) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3844) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [MissingTypehintCheck: reduce duplicate work](https://github.com/phpstan/phpstan-src/pull/3843) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Hooked properties cannot be unset()](https://github.com/phpstan/phpstan-src/pull/3842) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
