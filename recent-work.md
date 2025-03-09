@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/3863) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Faster analysis with a big const array in a class](https://github.com/phpstan/phpstan-src/pull/3862) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Faster MutatingScope-&gt;mergeWith(Scope)](https://github.com/phpstan/phpstan-src/pull/3861) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Simplify xdiff_string_diff example](https://github.com/php/doc-en/pull/4520) on [php/doc-en](https://github.com/php/doc-en) (2 days ago)
 - [Faster TrinaryLogic-&gt;and()](https://github.com/phpstan/phpstan-src/pull/3860) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -53,8 +55,6 @@
 - [Fix unsetting array item triggers unset.possiblyHookedProperty](https://github.com/phpstan/phpstan-src/pull/3855) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Drop safe-functions leftovers](https://github.com/FriendsOfREDAXO/rexstan/pull/844) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [Fix type when using \PDO::FETCH_OBJ on iteration](https://github.com/staabm/phpstan-dba/pull/751) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [Support spread operator in prepared statement parameter expressions](https://github.com/staabm/phpstan-dba/pull/750) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [@readonly property cannot be passed by-ref](https://github.com/phpstan/phpstan-src/pull/3850) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
