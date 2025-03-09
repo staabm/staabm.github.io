@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.8](https://github.com/phpstan/phpstan/releases/tag/2.1.8) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.71.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.71.0) (2 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.9.2](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.9.2) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.7) (2 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.0.1](https://github.com/sebastianbergmann/comparator/releases/tag/7.0.1) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.3.6](https://github.com/staabm/phpstan-dba/releases/tag/0.3.6) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.10](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.10) (4 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.7](https://github.com/phpstan/phpstan/releases/tag/2.1.7) (4 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.10.2](https://github.com/shopware/shopware/releases/tag/v6.6.10.2) (4 days ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.25.2](https://github.com/pmmp/PocketMine-MP/releases/tag/5.25.2) (5 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.18.3](https://github.com/redaxo/redaxo/releases/tag/5.18.3) (5 days ago)
