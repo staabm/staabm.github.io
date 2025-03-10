@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Avoiding $emailAddress property accessed before initialization error.](https://github.com/lesstif/php-JiraCloud-RESTAPI/pull/92) on [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (today)
 - [Fix false positives on non-existing-offset&#39;s](https://github.com/phpstan/phpstan-src/pull/3868) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Add regression test](https://github.com/phpstan/phpstan-src/pull/3866) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3863) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Prevent false-positives in placeholder validation](https://github.com/staabm/phpstan-dba/pull/752) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [Fix typo false-positive](https://github.com/phpstan/phpstan/pull/12700) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [Fix typo false-positive](https://github.com/phpstan/phpstan-src/pull/3856) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Fix unsetting array item triggers unset.possiblyHookedProperty](https://github.com/phpstan/phpstan-src/pull/3855) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
