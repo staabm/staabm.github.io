@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add regression test](https://github.com/phpstan/phpstan-src/pull/3866) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3863) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Faster analysis with a big const array in a class](https://github.com/phpstan/phpstan-src/pull/3862) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Faster MutatingScope-&gt;mergeWith(Scope)](https://github.com/phpstan/phpstan-src/pull/3861) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -54,18 +55,17 @@
 - [Fix typo false-positive](https://github.com/phpstan/phpstan-src/pull/3856) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Fix unsetting array item triggers unset.possiblyHookedProperty](https://github.com/phpstan/phpstan-src/pull/3855) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Drop safe-functions leftovers](https://github.com/FriendsOfREDAXO/rexstan/pull/844) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
-- [Fix type when using \PDO::FETCH_OBJ on iteration](https://github.com/staabm/phpstan-dba/pull/751) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.11](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.11) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.8](https://github.com/phpstan/phpstan/releases/tag/2.1.8) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.71.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.71.0) (3 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.9.2](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.9.2) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.7) (3 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.0.1](https://github.com/sebastianbergmann/comparator/releases/tag/7.0.1) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.3.6](https://github.com/staabm/phpstan-dba/releases/tag/0.3.6) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.10](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.10) (5 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.10.2](https://github.com/shopware/shopware/releases/tag/v6.6.10.2) (5 days ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.25.2](https://github.com/pmmp/PocketMine-MP/releases/tag/5.25.2) (6 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.18.3](https://github.com/redaxo/redaxo/releases/tag/5.18.3) (6 days ago)
