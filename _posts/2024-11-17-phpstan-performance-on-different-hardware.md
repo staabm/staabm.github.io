@@ -90,10 +90,6 @@ Zend Engine v4.3.13, Copyright (c) Zend Technologies
 
 Still on PHPStan@cc4eb92 but looking at the separate `make` targets:
 
-`time make cs`
-
-- 290-310 milli-seconds
-
 `time make tests`
 
 - 37-45 seconds
@@ -102,3 +98,12 @@ Still on PHPStan@cc4eb92 but looking at the separate `make` targets:
 
 - 18-19 seconds
 
+#### M4 Pro (2024), 14‑Core CPU, 1 TB SSD, 48 GB RAM with Microsoft Defender enabled
+
+`time make tests`
+
+- 41-49 seconds
+
+`time make phpstan`
+
+- 19-21 seconds
