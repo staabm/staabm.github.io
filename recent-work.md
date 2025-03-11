@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/3875) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix false positives on existing-offsets after assign](https://github.com/phpstan/phpstan-src/pull/3874) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix false positives on non-existing-offsets of super-globals](https://github.com/phpstan/phpstan-src/pull/3871) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Avoiding $emailAddress property accessed before initialization error.](https://github.com/lesstif/php-JiraCloud-RESTAPI/pull/92) on [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (1 day ago)
@@ -54,7 +55,6 @@
 - [Implement PdoStatementTypeNodeResolverExtension](https://github.com/AllenJB/phpstan-pdo-tests/pull/2) on [AllenJB/phpstan-pdo-tests](https://github.com/AllenJB/phpstan-pdo-tests) (4 days ago)
 - [Added type declarations](https://github.com/AllenJB/phpstan-pdo-tests/pull/1) on [AllenJB/phpstan-pdo-tests](https://github.com/AllenJB/phpstan-pdo-tests) (4 days ago)
 - [ignore error by identifier](https://github.com/staabm/phpstan-dba/pull/753) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [Prevent false-positives in placeholder validation](https://github.com/staabm/phpstan-dba/pull/752) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
