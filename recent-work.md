@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix build](https://github.com/phpstan/phpstan-nette/pull/168) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
+- [fix build](https://github.com/phpstan/phpstan-doctrine/pull/647) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
+- [Fix min-phpstan version](https://github.com/phpstan/phpstan-strict-rules/pull/264) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
 - [fix build](https://github.com/phpstan/phpstan-phpunit/pull/221) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3875) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix false positives on existing-offsets after assign](https://github.com/phpstan/phpstan-src/pull/3874) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -52,9 +55,6 @@
 - [Faster MutatingScope-&gt;mergeWith(Scope)](https://github.com/phpstan/phpstan-src/pull/3861) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Simplify xdiff_string_diff example](https://github.com/php/doc-en/pull/4520) on [php/doc-en](https://github.com/php/doc-en) (5 days ago)
 - [Faster TrinaryLogic-&gt;and()](https://github.com/phpstan/phpstan-src/pull/3860) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Reduce method calls in ExpressionTypeHolder](https://github.com/phpstan/phpstan-src/pull/3859) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Implement PdoStatementTypeNodeResolverExtension](https://github.com/AllenJB/phpstan-pdo-tests/pull/2) on [AllenJB/phpstan-pdo-tests](https://github.com/AllenJB/phpstan-pdo-tests) (5 days ago)
-- [Added type declarations](https://github.com/AllenJB/phpstan-pdo-tests/pull/1) on [AllenJB/phpstan-pdo-tests](https://github.com/AllenJB/phpstan-pdo-tests) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
