@@ -26,7 +26,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
-- [Chemaclass](https://github.com/Chemaclass) (5 months ago)
 - [phpstan](https://github.com/phpstan) (7 months ago)
 - [oliverklee](https://github.com/oliverklee) (8 months ago)
 - [TicketSwap](https://github.com/TicketSwap) (8 months ago)
@@ -36,6 +35,7 @@
 - [SecuMailer](https://github.com/SecuMailer) (2 years ago)
 - [omphteliba](https://github.com/omphteliba) (2 years ago)
 - [timetape-de](https://github.com/timetape-de) (2 years ago)
+- [Marschl](https://github.com/Marschl) (2 years ago)
 
 
 #### 🔨 My recent Pull Requests
