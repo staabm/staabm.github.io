@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix build](https://github.com/phpstan/phpstan-phpunit/pull/221) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3875) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix false positives on existing-offsets after assign](https://github.com/phpstan/phpstan-src/pull/3874) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix false positives on non-existing-offsets of super-globals](https://github.com/phpstan/phpstan-src/pull/3871) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Reduce method calls in ExpressionTypeHolder](https://github.com/phpstan/phpstan-src/pull/3859) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Implement PdoStatementTypeNodeResolverExtension](https://github.com/AllenJB/phpstan-pdo-tests/pull/2) on [AllenJB/phpstan-pdo-tests](https://github.com/AllenJB/phpstan-pdo-tests) (5 days ago)
 - [Added type declarations](https://github.com/AllenJB/phpstan-pdo-tests/pull/1) on [AllenJB/phpstan-pdo-tests](https://github.com/AllenJB/phpstan-pdo-tests) (5 days ago)
-- [ignore error by identifier](https://github.com/staabm/phpstan-dba/pull/753) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
