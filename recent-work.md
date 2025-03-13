@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement TypeSpecifierContext-&gt;getReturnType()](https://github.com/phpstan/phpstan-src/pull/3878) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix build](https://github.com/phpstan/phpstan-nette/pull/168) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
 - [fix build](https://github.com/phpstan/phpstan-doctrine/pull/647) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
 - [Fix min-phpstan version](https://github.com/phpstan/phpstan-strict-rules/pull/264) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 day ago)
@@ -54,7 +55,6 @@
 - [Faster analysis with a big const array in a class](https://github.com/phpstan/phpstan-src/pull/3862) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Faster MutatingScope-&gt;mergeWith(Scope)](https://github.com/phpstan/phpstan-src/pull/3861) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Simplify xdiff_string_diff example](https://github.com/php/doc-en/pull/4520) on [php/doc-en](https://github.com/php/doc-en) (6 days ago)
-- [Faster TrinaryLogic-&gt;and()](https://github.com/phpstan/phpstan-src/pull/3860) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
