@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [php/php-src](https://github.com/php/php-src) - [php-8.1.32](https://github.com/php/php-src/releases/tag/php-8.1.32) (today)
+- [php/php-src](https://github.com/php/php-src) - [php-8.3.19](https://github.com/php/php-src/releases/tag/php-8.3.19) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.72.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.72.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.11](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.11) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.8](https://github.com/phpstan/phpstan/releases/tag/2.1.8) (4 days ago)
