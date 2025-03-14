@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement TypeSpecifierContext-&gt;getReturnType()](https://github.com/phpstan/phpstan-src/pull/3881) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement TypeSpecifierContext-&gt;getReturnType()](https://github.com/phpstan/phpstan-src/pull/3878) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix build](https://github.com/phpstan/phpstan-nette/pull/168) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 days ago)
 - [fix build](https://github.com/phpstan/phpstan-doctrine/pull/647) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
@@ -54,7 +55,6 @@
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3863) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Faster analysis with a big const array in a class](https://github.com/phpstan/phpstan-src/pull/3862) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Faster MutatingScope-&gt;mergeWith(Scope)](https://github.com/phpstan/phpstan-src/pull/3861) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Simplify xdiff_string_diff example](https://github.com/php/doc-en/pull/4520) on [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
