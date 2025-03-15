@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.0.5](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.5) (today)
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.19](https://github.com/php/php-src/releases/tag/php-8.3.19) (2 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.72.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.72.0) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.11](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.11) (5 days ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.0.1](https://github.com/sebastianbergmann/comparator/releases/tag/7.0.1) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.3.6](https://github.com/staabm/phpstan-dba/releases/tag/0.3.6) (1 week ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.10.2](https://github.com/shopware/shopware/releases/tag/v6.6.10.2) (1 week ago)
-- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.25.2](https://github.com/pmmp/PocketMine-MP/releases/tag/5.25.2) (1 week ago)
