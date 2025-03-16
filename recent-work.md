@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix build](https://github.com/Seldaek/monolog/pull/1954) on [Seldaek/monolog](https://github.com/Seldaek/monolog) (today)
+- [Rename TestCase to MonologTestCase](https://github.com/Seldaek/monolog/pull/1953) on [Seldaek/monolog](https://github.com/Seldaek/monolog) (today)
 - [Implement TypeSpecifierContext-&gt;getReturnType()](https://github.com/phpstan/phpstan-src/pull/3881) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Implement TypeSpecifierContext-&gt;getReturnType()](https://github.com/phpstan/phpstan-src/pull/3878) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Fix build](https://github.com/phpstan/phpstan-nette/pull/168) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (4 days ago)
@@ -53,8 +55,6 @@
 - [Fix false positives on non-existing-offset&#39;s](https://github.com/phpstan/phpstan-src/pull/3868) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Add regression test](https://github.com/phpstan/phpstan-src/pull/3866) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3863) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Faster analysis with a big const array in a class](https://github.com/phpstan/phpstan-src/pull/3862) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Faster MutatingScope-&gt;mergeWith(Scope)](https://github.com/phpstan/phpstan-src/pull/3861) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
