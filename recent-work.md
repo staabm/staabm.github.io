@@ -3,8 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
+- [Seldaek/monolog](https://github.com/Seldaek/monolog) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (2 weeks ago)
@@ -12,7 +13,6 @@
 - [php/doc-en](https://github.com/php/doc-en) (3 weeks ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 weeks ago)
 - [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 month ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) (1 month ago)
 
 
 #### 📜 My recent blog posts
