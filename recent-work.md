@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - [2.1.5](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/releases/tag/2.1.5) (today)
 - [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [3.0.0](https://github.com/FriendsOfREDAXO/adminer/releases/tag/3.0.0) (1 day ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.0.5](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.5) (2 days ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.19](https://github.com/php/php-src/releases/tag/php-8.3.19) (4 days ago)
@@ -68,4 +69,3 @@
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.9.2](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.9.2) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.7) (1 week ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.0.1](https://github.com/sebastianbergmann/comparator/releases/tag/7.0.1) (1 week ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.3.6](https://github.com/staabm/phpstan-dba/releases/tag/0.3.6) (1 week ago)
