@@ -13,7 +13,7 @@ ogImage:
 ### PHPStan performance on different hardware
 
 I recently updated my macbook to the newly released model.
-The idea was to get a faster feedback loop when working on complex stuff like PHPStan itself.
+The idea was to get a faster feedback loop when working on complex stuff like PHPStan core itself.
 
 ### How much impact has hardware on PHPStan performance?
 
