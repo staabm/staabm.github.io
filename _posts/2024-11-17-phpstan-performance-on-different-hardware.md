@@ -110,3 +110,17 @@ Still on PHPStan@cc4eb92 but looking at the separate `make` targets:
 `time make phpstan`
 
 - 19-21 seconds
+
+#### MacBook Air M1 2020, Chip Apple M1 8 cores, 16Gb RAM
+
+`time make`
+136s
+141s
+140s
+135s
+128s
+
+PHP 8.3.19 (cli) (built: Mar 12 2025 13:10:27) (NTS)
+Copyright (c) The PHP Group
+Zend Engine v4.3.19, Copyright (c) Zend Technologies
+    with Zend OPcache v8.3.19, Copyright (c), by Zend Technologies
