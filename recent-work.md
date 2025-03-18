@@ -3,6 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -11,8 +13,6 @@
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (2 weeks ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 weeks ago)
 - [php/doc-en](https://github.com/php/doc-en) (3 weeks ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 weeks ago)
-- [TomasVotruba/unused-public](https://github.com/TomasVotruba/unused-public) (1 month ago)
 
 
 #### 📜 My recent blog posts
