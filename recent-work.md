@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.8](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.8) (today)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.4](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.4) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.1.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.1.0) (1 day ago)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - [2.1.5](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/releases/tag/2.1.5) (1 day ago)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.11](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.11) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.8](https://github.com/phpstan/phpstan/releases/tag/2.1.8) (1 week ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.9.2](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.9.2) (1 week ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.7) (1 week ago)
