@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.8](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.8) (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.9](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.9) (today)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.4](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.4) (1 day ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.1.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.1.0) (2 days ago)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - [2.1.5](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/releases/tag/2.1.5) (2 days ago)
