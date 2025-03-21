@@ -52,6 +52,9 @@ Zend Engine v4.3.13, Copyright (c) Zend Technologies
     with Zend OPcache v8.3.13, Copyright (c), by Zend Technologies
 ```
 
+MacBook Air M1 (2020), 8‑Core CPU, 16Gb RAM
+- 128-140 seconds
+
 Apple MacBook M2 Pro (2023), 12‑Core CPU, 1 TB SSD, 16 GB RAM (plugged in)
 - 76-82 seconds
 
