@@ -52,6 +52,9 @@ Zend Engine v4.3.13, Copyright (c) Zend Technologies
     with Zend OPcache v8.3.13, Copyright (c), by Zend Technologies
 ```
 
+MacBook Air M1 (2020), 8‑Core CPU, 16Gb RAM
+- 128-140 seconds
+
 Apple MacBook M2 Pro (2023), 12‑Core CPU, 1 TB SSD, 16 GB RAM (plugged in)
 - 76-82 seconds
 
@@ -110,17 +113,3 @@ Still on PHPStan@cc4eb92 but looking at the separate `make` targets:
 `time make phpstan`
 
 - 19-21 seconds
-
-#### MacBook Air M1 2020, Chip Apple M1 8 cores, 16Gb RAM
-
-`time make`
-136s
-141s
-140s
-135s
-128s
-
-PHP 8.3.19 (cli) (built: Mar 12 2025 13:10:27) (NTS)
-Copyright (c) The PHP Group
-Zend Engine v4.3.19, Copyright (c) Zend Technologies
-    with Zend OPcache v8.3.19, Copyright (c), by Zend Technologies
