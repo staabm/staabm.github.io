@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (4 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (4 days ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [RegexGroupParser - cache regex parsing results](https://github.com/phpstan/phpstan-src/pull/3894) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Fix false positives on existing-offsets after assign](https://github.com/phpstan/phpstan-src/pull/3893) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [RegexArrayShapeMatcher - turn more details immutable](https://github.com/phpstan/phpstan-src/pull/3892) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix count() regression](https://github.com/phpstan/phpstan-src/pull/3889) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fix build](https://github.com/Seldaek/monolog/pull/1954) on [Seldaek/monolog](https://github.com/Seldaek/monolog) (6 days ago)
@@ -53,8 +55,6 @@
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3875) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix false positives on existing-offsets after assign](https://github.com/phpstan/phpstan-src/pull/3874) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix false positives on non-existing-offsets of super-globals](https://github.com/phpstan/phpstan-src/pull/3871) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Avoiding $emailAddress property accessed before initialization error.](https://github.com/lesstif/php-JiraCloud-RESTAPI/pull/92) on [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (1 week ago)
-- [Fix false positives on non-existing-offset&#39;s](https://github.com/phpstan/phpstan-src/pull/3868) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
