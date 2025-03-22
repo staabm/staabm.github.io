@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.26.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.26.0) (today)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.10.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.10.0) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.73.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.73.1) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.9](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.9) (3 days ago)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [3.0.0](https://github.com/FriendsOfREDAXO/adminer/releases/tag/3.0.0) (6 days ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.19](https://github.com/php/php-src/releases/tag/php-8.3.19) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.11](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.11) (1 week ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.8](https://github.com/phpstan/phpstan/releases/tag/2.1.8) (1 week ago)
