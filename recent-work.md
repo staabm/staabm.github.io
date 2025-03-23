@@ -3,13 +3,13 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (5 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (5 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 weeks ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (3 weeks ago)
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.12](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.12) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.10](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.10) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.10](https://github.com/phpstan/phpstan/releases/tag/2.1.10) (today)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.26.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.26.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.1.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.1.0) (6 days ago)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - [2.1.5](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/releases/tag/2.1.5) (6 days ago)
 - [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [3.0.0](https://github.com/FriendsOfREDAXO/adminer/releases/tag/3.0.0) (1 week ago)
-- [php/php-src](https://github.com/php/php-src) - [php-8.3.19](https://github.com/php/php-src/releases/tag/php-8.3.19) (1 week ago)
