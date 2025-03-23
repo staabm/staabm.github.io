@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.5.15](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.15) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.10](https://github.com/phpstan/phpstan/releases/tag/2.1.10) (today)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.26.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.26.0) (1 day ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.10.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.10.0) (2 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.73.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.73.1) (4 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.9](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.9) (4 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.4](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.4) (5 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.1.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.1.0) (6 days ago)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - [2.1.5](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/releases/tag/2.1.5) (6 days ago)
