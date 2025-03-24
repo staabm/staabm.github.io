@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (6 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.13](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.13) (today)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0-rc1](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc1) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.5](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.5) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.11](https://github.com/phpstan/phpstan/releases/tag/2.1.11) (today)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.9.0](https://github.com/Seldaek/monolog/releases/tag/3.9.0) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.12](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.12) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.10](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.10) (1 day ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.26.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.26.0) (2 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.10.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.10.0) (3 days ago)
