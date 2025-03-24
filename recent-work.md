@@ -59,6 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0-rc1](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc1) (today)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.5](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.5) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.11](https://github.com/phpstan/phpstan/releases/tag/2.1.11) (today)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.9.0](https://github.com/Seldaek/monolog/releases/tag/3.9.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.12](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.12) (1 day ago)
@@ -67,5 +69,3 @@
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.10.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.10.0) (3 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.73.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.73.1) (5 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.4](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.4) (6 days ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.1.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.1.0) (1 week ago)
-- [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - [2.1.5](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/releases/tag/2.1.5) (1 week ago)
