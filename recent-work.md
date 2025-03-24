@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (6 days ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (6 days ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 weeks ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix test expectations](https://github.com/phpstan/phpstan-nette/pull/171) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
+- [Fix test expectations](https://github.com/phpstan/phpstan-nette/pull/170) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
 - [RegexArrayShapeMatcher - enforce list-type when no named captures](https://github.com/phpstan/phpstan-src/pull/3899) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [RegexArrayShapeMatcher - more precise subject types](https://github.com/phpstan/phpstan-src/pull/3897) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fix `count()` regression](https://github.com/phpstan/phpstan-src/pull/3895) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -53,16 +55,14 @@
 - [Implement TypeSpecifierContext-&gt;getReturnType()](https://github.com/phpstan/phpstan-src/pull/3878) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix build](https://github.com/phpstan/phpstan-nette/pull/168) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [fix build](https://github.com/phpstan/phpstan-doctrine/pull/647) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
-- [Fix min-phpstan version](https://github.com/phpstan/phpstan-strict-rules/pull/264) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 week ago)
-- [fix build](https://github.com/phpstan/phpstan-phpunit/pull/221) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.11](https://github.com/phpstan/phpstan/releases/tag/2.1.11) (today)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.9.0](https://github.com/Seldaek/monolog/releases/tag/3.9.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.12](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.12) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.10](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.10) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.10](https://github.com/phpstan/phpstan/releases/tag/2.1.10) (1 day ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.26.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.26.0) (2 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.10.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.10.0) (3 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.73.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.73.1) (5 days ago)
