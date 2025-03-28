@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.5](https://github.com/symfony/symfony/releases/tag/v7.2.5) (today)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.10.2](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.10.2) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.74.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.74.0) (1 day ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.27.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.27.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.11](https://github.com/phpstan/phpstan/releases/tag/2.1.11) (4 days ago)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.9.0](https://github.com/Seldaek/monolog/releases/tag/3.9.0) (4 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.0.10](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.10) (5 days ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.4](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.4) (1 week ago)
