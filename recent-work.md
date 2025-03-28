@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Set offset on list keeps list if there&#39;s HasOffsetType for all preceeding offsets](https://github.com/phpstan/phpstan-src/pull/3909) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix lost list-type if substituted a element via loop](https://github.com/phpstan/phpstan-src/pull/3908) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Narrow offsets for lists with HasOffsetType/HasOffsetValueType](https://github.com/phpstan/phpstan-src/pull/3905) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3904) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Fix count() regression](https://github.com/phpstan/phpstan-src/pull/3889) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix build](https://github.com/Seldaek/monolog/pull/1954) on [Seldaek/monolog](https://github.com/Seldaek/monolog) (1 week ago)
 - [Rename TestCase to MonologTestCase](https://github.com/Seldaek/monolog/pull/1953) on [Seldaek/monolog](https://github.com/Seldaek/monolog) (1 week ago)
-- [Implement TypeSpecifierContext-&gt;getReturnType()](https://github.com/phpstan/phpstan-src/pull/3881) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
