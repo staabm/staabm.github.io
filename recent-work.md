@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/3904) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix test expectations](https://github.com/phpstan/phpstan-nette/pull/171) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (4 days ago)
 - [Fix test expectations](https://github.com/phpstan/phpstan-nette/pull/170) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (4 days ago)
 - [RegexArrayShapeMatcher - enforce list-type when no named captures](https://github.com/phpstan/phpstan-src/pull/3899) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
@@ -54,7 +55,6 @@
 - [Implement TypeSpecifierContext-&gt;getReturnType()](https://github.com/phpstan/phpstan-src/pull/3881) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Implement TypeSpecifierContext-&gt;getReturnType()](https://github.com/phpstan/phpstan-src/pull/3878) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Fix build](https://github.com/phpstan/phpstan-nette/pull/168) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
-- [fix build](https://github.com/phpstan/phpstan-doctrine/pull/647) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
