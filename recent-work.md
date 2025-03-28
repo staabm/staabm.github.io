@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.10.2](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.10.2) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.74.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.74.0) (1 day ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.27.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.27.0) (1 day ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.6](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.6) (2 days ago)
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.10.1](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.10.1) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.13](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.13) (4 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0-rc1](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc1) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.11](https://github.com/phpstan/phpstan/releases/tag/2.1.11) (4 days ago)
