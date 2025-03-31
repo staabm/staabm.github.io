@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) (2 weeks ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 weeks ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 month ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 month ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[CodeQuality] fix assertInstanceOf casing](https://github.com/rectorphp/rector-phpunit/pull/471) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
 - [Set offset on list keeps list if there&#39;s HasOffsetType for all preceeding offsets](https://github.com/phpstan/phpstan-src/pull/3909) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Fix lost list-type if substituted a element via loop](https://github.com/phpstan/phpstan-src/pull/3908) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Narrow offsets for lists with HasOffsetType/HasOffsetValueType](https://github.com/phpstan/phpstan-src/pull/3905) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -54,7 +55,6 @@
 - [RegexArrayShapeMatcher - turn more details immutable](https://github.com/phpstan/phpstan-src/pull/3892) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix count() regression](https://github.com/phpstan/phpstan-src/pull/3889) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix build](https://github.com/Seldaek/monolog/pull/1954) on [Seldaek/monolog](https://github.com/Seldaek/monolog) (2 weeks ago)
-- [Rename TestCase to MonologTestCase](https://github.com/Seldaek/monolog/pull/1953) on [Seldaek/monolog](https://github.com/Seldaek/monolog) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
