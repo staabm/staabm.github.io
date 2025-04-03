@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [3.1.1](https://github.com/FriendsOfREDAXO/adminer/releases/tag/3.1.1) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.1.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.1.2) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.75.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.75.0) (3 days ago)
-- [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [3.1.0](https://github.com/FriendsOfREDAXO/adminer/releases/tag/3.1.0) (3 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.5](https://github.com/symfony/symfony/releases/tag/v7.2.5) (6 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.10.2](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.10.2) (6 days ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.27.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.27.0) (1 week ago)
