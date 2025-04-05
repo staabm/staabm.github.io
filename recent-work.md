@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (today)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (5 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 weeks ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) (2 weeks ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 month ago)
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 month ago)
 
 
 #### 📜 My recent blog posts
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.8.0](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.8.0) (today)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.11.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.11.0) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.1.0](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.0) (1 day ago)
 - [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [3.1.1](https://github.com/FriendsOfREDAXO/adminer/releases/tag/3.1.1) (2 days ago)
@@ -68,4 +69,3 @@
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.27.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.27.0) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.6](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.6) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.13](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.13) (1 week ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0-rc1](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc1) (1 week ago)
