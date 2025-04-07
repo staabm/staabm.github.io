@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [NoDynamicNameRule: Fix union type handling](https://github.com/symplify/phpstan-rules/pull/212) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (today)
 - [[TypeDeclaration] ReturnTypeFromStrictNewArrayRector support list](https://github.com/rectorphp/rector-src/pull/6820) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [MutatingScope: remove unnecessary callback functions](https://github.com/phpstan/phpstan-src/pull/3916) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [[CodeQuality] fix assertInstanceOf casing](https://github.com/rectorphp/rector-phpunit/pull/471) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 week ago)
@@ -54,7 +55,6 @@
 - [Fix `count()` regression](https://github.com/phpstan/phpstan-src/pull/3895) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [RegexGroupParser - cache regex parsing results](https://github.com/phpstan/phpstan-src/pull/3894) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Fix false positives on existing-offsets after assign](https://github.com/phpstan/phpstan-src/pull/3893) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [RegexArrayShapeMatcher - turn more details immutable](https://github.com/phpstan/phpstan-src/pull/3892) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
