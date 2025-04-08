@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (today)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
-- [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (2 days ago)
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 day ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
+- [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (3 days ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 weeks ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 weeks ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -29,7 +29,7 @@
 - [phpstan](https://github.com/phpstan) (8 months ago)
 - [oliverklee](https://github.com/oliverklee) (9 months ago)
 - [TicketSwap](https://github.com/TicketSwap) (9 months ago)
-- [brotkrueml](https://github.com/brotkrueml) (10 months ago)
+- [brotkrueml](https://github.com/brotkrueml) (11 months ago)
 - [eliashaeussler](https://github.com/eliashaeussler) (2 years ago)
 - [DaveLiddament](https://github.com/DaveLiddament) (2 years ago)
 - [SecuMailer](https://github.com/SecuMailer) (2 years ago)
@@ -40,10 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [non-empty-array&lt;mixed&gt; does not except array with hasOffsetValue](https://github.com/phpstan/phpstan-src/pull/3924) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [NoDynamicNameRule: Fix union type handling](https://github.com/symplify/phpstan-rules/pull/212) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (today)
-- [[TypeDeclaration] ReturnTypeFromStrictNewArrayRector support list](https://github.com/rectorphp/rector-src/pull/6820) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
-- [MutatingScope: remove unnecessary callback functions](https://github.com/phpstan/phpstan-src/pull/3916) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [non-empty-array&lt;mixed&gt; does not except array with hasOffsetValue](https://github.com/phpstan/phpstan-src/pull/3924) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [NoDynamicNameRule: Fix union type handling](https://github.com/symplify/phpstan-rules/pull/212) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 day ago)
+- [[TypeDeclaration] ReturnTypeFromStrictNewArrayRector support list](https://github.com/rectorphp/rector-src/pull/6820) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
+- [MutatingScope: remove unnecessary callback functions](https://github.com/phpstan/phpstan-src/pull/3916) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [[CodeQuality] fix assertInstanceOf casing](https://github.com/rectorphp/rector-phpunit/pull/471) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 week ago)
 - [Set offset on list keeps list if there&#39;s HasOffsetType for all preceeding offsets](https://github.com/phpstan/phpstan-src/pull/3909) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix lost list-type if substituted a element via loop](https://github.com/phpstan/phpstan-src/pull/3908) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -59,12 +59,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.27.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.27.1) (1 day ago)
-- [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.8.0](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.8.0) (2 days ago)
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.11.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.11.0) (3 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.1.0](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.0) (3 days ago)
-- [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [3.1.1](https://github.com/FriendsOfREDAXO/adminer/releases/tag/3.1.1) (4 days ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.1.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.1.2) (4 days ago)
+- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.27.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.27.1) (2 days ago)
+- [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.8.0](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.8.0) (3 days ago)
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.11.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.11.0) (4 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.1.0](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.0) (4 days ago)
+- [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [3.1.1](https://github.com/FriendsOfREDAXO/adminer/releases/tag/3.1.1) (5 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.1.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.1.2) (5 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.75.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.75.0) (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.5](https://github.com/symfony/symfony/releases/tag/v7.2.5) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.6](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.6) (1 week ago)
