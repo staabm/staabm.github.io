@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Inline array_map(fn, $arr) and use foreach-loop instead](https://github.com/phpstan/phpstan-src/pull/3926) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Inline array_map(fn, $arr) and use foreach-loop instead](https://github.com/Roave/BetterReflection/pull/1502) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [non-empty-array&lt;mixed&gt; does not except array with hasOffsetValue](https://github.com/phpstan/phpstan-src/pull/3924) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [NoDynamicNameRule: Fix union type handling](https://github.com/symplify/phpstan-rules/pull/212) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 day ago)
 - [[TypeDeclaration] ReturnTypeFromStrictNewArrayRector support list](https://github.com/rectorphp/rector-src/pull/6820) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
@@ -53,8 +55,6 @@
 - [Fix test expectations](https://github.com/phpstan/phpstan-nette/pull/170) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
 - [RegexArrayShapeMatcher - enforce list-type when no named captures](https://github.com/phpstan/phpstan-src/pull/3899) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [RegexArrayShapeMatcher - more precise subject types](https://github.com/phpstan/phpstan-src/pull/3897) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [Fix `count()` regression](https://github.com/phpstan/phpstan-src/pull/3895) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [RegexGroupParser - cache regex parsing results](https://github.com/phpstan/phpstan-src/pull/3894) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
