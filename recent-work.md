@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.1.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.1) (today)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.5.17](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.17) (today)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.27.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.27.1) (2 days ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.8.0](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.8.0) (3 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.11.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.11.0) (4 days ago)
