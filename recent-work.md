@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 day ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (3 days ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 weeks ago)
 
 
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added regression test](https://github.com/sebastianbergmann/phpunit/pull/6179) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [error_log output not displayed in failed test cases](https://github.com/sebastianbergmann/phpunit/pull/6178) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Inline array_map(fn, $arr) and use foreach-loop instead](https://github.com/phpstan/phpstan-src/pull/3926) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Inline array_map(fn, $arr) and use foreach-loop instead](https://github.com/Roave/BetterReflection/pull/1502) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [non-empty-array&lt;mixed&gt; does not except array with hasOffsetValue](https://github.com/phpstan/phpstan-src/pull/3924) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3904) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix test expectations](https://github.com/phpstan/phpstan-nette/pull/171) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
 - [Fix test expectations](https://github.com/phpstan/phpstan-nette/pull/170) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
-- [RegexArrayShapeMatcher - enforce list-type when no named captures](https://github.com/phpstan/phpstan-src/pull/3899) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [RegexArrayShapeMatcher - more precise subject types](https://github.com/phpstan/phpstan-src/pull/3897) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
