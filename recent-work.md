@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 day ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (3 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 days ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
+- [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (4 days ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
@@ -40,14 +40,14 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Added regression test](https://github.com/sebastianbergmann/phpunit/pull/6179) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
-- [error_log output not displayed in failed test cases](https://github.com/sebastianbergmann/phpunit/pull/6178) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
-- [Inline array_map(fn, $arr) and use foreach-loop instead](https://github.com/phpstan/phpstan-src/pull/3926) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Inline array_map(fn, $arr) and use foreach-loop instead](https://github.com/Roave/BetterReflection/pull/1502) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
-- [non-empty-array&lt;mixed&gt; does not except array with hasOffsetValue](https://github.com/phpstan/phpstan-src/pull/3924) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [NoDynamicNameRule: Fix union type handling](https://github.com/symplify/phpstan-rules/pull/212) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 day ago)
-- [[TypeDeclaration] ReturnTypeFromStrictNewArrayRector support list](https://github.com/rectorphp/rector-src/pull/6820) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [MutatingScope: remove unnecessary callback functions](https://github.com/phpstan/phpstan-src/pull/3916) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Added regression test](https://github.com/sebastianbergmann/phpunit/pull/6179) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
+- [error_log output not displayed in failed test cases](https://github.com/sebastianbergmann/phpunit/pull/6178) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
+- [Inline array_map(fn, $arr) and use foreach-loop instead](https://github.com/phpstan/phpstan-src/pull/3926) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Inline array_map(fn, $arr) and use foreach-loop instead](https://github.com/Roave/BetterReflection/pull/1502) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
+- [non-empty-array&lt;mixed&gt; does not except array with hasOffsetValue](https://github.com/phpstan/phpstan-src/pull/3924) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [NoDynamicNameRule: Fix union type handling](https://github.com/symplify/phpstan-rules/pull/212) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 days ago)
+- [[TypeDeclaration] ReturnTypeFromStrictNewArrayRector support list](https://github.com/rectorphp/rector-src/pull/6820) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
+- [MutatingScope: remove unnecessary callback functions](https://github.com/phpstan/phpstan-src/pull/3916) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [[CodeQuality] fix assertInstanceOf casing](https://github.com/rectorphp/rector-phpunit/pull/471) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 week ago)
 - [Set offset on list keeps list if there&#39;s HasOffsetType for all preceeding offsets](https://github.com/phpstan/phpstan-src/pull/3909) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix lost list-type if substituted a element via loop](https://github.com/phpstan/phpstan-src/pull/3908) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.17](https://github.com/shopware/shopware/releases/tag/v6.5.8.17) (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.1.2](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.2) (today)
-- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.27.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.27.1) (2 days ago)
-- [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.8.0](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.8.0) (3 days ago)
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.11.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.11.0) (4 days ago)
-- [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [3.1.1](https://github.com/FriendsOfREDAXO/adminer/releases/tag/3.1.1) (5 days ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.1.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.1.2) (5 days ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.17](https://github.com/shopware/shopware/releases/tag/v6.5.8.17) (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.1.2](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.2) (1 day ago)
+- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.27.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.27.1) (3 days ago)
+- [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.8.0](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.8.0) (4 days ago)
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.11.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.11.0) (5 days ago)
+- [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [3.1.1](https://github.com/FriendsOfREDAXO/adminer/releases/tag/3.1.1) (6 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.1.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.1.2) (6 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.75.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.75.0) (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.5](https://github.com/symfony/symfony/releases/tag/v7.2.5) (1 week ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.6](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.6) (1 week ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.6](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.6) (2 weeks ago)
