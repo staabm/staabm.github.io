@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Don&#39;t prune cache for unlimited TTL invocations](https://github.com/overtrue/phplint/pull/219) on [overtrue/phplint](https://github.com/overtrue/phplint) (today)
 - [Added regression test](https://github.com/sebastianbergmann/phpunit/pull/6179) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [error_log output not displayed in failed test cases](https://github.com/sebastianbergmann/phpunit/pull/6178) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Inline array_map(fn, $arr) and use foreach-loop instead](https://github.com/phpstan/phpstan-src/pull/3926) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Narrow offsets for lists with HasOffsetType/HasOffsetValueType](https://github.com/phpstan/phpstan-src/pull/3905) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3904) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix test expectations](https://github.com/phpstan/phpstan-nette/pull/171) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
-- [Fix test expectations](https://github.com/phpstan/phpstan-nette/pull/170) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
