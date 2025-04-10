@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Declare CallLike $args as list](https://github.com/nikic/PHP-Parser/pull/1080) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
 - [Don&#39;t prune cache for unlimited TTL invocations](https://github.com/overtrue/phplint/pull/219) on [overtrue/phplint](https://github.com/overtrue/phplint) (1 day ago)
 - [Added regression test](https://github.com/sebastianbergmann/phpunit/pull/6179) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [error_log output not displayed in failed test cases](https://github.com/sebastianbergmann/phpunit/pull/6178) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
@@ -54,7 +55,6 @@
 - [Fix lost list-type if substituted a element via loop](https://github.com/phpstan/phpstan-src/pull/3908) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Narrow offsets for lists with HasOffsetType/HasOffsetValueType](https://github.com/phpstan/phpstan-src/pull/3905) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/3904) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix test expectations](https://github.com/phpstan/phpstan-nette/pull/171) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
