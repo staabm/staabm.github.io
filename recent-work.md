@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [php/php-src](https://github.com/php/php-src) - [php-8.3.20](https://github.com/php/php-src/releases/tag/php-8.3.20) (today)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - [2.1.6](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/releases/tag/2.1.6) (today)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.17](https://github.com/shopware/shopware/releases/tag/v6.5.8.17) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.1.2](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.2) (2 days ago)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [3.1.1](https://github.com/FriendsOfREDAXO/adminer/releases/tag/3.1.1) (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.1.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.1.2) (1 week ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.75.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.75.0) (1 week ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v7.2.5](https://github.com/symfony/symfony/releases/tag/v7.2.5) (1 week ago)
