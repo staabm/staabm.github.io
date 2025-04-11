@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remember narrowed types from the constructor when analysing other methods](https://github.com/phpstan/phpstan-src/pull/3930) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Declare CallLike $args as list](https://github.com/nikic/PHP-Parser/pull/1080) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 day ago)
 - [Don&#39;t prune cache for unlimited TTL invocations](https://github.com/overtrue/phplint/pull/219) on [overtrue/phplint](https://github.com/overtrue/phplint) (2 days ago)
 - [Added regression test](https://github.com/sebastianbergmann/phpunit/pull/6179) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
@@ -54,7 +55,6 @@
 - [Set offset on list keeps list if there&#39;s HasOffsetType for all preceeding offsets](https://github.com/phpstan/phpstan-src/pull/3909) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Fix lost list-type if substituted a element via loop](https://github.com/phpstan/phpstan-src/pull/3908) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Narrow offsets for lists with HasOffsetType/HasOffsetValueType](https://github.com/phpstan/phpstan-src/pull/3905) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/3904) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
