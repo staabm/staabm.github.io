@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix MixedType-&gt;equals(ErrorType)](https://github.com/phpstan/phpstan-src/pull/3934) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Faster processing of array comparisons with constant offsets](https://github.com/phpstan/phpstan-src/pull/3933) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [RuleTestCase: Order errors](https://github.com/phpstan/phpstan-src/pull/3931) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Remember narrowed types from the constructor when analysing other methods](https://github.com/phpstan/phpstan-src/pull/3930) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [[TypeDeclaration] ReturnTypeFromStrictNewArrayRector support list](https://github.com/rectorphp/rector-src/pull/6820) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [MutatingScope: remove unnecessary callback functions](https://github.com/phpstan/phpstan-src/pull/3916) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [[CodeQuality] fix assertInstanceOf casing](https://github.com/rectorphp/rector-phpunit/pull/471) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 week ago)
-- [Set offset on list keeps list if there&#39;s HasOffsetType for all preceeding offsets](https://github.com/phpstan/phpstan-src/pull/3909) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
