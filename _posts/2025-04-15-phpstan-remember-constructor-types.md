@@ -95,7 +95,7 @@ class User
 {
    public string $name {
       get {
-          // previously we only knew the type was `int`
+         // previously we only knew the type was `int`
          assertType('1|2', $this->type);
          return $this->name ;
       }
@@ -137,7 +137,7 @@ class User
 
     public function doFoo(): void
     {
-      // Property User::$string in isset() is not nullable nor uninitialized.
+        // Property User::$string in isset() is not nullable nor uninitialized.
         if (isset($this->string)) {
             echo $this->string;
         }
@@ -145,7 +145,7 @@ class User
 
     public function doBar(): void
     {
-      // Property User::$string on left side of ?? is not nullable nor uninitialized.
+        // Property User::$string on left side of ?? is not nullable nor uninitialized.
         echo $this->string ?? 'default';
     }
 }
