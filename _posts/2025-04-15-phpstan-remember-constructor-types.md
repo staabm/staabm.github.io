@@ -94,7 +94,7 @@ class User
 {
 	public string $name {
 		get {
-			assertType('1|2', $this->type);
+			assertType('1|2', $this->type); // previously we only knew the type was `int`
 			return $this->name ;
 		}
 	}
