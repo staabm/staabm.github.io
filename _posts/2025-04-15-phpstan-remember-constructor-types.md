@@ -22,7 +22,7 @@ The implementation itself can be inspected in [pull request #3930](https://githu
 
 Let's have a look into a few example use-cases for this new feature:
 
-#### Remember `class_exists()`, `function_exists()`
+### Remember `class_exists()`, `function_exists()`
 
 Checking class- or function existence in the constructor in combination with an aborting expression which prevents object creation,
 will prevent errors like `Function some_unknown_function not found` in instance methods. The same is true for `class_exists`.
@@ -49,7 +49,7 @@ class User
 }
 ```
 
-#### Remember global constants
+### Remember global constants
 
 Similar to the example above its possible to check for the existence of a global constant in the constructor.
 What also comes in handy is narrowing the global constant type will also be preserved for the whole class.
@@ -81,11 +81,11 @@ class HelloWorld
 }
 ```
 
-#### Remember class property types
+### Remember class property types
 
 With all the required machinery in place we went one step further and also remember type information about class properties.
 
-##### `readonly` property types
+#### `readonly` property types
 
 When properties are declared `readonly` PHPStan is now able to remember all possible types assigned in the constructor.
 You no longer need to declare a narrow phpdoc type in this case to make PHPStan aware of the concrete values.
@@ -114,7 +114,7 @@ class User
 }
 ```
 
-##### typed properties and the uninitialized state
+#### typed properties and the uninitialized state
 
 Until now PHPStan didn't know which properties have been initialized in the constructor.
 Thanks to the recent additions the analysis of instance methods is now aware which properties can no longer be in the uninitialized state, because they have been initialized already.
