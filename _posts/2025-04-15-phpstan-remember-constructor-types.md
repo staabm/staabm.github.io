@@ -50,7 +50,7 @@ class User
 }
 ```
 
-#### Remember Constants
+#### Remember global constants
 
 Similar to the example above its possible to check for the existence of a global constant in the constructor.
 What also comes in handy is narrowing the global constant type will also be preserved for the whole class.
