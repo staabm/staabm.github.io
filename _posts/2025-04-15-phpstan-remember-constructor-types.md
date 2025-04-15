@@ -19,7 +19,7 @@ with the goal to improve results when later on analyzing instance methods or pro
 
 #### Remember `class_exists()`, `function_exists()`
 
-Checking class or function existence in the constructor in combination with an aborting expression which prevents object creation,
+Checking class- or function existence in the constructor in combination with an aborting expression which prevents object creation,
 will prevent errors like `Function some_unknown_function not found.` in instance methods. The same is true for `class_exists`.
 
 This means you no longer need to wrap a call to a conditionally defined function in a `function_exists` block everytime you use it.
