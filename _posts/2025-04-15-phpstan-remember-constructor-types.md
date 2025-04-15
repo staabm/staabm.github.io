@@ -103,9 +103,7 @@ class User
 
 	private readonly int $type;
 
-	public function __construct(
-		string $name
-	) {
+	public function __construct(string $name) {
 		$this->name = $name;
 		if (rand(0,1)) {
 			$this->type = 1;
