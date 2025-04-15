@@ -16,6 +16,10 @@ Over the last few days I am working on a new PHPStan capability,
 which allows PHPStan to use type information from analyzing a class-constructor
 with the goal to improve results when later on analyzing instance methods or property hook bodies.
 
+This feature will be available starting with PHPStan 2.1.12.
+In case you are curious you can play with it in the [PHPStan Playground](https://phpstan.org/r/c3d8e4f2-b65d-45cc-bab0-801072c4bd0b).
+The implementation itself can be inspected in [pull request #3930](https://github.com/phpstan/phpstan-src/pull/3930).
+
 Let's have a look into a few example use-cases for this new feature:
 
 #### Remember `class_exists()`, `function_exists()`
