@@ -70,7 +70,7 @@ class HelloWorld
 
 	static public function staticFoo2(): void
 	{
-		echo REMEMBERED_FOO; // error, as can be invoked without instantiation
+		echo REMEMBERED_FOO; // error, static method types are not narrowed via constructor
 	}
 
 	public function returnFoo2(): int
