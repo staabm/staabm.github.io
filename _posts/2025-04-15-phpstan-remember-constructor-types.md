@@ -35,16 +35,16 @@ Static methods will still emit a `Function some_unknown_function not found` erro
 ```php
 class User
 {
-	public function __construct() {
-		if (!function_exists('some_unknown_function')) {
-			throw new \LogicException();
-		}
-	}
+   public function __construct() {
+      if (!function_exists('some_unknown_function')) {
+         throw new \LogicException();
+      }
+   }
 
-	public function doFoo(): void
-	{
-		some_unknown_function();
-	}
+   public function doFoo(): void
+   {
+      some_unknown_function();
+   }
 
 }
 ```
@@ -57,27 +57,27 @@ What also comes in handy is narrowing the global constant type will also be pres
 ```php
 class HelloWorld
 {
-	public function __construct()
-	{
-		if (!defined('REMEMBERED_FOO')) {
-			throw new LogicException();
-		}
-		if (!is_string(REMEMBERED_FOO)) {
-			throw new LogicException();
-		}
-	}
+   public function __construct()
+   {
+      if (!defined('REMEMBERED_FOO')) {
+         throw new LogicException();
+      }
+      if (!is_string(REMEMBERED_FOO)) {
+         throw new LogicException();
+      }
+   }
 
-	static public function staticFoo2(): void
-	{
-	    // error, static method types are not narrowed via constructor
-		echo REMEMBERED_FOO;
-	}
+   static public function staticFoo2(): void
+   {
+      // error, static method types are not narrowed via constructor
+      echo REMEMBERED_FOO;
+   }
 
-	public function returnFoo2(): int
-	{
-	    // error, as the constant was narrowed to string
-		return REMEMBERED_FOO;
-	}
+   public function returnFoo2(): int
+   {
+      // error, as the constant was narrowed to string
+      return REMEMBERED_FOO;
+   }
 }
 ```
 
@@ -93,24 +93,24 @@ You no longer need to declare a narrow phpdoc type in this case to make PHPStan 
 ```php
 class User
 {
-	public string $name {
-		get {
-		    // previously we only knew the type was `int`
-			assertType('1|2', $this->type);
-			return $this->name ;
-		}
-	}
+   public string $name {
+      get {
+          // previously we only knew the type was `int`
+         assertType('1|2', $this->type);
+         return $this->name ;
+      }
+   }
 
-	private readonly int $type;
+   private readonly int $type;
 
-	public function __construct(string $name) {
-		$this->name = $name;
-		if (rand(0,1)) {
-			$this->type = 1;
-		} else {
-			$this->type = 2;
-		}
-	}
+   public function __construct(string $name) {
+      $this->name = $name;
+      if (rand(0,1)) {
+         $this->type = 1;
+      } else {
+         $this->type = 2;
+      }
+   }
 }
 ```
 
@@ -137,7 +137,7 @@ class User
 
     public function doFoo(): void
     {
-		// Property User::$string in isset() is not nullable nor uninitialized.
+      // Property User::$string in isset() is not nullable nor uninitialized.
         if (isset($this->string)) {
             echo $this->string;
         }
@@ -145,7 +145,7 @@ class User
 
     public function doBar(): void
     {
-		// Property User::$string on left side of ?? is not nullable nor uninitialized.
+      // Property User::$string on left side of ?? is not nullable nor uninitialized.
         echo $this->string ?? 'default';
     }
 }
