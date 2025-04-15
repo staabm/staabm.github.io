@@ -69,12 +69,14 @@ class HelloWorld
 
 	static public function staticFoo2(): void
 	{
-		echo REMEMBERED_FOO; // error, static method types are not narrowed via constructor
+	    // error, static method types are not narrowed via constructor
+		echo REMEMBERED_FOO;
 	}
 
 	public function returnFoo2(): int
 	{
-		return REMEMBERED_FOO; // error, as the constant was narrowed to string
+	    // error, as the constant was narrowed to string
+		return REMEMBERED_FOO;
 	}
 }
 ```
