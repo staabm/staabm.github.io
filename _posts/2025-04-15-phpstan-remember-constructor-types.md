@@ -45,7 +45,6 @@ class User
    {
       some_unknown_function();
    }
-
 }
 ```
 
@@ -124,30 +123,30 @@ With this knowledge we are able to tell whether `isset()`, `empty()` or `??` is 
 ```php
 class User
 {
-    private string $string;
+   private string $string;
 
-    public function __construct()
-    {
-        if (rand(0, 1)) {
-            $this->string = 'world';
-        } else {
-            $this->string = 'world 2';
-        }
-    }
+   public function __construct()
+   {
+      if (rand(0, 1)) {
+          $this->string = 'world';
+      } else {
+          $this->string = 'world 2';
+      }
+   }
 
-    public function doFoo(): void
-    {
-        // Property User::$string in isset() is not nullable nor uninitialized.
-        if (isset($this->string)) {
-            echo $this->string;
-        }
-    }
+   public function doFoo(): void
+   {
+      // Property User::$string in isset() is not nullable nor uninitialized.
+      if (isset($this->string)) {
+         echo $this->string;
+      }
+   }
 
-    public function doBar(): void
-    {
-        // Property User::$string on left side of ?? is not nullable nor uninitialized.
-        echo $this->string ?? 'default';
-    }
+   public function doBar(): void
+   {
+      // Property User::$string on left side of ?? is not nullable nor uninitialized.
+      echo $this->string ?? 'default';
+   }
 }
 ```
 
