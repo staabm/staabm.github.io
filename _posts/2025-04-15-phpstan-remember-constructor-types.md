@@ -25,12 +25,12 @@ Let's have a look into a few example use-cases for this new feature:
 #### Remember `class_exists()`, `function_exists()`
 
 Checking class- or function existence in the constructor in combination with an aborting expression which prevents object creation,
-will prevent errors like `Function some_unknown_function not found.` in instance methods. The same is true for `class_exists`.
+will prevent errors like `Function some_unknown_function not found` in instance methods. The same is true for `class_exists`.
 
 This means you no longer need to wrap a call to a conditionally defined function in a `function_exists` block everytime you use it.
 PHPStan will remember for the whole class that the function will exist, when analyzing instance methods or property hook bodies.
 
-Static methods will still emit a `Function some_unknown_function not found.` error, as these can still be called even if the constructor failed to create an object.
+Static methods will still emit a `Function some_unknown_function not found` error, as these can still be called even if the constructor failed to create an object.
 
 ```php
 class User
