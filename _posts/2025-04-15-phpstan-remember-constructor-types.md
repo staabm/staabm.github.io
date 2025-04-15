@@ -35,8 +35,7 @@ Static methods will still emit a `Function some_unknown_function not found` erro
 ```php
 class User
 {
-	public function __construct(
-	) {
+	public function __construct() {
 		if (!function_exists('some_unknown_function')) {
 			throw new \LogicException();
 		}
