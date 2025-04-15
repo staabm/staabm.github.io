@@ -94,9 +94,9 @@ class User
 {
    public string $name {
       get {
-         // previously we only knew the type was `int`.
+         // previously we only knew $this->type is `int`.
          // new: we know the type of $this->type is `1|2`
-         return $this->name;
+         return $this->name . $this->type;
       }
    }
 
