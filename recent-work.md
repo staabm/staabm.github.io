@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.24](https://github.com/phpstan/phpstan/releases/tag/1.12.24) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.12](https://github.com/phpstan/phpstan/releases/tag/2.1.12) (today)
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) - [v3.1.0](https://github.com/thecodingmachine/safe/releases/tag/v3.1.0) (1 day ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.20](https://github.com/php/php-src/releases/tag/php-8.3.20) (6 days ago)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - [2.1.6](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/releases/tag/2.1.6) (6 days ago)
