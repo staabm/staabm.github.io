@@ -157,3 +157,7 @@ Related PHPStan issues:
 - [#9075: Improve type inference using information from the Class constructor](https://github.com/phpstan/phpstan/issues/9075)
 - [#6063: Expression on left side of ?? is only nullable, but non-nullable properties do not cause an error](https://github.com/phpstan/phpstan/issues/6063)
 - [#12723: Typed property mistaken as nullable](https://github.com/phpstan/phpstan/issues/12723)
+
+-----
+
+Do you like PHPStan and use it every day? Consider [sponsoring my open source work](https://github.com/sponsors/staabm).
