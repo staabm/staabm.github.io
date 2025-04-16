@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [1.2.0](https://github.com/johnbillion/wp-compat/releases/tag/1.2.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.12](https://github.com/phpstan/phpstan/releases/tag/2.1.12) (today)
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) - [v3.1.0](https://github.com/thecodingmachine/safe/releases/tag/v3.1.0) (1 day ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.20](https://github.com/php/php-src/releases/tag/php-8.3.20) (6 days ago)
@@ -68,4 +69,3 @@
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.27.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.27.1) (1 week ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.8.0](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.8.0) (1 week ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.11.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.11.0) (1 week ago)
-- [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [3.1.1](https://github.com/FriendsOfREDAXO/adminer/releases/tag/3.1.1) (1 week ago)
