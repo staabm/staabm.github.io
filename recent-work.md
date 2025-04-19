@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.6.3](https://github.com/symplify/phpstan-rules/releases/tag/14.6.3) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.14](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.14) (2 days ago)
 - [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [1.2.0](https://github.com/johnbillion/wp-compat/releases/tag/1.2.0) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.12](https://github.com/phpstan/phpstan/releases/tag/2.1.12) (3 days ago)
@@ -68,4 +69,3 @@
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.17](https://github.com/shopware/shopware/releases/tag/v6.5.8.17) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.1.2](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.2) (1 week ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.27.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.27.1) (1 week ago)
-- [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.8.0](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.8.0) (2 weeks ago)
