@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [More precise `count($array)` after `array_*` functions](https://github.com/phpstan/phpstan-src/pull/3954) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [TableErrorFormatter: visually differentiate phpstan assertion errors from rule errors](https://github.com/phpstan/phpstan-src/pull/3951) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix forgetting static property access after impure call](https://github.com/phpstan/phpstan-src/pull/3950) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix imprecise types after assignment when strict-types=1](https://github.com/phpstan/phpstan-src/pull/3945) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Declare CallLike $args as list](https://github.com/nikic/PHP-Parser/pull/1080) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
 - [Don&#39;t prune cache for unlimited TTL invocations](https://github.com/overtrue/phplint/pull/219) on [overtrue/phplint](https://github.com/overtrue/phplint) (1 week ago)
 - [Added regression test](https://github.com/sebastianbergmann/phpunit/pull/6179) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [error_log output not displayed in failed test cases](https://github.com/sebastianbergmann/phpunit/pull/6178) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
