@@ -3,21 +3,21 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [staabm/dotfiles](https://github.com/staabm/dotfiles) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [staabm/dotfiles](https://github.com/staabm/dotfiles) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 weeks ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (2 weeks ago)
-- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 weeks ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (3 weeks ago)
+- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (3 weeks ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (4 weeks ago)
 
 
 #### 📜 My recent blog posts
 
-- [PHPStan remembered types from constructor](https://staabm.github.io/2025/04/15/phpstan-remember-constructor-types.html) (5 days ago)
+- [PHPStan remembered types from constructor](https://staabm.github.io/2025/04/15/phpstan-remember-constructor-types.html) (6 days ago)
 - [Thank You](https://staabm.github.io/2025/01/24/thank-you.html) (2 months ago)
 - [Contribution Summary 2024](https://staabm.github.io/2024/12/11/contribution-summary-2024.html) (4 months ago)
 - [My new PHPStan focus: multi-phpversion support](https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html) (4 months ago)
@@ -40,14 +40,14 @@
 
 #### 🔨 My recent Pull Requests
 
-- [More precise `count($array)` after `array_*` functions](https://github.com/phpstan/phpstan-src/pull/3954) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [TableErrorFormatter: visually differentiate phpstan assertion errors from rule errors](https://github.com/phpstan/phpstan-src/pull/3951) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Fix forgetting static property access after impure call](https://github.com/phpstan/phpstan-src/pull/3950) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Fix imprecise types after assignment when strict-types=1](https://github.com/phpstan/phpstan-src/pull/3945) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [`Scope-&gt;rememberConstructorScope` should not remember the function scope](https://github.com/phpstan/phpstan-src/pull/3944) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Don&#39;t remember non-nullable properties as nullable](https://github.com/phpstan/phpstan-src/pull/3943) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Create 2025-04-15-phpstan-remember-constructor-types.md](https://github.com/staabm/staabm.github.io/pull/131) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
-- [TypeCombinator returns `non-empty-array` for union of `isIterableAtLeastOnce()-&gt;yes()`](https://github.com/phpstan/phpstan-src/pull/3937) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [More precise `count($array)` after `array_*` functions](https://github.com/phpstan/phpstan-src/pull/3954) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [TableErrorFormatter: visually differentiate phpstan assertion errors from rule errors](https://github.com/phpstan/phpstan-src/pull/3951) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Fix forgetting static property access after impure call](https://github.com/phpstan/phpstan-src/pull/3950) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Fix imprecise types after assignment when strict-types=1](https://github.com/phpstan/phpstan-src/pull/3945) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [`Scope-&gt;rememberConstructorScope` should not remember the function scope](https://github.com/phpstan/phpstan-src/pull/3944) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Don&#39;t remember non-nullable properties as nullable](https://github.com/phpstan/phpstan-src/pull/3943) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Create 2025-04-15-phpstan-remember-constructor-types.md](https://github.com/staabm/staabm.github.io/pull/131) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
+- [TypeCombinator returns `non-empty-array` for union of `isIterableAtLeastOnce()-&gt;yes()`](https://github.com/phpstan/phpstan-src/pull/3937) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Fix MixedType-&gt;equals(ErrorType)](https://github.com/phpstan/phpstan-src/pull/3934) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Faster processing of array comparisons with constant offsets](https://github.com/phpstan/phpstan-src/pull/3933) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [RuleTestCase: Order errors](https://github.com/phpstan/phpstan-src/pull/3931) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.6.3](https://github.com/symplify/phpstan-rules/releases/tag/14.6.3) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.14](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.14) (3 days ago)
-- [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [1.2.0](https://github.com/johnbillion/wp-compat/releases/tag/1.2.0) (4 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.12](https://github.com/phpstan/phpstan/releases/tag/2.1.12) (4 days ago)
-- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) - [v3.1.0](https://github.com/thecodingmachine/safe/releases/tag/v3.1.0) (5 days ago)
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.6.3](https://github.com/symplify/phpstan-rules/releases/tag/14.6.3) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.14](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.14) (4 days ago)
+- [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [1.2.0](https://github.com/johnbillion/wp-compat/releases/tag/1.2.0) (5 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.12](https://github.com/phpstan/phpstan/releases/tag/2.1.12) (5 days ago)
+- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) - [v3.1.0](https://github.com/thecodingmachine/safe/releases/tag/v3.1.0) (6 days ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.20](https://github.com/php/php-src/releases/tag/php-8.3.20) (1 week ago)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - [2.1.6](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/releases/tag/2.1.6) (1 week ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.17](https://github.com/shopware/shopware/releases/tag/v6.5.8.17) (1 week ago)
