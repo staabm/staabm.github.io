@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.1.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.3) (today)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.6.3](https://github.com/symplify/phpstan-rules/releases/tag/14.6.3) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.14](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.14) (5 days ago)
 - [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [1.2.0](https://github.com/johnbillion/wp-compat/releases/tag/1.2.0) (6 days ago)
@@ -67,5 +68,4 @@
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.20](https://github.com/php/php-src/releases/tag/php-8.3.20) (1 week ago)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - [2.1.6](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/releases/tag/2.1.6) (1 week ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.17](https://github.com/shopware/shopware/releases/tag/v6.5.8.17) (2 weeks ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.1.2](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.2) (2 weeks ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.27.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.27.1) (2 weeks ago)
