@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Cover `sprintf` in tests](https://github.com/staabm/phpstan-psr3/pull/13) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (today)
+- [Don&#39;t error on safe types](https://github.com/staabm/phpstan-psr3/pull/12) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (today)
 - [CI: fix linter job](https://github.com/staabm/phpstan-psr3/pull/7) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (today)
 - [Cover `Illuminate\Log\LogManager` in tests](https://github.com/staabm/phpstan-psr3/pull/6) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (today)
 - [Improve error message](https://github.com/staabm/phpstan-psr3/pull/5) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (today)
@@ -53,13 +55,11 @@
 - [`Scope-&gt;rememberConstructorScope` should not remember the function scope](https://github.com/phpstan/phpstan-src/pull/3944) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Don&#39;t remember non-nullable properties as nullable](https://github.com/phpstan/phpstan-src/pull/3943) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Create 2025-04-15-phpstan-remember-constructor-types.md](https://github.com/staabm/staabm.github.io/pull/131) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
-- [TypeCombinator returns `non-empty-array` for union of `isIterableAtLeastOnce()-&gt;yes()`](https://github.com/phpstan/phpstan-src/pull/3937) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix MixedType-&gt;equals(ErrorType)](https://github.com/phpstan/phpstan-src/pull/3934) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) - [1.0.2](https://github.com/staabm/phpstan-psr3/releases/tag/1.0.2) (today)
+- [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) - [1.0.3](https://github.com/staabm/phpstan-psr3/releases/tag/1.0.3) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.15](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.15) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.1.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.3) (today)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.6.3](https://github.com/symplify/phpstan-rules/releases/tag/14.6.3) (3 days ago)
