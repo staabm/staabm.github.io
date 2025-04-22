@@ -4,9 +4,9 @@
 #### 💻 Check out what I'm currently working on
 
 - [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [staabm/dotfiles](https://github.com/staabm/dotfiles) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 weeks ago)
@@ -40,6 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Cover `Illuminate\Log\LogManager` in tests](https://github.com/staabm/phpstan-psr3/pull/6) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (today)
+- [Improve error message](https://github.com/staabm/phpstan-psr3/pull/5) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (today)
+- [Detect risky rex_logger calls](https://github.com/FriendsOfREDAXO/rexstan/pull/873) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [Support PHP 7.4](https://github.com/staabm/phpstan-psr3/pull/4) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (today)
 - [Support REDAXO rex_logger](https://github.com/staabm/phpstan-psr3/pull/3) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (today)
 - [More precise `count($array)` after `array_*` functions](https://github.com/phpstan/phpstan-src/pull/3954) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [TableErrorFormatter: visually differentiate phpstan assertion errors from rule errors](https://github.com/phpstan/phpstan-src/pull/3951) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -51,18 +55,14 @@
 - [TypeCombinator returns `non-empty-array` for union of `isIterableAtLeastOnce()-&gt;yes()`](https://github.com/phpstan/phpstan-src/pull/3937) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix MixedType-&gt;equals(ErrorType)](https://github.com/phpstan/phpstan-src/pull/3934) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Faster processing of array comparisons with constant offsets](https://github.com/phpstan/phpstan-src/pull/3933) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [RuleTestCase: Order errors](https://github.com/phpstan/phpstan-src/pull/3931) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Remember narrowed types from the constructor when analysing other methods](https://github.com/phpstan/phpstan-src/pull/3930) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Declare CallLike $args as list](https://github.com/nikic/PHP-Parser/pull/1080) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
-- [Don&#39;t prune cache for unlimited TTL invocations](https://github.com/overtrue/phplint/pull/219) on [overtrue/phplint](https://github.com/overtrue/phplint) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) - [1.0](https://github.com/staabm/phpstan-psr3/releases/tag/1.0) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.15](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.15) (today)
+- [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) - [1.0.1](https://github.com/staabm/phpstan-psr3/releases/tag/1.0.1) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.1.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.3) (today)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.6.3](https://github.com/symplify/phpstan-rules/releases/tag/14.6.3) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.14](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.14) (5 days ago)
 - [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [1.2.0](https://github.com/johnbillion/wp-compat/releases/tag/1.2.0) (6 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.12](https://github.com/phpstan/phpstan/releases/tag/2.1.12) (6 days ago)
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) - [v3.1.0](https://github.com/thecodingmachine/safe/releases/tag/v3.1.0) (1 week ago)
