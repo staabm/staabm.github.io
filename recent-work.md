@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [staabm/dotfiles](https://github.com/staabm/dotfiles) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
@@ -12,7 +13,6 @@
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (2 weeks ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (3 weeks ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (4 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support REDAXO rex_logger](https://github.com/staabm/phpstan-psr3/pull/3) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (today)
 - [More precise `count($array)` after `array_*` functions](https://github.com/phpstan/phpstan-src/pull/3954) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [TableErrorFormatter: visually differentiate phpstan assertion errors from rule errors](https://github.com/phpstan/phpstan-src/pull/3951) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Fix forgetting static property access after impure call](https://github.com/phpstan/phpstan-src/pull/3950) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -54,11 +55,11 @@
 - [Remember narrowed types from the constructor when analysing other methods](https://github.com/phpstan/phpstan-src/pull/3930) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Declare CallLike $args as list](https://github.com/nikic/PHP-Parser/pull/1080) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
 - [Don&#39;t prune cache for unlimited TTL invocations](https://github.com/overtrue/phplint/pull/219) on [overtrue/phplint](https://github.com/overtrue/phplint) (1 week ago)
-- [Added regression test](https://github.com/sebastianbergmann/phpunit/pull/6179) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) - [1.0](https://github.com/staabm/phpstan-psr3/releases/tag/1.0) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.1.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.3) (today)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.6.3](https://github.com/symplify/phpstan-rules/releases/tag/14.6.3) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.14](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.14) (5 days ago)
@@ -68,4 +69,3 @@
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.20](https://github.com/php/php-src/releases/tag/php-8.3.20) (1 week ago)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - [2.1.6](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/releases/tag/2.1.6) (1 week ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.17](https://github.com/shopware/shopware/releases/tag/v6.5.8.17) (2 weeks ago)
-- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.27.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.27.1) (2 weeks ago)
