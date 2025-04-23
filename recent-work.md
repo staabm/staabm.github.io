@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [3.2.0](https://github.com/FriendsOfREDAXO/adminer/releases/tag/3.2.0) (today)
 - [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) - [1.0.3](https://github.com/staabm/phpstan-psr3/releases/tag/1.0.3) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.15](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.15) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.1.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.3) (1 day ago)
@@ -68,4 +69,3 @@
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) - [v3.1.0](https://github.com/thecodingmachine/safe/releases/tag/v3.1.0) (1 week ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.20](https://github.com/php/php-src/releases/tag/php-8.3.20) (1 week ago)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - [2.1.6](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/releases/tag/2.1.6) (1 week ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.17](https://github.com/shopware/shopware/releases/tag/v6.5.8.17) (2 weeks ago)
