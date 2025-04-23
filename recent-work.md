@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Micro optimize LazyInternalScopeFactory](https://github.com/phpstan/phpstan-src/pull/3962) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Cover `sprintf` in tests](https://github.com/staabm/phpstan-psr3/pull/13) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (1 day ago)
 - [Don&#39;t error on safe types](https://github.com/staabm/phpstan-psr3/pull/12) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (1 day ago)
 - [CI: fix linter job](https://github.com/staabm/phpstan-psr3/pull/7) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix imprecise types after assignment when strict-types=1](https://github.com/phpstan/phpstan-src/pull/3945) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [`Scope-&gt;rememberConstructorScope` should not remember the function scope](https://github.com/phpstan/phpstan-src/pull/3944) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Don&#39;t remember non-nullable properties as nullable](https://github.com/phpstan/phpstan-src/pull/3943) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Create 2025-04-15-phpstan-remember-constructor-types.md](https://github.com/staabm/staabm.github.io/pull/131) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
