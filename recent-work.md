@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix PHPStan level 7 errors](https://github.com/sebastianbergmann/phpunit/pull/6188) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Micro optimize LazyInternalScopeFactory](https://github.com/phpstan/phpstan-src/pull/3962) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Cover `sprintf` in tests](https://github.com/staabm/phpstan-psr3/pull/13) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (3 days ago)
 - [Don&#39;t error on safe types](https://github.com/staabm/phpstan-psr3/pull/12) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (3 days ago)
@@ -54,7 +55,6 @@
 - [Fix forgetting static property access after impure call](https://github.com/phpstan/phpstan-src/pull/3950) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Fix imprecise types after assignment when strict-types=1](https://github.com/phpstan/phpstan-src/pull/3945) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [`Scope-&gt;rememberConstructorScope` should not remember the function scope](https://github.com/phpstan/phpstan-src/pull/3944) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Don&#39;t remember non-nullable properties as nullable](https://github.com/phpstan/phpstan-src/pull/3943) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
