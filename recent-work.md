@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [More precise string functions return type with replacement array](https://github.com/phpstan/phpstan-src/pull/3963) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix PHPStan level 7 errors](https://github.com/sebastianbergmann/phpunit/pull/6188) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Micro optimize LazyInternalScopeFactory](https://github.com/phpstan/phpstan-src/pull/3962) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Cover `sprintf` in tests](https://github.com/staabm/phpstan-psr3/pull/13) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (3 days ago)
@@ -54,7 +55,6 @@
 - [TableErrorFormatter: visually differentiate phpstan assertion errors from rule errors](https://github.com/phpstan/phpstan-src/pull/3951) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Fix forgetting static property access after impure call](https://github.com/phpstan/phpstan-src/pull/3950) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Fix imprecise types after assignment when strict-types=1](https://github.com/phpstan/phpstan-src/pull/3945) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [`Scope-&gt;rememberConstructorScope` should not remember the function scope](https://github.com/phpstan/phpstan-src/pull/3944) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
