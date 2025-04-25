@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [staabm/dotfiles](https://github.com/staabm/dotfiles) (5 days ago)
+- [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [staabm/dotfiles](https://github.com/staabm/dotfiles) (6 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 weeks ago)
@@ -21,7 +21,7 @@
 - [Thank You](https://staabm.github.io/2025/01/24/thank-you.html) (3 months ago)
 - [Contribution Summary 2024](https://staabm.github.io/2024/12/11/contribution-summary-2024.html) (4 months ago)
 - [My new PHPStan focus: multi-phpversion support](https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html) (4 months ago)
-- [A mixed type PHPStan journey](https://staabm.github.io/2024/11/26/phpstan-mixed-types.html) (4 months ago)
+- [A mixed type PHPStan journey](https://staabm.github.io/2024/11/26/phpstan-mixed-types.html) (5 months ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
@@ -40,30 +40,30 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Micro optimize LazyInternalScopeFactory](https://github.com/phpstan/phpstan-src/pull/3962) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Cover `sprintf` in tests](https://github.com/staabm/phpstan-psr3/pull/13) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (2 days ago)
-- [Don&#39;t error on safe types](https://github.com/staabm/phpstan-psr3/pull/12) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (2 days ago)
-- [CI: fix linter job](https://github.com/staabm/phpstan-psr3/pull/7) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (2 days ago)
-- [Cover `Illuminate\Log\LogManager` in tests](https://github.com/staabm/phpstan-psr3/pull/6) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (2 days ago)
-- [Improve error message](https://github.com/staabm/phpstan-psr3/pull/5) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (2 days ago)
-- [Detect risky rex_logger calls](https://github.com/FriendsOfREDAXO/rexstan/pull/873) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [Support PHP 7.4](https://github.com/staabm/phpstan-psr3/pull/4) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (2 days ago)
-- [Support REDAXO rex_logger](https://github.com/staabm/phpstan-psr3/pull/3) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (2 days ago)
-- [More precise `count($array)` after `array_*` functions](https://github.com/phpstan/phpstan-src/pull/3954) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [TableErrorFormatter: visually differentiate phpstan assertion errors from rule errors](https://github.com/phpstan/phpstan-src/pull/3951) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Fix forgetting static property access after impure call](https://github.com/phpstan/phpstan-src/pull/3950) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Fix imprecise types after assignment when strict-types=1](https://github.com/phpstan/phpstan-src/pull/3945) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [`Scope-&gt;rememberConstructorScope` should not remember the function scope](https://github.com/phpstan/phpstan-src/pull/3944) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Micro optimize LazyInternalScopeFactory](https://github.com/phpstan/phpstan-src/pull/3962) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Cover `sprintf` in tests](https://github.com/staabm/phpstan-psr3/pull/13) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (3 days ago)
+- [Don&#39;t error on safe types](https://github.com/staabm/phpstan-psr3/pull/12) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (3 days ago)
+- [CI: fix linter job](https://github.com/staabm/phpstan-psr3/pull/7) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (3 days ago)
+- [Cover `Illuminate\Log\LogManager` in tests](https://github.com/staabm/phpstan-psr3/pull/6) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (3 days ago)
+- [Improve error message](https://github.com/staabm/phpstan-psr3/pull/5) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (3 days ago)
+- [Detect risky rex_logger calls](https://github.com/FriendsOfREDAXO/rexstan/pull/873) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
+- [Support PHP 7.4](https://github.com/staabm/phpstan-psr3/pull/4) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (3 days ago)
+- [Support REDAXO rex_logger](https://github.com/staabm/phpstan-psr3/pull/3) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (3 days ago)
+- [More precise `count($array)` after `array_*` functions](https://github.com/phpstan/phpstan-src/pull/3954) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [TableErrorFormatter: visually differentiate phpstan assertion errors from rule errors](https://github.com/phpstan/phpstan-src/pull/3951) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Fix forgetting static property access after impure call](https://github.com/phpstan/phpstan-src/pull/3950) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Fix imprecise types after assignment when strict-types=1](https://github.com/phpstan/phpstan-src/pull/3945) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [`Scope-&gt;rememberConstructorScope` should not remember the function scope](https://github.com/phpstan/phpstan-src/pull/3944) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Don&#39;t remember non-nullable properties as nullable](https://github.com/phpstan/phpstan-src/pull/3943) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [3.2.0](https://github.com/FriendsOfREDAXO/adminer/releases/tag/3.2.0) (1 day ago)
-- [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) - [1.0.3](https://github.com/staabm/phpstan-psr3/releases/tag/1.0.3) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.15](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.15) (2 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.1.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.3) (2 days ago)
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.6.3](https://github.com/symplify/phpstan-rules/releases/tag/14.6.3) (5 days ago)
+- [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [3.2.0](https://github.com/FriendsOfREDAXO/adminer/releases/tag/3.2.0) (2 days ago)
+- [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) - [1.0.3](https://github.com/staabm/phpstan-psr3/releases/tag/1.0.3) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.15](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.15) (3 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.1.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.3) (3 days ago)
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.6.3](https://github.com/symplify/phpstan-rules/releases/tag/14.6.3) (6 days ago)
 - [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [1.2.0](https://github.com/johnbillion/wp-compat/releases/tag/1.2.0) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.12](https://github.com/phpstan/phpstan/releases/tag/2.1.12) (1 week ago)
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) - [v3.1.0](https://github.com/thecodingmachine/safe/releases/tag/v3.1.0) (1 week ago)
