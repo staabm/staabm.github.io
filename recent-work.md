@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use more efficient AttributeParentConnectingVisitor](https://github.com/sebastianbergmann/php-code-coverage/pull/1074) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
 - [Keep list on unset() with nested dim-fetch](https://github.com/phpstan/phpstan-src/pull/3964) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [More precise string functions return type with replacement array](https://github.com/phpstan/phpstan-src/pull/3963) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix PHPStan level 7 errors](https://github.com/sebastianbergmann/phpunit/pull/6188) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
@@ -54,7 +55,6 @@
 - [Support REDAXO rex_logger](https://github.com/staabm/phpstan-psr3/pull/3) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (4 days ago)
 - [More precise `count($array)` after `array_*` functions](https://github.com/phpstan/phpstan-src/pull/3954) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [TableErrorFormatter: visually differentiate phpstan assertion errors from rule errors](https://github.com/phpstan/phpstan-src/pull/3951) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix forgetting static property access after impure call](https://github.com/phpstan/phpstan-src/pull/3950) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
