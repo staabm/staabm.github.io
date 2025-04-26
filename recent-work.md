@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
@@ -12,7 +13,6 @@
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 weeks ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (3 weeks ago)
-- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
