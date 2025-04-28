@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove expired cloudflare certificate](https://github.com/phpstan/phpstan-src/pull/3967) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [More precise types after assignment when strict-types=0](https://github.com/phpstan/phpstan-src/pull/3965) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [fix typo](https://github.com/rectorphp/rector-src/pull/6870) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Use more efficient `AttributeParentConnectingVisitor`](https://github.com/sebastianbergmann/php-code-coverage/pull/1074) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 days ago)
 - [Keep list on unset() with nested dim-fetch](https://github.com/phpstan/phpstan-src/pull/3964) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -53,8 +55,6 @@
 - [Improve error message](https://github.com/staabm/phpstan-psr3/pull/5) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (6 days ago)
 - [Detect risky rex_logger calls](https://github.com/FriendsOfREDAXO/rexstan/pull/873) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [Support PHP 7.4](https://github.com/staabm/phpstan-psr3/pull/4) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (6 days ago)
-- [Support REDAXO rex_logger](https://github.com/staabm/phpstan-psr3/pull/3) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (6 days ago)
-- [More precise `count($array)` after `array_*` functions](https://github.com/phpstan/phpstan-src/pull/3954) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
