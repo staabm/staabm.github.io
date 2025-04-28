@@ -5,6 +5,7 @@
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (2 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
@@ -12,7 +13,6 @@
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (3 weeks ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 weeks ago)
-- [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Use more efficient AttributeParentConnectingVisitor](https://github.com/sebastianbergmann/php-code-coverage/pull/1074) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 days ago)
+- [Use more efficient `AttributeParentConnectingVisitor`](https://github.com/sebastianbergmann/php-code-coverage/pull/1074) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 days ago)
 - [Keep list on unset() with nested dim-fetch](https://github.com/phpstan/phpstan-src/pull/3964) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [More precise string functions return type with replacement array](https://github.com/phpstan/phpstan-src/pull/3963) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Fix PHPStan level 7 errors](https://github.com/sebastianbergmann/phpunit/pull/6188) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
