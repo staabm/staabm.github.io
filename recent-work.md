@@ -4,9 +4,9 @@
 #### 💻 Check out what I'm currently working on
 
 - [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (6 days ago)
