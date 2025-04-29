@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [non-falsy-string cannot be converted to 0](https://github.com/phpstan/phpstan-src/pull/3971) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [TypehintHelper: remove unneeded default param value](https://github.com/phpstan/phpstan-src/pull/3968) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Remove expired cloudflare certificate](https://github.com/phpstan/phpstan-src/pull/3967) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [More precise types after assignment when strict-types=0](https://github.com/phpstan/phpstan-src/pull/3965) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [CI: fix linter job](https://github.com/staabm/phpstan-psr3/pull/7) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (1 week ago)
 - [Cover `Illuminate\Log\LogManager` in tests](https://github.com/staabm/phpstan-psr3/pull/6) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (1 week ago)
 - [Improve error message](https://github.com/staabm/phpstan-psr3/pull/5) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (1 week ago)
-- [Detect risky rex_logger calls](https://github.com/FriendsOfREDAXO/rexstan/pull/873) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
