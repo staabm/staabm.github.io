@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix crash on dynamic numeric-string symbols](https://github.com/phpstan/phpstan-src/pull/3975) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [non-falsy-string cannot be false](https://github.com/phpstan/phpstan-src/pull/3972) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [non-falsy-string cannot be converted to 0](https://github.com/phpstan/phpstan-src/pull/3971) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [TypehintHelper: remove unneeded default param value](https://github.com/phpstan/phpstan-src/pull/3968) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Cover `sprintf` in tests](https://github.com/staabm/phpstan-psr3/pull/13) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (1 week ago)
 - [Don&#39;t error on safe types](https://github.com/staabm/phpstan-psr3/pull/12) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (1 week ago)
 - [CI: fix linter job](https://github.com/staabm/phpstan-psr3/pull/7) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (1 week ago)
-- [Cover `Illuminate\Log\LogManager` in tests](https://github.com/staabm/phpstan-psr3/pull/6) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
