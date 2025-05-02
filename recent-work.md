@@ -59,12 +59,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.14](https://github.com/phpstan/phpstan/releases/tag/2.1.14) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA1) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.1.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.4) (today)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0-rc3](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc3) (3 days ago)
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) - [v3.1.1](https://github.com/thecodingmachine/safe/releases/tag/v3.1.1) (4 days ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.2](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.2) (5 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.13](https://github.com/phpstan/phpstan/releases/tag/2.1.13) (5 days ago)
 - [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [3.2.0](https://github.com/FriendsOfREDAXO/adminer/releases/tag/3.2.0) (1 week ago)
 - [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) - [1.0.3](https://github.com/staabm/phpstan-psr3/releases/tag/1.0.3) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.15](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.15) (1 week ago)
