@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) - [v6.4.21](https://github.com/symfony/symfony/releases/tag/v6.4.21) (today)
+- [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA1) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.1.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.4) (today)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0-rc3](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc3) (3 days ago)
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) - [v3.1.1](https://github.com/thecodingmachine/safe/releases/tag/v3.1.1) (4 days ago)
