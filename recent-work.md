@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.2.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.2.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.16](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.16) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.14](https://github.com/phpstan/phpstan/releases/tag/2.1.14) (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA1) (1 day ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.2](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.2) (6 days ago)
 - [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [3.2.0](https://github.com/FriendsOfREDAXO/adminer/releases/tag/3.2.0) (1 week ago)
 - [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) - [1.0.3](https://github.com/staabm/phpstan-psr3/releases/tag/1.0.3) (1 week ago)
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.6.3](https://github.com/symplify/phpstan-rules/releases/tag/14.6.3) (2 weeks ago)
