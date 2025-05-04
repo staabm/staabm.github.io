@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.2.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.2.0) (1 day ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.2.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.2.1) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.16](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.16) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.14](https://github.com/phpstan/phpstan/releases/tag/2.1.14) (2 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA1) (2 days ago)
