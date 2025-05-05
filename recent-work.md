@@ -34,8 +34,8 @@
 - [DaveLiddament](https://github.com/DaveLiddament) (2 years ago)
 - [SecuMailer](https://github.com/SecuMailer) (2 years ago)
 - [omphteliba](https://github.com/omphteliba) (2 years ago)
-- [timetape-de](https://github.com/timetape-de) (2 years ago)
 - [Marschl](https://github.com/Marschl) (2 years ago)
+- [zonuexe](https://github.com/zonuexe) (2 years ago)
 
 
 #### 🔨 My recent Pull Requests
