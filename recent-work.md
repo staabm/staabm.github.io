@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.10.4](https://github.com/shopware/shopware/releases/tag/v6.6.10.4) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.3](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.3) (1 day ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.2.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.2.1) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.16](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.16) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.14](https://github.com/phpstan/phpstan/releases/tag/2.1.14) (4 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA1) (4 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.1.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.4) (4 days ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0-rc3](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc3) (1 week ago)
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) - [v3.1.1](https://github.com/thecodingmachine/safe/releases/tag/v3.1.1) (1 week ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.2](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.2) (1 week ago)
 - [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [3.2.0](https://github.com/FriendsOfREDAXO/adminer/releases/tag/3.2.0) (1 week ago)
