@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added missing `ReflectionProvider-&gt;hasClass()` checks](https://github.com/staabm/phpstan-dba/pull/758) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Remove references to test-only classes from rules.neon](https://github.com/staabm/phpstan-dba/pull/757) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [UseIdenticalOverEqualWithSameTypeRector should not trust phpdoc](https://github.com/rectorphp/rector-src/pull/6880) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Fix crash on dynamic numeric-string symbols](https://github.com/phpstan/phpstan-src/pull/3975) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
@@ -54,7 +55,6 @@
 - [More precise string functions return type with replacement array](https://github.com/phpstan/phpstan-src/pull/3963) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix PHPStan level 7 errors](https://github.com/sebastianbergmann/phpunit/pull/6188) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [Micro optimize LazyInternalScopeFactory](https://github.com/phpstan/phpstan-src/pull/3962) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Cover `sprintf` in tests](https://github.com/staabm/phpstan-psr3/pull/13) on [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
