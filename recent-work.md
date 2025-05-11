@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 weeks ago)
@@ -40,11 +40,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Remove wrong assertion phpdocs on assertEmpty(), assertNotEmpty()](https://github.com/sebastianbergmann/phpunit/pull/6203) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
-- [Remove wrong assertion phpdocs on assertEmpty(), assertNotEmpty()](https://github.com/sebastianbergmann/phpunit/pull/6202) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
-- [Added missing `ReflectionProvider-&gt;hasClass()` checks](https://github.com/staabm/phpstan-dba/pull/758) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [Remove references to test-only classes from rules.neon](https://github.com/staabm/phpstan-dba/pull/757) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [UseIdenticalOverEqualWithSameTypeRector should not trust phpdoc](https://github.com/rectorphp/rector-src/pull/6880) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
+- [Remove wrong assertion phpdocs on assertEmpty(), assertNotEmpty()](https://github.com/sebastianbergmann/phpunit/pull/6203) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
+- [Remove wrong assertion phpdocs on assertEmpty(), assertNotEmpty()](https://github.com/sebastianbergmann/phpunit/pull/6202) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
+- [Added missing `ReflectionProvider-&gt;hasClass()` checks](https://github.com/staabm/phpstan-dba/pull/758) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
+- [Remove references to test-only classes from rules.neon](https://github.com/staabm/phpstan-dba/pull/757) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
+- [UseIdenticalOverEqualWithSameTypeRector should not trust phpdoc](https://github.com/rectorphp/rector-src/pull/6880) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
 - [Fix crash on dynamic numeric-string symbols](https://github.com/phpstan/phpstan-src/pull/3975) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [non-falsy-string cannot be false](https://github.com/phpstan/phpstan-src/pull/3972) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [non-falsy-string cannot be converted to 0](https://github.com/phpstan/phpstan-src/pull/3971) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -59,12 +59,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA2) (today)
-- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.28.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.28.0) (1 day ago)
-- [php/php-src](https://github.com/php/php-src) - [php-8.3.21](https://github.com/php/php-src/releases/tag/php-8.3.21) (2 days ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.10.4](https://github.com/shopware/shopware/releases/tag/v6.6.10.4) (4 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.3](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.3) (5 days ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.2.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.2.1) (6 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA2) (1 day ago)
+- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.28.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.28.0) (2 days ago)
+- [php/php-src](https://github.com/php/php-src) - [php-8.3.21](https://github.com/php/php-src/releases/tag/php-8.3.21) (3 days ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.10.4](https://github.com/shopware/shopware/releases/tag/v6.6.10.4) (5 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.3](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.3) (6 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.2.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.2.1) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.16](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.16) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.14](https://github.com/phpstan/phpstan/releases/tag/2.1.14) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.1.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.4) (1 week ago)
