@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v0.12.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v0.12.0) (today)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.18](https://github.com/shopware/shopware/releases/tag/v6.5.8.18) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.1.5](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.5) (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA2) (2 days ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.2.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.2.1) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.16](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.16) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.14](https://github.com/phpstan/phpstan/releases/tag/2.1.14) (1 week ago)
-- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) - [v3.1.1](https://github.com/thecodingmachine/safe/releases/tag/v3.1.1) (2 weeks ago)
