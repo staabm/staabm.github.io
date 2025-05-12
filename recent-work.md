@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.18](https://github.com/shopware/shopware/releases/tag/v6.5.8.18) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.1.5](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.5) (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA2) (2 days ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.28.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.28.0) (3 days ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.21](https://github.com/php/php-src/releases/tag/php-8.3.21) (4 days ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.10.4](https://github.com/shopware/shopware/releases/tag/v6.6.10.4) (6 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.3](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.3) (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.2.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.2.1) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.16](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.16) (1 week ago)
