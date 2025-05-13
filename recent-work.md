@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [symplify/coding-standard](https://github.com/symplify/coding-standard) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (2 weeks ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 weeks ago)
 - [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (3 weeks ago)
 - [staabm/dotfiles](https://github.com/staabm/dotfiles) (3 weeks ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix IterableType-&gt;equals(TemplateIterableType)](https://github.com/phpstan/phpstan-src/pull/3991) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix inconsistent analysis on case-insensitive filesystems](https://github.com/phpstan/phpstan-src/pull/3988) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Remove wrong assertion phpdocs on assertEmpty(), assertNotEmpty()](https://github.com/sebastianbergmann/phpunit/pull/6203) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
 - [Remove wrong assertion phpdocs on assertEmpty(), assertNotEmpty()](https://github.com/sebastianbergmann/phpunit/pull/6202) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
@@ -54,11 +55,12 @@
 - [More precise types after assignment when strict-types=0](https://github.com/phpstan/phpstan-src/pull/3965) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [fix typo](https://github.com/rectorphp/rector-src/pull/6870) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 - [Use more efficient `AttributeParentConnectingVisitor`](https://github.com/sebastianbergmann/php-code-coverage/pull/1074) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 weeks ago)
-- [Keep list on unset() with nested dim-fetch](https://github.com/phpstan/phpstan-src/pull/3964) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [symplify/coding-standard](https://github.com/symplify/coding-standard) - [12.4.2](https://github.com/symplify/coding-standard/releases/tag/12.4.2) (today)
+- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) - [v3.2.0](https://github.com/thecodingmachine/safe/releases/tag/v3.2.0) (today)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v0.12.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v0.12.0) (1 day ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.18](https://github.com/shopware/shopware/releases/tag/v6.5.8.18) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.1.5](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.5) (2 days ago)
@@ -67,5 +69,3 @@
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.21](https://github.com/php/php-src/releases/tag/php-8.3.21) (5 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.3](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.3) (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.2.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.2.1) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.16](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.16) (1 week ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.14](https://github.com/phpstan/phpstan/releases/tag/2.1.14) (1 week ago)
