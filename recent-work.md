@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) - [3.3.0](https://github.com/thecodingmachine/safe/releases/tag/3.3.0) (today)
 - [symplify/coding-standard](https://github.com/symplify/coding-standard) - [12.4.2](https://github.com/symplify/coding-standard/releases/tag/12.4.2) (today)
-- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) - [v3.2.0](https://github.com/thecodingmachine/safe/releases/tag/v3.2.0) (today)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v0.12.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v0.12.0) (1 day ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.5.8.18](https://github.com/shopware/shopware/releases/tag/v6.5.8.18) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.1.5](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.5) (2 days ago)
