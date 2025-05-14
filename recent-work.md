@@ -59,6 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.3](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.3) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.15](https://github.com/phpstan/phpstan/releases/tag/2.1.15) (today)
 - [thecodingmachine/safe](https://github.com/thecodingmachine/safe) - [v3.3.0](https://github.com/thecodingmachine/safe/releases/tag/v3.3.0) (today)
 - [symplify/coding-standard](https://github.com/symplify/coding-standard) - [12.4.2](https://github.com/symplify/coding-standard/releases/tag/12.4.2) (1 day ago)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v0.12.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v0.12.0) (2 days ago)
@@ -67,5 +69,3 @@
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA2) (4 days ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.28.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.28.0) (5 days ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.21](https://github.com/php/php-src/releases/tag/php-8.3.21) (6 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.3](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.3) (1 week ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.2.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.2.1) (1 week ago)
