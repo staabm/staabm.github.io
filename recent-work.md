@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Faster ClassNameHelper](https://github.com/phpstan/phpstan-src/pull/3994) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [DuplicateKeysInLiteralArraysRule: Fixed union type handling](https://github.com/phpstan/phpstan-src/pull/3993) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix IterableType-&gt;equals(TemplateIterableType)](https://github.com/phpstan/phpstan-src/pull/3991) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fix inconsistent analysis on case-insensitive filesystems](https://github.com/phpstan/phpstan-src/pull/3988) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -54,7 +55,6 @@
 - [TypehintHelper: remove unneeded default param value](https://github.com/phpstan/phpstan-src/pull/3968) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Remove expired cloudflare certificate](https://github.com/phpstan/phpstan-src/pull/3967) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [More precise types after assignment when strict-types=0](https://github.com/phpstan/phpstan-src/pull/3965) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [fix typo](https://github.com/rectorphp/rector-src/pull/6870) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
