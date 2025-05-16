@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [symplify/coding-standard](https://github.com/symplify/coding-standard) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [symplify/coding-standard](https://github.com/symplify/coding-standard) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
 - [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (2 weeks ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 weeks ago)
 - [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (3 weeks ago)
@@ -40,10 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Faster ClassNameHelper](https://github.com/phpstan/phpstan-src/pull/3994) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [DuplicateKeysInLiteralArraysRule: Fixed union type handling](https://github.com/phpstan/phpstan-src/pull/3993) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Fix IterableType-&gt;equals(TemplateIterableType)](https://github.com/phpstan/phpstan-src/pull/3991) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Fix inconsistent analysis on case-insensitive filesystems](https://github.com/phpstan/phpstan-src/pull/3988) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Faster ClassNameHelper](https://github.com/phpstan/phpstan-src/pull/3994) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [DuplicateKeysInLiteralArraysRule: Fixed union type handling](https://github.com/phpstan/phpstan-src/pull/3993) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Fix IterableType-&gt;equals(TemplateIterableType)](https://github.com/phpstan/phpstan-src/pull/3991) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Fix inconsistent analysis on case-insensitive filesystems](https://github.com/phpstan/phpstan-src/pull/3988) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Remove wrong assertion phpdocs on assertEmpty(), assertNotEmpty()](https://github.com/sebastianbergmann/phpunit/pull/6203) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [Remove wrong assertion phpdocs on assertEmpty(), assertNotEmpty()](https://github.com/sebastianbergmann/phpunit/pull/6202) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [Added missing `ReflectionProvider-&gt;hasClass()` checks](https://github.com/staabm/phpstan-dba/pull/758) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.11.1](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.11.1) (today)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0-rc4](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc4) (today)
-- [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0-alpha.2](https://github.com/deployphp/deployer/releases/tag/v8.0.0-alpha.2) (1 day ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.3](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.3) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.15](https://github.com/phpstan/phpstan/releases/tag/2.1.15) (1 day ago)
-- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) - [v3.3.0](https://github.com/thecodingmachine/safe/releases/tag/v3.3.0) (1 day ago)
-- [symplify/coding-standard](https://github.com/symplify/coding-standard) - [12.4.2](https://github.com/symplify/coding-standard/releases/tag/12.4.2) (2 days ago)
-- [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v0.12.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v0.12.0) (3 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.1.5](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.5) (4 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA2) (5 days ago)
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.11.1](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.11.1) (1 day ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0-rc4](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc4) (1 day ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0-alpha.2](https://github.com/deployphp/deployer/releases/tag/v8.0.0-alpha.2) (2 days ago)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.3](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.3) (2 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.15](https://github.com/phpstan/phpstan/releases/tag/2.1.15) (2 days ago)
+- [thecodingmachine/safe](https://github.com/thecodingmachine/safe) - [v3.3.0](https://github.com/thecodingmachine/safe/releases/tag/v3.3.0) (2 days ago)
+- [symplify/coding-standard](https://github.com/symplify/coding-standard) - [12.4.2](https://github.com/symplify/coding-standard/releases/tag/12.4.2) (3 days ago)
+- [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v0.12.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v0.12.0) (4 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.1.5](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.5) (5 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA2) (6 days ago)
