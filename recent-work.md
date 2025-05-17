@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.28.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.28.1) (today)
+- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.28.2](https://github.com/pmmp/PocketMine-MP/releases/tag/5.28.2) (today)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.12.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.12.0) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4](https://github.com/staabm/phpstan-dba/releases/tag/0.4) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.16](https://github.com/phpstan/phpstan/releases/tag/2.1.16) (1 day ago)
