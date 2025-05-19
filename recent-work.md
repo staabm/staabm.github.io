@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [symplify/coding-standard](https://github.com/symplify/coding-standard) (6 days ago)
@@ -12,7 +13,6 @@
 - [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (2 weeks ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (3 weeks ago)
 - [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (3 weeks ago)
-- [staabm/dotfiles](https://github.com/staabm/dotfiles) (1 month ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix build](https://github.com/phpstan/phpstan/pull/13047) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Faster ClassNameHelper](https://github.com/phpstan/phpstan-src/pull/3994) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [DuplicateKeysInLiteralArraysRule: Fixed union type handling](https://github.com/phpstan/phpstan-src/pull/3993) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Fix IterableType-&gt;equals(TemplateIterableType)](https://github.com/phpstan/phpstan-src/pull/3991) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
@@ -54,7 +55,6 @@
 - [non-falsy-string cannot be converted to 0](https://github.com/phpstan/phpstan-src/pull/3971) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [TypehintHelper: remove unneeded default param value](https://github.com/phpstan/phpstan-src/pull/3968) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
 - [Remove expired cloudflare certificate](https://github.com/phpstan/phpstan-src/pull/3967) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
-- [More precise types after assignment when strict-types=0](https://github.com/phpstan/phpstan-src/pull/3965) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
