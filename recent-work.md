@@ -3,8 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [symplify/coding-standard](https://github.com/symplify/coding-standard) (6 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
@@ -12,7 +13,6 @@
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 - [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (2 weeks ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (3 weeks ago)
-- [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix typo in Readme](https://github.com/symplify/phpstan-rules/pull/228) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (today)
 - [Fix build](https://github.com/phpstan/phpstan/pull/13047) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Faster ClassNameHelper](https://github.com/phpstan/phpstan-src/pull/3994) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [DuplicateKeysInLiteralArraysRule: Fixed union type handling](https://github.com/phpstan/phpstan-src/pull/3993) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
@@ -54,7 +55,6 @@
 - [non-falsy-string cannot be false](https://github.com/phpstan/phpstan-src/pull/3972) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [non-falsy-string cannot be converted to 0](https://github.com/phpstan/phpstan-src/pull/3971) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [TypehintHelper: remove unneeded default param value](https://github.com/phpstan/phpstan-src/pull/3968) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
-- [Remove expired cloudflare certificate](https://github.com/phpstan/phpstan-src/pull/3967) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
