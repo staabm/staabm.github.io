@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.12.1](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.12.1) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.17](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.17) (1 day ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.28.2](https://github.com/pmmp/PocketMine-MP/releases/tag/5.28.2) (3 days ago)
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.12.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.12.0) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4](https://github.com/staabm/phpstan-dba/releases/tag/0.4) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.16](https://github.com/phpstan/phpstan/releases/tag/2.1.16) (4 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0-rc4](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc4) (5 days ago)
