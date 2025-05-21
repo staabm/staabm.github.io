@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.17](https://github.com/phpstan/phpstan/releases/tag/2.1.17) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.1.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.6) (today)
 - [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) - [5.1.3](https://github.com/stomp-php/stomp-php/releases/tag/5.1.3) (today)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.12.1](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.12.1) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.17](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.17) (2 days ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.28.2](https://github.com/pmmp/PocketMine-MP/releases/tag/5.28.2) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4](https://github.com/staabm/phpstan-dba/releases/tag/0.4) (5 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.16](https://github.com/phpstan/phpstan/releases/tag/2.1.16) (5 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0-rc4](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc4) (6 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0-alpha.2](https://github.com/deployphp/deployer/releases/tag/v8.0.0-alpha.2) (1 week ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.3](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.3) (1 week ago)
