@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Reproduce autoloader bug](https://github.com/phpstan/phpstan-src/pull/4003) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Support `--skip-file` with `fnmatch` patterns](https://github.com/rectorphp/swiss-knife/pull/99) on [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (1 day ago)
 - [Fix typo in Readme](https://github.com/symplify/phpstan-rules/pull/228) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 days ago)
 - [Fix build](https://github.com/phpstan/phpstan/pull/13047) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
@@ -54,7 +55,6 @@
 - [UseIdenticalOverEqualWithSameTypeRector should not trust phpdoc](https://github.com/rectorphp/rector-src/pull/6880) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 - [Fix crash on dynamic numeric-string symbols](https://github.com/phpstan/phpstan-src/pull/3975) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
 - [non-falsy-string cannot be false](https://github.com/phpstan/phpstan-src/pull/3972) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
-- [non-falsy-string cannot be converted to 0](https://github.com/phpstan/phpstan-src/pull/3971) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
