@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) (1 day ago)
 - [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (1 day ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [symplify/coding-standard](https://github.com/symplify/coding-standard) (1 week ago)
@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.18](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.18) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.17](https://github.com/phpstan/phpstan/releases/tag/2.1.17) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.1.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.6) (1 day ago)
 - [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) - [5.1.3](https://github.com/stomp-php/stomp-php/releases/tag/5.1.3) (1 day ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.12.1](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.12.1) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.17](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.17) (3 days ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.28.2](https://github.com/pmmp/PocketMine-MP/releases/tag/5.28.2) (5 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4](https://github.com/staabm/phpstan-dba/releases/tag/0.4) (6 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0-rc4](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc4) (1 week ago)
