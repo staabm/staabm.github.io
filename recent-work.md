@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) (today)
-- [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (today)
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) (1 day ago)
+- [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (1 day ago)
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [symplify/coding-standard](https://github.com/symplify/coding-standard) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
@@ -40,12 +40,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [PHPStan: disable treatPhpDocTypesAsCertain to support defensive programming](https://github.com/stomp-php/stomp-php/pull/185) on [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) (today)
-- [Reproduce autoloader bug](https://github.com/phpstan/phpstan-src/pull/4003) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Support `--skip-file` with `fnmatch` patterns](https://github.com/rectorphp/swiss-knife/pull/99) on [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (1 day ago)
-- [Fix typo in Readme](https://github.com/symplify/phpstan-rules/pull/228) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 days ago)
-- [Fix build](https://github.com/phpstan/phpstan/pull/13047) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
-- [Faster ClassNameHelper](https://github.com/phpstan/phpstan-src/pull/3994) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [PHPStan: disable treatPhpDocTypesAsCertain to support defensive programming](https://github.com/stomp-php/stomp-php/pull/185) on [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) (1 day ago)
+- [Reproduce autoloader bug](https://github.com/phpstan/phpstan-src/pull/4003) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Support `--skip-file` with `fnmatch` patterns](https://github.com/rectorphp/swiss-knife/pull/99) on [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (2 days ago)
+- [Fix typo in Readme](https://github.com/symplify/phpstan-rules/pull/228) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (3 days ago)
+- [Fix build](https://github.com/phpstan/phpstan/pull/13047) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
+- [Faster ClassNameHelper](https://github.com/phpstan/phpstan-src/pull/3994) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [DuplicateKeysInLiteralArraysRule: Fixed union type handling](https://github.com/phpstan/phpstan-src/pull/3993) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix IterableType-&gt;equals(TemplateIterableType)](https://github.com/phpstan/phpstan-src/pull/3991) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix inconsistent analysis on case-insensitive filesystems](https://github.com/phpstan/phpstan-src/pull/3988) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.17](https://github.com/phpstan/phpstan/releases/tag/2.1.17) (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.1.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.6) (today)
-- [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) - [5.1.3](https://github.com/stomp-php/stomp-php/releases/tag/5.1.3) (today)
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.12.1](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.12.1) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.17](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.17) (2 days ago)
-- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.28.2](https://github.com/pmmp/PocketMine-MP/releases/tag/5.28.2) (4 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4](https://github.com/staabm/phpstan-dba/releases/tag/0.4) (5 days ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0-rc4](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc4) (6 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.17](https://github.com/phpstan/phpstan/releases/tag/2.1.17) (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.1.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.6) (1 day ago)
+- [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) - [5.1.3](https://github.com/stomp-php/stomp-php/releases/tag/5.1.3) (1 day ago)
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.12.1](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.12.1) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.17](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.17) (3 days ago)
+- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.28.2](https://github.com/pmmp/PocketMine-MP/releases/tag/5.28.2) (5 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4](https://github.com/staabm/phpstan-dba/releases/tag/0.4) (6 days ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0-rc4](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc4) (1 week ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0-alpha.2](https://github.com/deployphp/deployer/releases/tag/v8.0.0-alpha.2) (1 week ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.3](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.3) (1 week ago)
