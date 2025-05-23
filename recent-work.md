@@ -26,6 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
+- [Enkora](https://github.com/Enkora) (today)
 - [phpstan](https://github.com/phpstan) (9 months ago)
 - [oliverklee](https://github.com/oliverklee) (10 months ago)
 - [TicketSwap](https://github.com/TicketSwap) (10 months ago)
@@ -35,7 +36,6 @@
 - [SecuMailer](https://github.com/SecuMailer) (2 years ago)
 - [omphteliba](https://github.com/omphteliba) (2 years ago)
 - [Marschl](https://github.com/Marschl) (2 years ago)
-- [zonuexe](https://github.com/zonuexe) (2 years ago)
 
 
 #### 🔨 My recent Pull Requests
@@ -59,6 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.3.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.0) (today)
+- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.19.1](https://github.com/TypedDevs/bashunit/releases/tag/0.19.1) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.18](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.18) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.17](https://github.com/phpstan/phpstan/releases/tag/2.1.17) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.1.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.6) (2 days ago)
@@ -67,5 +69,3 @@
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.28.2](https://github.com/pmmp/PocketMine-MP/releases/tag/5.28.2) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4](https://github.com/staabm/phpstan-dba/releases/tag/0.4) (1 week ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0-rc4](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc4) (1 week ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0-alpha.2](https://github.com/deployphp/deployer/releases/tag/v8.0.0-alpha.2) (1 week ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.3](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.3) (1 week ago)
