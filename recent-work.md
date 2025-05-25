@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [More service converted to `#[AutowiredService]` attribute usage](https://github.com/phpstan/phpstan-src/pull/4024) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Map all BrokerFactory tags in AutowiredAttributeServicesExtension](https://github.com/phpstan/phpstan-src/pull/4021) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [More `DynamicFunctionReturnTypeExtension` converted to `#[AutowiredService]` attribute usage](https://github.com/phpstan/phpstan-src/pull/4019) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Remove .github/ folder from releases](https://github.com/Nyholm/psr7-server/pull/61) on [Nyholm/psr7-server](https://github.com/Nyholm/psr7-server) (3 days ago)
@@ -54,7 +55,6 @@
 - [Fix inconsistent analysis on case-insensitive filesystems](https://github.com/phpstan/phpstan-src/pull/3988) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Remove wrong assertion phpdocs on assertEmpty(), assertNotEmpty()](https://github.com/sebastianbergmann/phpunit/pull/6203) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)
 - [Remove wrong assertion phpdocs on assertEmpty(), assertNotEmpty()](https://github.com/sebastianbergmann/phpunit/pull/6202) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)
-- [Added missing `ReflectionProvider-&gt;hasClass()` checks](https://github.com/staabm/phpstan-dba/pull/758) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
