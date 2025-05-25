@@ -5,8 +5,8 @@
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) (4 days ago)
 - [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (4 days ago)
+- [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) (4 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (6 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
 - [symplify/coding-standard](https://github.com/symplify/coding-standard) (1 week ago)
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.3.0-RC1) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.3.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.0) (2 days ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.19.1](https://github.com/TypedDevs/bashunit/releases/tag/0.19.1) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.18](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.18) (3 days ago)
@@ -68,4 +69,3 @@
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.12.1](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.12.1) (5 days ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.28.2](https://github.com/pmmp/PocketMine-MP/releases/tag/5.28.2) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4](https://github.com/staabm/phpstan-dba/releases/tag/0.4) (1 week ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0-rc4](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc4) (1 week ago)
