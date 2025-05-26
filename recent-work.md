@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Readme: fix package name](https://github.com/ondrejmirtes/composer-attribute-collector/pull/1) on [ondrejmirtes/composer-attribute-collector](https://github.com/ondrejmirtes/composer-attribute-collector) (today)
 - [More service converted to `#[AutowiredService]` attribute usage](https://github.com/phpstan/phpstan-src/pull/4024) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Map all BrokerFactory tags in AutowiredAttributeServicesExtension](https://github.com/phpstan/phpstan-src/pull/4021) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [More `DynamicFunctionReturnTypeExtension` converted to `#[AutowiredService]` attribute usage](https://github.com/phpstan/phpstan-src/pull/4019) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix IterableType-&gt;equals(TemplateIterableType)](https://github.com/phpstan/phpstan-src/pull/3991) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix inconsistent analysis on case-insensitive filesystems](https://github.com/phpstan/phpstan-src/pull/3988) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Remove wrong assertion phpdocs on assertEmpty(), assertNotEmpty()](https://github.com/sebastianbergmann/phpunit/pull/6203) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)
-- [Remove wrong assertion phpdocs on assertEmpty(), assertNotEmpty()](https://github.com/sebastianbergmann/phpunit/pull/6202) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
