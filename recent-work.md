@@ -6,8 +6,8 @@
 - [skerbis/redaxo-multi-instances](https://github.com/skerbis/redaxo-multi-instances) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
-- [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) (6 days ago)
 - [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (6 days ago)
+- [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) (6 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
 - [symplify/coding-standard](https://github.com/symplify/coding-standard) (2 weeks ago)
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.59.0](https://github.com/Roave/BetterReflection/releases/tag/6.59.0) (today)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.12.2](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.12.2) (today)
 - [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [3.3.0](https://github.com/FriendsOfREDAXO/adminer/releases/tag/3.3.0) (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.3.0-RC1) (2 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.17](https://github.com/phpstan/phpstan/releases/tag/2.1.17) (6 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.1.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.6) (6 days ago)
 - [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) - [5.1.3](https://github.com/stomp-php/stomp-php/releases/tag/5.1.3) (6 days ago)
-- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.28.2](https://github.com/pmmp/PocketMine-MP/releases/tag/5.28.2) (1 week ago)
