@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix &#34;Named arguments are supported only on PHP 8.0 and later.&#34; false positive](https://github.com/phpstan/phpstan-src/pull/4032) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update README.md](https://github.com/skerbis/redaxo-multi-instances/pull/1) on [skerbis/redaxo-multi-instances](https://github.com/skerbis/redaxo-multi-instances) (1 day ago)
 - [Readme: fix package name](https://github.com/ondrejmirtes/composer-attribute-collector/pull/1) on [ondrejmirtes/composer-attribute-collector](https://github.com/ondrejmirtes/composer-attribute-collector) (2 days ago)
 - [More service converted to `#[AutowiredService]` attribute usage](https://github.com/phpstan/phpstan-src/pull/4024) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -54,7 +55,6 @@
 - [Faster ClassNameHelper](https://github.com/phpstan/phpstan-src/pull/3994) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [DuplicateKeysInLiteralArraysRule: Fixed union type handling](https://github.com/phpstan/phpstan-src/pull/3993) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Fix IterableType-&gt;equals(TemplateIterableType)](https://github.com/phpstan/phpstan-src/pull/3991) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [Fix inconsistent analysis on case-insensitive filesystems](https://github.com/phpstan/phpstan-src/pull/3988) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
