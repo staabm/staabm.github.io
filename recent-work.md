@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement ParameterAttributeCollector](https://github.com/ondrejmirtes/composer-attribute-collector/pull/2) on [ondrejmirtes/composer-attribute-collector](https://github.com/ondrejmirtes/composer-attribute-collector) (today)
 - [Improved fix &#34;Named arguments are supported only on PHP 8.0 and later&#34; false positive&#34;](https://github.com/phpstan/phpstan-src/pull/4033) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix &#34;Named arguments are supported only on PHP 8.0 and later.&#34; false positive](https://github.com/phpstan/phpstan-src/pull/4032) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update README.md](https://github.com/skerbis/redaxo-multi-instances/pull/1) on [skerbis/redaxo-multi-instances](https://github.com/skerbis/redaxo-multi-instances) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix typo in Readme](https://github.com/symplify/phpstan-rules/pull/228) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
 - [Fix build](https://github.com/phpstan/phpstan/pull/13047) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [Faster ClassNameHelper](https://github.com/phpstan/phpstan-src/pull/3994) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [DuplicateKeysInLiteralArraysRule: Fixed union type handling](https://github.com/phpstan/phpstan-src/pull/3993) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
