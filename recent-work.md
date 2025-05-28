@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [skerbis/redaxo-multi-instances](https://github.com/skerbis/redaxo-multi-instances) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (1 week ago)
 - [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improved fix &#34;Named arguments are supported only on PHP 8.0 and later&#34; false positive&#34;](https://github.com/phpstan/phpstan-src/pull/4033) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix &#34;Named arguments are supported only on PHP 8.0 and later.&#34; false positive](https://github.com/phpstan/phpstan-src/pull/4032) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update README.md](https://github.com/skerbis/redaxo-multi-instances/pull/1) on [skerbis/redaxo-multi-instances](https://github.com/skerbis/redaxo-multi-instances) (1 day ago)
 - [Readme: fix package name](https://github.com/ondrejmirtes/composer-attribute-collector/pull/1) on [ondrejmirtes/composer-attribute-collector](https://github.com/ondrejmirtes/composer-attribute-collector) (2 days ago)
@@ -54,7 +55,6 @@
 - [Fix build](https://github.com/phpstan/phpstan/pull/13047) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [Faster ClassNameHelper](https://github.com/phpstan/phpstan-src/pull/3994) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [DuplicateKeysInLiteralArraysRule: Fixed union type handling](https://github.com/phpstan/phpstan-src/pull/3993) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [Fix IterableType-&gt;equals(TemplateIterableType)](https://github.com/phpstan/phpstan-src/pull/3991) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
