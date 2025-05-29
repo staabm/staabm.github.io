@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.0](https://github.com/symfony/symfony/releases/tag/v7.3.0) (today)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0-rc5](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc5) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.59.0](https://github.com/Roave/BetterReflection/releases/tag/6.59.0) (2 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.12.2](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.12.2) (2 days ago)
 - [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [3.3.0](https://github.com/FriendsOfREDAXO/adminer/releases/tag/3.3.0) (3 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.3.0-RC1) (4 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.3.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.0) (6 days ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.19.1](https://github.com/TypedDevs/bashunit/releases/tag/0.19.1) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.18](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.18) (1 week ago)
