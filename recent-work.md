@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) (today)
 - [skerbis/redaxo-multi-instances](https://github.com/skerbis/redaxo-multi-instances) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (1 week ago)
 - [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) (1 week ago)
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
 - [symplify/coding-standard](https://github.com/symplify/coding-standard) (2 weeks ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 weeks ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [AnalyserTest: skip testPharSupport() instead of hard failure](https://github.com/shipmonk-rnd/composer-dependency-analyser/pull/225) on [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) (today)
 - [Normalize arguments before calling into TypeSpecifyingExtensions](https://github.com/phpstan/phpstan-src/pull/4034) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement ParameterAttributeCollector](https://github.com/ondrejmirtes/composer-attribute-collector/pull/2) on [ondrejmirtes/composer-attribute-collector](https://github.com/ondrejmirtes/composer-attribute-collector) (2 days ago)
 - [Improved fix &#34;Named arguments are supported only on PHP 8.0 and later&#34; false positive&#34;](https://github.com/phpstan/phpstan-src/pull/4033) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Reproduce autoloader bug](https://github.com/phpstan/phpstan-src/pull/4003) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Support `--skip-file` with `fnmatch` patterns](https://github.com/rectorphp/swiss-knife/pull/99) on [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (1 week ago)
 - [Fix typo in Readme](https://github.com/symplify/phpstan-rules/pull/228) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
-- [Fix build](https://github.com/phpstan/phpstan/pull/13047) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
