@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fixed false-positive with by-ref parameters and array-functions](https://github.com/phpstan/phpstan-src/pull/4036) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [AnalyserTest: skip testPharSupport() instead of hard failure](https://github.com/shipmonk-rnd/composer-dependency-analyser/pull/225) on [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) (1 day ago)
 - [Normalize arguments before calling into TypeSpecifyingExtensions](https://github.com/phpstan/phpstan-src/pull/4034) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Implement ParameterAttributeCollector](https://github.com/ondrejmirtes/composer-attribute-collector/pull/2) on [ondrejmirtes/composer-attribute-collector](https://github.com/ondrejmirtes/composer-attribute-collector) (3 days ago)
@@ -54,11 +55,11 @@
 - [PHPStan: disable treatPhpDocTypesAsCertain to support defensive programming](https://github.com/stomp-php/stomp-php/pull/185) on [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) (1 week ago)
 - [Reproduce autoloader bug](https://github.com/phpstan/phpstan-src/pull/4003) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Support `--skip-file` with `fnmatch` patterns](https://github.com/rectorphp/swiss-knife/pull/99) on [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (1 week ago)
-- [Fix typo in Readme](https://github.com/symplify/phpstan-rules/pull/228) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.5.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.5.0) (today)
 - [symplify/coding-standard](https://github.com/symplify/coding-standard) - [12.4.3](https://github.com/symplify/coding-standard/releases/tag/12.4.3) (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.0](https://github.com/symfony/symfony/releases/tag/v7.3.0) (2 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0-rc5](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc5) (3 days ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.3.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.0) (1 week ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.19.1](https://github.com/TypedDevs/bashunit/releases/tag/0.19.1) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.18](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.18) (1 week ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.17](https://github.com/phpstan/phpstan/releases/tag/2.1.17) (1 week ago)
