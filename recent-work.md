@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) (1 day ago)
-- [skerbis/redaxo-multi-instances](https://github.com/skerbis/redaxo-multi-instances) (4 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) (2 days ago)
+- [skerbis/redaxo-multi-instances](https://github.com/skerbis/redaxo-multi-instances) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) (1 week ago)
 - [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (1 week ago)
@@ -40,17 +40,17 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fixed false-positive with by-ref parameters and array-functions](https://github.com/phpstan/phpstan-src/pull/4036) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [AnalyserTest: skip testPharSupport() instead of hard failure](https://github.com/shipmonk-rnd/composer-dependency-analyser/pull/225) on [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) (1 day ago)
-- [Normalize arguments before calling into TypeSpecifyingExtensions](https://github.com/phpstan/phpstan-src/pull/4034) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Implement ParameterAttributeCollector](https://github.com/ondrejmirtes/composer-attribute-collector/pull/2) on [ondrejmirtes/composer-attribute-collector](https://github.com/ondrejmirtes/composer-attribute-collector) (3 days ago)
-- [Improved fix &#34;Named arguments are supported only on PHP 8.0 and later&#34; false positive&#34;](https://github.com/phpstan/phpstan-src/pull/4033) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Fix &#34;Named arguments are supported only on PHP 8.0 and later.&#34; false positive](https://github.com/phpstan/phpstan-src/pull/4032) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Update README.md](https://github.com/skerbis/redaxo-multi-instances/pull/1) on [skerbis/redaxo-multi-instances](https://github.com/skerbis/redaxo-multi-instances) (4 days ago)
-- [Readme: fix package name](https://github.com/ondrejmirtes/composer-attribute-collector/pull/1) on [ondrejmirtes/composer-attribute-collector](https://github.com/ondrejmirtes/composer-attribute-collector) (5 days ago)
-- [More service converted to `#[AutowiredService]` attribute usage](https://github.com/phpstan/phpstan-src/pull/4024) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Map all BrokerFactory tags in AutowiredAttributeServicesExtension](https://github.com/phpstan/phpstan-src/pull/4021) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [More `DynamicFunctionReturnTypeExtension` converted to `#[AutowiredService]` attribute usage](https://github.com/phpstan/phpstan-src/pull/4019) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Fixed false-positive with by-ref parameters and array-functions](https://github.com/phpstan/phpstan-src/pull/4036) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [AnalyserTest: skip testPharSupport() instead of hard failure](https://github.com/shipmonk-rnd/composer-dependency-analyser/pull/225) on [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) (2 days ago)
+- [Normalize arguments before calling into TypeSpecifyingExtensions](https://github.com/phpstan/phpstan-src/pull/4034) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Implement ParameterAttributeCollector](https://github.com/ondrejmirtes/composer-attribute-collector/pull/2) on [ondrejmirtes/composer-attribute-collector](https://github.com/ondrejmirtes/composer-attribute-collector) (4 days ago)
+- [Improved fix &#34;Named arguments are supported only on PHP 8.0 and later&#34; false positive&#34;](https://github.com/phpstan/phpstan-src/pull/4033) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Fix &#34;Named arguments are supported only on PHP 8.0 and later.&#34; false positive](https://github.com/phpstan/phpstan-src/pull/4032) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Update README.md](https://github.com/skerbis/redaxo-multi-instances/pull/1) on [skerbis/redaxo-multi-instances](https://github.com/skerbis/redaxo-multi-instances) (5 days ago)
+- [Readme: fix package name](https://github.com/ondrejmirtes/composer-attribute-collector/pull/1) on [ondrejmirtes/composer-attribute-collector](https://github.com/ondrejmirtes/composer-attribute-collector) (6 days ago)
+- [More service converted to `#[AutowiredService]` attribute usage](https://github.com/phpstan/phpstan-src/pull/4024) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [Map all BrokerFactory tags in AutowiredAttributeServicesExtension](https://github.com/phpstan/phpstan-src/pull/4021) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [More `DynamicFunctionReturnTypeExtension` converted to `#[AutowiredService]` attribute usage](https://github.com/phpstan/phpstan-src/pull/4019) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Remove .github/ folder from releases](https://github.com/Nyholm/psr7-server/pull/61) on [Nyholm/psr7-server](https://github.com/Nyholm/psr7-server) (1 week ago)
 - [PHPStan: disable treatPhpDocTypesAsCertain to support defensive programming](https://github.com/stomp-php/stomp-php/pull/185) on [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) (1 week ago)
 - [Reproduce autoloader bug](https://github.com/phpstan/phpstan-src/pull/4003) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.5.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.5.0) (today)
-- [symplify/coding-standard](https://github.com/symplify/coding-standard) - [12.4.3](https://github.com/symplify/coding-standard/releases/tag/12.4.3) (1 day ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.0](https://github.com/symfony/symfony/releases/tag/v7.3.0) (2 days ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0-rc5](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc5) (3 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.59.0](https://github.com/Roave/BetterReflection/releases/tag/6.59.0) (4 days ago)
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.12.2](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.12.2) (4 days ago)
-- [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [3.3.0](https://github.com/FriendsOfREDAXO/adminer/releases/tag/3.3.0) (5 days ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.5.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.5.0) (1 day ago)
+- [symplify/coding-standard](https://github.com/symplify/coding-standard) - [12.4.3](https://github.com/symplify/coding-standard/releases/tag/12.4.3) (2 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.0](https://github.com/symfony/symfony/releases/tag/v7.3.0) (3 days ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0-rc5](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc5) (4 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.59.0](https://github.com/Roave/BetterReflection/releases/tag/6.59.0) (5 days ago)
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.12.2](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.12.2) (5 days ago)
+- [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [3.3.0](https://github.com/FriendsOfREDAXO/adminer/releases/tag/3.3.0) (6 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.3.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.0) (1 week ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.19.1](https://github.com/TypedDevs/bashunit/releases/tag/0.19.1) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.18](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.18) (1 week ago)
