@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support baselining of PHPStan errors on composer.json](https://github.com/pb30/phpstan-composer-analysis/pull/51) on [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (today)
+- [Remove debugging left-over](https://github.com/pb30/phpstan-composer-analysis/pull/50) on [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (today)
 - [Fixed typo in error message tip](https://github.com/pb30/phpstan-composer-analysis/pull/49) on [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (today)
 - [Fixed false-positive with by-ref parameters and array-functions](https://github.com/phpstan/phpstan-src/pull/4036) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [AnalyserTest: skip testPharSupport() instead of hard failure](https://github.com/shipmonk-rnd/composer-dependency-analyser/pull/225) on [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) (3 days ago)
@@ -53,8 +55,6 @@
 - [Map all BrokerFactory tags in AutowiredAttributeServicesExtension](https://github.com/phpstan/phpstan-src/pull/4021) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [More `DynamicFunctionReturnTypeExtension` converted to `#[AutowiredService]` attribute usage](https://github.com/phpstan/phpstan-src/pull/4019) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Remove .github/ folder from releases](https://github.com/Nyholm/psr7-server/pull/61) on [Nyholm/psr7-server](https://github.com/Nyholm/psr7-server) (1 week ago)
-- [PHPStan: disable treatPhpDocTypesAsCertain to support defensive programming](https://github.com/stomp-php/stomp-php/pull/185) on [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) (1 week ago)
-- [Reproduce autoloader bug](https://github.com/phpstan/phpstan-src/pull/4003) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
