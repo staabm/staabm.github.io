@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) (3 days ago)
 - [skerbis/redaxo-multi-instances](https://github.com/skerbis/redaxo-multi-instances) (6 days ago)
@@ -12,7 +13,6 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 weeks ago)
 - [symplify/coding-standard](https://github.com/symplify/coding-standard) (2 weeks ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
