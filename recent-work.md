@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Run analyzer only once](https://github.com/pb30/phpstan-composer-analysis/pull/53) on [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (today)
 - [Support baselining of PHPStan errors on composer.json](https://github.com/pb30/phpstan-composer-analysis/pull/51) on [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (1 day ago)
 - [Remove debugging left-over](https://github.com/pb30/phpstan-composer-analysis/pull/50) on [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (1 day ago)
 - [Fixed typo in error message tip](https://github.com/pb30/phpstan-composer-analysis/pull/49) on [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (1 day ago)
@@ -54,7 +55,6 @@
 - [More service converted to `#[AutowiredService]` attribute usage](https://github.com/phpstan/phpstan-src/pull/4024) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Map all BrokerFactory tags in AutowiredAttributeServicesExtension](https://github.com/phpstan/phpstan-src/pull/4021) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [More `DynamicFunctionReturnTypeExtension` converted to `#[AutowiredService]` attribute usage](https://github.com/phpstan/phpstan-src/pull/4019) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Remove .github/ folder from releases](https://github.com/Nyholm/psr7-server/pull/61) on [Nyholm/psr7-server](https://github.com/Nyholm/psr7-server) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
