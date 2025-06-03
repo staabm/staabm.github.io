@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [filp/whoops](https://github.com/filp/whoops) (today)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) (4 days ago)
@@ -12,7 +13,6 @@
 - [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 weeks ago)
-- [symplify/coding-standard](https://github.com/symplify/coding-standard) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
