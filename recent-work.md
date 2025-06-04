@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [BaseMutatorTestCase: lint source in-process](https://github.com/infection/infection/pull/2108) on [infection/infection](https://github.com/infection/infection) (today)
 - [BaseMutatorTestCase: lint mulitple files at once](https://github.com/infection/infection/pull/2107) on [infection/infection](https://github.com/infection/infection) (today)
 - [Support null-safe method calls in MethodCallRemoval mutator](https://github.com/infection/infection/pull/2106) on [infection/infection](https://github.com/infection/infection) (today)
 - [Implement ParameterAttributeCollector](https://github.com/olvlvl/composer-attribute-collector/pull/33) on [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) (1 day ago)
@@ -54,7 +55,6 @@
 - [Normalize arguments before calling into TypeSpecifyingExtensions](https://github.com/phpstan/phpstan-src/pull/4034) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Implement ParameterAttributeCollector](https://github.com/ondrejmirtes/composer-attribute-collector/pull/2) on [ondrejmirtes/composer-attribute-collector](https://github.com/ondrejmirtes/composer-attribute-collector) (1 week ago)
 - [Improved fix &#34;Named arguments are supported only on PHP 8.0 and later&#34; false positive&#34;](https://github.com/phpstan/phpstan-src/pull/4033) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix &#34;Named arguments are supported only on PHP 8.0 and later.&#34; false positive](https://github.com/phpstan/phpstan-src/pull/4032) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
