@@ -12,7 +12,7 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (2 weeks ago)
 - [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) (2 weeks ago)
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 weeks ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [More resilient StopwatchTest](https://github.com/infection/infection/pull/2110) on [infection/infection](https://github.com/infection/infection) (today)
 - [BaseMutatorTestCase: lint source in-process](https://github.com/infection/infection/pull/2108) on [infection/infection](https://github.com/infection/infection) (today)
 - [BaseMutatorTestCase: lint mulitple files at once](https://github.com/infection/infection/pull/2107) on [infection/infection](https://github.com/infection/infection) (today)
 - [Support null-safe method calls in MethodCallRemoval mutator](https://github.com/infection/infection/pull/2106) on [infection/infection](https://github.com/infection/infection) (today)
@@ -54,7 +55,6 @@
 - [AnalyserTest: skip testPharSupport() instead of hard failure](https://github.com/shipmonk-rnd/composer-dependency-analyser/pull/225) on [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) (5 days ago)
 - [Normalize arguments before calling into TypeSpecifyingExtensions](https://github.com/phpstan/phpstan-src/pull/4034) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Implement ParameterAttributeCollector](https://github.com/ondrejmirtes/composer-attribute-collector/pull/2) on [ondrejmirtes/composer-attribute-collector](https://github.com/ondrejmirtes/composer-attribute-collector) (1 week ago)
-- [Improved fix &#34;Named arguments are supported only on PHP 8.0 and later&#34; false positive&#34;](https://github.com/phpstan/phpstan-src/pull/4033) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
