@@ -10,8 +10,8 @@
 - [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) (6 days ago)
 - [skerbis/redaxo-multi-instances](https://github.com/skerbis/redaxo-multi-instances) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
-- [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) (2 weeks ago)
 - [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (2 weeks ago)
+- [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) (2 weeks ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 weeks ago)
 
 
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Don&#39;t produce mutations for equal type comparisons in IdenticalEqual](https://github.com/infection/infection/pull/2117) on [infection/infection](https://github.com/infection/infection) (today)
+- [Utilize `ParentConnector::findParent` over raw calls to `$node-&gt;getAttribute(&#39;parent&#39;)`](https://github.com/infection/infection/pull/2116) on [infection/infection](https://github.com/infection/infection) (today)
 - [ProtectedVisibility: Don&#39;t mutate method in final class](https://github.com/infection/infection/pull/2112) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [More resilient StopwatchTest](https://github.com/infection/infection/pull/2110) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [BaseMutatorTestCase: lint source in-process](https://github.com/infection/infection/pull/2108) on [infection/infection](https://github.com/infection/infection) (1 day ago)
@@ -53,8 +55,6 @@
 - [Remove debugging left-over](https://github.com/pb30/phpstan-composer-analysis/pull/50) on [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (3 days ago)
 - [Fixed typo in error message tip](https://github.com/pb30/phpstan-composer-analysis/pull/49) on [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (3 days ago)
 - [Fixed false-positive with by-ref parameters and array-functions](https://github.com/phpstan/phpstan-src/pull/4036) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [AnalyserTest: skip testPharSupport() instead of hard failure](https://github.com/shipmonk-rnd/composer-dependency-analyser/pull/225) on [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) (6 days ago)
-- [Normalize arguments before calling into TypeSpecifyingExtensions](https://github.com/phpstan/phpstan-src/pull/4034) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
