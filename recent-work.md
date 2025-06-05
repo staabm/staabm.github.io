@@ -10,9 +10,9 @@
 - [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) (6 days ago)
 - [skerbis/redaxo-multi-instances](https://github.com/skerbis/redaxo-multi-instances) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
-- [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (2 weeks ago)
 - [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) (2 weeks ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
+- [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (2 weeks ago)
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
