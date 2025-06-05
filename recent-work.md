@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Don&#39;t produce mutations for identical type comparisons in EqualIdentical](https://github.com/infection/infection/pull/2119) on [infection/infection](https://github.com/infection/infection) (today)
 - [Don&#39;t produce mutations for equal type comparisons in IdenticalEqual](https://github.com/infection/infection/pull/2117) on [infection/infection](https://github.com/infection/infection) (today)
 - [Utilize `ParentConnector::findParent` over raw calls to `$node-&gt;getAttribute(&#39;parent&#39;)`](https://github.com/infection/infection/pull/2116) on [infection/infection](https://github.com/infection/infection) (today)
 - [ProtectedVisibility: Don&#39;t mutate method in final class](https://github.com/infection/infection/pull/2112) on [infection/infection](https://github.com/infection/infection) (1 day ago)
@@ -54,7 +55,6 @@
 - [Support baselining of PHPStan errors on composer.json](https://github.com/pb30/phpstan-composer-analysis/pull/51) on [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (3 days ago)
 - [Remove debugging left-over](https://github.com/pb30/phpstan-composer-analysis/pull/50) on [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (3 days ago)
 - [Fixed typo in error message tip](https://github.com/pb30/phpstan-composer-analysis/pull/49) on [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (3 days ago)
-- [Fixed false-positive with by-ref parameters and array-functions](https://github.com/phpstan/phpstan-src/pull/4036) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
