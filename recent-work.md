@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support narrowing a union type containing `false` with a non-falsy value](https://github.com/infection/infection/pull/2121) on [infection/infection](https://github.com/infection/infection) (today)
 - [Fix missing mutation for bool returning functions](https://github.com/infection/infection/pull/2120) on [infection/infection](https://github.com/infection/infection) (today)
 - [Don&#39;t produce mutations for identical type comparisons in EqualIdentical](https://github.com/infection/infection/pull/2119) on [infection/infection](https://github.com/infection/infection) (today)
 - [Don&#39;t produce mutations for equal type comparisons in IdenticalEqual](https://github.com/infection/infection/pull/2117) on [infection/infection](https://github.com/infection/infection) (today)
@@ -54,7 +55,6 @@
 - [Prevent javascript error: `TypeError: can&#39;t access property &#34;scrollIntoView&#34;, line is undefined`](https://github.com/filp/whoops/pull/776) on [filp/whoops](https://github.com/filp/whoops) (2 days ago)
 - [Run analyzer only once](https://github.com/pb30/phpstan-composer-analysis/pull/53) on [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (2 days ago)
 - [Support baselining of PHPStan errors on composer.json](https://github.com/pb30/phpstan-composer-analysis/pull/51) on [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (3 days ago)
-- [Remove debugging left-over](https://github.com/pb30/phpstan-composer-analysis/pull/50) on [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
