@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [infection/infection](https://github.com/infection/infection) (today)
 - [filp/whoops](https://github.com/filp/whoops) (2 days ago)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
