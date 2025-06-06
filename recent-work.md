@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (today)
 - [infection/infection](https://github.com/infection/infection) (today)
+- [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (today)
 - [filp/whoops](https://github.com/filp/whoops) (3 days ago)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) (1 week ago)
 - [skerbis/redaxo-multi-instances](https://github.com/skerbis/redaxo-multi-instances) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
-- [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) (2 weeks ago)
 - [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (2 weeks ago)
+- [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Share reflection-cache across Mutators](https://github.com/infection/infection/pull/2131) on [infection/infection](https://github.com/infection/infection) (today)
+- [Don&#39;t produce mutations for empty-array type comparisons](https://github.com/infection/infection/pull/2130) on [infection/infection](https://github.com/infection/infection) (today)
 - [Refactor AbstractIdenticalComparison](https://github.com/infection/infection/pull/2129) on [infection/infection](https://github.com/infection/infection) (today)
 - [Introduce collision detector](https://github.com/infection/infection/pull/2128) on [infection/infection](https://github.com/infection/infection) (today)
 - [Support narrowing a union type containing `false` with a non-falsy value](https://github.com/infection/infection/pull/2121) on [infection/infection](https://github.com/infection/infection) (1 day ago)
@@ -53,8 +55,6 @@
 - [BaseMutatorTestCase: lint mulitple files at once](https://github.com/infection/infection/pull/2107) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [Support null-safe method calls in MethodCallRemoval mutator](https://github.com/infection/infection/pull/2106) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [Implement ParameterAttributeCollector](https://github.com/olvlvl/composer-attribute-collector/pull/33) on [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) (3 days ago)
-- [CI: use ubuntu 22.04](https://github.com/filp/whoops/pull/777) on [filp/whoops](https://github.com/filp/whoops) (3 days ago)
-- [Prevent javascript error: `TypeError: can&#39;t access property &#34;scrollIntoView&#34;, line is undefined`](https://github.com/filp/whoops/pull/776) on [filp/whoops](https://github.com/filp/whoops) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
