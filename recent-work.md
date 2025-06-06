@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [infection/infection](https://github.com/infection/infection) (today)
 - [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (today)
+- [infection/infection](https://github.com/infection/infection) (today)
 - [filp/whoops](https://github.com/filp/whoops) (3 days ago)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Don&#39;t produce mutations for same type comparisons of static method calls](https://github.com/infection/infection/pull/2132) on [infection/infection](https://github.com/infection/infection) (today)
 - [Share reflection-cache across Mutators](https://github.com/infection/infection/pull/2131) on [infection/infection](https://github.com/infection/infection) (today)
 - [Don&#39;t produce mutations for empty-array type comparisons](https://github.com/infection/infection/pull/2130) on [infection/infection](https://github.com/infection/infection) (today)
 - [Refactor AbstractIdenticalComparison](https://github.com/infection/infection/pull/2129) on [infection/infection](https://github.com/infection/infection) (today)
@@ -54,7 +55,6 @@
 - [BaseMutatorTestCase: lint source in-process](https://github.com/infection/infection/pull/2108) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [BaseMutatorTestCase: lint mulitple files at once](https://github.com/infection/infection/pull/2107) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [Support null-safe method calls in MethodCallRemoval mutator](https://github.com/infection/infection/pull/2106) on [infection/infection](https://github.com/infection/infection) (2 days ago)
-- [Implement ParameterAttributeCollector](https://github.com/olvlvl/composer-attribute-collector/pull/33) on [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
