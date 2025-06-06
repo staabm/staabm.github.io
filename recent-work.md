@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Don&#39;t produce mutations for same type comparisons of class constants](https://github.com/infection/infection/pull/2134) on [infection/infection](https://github.com/infection/infection) (today)
 - [Don&#39;t produce mutations for same type comparisons of static method calls](https://github.com/infection/infection/pull/2132) on [infection/infection](https://github.com/infection/infection) (today)
 - [Share reflection-cache across Mutators](https://github.com/infection/infection/pull/2131) on [infection/infection](https://github.com/infection/infection) (today)
 - [Don&#39;t produce mutations for empty-array type comparisons](https://github.com/infection/infection/pull/2130) on [infection/infection](https://github.com/infection/infection) (today)
@@ -54,7 +55,6 @@
 - [More resilient StopwatchTest](https://github.com/infection/infection/pull/2110) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [BaseMutatorTestCase: lint source in-process](https://github.com/infection/infection/pull/2108) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [BaseMutatorTestCase: lint mulitple files at once](https://github.com/infection/infection/pull/2107) on [infection/infection](https://github.com/infection/infection) (2 days ago)
-- [Support null-safe method calls in MethodCallRemoval mutator](https://github.com/infection/infection/pull/2106) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
