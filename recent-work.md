@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [infection/infection](https://github.com/infection/infection) (today)
 - [filp/whoops](https://github.com/filp/whoops) (3 days ago)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
@@ -12,7 +12,7 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
 - [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) (2 weeks ago)
 - [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (2 weeks ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor AbstractIdenticalComparison](https://github.com/infection/infection/pull/2129) on [infection/infection](https://github.com/infection/infection) (today)
+- [Introduce collision detector](https://github.com/infection/infection/pull/2128) on [infection/infection](https://github.com/infection/infection) (today)
 - [Support narrowing a union type containing `false` with a non-falsy value](https://github.com/infection/infection/pull/2121) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [Fix missing mutation for bool returning functions](https://github.com/infection/infection/pull/2120) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [Don&#39;t produce mutations for identical type comparisons in EqualIdentical](https://github.com/infection/infection/pull/2119) on [infection/infection](https://github.com/infection/infection) (1 day ago)
@@ -53,8 +55,6 @@
 - [Implement ParameterAttributeCollector](https://github.com/olvlvl/composer-attribute-collector/pull/33) on [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) (3 days ago)
 - [CI: use ubuntu 22.04](https://github.com/filp/whoops/pull/777) on [filp/whoops](https://github.com/filp/whoops) (3 days ago)
 - [Prevent javascript error: `TypeError: can&#39;t access property &#34;scrollIntoView&#34;, line is undefined`](https://github.com/filp/whoops/pull/776) on [filp/whoops](https://github.com/filp/whoops) (3 days ago)
-- [Run analyzer only once](https://github.com/pb30/phpstan-composer-analysis/pull/53) on [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (3 days ago)
-- [Support baselining of PHPStan errors on composer.json](https://github.com/pb30/phpstan-composer-analysis/pull/51) on [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
