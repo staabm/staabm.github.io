@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (today)
 - [infection/infection](https://github.com/infection/infection) (today)
 - [filp/whoops](https://github.com/filp/whoops) (3 days ago)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (4 days ago)
@@ -12,7 +13,6 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
 - [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) (2 weeks ago)
 - [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (2 weeks ago)
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
