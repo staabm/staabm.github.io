@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Don&#39;t mutate true/false in conditions](https://github.com/infection/infection/pull/2143) on [infection/infection](https://github.com/infection/infection) (today)
 - [Don&#39;t mutate greater/smaller-than in ternary](https://github.com/infection/infection/pull/2141) on [infection/infection](https://github.com/infection/infection) (today)
 - [Don&#39;t mutate identical/not-identical in ternary](https://github.com/infection/infection/pull/2140) on [infection/infection](https://github.com/infection/infection) (today)
 - [Don&#39;t mutate equal/not-equal in ternary](https://github.com/infection/infection/pull/2139) on [infection/infection](https://github.com/infection/infection) (today)
@@ -54,7 +55,6 @@
 - [Introduce collision detector](https://github.com/infection/infection/pull/2128) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [Support narrowing a union type containing `false` with a non-falsy value](https://github.com/infection/infection/pull/2121) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [Fix missing mutation for bool returning functions](https://github.com/infection/infection/pull/2120) on [infection/infection](https://github.com/infection/infection) (2 days ago)
-- [Don&#39;t produce mutations for identical type comparisons in EqualIdentical](https://github.com/infection/infection/pull/2119) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
