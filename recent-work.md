@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [infection/infection](https://github.com/infection/infection) (today)
 - [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (1 day ago)
-- [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (3 days ago)
 - [filp/whoops](https://github.com/filp/whoops) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Don&#39;t mutate greater/smaller-than in ternary](https://github.com/infection/infection/pull/2141) on [infection/infection](https://github.com/infection/infection) (today)
+- [Don&#39;t mutate identical/not-identical in ternary](https://github.com/infection/infection/pull/2140) on [infection/infection](https://github.com/infection/infection) (today)
+- [Don&#39;t mutate equal/not-equal in ternary](https://github.com/infection/infection/pull/2139) on [infection/infection](https://github.com/infection/infection) (today)
 - [Don&#39;t mutate false/true in ternary](https://github.com/infection/infection/pull/2138) on [infection/infection](https://github.com/infection/infection) (today)
 - [Repro redundat mutations](https://github.com/infection/infection/pull/2137) on [infection/infection](https://github.com/infection/infection) (today)
 - [Don&#39;t produce mutations for same type comparisons of known global constants](https://github.com/infection/infection/pull/2135) on [infection/infection](https://github.com/infection/infection) (1 day ago)
@@ -52,9 +55,6 @@
 - [Support narrowing a union type containing `false` with a non-falsy value](https://github.com/infection/infection/pull/2121) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [Fix missing mutation for bool returning functions](https://github.com/infection/infection/pull/2120) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [Don&#39;t produce mutations for identical type comparisons in EqualIdentical](https://github.com/infection/infection/pull/2119) on [infection/infection](https://github.com/infection/infection) (2 days ago)
-- [Don&#39;t produce mutations for equal type comparisons in IdenticalEqual](https://github.com/infection/infection/pull/2117) on [infection/infection](https://github.com/infection/infection) (2 days ago)
-- [Utilize `ParentConnector::findParent` over raw calls to `$node-&gt;getAttribute(&#39;parent&#39;)`](https://github.com/infection/infection/pull/2116) on [infection/infection](https://github.com/infection/infection) (2 days ago)
-- [ProtectedVisibility: Don&#39;t mutate method in final class](https://github.com/infection/infection/pull/2112) on [infection/infection](https://github.com/infection/infection) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
