@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.2.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.1) (today)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v1.0.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v1.0.0) (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.2.0](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.0) (1 day ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.22](https://github.com/php/php-src/releases/tag/php-8.3.22) (1 day ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.20.0](https://github.com/TypedDevs/bashunit/releases/tag/0.20.0) (6 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.5.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.5.0) (1 week ago)
