@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Don&#39;t mutate false/true in ternary](https://github.com/infection/infection/pull/2138) on [infection/infection](https://github.com/infection/infection) (today)
+- [Repro redundat mutations](https://github.com/infection/infection/pull/2137) on [infection/infection](https://github.com/infection/infection) (today)
 - [Don&#39;t produce mutations for same type comparisons of known global constants](https://github.com/infection/infection/pull/2135) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [Don&#39;t produce mutations for same type comparisons of class constants](https://github.com/infection/infection/pull/2134) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [Don&#39;t produce mutations for same type comparisons of static method calls](https://github.com/infection/infection/pull/2132) on [infection/infection](https://github.com/infection/infection) (1 day ago)
@@ -53,8 +55,6 @@
 - [Don&#39;t produce mutations for equal type comparisons in IdenticalEqual](https://github.com/infection/infection/pull/2117) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [Utilize `ParentConnector::findParent` over raw calls to `$node-&gt;getAttribute(&#39;parent&#39;)`](https://github.com/infection/infection/pull/2116) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [ProtectedVisibility: Don&#39;t mutate method in final class](https://github.com/infection/infection/pull/2112) on [infection/infection](https://github.com/infection/infection) (3 days ago)
-- [More resilient StopwatchTest](https://github.com/infection/infection/pull/2110) on [infection/infection](https://github.com/infection/infection) (3 days ago)
-- [BaseMutatorTestCase: lint source in-process](https://github.com/infection/infection/pull/2108) on [infection/infection](https://github.com/infection/infection) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
