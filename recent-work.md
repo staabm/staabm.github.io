@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Don&#39;t mutate int-cast in return of int-typed function](https://github.com/infection/infection/pull/2148) on [infection/infection](https://github.com/infection/infection) (today)
+- [UselessCastRule: do cheaper check first](https://github.com/phpstan/phpstan-strict-rules/pull/274) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
 - [Don&#39;t mutate cast in return of typed function](https://github.com/infection/infection/pull/2145) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [Don&#39;t mutate true/false in conditions](https://github.com/infection/infection/pull/2143) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [Don&#39;t mutate greater/smaller-than in ternary](https://github.com/infection/infection/pull/2141) on [infection/infection](https://github.com/infection/infection) (1 day ago)
@@ -53,8 +55,6 @@
 - [Share reflection-cache across Mutators](https://github.com/infection/infection/pull/2131) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [Don&#39;t produce mutations for empty-array type comparisons](https://github.com/infection/infection/pull/2130) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [Refactor AbstractIdenticalComparison](https://github.com/infection/infection/pull/2129) on [infection/infection](https://github.com/infection/infection) (2 days ago)
-- [Introduce collision detector](https://github.com/infection/infection/pull/2128) on [infection/infection](https://github.com/infection/infection) (2 days ago)
-- [Support narrowing a union type containing `false` with a non-falsy value](https://github.com/infection/infection/pull/2121) on [infection/infection](https://github.com/infection/infection) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
