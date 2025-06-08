@@ -40,6 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Don&#39;t mutate object-cast in return of object-typed function](https://github.com/infection/infection/pull/2152) on [infection/infection](https://github.com/infection/infection) (today)
+- [Don&#39;t mutate array-cast in return of array-typed function](https://github.com/infection/infection/pull/2151) on [infection/infection](https://github.com/infection/infection) (today)
+- [Don&#39;t mutate float-cast in return of float-typed function](https://github.com/infection/infection/pull/2150) on [infection/infection](https://github.com/infection/infection) (today)
+- [Don&#39;t mutate string-cast in return of string-typed function](https://github.com/infection/infection/pull/2149) on [infection/infection](https://github.com/infection/infection) (today)
 - [Don&#39;t mutate int-cast in return of int-typed function](https://github.com/infection/infection/pull/2148) on [infection/infection](https://github.com/infection/infection) (today)
 - [UselessCastRule: do cheaper check first](https://github.com/phpstan/phpstan-strict-rules/pull/274) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
 - [Don&#39;t mutate cast in return of typed function](https://github.com/infection/infection/pull/2145) on [infection/infection](https://github.com/infection/infection) (1 day ago)
@@ -51,10 +55,6 @@
 - [Repro redundat mutations](https://github.com/infection/infection/pull/2137) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [Don&#39;t produce mutations for same type comparisons of known global constants](https://github.com/infection/infection/pull/2135) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [Don&#39;t produce mutations for same type comparisons of class constants](https://github.com/infection/infection/pull/2134) on [infection/infection](https://github.com/infection/infection) (2 days ago)
-- [Don&#39;t produce mutations for same type comparisons of static method calls](https://github.com/infection/infection/pull/2132) on [infection/infection](https://github.com/infection/infection) (2 days ago)
-- [Share reflection-cache across Mutators](https://github.com/infection/infection/pull/2131) on [infection/infection](https://github.com/infection/infection) (2 days ago)
-- [Don&#39;t produce mutations for empty-array type comparisons](https://github.com/infection/infection/pull/2130) on [infection/infection](https://github.com/infection/infection) (2 days ago)
-- [Refactor AbstractIdenticalComparison](https://github.com/infection/infection/pull/2129) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
