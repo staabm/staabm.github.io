@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (today)
 - [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (4 days ago)
-- [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (6 days ago)
 - [filp/whoops](https://github.com/filp/whoops) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) (1 week ago)
 - [skerbis/redaxo-multi-instances](https://github.com/skerbis/redaxo-multi-instances) (2 weeks ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
-- [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (2 weeks ago)
 - [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) (2 weeks ago)
+- [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
