@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement perMutator timings](https://github.com/infection/infection/pull/2164) on [infection/infection](https://github.com/infection/infection) (today)
 - [Readme: fix typo](https://github.com/pb30/phpstan-composer-analysis/pull/54) on [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (today)
 - [Implement AstKiller for PublicVisibility](https://github.com/infection/infection/pull/2163) on [infection/infection](https://github.com/infection/infection) (today)
 - [Reduce method visibility in Container](https://github.com/infection/infection/pull/2155) on [infection/infection](https://github.com/infection/infection) (2 days ago)
@@ -54,7 +55,6 @@
 - [Don&#39;t mutate true/false in conditions](https://github.com/infection/infection/pull/2143) on [infection/infection](https://github.com/infection/infection) (3 days ago)
 - [Don&#39;t mutate greater/smaller-than in ternary](https://github.com/infection/infection/pull/2141) on [infection/infection](https://github.com/infection/infection) (3 days ago)
 - [Don&#39;t mutate identical/not-identical in ternary](https://github.com/infection/infection/pull/2140) on [infection/infection](https://github.com/infection/infection) (3 days ago)
-- [Don&#39;t mutate equal/not-equal in ternary](https://github.com/infection/infection/pull/2139) on [infection/infection](https://github.com/infection/infection) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
