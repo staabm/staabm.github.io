@@ -4,7 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (today)
-- [infection/infection](https://github.com/infection/infection) (2 days ago)
+- [infection/infection](https://github.com/infection/infection) (today)
 - [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (4 days ago)
 - [filp/whoops](https://github.com/filp/whoops) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Drop use of PHPUnit internal API](https://github.com/infection/infection/pull/2167) on [infection/infection](https://github.com/infection/infection) (today)
 - [Update PHPStan to 2.1.17](https://github.com/infection/infection/pull/2165) on [infection/infection](https://github.com/infection/infection) (today)
 - [Implement perMutator timings](https://github.com/infection/infection/pull/2164) on [infection/infection](https://github.com/infection/infection) (today)
 - [Readme: fix typo](https://github.com/pb30/phpstan-composer-analysis/pull/54) on [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (today)
@@ -54,7 +55,6 @@
 - [UselessCastRule: do cheaper check first](https://github.com/phpstan/phpstan-strict-rules/pull/274) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (2 days ago)
 - [Don&#39;t mutate cast in return of typed function](https://github.com/infection/infection/pull/2145) on [infection/infection](https://github.com/infection/infection) (3 days ago)
 - [Don&#39;t mutate true/false in conditions](https://github.com/infection/infection/pull/2143) on [infection/infection](https://github.com/infection/infection) (3 days ago)
-- [Don&#39;t mutate greater/smaller-than in ternary](https://github.com/infection/infection/pull/2141) on [infection/infection](https://github.com/infection/infection) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
