@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.10.5](https://github.com/shopware/shopware/releases/tag/v6.6.10.5) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.2.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.1) (3 days ago)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v1.0.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v1.0.0) (4 days ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.22](https://github.com/php/php-src/releases/tag/php-8.3.22) (4 days ago)
@@ -66,6 +67,5 @@
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.5.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.5.0) (1 week ago)
 - [symplify/coding-standard](https://github.com/symplify/coding-standard) - [12.4.3](https://github.com/symplify/coding-standard/releases/tag/12.4.3) (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.0](https://github.com/symfony/symfony/releases/tag/v7.3.0) (1 week ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0-rc5](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc5) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.59.0](https://github.com/Roave/BetterReflection/releases/tag/6.59.0) (2 weeks ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.12.2](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.12.2) (2 weeks ago)
