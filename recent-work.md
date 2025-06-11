@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (today)
-- [infection/infection](https://github.com/infection/infection) (today)
-- [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (4 days ago)
+- [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (1 day ago)
+- [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (5 days ago)
 - [filp/whoops](https://github.com/filp/whoops) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) (1 week ago)
 - [skerbis/redaxo-multi-instances](https://github.com/skerbis/redaxo-multi-instances) (2 weeks ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
-- [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) (2 weeks ago)
-- [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (2 weeks ago)
+- [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) (3 weeks ago)
+- [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -26,7 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
-- [romm](https://github.com/romm) (2 days ago)
+- [romm](https://github.com/romm) (3 days ago)
 - [packagist](https://github.com/packagist) (1 week ago)
 - [Enkora](https://github.com/Enkora) (2 weeks ago)
 - [phpstan](https://github.com/phpstan) (10 months ago)
@@ -40,29 +40,29 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Drop use of PHPUnit internal API](https://github.com/infection/infection/pull/2167) on [infection/infection](https://github.com/infection/infection) (today)
-- [Update PHPStan to 2.1.17](https://github.com/infection/infection/pull/2165) on [infection/infection](https://github.com/infection/infection) (today)
-- [Implement perMutator timings](https://github.com/infection/infection/pull/2164) on [infection/infection](https://github.com/infection/infection) (today)
-- [Readme: fix typo](https://github.com/pb30/phpstan-composer-analysis/pull/54) on [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (today)
-- [Implement AstKiller for PublicVisibility](https://github.com/infection/infection/pull/2163) on [infection/infection](https://github.com/infection/infection) (today)
-- [Reduce method visibility in Container](https://github.com/infection/infection/pull/2155) on [infection/infection](https://github.com/infection/infection) (2 days ago)
-- [Don&#39;t mutate cast in arguments when strict_types=1](https://github.com/infection/infection/pull/2154) on [infection/infection](https://github.com/infection/infection) (2 days ago)
-- [Don&#39;t mutate object-cast in return of object-typed function](https://github.com/infection/infection/pull/2152) on [infection/infection](https://github.com/infection/infection) (2 days ago)
-- [Don&#39;t mutate array-cast in return of array-typed function](https://github.com/infection/infection/pull/2151) on [infection/infection](https://github.com/infection/infection) (2 days ago)
-- [Don&#39;t mutate float-cast in return of float-typed function](https://github.com/infection/infection/pull/2150) on [infection/infection](https://github.com/infection/infection) (2 days ago)
-- [Don&#39;t mutate string-cast in return of string-typed function](https://github.com/infection/infection/pull/2149) on [infection/infection](https://github.com/infection/infection) (2 days ago)
-- [Don&#39;t mutate int-cast in return of int-typed function](https://github.com/infection/infection/pull/2148) on [infection/infection](https://github.com/infection/infection) (2 days ago)
-- [UselessCastRule: do cheaper check first](https://github.com/phpstan/phpstan-strict-rules/pull/274) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (2 days ago)
-- [Don&#39;t mutate cast in return of typed function](https://github.com/infection/infection/pull/2145) on [infection/infection](https://github.com/infection/infection) (3 days ago)
-- [Don&#39;t mutate true/false in conditions](https://github.com/infection/infection/pull/2143) on [infection/infection](https://github.com/infection/infection) (3 days ago)
+- [Drop use of PHPUnit internal API](https://github.com/infection/infection/pull/2167) on [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [Update PHPStan to 2.1.17](https://github.com/infection/infection/pull/2165) on [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [Implement perMutator timings](https://github.com/infection/infection/pull/2164) on [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [Readme: fix typo](https://github.com/pb30/phpstan-composer-analysis/pull/54) on [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (1 day ago)
+- [Implement AstKiller for PublicVisibility](https://github.com/infection/infection/pull/2163) on [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [Reduce method visibility in Container](https://github.com/infection/infection/pull/2155) on [infection/infection](https://github.com/infection/infection) (3 days ago)
+- [Don&#39;t mutate cast in arguments when strict_types=1](https://github.com/infection/infection/pull/2154) on [infection/infection](https://github.com/infection/infection) (3 days ago)
+- [Don&#39;t mutate object-cast in return of object-typed function](https://github.com/infection/infection/pull/2152) on [infection/infection](https://github.com/infection/infection) (3 days ago)
+- [Don&#39;t mutate array-cast in return of array-typed function](https://github.com/infection/infection/pull/2151) on [infection/infection](https://github.com/infection/infection) (3 days ago)
+- [Don&#39;t mutate float-cast in return of float-typed function](https://github.com/infection/infection/pull/2150) on [infection/infection](https://github.com/infection/infection) (3 days ago)
+- [Don&#39;t mutate string-cast in return of string-typed function](https://github.com/infection/infection/pull/2149) on [infection/infection](https://github.com/infection/infection) (3 days ago)
+- [Don&#39;t mutate int-cast in return of int-typed function](https://github.com/infection/infection/pull/2148) on [infection/infection](https://github.com/infection/infection) (3 days ago)
+- [UselessCastRule: do cheaper check first](https://github.com/phpstan/phpstan-strict-rules/pull/274) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (3 days ago)
+- [Don&#39;t mutate cast in return of typed function](https://github.com/infection/infection/pull/2145) on [infection/infection](https://github.com/infection/infection) (4 days ago)
+- [Don&#39;t mutate true/false in conditions](https://github.com/infection/infection/pull/2143) on [infection/infection](https://github.com/infection/infection) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.10.5](https://github.com/shopware/shopware/releases/tag/v6.6.10.5) (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.2.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.1) (3 days ago)
-- [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v1.0.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v1.0.0) (4 days ago)
-- [php/php-src](https://github.com/php/php-src) - [php-8.3.22](https://github.com/php/php-src/releases/tag/php-8.3.22) (4 days ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.10.5](https://github.com/shopware/shopware/releases/tag/v6.6.10.5) (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.2.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.1) (4 days ago)
+- [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v1.0.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v1.0.0) (5 days ago)
+- [php/php-src](https://github.com/php/php-src) - [php-8.3.22](https://github.com/php/php-src/releases/tag/php-8.3.22) (5 days ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.20.0](https://github.com/TypedDevs/bashunit/releases/tag/0.20.0) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.5.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.5.0) (1 week ago)
 - [symplify/coding-standard](https://github.com/symplify/coding-standard) - [12.4.3](https://github.com/symplify/coding-standard/releases/tag/12.4.3) (1 week ago)
