@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove leftover local variable in ClassReflectionPropertyHooksTest](https://github.com/phpstan/phpstan-src/pull/4060) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Run PHPUnit worker process with Xdebug protection against endless loops](https://github.com/infection/infection/pull/2180) on [infection/infection](https://github.com/infection/infection) (today)
 - [Added `per-mutator.md` to `.gitignore`](https://github.com/infection/infection/pull/2179) on [infection/infection](https://github.com/infection/infection) (today)
 - [kill mutants in MakeCustomMutatorCommandTest](https://github.com/infection/infection/pull/2177) on [infection/infection](https://github.com/infection/infection) (today)
@@ -54,7 +55,6 @@
 - [Don&#39;t mutate cast in arguments when strict_types=1](https://github.com/infection/infection/pull/2154) on [infection/infection](https://github.com/infection/infection) (3 days ago)
 - [Don&#39;t mutate object-cast in return of object-typed function](https://github.com/infection/infection/pull/2152) on [infection/infection](https://github.com/infection/infection) (3 days ago)
 - [Don&#39;t mutate array-cast in return of array-typed function](https://github.com/infection/infection/pull/2151) on [infection/infection](https://github.com/infection/infection) (3 days ago)
-- [Don&#39;t mutate float-cast in return of float-typed function](https://github.com/infection/infection/pull/2150) on [infection/infection](https://github.com/infection/infection) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
