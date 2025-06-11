@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Don&#39;t mutate instanceof into pre-existing case](https://github.com/infection/infection/pull/2176) on [infection/infection](https://github.com/infection/infection) (today)
 - [Render process-limit into perMutation logger table header](https://github.com/infection/infection/pull/2175) on [infection/infection](https://github.com/infection/infection) (today)
 - [Drop use of PHPUnit internal API](https://github.com/infection/infection/pull/2167) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [Update PHPStan to 2.1.17](https://github.com/infection/infection/pull/2165) on [infection/infection](https://github.com/infection/infection) (1 day ago)
@@ -54,7 +55,6 @@
 - [Don&#39;t mutate string-cast in return of string-typed function](https://github.com/infection/infection/pull/2149) on [infection/infection](https://github.com/infection/infection) (3 days ago)
 - [Don&#39;t mutate int-cast in return of int-typed function](https://github.com/infection/infection/pull/2148) on [infection/infection](https://github.com/infection/infection) (3 days ago)
 - [UselessCastRule: do cheaper check first](https://github.com/phpstan/phpstan-strict-rules/pull/274) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (3 days ago)
-- [Don&#39;t mutate cast in return of typed function](https://github.com/infection/infection/pull/2145) on [infection/infection](https://github.com/infection/infection) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
