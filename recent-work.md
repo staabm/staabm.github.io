@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [skerbis/redaxo-multi-instances](https://github.com/skerbis/redaxo-multi-instances) - [2.0.0](https://github.com/skerbis/redaxo-multi-instances/releases/tag/2.0.0) (today)
+- [skerbis/redaxo-multi-instances](https://github.com/skerbis/redaxo-multi-instances) - [3.0.0](https://github.com/skerbis/redaxo-multi-instances/releases/tag/3.0.0) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.2.2](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.2) (today)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.12.3](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.12.3) (2 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.10.5](https://github.com/shopware/shopware/releases/tag/v6.6.10.5) (3 days ago)
