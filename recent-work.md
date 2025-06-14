@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Don&#39;t run tests when wrong xdebug mode is set](https://github.com/sebastianbergmann/phpunit/pull/6237) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [ReflectionVisitorTest is more type safe](https://github.com/infection/infection/pull/2190) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [Remove leftover local variable in ClassReflectionPropertyHooksTest](https://github.com/phpstan/phpstan-src/pull/4060) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Run PHPUnit worker process with Xdebug protection against endless loops](https://github.com/infection/infection/pull/2180) on [infection/infection](https://github.com/infection/infection) (3 days ago)
@@ -54,7 +55,6 @@
 - [Implement AstKiller for PublicVisibility](https://github.com/infection/infection/pull/2163) on [infection/infection](https://github.com/infection/infection) (4 days ago)
 - [Reduce method visibility in Container](https://github.com/infection/infection/pull/2155) on [infection/infection](https://github.com/infection/infection) (6 days ago)
 - [Don&#39;t mutate cast in arguments when strict_types=1](https://github.com/infection/infection/pull/2154) on [infection/infection](https://github.com/infection/infection) (6 days ago)
-- [Don&#39;t mutate object-cast in return of object-typed function](https://github.com/infection/infection/pull/2152) on [infection/infection](https://github.com/infection/infection) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
