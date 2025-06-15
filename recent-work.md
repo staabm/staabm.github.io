@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [infection/infection](https://github.com/infection/infection) (2 days ago)
+- [infection/infection](https://github.com/infection/infection) (today)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (5 days ago)
 - [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (1 week ago)
 - [filp/whoops](https://github.com/filp/whoops) (1 week ago)
