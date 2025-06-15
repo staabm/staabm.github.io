@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Smarter `DecrementInteger` mutator](https://github.com/infection/infection/pull/2204) on [infection/infection](https://github.com/infection/infection) (today)
 - [DotFormatter: break legend into 2 lines](https://github.com/infection/infection/pull/2200) on [infection/infection](https://github.com/infection/infection) (today)
 - [Prevent overlap of ArrayItemRemoval with IfNegation](https://github.com/infection/infection/pull/2199) on [infection/infection](https://github.com/infection/infection) (today)
 - [Don&#39;t run tests when wrong xdebug mode is set](https://github.com/sebastianbergmann/phpunit/pull/6237) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
@@ -54,7 +55,6 @@
 - [Update PHPStan to 2.1.17](https://github.com/infection/infection/pull/2165) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 - [Implement perMutator timings](https://github.com/infection/infection/pull/2164) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 - [Readme: fix typo](https://github.com/pb30/phpstan-composer-analysis/pull/54) on [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (5 days ago)
-- [Implement AstKiller for PublicVisibility](https://github.com/infection/infection/pull/2163) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
