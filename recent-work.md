@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent overlap of ArrayItemRemoval with IfNegation](https://github.com/infection/infection/pull/2199) on [infection/infection](https://github.com/infection/infection) (today)
 - [Don&#39;t run tests when wrong xdebug mode is set](https://github.com/sebastianbergmann/phpunit/pull/6237) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [ReflectionVisitorTest is more type safe](https://github.com/infection/infection/pull/2190) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [Remove leftover local variable in ClassReflectionPropertyHooksTest](https://github.com/phpstan/phpstan-src/pull/4060) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -54,7 +55,6 @@
 - [Readme: fix typo](https://github.com/pb30/phpstan-composer-analysis/pull/54) on [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (5 days ago)
 - [Implement AstKiller for PublicVisibility](https://github.com/infection/infection/pull/2163) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 - [Reduce method visibility in Container](https://github.com/infection/infection/pull/2155) on [infection/infection](https://github.com/infection/infection) (1 week ago)
-- [Don&#39;t mutate cast in arguments when strict_types=1](https://github.com/infection/infection/pull/2154) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
