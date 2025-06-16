@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support `--show-mutations=int|max` to support non-bool values](https://github.com/infection/infection/pull/2216) on [infection/infection](https://github.com/infection/infection) (today)
 - [ResultsCollector returns list](https://github.com/infection/infection/pull/2215) on [infection/infection](https://github.com/infection/infection) (today)
 - [Try olvlvl/composer-attribute-collector](https://github.com/phpstan/phpstan-src/pull/4064) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [TestLocationBucketSorterTest: Use bigger epsilon delta](https://github.com/infection/infection/pull/2214) on [infection/infection](https://github.com/infection/infection) (today)
@@ -54,7 +55,6 @@
 - [Added `per-mutator.md` to `.gitignore`](https://github.com/infection/infection/pull/2179) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 - [kill mutants in MakeCustomMutatorCommandTest](https://github.com/infection/infection/pull/2177) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 - [Don&#39;t mutate instanceof into pre-existing case](https://github.com/infection/infection/pull/2176) on [infection/infection](https://github.com/infection/infection) (5 days ago)
-- [Render process-limit into perMutation logger table header](https://github.com/infection/infection/pull/2175) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
