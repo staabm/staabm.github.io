@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Smarter `IncrementInteger` mutator](https://github.com/infection/infection/pull/2208) on [infection/infection](https://github.com/infection/infection) (today)
 - [Smarter `DecrementInteger` mutator](https://github.com/infection/infection/pull/2204) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [DotFormatter: break legend into 2 lines](https://github.com/infection/infection/pull/2200) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [Prevent overlap of ArrayItemRemoval with IfNegation](https://github.com/infection/infection/pull/2199) on [infection/infection](https://github.com/infection/infection) (1 day ago)
@@ -54,7 +55,6 @@
 - [Drop use of PHPUnit internal API](https://github.com/infection/infection/pull/2167) on [infection/infection](https://github.com/infection/infection) (6 days ago)
 - [Update PHPStan to 2.1.17](https://github.com/infection/infection/pull/2165) on [infection/infection](https://github.com/infection/infection) (6 days ago)
 - [Implement perMutator timings](https://github.com/infection/infection/pull/2164) on [infection/infection](https://github.com/infection/infection) (6 days ago)
-- [Readme: fix typo](https://github.com/pb30/phpstan-composer-analysis/pull/54) on [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
