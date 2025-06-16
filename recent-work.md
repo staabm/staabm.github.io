@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Kill timed-out mutants in RunCommand](https://github.com/infection/infection/pull/2224) on [infection/infection](https://github.com/infection/infection) (today)
 - [Killed timed-out mutant in ExcludeDirsProvider](https://github.com/infection/infection/pull/2219) on [infection/infection](https://github.com/infection/infection) (today)
 - [Support `--show-mutations=int|max` to support non-bool values](https://github.com/infection/infection/pull/2216) on [infection/infection](https://github.com/infection/infection) (today)
 - [ResultsCollector returns list](https://github.com/infection/infection/pull/2215) on [infection/infection](https://github.com/infection/infection) (today)
@@ -54,7 +55,6 @@
 - [Remove leftover local variable in ClassReflectionPropertyHooksTest](https://github.com/phpstan/phpstan-src/pull/4060) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Run PHPUnit worker process with Xdebug protection against endless loops](https://github.com/infection/infection/pull/2180) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 - [Added `per-mutator.md` to `.gitignore`](https://github.com/infection/infection/pull/2179) on [infection/infection](https://github.com/infection/infection) (5 days ago)
-- [kill mutants in MakeCustomMutatorCommandTest](https://github.com/infection/infection/pull/2177) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
