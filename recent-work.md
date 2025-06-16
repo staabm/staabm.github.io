@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Try olvlvl/composer-attribute-collector](https://github.com/phpstan/phpstan-src/pull/4064) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [TestLocationBucketSorterTest: Use bigger epsilon delta](https://github.com/infection/infection/pull/2214) on [infection/infection](https://github.com/infection/infection) (today)
 - [Smarter `IncrementInteger` mutator](https://github.com/infection/infection/pull/2208) on [infection/infection](https://github.com/infection/infection) (today)
 - [Smarter `DecrementInteger` mutator](https://github.com/infection/infection/pull/2204) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [DotFormatter: break legend into 2 lines](https://github.com/infection/infection/pull/2200) on [infection/infection](https://github.com/infection/infection) (1 day ago)
@@ -53,8 +55,6 @@
 - [Don&#39;t mutate instanceof into pre-existing case](https://github.com/infection/infection/pull/2176) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 - [Render process-limit into perMutation logger table header](https://github.com/infection/infection/pull/2175) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 - [Drop use of PHPUnit internal API](https://github.com/infection/infection/pull/2167) on [infection/infection](https://github.com/infection/infection) (6 days ago)
-- [Update PHPStan to 2.1.17](https://github.com/infection/infection/pull/2165) on [infection/infection](https://github.com/infection/infection) (6 days ago)
-- [Implement perMutator timings](https://github.com/infection/infection/pull/2164) on [infection/infection](https://github.com/infection/infection) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
