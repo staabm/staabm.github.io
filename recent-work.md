@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ExplicitReturnNullRector: skip on goto](https://github.com/rectorphp/rector-src/pull/6988) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Re-implement ContainerTest as a PHPStan rule](https://github.com/infection/infection/pull/2225) on [infection/infection](https://github.com/infection/infection) (today)
 - [Kill timed-out mutants in RunCommand](https://github.com/infection/infection/pull/2224) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [Killed timed-out mutant in ExcludeDirsProvider](https://github.com/infection/infection/pull/2219) on [infection/infection](https://github.com/infection/infection) (1 day ago)
@@ -54,7 +55,6 @@
 - [Don&#39;t run tests when wrong xdebug mode is set](https://github.com/sebastianbergmann/phpunit/pull/6237) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [ReflectionVisitorTest is more type safe](https://github.com/infection/infection/pull/2190) on [infection/infection](https://github.com/infection/infection) (4 days ago)
 - [Remove leftover local variable in ClassReflectionPropertyHooksTest](https://github.com/phpstan/phpstan-src/pull/4060) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Run PHPUnit worker process with Xdebug protection against endless loops](https://github.com/infection/infection/pull/2180) on [infection/infection](https://github.com/infection/infection) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
