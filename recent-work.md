@@ -12,7 +12,7 @@
 - [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) (2 weeks ago)
 - [skerbis/redaxo-multi-instances](https://github.com/skerbis/redaxo-multi-instances) (3 weeks ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 weeks ago)
-- [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) (3 weeks ago)
+- [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) - [v2.1.0](https://github.com/olvlvl/composer-attribute-collector/releases/tag/v2.1.0) (today)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0](https://github.com/shopware/shopware/releases/tag/v6.7.0.0) (today)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.1.0](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.0) (today)
 - [skerbis/redaxo-multi-instances](https://github.com/skerbis/redaxo-multi-instances) - [3.0.0](https://github.com/skerbis/redaxo-multi-instances/releases/tag/3.0.0) (4 days ago)
@@ -68,4 +69,3 @@
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.22](https://github.com/php/php-src/releases/tag/php-8.3.22) (1 week ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.20.0](https://github.com/TypedDevs/bashunit/releases/tag/0.20.0) (2 weeks ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.5.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.5.0) (2 weeks ago)
-- [symplify/coding-standard](https://github.com/symplify/coding-standard) - [12.4.3](https://github.com/symplify/coding-standard/releases/tag/12.4.3) (2 weeks ago)
