@@ -5,6 +5,7 @@
 
 - [infection/infection](https://github.com/infection/infection) (today)
 - [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) (today)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (1 week ago)
 - [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (1 week ago)
 - [filp/whoops](https://github.com/filp/whoops) (2 weeks ago)
@@ -12,7 +13,6 @@
 - [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) (2 weeks ago)
 - [skerbis/redaxo-multi-instances](https://github.com/skerbis/redaxo-multi-instances) (3 weeks ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 weeks ago)
-- [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
