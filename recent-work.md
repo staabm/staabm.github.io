@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Re-implement ContainerTest as a PHPStan rule](https://github.com/infection/infection/pull/2225) on [infection/infection](https://github.com/infection/infection) (today)
 - [Kill timed-out mutants in RunCommand](https://github.com/infection/infection/pull/2224) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [Killed timed-out mutant in ExcludeDirsProvider](https://github.com/infection/infection/pull/2219) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [Support `--show-mutations=int|max` to support non-bool values](https://github.com/infection/infection/pull/2216) on [infection/infection](https://github.com/infection/infection) (1 day ago)
@@ -54,11 +55,11 @@
 - [ReflectionVisitorTest is more type safe](https://github.com/infection/infection/pull/2190) on [infection/infection](https://github.com/infection/infection) (4 days ago)
 - [Remove leftover local variable in ClassReflectionPropertyHooksTest](https://github.com/phpstan/phpstan-src/pull/4060) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Run PHPUnit worker process with Xdebug protection against endless loops](https://github.com/infection/infection/pull/2180) on [infection/infection](https://github.com/infection/infection) (6 days ago)
-- [Added `per-mutator.md` to `.gitignore`](https://github.com/infection/infection/pull/2179) on [infection/infection](https://github.com/infection/infection) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.4](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.4) (today)
 - [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) - [v2.1.0](https://github.com/olvlvl/composer-attribute-collector/releases/tag/v2.1.0) (today)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0](https://github.com/shopware/shopware/releases/tag/v6.7.0.0) (today)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.1.0](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.0) (today)
@@ -68,4 +69,3 @@
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v1.0.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v1.0.0) (1 week ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.22](https://github.com/php/php-src/releases/tag/php-8.3.22) (1 week ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.20.0](https://github.com/TypedDevs/bashunit/releases/tag/0.20.0) (2 weeks ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.5.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.5.0) (2 weeks ago)
