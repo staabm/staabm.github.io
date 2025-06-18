@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.30.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.30.0) (today)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.21.0](https://github.com/TypedDevs/bashunit/releases/tag/0.21.0) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [11.0.10](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.10) (today)
 - [skerbis/redaxo-multi-instances](https://github.com/skerbis/redaxo-multi-instances) - [4.0.0](https://github.com/skerbis/redaxo-multi-instances/releases/tag/4.0.0) (today)
-- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.29.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.29.0) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.4](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.4) (1 day ago)
 - [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) - [v2.1.0](https://github.com/olvlvl/composer-attribute-collector/releases/tag/v2.1.0) (1 day ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0](https://github.com/shopware/shopware/releases/tag/v6.7.0.0) (1 day ago)
