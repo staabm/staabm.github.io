@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [update vimeo/psalm, infection/infection](https://github.com/CuyZ/Valinor/pull/652) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (today)
 - [Cleanup ReflectionResolver](https://github.com/rectorphp/rector-src/pull/6998) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [ExplicitReturnNullRector: skip on goto](https://github.com/rectorphp/rector-src/pull/6988) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [Re-implement ContainerTest as a PHPStan rule](https://github.com/infection/infection/pull/2225) on [infection/infection](https://github.com/infection/infection) (1 day ago)
@@ -54,7 +55,6 @@
 - [DotFormatter: break legend into 2 lines](https://github.com/infection/infection/pull/2200) on [infection/infection](https://github.com/infection/infection) (3 days ago)
 - [Prevent overlap of ArrayItemRemoval with IfNegation](https://github.com/infection/infection/pull/2199) on [infection/infection](https://github.com/infection/infection) (3 days ago)
 - [Don&#39;t run tests when wrong xdebug mode is set](https://github.com/sebastianbergmann/phpunit/pull/6237) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
-- [ReflectionVisitorTest is more type safe](https://github.com/infection/infection/pull/2190) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
