@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [11.0.10](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.10) (today)
+- [skerbis/redaxo-multi-instances](https://github.com/skerbis/redaxo-multi-instances) - [4.0.0](https://github.com/skerbis/redaxo-multi-instances/releases/tag/4.0.0) (today)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.29.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.29.0) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.4](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.4) (1 day ago)
 - [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) - [v2.1.0](https://github.com/olvlvl/composer-attribute-collector/releases/tag/v2.1.0) (1 day ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0](https://github.com/shopware/shopware/releases/tag/v6.7.0.0) (1 day ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.1.0](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.0) (1 day ago)
-- [skerbis/redaxo-multi-instances](https://github.com/skerbis/redaxo-multi-instances) - [3.0.0](https://github.com/skerbis/redaxo-multi-instances/releases/tag/3.0.0) (5 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.2.2](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.2) (5 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.12.3](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.12.3) (1 week ago)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v1.0.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v1.0.0) (1 week ago)
-- [php/php-src](https://github.com/php/php-src) - [php-8.3.22](https://github.com/php/php-src/releases/tag/php-8.3.22) (1 week ago)
