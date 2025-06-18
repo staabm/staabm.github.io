@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.21.0](https://github.com/TypedDevs/bashunit/releases/tag/0.21.0) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [11.0.10](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.10) (today)
 - [skerbis/redaxo-multi-instances](https://github.com/skerbis/redaxo-multi-instances) - [4.0.0](https://github.com/skerbis/redaxo-multi-instances/releases/tag/4.0.0) (today)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.29.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.29.0) (today)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.1.0](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.0) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.2.2](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.2) (5 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.12.3](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.12.3) (1 week ago)
-- [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v1.0.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v1.0.0) (1 week ago)
