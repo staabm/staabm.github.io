@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify ValueNode implementation](https://github.com/CuyZ/Valinor/pull/653) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (today)
 - [Prevent endless loop in Decrement/Increment-mutator](https://github.com/infection/infection/pull/2231) on [infection/infection](https://github.com/infection/infection) (today)
 - [update vimeo/psalm, infection/infection](https://github.com/CuyZ/Valinor/pull/652) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (1 day ago)
 - [Cleanup ReflectionResolver](https://github.com/rectorphp/rector-src/pull/6998) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Smarter `IncrementInteger` mutator](https://github.com/infection/infection/pull/2208) on [infection/infection](https://github.com/infection/infection) (3 days ago)
 - [Smarter `DecrementInteger` mutator](https://github.com/infection/infection/pull/2204) on [infection/infection](https://github.com/infection/infection) (4 days ago)
 - [DotFormatter: break legend into 2 lines](https://github.com/infection/infection/pull/2200) on [infection/infection](https://github.com/infection/infection) (4 days ago)
-- [Prevent overlap of ArrayItemRemoval with IfNegation](https://github.com/infection/infection/pull/2199) on [infection/infection](https://github.com/infection/infection) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
