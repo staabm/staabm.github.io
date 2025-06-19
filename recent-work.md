@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent endless loop in Decrement/Increment-mutator](https://github.com/infection/infection/pull/2231) on [infection/infection](https://github.com/infection/infection) (today)
 - [update vimeo/psalm, infection/infection](https://github.com/CuyZ/Valinor/pull/652) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (1 day ago)
 - [Cleanup ReflectionResolver](https://github.com/rectorphp/rector-src/pull/6998) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [ExplicitReturnNullRector: skip on goto](https://github.com/rectorphp/rector-src/pull/6988) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Smarter `DecrementInteger` mutator](https://github.com/infection/infection/pull/2204) on [infection/infection](https://github.com/infection/infection) (4 days ago)
 - [DotFormatter: break legend into 2 lines](https://github.com/infection/infection/pull/2200) on [infection/infection](https://github.com/infection/infection) (4 days ago)
 - [Prevent overlap of ArrayItemRemoval with IfNegation](https://github.com/infection/infection/pull/2199) on [infection/infection](https://github.com/infection/infection) (4 days ago)
-- [Don&#39;t run tests when wrong xdebug mode is set](https://github.com/sebastianbergmann/phpunit/pull/6237) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
