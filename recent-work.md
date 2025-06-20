@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [infection/site](https://github.com/infection/site) (today)
 - [infection/infection](https://github.com/infection/infection) (today)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (1 day ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
@@ -12,7 +13,6 @@
 - [filp/whoops](https://github.com/filp/whoops) (2 weeks ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) (3 weeks ago)
-- [skerbis/redaxo-multi-instances](https://github.com/skerbis/redaxo-multi-instances) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [infection 0.29.10&#43; requires PHP 8.2&#43;](https://github.com/infection/site/pull/273) on [infection/site](https://github.com/infection/site) (today)
 - [Smarter `DecrementInteger` mutator](https://github.com/infection/infection/pull/2238) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [ArrayItemRemoval: Do not remove item from array assignment as it produces PHP warning](https://github.com/infection/infection/pull/2236) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [Simplify ValueNode implementation](https://github.com/CuyZ/Valinor/pull/653) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (1 day ago)
@@ -54,11 +55,11 @@
 - [ResultsCollector returns list](https://github.com/infection/infection/pull/2215) on [infection/infection](https://github.com/infection/infection) (4 days ago)
 - [Try olvlvl/composer-attribute-collector](https://github.com/phpstan/phpstan-src/pull/4064) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [TestLocationBucketSorterTest: Use bigger epsilon delta](https://github.com/infection/infection/pull/2214) on [infection/infection](https://github.com/infection/infection) (4 days ago)
-- [Smarter `IncrementInteger` mutator](https://github.com/infection/infection/pull/2208) on [infection/infection](https://github.com/infection/infection) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.2.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.3) (today)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [1.17.0](https://github.com/CuyZ/Valinor/releases/tag/1.17.0) (today)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.30.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.30.0) (2 days ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - [0.21.0](https://github.com/TypedDevs/bashunit/releases/tag/0.21.0) (2 days ago)
@@ -68,4 +69,3 @@
 - [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) - [v2.1.0](https://github.com/olvlvl/composer-attribute-collector/releases/tag/v2.1.0) (3 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0](https://github.com/shopware/shopware/releases/tag/v6.7.0.0) (3 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.1.0](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.0) (3 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.2.2](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.2) (1 week ago)
