@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [infection/infection](https://github.com/infection/infection) (today)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (1 day ago)
-- [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) (3 days ago)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (1 week ago)
