@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Cleanup MemoizedCiDetector, NullCiDetector](https://github.com/infection/infection/pull/2242) on [infection/infection](https://github.com/infection/infection) (today)
 - [Smarter LogicalAndAllSubExprNegation with `instanceof`](https://github.com/infection/infection/pull/2241) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [infection 0.29.10&#43; requires PHP 8.2&#43;](https://github.com/infection/site/pull/273) on [infection/site](https://github.com/infection/site) (1 day ago)
 - [Smarter `DecrementInteger` mutator](https://github.com/infection/infection/pull/2238) on [infection/infection](https://github.com/infection/infection) (2 days ago)
@@ -54,7 +55,6 @@
 - [Killed timed-out mutant in ExcludeDirsProvider](https://github.com/infection/infection/pull/2219) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 - [Support `--show-mutations=int|max` to support non-bool values](https://github.com/infection/infection/pull/2216) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 - [ResultsCollector returns list](https://github.com/infection/infection/pull/2215) on [infection/infection](https://github.com/infection/infection) (5 days ago)
-- [Try olvlvl/composer-attribute-collector](https://github.com/phpstan/phpstan-src/pull/4064) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
