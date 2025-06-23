@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [E_USER_ERROR is deprecated in PHP 8.4](https://github.com/JetBrains/phpstorm-stubs/pull/1754) on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (today)
+- [Fix &#34;Option &#39;indent&#39; must either be all spaces or a single tab&#34;](https://github.com/ondrejmirtes/simple-downgrader/pull/9) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
 - [Fix &#34;Option &#39;indent&#39; must either be all spaces or a single tab&#34;](https://github.com/phpstan/phpstan-src/pull/4070) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Cleanup MemoizedCiDetector, NullCiDetector](https://github.com/infection/infection/pull/2242) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [Smarter LogicalAndAllSubExprNegation with `instanceof`](https://github.com/infection/infection/pull/2241) on [infection/infection](https://github.com/infection/infection) (3 days ago)
@@ -53,8 +55,6 @@
 - [ExplicitReturnNullRector: skip on goto](https://github.com/rectorphp/rector-src/pull/6988) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
 - [Re-implement ContainerTest as a PHPStan rule](https://github.com/infection/infection/pull/2225) on [infection/infection](https://github.com/infection/infection) (6 days ago)
 - [Kill timed-out mutants in RunCommand](https://github.com/infection/infection/pull/2224) on [infection/infection](https://github.com/infection/infection) (1 week ago)
-- [Killed timed-out mutant in ExcludeDirsProvider](https://github.com/infection/infection/pull/2219) on [infection/infection](https://github.com/infection/infection) (1 week ago)
-- [Support `--show-mutations=int|max` to support non-bool values](https://github.com/infection/infection/pull/2216) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
