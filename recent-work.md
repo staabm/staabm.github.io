@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix wrong ReflectionClass in NameResolverTest](https://github.com/infection/infection/pull/2250) on [infection/infection](https://github.com/infection/infection) (today)
 - [Drop use of inline-`@var`. Use Webmozart\Assert\Assert instead](https://github.com/infection/infection/pull/2249) on [infection/infection](https://github.com/infection/infection) (today)
 - [PHP-CS-Fixer: enable class_attributes_separation](https://github.com/infection/infection/pull/2245) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [github-actions: declare timeout for job execution](https://github.com/infection/infection/pull/2244) on [infection/infection](https://github.com/infection/infection) (1 day ago)
@@ -54,7 +55,6 @@
 - [ArrayItemRemoval: Do not remove item from array assignment as it produces PHP warning](https://github.com/infection/infection/pull/2236) on [infection/infection](https://github.com/infection/infection) (6 days ago)
 - [Simplify ValueNode implementation](https://github.com/CuyZ/Valinor/pull/653) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (6 days ago)
 - [Prevent endless loop in Decrement/Increment-mutator](https://github.com/infection/infection/pull/2231) on [infection/infection](https://github.com/infection/infection) (6 days ago)
-- [update vimeo/psalm, infection/infection](https://github.com/CuyZ/Valinor/pull/652) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
