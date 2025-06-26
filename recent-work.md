@@ -41,7 +41,7 @@
 #### 🔨 My recent Pull Requests
 
 - [Fix wrong ReflectionClass in NameResolverTest](https://github.com/infection/infection/pull/2250) on [infection/infection](https://github.com/infection/infection) (1 day ago)
-- [Drop use of inline-`@var`. Use Webmozart\Assert\Assert instead](https://github.com/infection/infection/pull/2249) on [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [Use assertions instead of @var annotations](https://github.com/infection/infection/pull/2249) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [PHP-CS-Fixer: enable class_attributes_separation](https://github.com/infection/infection/pull/2245) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [github-actions: declare timeout for job execution](https://github.com/infection/infection/pull/2244) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [Smarter `LogicalOr` Mutator](https://github.com/infection/infection/pull/2243) on [infection/infection](https://github.com/infection/infection) (3 days ago)
