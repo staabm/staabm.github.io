@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.12.4](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.12.4) (today)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.30.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.30.1) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.2.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.3) (6 days ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [1.17.0](https://github.com/CuyZ/Valinor/releases/tag/1.17.0) (6 days ago)
@@ -68,4 +69,3 @@
 - [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) - [v2.1.0](https://github.com/olvlvl/composer-attribute-collector/releases/tag/v2.1.0) (1 week ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0](https://github.com/shopware/shopware/releases/tag/v6.7.0.0) (1 week ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.1.0](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.0) (1 week ago)
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.12.3](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.12.3) (2 weeks ago)
