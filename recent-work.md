@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstorm-bug-unreachable-statement](https://github.com/staabm/phpstorm-bug-unreachable-statement) (today)
 - [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [infection/site](https://github.com/infection/site) (6 days ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (1 week ago)
@@ -12,7 +13,6 @@
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (2 weeks ago)
 - [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (2 weeks ago)
 - [filp/whoops](https://github.com/filp/whoops) (3 weeks ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.2.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.4) (today)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.12.4](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.12.4) (today)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.30.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.30.1) (3 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.2.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.3) (6 days ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [1.17.0](https://github.com/CuyZ/Valinor/releases/tag/1.17.0) (6 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [11.0.10](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.10) (1 week ago)
 - [skerbis/redaxo-multi-instances](https://github.com/skerbis/redaxo-multi-instances) - [4.0.0](https://github.com/skerbis/redaxo-multi-instances/releases/tag/4.0.0) (1 week ago)
