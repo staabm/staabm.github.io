@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [infection/infection](https://github.com/infection/infection) (today)
-- [infection/site](https://github.com/infection/site) (5 days ago)
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (6 days ago)
+- [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [infection/site](https://github.com/infection/site) (6 days ago)
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
@@ -20,7 +20,7 @@
 - [PHPStan remembered types from constructor](https://staabm.github.io/2025/04/15/phpstan-remember-constructor-types.html) (2 months ago)
 - [Thank You](https://staabm.github.io/2025/01/24/thank-you.html) (5 months ago)
 - [Contribution Summary 2024](https://staabm.github.io/2024/12/11/contribution-summary-2024.html) (6 months ago)
-- [My new PHPStan focus: multi-phpversion support](https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html) (6 months ago)
+- [My new PHPStan focus: multi-phpversion support](https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html) (7 months ago)
 - [A mixed type PHPStan journey](https://staabm.github.io/2024/11/26/phpstan-mixed-types.html) (7 months ago)
 
 
@@ -40,28 +40,28 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix wrong ReflectionClass in NameResolverTest](https://github.com/infection/infection/pull/2250) on [infection/infection](https://github.com/infection/infection) (today)
-- [Drop use of inline-`@var`. Use Webmozart\Assert\Assert instead](https://github.com/infection/infection/pull/2249) on [infection/infection](https://github.com/infection/infection) (today)
-- [PHP-CS-Fixer: enable class_attributes_separation](https://github.com/infection/infection/pull/2245) on [infection/infection](https://github.com/infection/infection) (1 day ago)
-- [github-actions: declare timeout for job execution](https://github.com/infection/infection/pull/2244) on [infection/infection](https://github.com/infection/infection) (1 day ago)
-- [Smarter `LogicalOr` Mutator](https://github.com/infection/infection/pull/2243) on [infection/infection](https://github.com/infection/infection) (2 days ago)
-- [E_USER_ERROR is deprecated in PHP 8.4](https://github.com/JetBrains/phpstorm-stubs/pull/1754) on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (2 days ago)
-- [Fix &#34;Option &#39;indent&#39; must either be all spaces or a single tab&#34;](https://github.com/ondrejmirtes/simple-downgrader/pull/9) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (2 days ago)
-- [Fix &#34;Option &#39;indent&#39; must either be all spaces or a single tab&#34;](https://github.com/phpstan/phpstan-src/pull/4070) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Cleanup MemoizedCiDetector, NullCiDetector](https://github.com/infection/infection/pull/2242) on [infection/infection](https://github.com/infection/infection) (4 days ago)
-- [Smarter LogicalAndAllSubExprNegation with `instanceof`](https://github.com/infection/infection/pull/2241) on [infection/infection](https://github.com/infection/infection) (5 days ago)
-- [infection 0.29.10&#43; requires PHP 8.2&#43;](https://github.com/infection/site/pull/273) on [infection/site](https://github.com/infection/site) (5 days ago)
-- [Smarter `DecrementInteger` mutator](https://github.com/infection/infection/pull/2238) on [infection/infection](https://github.com/infection/infection) (6 days ago)
-- [ArrayItemRemoval: Do not remove item from array assignment as it produces PHP warning](https://github.com/infection/infection/pull/2236) on [infection/infection](https://github.com/infection/infection) (6 days ago)
-- [Simplify ValueNode implementation](https://github.com/CuyZ/Valinor/pull/653) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (6 days ago)
-- [Prevent endless loop in Decrement/Increment-mutator](https://github.com/infection/infection/pull/2231) on [infection/infection](https://github.com/infection/infection) (6 days ago)
+- [Fix wrong ReflectionClass in NameResolverTest](https://github.com/infection/infection/pull/2250) on [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [Drop use of inline-`@var`. Use Webmozart\Assert\Assert instead](https://github.com/infection/infection/pull/2249) on [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [PHP-CS-Fixer: enable class_attributes_separation](https://github.com/infection/infection/pull/2245) on [infection/infection](https://github.com/infection/infection) (2 days ago)
+- [github-actions: declare timeout for job execution](https://github.com/infection/infection/pull/2244) on [infection/infection](https://github.com/infection/infection) (2 days ago)
+- [Smarter `LogicalOr` Mutator](https://github.com/infection/infection/pull/2243) on [infection/infection](https://github.com/infection/infection) (3 days ago)
+- [E_USER_ERROR is deprecated in PHP 8.4](https://github.com/JetBrains/phpstorm-stubs/pull/1754) on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (3 days ago)
+- [Fix &#34;Option &#39;indent&#39; must either be all spaces or a single tab&#34;](https://github.com/ondrejmirtes/simple-downgrader/pull/9) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (3 days ago)
+- [Fix &#34;Option &#39;indent&#39; must either be all spaces or a single tab&#34;](https://github.com/phpstan/phpstan-src/pull/4070) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Cleanup MemoizedCiDetector, NullCiDetector](https://github.com/infection/infection/pull/2242) on [infection/infection](https://github.com/infection/infection) (5 days ago)
+- [Smarter LogicalAndAllSubExprNegation with `instanceof`](https://github.com/infection/infection/pull/2241) on [infection/infection](https://github.com/infection/infection) (6 days ago)
+- [infection 0.29.10&#43; requires PHP 8.2&#43;](https://github.com/infection/site/pull/273) on [infection/site](https://github.com/infection/site) (6 days ago)
+- [Smarter `DecrementInteger` mutator](https://github.com/infection/infection/pull/2238) on [infection/infection](https://github.com/infection/infection) (1 week ago)
+- [ArrayItemRemoval: Do not remove item from array assignment as it produces PHP warning](https://github.com/infection/infection/pull/2236) on [infection/infection](https://github.com/infection/infection) (1 week ago)
+- [Simplify ValueNode implementation](https://github.com/CuyZ/Valinor/pull/653) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (1 week ago)
+- [Prevent endless loop in Decrement/Increment-mutator](https://github.com/infection/infection/pull/2231) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.30.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.30.1) (2 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.2.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.3) (5 days ago)
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [1.17.0](https://github.com/CuyZ/Valinor/releases/tag/1.17.0) (5 days ago)
+- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.30.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.30.1) (3 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.2.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.3) (6 days ago)
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [1.17.0](https://github.com/CuyZ/Valinor/releases/tag/1.17.0) (6 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [11.0.10](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.10) (1 week ago)
 - [skerbis/redaxo-multi-instances](https://github.com/skerbis/redaxo-multi-instances) - [4.0.0](https://github.com/skerbis/redaxo-multi-instances/releases/tag/4.0.0) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.4](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.4) (1 week ago)
