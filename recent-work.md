@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.0.0](https://github.com/CuyZ/Valinor/releases/tag/2.0.0) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.2.5](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.5) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.3](https://github.com/staabm/phpstan-todo-by/releases/tag/0.3) (1 day ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.12.4](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.12.4) (1 day ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.30.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.30.1) (4 days ago)
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [1.17.0](https://github.com/CuyZ/Valinor/releases/tag/1.17.0) (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [11.0.10](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.10) (1 week ago)
 - [skerbis/redaxo-multi-instances](https://github.com/skerbis/redaxo-multi-instances) - [4.0.0](https://github.com/skerbis/redaxo-multi-instances/releases/tag/4.0.0) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.4](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.4) (1 week ago)
