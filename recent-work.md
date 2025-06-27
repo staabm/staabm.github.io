@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use fully-qualified-constant-reference instead of a dynamic lookup](https://github.com/infection/infection/pull/2258) on [infection/infection](https://github.com/infection/infection) (today)
+- [POC: Stream TestRunner output instead of custom progress bar](https://github.com/infection/infection/pull/2257) on [infection/infection](https://github.com/infection/infection) (today)
 - [UX: More verbose &#34;Running initial test suite&#34; in CI](https://github.com/infection/infection/pull/2255) on [infection/infection](https://github.com/infection/infection) (today)
 - [Playground: Implement PhpdocCommentRule](https://github.com/phpstan/phpstan-src/pull/4074) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix wrong ReflectionClass in NameResolverTest](https://github.com/infection/infection/pull/2250) on [infection/infection](https://github.com/infection/infection) (2 days ago)
@@ -53,8 +55,6 @@
 - [Cleanup MemoizedCiDetector, NullCiDetector](https://github.com/infection/infection/pull/2242) on [infection/infection](https://github.com/infection/infection) (6 days ago)
 - [Smarter LogicalAndAllSubExprNegation with `instanceof`](https://github.com/infection/infection/pull/2241) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 - [infection 0.29.10&#43; requires PHP 8.2&#43;](https://github.com/infection/site/pull/273) on [infection/site](https://github.com/infection/site) (1 week ago)
-- [Smarter `DecrementInteger` mutator](https://github.com/infection/infection/pull/2238) on [infection/infection](https://github.com/infection/infection) (1 week ago)
-- [ArrayItemRemoval: Do not remove item from array assignment as it produces PHP warning](https://github.com/infection/infection/pull/2236) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
