@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [UX: More verbose &#34;Running initial test suite&#34; in CI](https://github.com/infection/infection/pull/2255) on [infection/infection](https://github.com/infection/infection) (today)
 - [Playground: Implement PhpdocCommentRule](https://github.com/phpstan/phpstan-src/pull/4074) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix wrong ReflectionClass in NameResolverTest](https://github.com/infection/infection/pull/2250) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [Use assertions instead of @var annotations](https://github.com/infection/infection/pull/2249) on [infection/infection](https://github.com/infection/infection) (2 days ago)
@@ -54,7 +55,6 @@
 - [infection 0.29.10&#43; requires PHP 8.2&#43;](https://github.com/infection/site/pull/273) on [infection/site](https://github.com/infection/site) (1 week ago)
 - [Smarter `DecrementInteger` mutator](https://github.com/infection/infection/pull/2238) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 - [ArrayItemRemoval: Do not remove item from array assignment as it produces PHP warning](https://github.com/infection/infection/pull/2236) on [infection/infection](https://github.com/infection/infection) (1 week ago)
-- [Simplify ValueNode implementation](https://github.com/CuyZ/Valinor/pull/653) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
