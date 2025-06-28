@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improve LogicalOrTest / drop mutator ignores](https://github.com/infection/infection/pull/2266) on [infection/infection](https://github.com/infection/infection) (today)
 - [cleanup check_trailing_whitespaces.sh](https://github.com/infection/infection/pull/2265) on [infection/infection](https://github.com/infection/infection) (today)
 - [Smarter `Throw_` mutator](https://github.com/infection/infection/pull/2263) on [infection/infection](https://github.com/infection/infection) (today)
 - [Kill mutations in LogicalOr mutator](https://github.com/infection/infection/pull/2262) on [infection/infection](https://github.com/infection/infection) (today)
@@ -54,7 +55,6 @@
 - [github-actions: declare timeout for job execution](https://github.com/infection/infection/pull/2244) on [infection/infection](https://github.com/infection/infection) (4 days ago)
 - [Smarter `LogicalOr` Mutator](https://github.com/infection/infection/pull/2243) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 - [E_USER_ERROR is deprecated in PHP 8.4](https://github.com/JetBrains/phpstorm-stubs/pull/1754) on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (5 days ago)
-- [Fix &#34;Option &#39;indent&#39; must either be all spaces or a single tab&#34;](https://github.com/ondrejmirtes/simple-downgrader/pull/9) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
