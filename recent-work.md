@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Kill mutations in LogicalOr mutator](https://github.com/infection/infection/pull/2262) on [infection/infection](https://github.com/infection/infection) (today)
 - [Simplify LogicalOr mutator](https://github.com/infection/infection/pull/2260) on [infection/infection](https://github.com/infection/infection) (today)
 - [Use fully-qualified-constant-reference instead of a dynamic lookup](https://github.com/infection/infection/pull/2258) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [POC: Stream TestRunner output instead of custom progress bar](https://github.com/infection/infection/pull/2257) on [infection/infection](https://github.com/infection/infection) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix &#34;Option &#39;indent&#39; must either be all spaces or a single tab&#34;](https://github.com/ondrejmirtes/simple-downgrader/pull/9) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (5 days ago)
 - [Fix &#34;Option &#39;indent&#39; must either be all spaces or a single tab&#34;](https://github.com/phpstan/phpstan-src/pull/4070) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Cleanup MemoizedCiDetector, NullCiDetector](https://github.com/infection/infection/pull/2242) on [infection/infection](https://github.com/infection/infection) (1 week ago)
-- [Smarter LogicalAndAllSubExprNegation with `instanceof`](https://github.com/infection/infection/pull/2241) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
