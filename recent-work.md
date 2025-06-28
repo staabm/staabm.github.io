@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [infection/infection](https://github.com/infection/infection) (today)
 - [staabm/phpstorm-bug-unreachable-statement](https://github.com/staabm/phpstorm-bug-unreachable-statement) (2 days ago)
-- [infection/infection](https://github.com/infection/infection) (3 days ago)
 - [infection/site](https://github.com/infection/site) (1 week ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Smarter Throw_ mutator](https://github.com/infection/infection/pull/2263) on [infection/infection](https://github.com/infection/infection) (today)
 - [Kill mutations in LogicalOr mutator](https://github.com/infection/infection/pull/2262) on [infection/infection](https://github.com/infection/infection) (today)
 - [Simplify LogicalOr mutator](https://github.com/infection/infection/pull/2260) on [infection/infection](https://github.com/infection/infection) (today)
 - [Use fully-qualified-constant-reference instead of a dynamic lookup](https://github.com/infection/infection/pull/2258) on [infection/infection](https://github.com/infection/infection) (1 day ago)
@@ -54,11 +55,11 @@
 - [E_USER_ERROR is deprecated in PHP 8.4](https://github.com/JetBrains/phpstorm-stubs/pull/1754) on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (5 days ago)
 - [Fix &#34;Option &#39;indent&#39; must either be all spaces or a single tab&#34;](https://github.com/ondrejmirtes/simple-downgrader/pull/9) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (5 days ago)
 - [Fix &#34;Option &#39;indent&#39; must either be all spaces or a single tab&#34;](https://github.com/phpstan/phpstan-src/pull/4070) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Cleanup MemoizedCiDetector, NullCiDetector](https://github.com/infection/infection/pull/2242) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.1](https://github.com/symfony/symfony/releases/tag/v7.3.1) (today)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.0.0](https://github.com/CuyZ/Valinor/releases/tag/2.0.0) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.2.5](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.5) (1 day ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.3](https://github.com/staabm/phpstan-todo-by/releases/tag/0.3) (2 days ago)
@@ -68,4 +69,3 @@
 - [skerbis/redaxo-multi-instances](https://github.com/skerbis/redaxo-multi-instances) - [4.0.0](https://github.com/skerbis/redaxo-multi-instances/releases/tag/4.0.0) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.4](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.4) (1 week ago)
 - [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) - [v2.1.0](https://github.com/olvlvl/composer-attribute-collector/releases/tag/v2.1.0) (1 week ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.0](https://github.com/shopware/shopware/releases/tag/v6.7.0.0) (1 week ago)
