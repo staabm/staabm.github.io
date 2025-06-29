@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use/Suggest `executionOrder=&#34;defects,random&#34;` for phpunit.xml](https://github.com/infection/infection/pull/2267) on [infection/infection](https://github.com/infection/infection) (today)
 - [Improve LogicalOrTest / drop mutator ignores](https://github.com/infection/infection/pull/2266) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [cleanup check_trailing_whitespaces.sh](https://github.com/infection/infection/pull/2265) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [Smarter `Throw_` mutator](https://github.com/infection/infection/pull/2263) on [infection/infection](https://github.com/infection/infection) (1 day ago)
@@ -54,7 +55,6 @@
 - [PHP-CS-Fixer: enable class_attributes_separation](https://github.com/infection/infection/pull/2245) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 - [github-actions: declare timeout for job execution](https://github.com/infection/infection/pull/2244) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 - [Smarter `LogicalOr` Mutator](https://github.com/infection/infection/pull/2243) on [infection/infection](https://github.com/infection/infection) (6 days ago)
-- [E_USER_ERROR is deprecated in PHP 8.4](https://github.com/JetBrains/phpstorm-stubs/pull/1754) on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
