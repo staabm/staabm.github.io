@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use pcov as coverage driver again](https://github.com/sebastianbergmann/phpunit/pull/6255) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Use/Suggest `executionOrder=&#34;defects,random&#34;` for phpunit.xml](https://github.com/infection/infection/pull/2267) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [Improve LogicalOrTest / drop mutator ignores](https://github.com/infection/infection/pull/2266) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [cleanup check_trailing_whitespaces.sh](https://github.com/infection/infection/pull/2265) on [infection/infection](https://github.com/infection/infection) (2 days ago)
@@ -54,7 +55,6 @@
 - [Use assertions instead of @var annotations](https://github.com/infection/infection/pull/2249) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 - [PHP-CS-Fixer: enable class_attributes_separation](https://github.com/infection/infection/pull/2245) on [infection/infection](https://github.com/infection/infection) (6 days ago)
 - [github-actions: declare timeout for job execution](https://github.com/infection/infection/pull/2244) on [infection/infection](https://github.com/infection/infection) (6 days ago)
-- [Smarter `LogicalOr` Mutator](https://github.com/infection/infection/pull/2243) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
