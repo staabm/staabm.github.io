@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.1](https://github.com/shopware/shopware/releases/tag/v6.7.0.1) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.1](https://github.com/symfony/symfony/releases/tag/v7.3.1) (2 days ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.0.0](https://github.com/CuyZ/Valinor/releases/tag/2.0.0) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.2.5](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.5) (3 days ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [11.0.10](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.10) (1 week ago)
 - [skerbis/redaxo-multi-instances](https://github.com/skerbis/redaxo-multi-instances) - [4.0.0](https://github.com/skerbis/redaxo-multi-instances/releases/tag/4.0.0) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.4](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.4) (1 week ago)
-- [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) - [v2.1.0](https://github.com/olvlvl/composer-attribute-collector/releases/tag/v2.1.0) (1 week ago)
