@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [infection/infection](https://github.com/infection/infection) (3 days ago)
+- [infection/infection](https://github.com/infection/infection) (today)
 - [staabm/phpstorm-bug-unreachable-statement](https://github.com/staabm/phpstorm-bug-unreachable-statement) (5 days ago)
 - [infection/site](https://github.com/infection/site) (1 week ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (1 week ago)
