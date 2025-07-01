@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Check MSI=100 per pull request changed files only](https://github.com/infection/infection/pull/2270) on [infection/infection](https://github.com/infection/infection) (today)
 - [Use pcov as coverage driver again](https://github.com/sebastianbergmann/phpunit/pull/6255) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Use/Suggest `executionOrder=&#34;defects,random&#34;` for phpunit.xml](https://github.com/infection/infection/pull/2267) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [Improve LogicalOrTest / drop mutator ignores](https://github.com/infection/infection/pull/2266) on [infection/infection](https://github.com/infection/infection) (3 days ago)
@@ -54,7 +55,6 @@
 - [Fix wrong ReflectionClass in NameResolverTest](https://github.com/infection/infection/pull/2250) on [infection/infection](https://github.com/infection/infection) (6 days ago)
 - [Use assertions instead of @var annotations](https://github.com/infection/infection/pull/2249) on [infection/infection](https://github.com/infection/infection) (6 days ago)
 - [PHP-CS-Fixer: enable class_attributes_separation](https://github.com/infection/infection/pull/2245) on [infection/infection](https://github.com/infection/infection) (1 week ago)
-- [github-actions: declare timeout for job execution](https://github.com/infection/infection/pull/2244) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
