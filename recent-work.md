@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix note after run with --show-mutations=0](https://github.com/infection/infection/pull/2273) on [infection/infection](https://github.com/infection/infection) (today)
+- [Document new `--show-mutations` behaviour](https://github.com/infection/site/pull/275) on [infection/site](https://github.com/infection/site) (today)
 - [Check MSI=100 per pull request changed files only](https://github.com/infection/infection/pull/2270) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [Use pcov as coverage driver again](https://github.com/sebastianbergmann/phpunit/pull/6255) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [Use/Suggest `executionOrder=&#34;defects,random&#34;` for phpunit.xml](https://github.com/infection/infection/pull/2267) on [infection/infection](https://github.com/infection/infection) (3 days ago)
@@ -53,8 +55,6 @@
 - [UX: More verbose &#34;Running initial test suite&#34; in CI](https://github.com/infection/infection/pull/2255) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 - [Playground: Implement PhpdocCommentRule](https://github.com/phpstan/phpstan-src/pull/4074) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Fix wrong ReflectionClass in NameResolverTest](https://github.com/infection/infection/pull/2250) on [infection/infection](https://github.com/infection/infection) (1 week ago)
-- [Use assertions instead of @var annotations](https://github.com/infection/infection/pull/2249) on [infection/infection](https://github.com/infection/infection) (1 week ago)
-- [PHP-CS-Fixer: enable class_attributes_separation](https://github.com/infection/infection/pull/2245) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
