@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Cleanup MutationTestingConsoleLoggerSubscriberTest](https://github.com/infection/infection/pull/2274) on [infection/infection](https://github.com/infection/infection) (today)
 - [Fix note after run with --show-mutations=0](https://github.com/infection/infection/pull/2273) on [infection/infection](https://github.com/infection/infection) (today)
 - [Document new `--show-mutations` behaviour](https://github.com/infection/site/pull/275) on [infection/site](https://github.com/infection/site) (today)
 - [Check MSI=100 per pull request changed files only](https://github.com/infection/infection/pull/2270) on [infection/infection](https://github.com/infection/infection) (1 day ago)
@@ -54,7 +55,6 @@
 - [POC: Stream TestRunner output instead of custom progress bar](https://github.com/infection/infection/pull/2257) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 - [UX: More verbose &#34;Running initial test suite&#34; in CI](https://github.com/infection/infection/pull/2255) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 - [Playground: Implement PhpdocCommentRule](https://github.com/phpstan/phpstan-src/pull/4074) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Fix wrong ReflectionClass in NameResolverTest](https://github.com/infection/infection/pull/2250) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
