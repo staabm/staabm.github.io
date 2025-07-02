@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Cleanup TestFrameworkConfigPathProviderTest](https://github.com/infection/infection/pull/2275) on [infection/infection](https://github.com/infection/infection) (today)
 - [Cleanup MutationTestingConsoleLoggerSubscriberTest](https://github.com/infection/infection/pull/2274) on [infection/infection](https://github.com/infection/infection) (today)
 - [Fix note after run with --show-mutations=0](https://github.com/infection/infection/pull/2273) on [infection/infection](https://github.com/infection/infection) (today)
 - [Document new `--show-mutations` behaviour](https://github.com/infection/site/pull/275) on [infection/site](https://github.com/infection/site) (today)
@@ -54,7 +55,6 @@
 - [Use fully-qualified-constant-reference instead of a dynamic lookup](https://github.com/infection/infection/pull/2258) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 - [POC: Stream TestRunner output instead of custom progress bar](https://github.com/infection/infection/pull/2257) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 - [UX: More verbose &#34;Running initial test suite&#34; in CI](https://github.com/infection/infection/pull/2255) on [infection/infection](https://github.com/infection/infection) (5 days ago)
-- [Playground: Implement PhpdocCommentRule](https://github.com/phpstan/phpstan-src/pull/4074) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
