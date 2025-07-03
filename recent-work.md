@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Smarter `LogicalNot` mutator](https://github.com/infection/infection/pull/2283) on [infection/infection](https://github.com/infection/infection) (today)
 - [Fix a MethodCallRemoval test](https://github.com/infection/infection/pull/2282) on [infection/infection](https://github.com/infection/infection) (today)
 - [Smarter `TrueValue`/`FalseValue` mutator](https://github.com/infection/infection/pull/2280) on [infection/infection](https://github.com/infection/infection) (today)
 - [TextFileLogger: add hints about different logfile options](https://github.com/infection/infection/pull/2278) on [infection/infection](https://github.com/infection/infection) (today)
@@ -54,7 +55,6 @@
 - [cleanup check_trailing_whitespaces.sh](https://github.com/infection/infection/pull/2265) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 - [Smarter `Throw_` mutator](https://github.com/infection/infection/pull/2263) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 - [Kill mutations in LogicalOr mutator](https://github.com/infection/infection/pull/2262) on [infection/infection](https://github.com/infection/infection) (5 days ago)
-- [Simplify LogicalOr mutator](https://github.com/infection/infection/pull/2260) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
