@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix a MethodCallRemoval test](https://github.com/infection/infection/pull/2282) on [infection/infection](https://github.com/infection/infection) (today)
 - [Smarter `TrueValue`/`FalseValue` mutator](https://github.com/infection/infection/pull/2280) on [infection/infection](https://github.com/infection/infection) (today)
 - [TextFileLogger: add hints about different logfile options](https://github.com/infection/infection/pull/2278) on [infection/infection](https://github.com/infection/infection) (today)
 - [Cleanup TestFrameworkConfigPathProviderTest](https://github.com/infection/infection/pull/2275) on [infection/infection](https://github.com/infection/infection) (1 day ago)
@@ -54,7 +55,6 @@
 - [Smarter `Throw_` mutator](https://github.com/infection/infection/pull/2263) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 - [Kill mutations in LogicalOr mutator](https://github.com/infection/infection/pull/2262) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 - [Simplify LogicalOr mutator](https://github.com/infection/infection/pull/2260) on [infection/infection](https://github.com/infection/infection) (5 days ago)
-- [Use fully-qualified-constant-reference instead of a dynamic lookup](https://github.com/infection/infection/pull/2258) on [infection/infection](https://github.com/infection/infection) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
