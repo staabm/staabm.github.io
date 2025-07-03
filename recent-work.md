@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [infection/infection](https://github.com/infection/infection) (today)
 - [staabm/phpstorm-bug-unreachable-statement](https://github.com/staabm/phpstorm-bug-unreachable-statement) (1 week ago)
 - [infection/site](https://github.com/infection/site) (1 week ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (2 weeks ago)
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [1.3.0](https://github.com/johnbillion/wp-compat/releases/tag/1.3.0) (today)
 - [php/php-src](https://github.com/php/php-src) - [php-8.4.10](https://github.com/php/php-src/releases/tag/php-8.4.10) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.30.0](https://github.com/infection/infection/releases/tag/0.30.0) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.76.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.76.0) (3 days ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.2.5](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.5) (6 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.3](https://github.com/staabm/phpstan-todo-by/releases/tag/0.3) (1 week ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.12.4](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.12.4) (1 week ago)
-- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.30.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.30.1) (1 week ago)
