@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Cleanup composer.json conflict rules with phpunit/php-code-coverage](https://github.com/infection/infection/pull/2288) on [infection/infection](https://github.com/infection/infection) (today)
 - [Smarter `LogicalNot` mutator](https://github.com/infection/infection/pull/2283) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [Fix a MethodCallRemoval test](https://github.com/infection/infection/pull/2282) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [Smarter `TrueValue`/`FalseValue` mutator](https://github.com/infection/infection/pull/2280) on [infection/infection](https://github.com/infection/infection) (1 day ago)
@@ -54,7 +55,6 @@
 - [Improve LogicalOrTest / drop mutator ignores](https://github.com/infection/infection/pull/2266) on [infection/infection](https://github.com/infection/infection) (6 days ago)
 - [cleanup check_trailing_whitespaces.sh](https://github.com/infection/infection/pull/2265) on [infection/infection](https://github.com/infection/infection) (6 days ago)
 - [Smarter `Throw_` mutator](https://github.com/infection/infection/pull/2263) on [infection/infection](https://github.com/infection/infection) (6 days ago)
-- [Kill mutations in LogicalOr mutator](https://github.com/infection/infection/pull/2262) on [infection/infection](https://github.com/infection/infection) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
