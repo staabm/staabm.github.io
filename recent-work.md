@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support NullSafe PropertyFetch/MethodCall in ArrayItem mutator](https://github.com/infection/infection/pull/2294) on [infection/infection](https://github.com/infection/infection) (today)
 - [Use colored diffs in GitHub Actions annotations](https://github.com/infection/infection/pull/2292) on [infection/infection](https://github.com/infection/infection) (today)
 - [DX: Automatically determine git reference branch](https://github.com/infection/infection/pull/2289) on [infection/infection](https://github.com/infection/infection) (today)
 - [Cleanup composer.json conflict rules with phpunit/php-code-coverage](https://github.com/infection/infection/pull/2288) on [infection/infection](https://github.com/infection/infection) (today)
@@ -54,7 +55,6 @@
 - [Check MSI=100 per pull request changed files only](https://github.com/infection/infection/pull/2270) on [infection/infection](https://github.com/infection/infection) (3 days ago)
 - [Use pcov as coverage driver again](https://github.com/sebastianbergmann/phpunit/pull/6255) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [Use/Suggest `executionOrder=&#34;defects,random&#34;` for phpunit.xml](https://github.com/infection/infection/pull/2267) on [infection/infection](https://github.com/infection/infection) (5 days ago)
-- [Improve LogicalOrTest / drop mutator ignores](https://github.com/infection/infection/pull/2266) on [infection/infection](https://github.com/infection/infection) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
