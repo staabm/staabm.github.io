@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Test defects,random executionOrder](https://github.com/sebastianbergmann/phpunit/pull/6258) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Support NullSafe PropertyFetch/MethodCall in ArrayItem mutator](https://github.com/infection/infection/pull/2294) on [infection/infection](https://github.com/infection/infection) (today)
 - [Use colored diffs in GitHub Actions annotations](https://github.com/infection/infection/pull/2292) on [infection/infection](https://github.com/infection/infection) (today)
 - [DX: Automatically determine git reference branch](https://github.com/infection/infection/pull/2289) on [infection/infection](https://github.com/infection/infection) (today)
@@ -54,7 +55,6 @@
 - [Document new `--show-mutations` behaviour](https://github.com/infection/site/pull/275) on [infection/site](https://github.com/infection/site) (2 days ago)
 - [Check MSI=100 per pull request changed files only](https://github.com/infection/infection/pull/2270) on [infection/infection](https://github.com/infection/infection) (3 days ago)
 - [Use pcov as coverage driver again](https://github.com/sebastianbergmann/phpunit/pull/6255) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
-- [Use/Suggest `executionOrder=&#34;defects,random&#34;` for phpunit.xml](https://github.com/infection/infection/pull/2267) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
