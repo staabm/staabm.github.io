@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor ResultCache interface to use dedicated ResultCacheId type](https://github.com/sebastianbergmann/phpunit/pull/6262) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Fix order of tests which use data from data providers is not affected by test sorting](https://github.com/sebastianbergmann/phpunit/pull/6261) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Test defects,random executionOrder](https://github.com/sebastianbergmann/phpunit/pull/6258) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Support NullSafe PropertyFetch/MethodCall in ArrayItem mutator](https://github.com/infection/infection/pull/2294) on [infection/infection](https://github.com/infection/infection) (1 day ago)
@@ -54,16 +55,15 @@
 - [Cleanup MutationTestingConsoleLoggerSubscriberTest](https://github.com/infection/infection/pull/2274) on [infection/infection](https://github.com/infection/infection) (3 days ago)
 - [Fix note after run with --show-mutations=0](https://github.com/infection/infection/pull/2273) on [infection/infection](https://github.com/infection/infection) (3 days ago)
 - [Document new `--show-mutations` behaviour](https://github.com/infection/site/pull/275) on [infection/site](https://github.com/infection/site) (3 days ago)
-- [Check MSI=100 per pull request changed files only](https://github.com/infection/infection/pull/2270) on [infection/infection](https://github.com/infection/infection) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.77.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.77.0) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.2.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.6) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) - [0.30.1](https://github.com/infection/infection/releases/tag/0.30.1) (2 days ago)
 - [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [1.3.0](https://github.com/johnbillion/wp-compat/releases/tag/1.3.0) (2 days ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.4.10](https://github.com/php/php-src/releases/tag/php-8.4.10) (2 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.76.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.76.0) (5 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.1](https://github.com/shopware/shopware/releases/tag/v6.7.0.1) (5 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.1](https://github.com/symfony/symfony/releases/tag/v7.3.1) (1 week ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.0.0](https://github.com/CuyZ/Valinor/releases/tag/2.0.0) (1 week ago)
