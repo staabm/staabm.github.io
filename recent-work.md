@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix order of tests which use data from data providers is not affected by test sorting](https://github.com/sebastianbergmann/phpunit/pull/6261) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Test defects,random executionOrder](https://github.com/sebastianbergmann/phpunit/pull/6258) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Support NullSafe PropertyFetch/MethodCall in ArrayItem mutator](https://github.com/infection/infection/pull/2294) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [Use colored diffs in GitHub Actions annotations](https://github.com/infection/infection/pull/2292) on [infection/infection](https://github.com/infection/infection) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix note after run with --show-mutations=0](https://github.com/infection/infection/pull/2273) on [infection/infection](https://github.com/infection/infection) (3 days ago)
 - [Document new `--show-mutations` behaviour](https://github.com/infection/site/pull/275) on [infection/site](https://github.com/infection/site) (3 days ago)
 - [Check MSI=100 per pull request changed files only](https://github.com/infection/infection/pull/2270) on [infection/infection](https://github.com/infection/infection) (4 days ago)
-- [Use pcov as coverage driver again](https://github.com/sebastianbergmann/phpunit/pull/6255) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
