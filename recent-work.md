@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify NameFilterIterator](https://github.com/sebastianbergmann/phpunit/pull/6271) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [DX: Faster feedback loop when running regression tests](https://github.com/sebastianbergmann/phpunit/pull/6270) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [Fix handling of regex containing `/` in IgnorePhpunitWarnings](https://github.com/sebastianbergmann/phpunit/pull/6269) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [MutationProcess timeout is based on test-execution time](https://github.com/infection/infection/pull/2300) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [Reference dataprovider label in more error messages](https://github.com/sebastianbergmann/phpunit/pull/6264) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [Fix order of tests which use data from data providers is not affected by test sorting](https://github.com/sebastianbergmann/phpunit/pull/6263) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
@@ -52,9 +55,6 @@
 - [Cleanup composer.json conflict rules with phpunit/php-code-coverage](https://github.com/infection/infection/pull/2288) on [infection/infection](https://github.com/infection/infection) (4 days ago)
 - [Smarter `LogicalNot` mutator](https://github.com/infection/infection/pull/2283) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 - [Fix a MethodCallRemoval test](https://github.com/infection/infection/pull/2282) on [infection/infection](https://github.com/infection/infection) (5 days ago)
-- [Smarter `TrueValue`/`FalseValue` mutator](https://github.com/infection/infection/pull/2280) on [infection/infection](https://github.com/infection/infection) (5 days ago)
-- [TextFileLogger: add hints about different logfile options](https://github.com/infection/infection/pull/2278) on [infection/infection](https://github.com/infection/infection) (5 days ago)
-- [Cleanup TestFrameworkConfigPathProviderTest](https://github.com/infection/infection/pull/2275) on [infection/infection](https://github.com/infection/infection) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
