@@ -26,7 +26,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
-- [romm](https://github.com/romm) (1 month ago)
 - [packagist](https://github.com/packagist) (1 month ago)
 - [Enkora](https://github.com/Enkora) (1 month ago)
 - [phpstan](https://github.com/phpstan) (11 months ago)
@@ -36,6 +35,7 @@
 - [eliashaeussler](https://github.com/eliashaeussler) (2 years ago)
 - [DaveLiddament](https://github.com/DaveLiddament) (2 years ago)
 - [SecuMailer](https://github.com/SecuMailer) (2 years ago)
+- [omphteliba](https://github.com/omphteliba) (2 years ago)
 
 
 #### 🔨 My recent Pull Requests
@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.82.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.82.2) (today)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.31.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.31.0) (today)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.82.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.82.1) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.2.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.6) (4 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.30.1](https://github.com/infection/infection/releases/tag/0.30.1) (5 days ago)
 - [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [1.3.0](https://github.com/johnbillion/wp-compat/releases/tag/1.3.0) (5 days ago)
