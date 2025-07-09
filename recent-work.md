@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [infection/infection](https://github.com/infection/infection) - [0.30.2](https://github.com/infection/infection/releases/tag/0.30.2) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.82.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.82.2) (1 day ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.31.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.31.0) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.2.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.6) (5 days ago)
-- [infection/infection](https://github.com/infection/infection) - [0.30.1](https://github.com/infection/infection/releases/tag/0.30.1) (6 days ago)
 - [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [1.3.0](https://github.com/johnbillion/wp-compat/releases/tag/1.3.0) (6 days ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.4.10](https://github.com/php/php-src/releases/tag/php-8.4.10) (6 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.1](https://github.com/shopware/shopware/releases/tag/v6.7.0.1) (1 week ago)
