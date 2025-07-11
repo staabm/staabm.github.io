@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix missing detection of dead code in expressions](https://github.com/phpstan/phpstan-src/pull/4090) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Don&#39;t show 0 metrics in summary](https://github.com/infection/infection/pull/2311) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [Simplify NameFilterIterator](https://github.com/sebastianbergmann/phpunit/pull/6271) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [DX: Faster feedback loop when running regression tests](https://github.com/sebastianbergmann/phpunit/pull/6270) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
@@ -54,7 +55,6 @@
 - [Use colored diffs in GitHub Actions annotations](https://github.com/infection/infection/pull/2292) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 - [DX: Automatically determine git reference branch](https://github.com/infection/infection/pull/2289) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 - [Cleanup composer.json conflict rules with phpunit/php-code-coverage](https://github.com/infection/infection/pull/2288) on [infection/infection](https://github.com/infection/infection) (1 week ago)
-- [Smarter `LogicalNot` mutator](https://github.com/infection/infection/pull/2283) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
