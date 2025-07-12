@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [infection/infection](https://github.com/infection/infection) (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [staabm/phpstorm-bug-unreachable-statement](https://github.com/staabm/phpstorm-bug-unreachable-statement) (2 weeks ago)
 - [infection/site](https://github.com/infection/site) (3 weeks ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (3 weeks ago)
@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Use &#34;@&lt;data-set-name&gt;&#34; `--filter` CLI option compatible error format](https://github.com/sebastianbergmann/phpunit/pull/6272) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [Use `@&lt;data-set-name&gt;` format (compatible with `--filter` CLI option) in defect messages](https://github.com/sebastianbergmann/phpunit/pull/6272) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [stream_get_contents() does not return FALSE unless an invalid position is provided](https://github.com/phpstan/phpstan-src/pull/4092) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix missing detection of dead code in expressions](https://github.com/phpstan/phpstan-src/pull/4090) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Don&#39;t show 0 metrics in summary](https://github.com/infection/infection/pull/2311) on [infection/infection](https://github.com/infection/infection) (3 days ago)
