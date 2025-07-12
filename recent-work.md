@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use executionOrder=&#34;defects,random&#34; for phpunit.xml](https://github.com/infection/infection/pull/2328) on [infection/infection](https://github.com/infection/infection) (today)
 - [Use `@&lt;data-set-name&gt;` format (compatible with `--filter` CLI option) in defect messages](https://github.com/sebastianbergmann/phpunit/pull/6272) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [stream_get_contents() does not return FALSE unless an invalid position is provided](https://github.com/phpstan/phpstan-src/pull/4092) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix missing detection of dead code in expressions](https://github.com/phpstan/phpstan-src/pull/4090) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix order of tests which use data from data providers is not affected by test sorting](https://github.com/sebastianbergmann/phpunit/pull/6261) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [Test defects,random executionOrder](https://github.com/sebastianbergmann/phpunit/pull/6258) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [Support NullSafe PropertyFetch/MethodCall in ArrayItem mutator](https://github.com/infection/infection/pull/2294) on [infection/infection](https://github.com/infection/infection) (1 week ago)
-- [Use colored diffs in GitHub Actions annotations](https://github.com/infection/infection/pull/2292) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
