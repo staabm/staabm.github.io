@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [infection/infection](https://github.com/infection/infection) (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
+- [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [staabm/phpstorm-bug-unreachable-statement](https://github.com/staabm/phpstorm-bug-unreachable-statement) (2 weeks ago)
 - [infection/site](https://github.com/infection/site) (3 weeks ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (3 weeks ago)
@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix missing detection of dead code in expressions](https://github.com/phpstan/phpstan-src/pull/4090) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Don&#39;t show 0 metrics in summary](https://github.com/infection/infection/pull/2311) on [infection/infection](https://github.com/infection/infection) (2 days ago)
-- [Simplify NameFilterIterator](https://github.com/sebastianbergmann/phpunit/pull/6271) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
-- [DX: Faster feedback loop when running regression tests](https://github.com/sebastianbergmann/phpunit/pull/6270) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
-- [Fix handling of regex containing `/` in IgnorePhpunitWarnings](https://github.com/sebastianbergmann/phpunit/pull/6269) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
-- [MutationProcess timeout is based on test-execution time](https://github.com/infection/infection/pull/2300) on [infection/infection](https://github.com/infection/infection) (4 days ago)
-- [Reference dataprovider label in more error messages](https://github.com/sebastianbergmann/phpunit/pull/6264) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
-- [Fix order of tests which use data from data providers is not affected by test sorting](https://github.com/sebastianbergmann/phpunit/pull/6263) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
-- [Refactor ResultCache interface to use dedicated ResultCacheId type](https://github.com/sebastianbergmann/phpunit/pull/6262) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
-- [Fix order of tests which use data from data providers is not affected by test sorting](https://github.com/sebastianbergmann/phpunit/pull/6261) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
+- [Fix missing detection of dead code in expressions](https://github.com/phpstan/phpstan-src/pull/4090) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Don&#39;t show 0 metrics in summary](https://github.com/infection/infection/pull/2311) on [infection/infection](https://github.com/infection/infection) (3 days ago)
+- [Simplify NameFilterIterator](https://github.com/sebastianbergmann/phpunit/pull/6271) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
+- [DX: Faster feedback loop when running regression tests](https://github.com/sebastianbergmann/phpunit/pull/6270) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
+- [Fix handling of regex containing `/` in IgnorePhpunitWarnings](https://github.com/sebastianbergmann/phpunit/pull/6269) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
+- [MutationProcess timeout is based on test-execution time](https://github.com/infection/infection/pull/2300) on [infection/infection](https://github.com/infection/infection) (5 days ago)
+- [Reference dataprovider label in more error messages](https://github.com/sebastianbergmann/phpunit/pull/6264) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
+- [Fix order of tests which use data from data providers is not affected by test sorting](https://github.com/sebastianbergmann/phpunit/pull/6263) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
+- [Refactor ResultCache interface to use dedicated ResultCacheId type](https://github.com/sebastianbergmann/phpunit/pull/6262) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
+- [Fix order of tests which use data from data providers is not affected by test sorting](https://github.com/sebastianbergmann/phpunit/pull/6261) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [Test defects,random executionOrder](https://github.com/sebastianbergmann/phpunit/pull/6258) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [Support NullSafe PropertyFetch/MethodCall in ArrayItem mutator](https://github.com/infection/infection/pull/2294) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 - [Use colored diffs in GitHub Actions annotations](https://github.com/infection/infection/pull/2292) on [infection/infection](https://github.com/infection/infection) (1 week ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [infection/infection](https://github.com/infection/infection) - [0.30.3](https://github.com/infection/infection/releases/tag/0.30.3) (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.2.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.7) (today)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.82.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.82.2) (3 days ago)
-- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.31.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.31.0) (3 days ago)
+- [infection/infection](https://github.com/infection/infection) - [0.30.3](https://github.com/infection/infection/releases/tag/0.30.3) (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.2.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.7) (1 day ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.82.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.82.2) (4 days ago)
+- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.31.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.31.0) (4 days ago)
 - [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [1.3.0](https://github.com/johnbillion/wp-compat/releases/tag/1.3.0) (1 week ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.4.10](https://github.com/php/php-src/releases/tag/php-8.4.10) (1 week ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.1](https://github.com/shopware/shopware/releases/tag/v6.7.0.1) (1 week ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.1](https://github.com/symfony/symfony/releases/tag/v7.3.1) (1 week ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.1](https://github.com/symfony/symfony/releases/tag/v7.3.1) (2 weeks ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.0.0](https://github.com/CuyZ/Valinor/releases/tag/2.0.0) (2 weeks ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.3](https://github.com/staabm/phpstan-todo-by/releases/tag/0.3) (2 weeks ago)
