@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use &#34;@&lt;data-set-name&gt;&#34; `--filter` CLI option compatible error format](https://github.com/sebastianbergmann/phpunit/pull/6272) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [stream_get_contents() does not return FALSE unless an invalid position is provided](https://github.com/phpstan/phpstan-src/pull/4092) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix missing detection of dead code in expressions](https://github.com/phpstan/phpstan-src/pull/4090) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Don&#39;t show 0 metrics in summary](https://github.com/infection/infection/pull/2311) on [infection/infection](https://github.com/infection/infection) (3 days ago)
@@ -54,7 +55,6 @@
 - [Test defects,random executionOrder](https://github.com/sebastianbergmann/phpunit/pull/6258) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [Support NullSafe PropertyFetch/MethodCall in ArrayItem mutator](https://github.com/infection/infection/pull/2294) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 - [Use colored diffs in GitHub Actions annotations](https://github.com/infection/infection/pull/2292) on [infection/infection](https://github.com/infection/infection) (1 week ago)
-- [DX: Automatically determine git reference branch](https://github.com/infection/infection/pull/2289) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
