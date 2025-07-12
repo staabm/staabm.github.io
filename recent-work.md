@@ -4,7 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
-- [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [infection/infection](https://github.com/infection/infection) (today)
 - [staabm/phpstorm-bug-unreachable-statement](https://github.com/staabm/phpstorm-bug-unreachable-statement) (2 weeks ago)
 - [infection/site](https://github.com/infection/site) (3 weeks ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (3 weeks ago)
