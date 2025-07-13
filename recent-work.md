@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [staabm/phpstorm-bug-unreachable-statement](https://github.com/staabm/phpstorm-bug-unreachable-statement) (2 weeks ago)
@@ -12,7 +13,6 @@
 - [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) (3 weeks ago)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (1 month ago)
 - [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (1 month ago)
-- [filp/whoops](https://github.com/filp/whoops) (1 month ago)
 
 
 #### 📜 My recent blog posts
