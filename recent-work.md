@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [infection/infection](https://github.com/infection/infection) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
@@ -12,7 +13,6 @@
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 weeks ago)
 - [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) (1 month ago)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (1 month ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 month ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update brianium/paratest to fix parallel tests build](https://github.com/phpstan/phpstan-src/pull/4104) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/4103) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Playground: enable PhpdocCommentRule](https://github.com/phpstan/phpstan/pull/13260) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Fix name collisions](https://github.com/phpstan/phpstan-src/pull/4102) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Fix missing detection of dead code in expressions](https://github.com/phpstan/phpstan-src/pull/4090) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Don&#39;t show 0 metrics in summary](https://github.com/infection/infection/pull/2311) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 - [Simplify NameFilterIterator](https://github.com/sebastianbergmann/phpunit/pull/6271) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [DX: Faster feedback loop when running regression tests](https://github.com/sebastianbergmann/phpunit/pull/6270) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
