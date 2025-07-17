@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/4103) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Playground: enable PhpdocCommentRule](https://github.com/phpstan/phpstan/pull/13260) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [Fix name collisions](https://github.com/phpstan/phpstan-src/pull/4102) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Remove `--only-covered`; Introduce `--with-uncovered` instead](https://github.com/infection/site/pull/278) on [infection/site](https://github.com/infection/site) (today)
 - [Fix CLI output rendering for diffs which contain symfony-style like text](https://github.com/infection/infection/pull/2338) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [Remove `--only-covered`; Introduce `--with-uncovered` instead](https://github.com/infection/infection/pull/2336) on [infection/infection](https://github.com/infection/infection) (1 day ago)
@@ -52,13 +55,11 @@
 - [Don&#39;t show 0 metrics in summary](https://github.com/infection/infection/pull/2311) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 - [Simplify NameFilterIterator](https://github.com/sebastianbergmann/phpunit/pull/6271) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [DX: Faster feedback loop when running regression tests](https://github.com/sebastianbergmann/phpunit/pull/6270) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [Fix handling of regex containing `/` in IgnorePhpunitWarnings](https://github.com/sebastianbergmann/phpunit/pull/6269) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [MutationProcess timeout is based on test-execution time](https://github.com/infection/infection/pull/2300) on [infection/infection](https://github.com/infection/infection) (1 week ago)
-- [Reference dataprovider label in more error messages](https://github.com/sebastianbergmann/phpunit/pull/6264) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.19.0](https://github.com/redaxo/redaxo/releases/tag/5.19.0) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.4](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.4) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.84.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.84.0) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.2.0](https://github.com/phpstan/phpdoc-parser/releases/tag/2.2.0) (4 days ago)
@@ -68,4 +69,3 @@
 - [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [1.3.0](https://github.com/johnbillion/wp-compat/releases/tag/1.3.0) (2 weeks ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.4.10](https://github.com/php/php-src/releases/tag/php-8.4.10) (2 weeks ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.1](https://github.com/shopware/shopware/releases/tag/v6.7.0.1) (2 weeks ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.1](https://github.com/symfony/symfony/releases/tag/v7.3.1) (2 weeks ago)
