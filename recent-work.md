@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [infection/infection](https://github.com/infection/infection) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
-- [infection/infection](https://github.com/infection/infection) (5 days ago)
 - [staabm/phpstorm-bug-unreachable-statement](https://github.com/staabm/phpstorm-bug-unreachable-statement) (3 weeks ago)
 - [infection/site](https://github.com/infection/site) (3 weeks ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (4 weeks ago)
@@ -40,8 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove `--only-covered`; Introduce `--with-uncovered` instead](https://github.com/infection/site/pull/278) on [infection/site](https://github.com/infection/site) (today)
 - [Fix CLI output rendering for diffs which contain symfony-style like text](https://github.com/infection/infection/pull/2338) on [infection/infection](https://github.com/infection/infection) (1 day ago)
-- [Remove `--only-covered`; Introduce `--allow-uncovered` instead](https://github.com/infection/infection/pull/2336) on [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [Remove `--only-covered`; Introduce `--with-uncovered` instead](https://github.com/infection/infection/pull/2336) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [Implement `TestCase-&gt;expectProcessExit($exitCode)`](https://github.com/sebastianbergmann/phpunit/pull/6275) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [Warn on mix of different data providers](https://github.com/sebastianbergmann/phpunit/pull/6273) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [Use executionOrder=&#34;defects,random&#34; for phpunit.xml](https://github.com/infection/infection/pull/2328) on [infection/infection](https://github.com/infection/infection) (5 days ago)
@@ -54,7 +55,6 @@
 - [Fix handling of regex containing `/` in IgnorePhpunitWarnings](https://github.com/sebastianbergmann/phpunit/pull/6269) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [MutationProcess timeout is based on test-execution time](https://github.com/infection/infection/pull/2300) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 - [Reference dataprovider label in more error messages](https://github.com/sebastianbergmann/phpunit/pull/6264) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [Fix order of tests which use data from data providers is not affected by test sorting](https://github.com/sebastianbergmann/phpunit/pull/6263) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
