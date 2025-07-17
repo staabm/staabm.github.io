@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [infection/infection](https://github.com/infection/infection) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
 - [staabm/phpstorm-bug-unreachable-statement](https://github.com/staabm/phpstorm-bug-unreachable-statement) (3 weeks ago)
 - [infection/site](https://github.com/infection/site) (3 weeks ago)
@@ -12,7 +12,7 @@
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 weeks ago)
 - [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) (1 month ago)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (1 month ago)
-- [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (1 month ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 month ago)
 
 
 #### 📜 My recent blog posts
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.4](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.4) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.84.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.84.0) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.2.0](https://github.com/phpstan/phpdoc-parser/releases/tag/2.2.0) (4 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.30.3](https://github.com/infection/infection/releases/tag/0.30.3) (6 days ago)
@@ -68,4 +69,3 @@
 - [php/php-src](https://github.com/php/php-src) - [php-8.4.10](https://github.com/php/php-src/releases/tag/php-8.4.10) (2 weeks ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.0.1](https://github.com/shopware/shopware/releases/tag/v6.7.0.1) (2 weeks ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.1](https://github.com/symfony/symfony/releases/tag/v7.3.1) (2 weeks ago)
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.0.0](https://github.com/CuyZ/Valinor/releases/tag/2.0.0) (2 weeks ago)
