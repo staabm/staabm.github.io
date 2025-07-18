@@ -3,14 +3,14 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [infection/infection](https://github.com/infection/infection) (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
 - [staabm/phpstorm-bug-unreachable-statement](https://github.com/staabm/phpstorm-bug-unreachable-statement) (3 weeks ago)
-- [infection/site](https://github.com/infection/site) (3 weeks ago)
+- [infection/site](https://github.com/infection/site) (4 weeks ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (4 weeks ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 weeks ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 month ago)
 - [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) (1 month ago)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (1 month ago)
 
@@ -26,7 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
-- [passbolt](https://github.com/passbolt) (3 days ago)
+- [passbolt](https://github.com/passbolt) (4 days ago)
 - [packagist](https://github.com/packagist) (1 month ago)
 - [Enkora](https://github.com/Enkora) (1 month ago)
 - [phpstan](https://github.com/phpstan) (11 months ago)
@@ -40,32 +40,32 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/4105) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Update brianium/paratest to fix parallel tests build](https://github.com/phpstan/phpstan-src/pull/4104) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/4103) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Playground: enable PhpdocCommentRule](https://github.com/phpstan/phpstan/pull/13260) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [Fix name collisions](https://github.com/phpstan/phpstan-src/pull/4102) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Remove `--only-covered`; Introduce `--with-uncovered` instead](https://github.com/infection/site/pull/278) on [infection/site](https://github.com/infection/site) (today)
-- [Fix CLI output rendering for diffs which contain symfony-style like text](https://github.com/infection/infection/pull/2338) on [infection/infection](https://github.com/infection/infection) (1 day ago)
-- [Remove `--only-covered`; Introduce `--with-uncovered` instead](https://github.com/infection/infection/pull/2336) on [infection/infection](https://github.com/infection/infection) (1 day ago)
-- [Implement `TestCase-&gt;expectProcessExit($exitCode)`](https://github.com/sebastianbergmann/phpunit/pull/6275) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
-- [Warn on mix of different data providers](https://github.com/sebastianbergmann/phpunit/pull/6273) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
-- [Use executionOrder=&#34;defects,random&#34; for phpunit.xml](https://github.com/infection/infection/pull/2328) on [infection/infection](https://github.com/infection/infection) (5 days ago)
-- [Use `@&lt;data-set-name&gt;` format (compatible with `--filter` CLI option) in defect messages](https://github.com/sebastianbergmann/phpunit/pull/6272) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
-- [stream_get_contents() does not return FALSE unless an invalid position is provided](https://github.com/phpstan/phpstan-src/pull/4092) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Fix missing detection of dead code in expressions](https://github.com/phpstan/phpstan-src/pull/4090) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/4105) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Update brianium/paratest to fix parallel tests build](https://github.com/phpstan/phpstan-src/pull/4104) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/4103) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Playground: enable PhpdocCommentRule](https://github.com/phpstan/phpstan/pull/13260) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [Fix name collisions](https://github.com/phpstan/phpstan-src/pull/4102) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Remove `--only-covered`; Introduce `--with-uncovered` instead](https://github.com/infection/site/pull/278) on [infection/site](https://github.com/infection/site) (1 day ago)
+- [Fix CLI output rendering for diffs which contain symfony-style like text](https://github.com/infection/infection/pull/2338) on [infection/infection](https://github.com/infection/infection) (2 days ago)
+- [Remove `--only-covered`; Introduce `--with-uncovered` instead](https://github.com/infection/infection/pull/2336) on [infection/infection](https://github.com/infection/infection) (2 days ago)
+- [Implement `TestCase-&gt;expectProcessExit($exitCode)`](https://github.com/sebastianbergmann/phpunit/pull/6275) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
+- [Warn on mix of different data providers](https://github.com/sebastianbergmann/phpunit/pull/6273) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
+- [Use executionOrder=&#34;defects,random&#34; for phpunit.xml](https://github.com/infection/infection/pull/2328) on [infection/infection](https://github.com/infection/infection) (6 days ago)
+- [Use `@&lt;data-set-name&gt;` format (compatible with `--filter` CLI option) in defect messages](https://github.com/sebastianbergmann/phpunit/pull/6272) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
+- [stream_get_contents() does not return FALSE unless an invalid position is provided](https://github.com/phpstan/phpstan-src/pull/4092) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Fix missing detection of dead code in expressions](https://github.com/phpstan/phpstan-src/pull/4090) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Don&#39;t show 0 metrics in summary](https://github.com/infection/infection/pull/2311) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.18](https://github.com/phpstan/phpstan/releases/tag/2.1.18) (today)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.19.0](https://github.com/redaxo/redaxo/releases/tag/5.19.0) (today)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.4](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.4) (today)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.84.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.84.0) (2 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.2.0](https://github.com/phpstan/phpdoc-parser/releases/tag/2.2.0) (4 days ago)
-- [infection/infection](https://github.com/infection/infection) - [0.30.3](https://github.com/infection/infection/releases/tag/0.30.3) (6 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.2.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.7) (6 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.18](https://github.com/phpstan/phpstan/releases/tag/2.1.18) (1 day ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.19.0](https://github.com/redaxo/redaxo/releases/tag/5.19.0) (1 day ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.4](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.4) (1 day ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.84.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.84.0) (3 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.2.0](https://github.com/phpstan/phpdoc-parser/releases/tag/2.2.0) (5 days ago)
+- [infection/infection](https://github.com/infection/infection) - [0.30.3](https://github.com/infection/infection/releases/tag/0.30.3) (1 week ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.2.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.7) (1 week ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.31.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.31.0) (1 week ago)
 - [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [1.3.0](https://github.com/johnbillion/wp-compat/releases/tag/1.3.0) (2 weeks ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.4.10](https://github.com/php/php-src/releases/tag/php-8.4.10) (2 weeks ago)
