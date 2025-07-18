@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
 - [staabm/phpstorm-bug-unreachable-statement](https://github.com/staabm/phpstorm-bug-unreachable-statement) (3 weeks ago)
 - [infection/site](https://github.com/infection/site) (4 weeks ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (4 weeks ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 month ago)
 - [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) (1 month ago)
-- [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (1 month ago)
 
 
 #### 📜 My recent blog posts
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.19](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.19) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.18](https://github.com/phpstan/phpstan/releases/tag/2.1.18) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.19.0](https://github.com/redaxo/redaxo/releases/tag/5.19.0) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.4](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.4) (1 day ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.2.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.7) (1 week ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.31.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.31.0) (1 week ago)
 - [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - [1.3.0](https://github.com/johnbillion/wp-compat/releases/tag/1.3.0) (2 weeks ago)
-- [php/php-src](https://github.com/php/php-src) - [php-8.4.10](https://github.com/php/php-src/releases/tag/php-8.4.10) (2 weeks ago)
