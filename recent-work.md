@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.19](https://github.com/phpstan/phpstan/releases/tag/2.1.19) (today)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.13.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.13.0) (today)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.6](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.6) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.7](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.7) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.19](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.19) (3 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.18](https://github.com/phpstan/phpstan/releases/tag/2.1.18) (4 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.19.0](https://github.com/redaxo/redaxo/releases/tag/5.19.0) (4 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.4](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.4) (4 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.84.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.84.0) (6 days ago)
