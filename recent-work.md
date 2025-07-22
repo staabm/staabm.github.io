@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix args are mistakenly handled as immediately-invoked](https://github.com/phpstan/phpstan-src/pull/4145) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/4105) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Update brianium/paratest to fix parallel tests build](https://github.com/phpstan/phpstan-src/pull/4104) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/4103) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
@@ -54,7 +55,6 @@
 - [Use `@&lt;data-set-name&gt;` format (compatible with `--filter` CLI option) in defect messages](https://github.com/sebastianbergmann/phpunit/pull/6272) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [stream_get_contents() does not return FALSE unless an invalid position is provided](https://github.com/phpstan/phpstan-src/pull/4092) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix missing detection of dead code in expressions](https://github.com/phpstan/phpstan-src/pull/4090) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Don&#39;t show 0 metrics in summary](https://github.com/infection/infection/pull/2311) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
