@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.10.6](https://github.com/shopware/shopware/releases/tag/v6.6.10.6) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.19](https://github.com/phpstan/phpstan/releases/tag/2.1.19) (1 day ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.13.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.13.0) (1 day ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.6](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.6) (1 day ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.4](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.4) (5 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.84.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.84.0) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.2.0](https://github.com/phpstan/phpdoc-parser/releases/tag/2.2.0) (1 week ago)
-- [infection/infection](https://github.com/infection/infection) - [0.30.3](https://github.com/infection/infection/releases/tag/0.30.3) (1 week ago)
