@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix missing detection of dead code in closures](https://github.com/phpstan/phpstan-src/pull/4148) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Fix missing detection of dead code in arrow functions](https://github.com/phpstan/phpstan-src/pull/4147) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [use benevolent union for `stream_get_contents()` to prevent strict-rule errors](https://github.com/phpstan/phpstan-src/pull/4146) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix args are mistakenly handled as immediately-invoked](https://github.com/phpstan/phpstan-src/pull/4145) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/4105) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
@@ -53,8 +55,6 @@
 - [Implement `TestCase-&gt;expectProcessExit($exitCode)`](https://github.com/sebastianbergmann/phpunit/pull/6275) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [Warn on mix of different data providers](https://github.com/sebastianbergmann/phpunit/pull/6273) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [Use executionOrder=&#34;defects,random&#34; for phpunit.xml](https://github.com/infection/infection/pull/2328) on [infection/infection](https://github.com/infection/infection) (1 week ago)
-- [Use `@&lt;data-set-name&gt;` format (compatible with `--filter` CLI option) in defect messages](https://github.com/sebastianbergmann/phpunit/pull/6272) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [stream_get_contents() does not return FALSE unless an invalid position is provided](https://github.com/phpstan/phpstan-src/pull/4092) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
