@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix `array_key_exists` narrows `$key` too much](https://github.com/phpstan/phpstan-src/pull/4151) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [NarrowPrivateClassMethodParamTypeRule: Skip variadics](https://github.com/rectorphp/type-perfect/pull/66) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
 - [Fix MethodExistsTypeSpecifyingExtension for union types](https://github.com/phpstan/phpstan-src/pull/4150) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [rex_sql: fix wrong error message concatenation](https://github.com/redaxo/redaxo/pull/6317) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
@@ -54,7 +55,6 @@
 - [Fix name collisions](https://github.com/phpstan/phpstan-src/pull/4102) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Remove `--only-covered`; Introduce `--with-uncovered` instead](https://github.com/infection/site/pull/278) on [infection/site](https://github.com/infection/site) (6 days ago)
 - [Fix CLI output rendering for diffs which contain symfony-style like text](https://github.com/infection/infection/pull/2338) on [infection/infection](https://github.com/infection/infection) (1 week ago)
-- [Remove `--only-covered`; Introduce `--with-uncovered` instead](https://github.com/infection/infection/pull/2336) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
