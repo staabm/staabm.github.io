@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix MethodExistsTypeSpecifyingExtension for union types](https://github.com/phpstan/phpstan-src/pull/4150) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [rex_sql: fix wrong error message concatenation](https://github.com/redaxo/redaxo/pull/6317) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [Fix missing detection of dead code in closures](https://github.com/phpstan/phpstan-src/pull/4148) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix missing detection of dead code in arrow functions](https://github.com/phpstan/phpstan-src/pull/4147) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [use benevolent union for `stream_get_contents()` to prevent strict-rule errors](https://github.com/phpstan/phpstan-src/pull/4146) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Fix CLI output rendering for diffs which contain symfony-style like text](https://github.com/infection/infection/pull/2338) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 - [Remove `--only-covered`; Introduce `--with-uncovered` instead](https://github.com/infection/infection/pull/2336) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 - [Implement `TestCase-&gt;expectProcessExit($exitCode)`](https://github.com/sebastianbergmann/phpunit/pull/6275) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [Warn on mix of different data providers](https://github.com/sebastianbergmann/phpunit/pull/6273) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [Use executionOrder=&#34;defects,random&#34; for phpunit.xml](https://github.com/infection/infection/pull/2328) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
