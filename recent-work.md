@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.1.0](https://github.com/CuyZ/Valinor/releases/tag/2.1.0) (today)
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.1.1](https://github.com/CuyZ/Valinor/releases/tag/2.1.1) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.20](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.20) (today)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.10.6](https://github.com/shopware/shopware/releases/tag/v6.6.10.6) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.19](https://github.com/phpstan/phpstan/releases/tag/2.1.19) (2 days ago)
