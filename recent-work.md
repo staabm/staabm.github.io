@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [infection/infection](https://github.com/infection/infection) (6 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
+- [infection/infection](https://github.com/infection/infection) (6 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [staabm/phpstorm-bug-unreachable-statement](https://github.com/staabm/phpstorm-bug-unreachable-statement) (3 weeks ago)
 - [infection/site](https://github.com/infection/site) (1 month ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (1 month ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 month ago)
-- [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) (1 month ago)
 
 
 #### 📜 My recent blog posts
