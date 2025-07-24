@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.1.0](https://github.com/shopware/shopware/releases/tag/v6.7.1.0) (today)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.1.1](https://github.com/CuyZ/Valinor/releases/tag/2.1.1) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.20](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.20) (1 day ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.6.10.6](https://github.com/shopware/shopware/releases/tag/v6.6.10.6) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.19](https://github.com/phpstan/phpstan/releases/tag/2.1.19) (3 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.13.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.13.0) (3 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.6](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.6) (3 days ago)
