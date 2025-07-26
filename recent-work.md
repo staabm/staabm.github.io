@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fixed `HasOffsetValueType` accessory missing main-type](https://github.com/phpstan/phpstan-src/pull/4162) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Use `Type-&gt;isInteger()` over `$dimType instanceof ConstantIntegerType`](https://github.com/phpstan/phpstan-src/pull/4161) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify ParametersAcceptorSelector](https://github.com/phpstan/phpstan-src/pull/4160) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix `array_key_exists` narrows `$key` too much](https://github.com/phpstan/phpstan-src/pull/4151) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -54,7 +55,6 @@
 - [Update brianium/paratest to fix parallel tests build](https://github.com/phpstan/phpstan-src/pull/4104) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/4103) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Playground: enable PhpdocCommentRule](https://github.com/phpstan/phpstan/pull/13260) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
-- [Fix name collisions](https://github.com/phpstan/phpstan-src/pull/4102) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
