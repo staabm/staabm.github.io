@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify ParametersAcceptorSelector](https://github.com/phpstan/phpstan-src/pull/4160) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix `array_key_exists` narrows `$key` too much](https://github.com/phpstan/phpstan-src/pull/4151) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [NarrowPrivateClassMethodParamTypeRule: Skip variadics](https://github.com/rectorphp/type-perfect/pull/66) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (3 days ago)
 - [Fix MethodExistsTypeSpecifyingExtension for union types](https://github.com/phpstan/phpstan-src/pull/4150) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -54,7 +55,6 @@
 - [Playground: enable PhpdocCommentRule](https://github.com/phpstan/phpstan/pull/13260) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [Fix name collisions](https://github.com/phpstan/phpstan-src/pull/4102) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Remove `--only-covered`; Introduce `--with-uncovered` instead](https://github.com/infection/site/pull/278) on [infection/site](https://github.com/infection/site) (1 week ago)
-- [Fix CLI output rendering for diffs which contain symfony-style like text](https://github.com/infection/infection/pull/2338) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
