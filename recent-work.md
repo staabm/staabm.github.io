@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use `Type-&gt;isInteger()` over `$dimType instanceof ConstantIntegerType`](https://github.com/phpstan/phpstan-src/pull/4161) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify ParametersAcceptorSelector](https://github.com/phpstan/phpstan-src/pull/4160) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix `array_key_exists` narrows `$key` too much](https://github.com/phpstan/phpstan-src/pull/4151) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [NarrowPrivateClassMethodParamTypeRule: Skip variadics](https://github.com/rectorphp/type-perfect/pull/66) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (3 days ago)
@@ -54,7 +55,6 @@
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/4103) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Playground: enable PhpdocCommentRule](https://github.com/phpstan/phpstan/pull/13260) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [Fix name collisions](https://github.com/phpstan/phpstan-src/pull/4102) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Remove `--only-covered`; Introduce `--with-uncovered` instead](https://github.com/infection/site/pull/278) on [infection/site](https://github.com/infection/site) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
