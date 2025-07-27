@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.6.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.6.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.20](https://github.com/phpstan/phpstan/releases/tag/2.1.20) (1 day ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.1.0](https://github.com/shopware/shopware/releases/tag/v6.7.1.0) (3 days ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.1.1](https://github.com/CuyZ/Valinor/releases/tag/2.1.1) (4 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.7](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.7) (6 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.19.0](https://github.com/redaxo/redaxo/releases/tag/5.19.0) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.4](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.4) (1 week ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.84.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.84.0) (1 week ago)
