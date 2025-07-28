@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix build with latest PHPStan](https://github.com/staabm/phpstan-dba/pull/764) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Prevent endless loop in `QuerySimulation`](https://github.com/staabm/phpstan-dba/pull/763) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Introduce `Type-&gt;getConstantArrayKeys()`](https://github.com/phpstan/phpstan-src/pull/4171) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Ignore PHPUnit cache-file](https://github.com/phpstan/phpstan-src/pull/4169) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fixed `HasOffsetValueType` accessory missing main-type](https://github.com/phpstan/phpstan-src/pull/4162) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -53,8 +55,6 @@
 - [Fix missing detection of dead code in arrow functions](https://github.com/phpstan/phpstan-src/pull/4147) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [use benevolent union for `stream_get_contents()` to prevent strict-rule errors](https://github.com/phpstan/phpstan-src/pull/4146) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Fix args are mistakenly handled as immediately-invoked](https://github.com/phpstan/phpstan-src/pull/4145) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/4105) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Update brianium/paratest to fix parallel tests build](https://github.com/phpstan/phpstan-src/pull/4104) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
