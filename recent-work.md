@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (5 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)
@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.22](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.22) (today)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.6.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.6.0) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.20](https://github.com/phpstan/phpstan/releases/tag/2.1.20) (2 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.1.0](https://github.com/shopware/shopware/releases/tag/v6.7.1.0) (4 days ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.1.1](https://github.com/CuyZ/Valinor/releases/tag/2.1.1) (5 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.20](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.20) (5 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.13.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.13.0) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.6](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.6) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.7](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.7) (1 week ago)
