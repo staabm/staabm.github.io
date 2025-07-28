@@ -4,6 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [staabm/dotfiles](https://github.com/staabm/dotfiles) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (5 days ago)
@@ -12,7 +13,6 @@
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)
 - [staabm/phpstorm-bug-unreachable-statement](https://github.com/staabm/phpstorm-bug-unreachable-statement) (1 month ago)
 - [infection/site](https://github.com/infection/site) (1 month ago)
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (1 month ago)
 
 
 #### 📜 My recent blog posts
