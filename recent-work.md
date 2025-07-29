@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/dotfiles](https://github.com/staabm/dotfiles) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -59,8 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.3.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.2) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.24](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.24) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.21](https://github.com/phpstan/phpstan/releases/tag/2.1.21) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.23](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.23) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.1](https://github.com/staabm/phpstan-dba/releases/tag/0.4.1) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) - [0.31.0](https://github.com/infection/infection/releases/tag/0.31.0) (1 day ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.1.1](https://github.com/shopware/shopware/releases/tag/v6.7.1.1) (1 day ago)
@@ -68,4 +69,3 @@
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.1.1](https://github.com/CuyZ/Valinor/releases/tag/2.1.1) (6 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.13.0](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.13.0) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.6](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.6) (1 week ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.7](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.7) (1 week ago)
