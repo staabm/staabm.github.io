@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Cleanup PHPUnit result-cache files older than 30 days](https://github.com/infection/infection/pull/2349) on [infection/infection](https://github.com/infection/infection) (today)
 - [Declare PHP 8.5 support](https://github.com/nette/tester/pull/460) on [nette/tester](https://github.com/nette/tester) (today)
 - [CI: Added PHP 8.5 setup](https://github.com/infection/infection/pull/2348) on [infection/infection](https://github.com/infection/infection) (today)
 - [Fix build with latest PHPStan](https://github.com/staabm/phpstan-dba/pull/764) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
@@ -54,7 +55,6 @@
 - [Fix MethodExistsTypeSpecifyingExtension for union types](https://github.com/phpstan/phpstan-src/pull/4150) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [rex_sql: fix wrong error message concatenation](https://github.com/redaxo/redaxo/pull/6317) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [Fix missing detection of dead code in closures](https://github.com/phpstan/phpstan-src/pull/4148) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix missing detection of dead code in arrow functions](https://github.com/phpstan/phpstan-src/pull/4147) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
