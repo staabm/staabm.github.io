@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Declare PHP 8.5 support](https://github.com/nette/tester/pull/460) on [nette/tester](https://github.com/nette/tester) (today)
+- [CI: Added PHP 8.5 setup](https://github.com/infection/infection/pull/2348) on [infection/infection](https://github.com/infection/infection) (today)
 - [Fix build with latest PHPStan](https://github.com/staabm/phpstan-dba/pull/764) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [Prevent endless loop in `QuerySimulation`](https://github.com/staabm/phpstan-dba/pull/763) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [Introduce `Type-&gt;getConstantArrayKeys()`](https://github.com/phpstan/phpstan-src/pull/4171) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -53,8 +55,6 @@
 - [rex_sql: fix wrong error message concatenation](https://github.com/redaxo/redaxo/pull/6317) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 - [Fix missing detection of dead code in closures](https://github.com/phpstan/phpstan-src/pull/4148) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix missing detection of dead code in arrow functions](https://github.com/phpstan/phpstan-src/pull/4147) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [use benevolent union for `stream_get_contents()` to prevent strict-rule errors](https://github.com/phpstan/phpstan-src/pull/4146) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix args are mistakenly handled as immediately-invoked](https://github.com/phpstan/phpstan-src/pull/4145) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
