@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [infection/infection](https://github.com/infection/infection) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [staabm/dotfiles](https://github.com/staabm/dotfiles) (2 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
+- [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [staabm/dotfiles](https://github.com/staabm/dotfiles) (3 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
-- [infection/site](https://github.com/infection/site) (1 week ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
+- [infection/site](https://github.com/infection/site) (2 weeks ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Cleanup PHPUnit result-cache files older than 30 days](https://github.com/infection/infection/pull/2349) on [infection/infection](https://github.com/infection/infection) (today)
-- [Declare PHP 8.5 support](https://github.com/nette/tester/pull/460) on [nette/tester](https://github.com/nette/tester) (today)
-- [CI: Added PHP 8.5 setup](https://github.com/infection/infection/pull/2348) on [infection/infection](https://github.com/infection/infection) (today)
-- [Fix build with latest PHPStan](https://github.com/staabm/phpstan-dba/pull/764) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
-- [Prevent endless loop in `QuerySimulation`](https://github.com/staabm/phpstan-dba/pull/763) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
-- [Introduce `Type-&gt;getConstantArrayKeys()`](https://github.com/phpstan/phpstan-src/pull/4171) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Ignore PHPUnit cache-file](https://github.com/phpstan/phpstan-src/pull/4169) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Fixed `HasOffsetValueType` accessory missing main-type](https://github.com/phpstan/phpstan-src/pull/4162) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Use `Type-&gt;isInteger()` over `$dimType instanceof ConstantIntegerType`](https://github.com/phpstan/phpstan-src/pull/4161) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Simplify ParametersAcceptorSelector](https://github.com/phpstan/phpstan-src/pull/4160) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Cleanup PHPUnit result-cache files older than 30 days](https://github.com/infection/infection/pull/2349) on [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [Declare PHP 8.5 support](https://github.com/nette/tester/pull/460) on [nette/tester](https://github.com/nette/tester) (1 day ago)
+- [CI: Added PHP 8.5 setup](https://github.com/infection/infection/pull/2348) on [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [Fix build with latest PHPStan](https://github.com/staabm/phpstan-dba/pull/764) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
+- [Prevent endless loop in `QuerySimulation`](https://github.com/staabm/phpstan-dba/pull/763) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
+- [Introduce `Type-&gt;getConstantArrayKeys()`](https://github.com/phpstan/phpstan-src/pull/4171) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Ignore PHPUnit cache-file](https://github.com/phpstan/phpstan-src/pull/4169) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Fixed `HasOffsetValueType` accessory missing main-type](https://github.com/phpstan/phpstan-src/pull/4162) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Use `Type-&gt;isInteger()` over `$dimType instanceof ConstantIntegerType`](https://github.com/phpstan/phpstan-src/pull/4161) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Simplify ParametersAcceptorSelector](https://github.com/phpstan/phpstan-src/pull/4160) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Fix `array_key_exists` narrows `$key` too much](https://github.com/phpstan/phpstan-src/pull/4151) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [NarrowPrivateClassMethodParamTypeRule: Skip variadics](https://github.com/rectorphp/type-perfect/pull/66) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 week ago)
 - [Fix MethodExistsTypeSpecifyingExtension for union types](https://github.com/phpstan/phpstan-src/pull/4150) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [3.4.0](https://github.com/FriendsOfREDAXO/adminer/releases/tag/3.4.0) (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.2.8](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.8) (today)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.85.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.85.1) (1 day ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.3.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.2) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.24](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.24) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.21](https://github.com/phpstan/phpstan/releases/tag/2.1.21) (2 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.1](https://github.com/staabm/phpstan-dba/releases/tag/0.4.1) (2 days ago)
-- [infection/infection](https://github.com/infection/infection) - [0.31.0](https://github.com/infection/infection/releases/tag/0.31.0) (2 days ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.1.1](https://github.com/shopware/shopware/releases/tag/v6.7.1.1) (2 days ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.6.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.6.0) (3 days ago)
+- [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [3.4.0](https://github.com/FriendsOfREDAXO/adminer/releases/tag/3.4.0) (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.2.8](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.8) (1 day ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.85.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.85.1) (2 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.3.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.2) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.24](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.24) (2 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.21](https://github.com/phpstan/phpstan/releases/tag/2.1.21) (3 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.1](https://github.com/staabm/phpstan-dba/releases/tag/0.4.1) (3 days ago)
+- [infection/infection](https://github.com/infection/infection) - [0.31.0](https://github.com/infection/infection/releases/tag/0.31.0) (3 days ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.1.1](https://github.com/shopware/shopware/releases/tag/v6.7.1.1) (3 days ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.6.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.6.0) (4 days ago)
