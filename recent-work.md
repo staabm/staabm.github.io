@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) - [v6.4.24](https://github.com/symfony/symfony/releases/tag/v6.4.24) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.2.9](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.9) (today)
 - [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [3.4.0](https://github.com/FriendsOfREDAXO/adminer/releases/tag/3.4.0) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.85.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.85.1) (2 days ago)
@@ -68,4 +69,3 @@
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.1](https://github.com/staabm/phpstan-dba/releases/tag/0.4.1) (3 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.31.0](https://github.com/infection/infection/releases/tag/0.31.0) (3 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.1.1](https://github.com/shopware/shopware/releases/tag/v6.7.1.1) (3 days ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.6.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.6.0) (4 days ago)
