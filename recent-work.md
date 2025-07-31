@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.2.9](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.9) (today)
 - [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [3.4.0](https://github.com/FriendsOfREDAXO/adminer/releases/tag/3.4.0) (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.2.8](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.8) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.85.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.85.1) (2 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.3.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.2) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.24](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.24) (2 days ago)
