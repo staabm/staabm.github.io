@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.1.2](https://github.com/shopware/shopware/releases/tag/v6.7.1.2) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.2](https://github.com/symfony/symfony/releases/tag/v7.3.2) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.2.9](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.9) (today)
 - [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [3.4.0](https://github.com/FriendsOfREDAXO/adminer/releases/tag/3.4.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.21](https://github.com/phpstan/phpstan/releases/tag/2.1.21) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.1](https://github.com/staabm/phpstan-dba/releases/tag/0.4.1) (3 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.31.0](https://github.com/infection/infection/releases/tag/0.31.0) (3 days ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.1.1](https://github.com/shopware/shopware/releases/tag/v6.7.1.1) (3 days ago)
