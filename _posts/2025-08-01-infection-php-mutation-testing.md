@@ -29,7 +29,7 @@ It was a natural choice for me to look into this topic, as it combines several c
 After getting used to Infection and applying it to my own projects, I started to contribute to the project itself.
 As usual, I start reporting issues with ideas for improvements and questions about my understanding of the approach.
 The maintainers were very responsive and helpful, which made it easy to get started.
-Within ~2 months I was able to contribute ~85 pull requests.
+Within ~2 months I was able to contribute [~85 pull requests](https://github.com/infection/infection/pulls?q=sort%3Aupdated-desc+is%3Apr+is%3Aopen+author%3Astaabm).
 
 So let's have a top level look at the tool.
 
