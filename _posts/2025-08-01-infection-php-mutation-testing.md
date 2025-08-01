@@ -90,5 +90,6 @@ See the [above example in the Infection playground](https://infection-php.dev/r/
 Playing 2 months with Infection was a lot of fun.
 It made me curious what else I can do to improve the tool and which value it can provide to the PHP community and my projects.
 
-I think it is not that easy to start with running Infection on a existing project, therefore I am planning to write another article about how to get started with it.
+I think it is not that easy to start with running Infection on a existing project,
+therefore I am planning to write another article about how to get started with it.
 
