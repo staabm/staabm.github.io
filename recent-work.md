@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.0](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.0) (today)
 - [shopware/shopware](https://github.com/shopware/shopware) - [v6.7.1.2](https://github.com/shopware/shopware/releases/tag/v6.7.1.2) (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.2](https://github.com/symfony/symfony/releases/tag/v7.3.2) (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.2.9](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.9) (1 day ago)
 - [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [3.4.0](https://github.com/FriendsOfREDAXO/adminer/releases/tag/3.4.0) (2 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.85.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.85.1) (3 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.3.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.2) (3 days ago)
