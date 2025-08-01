@@ -68,15 +68,15 @@ To cover this simple code with tests, you can do multiple mistakes:
 Running infection will give you examples (escaped mutants) to give some inspiration what your test-suite does not cover properly.
 See the [above example in the Infection playground](https://infection-php.dev/r/23mw) in action.
 
-For example, the following escaped mutant tells you, that you tests do not make a difference whether the condition is `$x > 0` or `$x >= 0`:
+For example, the following escaped mutant tells you, that your tests do not make a difference whether the condition is `$x > 0` or `$x >= 0`:
 
 <img width="1503" height="319" alt="Infection playground" src="https://github.com/user-attachments/assets/95992130-4f54-4275-b08d-c78db159feb0" />
 
 
 #### dead code detection
 
-Another take of looking at mutation testing results (escaped mutants) is dead code detection.
-In case you are confident that your test suite covers all relevant tests,
+From a different perspective looking at mutation testing results (escaped mutants) is dead code detection.
+In case you are confident that your test suite covers all relevant cases,
 a escaped mutant tells you that certain code in your implementation doesn't make a difference for the end result.
 This means that the code is dead and can be removed.
 
