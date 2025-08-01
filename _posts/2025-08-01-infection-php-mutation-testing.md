@@ -62,6 +62,7 @@ if ($x > 0) {
 To cover this simple code with tests, you can do multiple mistakes:
 - you could assert only the positive case but forget to assert the negative case
   - does the implementation produces the correct output depending on the condition?
+  - do your tests assert expectations when the condition is not met?
 - you could add tests which do not properly cover the boundary of the `x > 0`  expression, meaning off-by-one errors will not be detected
   - e.g. you need to verify whether it should be `$x >= 0` or `$x > 1` or `$x < 0` etc.
 
@@ -72,10 +73,12 @@ For example, the following escaped mutant tells you, that your tests do not make
 
 <img width="740" height="160" alt="Infection playground" src="/images/post-images/infection-php-mutation-testing/greater-than-mutant.png" />
 
+This does not necessarily mean that your implementation is wrong, but it tells you that your tests do not cover the condition properly.
+This might also be a indicator that your assertions need to be more precise, or that you need to add additional tests to cover the edge cases.
 
 #### dead code detection
 
-From a different perspective looking at mutation testing results (escaped mutants) is dead code detection.
+From a different perspective, looking at mutation testing results (escaped mutants) is dead code detection.
 In case you are confident that your test suite covers all relevant cases,
 a escaped mutant tells you that certain code in your implementation doesn't make a difference for the end result.
 This means that the code is dead and can be removed.
