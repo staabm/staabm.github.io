@@ -130,7 +130,7 @@ After I worked thru the feedback, it got clear that we can utilize the existing 
 We made it work for most but a few test cases. For at least 15 hours I tried to make the pull request pass for the few remaining test cases.
 I did not succeed though.
 
-Even if I did not talk about loosing my motivation to get this PR merged,
+Even if I did not talk about losing my motivation to get this PR merged,
 [ondrej seemed to realize](https://github.com/phpstan/phpstan-src/pull/2116#issuecomment-1359006986) that it was best to take the state at that time for a last polish.
 He refactored the implementation once again, [prepared existing ground](https://github.com/phpstan/phpstan-src/pull/2131) for the coming adjustments and merged the PR.
 
