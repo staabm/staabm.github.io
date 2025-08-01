@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add PHP 8.5 support](https://github.com/rhukster/sphp.sh/pull/18) on [rhukster/sphp.sh](https://github.com/rhukster/sphp.sh) (today)
 - [Create 2025-08-01-infection-php-mutation-testing.md](https://github.com/staabm/staabm.github.io/pull/132) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Cleanup PHPUnit result-cache files older than 30 days](https://github.com/infection/infection/pull/2349) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [Declare PHP 8.5 support](https://github.com/nette/tester/pull/460) on [nette/tester](https://github.com/nette/tester) (2 days ago)
@@ -54,7 +55,6 @@
 - [Fix `array_key_exists` narrows `$key` too much](https://github.com/phpstan/phpstan-src/pull/4151) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [NarrowPrivateClassMethodParamTypeRule: Skip variadics](https://github.com/rectorphp/type-perfect/pull/66) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 week ago)
 - [Fix MethodExistsTypeSpecifyingExtension for union types](https://github.com/phpstan/phpstan-src/pull/4150) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [rex_sql: fix wrong error message concatenation](https://github.com/redaxo/redaxo/pull/6317) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
