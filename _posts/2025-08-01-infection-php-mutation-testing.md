@@ -70,7 +70,7 @@ See the [above example in the Infection playground](https://infection-php.dev/r/
 
 For example, the following escaped mutant tells you, that your tests do not make a difference whether the condition is `$x > 0` or `$x >= 0`:
 
-<img width="1503" height="319" alt="Infection playground" src="https://github.com/user-attachments/assets/95992130-4f54-4275-b08d-c78db159feb0" />
+<img width="1503" height="319" alt="Infection playground" src="/images/post-images/infection-php-mutation-testing/greater-than-mutant.png" />
 
 
 #### dead code detection
@@ -80,7 +80,7 @@ In case you are confident that your test suite covers all relevant cases,
 a escaped mutant tells you that certain code in your implementation doesn't make a difference for the end result.
 This means that the code is dead and can be removed.
 
-<img width="1506" height="323" alt="Image" src="https://github.com/user-attachments/assets/28682c4b-3b63-4287-b148-26a250910433" />
+<img width="1506" height="323" alt="Image" src="/images/post-images/infection-php-mutation-testing/unwrap-trim-mutant.png" />
 
 See the [above example in the Infection playground](https://infection-php.dev/r/53ze) in action.
 
