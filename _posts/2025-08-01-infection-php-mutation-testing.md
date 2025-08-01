@@ -78,7 +78,7 @@ This might also be a indicator that your assertions need to be more precise, or 
 
 #### dead code detection
 
-From a different perspective, looking at mutation testing results (escaped mutants) is dead code detection.
+From a different perspective, looking at mutation testing results (escaped mutants) can help you to detect dead code.
 In case you are confident that your test suite covers all relevant cases,
 a escaped mutant tells you that certain code in your implementation doesn't make a difference for the end result.
 This means that the code is dead and can be removed.
