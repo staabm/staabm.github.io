@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [nette/tester](https://github.com/nette/tester) (2 days ago)
 - [infection/infection](https://github.com/infection/infection) (2 days ago)
@@ -10,9 +11,8 @@
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [staabm/dotfiles](https://github.com/staabm/dotfiles) (4 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
+- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Create 2025-08-01-infection-php-mutation-testing.md](https://github.com/staabm/staabm.github.io/pull/132) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Cleanup PHPUnit result-cache files older than 30 days](https://github.com/infection/infection/pull/2349) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [Declare PHP 8.5 support](https://github.com/nette/tester/pull/460) on [nette/tester](https://github.com/nette/tester) (2 days ago)
 - [CI: Added PHP 8.5 setup](https://github.com/infection/infection/pull/2348) on [infection/infection](https://github.com/infection/infection) (2 days ago)
@@ -54,7 +55,6 @@
 - [NarrowPrivateClassMethodParamTypeRule: Skip variadics](https://github.com/rectorphp/type-perfect/pull/66) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 week ago)
 - [Fix MethodExistsTypeSpecifyingExtension for union types](https://github.com/phpstan/phpstan-src/pull/4150) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [rex_sql: fix wrong error message concatenation](https://github.com/redaxo/redaxo/pull/6317) on [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
-- [Fix missing detection of dead code in closures](https://github.com/phpstan/phpstan-src/pull/4148) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
