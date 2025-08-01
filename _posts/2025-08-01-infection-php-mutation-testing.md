@@ -36,11 +36,11 @@ So let's have a top level look at the tool.
 ### What to expect from mutation testing?
 
 From my point of view what you get from applying mutation testing is:
-- more precise metric for your test suite quality / code line coverage is not a reliable metric
+- more precise metric for your test suite quality
 - a copilot for writing better tests
 - dead code detection
 
-#### more precise metric for your test suite quality / code line coverage is not a reliable metric
+#### more precise metric for your test suite quality
 
 After running Infection on your codebase, you will get a report with a [mutation score indicator (MSI)](https://infection.github.io/guide/#Metrics-Mutation-Score-Indicator-MSI).
 It's a metric which describes how likely you or your colleagues can introduce a new bug/regression into your codebase without your quality tooling noticing it.
