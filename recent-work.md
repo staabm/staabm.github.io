@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [DiffColorizerTest: Add multi byte tests](https://github.com/infection/infection/pull/2354) on [infection/infection](https://github.com/infection/infection) (today)
 - [Update og-images](https://github.com/staabm/staabm.github.io/pull/133) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Kill timed out mutants in `DiffColorizer`](https://github.com/infection/infection/pull/2353) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [Add PHP 8.5 support](https://github.com/rhukster/sphp.sh/pull/18) on [rhukster/sphp.sh](https://github.com/rhukster/sphp.sh) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fixed `HasOffsetValueType` accessory missing main-type](https://github.com/phpstan/phpstan-src/pull/4162) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Use `Type-&gt;isInteger()` over `$dimType instanceof ConstantIntegerType`](https://github.com/phpstan/phpstan-src/pull/4161) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Simplify ParametersAcceptorSelector](https://github.com/phpstan/phpstan-src/pull/4160) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix `array_key_exists` narrows `$key` too much](https://github.com/phpstan/phpstan-src/pull/4151) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
