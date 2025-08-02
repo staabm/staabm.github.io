@@ -96,3 +96,4 @@ It made me curious what else I can do to improve the tool and which value it can
 I think it is not that easy to start with running Infection on a existing project,
 therefore I am planning to write another article about how to get started with it.
 
+
