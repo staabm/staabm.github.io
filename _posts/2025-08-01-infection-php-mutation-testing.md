@@ -69,7 +69,7 @@ To cover this simple code with tests, you can do multiple mistakes:
 Running infection will give you examples (escaped mutants) to give some inspiration what your test-suite does not cover properly.
 See the [above example in the Infection playground](https://infection-php.dev/r/23mw) in action.
 
-For example, the following escaped mutant tells you, that your tests do not make a difference whether the condition is `$x > 0` or `$x >= 0`:
+For instance, the following escaped mutant tells you, that your tests do not make a difference whether the condition is `$x > 0` or `$x >= 0`:
 
 <img width="740" height="160" alt="Infection playground" src="/images/post-images/infection-php-mutation-testing/greater-than-mutant.png" />
 
