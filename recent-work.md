@@ -3,13 +3,13 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [nette/tester](https://github.com/nette/tester) (5 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
-- [staabm/dotfiles](https://github.com/staabm/dotfiles) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
+- [staabm/dotfiles](https://github.com/staabm/dotfiles) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 week ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) (1 week ago)
@@ -59,12 +59,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.25](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.25) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.0](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.0) (3 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.2](https://github.com/symfony/symfony/releases/tag/v7.3.2) (4 days ago)
 - [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [3.4.0](https://github.com/FriendsOfREDAXO/adminer/releases/tag/3.4.0) (5 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.85.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.85.1) (6 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.3.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.2) (6 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.24](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.24) (6 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.21](https://github.com/phpstan/phpstan/releases/tag/2.1.21) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.1](https://github.com/staabm/phpstan-dba/releases/tag/0.4.1) (1 week ago)
 - [infection/infection](https://github.com/infection/infection) - [0.31.0](https://github.com/infection/infection/releases/tag/0.31.0) (1 week ago)
