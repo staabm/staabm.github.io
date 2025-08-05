@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [SafeDOMXPath: Don&#39;t allow network fetches](https://github.com/infection/infection/pull/2357) on [infection/infection](https://github.com/infection/infection) (today)
 - [Test `#[DataProvider]` with process isolation](https://github.com/sebastianbergmann/phpunit/pull/6290) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Implement PcntlForkJobRunner](https://github.com/sebastianbergmann/phpunit/pull/6288) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [DiffColorizerTest: Add multi byte tests](https://github.com/infection/infection/pull/2354) on [infection/infection](https://github.com/infection/infection) (3 days ago)
@@ -54,7 +55,6 @@
 - [Prevent endless loop in `QuerySimulation`](https://github.com/staabm/phpstan-dba/pull/763) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [Introduce `Type-&gt;getConstantArrayKeys()`](https://github.com/phpstan/phpstan-src/pull/4171) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Ignore PHPUnit cache-file](https://github.com/phpstan/phpstan-src/pull/4169) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fixed `HasOffsetValueType` accessory missing main-type](https://github.com/phpstan/phpstan-src/pull/4162) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
