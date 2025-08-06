@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.32.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.32.0) (today)
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.24](https://github.com/php/php-src/releases/tag/php-8.3.24) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.26](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.26) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.22](https://github.com/phpstan/phpstan/releases/tag/2.1.22) (2 days ago)
@@ -68,4 +69,3 @@
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.2](https://github.com/symfony/symfony/releases/tag/v7.3.2) (6 days ago)
 - [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [3.4.0](https://github.com/FriendsOfREDAXO/adminer/releases/tag/3.4.0) (1 week ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.85.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.85.1) (1 week ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.3.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.2) (1 week ago)
