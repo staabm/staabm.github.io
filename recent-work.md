@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added more detailed assertions in Issue5592Test](https://github.com/sebastianbergmann/phpunit/pull/6292) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Test events while process isolation](https://github.com/sebastianbergmann/phpunit/pull/6291) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [SafeDOMXPath: Don&#39;t allow network fetches](https://github.com/infection/infection/pull/2357) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [Test `#[DataProvider]` with process isolation](https://github.com/sebastianbergmann/phpunit/pull/6290) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
@@ -54,7 +55,6 @@
 - [CI: Added PHP 8.5 setup](https://github.com/infection/infection/pull/2348) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 - [Fix build with latest PHPStan](https://github.com/staabm/phpstan-dba/pull/764) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [Prevent endless loop in `QuerySimulation`](https://github.com/staabm/phpstan-dba/pull/763) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [Introduce `Type-&gt;getConstantArrayKeys()`](https://github.com/phpstan/phpstan-src/pull/4171) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
