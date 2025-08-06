@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Relate deprecations from DataProvider with corresponding tests](https://github.com/sebastianbergmann/phpunit/pull/6293) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Added more detailed assertions in Issue5592Test](https://github.com/sebastianbergmann/phpunit/pull/6292) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Test events while process isolation](https://github.com/sebastianbergmann/phpunit/pull/6291) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [SafeDOMXPath: Don&#39;t allow network fetches](https://github.com/infection/infection/pull/2357) on [infection/infection](https://github.com/infection/infection) (1 day ago)
@@ -54,7 +55,6 @@
 - [Declare PHP 8.5 support](https://github.com/nette/tester/pull/460) on [nette/tester](https://github.com/nette/tester) (1 week ago)
 - [CI: Added PHP 8.5 setup](https://github.com/infection/infection/pull/2348) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 - [Fix build with latest PHPStan](https://github.com/staabm/phpstan-dba/pull/764) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [Prevent endless loop in `QuerySimulation`](https://github.com/staabm/phpstan-dba/pull/763) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
