@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent fatal errors not reported](https://github.com/sebastianbergmann/phpunit/pull/6296) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [Simplify TestCase](https://github.com/sebastianbergmann/phpunit/pull/6295) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/4214) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Relate deprecations from DataProvider with corresponding tests](https://github.com/sebastianbergmann/phpunit/pull/6293) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [Added more detailed assertions in Issue5592Test](https://github.com/sebastianbergmann/phpunit/pull/6292) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
@@ -53,8 +55,6 @@
 - [Add PHP 8.5 support](https://github.com/rhukster/sphp.sh/pull/18) on [rhukster/sphp.sh](https://github.com/rhukster/sphp.sh) (1 week ago)
 - [Create 2025-08-01-infection-php-mutation-testing.md](https://github.com/staabm/staabm.github.io/pull/132) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [Cleanup PHPUnit result-cache files older than 30 days](https://github.com/infection/infection/pull/2349) on [infection/infection](https://github.com/infection/infection) (1 week ago)
-- [Declare PHP 8.5 support](https://github.com/nette/tester/pull/460) on [nette/tester](https://github.com/nette/tester) (1 week ago)
-- [CI: Added PHP 8.5 setup](https://github.com/infection/infection/pull/2348) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
