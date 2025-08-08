@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/4216) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent fatal errors not reported](https://github.com/sebastianbergmann/phpunit/pull/6296) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Simplify TestCase](https://github.com/sebastianbergmann/phpunit/pull/6295) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/4214) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Kill timed out mutants in `DiffColorizer`](https://github.com/infection/infection/pull/2353) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 - [Add PHP 8.5 support](https://github.com/rhukster/sphp.sh/pull/18) on [rhukster/sphp.sh](https://github.com/rhukster/sphp.sh) (1 week ago)
 - [Create 2025-08-01-infection-php-mutation-testing.md](https://github.com/staabm/staabm.github.io/pull/132) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
-- [Cleanup PHPUnit result-cache files older than 30 days](https://github.com/infection/infection/pull/2349) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
