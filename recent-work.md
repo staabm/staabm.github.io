@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.1) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.2](https://github.com/staabm/phpstan-dba/releases/tag/0.4.2) (2 days ago)
 - [nette/tester](https://github.com/nette/tester) - [v2.5.6](https://github.com/nette/tester/releases/tag/v2.5.6) (3 days ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.32.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.32.0) (3 days ago)
@@ -67,5 +68,4 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.22](https://github.com/phpstan/phpstan/releases/tag/2.1.22) (5 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.31.1](https://github.com/infection/infection/releases/tag/0.31.1) (5 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.13.1](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.13.1) (5 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.0](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.0) (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.2](https://github.com/symfony/symfony/releases/tag/v7.3.2) (1 week ago)
