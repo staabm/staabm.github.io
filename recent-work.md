@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.3) (today)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.1.2](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.2) (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.2](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.2) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.2](https://github.com/staabm/phpstan-dba/releases/tag/0.4.2) (4 days ago)
 - [nette/tester](https://github.com/nette/tester) - [v2.5.6](https://github.com/nette/tester/releases/tag/v2.5.6) (5 days ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.32.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.32.0) (5 days ago)
