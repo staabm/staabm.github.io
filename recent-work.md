@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Ignore FuncCall which takes assignment in args](https://github.com/phpstan/phpstan-src/pull/4237) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Declare assert-if-true for filesystem functions](https://github.com/phpstan/phpstan-src/pull/4234) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix PHP8.5 deprecation warnings with ReflectionProperty::setAccessible()](https://github.com/phpstan/phpstan-src/pull/4230) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Emit warning when OPCache is enabled while collecting coverage](https://github.com/sebastianbergmann/phpunit/pull/6299) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
@@ -54,7 +55,6 @@
 - [Test `#[DataProvider]` with process isolation](https://github.com/sebastianbergmann/phpunit/pull/6290) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [Implement PcntlForkJobRunner](https://github.com/sebastianbergmann/phpunit/pull/6288) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [DiffColorizerTest: Add multi byte tests](https://github.com/infection/infection/pull/2354) on [infection/infection](https://github.com/infection/infection) (1 week ago)
-- [Update og-images](https://github.com/staabm/staabm.github.io/pull/133) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
