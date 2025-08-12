@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [infection/infection](https://github.com/infection/infection) (today)
 - [nette/coding-standard](https://github.com/nette/coding-standard) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
-- [infection/infection](https://github.com/infection/infection) (today)
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [nette/tester](https://github.com/nette/tester) (1 week ago)
 - [staabm/dotfiles](https://github.com/staabm/dotfiles) (2 weeks ago)
-- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -41,7 +41,7 @@
 #### 🔨 My recent Pull Requests
 
 - [PHPT: Trigger runner warning on fatal-error in SKIPIF](https://github.com/sebastianbergmann/phpunit/pull/6312) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
-- [Turn Runtime-&gt;isOpcacheActive() public](https://github.com/sebastianbergmann/environment/pull/75) on [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (today)
+- [Make `Runtime::isOpcacheActive()` public](https://github.com/sebastianbergmann/environment/pull/75) on [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (today)
 - [Remove lower-bound composer constraints](https://github.com/infection/infection/pull/2366) on [infection/infection](https://github.com/infection/infection) (today)
 - [Fix PHP 8.5 build](https://github.com/infection/infection/pull/2365) on [infection/infection](https://github.com/infection/infection) (today)
 - [Fix &#34;Method ReflectionProperty::setAccessible() is deprecated since 8.5, as it has no effect&#34;](https://github.com/nette/coding-standard/pull/49) on [nette/coding-standard](https://github.com/nette/coding-standard) (today)
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [8.0.3](https://github.com/sebastianbergmann/environment/releases/tag/8.0.3) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.4) (today)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.1.2](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.2) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.2](https://github.com/staabm/phpstan-dba/releases/tag/0.4.2) (5 days ago)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.26](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.26) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.22](https://github.com/phpstan/phpstan/releases/tag/2.1.22) (1 week ago)
 - [infection/infection](https://github.com/infection/infection) - [0.31.1](https://github.com/infection/infection/releases/tag/0.31.1) (1 week ago)
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.13.1](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.13.1) (1 week ago)
