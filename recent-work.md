@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [nette/coding-standard](https://github.com/nette/coding-standard) (today)
+- [infection/infection](https://github.com/infection/infection) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [infection/infection](https://github.com/infection/infection) (1 week ago)
 - [nette/tester](https://github.com/nette/tester) (1 week ago)
 - [staabm/dotfiles](https://github.com/staabm/dotfiles) (2 weeks ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) (2 weeks ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (2 weeks ago)
 
 
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix &#34;Method ReflectionProperty::setAccessible() is deprecated since 8.5, as it has no effect&#34;](https://github.com/nette/coding-standard/pull/49) on [nette/coding-standard](https://github.com/nette/coding-standard) (today)
+- [Fix &#34;Method ReflectionProperty::setAccessible() is deprecated since 8.5, as it has no effect&#34;](https://github.com/nette/tracy/pull/600) on [nette/tracy](https://github.com/nette/tracy) (today)
+- [Fix &#34;Method ReflectionProperty::setAccessible() is deprecated since 8.5, as it has no effect&#34;](https://github.com/infection/infection/pull/2364) on [infection/infection](https://github.com/infection/infection) (today)
 - [ Fix false positive of function.alreadyNarrowedType (function call variable assignment)](https://github.com/phpstan/phpstan-src/pull/4237) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Declare assert-if-true for filesystem functions](https://github.com/phpstan/phpstan-src/pull/4234) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fix PHP8.5 deprecation warnings with ReflectionProperty::setAccessible()](https://github.com/phpstan/phpstan-src/pull/4230) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -52,9 +55,6 @@
 - [Added more detailed assertions in Issue5592Test](https://github.com/sebastianbergmann/phpunit/pull/6292) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
 - [Test events while process isolation](https://github.com/sebastianbergmann/phpunit/pull/6291) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
 - [SafeDOMXPath: Don&#39;t allow network fetches](https://github.com/infection/infection/pull/2357) on [infection/infection](https://github.com/infection/infection) (1 week ago)
-- [Test `#[DataProvider]` with process isolation](https://github.com/sebastianbergmann/phpunit/pull/6290) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [Implement PcntlForkJobRunner](https://github.com/sebastianbergmann/phpunit/pull/6288) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [DiffColorizerTest: Add multi byte tests](https://github.com/infection/infection/pull/2354) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
