@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [PHPT: Trigger runner warning on fatal-error in SKIPIF](https://github.com/sebastianbergmann/phpunit/pull/6312) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [Turn Runtime-&gt;isOpcacheActive() public](https://github.com/sebastianbergmann/environment/pull/75) on [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (today)
 - [Remove lower-bound composer constraints](https://github.com/infection/infection/pull/2366) on [infection/infection](https://github.com/infection/infection) (today)
 - [Fix PHP 8.5 build](https://github.com/infection/infection/pull/2365) on [infection/infection](https://github.com/infection/infection) (today)
 - [Fix &#34;Method ReflectionProperty::setAccessible() is deprecated since 8.5, as it has no effect&#34;](https://github.com/nette/coding-standard/pull/49) on [nette/coding-standard](https://github.com/nette/coding-standard) (today)
@@ -53,8 +55,6 @@
 - [Prevent fatal errors not reported](https://github.com/sebastianbergmann/phpunit/pull/6296) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [Simplify TestCase](https://github.com/sebastianbergmann/phpunit/pull/6295) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/4214) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Relate deprecations from DataProvider with corresponding tests](https://github.com/sebastianbergmann/phpunit/pull/6293) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
-- [Added more detailed assertions in Issue5592Test](https://github.com/sebastianbergmann/phpunit/pull/6292) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
