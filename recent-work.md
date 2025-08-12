@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Ignore FuncCall which takes assignment in args](https://github.com/phpstan/phpstan-src/pull/4237) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [ Fix false positive of function.alreadyNarrowedType (function call variable assignment)](https://github.com/phpstan/phpstan-src/pull/4237) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Declare assert-if-true for filesystem functions](https://github.com/phpstan/phpstan-src/pull/4234) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fix PHP8.5 deprecation warnings with ReflectionProperty::setAccessible()](https://github.com/phpstan/phpstan-src/pull/4230) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Emit warning when OPCache is enabled while collecting coverage](https://github.com/sebastianbergmann/phpunit/pull/6299) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
