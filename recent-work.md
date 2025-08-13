@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Print previous exception in Testdox](https://github.com/sebastianbergmann/phpunit/pull/6315) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Added regression test](https://github.com/sebastianbergmann/phpunit/pull/6314) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [PHPT: Trigger runner warning on parse-error in CLEAN](https://github.com/sebastianbergmann/phpunit/pull/6313) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [PHPT: Trigger runner warning on fatal-error in SKIPIF](https://github.com/sebastianbergmann/phpunit/pull/6312) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix PHP8.5 deprecation warnings with ReflectionProperty::setAccessible()](https://github.com/phpstan/phpstan-src/pull/4230) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Emit warning when OPCache is enabled while collecting coverage](https://github.com/sebastianbergmann/phpunit/pull/6299) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/4216) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Prevent fatal errors not reported](https://github.com/sebastianbergmann/phpunit/pull/6296) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
