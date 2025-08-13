@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.6.1](https://github.com/nikic/PHP-Parser/releases/tag/v5.6.1) (today)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [8.0.3](https://github.com/sebastianbergmann/environment/releases/tag/8.0.3) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.4) (1 day ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.1.2](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.2) (3 days ago)
@@ -68,4 +69,3 @@
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.24](https://github.com/php/php-src/releases/tag/php-8.3.24) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.26](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.26) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.22](https://github.com/phpstan/phpstan/releases/tag/2.1.22) (1 week ago)
-- [infection/infection](https://github.com/infection/infection) - [0.31.1](https://github.com/infection/infection/releases/tag/0.31.1) (1 week ago)
