@@ -3,22 +3,22 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [infection/infection](https://github.com/infection/infection) (today)
-- [nette/coding-standard](https://github.com/nette/coding-standard) (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
+- [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [nette/coding-standard](https://github.com/nette/coding-standard) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [nette/tester](https://github.com/nette/tester) (1 week ago)
+- [nette/tester](https://github.com/nette/tester) (2 weeks ago)
 - [staabm/dotfiles](https://github.com/staabm/dotfiles) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
 
 - [Mutation testing with Infection in PHP](https://staabm.github.io/2025/08/01/infection-php-mutation-testing.html) (1 week ago)
-- [PHPStan remembered types from constructor](https://staabm.github.io/2025/04/15/phpstan-remember-constructor-types.html) (3 months ago)
+- [PHPStan remembered types from constructor](https://staabm.github.io/2025/04/15/phpstan-remember-constructor-types.html) (4 months ago)
 - [Thank You](https://staabm.github.io/2025/01/24/thank-you.html) (6 months ago)
 - [Contribution Summary 2024](https://staabm.github.io/2024/12/11/contribution-summary-2024.html) (8 months ago)
 - [My new PHPStan focus: multi-phpversion support](https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html) (8 months ago)
@@ -26,7 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
-- [passbolt](https://github.com/passbolt) (4 weeks ago)
+- [passbolt](https://github.com/passbolt) (1 month ago)
 - [packagist](https://github.com/packagist) (2 months ago)
 - [Enkora](https://github.com/Enkora) (2 months ago)
 - [phpstan](https://github.com/phpstan) (1 year ago)
@@ -40,31 +40,31 @@
 
 #### 🔨 My recent Pull Requests
 
-- [PHPT: Trigger runner warning on fatal-error in SKIPIF](https://github.com/sebastianbergmann/phpunit/pull/6312) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
-- [Make `Runtime::isOpcacheActive()` public](https://github.com/sebastianbergmann/environment/pull/75) on [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (today)
-- [Remove lower-bound composer constraints](https://github.com/infection/infection/pull/2366) on [infection/infection](https://github.com/infection/infection) (today)
-- [Fix PHP 8.5 build](https://github.com/infection/infection/pull/2365) on [infection/infection](https://github.com/infection/infection) (today)
-- [Fix &#34;Method ReflectionProperty::setAccessible() is deprecated since 8.5, as it has no effect&#34;](https://github.com/nette/coding-standard/pull/49) on [nette/coding-standard](https://github.com/nette/coding-standard) (today)
-- [Fix &#34;Method ReflectionProperty::setAccessible() is deprecated since 8.5, as it has no effect&#34;](https://github.com/nette/tracy/pull/600) on [nette/tracy](https://github.com/nette/tracy) (today)
-- [Fix &#34;Method ReflectionProperty::setAccessible() is deprecated since 8.5, as it has no effect&#34;](https://github.com/infection/infection/pull/2364) on [infection/infection](https://github.com/infection/infection) (today)
-- [ Fix false positive of function.alreadyNarrowedType (function call variable assignment)](https://github.com/phpstan/phpstan-src/pull/4237) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Declare assert-if-true for filesystem functions](https://github.com/phpstan/phpstan-src/pull/4234) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Fix PHP8.5 deprecation warnings with ReflectionProperty::setAccessible()](https://github.com/phpstan/phpstan-src/pull/4230) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Emit warning when OPCache is enabled while collecting coverage](https://github.com/sebastianbergmann/phpunit/pull/6299) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/4216) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Prevent fatal errors not reported](https://github.com/sebastianbergmann/phpunit/pull/6296) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
-- [Simplify TestCase](https://github.com/sebastianbergmann/phpunit/pull/6295) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
-- [Fix build](https://github.com/phpstan/phpstan-src/pull/4214) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [PHPT: Trigger runner warning on fatal-error in SKIPIF](https://github.com/sebastianbergmann/phpunit/pull/6312) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
+- [Make `Runtime::isOpcacheActive()` public](https://github.com/sebastianbergmann/environment/pull/75) on [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (1 day ago)
+- [Remove lower-bound composer constraints](https://github.com/infection/infection/pull/2366) on [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [Fix PHP 8.5 build](https://github.com/infection/infection/pull/2365) on [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [Fix &#34;Method ReflectionProperty::setAccessible() is deprecated since 8.5, as it has no effect&#34;](https://github.com/nette/coding-standard/pull/49) on [nette/coding-standard](https://github.com/nette/coding-standard) (1 day ago)
+- [Fix &#34;Method ReflectionProperty::setAccessible() is deprecated since 8.5, as it has no effect&#34;](https://github.com/nette/tracy/pull/600) on [nette/tracy](https://github.com/nette/tracy) (1 day ago)
+- [Fix &#34;Method ReflectionProperty::setAccessible() is deprecated since 8.5, as it has no effect&#34;](https://github.com/infection/infection/pull/2364) on [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [ Fix false positive of function.alreadyNarrowedType (function call variable assignment)](https://github.com/phpstan/phpstan-src/pull/4237) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Declare assert-if-true for filesystem functions](https://github.com/phpstan/phpstan-src/pull/4234) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Fix PHP8.5 deprecation warnings with ReflectionProperty::setAccessible()](https://github.com/phpstan/phpstan-src/pull/4230) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Emit warning when OPCache is enabled while collecting coverage](https://github.com/sebastianbergmann/phpunit/pull/6299) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/4216) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Prevent fatal errors not reported](https://github.com/sebastianbergmann/phpunit/pull/6296) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
+- [Simplify TestCase](https://github.com/sebastianbergmann/phpunit/pull/6295) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
+- [Fix build](https://github.com/phpstan/phpstan-src/pull/4214) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [8.0.3](https://github.com/sebastianbergmann/environment/releases/tag/8.0.3) (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.4) (today)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.1.2](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.2) (2 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.2](https://github.com/staabm/phpstan-dba/releases/tag/0.4.2) (5 days ago)
-- [nette/tester](https://github.com/nette/tester) - [v2.5.6](https://github.com/nette/tester/releases/tag/v2.5.6) (6 days ago)
-- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.32.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.32.0) (6 days ago)
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [8.0.3](https://github.com/sebastianbergmann/environment/releases/tag/8.0.3) (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.4) (1 day ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.1.2](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.2) (3 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.2](https://github.com/staabm/phpstan-dba/releases/tag/0.4.2) (6 days ago)
+- [nette/tester](https://github.com/nette/tester) - [v2.5.6](https://github.com/nette/tester/releases/tag/v2.5.6) (1 week ago)
+- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.32.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.32.0) (1 week ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.24](https://github.com/php/php-src/releases/tag/php-8.3.24) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.26](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.26) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.22](https://github.com/phpstan/phpstan/releases/tag/2.1.22) (1 week ago)
