@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [CI: cover PHP 8.5](https://github.com/nette/di/pull/325) on [nette/di](https://github.com/nette/di) (today)
+- [Fix false-positive: Method never returns XX so it can be removed from the return type](https://github.com/phpstan/phpstan-src/pull/4241) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Print previous exception in Testdox](https://github.com/sebastianbergmann/phpunit/pull/6315) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Added regression test](https://github.com/sebastianbergmann/phpunit/pull/6314) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [PHPT: Trigger runner warning on parse-error in CLEAN](https://github.com/sebastianbergmann/phpunit/pull/6313) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
@@ -53,8 +55,6 @@
 - [ Fix false positive of function.alreadyNarrowedType (function call variable assignment)](https://github.com/phpstan/phpstan-src/pull/4237) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Declare assert-if-true for filesystem functions](https://github.com/phpstan/phpstan-src/pull/4234) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Fix PHP8.5 deprecation warnings with ReflectionProperty::setAccessible()](https://github.com/phpstan/phpstan-src/pull/4230) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Emit warning when OPCache is enabled while collecting coverage](https://github.com/sebastianbergmann/phpunit/pull/6299) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/4216) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
