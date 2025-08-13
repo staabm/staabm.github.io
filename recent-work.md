@@ -4,8 +4,8 @@
 #### 💻 Check out what I'm currently working on
 
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [infection/infection](https://github.com/infection/infection) (today)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (1 day ago)
-- [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [nette/coding-standard](https://github.com/nette/coding-standard) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
