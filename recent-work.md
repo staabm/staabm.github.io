@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Report bool properties as too wide when only used with true/false](https://github.com/phpstan/phpstan-src/pull/4243) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Detect premature end of phpunit main process](https://github.com/sebastianbergmann/phpunit/pull/6319) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Fix PHPStan errors](https://github.com/sebastianbergmann/phpunit/pull/6317) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Print previous exception in Testdox](https://github.com/sebastianbergmann/phpunit/pull/6316) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
@@ -54,7 +55,6 @@
 - [Remove lower-bound composer constraints](https://github.com/infection/infection/pull/2366) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [Fix PHP 8.5 build](https://github.com/infection/infection/pull/2365) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [Fix &#34;Method ReflectionProperty::setAccessible() is deprecated since 8.5, as it has no effect&#34;](https://github.com/nette/coding-standard/pull/49) on [nette/coding-standard](https://github.com/nette/coding-standard) (2 days ago)
-- [Fix &#34;Method ReflectionProperty::setAccessible() is deprecated since 8.5, as it has no effect&#34;](https://github.com/nette/tracy/pull/600) on [nette/tracy](https://github.com/nette/tracy) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
