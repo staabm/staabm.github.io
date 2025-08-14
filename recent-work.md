@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (2 days ago)
 - [nette/coding-standard](https://github.com/nette/coding-standard) (2 days ago)
