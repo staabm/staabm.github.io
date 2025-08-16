@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) - [2.3.3](https://github.com/rectorphp/swiss-knife/releases/tag/2.3.3) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.5](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.5) (today)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.13.2](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.13.2) (2 days ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.32.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.32.1) (2 days ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.1.2](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.2) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.2](https://github.com/staabm/phpstan-dba/releases/tag/0.4.2) (1 week ago)
 - [nette/tester](https://github.com/nette/tester) - [v2.5.6](https://github.com/nette/tester/releases/tag/v2.5.6) (1 week ago)
-- [php/php-src](https://github.com/php/php-src) - [php-8.3.24](https://github.com/php/php-src/releases/tag/php-8.3.24) (1 week ago)
