@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [infection/infection](https://github.com/infection/infection) (1 week ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (1 week ago)
@@ -10,7 +11,6 @@
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
 - [nette/tester](https://github.com/nette/tester) (3 weeks ago)
 - [staabm/dotfiles](https://github.com/staabm/dotfiles) (3 weeks ago)
 
