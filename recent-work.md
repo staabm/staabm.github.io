@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [infection/infection](https://github.com/infection/infection) (1 week ago)
@@ -12,7 +13,6 @@
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 - [nette/tester](https://github.com/nette/tester) (3 weeks ago)
-- [staabm/dotfiles](https://github.com/staabm/dotfiles) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
