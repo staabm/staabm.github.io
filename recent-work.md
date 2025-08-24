@@ -3,13 +3,13 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [infection/infection](https://github.com/infection/infection) (1 week ago)
 - [nette/coding-standard](https://github.com/nette/coding-standard) (1 week ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (1 week ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 - [nette/tester](https://github.com/nette/tester) (3 weeks ago)
@@ -40,8 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Added regression test](https://github.com/sebastianbergmann/comparator/pull/131) on [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (today)
-- [Take #[IgnorePhpunitDeprecations] attribute into account for test runner deprecations](https://github.com/sebastianbergmann/phpunit/pull/6331) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [Added regression test](https://github.com/sebastianbergmann/comparator/pull/131) on [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (1 day ago)
+- [Take #[IgnorePhpunitDeprecations] attribute into account for test runner deprecations](https://github.com/sebastianbergmann/phpunit/pull/6331) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Report bool properties as too wide when only used with true/false](https://github.com/phpstan/phpstan-src/pull/4243) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Detect premature end of PHPUnit&#39;s main PHP process](https://github.com/sebastianbergmann/phpunit/pull/6319) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [Fix PHPStan errors](https://github.com/sebastianbergmann/phpunit/pull/6317) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.60.0](https://github.com/Roave/BetterReflection/releases/tag/6.60.0) (2 days ago)
-- [infection/infection](https://github.com/infection/infection) - [0.31.2](https://github.com/infection/infection/releases/tag/0.31.2) (2 days ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.1.3](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.3) (3 days ago)
-- [antecedent/patchwork](https://github.com/antecedent/patchwork) - [2.2.2](https://github.com/antecedent/patchwork/releases/tag/2.2.2) (4 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.60.0](https://github.com/Roave/BetterReflection/releases/tag/6.60.0) (3 days ago)
+- [infection/infection](https://github.com/infection/infection) - [0.31.2](https://github.com/infection/infection/releases/tag/0.31.2) (3 days ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.1.3](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.3) (4 days ago)
+- [antecedent/patchwork](https://github.com/antecedent/patchwork) - [2.2.2](https://github.com/antecedent/patchwork/releases/tag/2.2.2) (5 days ago)
 - [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) - [2.3.3](https://github.com/rectorphp/swiss-knife/releases/tag/2.3.3) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.5](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.5) (1 week ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.13.2](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.13.2) (1 week ago)
