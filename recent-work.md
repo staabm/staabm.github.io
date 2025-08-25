@@ -4,8 +4,8 @@
 #### 💻 Check out what I'm currently working on
 
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (2 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [infection/infection](https://github.com/infection/infection) (1 week ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (1 week ago)
 - [nette/coding-standard](https://github.com/nette/coding-standard) (1 week ago)
