@@ -3,13 +3,13 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [infection/infection](https://github.com/infection/infection) (1 week ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (2 weeks ago)
 - [nette/coding-standard](https://github.com/nette/coding-standard) (2 weeks ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 - [nette/tester](https://github.com/nette/tester) (3 weeks ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Extract TooWideReturnTypeCheck](https://github.com/phpstan/phpstan-src/pull/4260) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Fix lint on PHP 8.5](https://github.com/phpstan/phpstan-src/pull/4259) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [fix build](https://github.com/phpstan/phpstan-src/pull/4258) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Added regression test](https://github.com/sebastianbergmann/comparator/pull/131) on [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (3 days ago)
 - [Take #[IgnorePhpunitDeprecations] attribute into account for test runner deprecations](https://github.com/sebastianbergmann/phpunit/pull/6331) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
@@ -53,8 +55,6 @@
 - [Print previous exception in Testdox](https://github.com/sebastianbergmann/phpunit/pull/6315) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [Added regression test](https://github.com/sebastianbergmann/phpunit/pull/6314) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [PHPT: Trigger runner warning on parse-error in CLEAN](https://github.com/sebastianbergmann/phpunit/pull/6313) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [PHPT: Trigger runner warning on fatal-error in SKIPIF](https://github.com/sebastianbergmann/phpunit/pull/6312) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)
-- [Make `Runtime::isOpcacheActive()` public](https://github.com/sebastianbergmann/environment/pull/75) on [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
