@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added proc_open() stub for param-out](https://github.com/phpstan/phpstan-src/pull/4261) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Extract TooWideReturnTypeCheck](https://github.com/phpstan/phpstan-src/pull/4260) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix lint on PHP 8.5](https://github.com/phpstan/phpstan-src/pull/4259) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [fix build](https://github.com/phpstan/phpstan-src/pull/4258) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Fix false-positive: Method never returns XX so it can be removed from the return type](https://github.com/phpstan/phpstan-src/pull/4241) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Print previous exception in Testdox](https://github.com/sebastianbergmann/phpunit/pull/6315) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [Added regression test](https://github.com/sebastianbergmann/phpunit/pull/6314) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [PHPT: Trigger runner warning on parse-error in CLEAN](https://github.com/sebastianbergmann/phpunit/pull/6313) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
