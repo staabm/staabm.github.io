@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Increment on non-numeric string is deprecated, use str_increment() instead](https://github.com/phpstan/phpstan-src/pull/4262) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Trigger a test runner warning when both attributes and annotations are used](https://github.com/sebastianbergmann/phpunit/pull/6336) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Added proc_open() stub for param-out](https://github.com/phpstan/phpstan-src/pull/4261) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Extract TooWideReturnTypeCheck](https://github.com/phpstan/phpstan-src/pull/4260) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Fix PHPUnit 9.x compatibility](https://github.com/infection/infection/pull/2368) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 - [CI: cover PHP 8.5](https://github.com/nette/di/pull/325) on [nette/di](https://github.com/nette/di) (1 week ago)
 - [Fix false-positive: Method never returns XX so it can be removed from the return type](https://github.com/phpstan/phpstan-src/pull/4241) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Print previous exception in Testdox](https://github.com/sebastianbergmann/phpunit/pull/6315) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
