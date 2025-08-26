@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix build](https://github.com/phpstan/phpstan-src/pull/4258) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Added regression test](https://github.com/sebastianbergmann/comparator/pull/131) on [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (3 days ago)
 - [Take #[IgnorePhpunitDeprecations] attribute into account for test runner deprecations](https://github.com/sebastianbergmann/phpunit/pull/6331) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [Report bool properties as too wide when only used with true/false](https://github.com/phpstan/phpstan-src/pull/4243) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -54,7 +55,6 @@
 - [PHPT: Trigger runner warning on parse-error in CLEAN](https://github.com/sebastianbergmann/phpunit/pull/6313) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [PHPT: Trigger runner warning on fatal-error in SKIPIF](https://github.com/sebastianbergmann/phpunit/pull/6312) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)
 - [Make `Runtime::isOpcacheActive()` public](https://github.com/sebastianbergmann/environment/pull/75) on [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (2 weeks ago)
-- [Remove lower-bound composer constraints](https://github.com/infection/infection/pull/2366) on [infection/infection](https://github.com/infection/infection) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
