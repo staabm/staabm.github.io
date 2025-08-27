@@ -3,14 +3,14 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (4 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [infection/infection](https://github.com/infection/infection) (2 weeks ago)
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (2 weeks ago)
 - [nette/coding-standard](https://github.com/nette/coding-standard) (2 weeks ago)
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (2 weeks ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 weeks ago)
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove shortenArraysForExportThreshold=&#34;10&#34; from config](https://github.com/sebastianbergmann/phpunit/pull/6337) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Increment on non-numeric string is deprecated, use str_increment() instead](https://github.com/phpstan/phpstan-src/pull/4262) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Trigger a test runner warning when both attributes and annotations are used](https://github.com/sebastianbergmann/phpunit/pull/6336) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Added proc_open() stub for param-out](https://github.com/phpstan/phpstan-src/pull/4261) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Print previous exception in Testdox](https://github.com/sebastianbergmann/phpunit/pull/6316) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)
 - [Fix PHPUnit 9.x compatibility](https://github.com/infection/infection/pull/2368) on [infection/infection](https://github.com/infection/infection) (2 weeks ago)
 - [CI: cover PHP 8.5](https://github.com/nette/di/pull/325) on [nette/di](https://github.com/nette/di) (2 weeks ago)
-- [Fix false-positive: Method never returns XX so it can be removed from the return type](https://github.com/phpstan/phpstan-src/pull/4241) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
