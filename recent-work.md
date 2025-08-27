@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent unnecessary duplicate work in `NamePrettifier-&gt;prettifyTestCase()`](https://github.com/sebastianbergmann/phpunit/pull/6339) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [Improve performance by skipping empty lines after filter has been applied](https://github.com/sebastianbergmann/php-code-coverage/pull/1085) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
 - [Remove shortenArraysForExportThreshold=&#34;10&#34; from config](https://github.com/sebastianbergmann/phpunit/pull/6337) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Increment on non-numeric string is deprecated, use str_increment() instead](https://github.com/phpstan/phpstan-src/pull/4262) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Trigger a test runner warning when both attributes and annotations are used](https://github.com/sebastianbergmann/phpunit/pull/6336) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
@@ -53,8 +55,6 @@
 - [Detect premature end of PHPUnit&#39;s main PHP process](https://github.com/sebastianbergmann/phpunit/pull/6319) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [Fix PHPStan errors](https://github.com/sebastianbergmann/phpunit/pull/6317) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)
 - [Print previous exception in Testdox](https://github.com/sebastianbergmann/phpunit/pull/6316) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)
-- [Fix PHPUnit 9.x compatibility](https://github.com/infection/infection/pull/2368) on [infection/infection](https://github.com/infection/infection) (2 weeks ago)
-- [CI: cover PHP 8.5](https://github.com/nette/di/pull/325) on [nette/di](https://github.com/nette/di) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
