@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.1.2](https://github.com/CuyZ/Valinor/releases/tag/2.1.2) (today)
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - [8.0.1](https://github.com/sebastianbergmann/global-state/releases/tag/8.0.1) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.7) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.3.3](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.3) (1 day ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.1.3](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.3) (1 week ago)
 - [antecedent/patchwork](https://github.com/antecedent/patchwork) - [2.2.2](https://github.com/antecedent/patchwork/releases/tag/2.2.2) (1 week ago)
 - [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) - [2.3.3](https://github.com/rectorphp/swiss-knife/releases/tag/2.3.3) (1 week ago)
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.13.2](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.13.2) (2 weeks ago)
