@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) (today)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent &#34;Unsafe usage of new static() in abstract class&#34; with final constructor](https://github.com/phpstan/phpstan-src/pull/4265) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Restore nullable variables in super global arrays](https://github.com/sebastianbergmann/global-state/pull/39) on [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) (today)
 - [Simplify MapBuilder](https://github.com/sebastianbergmann/php-code-coverage/pull/1086) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
 - [Improve performance of `Snapshot::snapshotSuperGlobalArray()`](https://github.com/sebastianbergmann/global-state/pull/38) on [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) (today)
 - [update vendors](https://github.com/FriendsOfREDAXO/rexstan/pull/913) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
@@ -53,8 +55,6 @@
 - [Fix lint on PHP 8.5](https://github.com/phpstan/phpstan-src/pull/4259) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [fix build](https://github.com/phpstan/phpstan-src/pull/4258) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Added regression test](https://github.com/sebastianbergmann/comparator/pull/131) on [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (5 days ago)
-- [Take #[IgnorePhpunitDeprecations] attribute into account for test runner deprecations](https://github.com/sebastianbergmann/phpunit/pull/6331) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
-- [Report bool properties as too wide when only used with true/false](https://github.com/phpstan/phpstan-src/pull/4243) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
