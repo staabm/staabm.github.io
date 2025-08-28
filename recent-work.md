@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Faster Snapshot-&gt;snapshotSuperGlobalArray()](https://github.com/sebastianbergmann/global-state/pull/38) on [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) (today)
+- [Improve performance of `Snapshot::snapshotSuperGlobalArray()`](https://github.com/sebastianbergmann/global-state/pull/38) on [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) (today)
 - [update vendors](https://github.com/FriendsOfREDAXO/rexstan/pull/913) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Prevent unnecessary duplicate work in `NamePrettifier-&gt;prettifyTestCase()`](https://github.com/sebastianbergmann/phpunit/pull/6339) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Improve performance by skipping empty lines after filter has been applied](https://github.com/sebastianbergmann/php-code-coverage/pull/1085) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
