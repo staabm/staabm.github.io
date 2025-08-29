@@ -6,13 +6,13 @@
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (6 days ago)
 - [infection/infection](https://github.com/infection/infection) (2 weeks ago)
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (2 weeks ago)
 - [nette/coding-standard](https://github.com/nette/coding-standard) (2 weeks ago)
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -43,11 +43,11 @@
 - [Simplify RequireParentConstructCallRule](https://github.com/phpstan/phpstan-strict-rules/pull/280) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
 - [Fix duplicate work in AnnotationsPropertiesClassReflectionExtension-&gt;findClassReflectionWithProperty()](https://github.com/phpstan/phpstan-src/pull/4268) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Get rid of array_combine in getTraits()](https://github.com/ondrejmirtes/BetterReflection/pull/39) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (today)
-- [Faster MapBuilder-&gt;build()](https://github.com/sebastianbergmann/php-code-coverage/pull/1089) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
+- [Faster `MapBuilder::build()`](https://github.com/sebastianbergmann/php-code-coverage/pull/1089) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
 - [run array_unique() only once per class](https://github.com/sebastianbergmann/php-code-coverage/pull/1088) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
 - [Prevent &#34;Unsafe usage of new static() in abstract class&#34; with final constructor](https://github.com/phpstan/phpstan-src/pull/4265) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Restore nullable variables in super global arrays](https://github.com/sebastianbergmann/global-state/pull/39) on [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) (1 day ago)
-- [Simplify MapBuilder](https://github.com/sebastianbergmann/php-code-coverage/pull/1086) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
+- [Simplify `MapBuilder`](https://github.com/sebastianbergmann/php-code-coverage/pull/1086) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
 - [Improve performance of `Snapshot::snapshotSuperGlobalArray()`](https://github.com/sebastianbergmann/global-state/pull/38) on [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) (1 day ago)
 - [update vendors](https://github.com/FriendsOfREDAXO/rexstan/pull/913) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [Prevent unnecessary duplicate work in `NamePrettifier-&gt;prettifyTestCase()`](https://github.com/sebastianbergmann/phpunit/pull/6339) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
@@ -59,12 +59,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.3.4](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.4) (today)
+- [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - [8.0.2](https://github.com/sebastianbergmann/global-state/releases/tag/8.0.2) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.3](https://github.com/symfony/symfony/releases/tag/v7.3.3) (today)
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.25](https://github.com/php/php-src/releases/tag/php-8.3.25) (today)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.1.2](https://github.com/CuyZ/Valinor/releases/tag/2.1.2) (1 day ago)
-- [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - [8.0.1](https://github.com/sebastianbergmann/global-state/releases/tag/8.0.1) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.7) (1 day ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.3.3](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.3) (2 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.3.1](https://github.com/staabm/phpstan-todo-by/releases/tag/0.3.1) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.60.0](https://github.com/Roave/BetterReflection/releases/tag/6.60.0) (1 week ago)
 - [infection/infection](https://github.com/infection/infection) - [0.31.2](https://github.com/infection/infection/releases/tag/0.31.2) (1 week ago)
