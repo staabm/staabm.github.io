@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Faster MapBuilder-&gt;build()](https://github.com/sebastianbergmann/php-code-coverage/pull/1089) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
 - [run array_unique() only once per class](https://github.com/sebastianbergmann/php-code-coverage/pull/1088) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
 - [Prevent &#34;Unsafe usage of new static() in abstract class&#34; with final constructor](https://github.com/phpstan/phpstan-src/pull/4265) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Restore nullable variables in super global arrays](https://github.com/sebastianbergmann/global-state/pull/39) on [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) (1 day ago)
@@ -54,7 +55,6 @@
 - [Added proc_open() stub for param-out](https://github.com/phpstan/phpstan-src/pull/4261) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Extract TooWideReturnTypeCheck](https://github.com/phpstan/phpstan-src/pull/4260) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Fix lint on PHP 8.5](https://github.com/phpstan/phpstan-src/pull/4259) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [fix build](https://github.com/phpstan/phpstan-src/pull/4258) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
