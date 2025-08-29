@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix duplicate work in AnnotationsPropertiesClassReflectionExtension-&gt;findClassReflectionWithProperty()](https://github.com/phpstan/phpstan-src/pull/4268) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Get rid of array_combine in getTraits()](https://github.com/ondrejmirtes/BetterReflection/pull/39) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (today)
 - [Faster MapBuilder-&gt;build()](https://github.com/sebastianbergmann/php-code-coverage/pull/1089) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
 - [run array_unique() only once per class](https://github.com/sebastianbergmann/php-code-coverage/pull/1088) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
 - [Prevent &#34;Unsafe usage of new static() in abstract class&#34; with final constructor](https://github.com/phpstan/phpstan-src/pull/4265) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,12 +55,11 @@
 - [Increment on non-numeric string is deprecated, use str_increment() instead](https://github.com/phpstan/phpstan-src/pull/4262) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Trigger a test runner warning when both attributes and annotations are used](https://github.com/sebastianbergmann/phpunit/pull/6336) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [Added proc_open() stub for param-out](https://github.com/phpstan/phpstan-src/pull/4261) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Extract TooWideReturnTypeCheck](https://github.com/phpstan/phpstan-src/pull/4260) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Fix lint on PHP 8.5](https://github.com/phpstan/phpstan-src/pull/4259) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.3](https://github.com/symfony/symfony/releases/tag/v7.3.3) (today)
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.25](https://github.com/php/php-src/releases/tag/php-8.3.25) (today)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.1.2](https://github.com/CuyZ/Valinor/releases/tag/2.1.2) (1 day ago)
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - [8.0.1](https://github.com/sebastianbergmann/global-state/releases/tag/8.0.1) (1 day ago)
@@ -68,4 +69,3 @@
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.60.0](https://github.com/Roave/BetterReflection/releases/tag/6.60.0) (1 week ago)
 - [infection/infection](https://github.com/infection/infection) - [0.31.2](https://github.com/infection/infection/releases/tag/0.31.2) (1 week ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.1.3](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.3) (1 week ago)
-- [antecedent/patchwork](https://github.com/antecedent/patchwork) - [2.2.2](https://github.com/antecedent/patchwork/releases/tag/2.2.2) (1 week ago)
