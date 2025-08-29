@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify RequireParentConstructCallRule](https://github.com/phpstan/phpstan-strict-rules/pull/280) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
 - [Fix duplicate work in AnnotationsPropertiesClassReflectionExtension-&gt;findClassReflectionWithProperty()](https://github.com/phpstan/phpstan-src/pull/4268) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Get rid of array_combine in getTraits()](https://github.com/ondrejmirtes/BetterReflection/pull/39) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (today)
 - [Faster MapBuilder-&gt;build()](https://github.com/sebastianbergmann/php-code-coverage/pull/1089) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
@@ -54,7 +55,6 @@
 - [Remove shortenArraysForExportThreshold=&#34;10&#34; from config](https://github.com/sebastianbergmann/phpunit/pull/6337) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [Increment on non-numeric string is deprecated, use str_increment() instead](https://github.com/phpstan/phpstan-src/pull/4262) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Trigger a test runner warning when both attributes and annotations are used](https://github.com/sebastianbergmann/phpunit/pull/6336) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
-- [Added proc_open() stub for param-out](https://github.com/phpstan/phpstan-src/pull/4261) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
