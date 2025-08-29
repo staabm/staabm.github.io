@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [php/php-src](https://github.com/php/php-src) - [php-8.3.25](https://github.com/php/php-src/releases/tag/php-8.3.25) (today)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.1.2](https://github.com/CuyZ/Valinor/releases/tag/2.1.2) (1 day ago)
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - [8.0.1](https://github.com/sebastianbergmann/global-state/releases/tag/8.0.1) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.7) (1 day ago)
@@ -68,4 +69,3 @@
 - [infection/infection](https://github.com/infection/infection) - [0.31.2](https://github.com/infection/infection/releases/tag/0.31.2) (1 week ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.1.3](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.3) (1 week ago)
 - [antecedent/patchwork](https://github.com/antecedent/patchwork) - [2.2.2](https://github.com/antecedent/patchwork/releases/tag/2.2.2) (1 week ago)
-- [rectorphp/swiss-knife](https://github.com/rectorphp/swiss-knife) - [2.3.3](https://github.com/rectorphp/swiss-knife/releases/tag/2.3.3) (1 week ago)
