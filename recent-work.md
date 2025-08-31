@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify tests in which treatPhpDocTypesAsCertain is always true](https://github.com/phpstan/phpstan-strict-rules/pull/281) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
+- [Simplify tests in which treatPhpDocTypesAsCertain is always true](https://github.com/phpstan/phpstan-src/pull/4274) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify RequireParentConstructCallRule](https://github.com/phpstan/phpstan-strict-rules/pull/280) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (2 days ago)
 - [Fix duplicate work in AnnotationsPropertiesClassReflectionExtension-&gt;findClassReflectionWithProperty()](https://github.com/phpstan/phpstan-src/pull/4268) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Get rid of array_combine in getTraits()](https://github.com/ondrejmirtes/BetterReflection/pull/39) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (2 days ago)
@@ -53,8 +55,6 @@
 - [Prevent unnecessary duplicate work in `NamePrettifier-&gt;prettifyTestCase()`](https://github.com/sebastianbergmann/phpunit/pull/6339) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [Improve performance by skipping empty lines after filter has been applied](https://github.com/sebastianbergmann/php-code-coverage/pull/1085) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (4 days ago)
 - [Remove shortenArraysForExportThreshold=&#34;10&#34; from config](https://github.com/sebastianbergmann/phpunit/pull/6337) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
-- [Increment on non-numeric string is deprecated, use str_increment() instead](https://github.com/phpstan/phpstan-src/pull/4262) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Trigger a test runner warning when both attributes and annotations are used](https://github.com/sebastianbergmann/phpunit/pull/6336) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
