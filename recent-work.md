@@ -6,13 +6,13 @@
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (2 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) (3 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (1 week ago)
 - [infection/infection](https://github.com/infection/infection) (2 weeks ago)
-- [nette/coding-standard](https://github.com/nette/coding-standard) (2 weeks ago)
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
