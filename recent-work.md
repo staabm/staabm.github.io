@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.13.3](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.13.3) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.3.5](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.5) (today)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.33.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.33.1) (1 day ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.0](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.0) (2 days ago)
@@ -68,4 +69,3 @@
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.1.2](https://github.com/CuyZ/Valinor/releases/tag/2.1.2) (4 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.7) (4 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.3.1](https://github.com/staabm/phpstan-todo-by/releases/tag/0.3.1) (5 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.60.0](https://github.com/Roave/BetterReflection/releases/tag/6.60.0) (1 week ago)
