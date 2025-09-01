@@ -3,13 +3,13 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 day ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) (4 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (5 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (1 week ago)
 - [infection/infection](https://github.com/infection/infection) (2 weeks ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (2 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify tests in which checkNullables is always true](https://github.com/phpstan/phpstan-strict-rules/pull/282) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
 - [Simplify tests in which treatPhpDocTypesAsCertain is always true](https://github.com/phpstan/phpstan-strict-rules/pull/281) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 day ago)
 - [Simplify tests in which treatPhpDocTypesAsCertain is always true](https://github.com/phpstan/phpstan-src/pull/4274) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Simplify RequireParentConstructCallRule](https://github.com/phpstan/phpstan-strict-rules/pull/280) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (3 days ago)
@@ -54,7 +55,6 @@
 - [update vendors](https://github.com/FriendsOfREDAXO/rexstan/pull/913) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [Prevent unnecessary duplicate work in `NamePrettifier-&gt;prettifyTestCase()`](https://github.com/sebastianbergmann/phpunit/pull/6339) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
 - [Improve performance by skipping empty lines after filter has been applied](https://github.com/sebastianbergmann/php-code-coverage/pull/1085) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (5 days ago)
-- [Remove shortenArraysForExportThreshold=&#34;10&#34; from config](https://github.com/sebastianbergmann/phpunit/pull/6337) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
