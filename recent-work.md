@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.3.5](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.5) (today)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.33.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.33.1) (1 day ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.0](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.0) (2 days ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.3.4](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.4) (3 days ago)
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - [8.0.2](https://github.com/sebastianbergmann/global-state/releases/tag/8.0.2) (3 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.3](https://github.com/symfony/symfony/releases/tag/v7.3.3) (3 days ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.25](https://github.com/php/php-src/releases/tag/php-8.3.25) (3 days ago)
