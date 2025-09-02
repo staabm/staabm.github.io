@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.87.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.87.0) (today)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.87.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.87.1) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.3.6](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.6) (today)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.13.3](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.13.3) (1 day ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.33.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.33.1) (2 days ago)
