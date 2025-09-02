@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.61.0](https://github.com/Roave/BetterReflection/releases/tag/6.61.0) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.87.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.87.1) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.3.6](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.6) (today)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.13.3](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.13.3) (1 day ago)
@@ -68,4 +69,3 @@
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.3](https://github.com/symfony/symfony/releases/tag/v7.3.3) (4 days ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.25](https://github.com/php/php-src/releases/tag/php-8.3.25) (4 days ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.1.2](https://github.com/CuyZ/Valinor/releases/tag/2.1.2) (5 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.7) (5 days ago)
