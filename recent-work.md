@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.3.6](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.6) (today)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.13.3](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.13.3) (1 day ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.3.5](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.5) (1 day ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.33.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.33.1) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.0](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.0) (3 days ago)
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - [8.0.2](https://github.com/sebastianbergmann/global-state/releases/tag/8.0.2) (4 days ago)
