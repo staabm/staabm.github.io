@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (3 days ago)
@@ -12,7 +13,6 @@
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (1 week ago)
 - [infection/infection](https://github.com/infection/infection) (3 weeks ago)
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.62.0](https://github.com/Roave/BetterReflection/releases/tag/6.62.0) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.8](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.8) (1 day ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.61.0](https://github.com/Roave/BetterReflection/releases/tag/6.61.0) (2 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.87.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.87.1) (2 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.3.6](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.6) (2 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.13.3](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.13.3) (3 days ago)
