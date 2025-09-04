@@ -26,6 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
+- [verfriemelt-dot-org](https://github.com/verfriemelt-dot-org) (today)
 - [passbolt](https://github.com/passbolt) (1 month ago)
 - [packagist](https://github.com/packagist) (3 months ago)
 - [Enkora](https://github.com/Enkora) (3 months ago)
@@ -35,7 +36,6 @@
 - [brotkrueml](https://github.com/brotkrueml) (1 year ago)
 - [eliashaeussler](https://github.com/eliashaeussler) (2 years ago)
 - [DaveLiddament](https://github.com/DaveLiddament) (2 years ago)
-- [SecuMailer](https://github.com/SecuMailer) (2 years ago)
 
 
 #### 🔨 My recent Pull Requests
