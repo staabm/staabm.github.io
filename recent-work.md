@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Faster ArrayType-&gt;hasOffsetValueType()](https://github.com/phpstan/phpstan-src/pull/4288) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Readme: visually separate phpunit version specific paragraphs](https://github.com/ergebnis/phpunit-slow-test-detector/pull/711) on [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) (today)
 - [Faster getTraits() methods](https://github.com/Roave/BetterReflection/pull/1523) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
 - [ErrorHandler: Simplify return type](https://github.com/sebastianbergmann/phpunit/pull/6349) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
@@ -54,7 +55,6 @@
 - [Prevent &#34;Unsafe usage of new static() in abstract class&#34; with final constructor](https://github.com/phpstan/phpstan-src/pull/4265) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Restore nullable variables in super global arrays](https://github.com/sebastianbergmann/global-state/pull/39) on [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) (1 week ago)
 - [Simplify `MapBuilder`](https://github.com/sebastianbergmann/php-code-coverage/pull/1086) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 week ago)
-- [Improve performance of `Snapshot::snapshotSuperGlobalArray()`](https://github.com/sebastianbergmann/global-state/pull/38) on [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
