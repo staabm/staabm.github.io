@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Readme: visually separate phpunit version specific paragraphs](https://github.com/ergebnis/phpunit-slow-test-detector/pull/711) on [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) (today)
 - [Faster getTraits() methods](https://github.com/Roave/BetterReflection/pull/1523) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
 - [ErrorHandler: Simplify return type](https://github.com/sebastianbergmann/phpunit/pull/6349) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [Simplify tests in which checkNullables is always true](https://github.com/phpstan/phpstan-strict-rules/pull/282) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (4 days ago)
@@ -54,11 +55,11 @@
 - [Restore nullable variables in super global arrays](https://github.com/sebastianbergmann/global-state/pull/39) on [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) (1 week ago)
 - [Simplify `MapBuilder`](https://github.com/sebastianbergmann/php-code-coverage/pull/1086) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 week ago)
 - [Improve performance of `Snapshot::snapshotSuperGlobalArray()`](https://github.com/sebastianbergmann/global-state/pull/38) on [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) (1 week ago)
-- [update vendors](https://github.com/FriendsOfREDAXO/rexstan/pull/913) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.20.0](https://github.com/redaxo/redaxo/releases/tag/5.20.0) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.62.0](https://github.com/Roave/BetterReflection/releases/tag/6.62.0) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.8](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.8) (2 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.87.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.87.1) (3 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.0](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.0) (6 days ago)
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - [8.0.2](https://github.com/sebastianbergmann/global-state/releases/tag/8.0.2) (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.3](https://github.com/symfony/symfony/releases/tag/v7.3.3) (1 week ago)
-- [php/php-src](https://github.com/php/php-src) - [php-8.3.25](https://github.com/php/php-src/releases/tag/php-8.3.25) (1 week ago)
