@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [non-empty-array might be empty after array_keys() with filter](https://github.com/phpstan/phpstan-src/pull/4295) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix incorrect analyzing of array_shift with non-empty-list property](https://github.com/phpstan/phpstan-src/pull/4294) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix lost type when assigning variable in method argument](https://github.com/phpstan/phpstan-src/pull/4293) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Disable Xdebug perf optimization when test requires xdebug](https://github.com/sebastianbergmann/phpunit/pull/6353) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix duplicate work in AnnotationsPropertiesClassReflectionExtension-&gt;findClassReflectionWithProperty()](https://github.com/phpstan/phpstan-src/pull/4268) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Get rid of array_combine in getTraits()](https://github.com/ondrejmirtes/BetterReflection/pull/39) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (1 week ago)
 - [Faster `MapBuilder::build()`](https://github.com/sebastianbergmann/php-code-coverage/pull/1089) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 week ago)
-- [run array_unique() only once per class](https://github.com/sebastianbergmann/php-code-coverage/pull/1088) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
