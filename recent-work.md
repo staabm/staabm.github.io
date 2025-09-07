@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [5.0.4](https://github.com/sebastianbergmann/comparator/releases/tag/5.0.4) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.20.0](https://github.com/redaxo/redaxo/releases/tag/5.20.0) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.62.0](https://github.com/Roave/BetterReflection/releases/tag/6.62.0) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.8](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.8) (4 days ago)
@@ -68,4 +69,3 @@
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.33.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.33.1) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.0](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.0) (1 week ago)
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - [8.0.2](https://github.com/sebastianbergmann/global-state/releases/tag/8.0.2) (1 week ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.3](https://github.com/symfony/symfony/releases/tag/v7.3.3) (1 week ago)
