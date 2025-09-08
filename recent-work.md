@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) (3 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (4 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix &#34;Using null as an array offset is deprecated, use an empty string instead&#34;](https://github.com/phpstan/phpstan-src/pull/4301) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/4300) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [non-empty-array might be empty after array_keys() with filter](https://github.com/phpstan/phpstan-src/pull/4295) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix incorrect analyzing of array_shift with non-empty-list property](https://github.com/phpstan/phpstan-src/pull/4294) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix lost type when assigning variable in method argument](https://github.com/phpstan/phpstan-src/pull/4293) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Simplify tests in which treatPhpDocTypesAsCertain is always true](https://github.com/phpstan/phpstan-src/pull/4274) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Simplify RequireParentConstructCallRule](https://github.com/phpstan/phpstan-strict-rules/pull/280) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 week ago)
 - [Fix duplicate work in AnnotationsPropertiesClassReflectionExtension-&gt;findClassReflectionWithProperty()](https://github.com/phpstan/phpstan-src/pull/4268) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Get rid of array_combine in getTraits()](https://github.com/ondrejmirtes/BetterReflection/pull/39) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (1 week ago)
-- [Faster `MapBuilder::build()`](https://github.com/sebastianbergmann/php-code-coverage/pull/1089) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
