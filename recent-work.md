@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remember narrowed readonly types in anonymous functions](https://github.com/phpstan/phpstan-src/pull/4313) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/4310) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Support indirect `Stringable` interface via `__toString()` in trait](https://github.com/Roave/BetterReflection/pull/1524) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/4308) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Disable Xdebug perf optimization when test requires xdebug](https://github.com/sebastianbergmann/phpunit/pull/6353) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [Faster ArrayType-&gt;hasOffsetValueType()](https://github.com/phpstan/phpstan-src/pull/4288) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Readme: visually separate phpunit version specific paragraphs](https://github.com/ergebnis/phpunit-slow-test-detector/pull/711) on [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) (4 days ago)
-- [Faster getTraits() methods](https://github.com/Roave/BetterReflection/pull/1523) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
