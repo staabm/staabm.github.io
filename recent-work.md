@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support indirect Stringable interface via __toString() in trait](https://github.com/Roave/BetterReflection/pull/1524) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/4308) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/4307) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/4306) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Readme: visually separate phpunit version specific paragraphs](https://github.com/ergebnis/phpunit-slow-test-detector/pull/711) on [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) (4 days ago)
 - [Faster getTraits() methods](https://github.com/Roave/BetterReflection/pull/1523) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (5 days ago)
 - [ErrorHandler: Simplify return type](https://github.com/sebastianbergmann/phpunit/pull/6349) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [Simplify tests in which checkNullables is always true](https://github.com/phpstan/phpstan-strict-rules/pull/282) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
