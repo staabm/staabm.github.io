@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.6](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.6) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.63.0](https://github.com/Roave/BetterReflection/releases/tag/6.63.0) (1 day ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.5](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.5) (3 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [5.0.4](https://github.com/sebastianbergmann/comparator/releases/tag/5.0.4) (3 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.20.0](https://github.com/redaxo/redaxo/releases/tag/5.20.0) (5 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.8](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.8) (1 week ago)
