@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
+- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
 - [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) (5 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 week ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) (1 week ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 weeks ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remember narrowed types from the constructor from deep PropertyFetches](https://github.com/phpstan/phpstan-src/pull/4315) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update PHP-CS-Fixer / Code Sniffer](https://github.com/easy-coding-standard/easy-coding-standard/pull/298) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (today)
 - [Remember narrowed readonly types in anonymous functions](https://github.com/phpstan/phpstan-src/pull/4313) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/4310) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix incorrect analyzing of array_shift with non-empty-list property](https://github.com/phpstan/phpstan-src/pull/4294) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Fix lost type when assigning variable in method argument](https://github.com/phpstan/phpstan-src/pull/4293) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Disable Xdebug perf optimization when test requires xdebug](https://github.com/sebastianbergmann/phpunit/pull/6353) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
-- [Faster ArrayType-&gt;hasOffsetValueType()](https://github.com/phpstan/phpstan-src/pull/4288) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
