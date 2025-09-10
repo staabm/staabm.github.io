@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
-- [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) (4 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
+- [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) (5 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 week ago)
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 weeks ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (2 weeks ago)
 
 
@@ -26,7 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
-- [verfriemelt-dot-org](https://github.com/verfriemelt-dot-org) (5 days ago)
+- [verfriemelt-dot-org](https://github.com/verfriemelt-dot-org) (6 days ago)
 - [passbolt](https://github.com/passbolt) (1 month ago)
 - [packagist](https://github.com/packagist) (3 months ago)
 - [Enkora](https://github.com/Enkora) (3 months ago)
@@ -40,30 +40,30 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Remember narrowed readonly types in anonymous functions](https://github.com/phpstan/phpstan-src/pull/4313) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/4310) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Support indirect `Stringable` interface via `__toString()` in trait](https://github.com/Roave/BetterReflection/pull/1524) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/4308) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/4307) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/4306) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Implemented NativeTypeExpr](https://github.com/phpstan/phpstan-src/pull/4302) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Fix &#34;Using null as an array offset is deprecated, use an empty string instead&#34;](https://github.com/phpstan/phpstan-src/pull/4301) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/4300) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [non-empty-array might be empty after array_keys() with filter](https://github.com/phpstan/phpstan-src/pull/4295) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Fix incorrect analyzing of array_shift with non-empty-list property](https://github.com/phpstan/phpstan-src/pull/4294) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Fix lost type when assigning variable in method argument](https://github.com/phpstan/phpstan-src/pull/4293) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Disable Xdebug perf optimization when test requires xdebug](https://github.com/sebastianbergmann/phpunit/pull/6353) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
-- [Faster ArrayType-&gt;hasOffsetValueType()](https://github.com/phpstan/phpstan-src/pull/4288) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Readme: visually separate phpunit version specific paragraphs](https://github.com/ergebnis/phpunit-slow-test-detector/pull/711) on [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) (4 days ago)
+- [Remember narrowed readonly types in anonymous functions](https://github.com/phpstan/phpstan-src/pull/4313) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/4310) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Support indirect `Stringable` interface via `__toString()` in trait](https://github.com/Roave/BetterReflection/pull/1524) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/4308) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/4307) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/4306) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Implemented NativeTypeExpr](https://github.com/phpstan/phpstan-src/pull/4302) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Fix &#34;Using null as an array offset is deprecated, use an empty string instead&#34;](https://github.com/phpstan/phpstan-src/pull/4301) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/4300) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [non-empty-array might be empty after array_keys() with filter](https://github.com/phpstan/phpstan-src/pull/4295) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Fix incorrect analyzing of array_shift with non-empty-list property](https://github.com/phpstan/phpstan-src/pull/4294) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Fix lost type when assigning variable in method argument](https://github.com/phpstan/phpstan-src/pull/4293) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Disable Xdebug perf optimization when test requires xdebug](https://github.com/sebastianbergmann/phpunit/pull/6353) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
+- [Faster ArrayType-&gt;hasOffsetValueType()](https://github.com/phpstan/phpstan-src/pull/4288) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Readme: visually separate phpunit version specific paragraphs](https://github.com/ergebnis/phpunit-slow-test-detector/pull/711) on [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.63.0](https://github.com/Roave/BetterReflection/releases/tag/6.63.0) (today)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.5](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.5) (2 days ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [5.0.4](https://github.com/sebastianbergmann/comparator/releases/tag/5.0.4) (2 days ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.20.0](https://github.com/redaxo/redaxo/releases/tag/5.20.0) (4 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.8](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.8) (6 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.63.0](https://github.com/Roave/BetterReflection/releases/tag/6.63.0) (1 day ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.5](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.5) (3 days ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [5.0.4](https://github.com/sebastianbergmann/comparator/releases/tag/5.0.4) (3 days ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.20.0](https://github.com/redaxo/redaxo/releases/tag/5.20.0) (5 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.8](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.8) (1 week ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.87.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.87.1) (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.3.6](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.6) (1 week ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.13.3](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.13.3) (1 week ago)
