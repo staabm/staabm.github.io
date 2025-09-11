@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 days ago)
 - [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) (6 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ Improve 2448-not-existing-test.phpt ](https://github.com/sebastianbergmann/phpunit/pull/6360) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [Properly skip new test](https://github.com/sebastianbergmann/phpunit/pull/6359) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Fix &#34;Crash: str_increment(): Argument #1 ($string) must be composed only of alphanumeric ASCII characters&#34;](https://github.com/phpstan/phpstan-src/pull/4316) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Remember narrowed types from the constructor from deep PropertyFetches](https://github.com/phpstan/phpstan-src/pull/4315) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Update PHP-CS-Fixer / Code Sniffer](https://github.com/easy-coding-standard/easy-coding-standard/pull/298) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 day ago)
@@ -53,8 +55,6 @@
 - [Fix &#34;Using null as an array offset is deprecated, use an empty string instead&#34;](https://github.com/phpstan/phpstan-src/pull/4301) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/4300) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [non-empty-array might be empty after array_keys() with filter](https://github.com/phpstan/phpstan-src/pull/4295) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Fix incorrect analyzing of array_shift with non-empty-list property](https://github.com/phpstan/phpstan-src/pull/4294) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Fix lost type when assigning variable in method argument](https://github.com/phpstan/phpstan-src/pull/4293) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
