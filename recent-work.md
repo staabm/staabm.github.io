@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.9](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.9) (today)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [12.6.0](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.6.0) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.23](https://github.com/phpstan/phpstan/releases/tag/2.1.23) (1 day ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.3.7](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.7) (1 day ago)
@@ -67,5 +68,4 @@
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.63.0](https://github.com/Roave/BetterReflection/releases/tag/6.63.0) (2 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [5.0.4](https://github.com/sebastianbergmann/comparator/releases/tag/5.0.4) (4 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.20.0](https://github.com/redaxo/redaxo/releases/tag/5.20.0) (6 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.8](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.8) (1 week ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [0.13.3](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/0.13.3) (1 week ago)
