@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.9](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.9) (today)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.10](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.10) (today)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [12.6.0](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.6.0) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.23](https://github.com/phpstan/phpstan/releases/tag/2.1.23) (1 day ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.3.7](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.7) (1 day ago)
