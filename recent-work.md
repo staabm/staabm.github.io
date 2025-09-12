@@ -59,8 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [3.5.0](https://github.com/FriendsOfREDAXO/adminer/releases/tag/3.5.0) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.25](https://github.com/phpstan/phpstan/releases/tag/2.1.25) (today)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - [2.2.0](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/releases/tag/2.2.0) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.24](https://github.com/phpstan/phpstan/releases/tag/2.1.24) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.10](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.10) (1 day ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [12.6.0](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.6.0) (2 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.3.7](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.7) (2 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.6](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.6) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.63.0](https://github.com/Roave/BetterReflection/releases/tag/6.63.0) (3 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [5.0.4](https://github.com/sebastianbergmann/comparator/releases/tag/5.0.4) (5 days ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.20.0](https://github.com/redaxo/redaxo/releases/tag/5.20.0) (1 week ago)
