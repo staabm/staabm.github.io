@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (3 days ago)
 - [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) (1 week ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Issue-Bot: Emit GitHub Action annotation when issues are affected](https://github.com/phpstan/phpstan-src/pull/4326) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/4325) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [ Improve 2448-not-existing-test.phpt ](https://github.com/sebastianbergmann/phpunit/pull/6360) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Properly skip new test](https://github.com/sebastianbergmann/phpunit/pull/6359) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Fix &#34;Crash: str_increment(): Argument #1 ($string) must be composed only of alphanumeric ASCII characters&#34;](https://github.com/phpstan/phpstan-src/pull/4316) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -53,8 +55,6 @@
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/4306) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Implemented NativeTypeExpr](https://github.com/phpstan/phpstan-src/pull/4302) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Fix &#34;Using null as an array offset is deprecated, use an empty string instead&#34;](https://github.com/phpstan/phpstan-src/pull/4301) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/4300) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [non-empty-array might be empty after array_keys() with filter](https://github.com/phpstan/phpstan-src/pull/4295) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
