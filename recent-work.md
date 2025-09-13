@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Print similar options, when reporting ambigious option](https://github.com/sebastianbergmann/cli-parser/pull/2) on [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) (today)
 - [Readme: re-order instruction from recent to old PHPUnit versions](https://github.com/ergebnis/phpunit-slow-test-detector/pull/722) on [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) (today)
 - [Issue-Bot: Emit GitHub Action annotation when issues are affected](https://github.com/phpstan/phpstan-src/pull/4326) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/4325) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/4308) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/4307) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/4306) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Implemented NativeTypeExpr](https://github.com/phpstan/phpstan-src/pull/4302) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
