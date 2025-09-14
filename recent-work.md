@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Print most similar options, when reporting ambigious option](https://github.com/sebastianbergmann/cli-parser/pull/3) on [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) (today)
 - [Print similar options when reporting ambiguous options](https://github.com/sebastianbergmann/cli-parser/pull/2) on [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) (1 day ago)
 - [Readme: re-order instruction from recent to old PHPUnit versions](https://github.com/ergebnis/phpunit-slow-test-detector/pull/722) on [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) (1 day ago)
 - [Issue-Bot: Emit GitHub Action annotation when issues are affected](https://github.com/phpstan/phpstan-src/pull/4326) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Support indirect `Stringable` interface via `__toString()` in trait](https://github.com/Roave/BetterReflection/pull/1524) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (5 days ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/4308) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/4307) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/4306) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
