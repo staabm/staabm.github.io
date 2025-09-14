@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) (today)
 - [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (1 day ago)
-- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Print most similar options, when reporting ambigious option](https://github.com/sebastianbergmann/cli-parser/pull/3) on [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) (today)
+- [Print most similar options when reporting unknown options](https://github.com/sebastianbergmann/cli-parser/pull/3) on [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) (today)
 - [Print similar options when reporting ambiguous options](https://github.com/sebastianbergmann/cli-parser/pull/2) on [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) (1 day ago)
 - [Readme: re-order instruction from recent to old PHPUnit versions](https://github.com/ergebnis/phpunit-slow-test-detector/pull/722) on [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) (1 day ago)
 - [Issue-Bot: Emit GitHub Action annotation when issues are affected](https://github.com/phpstan/phpstan-src/pull/4326) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - [4.2.0](https://github.com/sebastianbergmann/cli-parser/releases/tag/4.2.0) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.11](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.11) (today)
-- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - [4.1.0](https://github.com/sebastianbergmann/cli-parser/releases/tag/4.1.0) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.27](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.27) (2 days ago)
 - [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [3.5.0](https://github.com/FriendsOfREDAXO/adminer/releases/tag/3.5.0) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.25](https://github.com/phpstan/phpstan/releases/tag/2.1.25) (2 days ago)
