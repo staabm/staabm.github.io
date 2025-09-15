@@ -6,8 +6,8 @@
 - [staabm/thincache](https://github.com/staabm/thincache) (today)
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) (1 day ago)
 - [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (5 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (6 days ago)
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/thincache](https://github.com/staabm/thincache) - [1.1.0](https://github.com/staabm/thincache/releases/tag/1.1.0) (today)
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - [4.2.0](https://github.com/sebastianbergmann/cli-parser/releases/tag/4.2.0) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.11](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.11) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.27](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.27) (3 days ago)
@@ -68,4 +69,3 @@
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [12.6.0](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.6.0) (5 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.3.7](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.7) (5 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.87.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.87.2) (5 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.6](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.6) (5 days ago)
