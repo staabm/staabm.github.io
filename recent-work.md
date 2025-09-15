@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/thincache](https://github.com/staabm/thincache) (today)
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) (1 day ago)
 - [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
@@ -12,7 +13,6 @@
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (6 days ago)
 - [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (2 weeks ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Handle possible false-return values](https://github.com/staabm/thincache/pull/30) on [staabm/thincache](https://github.com/staabm/thincache) (today)
+- [Update PHPStan to 2.x](https://github.com/staabm/thincache/pull/29) on [staabm/thincache](https://github.com/staabm/thincache) (today)
 - [Print most similar options when reporting unknown options](https://github.com/sebastianbergmann/cli-parser/pull/3) on [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) (1 day ago)
 - [Print similar options when reporting ambiguous options](https://github.com/sebastianbergmann/cli-parser/pull/2) on [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) (2 days ago)
 - [Readme: re-order instruction from recent to old PHPUnit versions](https://github.com/ergebnis/phpunit-slow-test-detector/pull/722) on [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) (2 days ago)
@@ -53,8 +55,6 @@
 - [Remember narrowed readonly types in anonymous functions](https://github.com/phpstan/phpstan-src/pull/4313) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/4310) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Support indirect `Stringable` interface via `__toString()` in trait](https://github.com/Roave/BetterReflection/pull/1524) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (6 days ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/4308) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/4307) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
