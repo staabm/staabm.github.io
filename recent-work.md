@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Utilize SensitiveParameter attribute](https://github.com/recombee/php-api-client/pull/34) on [recombee/php-api-client](https://github.com/recombee/php-api-client) (today)
 - [Handle possible false-return values](https://github.com/staabm/thincache/pull/30) on [staabm/thincache](https://github.com/staabm/thincache) (1 day ago)
 - [Update PHPStan to 2.x](https://github.com/staabm/thincache/pull/29) on [staabm/thincache](https://github.com/staabm/thincache) (1 day ago)
 - [Print most similar options when reporting unknown options](https://github.com/sebastianbergmann/cli-parser/pull/3) on [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) (2 days ago)
@@ -54,7 +55,6 @@
 - [Update PHP-CS-Fixer / Code Sniffer](https://github.com/easy-coding-standard/easy-coding-standard/pull/298) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (6 days ago)
 - [Remember narrowed readonly types in anonymous functions](https://github.com/phpstan/phpstan-src/pull/4313) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/4310) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Support indirect `Stringable` interface via `__toString()` in trait](https://github.com/Roave/BetterReflection/pull/1524) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
