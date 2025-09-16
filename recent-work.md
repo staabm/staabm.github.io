@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.29](https://github.com/phpstan/phpstan/releases/tag/1.12.29) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.26](https://github.com/phpstan/phpstan/releases/tag/2.1.26) (today)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.33.2](https://github.com/pmmp/PocketMine-MP/releases/tag/5.33.2) (1 day ago)
 - [staabm/thincache](https://github.com/staabm/thincache) - [1.1.0](https://github.com/staabm/thincache/releases/tag/1.1.0) (1 day ago)
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - [4.2.0](https://github.com/sebastianbergmann/cli-parser/releases/tag/4.2.0) (2 days ago)
