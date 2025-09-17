@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.3.8](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.8) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.27](https://github.com/phpstan/phpstan/releases/tag/2.1.27) (today)
 - [antecedent/patchwork](https://github.com/antecedent/patchwork) - [2.2.3](https://github.com/antecedent/patchwork/releases/tag/2.2.3) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.28](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.28) (today)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - [4.2.0](https://github.com/sebastianbergmann/cli-parser/releases/tag/4.2.0) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.11](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.11) (3 days ago)
 - [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [3.5.0](https://github.com/FriendsOfREDAXO/adminer/releases/tag/3.5.0) (5 days ago)
-- [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - [2.2.0](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/releases/tag/2.2.0) (5 days ago)
