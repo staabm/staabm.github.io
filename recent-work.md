@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Narrow l/r/trim() arg on comparison to &#39;&#39;](https://github.com/phpstan/phpstan-src/pull/4340) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [prepare next iteration](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/122) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (today)
 - [prepare release](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/121) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (today)
 - [Utilize SensitiveParameter attribute](https://github.com/recombee/php-api-client/pull/34) on [recombee/php-api-client](https://github.com/recombee/php-api-client) (1 day ago)
@@ -54,7 +55,6 @@
 - [Properly skip new test](https://github.com/sebastianbergmann/phpunit/pull/6359) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
 - [Fix &#34;Crash: str_increment(): Argument #1 ($string) must be composed only of alphanumeric ASCII characters&#34;](https://github.com/phpstan/phpstan-src/pull/4316) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Remember narrowed types from the constructor from deep PropertyFetches](https://github.com/phpstan/phpstan-src/pull/4315) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Update PHP-CS-Fixer / Code Sniffer](https://github.com/easy-coding-standard/easy-coding-standard/pull/298) on [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
