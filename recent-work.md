@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.27](https://github.com/phpstan/phpstan/releases/tag/2.1.27) (today)
+- [antecedent/patchwork](https://github.com/antecedent/patchwork) - [2.2.3](https://github.com/antecedent/patchwork/releases/tag/2.2.3) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.28](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.28) (today)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) - [1.8.6](https://github.com/staabm/annotate-pull-request-from-checkstyle/releases/tag/1.8.6) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.26](https://github.com/phpstan/phpstan/releases/tag/2.1.26) (1 day ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.33.2](https://github.com/pmmp/PocketMine-MP/releases/tag/5.33.2) (2 days ago)
 - [staabm/thincache](https://github.com/staabm/thincache) - [1.1.0](https://github.com/staabm/thincache/releases/tag/1.1.0) (2 days ago)
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - [4.2.0](https://github.com/sebastianbergmann/cli-parser/releases/tag/4.2.0) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.11](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.11) (3 days ago)
 - [FriendsOfREDAXO/adminer](https://github.com/FriendsOfREDAXO/adminer) - [3.5.0](https://github.com/FriendsOfREDAXO/adminer/releases/tag/3.5.0) (5 days ago)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - [2.2.0](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/releases/tag/2.2.0) (5 days ago)
-- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [12.6.0](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.6.0) (1 week ago)
