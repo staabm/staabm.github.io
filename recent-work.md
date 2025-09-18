@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [staabm/thincache](https://github.com/staabm/thincache) (3 days ago)
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) (4 days ago)
 - [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (5 days ago)
@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.29](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.29) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.5](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.5) (1 day ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.3.8](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.8) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.27](https://github.com/phpstan/phpstan/releases/tag/2.1.27) (1 day ago)
 - [antecedent/patchwork](https://github.com/antecedent/patchwork) - [2.2.3](https://github.com/antecedent/patchwork/releases/tag/2.2.3) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.28](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.28) (1 day ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) - [1.8.6](https://github.com/staabm/annotate-pull-request-from-checkstyle/releases/tag/1.8.6) (1 day ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.33.2](https://github.com/pmmp/PocketMine-MP/releases/tag/5.33.2) (3 days ago)
 - [staabm/thincache](https://github.com/staabm/thincache) - [1.1.0](https://github.com/staabm/thincache/releases/tag/1.1.0) (3 days ago)
