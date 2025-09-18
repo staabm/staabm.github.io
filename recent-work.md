@@ -4,11 +4,11 @@
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 day ago)
 - [staabm/thincache](https://github.com/staabm/thincache) (3 days ago)
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) (4 days ago)
 - [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (5 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Narrow offset after isset() on list](https://github.com/phpstan/phpstan-src/pull/4345) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [PHPUnit 10.x is compatible with PHP 8.1](https://github.com/phpstan/phpstan-src/pull/4343) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Init container before DataProvider is called](https://github.com/phpstan/phpstan-src/pull/4342) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Narrow l/r/trim() arg on comparison to &#39;&#39;](https://github.com/phpstan/phpstan-src/pull/4340) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Issue-Bot: Emit GitHub Action annotation when issues are affected](https://github.com/phpstan/phpstan-src/pull/4326) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/4325) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [ Improve 2448-not-existing-test.phpt ](https://github.com/sebastianbergmann/phpunit/pull/6360) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [Properly skip new test](https://github.com/sebastianbergmann/phpunit/pull/6359) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
