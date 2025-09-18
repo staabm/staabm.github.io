@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [PHPUnit 10.x is compatible with PHP 8.1](https://github.com/phpstan/phpstan-src/pull/4343) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Init container before DataProvider is called](https://github.com/phpstan/phpstan-src/pull/4342) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Narrow l/r/trim() arg on comparison to &#39;&#39;](https://github.com/phpstan/phpstan-src/pull/4340) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [prepare next iteration](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/122) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 day ago)
@@ -54,7 +55,6 @@
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/4325) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [ Improve 2448-not-existing-test.phpt ](https://github.com/sebastianbergmann/phpunit/pull/6360) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [Properly skip new test](https://github.com/sebastianbergmann/phpunit/pull/6359) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [Fix &#34;Crash: str_increment(): Argument #1 ($string) must be composed only of alphanumeric ASCII characters&#34;](https://github.com/phpstan/phpstan-src/pull/4316) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
