@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Init container also for tests without dataprovider](https://github.com/phpstan/phpstan-src/pull/4346) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Narrow offset after isset() on list](https://github.com/phpstan/phpstan-src/pull/4345) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [PHPUnit 10.x is compatible with PHP 8.1](https://github.com/phpstan/phpstan-src/pull/4343) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Init container before DataProvider is called](https://github.com/phpstan/phpstan-src/pull/4342) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Readme: re-order instruction from recent to old PHPUnit versions](https://github.com/ergebnis/phpunit-slow-test-detector/pull/722) on [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) (5 days ago)
 - [Issue-Bot: Emit GitHub Action annotation when issues are affected](https://github.com/phpstan/phpstan-src/pull/4326) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/4325) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [ Improve 2448-not-existing-test.phpt ](https://github.com/sebastianbergmann/phpunit/pull/6360) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
