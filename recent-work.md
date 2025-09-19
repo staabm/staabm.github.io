@@ -4,8 +4,8 @@
 #### 💻 Check out what I'm currently working on
 
 - [recombee/php-api-client](https://github.com/recombee/php-api-client) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 days ago)
 - [staabm/thincache](https://github.com/staabm/thincache) (4 days ago)
