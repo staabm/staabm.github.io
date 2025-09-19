@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.6](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.6) (today)
 - [recombee/php-api-client](https://github.com/recombee/php-api-client) - [v5.1.1](https://github.com/recombee/php-api-client/releases/tag/v5.1.1) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.28](https://github.com/phpstan/phpstan/releases/tag/2.1.28) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.64.0](https://github.com/Roave/BetterReflection/releases/tag/6.64.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.29](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.29) (1 day ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.5](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.5) (2 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.3.8](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.8) (2 days ago)
 - [antecedent/patchwork](https://github.com/antecedent/patchwork) - [2.2.3](https://github.com/antecedent/patchwork/releases/tag/2.2.3) (2 days ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) - [1.8.6](https://github.com/staabm/annotate-pull-request-from-checkstyle/releases/tag/1.8.6) (2 days ago)
