@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [recombee/php-api-client](https://github.com/recombee/php-api-client) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 days ago)
@@ -12,7 +13,6 @@
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
-- [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [recombee/php-api-client](https://github.com/recombee/php-api-client) - [v5.1.1](https://github.com/recombee/php-api-client/releases/tag/v5.1.1) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.28](https://github.com/phpstan/phpstan/releases/tag/2.1.28) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.64.0](https://github.com/Roave/BetterReflection/releases/tag/6.64.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.29](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.29) (1 day ago)
@@ -68,4 +69,3 @@
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) - [1.8.6](https://github.com/staabm/annotate-pull-request-from-checkstyle/releases/tag/1.8.6) (2 days ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.33.2](https://github.com/pmmp/PocketMine-MP/releases/tag/5.33.2) (4 days ago)
 - [staabm/thincache](https://github.com/staabm/thincache) - [1.1.0](https://github.com/staabm/thincache/releases/tag/1.1.0) (4 days ago)
-- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - [4.2.0](https://github.com/sebastianbergmann/cli-parser/releases/tag/4.2.0) (5 days ago)
