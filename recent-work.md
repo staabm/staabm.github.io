@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [recombee/php-api-client](https://github.com/recombee/php-api-client) (1 day ago)
-- [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 day ago)
+- [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [recombee/php-api-client](https://github.com/recombee/php-api-client) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (3 days ago)
 - [staabm/thincache](https://github.com/staabm/thincache) (5 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Move inline code into test-fixture](https://github.com/ondrejmirtes/simple-downgrader/pull/15) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
 - [Remove static reflection from DowngradeNamedArgumentsVisitor](https://github.com/ondrejmirtes/simple-downgrader/pull/14) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
 - [Cancel in-flight builds on subsequent pushes](https://github.com/ondrejmirtes/simple-downgrader/pull/13) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
 - [Made DowngradeNamedArgumentsVisitorTest not require classes from phpstorm-stubs](https://github.com/ondrejmirtes/simple-downgrader/pull/12) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
@@ -54,7 +55,6 @@
 - [Utilize SensitiveParameter attribute](https://github.com/recombee/php-api-client/pull/34) on [recombee/php-api-client](https://github.com/recombee/php-api-client) (4 days ago)
 - [Handle possible false-return values](https://github.com/staabm/thincache/pull/30) on [staabm/thincache](https://github.com/staabm/thincache) (5 days ago)
 - [Update PHPStan to 2.x](https://github.com/staabm/thincache/pull/29) on [staabm/thincache](https://github.com/staabm/thincache) (5 days ago)
-- [Print most similar options when reporting unknown options](https://github.com/sebastianbergmann/cli-parser/pull/3) on [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
