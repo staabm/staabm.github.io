@@ -4,8 +4,8 @@
 #### 💻 Check out what I'm currently working on
 
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
-- [recombee/php-api-client](https://github.com/recombee/php-api-client) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [recombee/php-api-client](https://github.com/recombee/php-api-client) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (3 days ago)
 - [staabm/thincache](https://github.com/staabm/thincache) (5 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [False positive &#34;non-empty-array&lt;int, int&gt; might not be a list&#34; when change existing list key](https://github.com/phpstan/phpstan-src/pull/4351) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Move inline code into test-fixture](https://github.com/ondrejmirtes/simple-downgrader/pull/15) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
 - [Use runtime-reflection instead of static-reflection to speedup downgrades](https://github.com/ondrejmirtes/simple-downgrader/pull/14) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
 - [Cancel in-flight builds on subsequent pushes](https://github.com/ondrejmirtes/simple-downgrader/pull/13) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
@@ -54,7 +55,6 @@
 - [prepare release](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/121) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (3 days ago)
 - [Utilize SensitiveParameter attribute](https://github.com/recombee/php-api-client/pull/34) on [recombee/php-api-client](https://github.com/recombee/php-api-client) (4 days ago)
 - [Handle possible false-return values](https://github.com/staabm/thincache/pull/30) on [staabm/thincache](https://github.com/staabm/thincache) (5 days ago)
-- [Update PHPStan to 2.x](https://github.com/staabm/thincache/pull/29) on [staabm/thincache](https://github.com/staabm/thincache) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
