@@ -4,8 +4,8 @@
 #### 💻 Check out what I'm currently working on
 
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [recombee/php-api-client](https://github.com/recombee/php-api-client) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (3 days ago)
 - [staabm/thincache](https://github.com/staabm/thincache) (5 days ago)
@@ -41,7 +41,7 @@
 #### 🔨 My recent Pull Requests
 
 - [Move inline code into test-fixture](https://github.com/ondrejmirtes/simple-downgrader/pull/15) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
-- [Remove static reflection from DowngradeNamedArgumentsVisitor](https://github.com/ondrejmirtes/simple-downgrader/pull/14) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
+- [Use runtime-reflection instead of static-reflection to speedup downgrades](https://github.com/ondrejmirtes/simple-downgrader/pull/14) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
 - [Cancel in-flight builds on subsequent pushes](https://github.com/ondrejmirtes/simple-downgrader/pull/13) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
 - [Made DowngradeNamedArgumentsVisitorTest not require classes from phpstorm-stubs](https://github.com/ondrejmirtes/simple-downgrader/pull/12) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
 - [Cleanup dead code](https://github.com/ondrejmirtes/simple-downgrader/pull/11) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 day ago)
