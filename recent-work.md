@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Cancel in-flight builds on subsequent pushes](https://github.com/ondrejmirtes/simple-downgrader/pull/13) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
 - [Made DowngradeNamedArgumentsVisitorTest not require classes from phpstorm-stubs](https://github.com/ondrejmirtes/simple-downgrader/pull/12) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
 - [Cleanup dead code](https://github.com/ondrejmirtes/simple-downgrader/pull/11) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 day ago)
 - [Init container also for tests without dataprovider](https://github.com/phpstan/phpstan-src/pull/4346) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Update PHPStan to 2.x](https://github.com/staabm/thincache/pull/29) on [staabm/thincache](https://github.com/staabm/thincache) (5 days ago)
 - [Print most similar options when reporting unknown options](https://github.com/sebastianbergmann/cli-parser/pull/3) on [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) (6 days ago)
 - [Print similar options when reporting ambiguous options](https://github.com/sebastianbergmann/cli-parser/pull/2) on [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) (1 week ago)
-- [Readme: re-order instruction from recent to old PHPUnit versions](https://github.com/ergebnis/phpunit-slow-test-detector/pull/722) on [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
