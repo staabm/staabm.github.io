@@ -4,8 +4,8 @@
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [recombee/php-api-client](https://github.com/recombee/php-api-client) (3 days ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (5 days ago)
 - [staabm/thincache](https://github.com/staabm/thincache) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added comment](https://github.com/phpstan/phpstan-src/pull/4358) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Remove unnecessary files from releases](https://github.com/lesstif/php-jira-rest-client/pull/557) on [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (today)
 - [Remove unnecessary files from releases](https://github.com/lesstif/php-JiraCloud-RESTAPI/pull/102) on [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (today)
 - [Faster code downgrade to speedup CI](https://github.com/phpstan/phpstan-src/pull/4352) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [PHPUnit 10.x is compatible with PHP 8.1](https://github.com/phpstan/phpstan-src/pull/4343) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Init container before DataProvider is called](https://github.com/phpstan/phpstan-src/pull/4342) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Narrow l/r/trim() arg on comparison to &#39;&#39;](https://github.com/phpstan/phpstan-src/pull/4340) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [prepare next iteration](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/122) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
