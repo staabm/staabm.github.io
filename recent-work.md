@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [next page token can be null](https://github.com/lesstif/php-jira-rest-client/pull/559) on [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (today)
+- [next page token can be null](https://github.com/lesstif/php-JiraCloud-RESTAPI/pull/103) on [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (today)
 - [Added comment](https://github.com/phpstan/phpstan-src/pull/4358) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Remove unnecessary files from releases](https://github.com/lesstif/php-jira-rest-client/pull/557) on [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (today)
 - [Remove unnecessary files from releases](https://github.com/lesstif/php-JiraCloud-RESTAPI/pull/102) on [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (today)
@@ -53,8 +55,6 @@
 - [Init container also for tests without dataprovider](https://github.com/phpstan/phpstan-src/pull/4346) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Narrow offset after isset() on list](https://github.com/phpstan/phpstan-src/pull/4345) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [PHPUnit 10.x is compatible with PHP 8.1](https://github.com/phpstan/phpstan-src/pull/4343) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Init container before DataProvider is called](https://github.com/phpstan/phpstan-src/pull/4342) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Narrow l/r/trim() arg on comparison to &#39;&#39;](https://github.com/phpstan/phpstan-src/pull/4340) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
