@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove unnecessary files from releases](https://github.com/lesstif/php-jira-rest-client/pull/557) on [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (today)
+- [Remove unnecessary files from releases](https://github.com/lesstif/php-JiraCloud-RESTAPI/pull/102) on [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (today)
 - [Faster code downgrade to speedup CI](https://github.com/phpstan/phpstan-src/pull/4352) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [False positive &#34;non-empty-array&lt;int, int&gt; might not be a list&#34; when change existing list key](https://github.com/phpstan/phpstan-src/pull/4351) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Move inline code into test-fixture](https://github.com/ondrejmirtes/simple-downgrader/pull/15) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (2 days ago)
@@ -53,8 +55,6 @@
 - [Init container before DataProvider is called](https://github.com/phpstan/phpstan-src/pull/4342) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Narrow l/r/trim() arg on comparison to &#39;&#39;](https://github.com/phpstan/phpstan-src/pull/4340) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [prepare next iteration](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/122) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (5 days ago)
-- [prepare release](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/121) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (5 days ago)
-- [Utilize SensitiveParameter attribute](https://github.com/recombee/php-api-client/pull/34) on [recombee/php-api-client](https://github.com/recombee/php-api-client) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
