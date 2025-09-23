@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.13](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.13) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.30](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.30) (1 day ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [7.0.1](https://github.com/sebastianbergmann/exporter/releases/tag/7.0.1) (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.12](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.12) (2 days ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.9.0](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.9.0) (3 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.6](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.6) (4 days ago)
 - [recombee/php-api-client](https://github.com/recombee/php-api-client) - [v5.1.1](https://github.com/recombee/php-api-client/releases/tag/v5.1.1) (4 days ago)
