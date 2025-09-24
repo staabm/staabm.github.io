@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Narrow too wide return type](https://github.com/phpstan/phpstan-phpunit/pull/237) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [Fix &#34;Unknown named parameter $noColor&#34;](https://github.com/pb30/phpstan-composer-analysis/pull/61) on [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (1 day ago)
 - [next page token can be null](https://github.com/lesstif/php-jira-rest-client/pull/559) on [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (2 days ago)
 - [next page token can be null](https://github.com/lesstif/php-JiraCloud-RESTAPI/pull/103) on [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (2 days ago)
@@ -54,7 +55,6 @@
 - [Made DowngradeNamedArgumentsVisitorTest not require classes from phpstorm-stubs](https://github.com/ondrejmirtes/simple-downgrader/pull/12) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (4 days ago)
 - [Cleanup dead code](https://github.com/ondrejmirtes/simple-downgrader/pull/11) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (5 days ago)
 - [Init container also for tests without dataprovider](https://github.com/phpstan/phpstan-src/pull/4346) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Narrow offset after isset() on list](https://github.com/phpstan/phpstan-src/pull/4345) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
