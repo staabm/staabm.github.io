@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (4 days ago)
@@ -12,7 +13,6 @@
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) (1 week ago)
 - [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
