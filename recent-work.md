@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.31](https://github.com/phpstan/phpstan/releases/tag/1.12.31) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.4.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.4.0) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.14](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.14) (today)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [7.0.2](https://github.com/sebastianbergmann/exporter/releases/tag/7.0.2) (today)
@@ -66,6 +67,5 @@
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.9.0](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.9.0) (4 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.6](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.6) (5 days ago)
 - [recombee/php-api-client](https://github.com/recombee/php-api-client) - [v5.1.1](https://github.com/recombee/php-api-client/releases/tag/v5.1.1) (5 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.28](https://github.com/phpstan/phpstan/releases/tag/2.1.28) (5 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.64.0](https://github.com/Roave/BetterReflection/releases/tag/6.64.0) (5 days ago)
 - [antecedent/patchwork](https://github.com/antecedent/patchwork) - [2.2.3](https://github.com/antecedent/patchwork/releases/tag/2.2.3) (1 week ago)
