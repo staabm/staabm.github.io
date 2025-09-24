@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.4.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.4.0) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.14](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.14) (today)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [7.0.2](https://github.com/sebastianbergmann/exporter/releases/tag/7.0.2) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.30](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.30) (2 days ago)
@@ -67,5 +68,4 @@
 - [recombee/php-api-client](https://github.com/recombee/php-api-client) - [v5.1.1](https://github.com/recombee/php-api-client/releases/tag/v5.1.1) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.28](https://github.com/phpstan/phpstan/releases/tag/2.1.28) (5 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.64.0](https://github.com/Roave/BetterReflection/releases/tag/6.64.0) (5 days ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.3.8](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.8) (1 week ago)
 - [antecedent/patchwork](https://github.com/antecedent/patchwork) - [2.2.3](https://github.com/antecedent/patchwork/releases/tag/2.2.3) (1 week ago)
