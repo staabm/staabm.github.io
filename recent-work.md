@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.34.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.34.0) (today)
+- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.34.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.34.1) (today)
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.26](https://github.com/php/php-src/releases/tag/php-8.3.26) (today)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.7](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.7) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.31](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.31) (today)
