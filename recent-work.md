@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.34.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.34.0) (today)
+- [php/php-src](https://github.com/php/php-src) - [php-8.3.26](https://github.com/php/php-src/releases/tag/php-8.3.26) (today)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.7](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.7) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.31](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.31) (today)
-- [php/php-src](https://github.com/php/php-src) - [php-8.4.13](https://github.com/php/php-src/releases/tag/php-8.4.13) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.29](https://github.com/phpstan/phpstan/releases/tag/2.1.29) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.88.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.88.0) (2 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.4.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.4.0) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.14](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.14) (2 days ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [7.0.2](https://github.com/sebastianbergmann/exporter/releases/tag/7.0.2) (2 days ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.9.0](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.9.0) (6 days ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.6](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.6) (1 week ago)
