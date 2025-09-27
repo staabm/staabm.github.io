@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify *StatementWithoutImpurePointsRule](https://github.com/phpstan/phpstan-src/pull/4375) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify ClassReflectionExtensions](https://github.com/phpstan/phpstan-src/pull/4374) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix &#34;offset might not exist&#34; false-positives when offset is a expression](https://github.com/phpstan/phpstan-src/pull/4372) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix PHP8.5 Warning: &#34;unexpected NAN value was coerced to string&#34;](https://github.com/phpstan/phpstan-src/pull/4368) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -54,7 +55,6 @@
 - [False positive &#34;non-empty-array&lt;int, int&gt; might not be a list&#34; when change existing list key](https://github.com/phpstan/phpstan-src/pull/4351) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Move inline code into test-fixture](https://github.com/ondrejmirtes/simple-downgrader/pull/15) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 week ago)
 - [Use runtime-reflection instead of static-reflection to speedup downgrades](https://github.com/ondrejmirtes/simple-downgrader/pull/14) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 week ago)
-- [Cancel in-flight builds on subsequent pushes](https://github.com/ondrejmirtes/simple-downgrader/pull/13) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
