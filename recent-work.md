@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.4](https://github.com/symfony/symfony/releases/tag/v7.3.4) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.88.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.88.2) (today)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.34.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.34.1) (1 day ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.26](https://github.com/php/php-src/releases/tag/php-8.3.26) (1 day ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.4.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.4.0) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.14](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.14) (3 days ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [7.0.2](https://github.com/sebastianbergmann/exporter/releases/tag/7.0.2) (3 days ago)
-- [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.9.0](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.9.0) (1 week ago)
