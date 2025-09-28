@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Cleanup `instanceof Type` checks](https://github.com/phpstan/phpstan-src/pull/4380) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Improve ConstantArrayType inference](https://github.com/phpstan/phpstan-src/pull/4376) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Simplify *StatementWithoutImpurePointsRule](https://github.com/phpstan/phpstan-src/pull/4375) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Simplify ClassReflectionExtensions](https://github.com/phpstan/phpstan-src/pull/4374) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Remove unnecessary files from releases](https://github.com/lesstif/php-JiraCloud-RESTAPI/pull/102) on [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (6 days ago)
 - [Faster code downgrade to speedup CI](https://github.com/phpstan/phpstan-src/pull/4352) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [False positive &#34;non-empty-array&lt;int, int&gt; might not be a list&#34; when change existing list key](https://github.com/phpstan/phpstan-src/pull/4351) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Move inline code into test-fixture](https://github.com/ondrejmirtes/simple-downgrader/pull/15) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
