@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.15](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.15) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.4](https://github.com/symfony/symfony/releases/tag/v7.3.4) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.88.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.88.2) (1 day ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.34.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.34.1) (2 days ago)
@@ -67,5 +68,4 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.31](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.31) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.29](https://github.com/phpstan/phpstan/releases/tag/2.1.29) (3 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.4.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.4.0) (4 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.14](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.14) (4 days ago)
 - [sebastianbergmann/exporter](https://github.com/sebastianbergmann/exporter) - [7.0.2](https://github.com/sebastianbergmann/exporter/releases/tag/7.0.2) (4 days ago)
