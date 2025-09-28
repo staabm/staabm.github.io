@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix &#34;array_rand() - offset might not exists&#34;](https://github.com/phpstan/phpstan-src/pull/4383) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/4382) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix &#34;Offset (int|string) might not exist on array&#34; after `array_keys($arr)`](https://github.com/phpstan/phpstan-src/pull/4381) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Cleanup `instanceof Type` checks](https://github.com/phpstan/phpstan-src/pull/4380) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Improve ConstantArrayType inference](https://github.com/phpstan/phpstan-src/pull/4376) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [next page token can be null](https://github.com/lesstif/php-JiraCloud-RESTAPI/pull/103) on [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (6 days ago)
 - [Added comment](https://github.com/phpstan/phpstan-src/pull/4358) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Remove unnecessary files from releases](https://github.com/lesstif/php-jira-rest-client/pull/557) on [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (6 days ago)
-- [Remove unnecessary files from releases](https://github.com/lesstif/php-JiraCloud-RESTAPI/pull/102) on [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (6 days ago)
-- [Faster code downgrade to speedup CI](https://github.com/phpstan/phpstan-src/pull/4352) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
