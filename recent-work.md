@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Skip deep expression when root expression changes while scope generalization](https://github.com/phpstan/phpstan-src/pull/4390) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix &#34;array_rand() - offset might not exists&#34;](https://github.com/phpstan/phpstan-src/pull/4383) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/4382) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix &#34;Offset (int|string) might not exist on array&#34; after `array_keys($arr)`](https://github.com/phpstan/phpstan-src/pull/4381) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [next page token can be null](https://github.com/lesstif/php-jira-rest-client/pull/559) on [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (1 week ago)
 - [next page token can be null](https://github.com/lesstif/php-JiraCloud-RESTAPI/pull/103) on [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (1 week ago)
 - [Added comment](https://github.com/phpstan/phpstan-src/pull/4358) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Remove unnecessary files from releases](https://github.com/lesstif/php-jira-rest-client/pull/557) on [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
