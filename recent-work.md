@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.32](https://github.com/phpstan/phpstan/releases/tag/1.12.32) (today)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.2.0](https://github.com/CuyZ/Valinor/releases/tag/2.2.0) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.65.0](https://github.com/Roave/BetterReflection/releases/tag/6.65.0) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.15](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.15) (2 days ago)
@@ -68,4 +69,3 @@
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.26](https://github.com/php/php-src/releases/tag/php-8.3.26) (4 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.7](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.7) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.31](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.31) (4 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.29](https://github.com/phpstan/phpstan/releases/tag/2.1.29) (5 days ago)
