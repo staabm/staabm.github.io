@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Configure PromoteParameterRule for issue-bot](https://github.com/phpstan/phpstan-src/pull/4392) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Skip deep expression when root expression changes while scope generalization](https://github.com/phpstan/phpstan-src/pull/4390) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix &#34;array_rand() - offset might not exists&#34;](https://github.com/phpstan/phpstan-src/pull/4383) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/4382) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Fix &#34;Unknown named parameter $noColor&#34;](https://github.com/pb30/phpstan-composer-analysis/pull/61) on [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (1 week ago)
 - [next page token can be null](https://github.com/lesstif/php-jira-rest-client/pull/559) on [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (1 week ago)
 - [next page token can be null](https://github.com/lesstif/php-JiraCloud-RESTAPI/pull/103) on [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (1 week ago)
-- [Added comment](https://github.com/phpstan/phpstan-src/pull/4358) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
