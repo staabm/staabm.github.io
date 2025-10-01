@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
@@ -12,7 +13,6 @@
 - [staabm/thincache](https://github.com/staabm/thincache) (2 weeks ago)
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) (2 weeks ago)
 - [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (2 weeks ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Utilize SensitiveParameter attribute](https://github.com/staabm/secure_dotenv/pull/19) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
 - [Utilize SensitiveParameter attribute](https://github.com/deployphp/deployer/pull/4122) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
 - [Fix typos](https://github.com/phpstan/phpstan-src/pull/4394) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Added regression tests](https://github.com/phpstan/phpstan-src/pull/4393) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,11 +55,11 @@
 - [Simplify ClassReflectionExtensions](https://github.com/phpstan/phpstan-src/pull/4374) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Fix &#34;offset might not exist&#34; false-positives when offset is a expression](https://github.com/phpstan/phpstan-src/pull/4372) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Fix PHP8.5 Warning: &#34;unexpected NAN value was coerced to string&#34;](https://github.com/phpstan/phpstan-src/pull/4368) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Narrow too wide return type](https://github.com/phpstan/phpstan-phpunit/pull/237) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [10.0.5](https://github.com/staabm/secure_dotenv/releases/tag/10.0.5) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.32](https://github.com/phpstan/phpstan/releases/tag/1.12.32) (1 day ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.2.0](https://github.com/CuyZ/Valinor/releases/tag/2.2.0) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.65.0](https://github.com/Roave/BetterReflection/releases/tag/6.65.0) (2 days ago)
@@ -68,4 +69,3 @@
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.34.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.34.1) (5 days ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.26](https://github.com/php/php-src/releases/tag/php-8.3.26) (5 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.7](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.7) (5 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.31](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.31) (5 days ago)
