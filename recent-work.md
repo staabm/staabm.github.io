@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Utilize SensitiveParameter attribute](https://github.com/deployphp/deployer/pull/4122) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
+- [Fix typos](https://github.com/phpstan/phpstan-src/pull/4394) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Added regression tests](https://github.com/phpstan/phpstan-src/pull/4393) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Configure PromoteParameterRule for issue-bot](https://github.com/phpstan/phpstan-src/pull/4392) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Skip deep expression when root expression changes while scope generalization](https://github.com/phpstan/phpstan-src/pull/4390) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fix &#34;array_rand() - offset might not exists&#34;](https://github.com/phpstan/phpstan-src/pull/4383) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -52,9 +55,6 @@
 - [Fix &#34;offset might not exist&#34; false-positives when offset is a expression](https://github.com/phpstan/phpstan-src/pull/4372) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Fix PHP8.5 Warning: &#34;unexpected NAN value was coerced to string&#34;](https://github.com/phpstan/phpstan-src/pull/4368) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Narrow too wide return type](https://github.com/phpstan/phpstan-phpunit/pull/237) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
-- [Fix &#34;Unknown named parameter $noColor&#34;](https://github.com/pb30/phpstan-composer-analysis/pull/61) on [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) (1 week ago)
-- [next page token can be null](https://github.com/lesstif/php-jira-rest-client/pull/559) on [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (1 week ago)
-- [next page token can be null](https://github.com/lesstif/php-JiraCloud-RESTAPI/pull/103) on [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
