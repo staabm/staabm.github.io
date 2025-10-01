@@ -4,6 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
+- [deployphp/deployer](https://github.com/deployphp/deployer) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
@@ -12,7 +13,6 @@
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 weeks ago)
 - [staabm/thincache](https://github.com/staabm/thincache) (2 weeks ago)
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) (2 weeks ago)
-- [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support union types in curl_setopt validation](https://github.com/phpstan/phpstan-src/pull/4396) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Validate curl_setopt_array parameter array](https://github.com/phpstan/phpstan-src/pull/4395) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Utilize SensitiveParameter attribute](https://github.com/staabm/secure_dotenv/pull/19) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
 - [Utilize SensitiveParameter attribute](https://github.com/deployphp/deployer/pull/4122) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
 - [Fix typos](https://github.com/phpstan/phpstan-src/pull/4394) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -53,8 +55,6 @@
 - [Improve ConstantArrayType inference](https://github.com/phpstan/phpstan-src/pull/4376) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Simplify *StatementWithoutImpurePointsRule](https://github.com/phpstan/phpstan-src/pull/4375) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Simplify ClassReflectionExtensions](https://github.com/phpstan/phpstan-src/pull/4374) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Fix &#34;offset might not exist&#34; false-positives when offset is a expression](https://github.com/phpstan/phpstan-src/pull/4372) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Fix PHP8.5 Warning: &#34;unexpected NAN value was coerced to string&#34;](https://github.com/phpstan/phpstan-src/pull/4368) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
