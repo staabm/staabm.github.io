@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [array_rand() requires a non-empty-array as of php8](https://github.com/phpstan/phpstan-src/pull/4397) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Support union types in curl_setopt validation](https://github.com/phpstan/phpstan-src/pull/4396) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Validate curl_setopt_array parameter array](https://github.com/phpstan/phpstan-src/pull/4395) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Utilize SensitiveParameter attribute](https://github.com/staabm/secure_dotenv/pull/19) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 day ago)
@@ -54,7 +55,6 @@
 - [Cleanup `instanceof Type` checks](https://github.com/phpstan/phpstan-src/pull/4380) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Improve ConstantArrayType inference](https://github.com/phpstan/phpstan-src/pull/4376) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Simplify *StatementWithoutImpurePointsRule](https://github.com/phpstan/phpstan-src/pull/4375) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Simplify ClassReflectionExtensions](https://github.com/phpstan/phpstan-src/pull/4374) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
