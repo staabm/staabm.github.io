@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.30](https://github.com/phpstan/phpstan/releases/tag/2.1.30) (today)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [10.0.5](https://github.com/staabm/secure_dotenv/releases/tag/10.0.5) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.32](https://github.com/phpstan/phpstan/releases/tag/1.12.32) (2 days ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.2.0](https://github.com/CuyZ/Valinor/releases/tag/2.2.0) (3 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.65.0](https://github.com/Roave/BetterReflection/releases/tag/6.65.0) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.3.15](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.15) (4 days ago)
