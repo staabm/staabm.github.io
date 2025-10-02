@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (1 day ago)
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 week ago)
 - [recombee/php-api-client](https://github.com/recombee/php-api-client) (1 week ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 weeks ago)
 - [staabm/thincache](https://github.com/staabm/thincache) (2 weeks ago)
-- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix nikic/PHP-Parser tests](https://github.com/phpstan/phpstan/pull/13619) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [array_rand() requires a non-empty-array as of php8](https://github.com/phpstan/phpstan-src/pull/4397) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Support union types in curl_setopt validation](https://github.com/phpstan/phpstan-src/pull/4396) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Validate curl_setopt_array parameter array](https://github.com/phpstan/phpstan-src/pull/4395) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix &#34;Offset (int|string) might not exist on array&#34; after `array_keys($arr)`](https://github.com/phpstan/phpstan-src/pull/4381) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Cleanup `instanceof Type` checks](https://github.com/phpstan/phpstan-src/pull/4380) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Improve ConstantArrayType inference](https://github.com/phpstan/phpstan-src/pull/4376) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Simplify *StatementWithoutImpurePointsRule](https://github.com/phpstan/phpstan-src/pull/4375) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
