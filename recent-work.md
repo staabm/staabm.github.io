@@ -3,11 +3,11 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (2 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 week ago)
 - [recombee/php-api-client](https://github.com/recombee/php-api-client) (2 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Reduce visibility to private](https://github.com/phpstan/phpstan-src/pull/4404) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix &#34;list type lost in for loop&#34;](https://github.com/phpstan/phpstan-src/pull/4403) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix nikic/PHP-Parser tests](https://github.com/phpstan/phpstan/pull/13619) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [array_rand() requires a non-empty-array as of php8](https://github.com/phpstan/phpstan-src/pull/4397) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,11 +55,11 @@
 - [Fix &#34;array_rand() - offset might not exists&#34;](https://github.com/phpstan/phpstan-src/pull/4383) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/4382) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Fix &#34;Offset (int|string) might not exist on array&#34; after `array_keys($arr)`](https://github.com/phpstan/phpstan-src/pull/4381) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Cleanup `instanceof Type` checks](https://github.com/phpstan/phpstan-src/pull/4380) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.32](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.32) (today)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.35.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.35.0) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.4.0](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.30](https://github.com/phpstan/phpstan/releases/tag/2.1.30) (1 day ago)
@@ -68,4 +69,3 @@
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.4](https://github.com/symfony/symfony/releases/tag/v7.3.4) (6 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.88.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.88.2) (6 days ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.3.26](https://github.com/php/php-src/releases/tag/php-8.3.26) (1 week ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.7](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.7) (1 week ago)
