@@ -27,7 +27,6 @@
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
 - [JetBrainsOfficial](https://github.com/JetBrainsOfficial) (2 days ago)
-- [verfriemelt-dot-org](https://github.com/verfriemelt-dot-org) (1 month ago)
 - [passbolt](https://github.com/passbolt) (2 months ago)
 - [packagist](https://github.com/packagist) (4 months ago)
 - [Enkora](https://github.com/Enkora) (4 months ago)
@@ -36,6 +35,7 @@
 - [TicketSwap](https://github.com/TicketSwap) (1 year ago)
 - [brotkrueml](https://github.com/brotkrueml) (1 year ago)
 - [eliashaeussler](https://github.com/eliashaeussler) (2 years ago)
+- [DaveLiddament](https://github.com/DaveLiddament) (2 years ago)
 
 
 #### 🔨 My recent Pull Requests
