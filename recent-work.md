@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Run tests in random order](https://github.com/phpstan/phpstan-doctrine/pull/687) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [Setup mutation testing](https://github.com/phpstan/phpstan-doctrine/pull/686) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
 - [Get rid of `instanceof *Type` checks](https://github.com/phpstan/phpstan-src/pull/4405) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Reduce visibility to private](https://github.com/phpstan/phpstan-src/pull/4404) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Added regression tests](https://github.com/phpstan/phpstan-src/pull/4393) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Configure PromoteParameterRule for issue-bot](https://github.com/phpstan/phpstan-src/pull/4392) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Skip deep expression when root expression changes while scope generalization](https://github.com/phpstan/phpstan-src/pull/4390) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Fix &#34;array_rand() - offset might not exists&#34;](https://github.com/phpstan/phpstan-src/pull/4383) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
