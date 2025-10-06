@@ -4,7 +4,8 @@
 #### 💻 Check out what I'm currently working on
 
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (5 days ago)
@@ -12,7 +13,6 @@
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (2 weeks ago)
 - [recombee/php-api-client](https://github.com/recombee/php-api-client) (2 weeks ago)
-- [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix reproducer](https://github.com/rectorphp/type-perfect/pull/69) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
+- [Fix &#34;types as the only types passed to this method&#34; false positive on generic parameter types](https://github.com/rectorphp/type-perfect/pull/69) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
 - [Fix PHPStan error](https://github.com/rectorphp/type-perfect/pull/68) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
 - [Run tests in random order](https://github.com/phpstan/phpstan-doctrine/pull/687) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
 - [Setup mutation testing](https://github.com/phpstan/phpstan-doctrine/pull/686) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
