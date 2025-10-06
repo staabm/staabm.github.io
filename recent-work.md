@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Run tests using global type overrides in isolation](https://github.com/phpstan/phpstan-doctrine/pull/692) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [Fix &#34;types as the only types passed to this method&#34; false positive on generic parameter types](https://github.com/rectorphp/type-perfect/pull/69) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
 - [Fix PHPStan error](https://github.com/rectorphp/type-perfect/pull/68) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
 - [Run tests in random order](https://github.com/phpstan/phpstan-doctrine/pull/687) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
@@ -54,7 +55,6 @@
 - [Utilize SensitiveParameter attribute](https://github.com/staabm/secure_dotenv/pull/19) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (5 days ago)
 - [Utilize SensitiveParameter attribute](https://github.com/deployphp/deployer/pull/4122) on [deployphp/deployer](https://github.com/deployphp/deployer) (5 days ago)
 - [Fix typos](https://github.com/phpstan/phpstan-src/pull/4394) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Added regression tests](https://github.com/phpstan/phpstan-src/pull/4393) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
