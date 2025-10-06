@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
@@ -12,7 +13,6 @@
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (2 weeks ago)
 - [recombee/php-api-client](https://github.com/recombee/php-api-client) (2 weeks ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (2 weeks ago)
-- [staabm/thincache](https://github.com/staabm/thincache) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix reproducer](https://github.com/rectorphp/type-perfect/pull/69) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
+- [Fix PHPStan error](https://github.com/rectorphp/type-perfect/pull/68) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
 - [Run tests in random order](https://github.com/phpstan/phpstan-doctrine/pull/687) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
 - [Setup mutation testing](https://github.com/phpstan/phpstan-doctrine/pull/686) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
 - [Get rid of `instanceof *Type` checks](https://github.com/phpstan/phpstan-src/pull/4405) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -53,8 +55,6 @@
 - [Utilize SensitiveParameter attribute](https://github.com/deployphp/deployer/pull/4122) on [deployphp/deployer](https://github.com/deployphp/deployer) (5 days ago)
 - [Fix typos](https://github.com/phpstan/phpstan-src/pull/4394) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Added regression tests](https://github.com/phpstan/phpstan-src/pull/4393) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Configure PromoteParameterRule for issue-bot](https://github.com/phpstan/phpstan-src/pull/4392) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Skip deep expression when root expression changes while scope generalization](https://github.com/phpstan/phpstan-src/pull/4390) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
