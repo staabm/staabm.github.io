@@ -3,13 +3,13 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
+- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) (5 days ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (5 days ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) (5 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (2 weeks ago)
 - [recombee/php-api-client](https://github.com/recombee/php-api-client) (2 weeks ago)
