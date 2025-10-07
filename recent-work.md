@@ -5,8 +5,8 @@
 
 - [simshaun/recurr](https://github.com/simshaun/recurr) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (6 days ago)
