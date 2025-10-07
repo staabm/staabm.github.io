@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [`!array_key_exists()` should imply `array` for PHP8&#43;](https://github.com/phpstan/phpstan-src/pull/4417) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Move phpstan analyse paths into phpstan.neon](https://github.com/phpstan/phpstan-doctrine/pull/694) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [Regenerate baseline](https://github.com/phpstan/phpstan-doctrine/pull/693) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
 - [Run tests using global type overrides in isolation](https://github.com/phpstan/phpstan-doctrine/pull/692) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
 - [Fix &#34;types as the only types passed to this method&#34; false positive on generic parameter types](https://github.com/rectorphp/type-perfect/pull/69) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 day ago)
@@ -53,8 +55,6 @@
 - [array_rand() requires a non-empty-array as of php8](https://github.com/phpstan/phpstan-src/pull/4397) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Support union types in curl_setopt validation](https://github.com/phpstan/phpstan-src/pull/4396) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Validate curl_setopt_array parameter array](https://github.com/phpstan/phpstan-src/pull/4395) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Utilize SensitiveParameter attribute](https://github.com/staabm/secure_dotenv/pull/19) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (6 days ago)
-- [Utilize SensitiveParameter attribute](https://github.com/deployphp/deployer/pull/4122) on [deployphp/deployer](https://github.com/deployphp/deployer) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
