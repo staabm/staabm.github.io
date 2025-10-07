@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix e2e/php8 test in CI](https://github.com/phpstan/phpstan/pull/13650) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Fix &#34;Possibly invalid array key type string|null.&#34;](https://github.com/phpstan/phpstan-symfony/pull/456) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (today)
 - [PHPStan integration: drop `--fail-without-result-cache`](https://github.com/infection/infection/pull/2429) on [infection/infection](https://github.com/infection/infection) (today)
 - [`!array_key_exists()` should imply `array` for PHP8&#43;](https://github.com/phpstan/phpstan-src/pull/4417) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Reduce visibility to private](https://github.com/phpstan/phpstan-src/pull/4404) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Fix &#34;list type lost in for loop&#34;](https://github.com/phpstan/phpstan-src/pull/4403) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Fix nikic/PHP-Parser tests](https://github.com/phpstan/phpstan/pull/13619) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
-- [array_rand() requires a non-empty-array as of php8](https://github.com/phpstan/phpstan-src/pull/4397) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
