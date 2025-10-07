@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [infection/infection](https://github.com/infection/infection) - [0.31.3](https://github.com/infection/infection/releases/tag/0.31.3) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.10](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.10) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.32](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.32) (4 days ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.35.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.35.0) (4 days ago)
@@ -68,4 +69,3 @@
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.2.0](https://github.com/CuyZ/Valinor/releases/tag/2.2.0) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.65.0](https://github.com/Roave/BetterReflection/releases/tag/6.65.0) (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.4](https://github.com/symfony/symfony/releases/tag/v7.3.4) (1 week ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.88.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.88.2) (1 week ago)
