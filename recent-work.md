@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [infection/infection](https://github.com/infection/infection) (today)
 - [simshaun/recurr](https://github.com/simshaun/recurr) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
-- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (6 days ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (6 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
-- [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [PHPStan integration: drop `--fail-without-result-cache`](https://github.com/infection/infection/pull/2429) on [infection/infection](https://github.com/infection/infection) (today)
 - [`!array_key_exists()` should imply `array` for PHP8&#43;](https://github.com/phpstan/phpstan-src/pull/4417) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Move phpstan analyse paths into phpstan.neon](https://github.com/phpstan/phpstan-doctrine/pull/694) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [Regenerate baseline](https://github.com/phpstan/phpstan-doctrine/pull/693) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
@@ -54,12 +55,11 @@
 - [Fix nikic/PHP-Parser tests](https://github.com/phpstan/phpstan/pull/13619) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
 - [array_rand() requires a non-empty-array as of php8](https://github.com/phpstan/phpstan-src/pull/4397) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Support union types in curl_setopt validation](https://github.com/phpstan/phpstan-src/pull/4396) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Validate curl_setopt_array parameter array](https://github.com/phpstan/phpstan-src/pull/4395) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [infection/infection](https://github.com/infection/infection) - [0.31.3](https://github.com/infection/infection/releases/tag/0.31.3) (today)
+- [infection/infection](https://github.com/infection/infection) - [0.31.4](https://github.com/infection/infection/releases/tag/0.31.4) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.10](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.10) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.32](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.32) (4 days ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.35.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.35.0) (4 days ago)
