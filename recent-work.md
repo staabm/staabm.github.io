@@ -4,14 +4,14 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
-- [simshaun/recurr](https://github.com/simshaun/recurr) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [simshaun/recurr](https://github.com/simshaun/recurr) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (1 week ago)
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
 
 
