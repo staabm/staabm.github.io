@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Cache PHPStan result cache for re-use while mutation testing](https://github.com/CuyZ/Valinor/pull/721) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (today)
 - [PHP 8.1 compatibility](https://github.com/NickSdot/phpstan-phpstorm-error-identifiers/pull/1) on [NickSdot/phpstan-phpstorm-error-identifiers](https://github.com/NickSdot/phpstan-phpstorm-error-identifiers) (1 day ago)
 - [Fix e2e/php8 test in CI](https://github.com/phpstan/phpstan/pull/13650) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [Fix &#34;Possibly invalid array key type string|null.&#34;](https://github.com/phpstan/phpstan-symfony/pull/456) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 day ago)
@@ -54,7 +55,6 @@
 - [Setup mutation testing](https://github.com/phpstan/phpstan-doctrine/pull/686) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (4 days ago)
 - [Get rid of `instanceof *Type` checks](https://github.com/phpstan/phpstan-src/pull/4405) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Reduce visibility to private](https://github.com/phpstan/phpstan-src/pull/4404) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Fix &#34;list type lost in for loop&#34;](https://github.com/phpstan/phpstan-src/pull/4403) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
