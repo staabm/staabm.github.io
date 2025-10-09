@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix argument.type PHPStan errors](https://github.com/rectorphp/rector-phpunit/pull/553) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
 - [Fix PHPStan error](https://github.com/rectorphp/rector-phpunit/pull/552) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
 - [Added regression test](https://github.com/sebastianbergmann/phpunit/pull/6384) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Cache PHPStan result cache for re-use while mutation testing](https://github.com/CuyZ/Valinor/pull/721) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix &#34;types as the only types passed to this method&#34; false positive on generic parameter types](https://github.com/rectorphp/type-perfect/pull/69) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (3 days ago)
 - [Fix PHPStan error](https://github.com/rectorphp/type-perfect/pull/68) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (3 days ago)
 - [Run tests in random order](https://github.com/phpstan/phpstan-doctrine/pull/687) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (4 days ago)
-- [Setup mutation testing](https://github.com/phpstan/phpstan-doctrine/pull/686) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
