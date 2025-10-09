@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added regression test](https://github.com/sebastianbergmann/phpunit/pull/6384) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Cache PHPStan result cache for re-use while mutation testing](https://github.com/CuyZ/Valinor/pull/721) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (1 day ago)
 - [PHP 8.1 compatibility](https://github.com/NickSdot/phpstan-phpstorm-error-identifiers/pull/1) on [NickSdot/phpstan-phpstorm-error-identifiers](https://github.com/NickSdot/phpstan-phpstorm-error-identifiers) (2 days ago)
 - [Fix e2e/php8 test in CI](https://github.com/phpstan/phpstan/pull/13650) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
@@ -54,7 +55,6 @@
 - [Run tests in random order](https://github.com/phpstan/phpstan-doctrine/pull/687) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (4 days ago)
 - [Setup mutation testing](https://github.com/phpstan/phpstan-doctrine/pull/686) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (5 days ago)
 - [Get rid of `instanceof *Type` checks](https://github.com/phpstan/phpstan-src/pull/4405) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Reduce visibility to private](https://github.com/phpstan/phpstan-src/pull/4404) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
