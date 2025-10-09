@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [simshaun/recurr](https://github.com/simshaun/recurr) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (3 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) (1 week ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.1) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.31.4](https://github.com/infection/infection/releases/tag/0.31.4) (2 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.10](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.10) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.32](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.32) (6 days ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.35.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.35.0) (6 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.4.0](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.0) (6 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.30](https://github.com/phpstan/phpstan/releases/tag/2.1.30) (1 week ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [10.0.5](https://github.com/staabm/secure_dotenv/releases/tag/10.0.5) (1 week ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.2.0](https://github.com/CuyZ/Valinor/releases/tag/2.2.0) (1 week ago)
