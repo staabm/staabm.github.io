@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix PHPStan missingType.generics ignore](https://github.com/sebastianbergmann/phpunit/pull/6387) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Fix PHPStan missingType.generics ignore](https://github.com/sebastianbergmann/phpunit/pull/6386) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Print infection output instead of uploading the log as artifact](https://github.com/phpstan/phpstan-doctrine/pull/696) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [Fix argument.type PHPStan errors](https://github.com/rectorphp/rector-phpunit/pull/553) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 day ago)
@@ -54,7 +55,6 @@
 - [Move phpstan analyse paths into phpstan.neon](https://github.com/phpstan/phpstan-doctrine/pull/694) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 days ago)
 - [Regenerate baseline](https://github.com/phpstan/phpstan-doctrine/pull/693) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (4 days ago)
 - [Run tests using global type overrides in isolation](https://github.com/phpstan/phpstan-doctrine/pull/692) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (4 days ago)
-- [Fix &#34;types as the only types passed to this method&#34; false positive on generic parameter types](https://github.com/rectorphp/type-perfect/pull/69) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
