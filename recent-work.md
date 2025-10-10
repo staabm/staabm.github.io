@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (today)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
+- [staabm/infection-example](https://github.com/staabm/infection-example) (today)
 - [infection/site](https://github.com/infection/site) (today)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
 - [simshaun/recurr](https://github.com/simshaun/recurr) (3 days ago)
 - [infection/infection](https://github.com/infection/infection) (3 days ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 
 
 #### 📜 My recent blog posts
