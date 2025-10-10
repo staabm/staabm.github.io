@@ -3,13 +3,13 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 day ago)
+- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
 - [infection/infection](https://github.com/infection/infection) (3 days ago)
 - [simshaun/recurr](https://github.com/simshaun/recurr) (3 days ago)
-- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [infection/infection](https://github.com/infection/infection) - [0.31.5](https://github.com/infection/infection/releases/tag/0.31.5) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.1) (1 day ago)
-- [infection/infection](https://github.com/infection/infection) - [0.31.4](https://github.com/infection/infection/releases/tag/0.31.4) (3 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.10](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.10) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.32](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.32) (1 week ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.35.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.35.0) (1 week ago)
