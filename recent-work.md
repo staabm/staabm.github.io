@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix PHPStan missingType.generics ignore](https://github.com/sebastianbergmann/phpunit/pull/6386) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Print infection output instead of uploading the log as artifact](https://github.com/phpstan/phpstan-doctrine/pull/696) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [Fix argument.type PHPStan errors](https://github.com/rectorphp/rector-phpunit/pull/553) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 day ago)
 - [Fix PHPStan error](https://github.com/rectorphp/rector-phpunit/pull/552) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 day ago)
@@ -54,17 +55,16 @@
 - [Regenerate baseline](https://github.com/phpstan/phpstan-doctrine/pull/693) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (4 days ago)
 - [Run tests using global type overrides in isolation](https://github.com/phpstan/phpstan-doctrine/pull/692) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (4 days ago)
 - [Fix &#34;types as the only types passed to this method&#34; false positive on generic parameter types](https://github.com/rectorphp/type-perfect/pull/69) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (4 days ago)
-- [Fix PHPStan error](https://github.com/rectorphp/type-perfect/pull/68) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.31](https://github.com/phpstan/phpstan/releases/tag/2.1.31) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.31.6](https://github.com/infection/infection/releases/tag/0.31.6) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.1) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.10](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.10) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.32](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.32) (1 week ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.35.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.35.0) (1 week ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.30](https://github.com/phpstan/phpstan/releases/tag/2.1.30) (1 week ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [10.0.5](https://github.com/staabm/secure_dotenv/releases/tag/10.0.5) (1 week ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.2.0](https://github.com/CuyZ/Valinor/releases/tag/2.2.0) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.65.0](https://github.com/Roave/BetterReflection/releases/tag/6.65.0) (1 week ago)
