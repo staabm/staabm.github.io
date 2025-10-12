@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
 - [infection/site](https://github.com/infection/site) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [staabm/infection-example](https://github.com/staabm/infection-example) (2 days ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (2 days ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 days ago)
-- [infection/infection](https://github.com/infection/infection) (5 days ago)
 - [simshaun/recurr](https://github.com/simshaun/recurr) (5 days ago)
+- [infection/infection](https://github.com/infection/infection) (5 days ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (6 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix ignore after PHPStan update](https://github.com/shipmonk-rnd/phpstan-rules/pull/322) on [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) (today)
+- [Fix build](https://github.com/phpstan/phpstan-src/pull/4428) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix PHPStan missingType.generics ignore](https://github.com/sebastianbergmann/phpunit/pull/6387) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [Fix PHPStan missingType.generics ignore](https://github.com/sebastianbergmann/phpunit/pull/6386) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [Print infection output instead of uploading the log as artifact](https://github.com/phpstan/phpstan-doctrine/pull/696) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
@@ -53,8 +55,6 @@
 - [PHPStan integration: drop `--fail-without-result-cache`](https://github.com/infection/infection/pull/2429) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 - [`!array_key_exists()` should imply `array` for PHP8&#43;](https://github.com/phpstan/phpstan-src/pull/4417) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Move phpstan analyse paths into phpstan.neon](https://github.com/phpstan/phpstan-doctrine/pull/694) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (5 days ago)
-- [Regenerate baseline](https://github.com/phpstan/phpstan-doctrine/pull/693) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (6 days ago)
-- [Run tests using global type overrides in isolation](https://github.com/phpstan/phpstan-doctrine/pull/692) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
