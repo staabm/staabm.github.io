@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Narrow type](https://github.com/sebastianbergmann/phpunit/pull/6390) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [Update PHPUnit](https://github.com/phpstan/phpstan/pull/13679) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [Fix shipmonk-rnd/phpstan-rules error](https://github.com/phpstan/phpstan/pull/13678) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Made Scope&amp;NodeCallbackInvoker downgrade independent of order](https://github.com/ondrejmirtes/simple-downgrader/pull/17) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
 - [Downgrade `Scope&amp;NodeCallbackInvoker` to `Scope` in parameter types](https://github.com/ondrejmirtes/simple-downgrader/pull/16) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
 - [Fix ignore after PHPStan update](https://github.com/shipmonk-rnd/phpstan-rules/pull/322) on [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) (today)
@@ -52,9 +55,6 @@
 - [Added regression test](https://github.com/sebastianbergmann/phpunit/pull/6384) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [Cache PHPStan result cache for re-use while mutation testing](https://github.com/CuyZ/Valinor/pull/721) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (4 days ago)
 - [PHP 8.1 compatibility](https://github.com/NickSdot/phpstan-phpstorm-error-identifiers/pull/1) on [NickSdot/phpstan-phpstorm-error-identifiers](https://github.com/NickSdot/phpstan-phpstorm-error-identifiers) (5 days ago)
-- [Fix e2e/php8 test in CI](https://github.com/phpstan/phpstan/pull/13650) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
-- [Fix &#34;Possibly invalid array key type string|null.&#34;](https://github.com/phpstan/phpstan-symfony/pull/456) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (5 days ago)
-- [PHPStan integration: drop `--fail-without-result-cache`](https://github.com/infection/infection/pull/2429) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
