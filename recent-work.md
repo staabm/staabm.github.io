@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
-- [infection/site](https://github.com/infection/site) (2 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [staabm/infection-example](https://github.com/staabm/infection-example) (2 days ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (2 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
+- [infection/site](https://github.com/infection/site) (2 days ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 days ago)
 - [simshaun/recurr](https://github.com/simshaun/recurr) (5 days ago)
 - [infection/infection](https://github.com/infection/infection) (5 days ago)
-- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (6 days ago)
 
 
 #### 📜 My recent blog posts
@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [infection/infection](https://github.com/infection/infection) - [0.31.7](https://github.com/infection/infection/releases/tag/0.31.7) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.31](https://github.com/phpstan/phpstan/releases/tag/2.1.31) (2 days ago)
-- [infection/infection](https://github.com/infection/infection) - [0.31.6](https://github.com/infection/infection/releases/tag/0.31.6) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.1) (3 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.10](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.10) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.32](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.32) (1 week ago)
