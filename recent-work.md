@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (today)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) (today)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
-- [staabm/infection-example](https://github.com/staabm/infection-example) (2 days ago)
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (2 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [infection/site](https://github.com/infection/site) (2 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 days ago)
-- [simshaun/recurr](https://github.com/simshaun/recurr) (5 days ago)
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (2 days ago)
+- [staabm/infection-example](https://github.com/staabm/infection-example) (2 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
 - [infection/infection](https://github.com/infection/infection) (5 days ago)
 
 
