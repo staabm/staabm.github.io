@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) (today)
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (today)
+- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (today)
+- [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) (today)
 - [infection/site](https://github.com/infection/site) (2 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (2 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
-- [staabm/infection-example](https://github.com/staabm/infection-example) (2 days ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
+- [staabm/infection-example](https://github.com/staabm/infection-example) (2 days ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Made Scope&amp;NodeCallbackInvoker downgrade independent of order](https://github.com/ondrejmirtes/simple-downgrader/pull/17) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
+- [Downgrade `Scope&amp;NodeCallbackInvoker` to `Scope` in parameter types](https://github.com/ondrejmirtes/simple-downgrader/pull/16) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
 - [Fix ignore after PHPStan update](https://github.com/shipmonk-rnd/phpstan-rules/pull/322) on [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) (today)
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/4428) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix PHPStan missingType.generics ignore](https://github.com/sebastianbergmann/phpunit/pull/6387) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
@@ -53,8 +55,6 @@
 - [Fix e2e/php8 test in CI](https://github.com/phpstan/phpstan/pull/13650) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
 - [Fix &#34;Possibly invalid array key type string|null.&#34;](https://github.com/phpstan/phpstan-symfony/pull/456) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (5 days ago)
 - [PHPStan integration: drop `--fail-without-result-cache`](https://github.com/infection/infection/pull/2429) on [infection/infection](https://github.com/infection/infection) (5 days ago)
-- [`!array_key_exists()` should imply `array` for PHP8&#43;](https://github.com/phpstan/phpstan-src/pull/4417) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Move phpstan analyse paths into phpstan.neon](https://github.com/phpstan/phpstan-doctrine/pull/694) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
