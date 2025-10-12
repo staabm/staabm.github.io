@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (today)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) (today)
+- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (today)
 - [infection/site](https://github.com/infection/site) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
-- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 days ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (2 days ago)
-- [staabm/infection-example](https://github.com/staabm/infection-example) (2 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
-- [infection/infection](https://github.com/infection/infection) (5 days ago)
+- [staabm/infection-example](https://github.com/staabm/infection-example) (2 days ago)
+- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 days ago)
 
 
 #### 📜 My recent blog posts
@@ -59,6 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.12.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.12.0) (today)
+- [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.10.0](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.10.0) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.31.7](https://github.com/infection/infection/releases/tag/0.31.7) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.31](https://github.com/phpstan/phpstan/releases/tag/2.1.31) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.1) (3 days ago)
@@ -67,5 +69,3 @@
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.35.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.35.0) (1 week ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [10.0.5](https://github.com/staabm/secure_dotenv/releases/tag/10.0.5) (1 week ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.2.0](https://github.com/CuyZ/Valinor/releases/tag/2.2.0) (1 week ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.65.0](https://github.com/Roave/BetterReflection/releases/tag/6.65.0) (1 week ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - [v7.3.4](https://github.com/symfony/symfony/releases/tag/v7.3.4) (2 weeks ago)
