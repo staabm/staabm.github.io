@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement DataProviderDataRule](https://github.com/phpstan/phpstan-phpunit/pull/238) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [Narrow type](https://github.com/sebastianbergmann/phpunit/pull/6390) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Update PHPUnit](https://github.com/phpstan/phpstan/pull/13679) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [Fix shipmonk-rnd/phpstan-rules error](https://github.com/phpstan/phpstan/pull/13678) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix PHPStan error](https://github.com/rectorphp/rector-phpunit/pull/552) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (4 days ago)
 - [Added regression test](https://github.com/sebastianbergmann/phpunit/pull/6384) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [Cache PHPStan result cache for re-use while mutation testing](https://github.com/CuyZ/Valinor/pull/721) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (5 days ago)
-- [PHP 8.1 compatibility](https://github.com/NickSdot/phpstan-phpstorm-error-identifiers/pull/1) on [NickSdot/phpstan-phpstorm-error-identifiers](https://github.com/NickSdot/phpstan-phpstorm-error-identifiers) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
