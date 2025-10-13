@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.2.2](https://github.com/CuyZ/Valinor/releases/tag/2.2.2) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.33](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.33) (today)
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.2.1](https://github.com/CuyZ/Valinor/releases/tag/2.2.1) (1 day ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.12.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.12.0) (1 day ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.10.0](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.10.0) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) - [0.31.7](https://github.com/infection/infection/releases/tag/0.31.7) (1 day ago)
