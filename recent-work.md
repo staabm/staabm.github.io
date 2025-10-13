@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 day ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (1 day ago)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 days ago)
 - [infection/site](https://github.com/infection/site) (3 days ago)
+- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (3 days ago)
 - [staabm/infection-example](https://github.com/staabm/infection-example) (3 days ago)
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (3 days ago)
 
 
 #### 📜 My recent blog posts
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.33](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.33) (today)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.2.1](https://github.com/CuyZ/Valinor/releases/tag/2.2.1) (1 day ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.12.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.12.0) (1 day ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.10.0](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.10.0) (1 day ago)
@@ -66,6 +67,5 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.31](https://github.com/phpstan/phpstan/releases/tag/2.1.31) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.1) (4 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.10](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.10) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.32](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.32) (1 week ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.35.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.35.0) (1 week ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [10.0.5](https://github.com/staabm/secure_dotenv/releases/tag/10.0.5) (1 week ago)
