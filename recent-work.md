@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use template-covariant in CompositeRule](https://github.com/phpstan/phpstan-src/pull/4439) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement CompositeRule](https://github.com/phpstan/phpstan-src/pull/4438) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Preparational refactoring for DataProviderDataRule](https://github.com/phpstan/phpstan-phpunit/pull/239) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [Implement DataProviderDataRule](https://github.com/phpstan/phpstan-phpunit/pull/238) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix PHPStan missingType.generics ignore](https://github.com/sebastianbergmann/phpunit/pull/6386) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [Print infection output instead of uploading the log as artifact](https://github.com/phpstan/phpstan-doctrine/pull/696) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (4 days ago)
 - [Fix argument.type PHPStan errors](https://github.com/rectorphp/rector-phpunit/pull/553) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (5 days ago)
-- [Fix PHPStan error](https://github.com/rectorphp/rector-phpunit/pull/552) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
