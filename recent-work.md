@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Preparational refactoring for DataProviderDataRule](https://github.com/phpstan/phpstan-phpunit/pull/239) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [Implement DataProviderDataRule](https://github.com/phpstan/phpstan-phpunit/pull/238) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
 - [Narrow type](https://github.com/sebastianbergmann/phpunit/pull/6390) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [Update PHPUnit](https://github.com/phpstan/phpstan/pull/13679) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
@@ -54,7 +55,6 @@
 - [Fix argument.type PHPStan errors](https://github.com/rectorphp/rector-phpunit/pull/553) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (5 days ago)
 - [Fix PHPStan error](https://github.com/rectorphp/rector-phpunit/pull/552) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (5 days ago)
 - [Added regression test](https://github.com/sebastianbergmann/phpunit/pull/6384) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
-- [Cache PHPStan result cache for re-use while mutation testing](https://github.com/CuyZ/Valinor/pull/721) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
