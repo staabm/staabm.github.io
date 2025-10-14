@@ -3,14 +3,14 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (2 days ago)
+- [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
-- [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (2 days ago)
+- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (2 days ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (2 days ago)
-- [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) (2 days ago)
-- [infection/site](https://github.com/infection/site) (4 days ago)
+- [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (2 days ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (4 days ago)
 - [staabm/infection-example](https://github.com/staabm/infection-example) (4 days ago)
 
