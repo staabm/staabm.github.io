@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [infer `non-empty-list/array` after `isset($arr[$i])`](https://github.com/phpstan/phpstan-src/pull/4441) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [infer `non-empty-list/array` after `array_key_exists($i, $arr)`](https://github.com/phpstan/phpstan-src/pull/4440) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Use template-covariant in CompositeRule](https://github.com/phpstan/phpstan-src/pull/4439) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Implement CompositeRule](https://github.com/phpstan/phpstan-src/pull/4438) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/4428) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Fix PHPStan missingType.generics ignore](https://github.com/sebastianbergmann/phpunit/pull/6387) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
 - [Fix PHPStan missingType.generics ignore](https://github.com/sebastianbergmann/phpunit/pull/6386) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
-- [Print infection output instead of uploading the log as artifact](https://github.com/phpstan/phpstan-doctrine/pull/696) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
