@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Narrow errors-array type to `list`](https://github.com/phpstan/phpstan-src/pull/4445) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Fix too wide bool in trivial methods](https://github.com/phpstan/phpstan-src/pull/4444) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Use template-covariant in CompositeRule](https://github.com/phpstan/phpstan-src/pull/4443) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [infer `non-empty-list/array` after `isset($arr[$i])`](https://github.com/phpstan/phpstan-src/pull/4441) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [infer `non-empty-list/array` after `array_key_exists($i, $arr)`](https://github.com/phpstan/phpstan-src/pull/4440) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Made Scope&amp;NodeCallbackInvoker downgrade independent of order](https://github.com/ondrejmirtes/simple-downgrader/pull/17) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (4 days ago)
 - [Downgrade `Scope&amp;NodeCallbackInvoker` to `Scope` in parameter types](https://github.com/ondrejmirtes/simple-downgrader/pull/16) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (4 days ago)
 - [Fix ignore after PHPStan update](https://github.com/shipmonk-rnd/phpstan-rules/pull/322) on [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) (4 days ago)
-- [Fix build](https://github.com/phpstan/phpstan-src/pull/4428) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Fix PHPStan missingType.generics ignore](https://github.com/sebastianbergmann/phpunit/pull/6387) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
