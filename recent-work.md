@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [TypeCombinatorTest: turn `return` into `yield`](https://github.com/phpstan/phpstan-src/pull/4451) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Test support for IsSuperTypeOfResult](https://github.com/phpstan/build-infection/pull/4) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
 - [Raise min-php version to the one of infection/infection](https://github.com/phpstan/build-infection/pull/3) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
 - [Utilize build-infection](https://github.com/phpstan/phpstan-doctrine/pull/699) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
@@ -54,7 +55,6 @@
 - [Implement CompositeRule](https://github.com/phpstan/phpstan-src/pull/4438) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Preparational refactoring for DataProviderDataRule](https://github.com/phpstan/phpstan-phpunit/pull/239) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
 - [Implement DataProviderDataRule](https://github.com/phpstan/phpstan-phpunit/pull/238) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
-- [Narrow type](https://github.com/sebastianbergmann/phpunit/pull/6390) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
