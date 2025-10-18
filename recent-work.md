@@ -9,10 +9,10 @@
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (6 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (6 days ago)
+- [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) (6 days ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (6 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
 
 
 #### 📜 My recent blog posts
