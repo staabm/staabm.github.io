@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
-- [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (6 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
-- [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) (6 days ago)
-- [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (6 days ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (6 days ago)
-- [staabm/infection-example](https://github.com/staabm/infection-example) (1 week ago)
+- [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (6 days ago)
+- [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (6 days ago)
+- [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) (6 days ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Raise min-php version to the one of infection/infection](https://github.com/phpstan/build-infection/pull/3) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
+- [Utilize build-infection](https://github.com/phpstan/phpstan-doctrine/pull/699) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
+- [initial commit](https://github.com/phpstan/build-infection/pull/1) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
 - [Micro-optimize Arguments](https://github.com/CuyZ/Valinor/pull/735) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (2 days ago)
 - [Narrow errors-array type to `list`](https://github.com/phpstan/phpstan-src/pull/4445) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fix too wide bool in trivial methods](https://github.com/phpstan/phpstan-src/pull/4444) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -52,9 +55,6 @@
 - [Implement DataProviderDataRule](https://github.com/phpstan/phpstan-phpunit/pull/238) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
 - [Narrow type](https://github.com/sebastianbergmann/phpunit/pull/6390) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
 - [Update PHPUnit](https://github.com/phpstan/phpstan/pull/13679) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
-- [Fix shipmonk-rnd/phpstan-rules error](https://github.com/phpstan/phpstan/pull/13678) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
-- [Made Scope&amp;NodeCallbackInvoker downgrade independent of order](https://github.com/ondrejmirtes/simple-downgrader/pull/17) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (6 days ago)
-- [Downgrade `Scope&amp;NodeCallbackInvoker` to `Scope` in parameter types](https://github.com/ondrejmirtes/simple-downgrader/pull/16) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
