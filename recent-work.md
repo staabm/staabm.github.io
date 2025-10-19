@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[CodeQuality] Skip with if on YieldDataProviderRector with yield from and return](https://github.com/rectorphp/rector-phpunit/pull/557) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
 - [YieldDataProviderRector: Added failling test](https://github.com/rectorphp/rector-phpunit/pull/555) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
 - [Turn `yield from` into multiple `yield` in PHPUnit Dataprovider](https://github.com/rectorphp/rector-phpunit/pull/554) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 day ago)
 - [TypeCombinatorTest: turn `return` into `yield`](https://github.com/phpstan/phpstan-src/pull/4451) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [infer `non-empty-list/array` after `isset($arr[$i])`](https://github.com/phpstan/phpstan-src/pull/4441) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [infer `non-empty-list/array` after `array_key_exists($i, $arr)`](https://github.com/phpstan/phpstan-src/pull/4440) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Use template-covariant in CompositeRule](https://github.com/phpstan/phpstan-src/pull/4439) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Implement CompositeRule](https://github.com/phpstan/phpstan-src/pull/4438) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
