@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [YieldDataProviderRector: Added failling test](https://github.com/rectorphp/rector-phpunit/pull/555) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
 - [Turn `yield from` into multiple `yield` in PHPUnit Dataprovider](https://github.com/rectorphp/rector-phpunit/pull/554) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 day ago)
 - [TypeCombinatorTest: turn `return` into `yield`](https://github.com/phpstan/phpstan-src/pull/4451) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Test support for IsSuperTypeOfResult](https://github.com/phpstan/build-infection/pull/4) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 day ago)
@@ -54,7 +55,6 @@
 - [infer `non-empty-list/array` after `array_key_exists($i, $arr)`](https://github.com/phpstan/phpstan-src/pull/4440) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Use template-covariant in CompositeRule](https://github.com/phpstan/phpstan-src/pull/4439) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Implement CompositeRule](https://github.com/phpstan/phpstan-src/pull/4438) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Preparational refactoring for DataProviderDataRule](https://github.com/phpstan/phpstan-phpunit/pull/239) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
