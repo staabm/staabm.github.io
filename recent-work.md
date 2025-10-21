@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (today)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 day ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) (1 day ago)
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (1 day ago)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (1 week ago)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) (1 week ago)
+- [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 week ago)
 
 
 #### 📜 My recent blog posts
