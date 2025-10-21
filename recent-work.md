@@ -3,11 +3,11 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 day ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) (1 day ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (1 day ago)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (3 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Narrow types](https://github.com/phpstan/phpstan-src/pull/4465) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Update PHPStan packages / Fix PHP 7.4 sprintf() type errors](https://github.com/phpstan/phpstan-src/pull/4464) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix sprintf() types and placeholders](https://github.com/phpstan/phpstan-src/pull/4463) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [README: fix 404 url](https://github.com/Roave/BackwardCompatibilityCheck/pull/939) on [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) (1 day ago)
 - [Remove tag-related things](https://github.com/phpstan/build-infection/pull/8) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 days ago)
@@ -53,8 +55,6 @@
 - [initial commit](https://github.com/phpstan/build-infection/pull/1) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (3 days ago)
 - [Micro-optimize Arguments](https://github.com/CuyZ/Valinor/pull/735) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (5 days ago)
 - [Narrow errors-array type to `list`](https://github.com/phpstan/phpstan-src/pull/4445) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Fix too wide bool in trivial methods](https://github.com/phpstan/phpstan-src/pull/4444) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Use template-covariant in CompositeRule](https://github.com/phpstan/phpstan-src/pull/4443) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
