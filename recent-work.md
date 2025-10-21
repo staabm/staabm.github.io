@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: use memoization for ShapedArrayType-&gt;toString()](https://github.com/CuyZ/Valinor/pull/740) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (today)
 - [Narrow types](https://github.com/phpstan/phpstan-src/pull/4465) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update PHPStan packages / Fix PHP 7.4 sprintf() type errors](https://github.com/phpstan/phpstan-src/pull/4464) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix sprintf() types and placeholders](https://github.com/phpstan/phpstan-src/pull/4463) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Utilize build-infection](https://github.com/phpstan/phpstan-doctrine/pull/699) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 days ago)
 - [initial commit](https://github.com/phpstan/build-infection/pull/1) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (3 days ago)
 - [Micro-optimize Arguments](https://github.com/CuyZ/Valinor/pull/735) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (5 days ago)
-- [Narrow errors-array type to `list`](https://github.com/phpstan/phpstan-src/pull/4445) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
