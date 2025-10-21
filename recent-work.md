@@ -3,13 +3,13 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (today)
-- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
-- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) (today)
-- [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (1 day ago)
+- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 day ago)
+- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) (1 day ago)
+- [phpstan/build-infection](https://github.com/phpstan/build-infection) (3 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
@@ -19,7 +19,7 @@
 
 - [Mutation testing with Infection in PHP](https://staabm.github.io/2025/08/01/infection-php-mutation-testing.html) (2 months ago)
 - [PHPStan remembered types from constructor](https://staabm.github.io/2025/04/15/phpstan-remember-constructor-types.html) (6 months ago)
-- [Thank You](https://staabm.github.io/2025/01/24/thank-you.html) (8 months ago)
+- [Thank You](https://staabm.github.io/2025/01/24/thank-you.html) (9 months ago)
 - [Contribution Summary 2024](https://staabm.github.io/2024/12/11/contribution-summary-2024.html) (10 months ago)
 - [My new PHPStan focus: multi-phpversion support](https://staabm.github.io/2024/11/28/phpstan-php-version-in-scope.html) (10 months ago)
 
@@ -40,28 +40,28 @@
 
 #### 🔨 My recent Pull Requests
 
-- [README: fix 404 url](https://github.com/Roave/BackwardCompatibilityCheck/pull/939) on [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) (today)
-- [Remove tag-related things](https://github.com/phpstan/build-infection/pull/8) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 day ago)
-- [[CodeQuality] Skip with if on YieldDataProviderRector with yield from and return](https://github.com/rectorphp/rector-phpunit/pull/557) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 day ago)
-- [YieldDataProviderRector: Added failling test](https://github.com/rectorphp/rector-phpunit/pull/555) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 day ago)
-- [Turn `yield from` into multiple `yield` in PHPUnit Dataprovider](https://github.com/rectorphp/rector-phpunit/pull/554) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 days ago)
-- [TypeCombinatorTest: turn `return` into `yield`](https://github.com/phpstan/phpstan-src/pull/4451) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Test support for IsSuperTypeOfResult](https://github.com/phpstan/build-infection/pull/4) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 days ago)
-- [Raise min-php version to the one of infection/infection](https://github.com/phpstan/build-infection/pull/3) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 days ago)
-- [Utilize build-infection](https://github.com/phpstan/phpstan-doctrine/pull/699) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
-- [initial commit](https://github.com/phpstan/build-infection/pull/1) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 days ago)
-- [Micro-optimize Arguments](https://github.com/CuyZ/Valinor/pull/735) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (4 days ago)
-- [Narrow errors-array type to `list`](https://github.com/phpstan/phpstan-src/pull/4445) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Fix too wide bool in trivial methods](https://github.com/phpstan/phpstan-src/pull/4444) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Use template-covariant in CompositeRule](https://github.com/phpstan/phpstan-src/pull/4443) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [infer `non-empty-list/array` after `isset($arr[$i])`](https://github.com/phpstan/phpstan-src/pull/4441) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [README: fix 404 url](https://github.com/Roave/BackwardCompatibilityCheck/pull/939) on [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) (1 day ago)
+- [Remove tag-related things](https://github.com/phpstan/build-infection/pull/8) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 days ago)
+- [[CodeQuality] Skip with if on YieldDataProviderRector with yield from and return](https://github.com/rectorphp/rector-phpunit/pull/557) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 days ago)
+- [YieldDataProviderRector: Added failling test](https://github.com/rectorphp/rector-phpunit/pull/555) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 days ago)
+- [Turn `yield from` into multiple `yield` in PHPUnit Dataprovider](https://github.com/rectorphp/rector-phpunit/pull/554) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (3 days ago)
+- [TypeCombinatorTest: turn `return` into `yield`](https://github.com/phpstan/phpstan-src/pull/4451) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Test support for IsSuperTypeOfResult](https://github.com/phpstan/build-infection/pull/4) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (3 days ago)
+- [Raise min-php version to the one of infection/infection](https://github.com/phpstan/build-infection/pull/3) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (3 days ago)
+- [Utilize build-infection](https://github.com/phpstan/phpstan-doctrine/pull/699) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 days ago)
+- [initial commit](https://github.com/phpstan/build-infection/pull/1) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (3 days ago)
+- [Micro-optimize Arguments](https://github.com/CuyZ/Valinor/pull/735) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (5 days ago)
+- [Narrow errors-array type to `list`](https://github.com/phpstan/phpstan-src/pull/4445) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Fix too wide bool in trivial methods](https://github.com/phpstan/phpstan-src/pull/4444) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Use template-covariant in CompositeRule](https://github.com/phpstan/phpstan-src/pull/4443) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [infer `non-empty-list/array` after `isset($arr[$i])`](https://github.com/phpstan/phpstan-src/pull/4441) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.15.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.15.0) (today)
-- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.35.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.35.1) (today)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.89.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.89.0) (2 days ago)
+- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.15.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.15.0) (1 day ago)
+- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.35.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.35.1) (1 day ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.89.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.89.0) (3 days ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.2.2](https://github.com/CuyZ/Valinor/releases/tag/2.2.2) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.33](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.33) (1 week ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.12.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.12.0) (1 week ago)
