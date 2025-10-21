@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix sprintf() types and placeholders](https://github.com/phpstan/phpstan-src/pull/4463) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [README: fix 404 url](https://github.com/Roave/BackwardCompatibilityCheck/pull/939) on [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) (1 day ago)
 - [Remove tag-related things](https://github.com/phpstan/build-infection/pull/8) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 days ago)
 - [[CodeQuality] Skip with if on YieldDataProviderRector with yield from and return](https://github.com/rectorphp/rector-phpunit/pull/557) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 days ago)
@@ -54,7 +55,6 @@
 - [Narrow errors-array type to `list`](https://github.com/phpstan/phpstan-src/pull/4445) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Fix too wide bool in trivial methods](https://github.com/phpstan/phpstan-src/pull/4444) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Use template-covariant in CompositeRule](https://github.com/phpstan/phpstan-src/pull/4443) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [infer `non-empty-list/array` after `isset($arr[$i])`](https://github.com/phpstan/phpstan-src/pull/4441) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
