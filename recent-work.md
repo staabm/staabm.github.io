@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.6.2](https://github.com/nikic/PHP-Parser/releases/tag/v5.6.2) (today)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.3.1](https://github.com/CuyZ/Valinor/releases/tag/2.3.1) (today)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.15.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.15.0) (1 day ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.35.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.35.1) (1 day ago)
@@ -68,4 +69,3 @@
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.10.0](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.10.0) (1 week ago)
 - [infection/infection](https://github.com/infection/infection) - [0.31.7](https://github.com/infection/infection/releases/tag/0.31.7) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.31](https://github.com/phpstan/phpstan/releases/tag/2.1.31) (1 week ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.1) (1 week ago)
