@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.3.1](https://github.com/CuyZ/Valinor/releases/tag/2.3.1) (today)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.15.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.15.0) (1 day ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.35.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.35.1) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.89.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.89.0) (3 days ago)
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.2.2](https://github.com/CuyZ/Valinor/releases/tag/2.2.2) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.33](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.33) (1 week ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.12.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.12.0) (1 week ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.10.0](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.10.0) (1 week ago)
