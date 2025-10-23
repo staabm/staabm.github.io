@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix build](https://github.com/phpstan/phpstan-src/pull/4471) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Infer non-empty-ness after count($a) == count($b)](https://github.com/phpstan/phpstan-src/pull/4470) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Added PHP_BUILD_DATE type (PHP 8.5&#43;)](https://github.com/phpstan/phpstan-src/pull/4468) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix crashes in ParametersAcceptorSelector](https://github.com/phpstan/phpstan-src/pull/4467) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [chore: use memoization for ShapedArrayType-&gt;toString()](https://github.com/CuyZ/Valinor/pull/740) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (2 days ago)
@@ -53,8 +55,6 @@
 - [Turn `yield from` into multiple `yield` in PHPUnit Dataprovider](https://github.com/rectorphp/rector-phpunit/pull/554) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (5 days ago)
 - [TypeCombinatorTest: turn `return` into `yield`](https://github.com/phpstan/phpstan-src/pull/4451) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Test support for IsSuperTypeOfResult](https://github.com/phpstan/build-infection/pull/4) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (5 days ago)
-- [Raise min-php version to the one of infection/infection](https://github.com/phpstan/build-infection/pull/3) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (5 days ago)
-- [Utilize build-infection](https://github.com/phpstan/phpstan-doctrine/pull/699) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
