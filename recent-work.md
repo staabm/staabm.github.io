@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix crashes in ParametersAcceptorSelector](https://github.com/phpstan/phpstan-src/pull/4467) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [chore: use memoization for ShapedArrayType-&gt;toString()](https://github.com/CuyZ/Valinor/pull/740) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (2 days ago)
 - [Narrow types](https://github.com/phpstan/phpstan-src/pull/4465) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Update PHPStan packages / Fix PHP 7.4 sprintf() type errors](https://github.com/phpstan/phpstan-src/pull/4464) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Raise min-php version to the one of infection/infection](https://github.com/phpstan/build-infection/pull/3) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (5 days ago)
 - [Utilize build-infection](https://github.com/phpstan/phpstan-doctrine/pull/699) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (5 days ago)
 - [initial commit](https://github.com/phpstan/build-infection/pull/1) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (5 days ago)
-- [Micro-optimize Arguments](https://github.com/CuyZ/Valinor/pull/735) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
