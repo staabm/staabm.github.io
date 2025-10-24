@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added assertArrayHasKey() expectations](https://github.com/phpstan/phpstan-phpunit/pull/241) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [`array_key_exist` inference is lost when adding a false condition](https://github.com/phpstan/phpstan-src/pull/4473) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [fix build](https://github.com/phpstan/phpstan-src/pull/4471) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Infer non-empty-ness after count($a) == count($b)](https://github.com/phpstan/phpstan-src/pull/4470) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [[CodeQuality] Skip with if on YieldDataProviderRector with yield from and return](https://github.com/rectorphp/rector-phpunit/pull/557) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (5 days ago)
 - [YieldDataProviderRector: Added failling test](https://github.com/rectorphp/rector-phpunit/pull/555) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (5 days ago)
 - [Turn `yield from` into multiple `yield` in PHPUnit Dataprovider](https://github.com/rectorphp/rector-phpunit/pull/554) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (6 days ago)
-- [TypeCombinatorTest: turn `return` into `yield`](https://github.com/phpstan/phpstan-src/pull/4451) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
