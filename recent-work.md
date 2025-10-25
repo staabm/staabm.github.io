@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Setup integration tests](https://github.com/phpstan/build-infection/pull/11) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
 - [Setup mutation testing](https://github.com/phpstan/phpstan-src/pull/4480) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix PHP8.5 lint errors](https://github.com/phpstan/phpstan-src/pull/4477) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Added assertArrayHasKey() expectations](https://github.com/phpstan/phpstan-phpunit/pull/241) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix sprintf() types and placeholders](https://github.com/phpstan/phpstan-src/pull/4463) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [README: fix 404 url](https://github.com/Roave/BackwardCompatibilityCheck/pull/939) on [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) (5 days ago)
 - [Remove tag-related things](https://github.com/phpstan/build-infection/pull/8) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (6 days ago)
-- [[CodeQuality] Skip with if on YieldDataProviderRector with yield from and return](https://github.com/rectorphp/rector-phpunit/pull/557) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
