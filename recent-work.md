@@ -4,6 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -12,7 +13,6 @@
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (6 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Enable integration test for more phpunit,deprecation-extensions](https://github.com/phpstan/build-infection/pull/15) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
+- [Fix mutation testing on dev branch](https://github.com/phpstan/phpstan-phpunit/pull/244) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
+- [Fix mutation testing on dev branch](https://github.com/phpstan/phpstan-deprecation-rules/pull/166) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
 - [Setup mutation testing](https://github.com/phpstan/phpstan-deprecation-rules/pull/165) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
 - [Setup mutation testing](https://github.com/phpstan/phpstan-phpunit/pull/243) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [PhpDocStringResolver: Remove useless method call](https://github.com/phpstan/phpstan-src/pull/4483) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -52,9 +55,6 @@
 - [Added assertArrayHasKey() expectations](https://github.com/phpstan/phpstan-phpunit/pull/241) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
 - [`array_key_exist` inference is lost when adding a false condition](https://github.com/phpstan/phpstan-src/pull/4473) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [fix build](https://github.com/phpstan/phpstan-src/pull/4471) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Infer non-empty-ness after count($a) == count($b)](https://github.com/phpstan/phpstan-src/pull/4470) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Added PHP_BUILD_DATE type (PHP 8.5&#43;)](https://github.com/phpstan/phpstan-src/pull/4468) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Fix crashes in ParametersAcceptorSelector](https://github.com/phpstan/phpstan-src/pull/4467) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
