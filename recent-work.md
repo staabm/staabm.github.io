@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [PhpDocStringResolver: Remove useless method call](https://github.com/phpstan/phpstan-src/pull/4483) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Use faster case-insensitve string comparison](https://github.com/phpstan/phpstan-src/pull/4482) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Don&#39;t double negate](https://github.com/phpstan/build-infection/pull/13) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
 - [Added `@covers`-class information to *RuleTests](https://github.com/phpstan/phpstan-doctrine/pull/703) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
@@ -54,7 +55,6 @@
 - [Fix crashes in ParametersAcceptorSelector](https://github.com/phpstan/phpstan-src/pull/4467) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [chore: use memoization for ShapedArrayType-&gt;toString()](https://github.com/CuyZ/Valinor/pull/740) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (5 days ago)
 - [Narrow types](https://github.com/phpstan/phpstan-src/pull/4465) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Update PHPStan packages / Fix PHP 7.4 sprintf() type errors](https://github.com/phpstan/phpstan-src/pull/4464) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
