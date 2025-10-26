@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Setup mutation testing](https://github.com/phpstan/phpstan-phpunit/pull/243) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [PhpDocStringResolver: Remove useless method call](https://github.com/phpstan/phpstan-src/pull/4483) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Use faster case-insensitve string comparison](https://github.com/phpstan/phpstan-src/pull/4482) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Don&#39;t double negate](https://github.com/phpstan/build-infection/pull/13) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
@@ -54,7 +55,6 @@
 - [Added PHP_BUILD_DATE type (PHP 8.5&#43;)](https://github.com/phpstan/phpstan-src/pull/4468) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Fix crashes in ParametersAcceptorSelector](https://github.com/phpstan/phpstan-src/pull/4467) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [chore: use memoization for ShapedArrayType-&gt;toString()](https://github.com/CuyZ/Valinor/pull/740) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (5 days ago)
-- [Narrow types](https://github.com/phpstan/phpstan-src/pull/4465) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
