@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
-- [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (5 days ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) (6 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Don&#39;t double negate](https://github.com/phpstan/build-infection/pull/13) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
 - [Added `@covers`-class information to *RuleTests](https://github.com/phpstan/phpstan-doctrine/pull/703) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [Setup integration tests](https://github.com/phpstan/build-infection/pull/11) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 day ago)
 - [Setup mutation testing](https://github.com/phpstan/phpstan-src/pull/4480) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Narrow types](https://github.com/phpstan/phpstan-src/pull/4465) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Update PHPStan packages / Fix PHP 7.4 sprintf() type errors](https://github.com/phpstan/phpstan-src/pull/4464) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Fix sprintf() types and placeholders](https://github.com/phpstan/phpstan-src/pull/4463) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [README: fix 404 url](https://github.com/Roave/BackwardCompatibilityCheck/pull/939) on [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
