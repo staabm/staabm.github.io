@@ -7,12 +7,12 @@
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
+- [infection/infection](https://github.com/infection/infection) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (6 days ago)
-- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 week ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) (1 week ago)
+- [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improve IgnoreErrorExtension code example](https://github.com/phpstan/phpstan/pull/13726) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [`IgnoreErrorExtension` is a valid conditional-tag](https://github.com/phpstan/phpstan-src/pull/4488) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Ignore missingType.iterableValue for data-providers](https://github.com/phpstan/phpstan-phpunit/pull/246) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [Support PHPStan dev-versions](https://github.com/infection/infection/pull/2492) on [infection/infection](https://github.com/infection/infection) (today)
@@ -54,7 +55,6 @@
 - [Use faster case-insensitve string comparison](https://github.com/phpstan/phpstan-src/pull/4482) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Don&#39;t double negate](https://github.com/phpstan/build-infection/pull/13) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 day ago)
 - [Added `@covers`-class information to *RuleTests](https://github.com/phpstan/phpstan-doctrine/pull/703) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
-- [Setup integration tests](https://github.com/phpstan/build-infection/pull/11) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
