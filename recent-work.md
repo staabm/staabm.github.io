@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 day ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (6 days ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 week ago)
@@ -40,6 +40,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [`IgnoreErrorExtension` is a valid conditional-tag](https://github.com/phpstan/phpstan-src/pull/4488) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Ignore missingType.iterableValue for data-providers](https://github.com/phpstan/phpstan-phpunit/pull/246) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
+- [Support PHPStan dev-versions](https://github.com/infection/infection/pull/2492) on [infection/infection](https://github.com/infection/infection) (today)
+- [move analyse-paths into phpstan.neon](https://github.com/phpstan/phpstan-phpunit/pull/245) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
+- [move analyse-paths into phpstan.neon](https://github.com/phpstan/phpstan-deprecation-rules/pull/167) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
 - [Enable integration test for more phpunit,deprecation-extensions](https://github.com/phpstan/build-infection/pull/15) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 day ago)
 - [Fix mutation testing on dev branch](https://github.com/phpstan/phpstan-phpunit/pull/244) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
 - [Fix mutation testing on dev branch](https://github.com/phpstan/phpstan-deprecation-rules/pull/166) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 day ago)
@@ -50,11 +55,6 @@
 - [Don&#39;t double negate](https://github.com/phpstan/build-infection/pull/13) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 day ago)
 - [Added `@covers`-class information to *RuleTests](https://github.com/phpstan/phpstan-doctrine/pull/703) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
 - [Setup integration tests](https://github.com/phpstan/build-infection/pull/11) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 days ago)
-- [Setup mutation testing](https://github.com/phpstan/phpstan-src/pull/4480) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Fix PHP8.5 lint errors](https://github.com/phpstan/phpstan-src/pull/4477) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Added assertArrayHasKey() expectations](https://github.com/phpstan/phpstan-phpunit/pull/241) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
-- [`array_key_exist` inference is lost when adding a false condition](https://github.com/phpstan/phpstan-src/pull/4473) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [fix build](https://github.com/phpstan/phpstan-src/pull/4471) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
