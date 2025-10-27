@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
+- [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [infection/infection](https://github.com/infection/infection) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (6 days ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) (1 week ago)
 - [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 week ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support PHPStan-dev version in PHPStanAdapter](https://github.com/infection/infection/pull/2495) on [infection/infection](https://github.com/infection/infection) (today)
+- [Store result-cache also on failling builds](https://github.com/phpstan/build-infection/pull/18) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
+- [Update infection version to 0.31.8](https://github.com/phpstan/build-infection/pull/17) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
 - [Improve IgnoreErrorExtension code example](https://github.com/phpstan/phpstan/pull/13726) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [`IgnoreErrorExtension` is a valid conditional-tag](https://github.com/phpstan/phpstan-src/pull/4488) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Ignore missingType.iterableValue for data-providers](https://github.com/phpstan/phpstan-phpunit/pull/246) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
@@ -52,13 +55,11 @@
 - [Setup mutation testing](https://github.com/phpstan/phpstan-deprecation-rules/pull/165) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 day ago)
 - [Setup mutation testing](https://github.com/phpstan/phpstan-phpunit/pull/243) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
 - [PhpDocStringResolver: Remove useless method call](https://github.com/phpstan/phpstan-src/pull/4483) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Use faster case-insensitve string comparison](https://github.com/phpstan/phpstan-src/pull/4482) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Don&#39;t double negate](https://github.com/phpstan/build-infection/pull/13) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 day ago)
-- [Added `@covers`-class information to *RuleTests](https://github.com/phpstan/phpstan-doctrine/pull/703) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) - [v7.4.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.4.0-BETA1) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.31.8](https://github.com/infection/infection/releases/tag/0.31.8) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.89.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.89.1) (3 days ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.4.14](https://github.com/php/php-src/releases/tag/php-8.4.14) (4 days ago)
@@ -68,4 +69,3 @@
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.3.1](https://github.com/CuyZ/Valinor/releases/tag/2.3.1) (6 days ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.15.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.15.0) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.33](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.33) (2 weeks ago)
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.12.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.12.0) (2 weeks ago)
