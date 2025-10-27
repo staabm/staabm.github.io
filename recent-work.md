@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update phpstan-phpunit to 2.0.8](https://github.com/phpstan/phpstan-src/pull/4490) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update infection tool version to 0.31.9](https://github.com/phpstan/build-infection/pull/20) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
 - [Faster AutowiredAttributeServicesExtension-&gt;processParameters()](https://github.com/phpstan/phpstan-src/pull/4489) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Support PHPStan-dev version in PHPStanAdapter](https://github.com/infection/infection/pull/2495) on [infection/infection](https://github.com/infection/infection) (today)
@@ -54,7 +55,6 @@
 - [Enable integration test for more phpunit,deprecation-extensions](https://github.com/phpstan/build-infection/pull/15) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 day ago)
 - [Fix mutation testing on dev branch](https://github.com/phpstan/phpstan-phpunit/pull/244) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
 - [Fix mutation testing on dev branch](https://github.com/phpstan/phpstan-deprecation-rules/pull/166) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 day ago)
-- [Setup mutation testing](https://github.com/phpstan/phpstan-deprecation-rules/pull/165) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
