@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Reduce file-parsing in ResultCacheManager](https://github.com/phpstan/phpstan-src/pull/4491) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Assert*Rules: Do cheap checks first](https://github.com/phpstan/phpstan-phpunit/pull/247) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [Update phpstan-phpunit to 2.0.8](https://github.com/phpstan/phpstan-src/pull/4490) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update infection tool version to 0.31.9](https://github.com/phpstan/build-infection/pull/20) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
@@ -54,7 +55,6 @@
 - [move analyse-paths into phpstan.neon](https://github.com/phpstan/phpstan-phpunit/pull/245) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [move analyse-paths into phpstan.neon](https://github.com/phpstan/phpstan-deprecation-rules/pull/167) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
 - [Enable integration test for more phpunit,deprecation-extensions](https://github.com/phpstan/build-infection/pull/15) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 day ago)
-- [Fix mutation testing on dev branch](https://github.com/phpstan/phpstan-phpunit/pull/244) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
