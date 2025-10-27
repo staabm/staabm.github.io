@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
-- [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
-- [infection/infection](https://github.com/infection/infection) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [infection/infection](https://github.com/infection/infection) (today)
+- [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (6 days ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Faster AutowiredAttributeServicesExtension-&gt;processParameters()](https://github.com/phpstan/phpstan-src/pull/4489) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Support PHPStan-dev version in PHPStanAdapter](https://github.com/infection/infection/pull/2495) on [infection/infection](https://github.com/infection/infection) (today)
 - [Store result-cache also on failling builds](https://github.com/phpstan/build-infection/pull/18) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
 - [Update infection version to 0.31.8](https://github.com/phpstan/build-infection/pull/17) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
@@ -54,13 +55,12 @@
 - [Fix mutation testing on dev branch](https://github.com/phpstan/phpstan-deprecation-rules/pull/166) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 day ago)
 - [Setup mutation testing](https://github.com/phpstan/phpstan-deprecation-rules/pull/165) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 day ago)
 - [Setup mutation testing](https://github.com/phpstan/phpstan-phpunit/pull/243) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
-- [PhpDocStringResolver: Remove useless method call](https://github.com/phpstan/phpstan-src/pull/4483) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [infection/infection](https://github.com/infection/infection) - [0.31.9](https://github.com/infection/infection/releases/tag/0.31.9) (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - [v7.4.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.4.0-BETA1) (today)
-- [infection/infection](https://github.com/infection/infection) - [0.31.8](https://github.com/infection/infection/releases/tag/0.31.8) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.89.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.89.1) (3 days ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.4.14](https://github.com/php/php-src/releases/tag/php-8.4.14) (4 days ago)
 - [recombee/php-api-client](https://github.com/recombee/php-api-client) - [v6.0.0](https://github.com/recombee/php-api-client/releases/tag/v6.0.0) (4 days ago)
