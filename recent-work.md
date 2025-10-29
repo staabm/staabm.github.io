@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added bin/infection-config.php `--timeout` option](https://github.com/phpstan/build-infection/pull/21) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
 - [Update phpstan-phpunit to 2.0.8](https://github.com/phpstan/phpstan-doctrine/pull/706) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [Skip DocumentManagerTypeInferenceTest on PHP8&#43;](https://github.com/phpstan/phpstan-doctrine/pull/705) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [PHPUnit 9.x/10.x does not at all support named arguments from data-providers](https://github.com/phpstan/phpstan-phpunit/pull/250) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
@@ -54,7 +55,6 @@
 - [Update infection version to 0.31.8](https://github.com/phpstan/build-infection/pull/17) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 days ago)
 - [Improve IgnoreErrorExtension code example](https://github.com/phpstan/phpstan/pull/13726) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [`IgnoreErrorExtension` is a valid conditional-tag](https://github.com/phpstan/phpstan-src/pull/4488) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Ignore missingType.iterableValue for data-providers](https://github.com/phpstan/phpstan-phpunit/pull/246) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
