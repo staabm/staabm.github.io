@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Don&#39;t forget property-fetch scope-expressions on `$this` after static method call](https://github.com/phpstan/phpstan-src/pull/4494) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [pretty-print infection-config.php json](https://github.com/phpstan/build-infection/pull/22) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
 - [Added bin/infection-config.php `--timeout` option](https://github.com/phpstan/build-infection/pull/21) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
 - [Update phpstan-phpunit to 2.0.8](https://github.com/phpstan/phpstan-doctrine/pull/706) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
@@ -54,7 +55,6 @@
 - [Support PHPStan-dev version in PHPStanAdapter](https://github.com/infection/infection/pull/2495) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [Store result-cache also on failling builds](https://github.com/phpstan/build-infection/pull/18) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 days ago)
 - [Update infection version to 0.31.8](https://github.com/phpstan/build-infection/pull/17) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 days ago)
-- [Improve IgnoreErrorExtension code example](https://github.com/phpstan/phpstan/pull/13726) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
