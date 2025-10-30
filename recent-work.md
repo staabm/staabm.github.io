@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update phpstan-phpunit to 2.0.8](https://github.com/phpstan/phpstan-nette/pull/177) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
+- [Update phpstan-phpunit to 2.0.8](https://github.com/phpstan/phpstan-symfony/pull/458) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (today)
+- [Make AssertSameBooleanExpectedRule auto-fixable](https://github.com/phpstan/phpstan-phpunit/pull/252) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [Don&#39;t forget property-fetch scope-expressions on `$this` after static method call](https://github.com/phpstan/phpstan-src/pull/4494) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [pretty-print infection-config.php json](https://github.com/phpstan/build-infection/pull/22) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 day ago)
 - [Added bin/infection-config.php `--timeout` option](https://github.com/phpstan/build-infection/pull/21) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 day ago)
@@ -52,9 +55,6 @@
 - [Update phpstan-phpunit to 2.0.8](https://github.com/phpstan/phpstan-src/pull/4490) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Update infection tool version to 0.31.9](https://github.com/phpstan/build-infection/pull/20) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (3 days ago)
 - [Faster AutowiredAttributeServicesExtension-&gt;processParameters()](https://github.com/phpstan/phpstan-src/pull/4489) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Support PHPStan-dev version in PHPStanAdapter](https://github.com/infection/infection/pull/2495) on [infection/infection](https://github.com/infection/infection) (3 days ago)
-- [Store result-cache also on failling builds](https://github.com/phpstan/build-infection/pull/18) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (3 days ago)
-- [Update infection version to 0.31.8](https://github.com/phpstan/build-infection/pull/17) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
