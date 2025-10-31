@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix &#34;Offset X might not exist on...&#34; in UnionTypeTest/IntersectionTypeTest](https://github.com/phpstan/phpstan-src/pull/4502) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Fix 25x &#34;Offset X might not exist on...&#34; in FileTypeMapperTest](https://github.com/phpstan/phpstan-src/pull/4501) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Enable reportPossiblyNonexistentConstantArrayOffset](https://github.com/phpstan/phpstan-src/pull/4500) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Don&#39;t forget property-fetch expressions on `$this` after static method call](https://github.com/phpstan/phpstan-src/pull/4497) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Update phpstan-phpunit to 2.0.8](https://github.com/phpstan/phpstan-nette/pull/177) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
@@ -53,8 +55,6 @@
 - [PHPUnit 9.x/10.x does not at all support named arguments from data-providers](https://github.com/phpstan/phpstan-phpunit/pull/250) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
 - [Refactor PHPUnitVersionDetector to ease different major version checks](https://github.com/phpstan/phpstan-phpunit/pull/248) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
 - [Reduce file-parsing in ResultCacheManager](https://github.com/phpstan/phpstan-src/pull/4491) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Assert*Rules: Do cheap checks first](https://github.com/phpstan/phpstan-phpunit/pull/247) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
-- [Update phpstan-phpunit to 2.0.8](https://github.com/phpstan/phpstan-src/pull/4490) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
