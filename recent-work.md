@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Enable reportPossiblyNonexistentConstantArrayOffset](https://github.com/phpstan/phpstan-src/pull/4500) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Don&#39;t forget property-fetch expressions on `$this` after static method call](https://github.com/phpstan/phpstan-src/pull/4497) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Update phpstan-phpunit to 2.0.8](https://github.com/phpstan/phpstan-nette/pull/177) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
 - [Update phpstan-phpunit to 2.0.8](https://github.com/phpstan/phpstan-symfony/pull/458) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 day ago)
@@ -54,7 +55,6 @@
 - [Reduce file-parsing in ResultCacheManager](https://github.com/phpstan/phpstan-src/pull/4491) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Assert*Rules: Do cheap checks first](https://github.com/phpstan/phpstan-phpunit/pull/247) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
 - [Update phpstan-phpunit to 2.0.8](https://github.com/phpstan/phpstan-src/pull/4490) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Update infection tool version to 0.31.9](https://github.com/phpstan/build-infection/pull/20) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
