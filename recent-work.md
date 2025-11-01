@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Move `TypeCombinator::intersect()` out of loop](https://github.com/phpstan/phpstan-src/pull/4509) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Improve count on list with greater/smaller-than](https://github.com/phpstan/phpstan-src/pull/4507) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix &#34;offset might not exist&#34; errors](https://github.com/phpstan/phpstan-src/pull/4506) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Utilize array_last()](https://github.com/phpstan/phpstan-src/pull/4504) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Don&#39;t forget property-fetch scope-expressions on `$this` after static method call](https://github.com/phpstan/phpstan-src/pull/4494) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [pretty-print infection-config.php json](https://github.com/phpstan/build-infection/pull/22) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (3 days ago)
 - [Added bin/infection-config.php `--timeout` option](https://github.com/phpstan/build-infection/pull/21) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (3 days ago)
-- [Update phpstan-phpunit to 2.0.8](https://github.com/phpstan/phpstan-doctrine/pull/706) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
