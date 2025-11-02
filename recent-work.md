@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use TypeSystem in AssertSameBooleanExpectedRule](https://github.com/phpstan/phpstan-phpunit/pull/254) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [Move `TypeCombinator::intersect()` out of loop](https://github.com/phpstan/phpstan-src/pull/4509) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Improve count on list with greater/smaller-than](https://github.com/phpstan/phpstan-src/pull/4507) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fix &#34;offset might not exist&#34; errors](https://github.com/phpstan/phpstan-src/pull/4506) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Make AssertSameBooleanExpectedRule auto-fixable](https://github.com/phpstan/phpstan-phpunit/pull/252) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
 - [Don&#39;t forget property-fetch scope-expressions on `$this` after static method call](https://github.com/phpstan/phpstan-src/pull/4494) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [pretty-print infection-config.php json](https://github.com/phpstan/build-infection/pull/22) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (4 days ago)
-- [Added bin/infection-config.php `--timeout` option](https://github.com/phpstan/build-infection/pull/21) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
