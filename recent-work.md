@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improve inference on FuncCall === FuncCall](https://github.com/phpstan/phpstan-src/pull/4513) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Use TypeSystem in AssertSameBooleanExpectedRule](https://github.com/phpstan/phpstan-phpunit/pull/254) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [Move `TypeCombinator::intersect()` out of loop](https://github.com/phpstan/phpstan-src/pull/4509) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Improve count on list with greater/smaller-than](https://github.com/phpstan/phpstan-src/pull/4507) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Update phpstan-phpunit to 2.0.8](https://github.com/phpstan/phpstan-symfony/pull/458) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (3 days ago)
 - [Make AssertSameBooleanExpectedRule auto-fixable](https://github.com/phpstan/phpstan-phpunit/pull/252) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
 - [Don&#39;t forget property-fetch scope-expressions on `$this` after static method call](https://github.com/phpstan/phpstan-src/pull/4494) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [pretty-print infection-config.php json](https://github.com/phpstan/build-infection/pull/22) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
