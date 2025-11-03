@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (4 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (4 days ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (4 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (5 days ago)
-- [phpstan/build-infection](https://github.com/phpstan/build-infection) (5 days ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 week ago)
 - [infection/infection](https://github.com/infection/infection) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added `make infection` command to run it locally](https://github.com/phpstan/build-infection/pull/30) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
 - [Implement LooseBooleanMutator](https://github.com/phpstan/build-infection/pull/27) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
 - [Implement IsSuperTypeOfCalleeAndArgumentMutator](https://github.com/phpstan/build-infection/pull/26) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
 - [`count(non-empty-array, COUNT_RECURSIVE)` is `int&lt;1, max&gt;`](https://github.com/phpstan/phpstan-src/pull/4515) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix 25x &#34;Offset X might not exist on...&#34; in FileTypeMapperTest](https://github.com/phpstan/phpstan-src/pull/4501) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Enable reportPossiblyNonexistentConstantArrayOffset](https://github.com/phpstan/phpstan-src/pull/4500) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Don&#39;t forget property-fetch expressions on `$this` after static method call](https://github.com/phpstan/phpstan-src/pull/4497) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Update phpstan-phpunit to 2.0.8](https://github.com/phpstan/phpstan-nette/pull/177) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
