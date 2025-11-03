@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Make AssertSameNullExpectedRule auto-fixable](https://github.com/phpstan/phpstan-phpunit/pull/255) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [Added `make infection` command to run it locally](https://github.com/phpstan/build-infection/pull/30) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
 - [Implement LooseBooleanMutator](https://github.com/phpstan/build-infection/pull/27) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
 - [Implement IsSuperTypeOfCalleeAndArgumentMutator](https://github.com/phpstan/build-infection/pull/26) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
@@ -54,7 +55,6 @@
 - [Fix &#34;Offset X might not exist on...&#34; in UnionTypeTest/IntersectionTypeTest](https://github.com/phpstan/phpstan-src/pull/4502) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Fix 25x &#34;Offset X might not exist on...&#34; in FileTypeMapperTest](https://github.com/phpstan/phpstan-src/pull/4501) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Enable reportPossiblyNonexistentConstantArrayOffset](https://github.com/phpstan/phpstan-src/pull/4500) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Don&#39;t forget property-fetch expressions on `$this` after static method call](https://github.com/phpstan/phpstan-src/pull/4497) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
