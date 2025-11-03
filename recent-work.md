@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement LooseBooleanMutator](https://github.com/phpstan/build-infection/pull/27) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
 - [Implement IsSuperTypeOfCalleeAndArgumentMutator](https://github.com/phpstan/build-infection/pull/26) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
 - [`count(non-empty-array, COUNT_RECURSIVE)` is `int&lt;1, max&gt;`](https://github.com/phpstan/phpstan-src/pull/4515) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Improve inference on FuncCall === FuncCall](https://github.com/phpstan/phpstan-src/pull/4513) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Enable reportPossiblyNonexistentConstantArrayOffset](https://github.com/phpstan/phpstan-src/pull/4500) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Don&#39;t forget property-fetch expressions on `$this` after static method call](https://github.com/phpstan/phpstan-src/pull/4497) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Update phpstan-phpunit to 2.0.8](https://github.com/phpstan/phpstan-nette/pull/177) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (4 days ago)
-- [Update phpstan-phpunit to 2.0.8](https://github.com/phpstan/phpstan-symfony/pull/458) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
