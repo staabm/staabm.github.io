@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[POC] Run InitialTestSuite/InitialStaticAnalysis only when mutations found](https://github.com/infection/infection/pull/2554) on [infection/infection](https://github.com/infection/infection) (today)
 - [Get rid of unnecessary iterator_to_array() call](https://github.com/infection/infection/pull/2553) on [infection/infection](https://github.com/infection/infection) (today)
 - [Increase mutation testing timeout](https://github.com/phpstan/phpstan-src/pull/4523) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement GitHubActionsLogTextFileLogger](https://github.com/infection/infection/pull/2552) on [infection/infection](https://github.com/infection/infection) (today)
@@ -54,7 +55,6 @@
 - [Improve count on list with greater/smaller-than](https://github.com/phpstan/phpstan-src/pull/4507) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Fix &#34;offset might not exist&#34; errors](https://github.com/phpstan/phpstan-src/pull/4506) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Utilize array_last()](https://github.com/phpstan/phpstan-src/pull/4504) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Create PhpParserExpr.stub](https://github.com/phpstan/phpstan-src/pull/4503) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
