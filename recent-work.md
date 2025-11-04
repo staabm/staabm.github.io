@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [test current performance](https://github.com/phpstan/phpstan-src/pull/4526) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Mutation Testing: Create coverage in parallel](https://github.com/phpstan/phpstan-src/pull/4525) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Added `make infection` command to run it locally](https://github.com/phpstan/phpstan-src/pull/4524) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [[POC] Run InitialTestSuite/InitialStaticAnalysis only when mutations found](https://github.com/infection/infection/pull/2554) on [infection/infection](https://github.com/infection/infection) (today)
@@ -54,7 +55,6 @@
 - [Improve inference on FuncCall === FuncCall](https://github.com/phpstan/phpstan-src/pull/4513) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Use TypeSystem in AssertSameBooleanExpectedRule](https://github.com/phpstan/phpstan-phpunit/pull/254) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
 - [Move `TypeCombinator::intersect()` out of loop](https://github.com/phpstan/phpstan-src/pull/4509) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Improve count on list with greater/smaller-than](https://github.com/phpstan/phpstan-src/pull/4507) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
