@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 day ago)
+- [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (5 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Get rid of unnecessary iterator_to_array() call](https://github.com/infection/infection/pull/2553) on [infection/infection](https://github.com/infection/infection) (today)
 - [Increase mutation testing timeout](https://github.com/phpstan/phpstan-src/pull/4523) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement GitHubActionsLogTextFileLogger](https://github.com/infection/infection/pull/2552) on [infection/infection](https://github.com/infection/infection) (today)
 - [Make AssertSameNullExpectedRule auto-fixable](https://github.com/phpstan/phpstan-phpunit/pull/255) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix &#34;offset might not exist&#34; errors](https://github.com/phpstan/phpstan-src/pull/4506) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Utilize array_last()](https://github.com/phpstan/phpstan-src/pull/4504) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Create PhpParserExpr.stub](https://github.com/phpstan/phpstan-src/pull/4503) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Fix &#34;Offset X might not exist on...&#34; in UnionTypeTest/IntersectionTypeTest](https://github.com/phpstan/phpstan-src/pull/4502) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
