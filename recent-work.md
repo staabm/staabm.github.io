@@ -4,8 +4,8 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (5 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (5 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (6 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added `make infection` command to run it locally](https://github.com/phpstan/phpstan-src/pull/4524) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [[POC] Run InitialTestSuite/InitialStaticAnalysis only when mutations found](https://github.com/infection/infection/pull/2554) on [infection/infection](https://github.com/infection/infection) (today)
 - [Get rid of unnecessary iterator_to_array() call](https://github.com/infection/infection/pull/2553) on [infection/infection](https://github.com/infection/infection) (today)
 - [Increase mutation testing timeout](https://github.com/phpstan/phpstan-src/pull/4523) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,11 +55,11 @@
 - [Move `TypeCombinator::intersect()` out of loop](https://github.com/phpstan/phpstan-src/pull/4509) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Improve count on list with greater/smaller-than](https://github.com/phpstan/phpstan-src/pull/4507) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Fix &#34;offset might not exist&#34; errors](https://github.com/phpstan/phpstan-src/pull/4506) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Utilize array_last()](https://github.com/phpstan/phpstan-src/pull/4504) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.11](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.11) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.4.2](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.2) (5 days ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [12.6.2](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.6.2) (6 days ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.37.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.37.0) (1 week ago)
@@ -68,4 +69,3 @@
 - [recombee/php-api-client](https://github.com/recombee/php-api-client) - [v6.0.0](https://github.com/recombee/php-api-client/releases/tag/v6.0.0) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.6.2](https://github.com/nikic/PHP-Parser/releases/tag/v5.6.2) (2 weeks ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.3.1](https://github.com/CuyZ/Valinor/releases/tag/2.3.1) (2 weeks ago)
-- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.15.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.15.0) (2 weeks ago)
