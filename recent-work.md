@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement GitHubActionsLogTextFileLogger](https://github.com/infection/infection/pull/2552) on [infection/infection](https://github.com/infection/infection) (today)
 - [Make AssertSameNullExpectedRule auto-fixable](https://github.com/phpstan/phpstan-phpunit/pull/255) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
 - [Added `make infection` command to run it locally](https://github.com/phpstan/build-infection/pull/30) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 day ago)
 - [Implement LooseBooleanMutator](https://github.com/phpstan/build-infection/pull/27) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 day ago)
@@ -54,7 +55,6 @@
 - [Create PhpParserExpr.stub](https://github.com/phpstan/phpstan-src/pull/4503) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Fix &#34;Offset X might not exist on...&#34; in UnionTypeTest/IntersectionTypeTest](https://github.com/phpstan/phpstan-src/pull/4502) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Fix 25x &#34;Offset X might not exist on...&#34; in FileTypeMapperTest](https://github.com/phpstan/phpstan-src/pull/4501) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Enable reportPossiblyNonexistentConstantArrayOffset](https://github.com/phpstan/phpstan-src/pull/4500) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
