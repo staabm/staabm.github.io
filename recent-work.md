@@ -5,12 +5,12 @@
 
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [infection/infection](https://github.com/infection/infection) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (5 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (5 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (6 days ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 week ago)
-- [infection/infection](https://github.com/infection/infection) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (2 weeks ago)
 
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.66.0](https://github.com/Roave/BetterReflection/releases/tag/6.66.0) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.11](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.11) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.4.2](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.2) (5 days ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [12.6.2](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.6.2) (6 days ago)
@@ -68,4 +69,3 @@
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.89.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.89.1) (1 week ago)
 - [recombee/php-api-client](https://github.com/recombee/php-api-client) - [v6.0.0](https://github.com/recombee/php-api-client/releases/tag/v6.0.0) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.6.2](https://github.com/nikic/PHP-Parser/releases/tag/v5.6.2) (2 weeks ago)
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.3.1](https://github.com/CuyZ/Valinor/releases/tag/2.3.1) (2 weeks ago)
