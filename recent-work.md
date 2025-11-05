@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify TokenCollection](https://github.com/theseer/tokenizer/pull/25) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (today)
 - [Simplify XMLSerializer](https://github.com/theseer/tokenizer/pull/24) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (today)
 - [Faster coverage-xml report](https://github.com/sebastianbergmann/php-code-coverage/pull/1102) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
 - [test current performance](https://github.com/phpstan/phpstan-src/pull/4526) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Implement LooseBooleanMutator](https://github.com/phpstan/build-infection/pull/27) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 days ago)
 - [Implement IsSuperTypeOfCalleeAndArgumentMutator](https://github.com/phpstan/build-infection/pull/26) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 days ago)
 - [`count(non-empty-array, COUNT_RECURSIVE)` is `int&lt;1, max&gt;`](https://github.com/phpstan/phpstan-src/pull/4515) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Improve inference on FuncCall === FuncCall](https://github.com/phpstan/phpstan-src/pull/4513) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
