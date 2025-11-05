@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
+- [staabm/code-coverage-benchmarks](https://github.com/staabm/code-coverage-benchmarks) (today)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 day ago)
-- [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
+- [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (6 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (6 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 week ago)
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify XMLSerializer](https://github.com/theseer/tokenizer/pull/24) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (today)
+- [Faster coverage-xml report](https://github.com/sebastianbergmann/php-code-coverage/pull/1102) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
 - [test current performance](https://github.com/phpstan/phpstan-src/pull/4526) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Mutation Testing: Create coverage in parallel](https://github.com/phpstan/phpstan-src/pull/4525) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Added `make infection` command to run it locally](https://github.com/phpstan/phpstan-src/pull/4524) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Implement IsSuperTypeOfCalleeAndArgumentMutator](https://github.com/phpstan/build-infection/pull/26) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 days ago)
 - [`count(non-empty-array, COUNT_RECURSIVE)` is `int&lt;1, max&gt;`](https://github.com/phpstan/phpstan-src/pull/4515) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Improve inference on FuncCall === FuncCall](https://github.com/phpstan/phpstan-src/pull/4513) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Use TypeSystem in AssertSameBooleanExpectedRule](https://github.com/phpstan/phpstan-phpunit/pull/254) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
-- [Move `TypeCombinator::intersect()` out of loop](https://github.com/phpstan/phpstan-src/pull/4509) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
