@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Preserve constant array when setting a union of constant scalar keys](https://github.com/phpstan/phpstan-src/pull/4528) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Test latest PHP versions in CI](https://github.com/theseer/tokenizer/pull/28) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (today)
 - [Added #[Covers*] attributes to tests](https://github.com/phpstan/phpstan-src/pull/4527) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Simplify TokenCollection](https://github.com/theseer/tokenizer/pull/25) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (1 day ago)
@@ -54,7 +55,6 @@
 - [Implement GitHubActionsLogTextFileLogger](https://github.com/infection/infection/pull/2552) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [Make AssertSameNullExpectedRule auto-fixable](https://github.com/phpstan/phpstan-phpunit/pull/255) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
 - [Added `make infection` command to run it locally](https://github.com/phpstan/build-infection/pull/30) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (3 days ago)
-- [Implement LooseBooleanMutator](https://github.com/phpstan/build-infection/pull/27) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
