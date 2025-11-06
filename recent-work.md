@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
 - [staabm/code-coverage-benchmarks](https://github.com/staabm/code-coverage-benchmarks) (1 day ago)
-- [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 days ago)
 - [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
+- [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
 
 
@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [13.0.0](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/13.0.0) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.66.0](https://github.com/Roave/BetterReflection/releases/tag/6.66.0) (2 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.11](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.11) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.4.2](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.2) (1 week ago)
-- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [12.6.2](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/12.6.2) (1 week ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.37.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.37.0) (1 week ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0-alpha.3](https://github.com/deployphp/deployer/releases/tag/v8.0.0-alpha.3) (1 week ago)
 - [infection/infection](https://github.com/infection/infection) - [0.31.9](https://github.com/infection/infection/releases/tag/0.31.9) (1 week ago)
