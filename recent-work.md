@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Utilize `PhpToken::tokenize()` - requires PHP8&#43;](https://github.com/theseer/tokenizer/pull/35) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (today)
+- [Tokenizer: Use const array](https://github.com/theseer/tokenizer/pull/34) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (today)
+- [Streamline Tokenizer-&gt;parse()](https://github.com/theseer/tokenizer/pull/33) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (today)
 - [Streamline Tokenizer-&gt;fillBlanks()](https://github.com/theseer/tokenizer/pull/32) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (today)
 - [Remove writeRaw&#43;escaping, use XMLWriter-&gt;text() instead](https://github.com/theseer/tokenizer/pull/31) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (today)
 - [Remove writeRaw&#43;escaping, use XMLWriter-&gt;text() instead](https://github.com/theseer/tokenizer/pull/30) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (today)
@@ -52,9 +55,6 @@
 - [Preserve constant array when setting a union of constant scalar keys](https://github.com/phpstan/phpstan-src/pull/4528) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Test latest PHP versions in CI](https://github.com/theseer/tokenizer/pull/28) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (1 day ago)
 - [Added #[Covers*] attributes to tests](https://github.com/phpstan/phpstan-src/pull/4527) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Simplify TokenCollection](https://github.com/theseer/tokenizer/pull/25) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (2 days ago)
-- [Simplify XMLSerializer](https://github.com/theseer/tokenizer/pull/24) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (2 days ago)
-- [Faster coverage-xml report](https://github.com/sebastianbergmann/php-code-coverage/pull/1102) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
