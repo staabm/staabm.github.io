@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update psalm to latest 5.x version](https://github.com/infection/infection/pull/2565) on [infection/infection](https://github.com/infection/infection) (today)
+- [Update PHP-CS-Fixer to v3.89.2](https://github.com/infection/infection/pull/2564) on [infection/infection](https://github.com/infection/infection) (today)
 - [Prevent duplicate work](https://github.com/phpstan/phpstan-src/pull/4531) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Simplify ConstantArrayTypeBuilder](https://github.com/phpstan/phpstan-src/pull/4529) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Preserve constant array when setting a union of constant scalar keys](https://github.com/phpstan/phpstan-src/pull/4528) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Added `make infection` command to run it locally](https://github.com/phpstan/phpstan-src/pull/4524) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [[POC] Run InitialTestSuite/InitialStaticAnalysis only when mutations found](https://github.com/infection/infection/pull/2554) on [infection/infection](https://github.com/infection/infection) (3 days ago)
 - [Get rid of unnecessary iterator_to_array() call](https://github.com/infection/infection/pull/2553) on [infection/infection](https://github.com/infection/infection) (3 days ago)
-- [Increase mutation testing timeout](https://github.com/phpstan/phpstan-src/pull/4523) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Implement GitHubActionsLogTextFileLogger](https://github.com/infection/infection/pull/2552) on [infection/infection](https://github.com/infection/infection) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
