@@ -59,12 +59,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.37.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.37.1) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.89.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.89.2) (1 day ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [13.0.0](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/13.0.0) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.66.0](https://github.com/Roave/BetterReflection/releases/tag/6.66.0) (3 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.11](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.11) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.4.2](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.2) (1 week ago)
-- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.37.0](https://github.com/pmmp/PocketMine-MP/releases/tag/5.37.0) (1 week ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0-alpha.3](https://github.com/deployphp/deployer/releases/tag/v8.0.0-alpha.3) (1 week ago)
 - [infection/infection](https://github.com/infection/infection) - [0.31.9](https://github.com/infection/infection/releases/tag/0.31.9) (1 week ago)
 - [recombee/php-api-client](https://github.com/recombee/php-api-client) - [v6.0.0](https://github.com/recombee/php-api-client/releases/tag/v6.0.0) (2 weeks ago)
