@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [theseer/tokenizer](https://github.com/theseer/tokenizer) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [theseer/tokenizer](https://github.com/theseer/tokenizer) (1 day ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 days ago)
 - [staabm/code-coverage-benchmarks](https://github.com/staabm/code-coverage-benchmarks) (2 days ago)
-- [phpstan/build-infection](https://github.com/phpstan/build-infection) (3 days ago)
 - [infection/infection](https://github.com/infection/infection) (3 days ago)
+- [phpstan/build-infection](https://github.com/phpstan/build-infection) (3 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
@@ -40,6 +40,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Streamline Tokenizer-&gt;fillBlanks()](https://github.com/theseer/tokenizer/pull/32) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (today)
+- [Remove writeRaw&#43;escaping, use XMLWriter-&gt;text() instead](https://github.com/theseer/tokenizer/pull/31) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (today)
+- [Remove writeRaw&#43;escaping, use XMLWriter-&gt;text() instead](https://github.com/theseer/tokenizer/pull/30) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (today)
+- [Streamline XMLSerializer](https://github.com/theseer/tokenizer/pull/29) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (today)
+- [Fix PHPStan errors](https://github.com/infection/infection/pull/2568) on [infection/infection](https://github.com/infection/infection) (today)
 - [Update psalm to latest 5.x version](https://github.com/infection/infection/pull/2565) on [infection/infection](https://github.com/infection/infection) (today)
 - [Update PHP-CS-Fixer to v3.89.2](https://github.com/infection/infection/pull/2564) on [infection/infection](https://github.com/infection/infection) (today)
 - [Prevent duplicate work](https://github.com/phpstan/phpstan-src/pull/4531) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -50,11 +55,6 @@
 - [Simplify TokenCollection](https://github.com/theseer/tokenizer/pull/25) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (2 days ago)
 - [Simplify XMLSerializer](https://github.com/theseer/tokenizer/pull/24) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (2 days ago)
 - [Faster coverage-xml report](https://github.com/sebastianbergmann/php-code-coverage/pull/1102) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 days ago)
-- [test current performance](https://github.com/phpstan/phpstan-src/pull/4526) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Mutation Testing: Create coverage in parallel](https://github.com/phpstan/phpstan-src/pull/4525) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Added `make infection` command to run it locally](https://github.com/phpstan/phpstan-src/pull/4524) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [[POC] Run InitialTestSuite/InitialStaticAnalysis only when mutations found](https://github.com/infection/infection/pull/2554) on [infection/infection](https://github.com/infection/infection) (3 days ago)
-- [Get rid of unnecessary iterator_to_array() call](https://github.com/infection/infection/pull/2553) on [infection/infection](https://github.com/infection/infection) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
