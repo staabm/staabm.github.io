@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add `#[CoversNothing]`](https://github.com/phpstan/phpstan-src/pull/4535) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Downgrade #[PHPUnit\Framework\Attributes\CoversNothing]](https://github.com/ondrejmirtes/simple-downgrader/pull/18) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 day ago)
 - [Utilize `PhpToken::tokenize()` - requires PHP8&#43;](https://github.com/theseer/tokenizer/pull/35) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (1 day ago)
 - [Tokenizer: Use const array](https://github.com/theseer/tokenizer/pull/34) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (1 day ago)
@@ -54,7 +55,6 @@
 - [Prevent duplicate work](https://github.com/phpstan/phpstan-src/pull/4531) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Simplify ConstantArrayTypeBuilder](https://github.com/phpstan/phpstan-src/pull/4529) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Preserve constant array when setting a union of constant scalar keys](https://github.com/phpstan/phpstan-src/pull/4528) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Test latest PHP versions in CI](https://github.com/theseer/tokenizer/pull/28) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
