@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [infection/infection](https://github.com/infection/infection) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (2 days ago)
-- [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) (2 days ago)
 - [staabm/code-coverage-benchmarks](https://github.com/staabm/code-coverage-benchmarks) (4 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Declare native property types](https://github.com/infection/infection/pull/2571) on [infection/infection](https://github.com/infection/infection) (today)
+- [refactor: Declare native property types](https://github.com/infection/infection/pull/2571) on [infection/infection](https://github.com/infection/infection) (today)
 - [Prevent sorting covered-files over and over](https://github.com/sebastianbergmann/php-code-coverage/pull/1108) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
 - [Prevent sorting coverage-data over and over](https://github.com/sebastianbergmann/php-code-coverage/pull/1107) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
 - [Narrow types](https://github.com/sebastianbergmann/php-code-coverage/pull/1106) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
