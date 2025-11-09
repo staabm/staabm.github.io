@@ -44,7 +44,7 @@
 - [Prevent sorting covered-files over and over](https://github.com/sebastianbergmann/php-code-coverage/pull/1108) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
 - [Prevent sorting coverage-data over and over](https://github.com/sebastianbergmann/php-code-coverage/pull/1107) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
 - [Narrow types](https://github.com/sebastianbergmann/php-code-coverage/pull/1106) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
-- [POC: Represent CoverageData in objects](https://github.com/sebastianbergmann/php-code-coverage/pull/1105) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
+- [Represent CoverageData in objects](https://github.com/sebastianbergmann/php-code-coverage/pull/1105) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
 - [Update PHPStan to 2.1.31](https://github.com/sebastianbergmann/php-code-coverage/pull/1104) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
 - [Fix FunctionCoverageDataType](https://github.com/sebastianbergmann/php-code-coverage/pull/1103) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
 - [Infer non-empty-array after array_key_first/last()](https://github.com/phpstan/phpstan-src/pull/4536) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
