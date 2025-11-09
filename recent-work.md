@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Declare native property types](https://github.com/infection/infection/pull/2571) on [infection/infection](https://github.com/infection/infection) (today)
 - [Prevent sorting covered-files over and over](https://github.com/sebastianbergmann/php-code-coverage/pull/1108) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
 - [Prevent sorting coverage-data over and over](https://github.com/sebastianbergmann/php-code-coverage/pull/1107) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
 - [Narrow types](https://github.com/sebastianbergmann/php-code-coverage/pull/1106) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
@@ -54,7 +55,6 @@
 - [Streamline Tokenizer-&gt;parse()](https://github.com/theseer/tokenizer/pull/33) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (2 days ago)
 - [Streamline Tokenizer-&gt;fillBlanks()](https://github.com/theseer/tokenizer/pull/32) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (2 days ago)
 - [Remove writeRaw&#43;escaping, use XMLWriter-&gt;text() instead](https://github.com/theseer/tokenizer/pull/31) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (2 days ago)
-- [Remove writeRaw&#43;escaping, use XMLWriter-&gt;text() instead](https://github.com/theseer/tokenizer/pull/30) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
