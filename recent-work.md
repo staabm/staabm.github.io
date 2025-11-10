@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Incrementally create coverage report](https://github.com/paratestphp/paratest/pull/1045) on [paratestphp/paratest](https://github.com/paratestphp/paratest) (today)
 - [Fix asymmetry in startElement() and endElement()](https://github.com/theseer/tokenizer/pull/36) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (today)
 - [Use plain `for`-loop over `foreach(range() ..)`](https://github.com/sebastianbergmann/php-code-coverage/pull/1110) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
 - [Represent line-coverage data in objects](https://github.com/sebastianbergmann/php-code-coverage/pull/1109) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
@@ -54,7 +55,6 @@
 - [Add `#[CoversNothing]`](https://github.com/phpstan/phpstan-src/pull/4535) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Downgrade #[PHPUnit\Framework\Attributes\CoversNothing]](https://github.com/ondrejmirtes/simple-downgrader/pull/18) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (3 days ago)
 - [Utilize `PhpToken::tokenize()` - requires PHP8&#43;](https://github.com/theseer/tokenizer/pull/35) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (3 days ago)
-- [Tokenizer: Use const array](https://github.com/theseer/tokenizer/pull/34) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
