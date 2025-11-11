@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Make AssertSameWithCountRule auto-fixable](https://github.com/phpstan/phpstan-phpunit/pull/259) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [Fix &#34;Unexpected input(s) &#39;extensions&#39;, valid inputs are [&#39;php-version&#39;, &#39;php-extensions&#39;, &#39;build-infection-path&#39;]&#34;](https://github.com/phpstan/phpstan-phpunit/pull/258) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [Fix AssertSameWithCountRule for recursive count()](https://github.com/phpstan/phpstan-phpunit/pull/257) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [Incrementally create coverage report](https://github.com/paratestphp/paratest/pull/1045) on [paratestphp/paratest](https://github.com/paratestphp/paratest) (1 day ago)
@@ -54,7 +55,6 @@
 - [Update PHPStan to 2.1.31](https://github.com/sebastianbergmann/php-code-coverage/pull/1104) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (3 days ago)
 - [Fix FunctionCoverageDataType](https://github.com/sebastianbergmann/php-code-coverage/pull/1103) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (3 days ago)
 - [Infer non-empty-array after array_key_first/last()](https://github.com/phpstan/phpstan-src/pull/4536) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Add `#[CoversNothing]`](https://github.com/phpstan/phpstan-src/pull/4535) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
