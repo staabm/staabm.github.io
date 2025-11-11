@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement TrueTruthyFalseFalseyTypeSpecifierContextMutator](https://github.com/phpstan/build-infection/pull/36) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
 - [Add `#[CoversNothing]` to classes which test other test-artifacts](https://github.com/phpstan/phpstan-src/pull/4546) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Make AssertSameWithCountRule auto-fixable](https://github.com/phpstan/phpstan-phpunit/pull/259) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [Fix &#34;Unexpected input(s) &#39;extensions&#39;, valid inputs are [&#39;php-version&#39;, &#39;php-extensions&#39;, &#39;build-infection-path&#39;]&#34;](https://github.com/phpstan/phpstan-phpunit/pull/258) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
@@ -54,7 +55,6 @@
 - [Narrow types](https://github.com/sebastianbergmann/php-code-coverage/pull/1106) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (3 days ago)
 - [Represent CoverageData in objects](https://github.com/sebastianbergmann/php-code-coverage/pull/1105) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (3 days ago)
 - [Update PHPStan to 2.1.31](https://github.com/sebastianbergmann/php-code-coverage/pull/1104) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (3 days ago)
-- [Fix FunctionCoverageDataType](https://github.com/sebastianbergmann/php-code-coverage/pull/1103) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
