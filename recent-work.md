@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use isSuperTypeOf() instead of equals() in Bound check](https://github.com/phpstan/phpstan-src/pull/4549) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement TrueTruthyFalseFalseyTypeSpecifierContextMutator](https://github.com/phpstan/build-infection/pull/36) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
 - [Add `#[CoversNothing]` to classes which test other test-artifacts](https://github.com/phpstan/phpstan-src/pull/4546) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Make AssertSameWithCountRule auto-fixable](https://github.com/phpstan/phpstan-phpunit/pull/259) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
@@ -54,11 +55,12 @@
 - [Prevent sorting coverage-data over and over](https://github.com/sebastianbergmann/php-code-coverage/pull/1107) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (3 days ago)
 - [Narrow types](https://github.com/sebastianbergmann/php-code-coverage/pull/1106) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (3 days ago)
 - [Represent CoverageData in objects](https://github.com/sebastianbergmann/php-code-coverage/pull/1105) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (3 days ago)
-- [Update PHPStan to 2.1.31](https://github.com/sebastianbergmann/php-code-coverage/pull/1104) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.8](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.8) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.32](https://github.com/phpstan/phpstan/releases/tag/2.1.32) (today)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.37.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.37.1) (4 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.89.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.89.2) (5 days ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [13.0.0](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/13.0.0) (5 days ago)
@@ -67,5 +69,3 @@
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.4.2](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.2) (1 week ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0-alpha.3](https://github.com/deployphp/deployer/releases/tag/v8.0.0-alpha.3) (2 weeks ago)
 - [infection/infection](https://github.com/infection/infection) - [0.31.9](https://github.com/infection/infection/releases/tag/0.31.9) (2 weeks ago)
-- [recombee/php-api-client](https://github.com/recombee/php-api-client) - [v6.0.0](https://github.com/recombee/php-api-client/releases/tag/v6.0.0) (2 weeks ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.6.2](https://github.com/nikic/PHP-Parser/releases/tag/v5.6.2) (3 weeks ago)
