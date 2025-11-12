@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 day ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
+- [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (5 days ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) (5 days ago)
 - [staabm/code-coverage-benchmarks](https://github.com/staabm/code-coverage-benchmarks) (1 week ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,12 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove no longer necessary BC layer](https://github.com/FriendsOfREDAXO/rexstan/pull/941) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [Support PHP 8.4.x/8.5.x](https://github.com/FriendsOfREDAXO/rexstan/pull/940) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [Bump staabm/phpstan-baseline-analysis from 0.13.1 to 0.13.2](https://github.com/FriendsOfREDAXO/rexstan/pull/939) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [Bump phpstan/phpstan-phpunit from 2.0.7 to 2.0.8](https://github.com/FriendsOfREDAXO/rexstan/pull/938) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [Bump spaze/phpstan-disallowed-calls from 4.6.0 to 4.7.0](https://github.com/FriendsOfREDAXO/rexstan/pull/935) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [Support error identfiers and rawMessage](https://github.com/staabm/phpstan-baseline-analysis/pull/194) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (today)
 - [Use isSuperTypeOf() instead of equals() in Bound check](https://github.com/phpstan/phpstan-src/pull/4549) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Implement TrueTruthyFalseFalseyTypeSpecifierContextMutator](https://github.com/phpstan/build-infection/pull/36) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 day ago)
 - [Add `#[CoversNothing]` to classes which test other test-artifacts](https://github.com/phpstan/phpstan-src/pull/4546) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -49,17 +55,12 @@
 - [Incrementally create coverage report](https://github.com/paratestphp/paratest/pull/1045) on [paratestphp/paratest](https://github.com/paratestphp/paratest) (2 days ago)
 - [Fix asymmetry in startElement() and endElement()](https://github.com/theseer/tokenizer/pull/36) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (2 days ago)
 - [Use plain `for`-loop over `foreach(range() ..)`](https://github.com/sebastianbergmann/php-code-coverage/pull/1110) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 days ago)
-- [Represent line-coverage data in objects](https://github.com/sebastianbergmann/php-code-coverage/pull/1109) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 days ago)
-- [refactor: Declare native property types](https://github.com/infection/infection/pull/2571) on [infection/infection](https://github.com/infection/infection) (3 days ago)
-- [Prevent sorting covered-files over and over](https://github.com/sebastianbergmann/php-code-coverage/pull/1108) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (4 days ago)
-- [Prevent sorting coverage-data over and over](https://github.com/sebastianbergmann/php-code-coverage/pull/1107) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (4 days ago)
-- [Narrow types](https://github.com/sebastianbergmann/php-code-coverage/pull/1106) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (4 days ago)
-- [Represent CoverageData in objects](https://github.com/sebastianbergmann/php-code-coverage/pull/1105) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.34](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.34) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.36](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.36) (today)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.13.2](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.13.2) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.8](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.8) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.32](https://github.com/phpstan/phpstan/releases/tag/2.1.32) (1 day ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.37.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.37.1) (5 days ago)
@@ -68,4 +69,3 @@
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.66.0](https://github.com/Roave/BetterReflection/releases/tag/6.66.0) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.11](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.11) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.4.2](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.2) (1 week ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0-alpha.3](https://github.com/deployphp/deployer/releases/tag/v8.0.0-alpha.3) (2 weeks ago)
