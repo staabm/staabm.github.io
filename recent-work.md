@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Report invalid data provider on exceptions](https://github.com/sebastianbergmann/phpunit/pull/6409) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Remove no longer necessary BC layer](https://github.com/FriendsOfREDAXO/rexstan/pull/941) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Support PHP 8.4.x/8.5.x](https://github.com/FriendsOfREDAXO/rexstan/pull/940) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [Bump staabm/phpstan-baseline-analysis from 0.13.1 to 0.13.2](https://github.com/FriendsOfREDAXO/rexstan/pull/939) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
@@ -54,7 +55,6 @@
 - [Fix AssertSameWithCountRule for recursive count()](https://github.com/phpstan/phpstan-phpunit/pull/257) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
 - [Incrementally create coverage report](https://github.com/paratestphp/paratest/pull/1045) on [paratestphp/paratest](https://github.com/paratestphp/paratest) (2 days ago)
 - [Fix asymmetry in startElement() and endElement()](https://github.com/theseer/tokenizer/pull/36) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (2 days ago)
-- [Use plain `for`-loop over `foreach(range() ..)`](https://github.com/sebastianbergmann/php-code-coverage/pull/1110) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
