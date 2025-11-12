@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [2.0.36](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/2.0.36) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0-beta1](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0-beta1) (today)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.13.2](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.13.2) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.8](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.8) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.32](https://github.com/phpstan/phpstan/releases/tag/2.1.32) (1 day ago)
