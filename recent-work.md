@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Don&#39;t loose known offset-values in array_merge()](https://github.com/phpstan/phpstan-src/pull/4554) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Don&#39;t loose known offset-types in array_merge()](https://github.com/phpstan/phpstan-src/pull/4554) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Merge branch &#39;11.5&#39; into 12.4](https://github.com/sebastianbergmann/phpunit/pull/6415) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [CI: enable pcntl to un-skip tests](https://github.com/sebastianbergmann/phpunit/pull/6412) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Report invalid data provider on exceptions](https://github.com/sebastianbergmann/phpunit/pull/6409) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
