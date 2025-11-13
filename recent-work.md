@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 days ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 day ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
+- [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 days ago)
 - [infection/infection](https://github.com/infection/infection) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (5 days ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (6 days ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) (6 days ago)
-- [staabm/code-coverage-benchmarks](https://github.com/staabm/code-coverage-benchmarks) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [CI: enable pcntl to un-skip tests](https://github.com/sebastianbergmann/phpunit/pull/6412) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Report invalid data provider on exceptions](https://github.com/sebastianbergmann/phpunit/pull/6409) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Remove no longer necessary BC layer](https://github.com/FriendsOfREDAXO/rexstan/pull/941) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [Support PHP 8.4.x/8.5.x](https://github.com/FriendsOfREDAXO/rexstan/pull/940) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix &#34;Unexpected input(s) &#39;extensions&#39;, valid inputs are [&#39;php-version&#39;, &#39;php-extensions&#39;, &#39;build-infection-path&#39;]&#34;](https://github.com/phpstan/phpstan-phpunit/pull/258) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
 - [Fix AssertSameWithCountRule for recursive count()](https://github.com/phpstan/phpstan-phpunit/pull/257) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
 - [Incrementally create coverage report](https://github.com/paratestphp/paratest/pull/1045) on [paratestphp/paratest](https://github.com/paratestphp/paratest) (3 days ago)
-- [Fix asymmetry in startElement() and endElement()](https://github.com/theseer/tokenizer/pull/36) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
