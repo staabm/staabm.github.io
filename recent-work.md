@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update PHPStan to 2.1.32](https://github.com/infection/infection/pull/2577) on [infection/infection](https://github.com/infection/infection) (today)
 - [Don&#39;t loose known offset-types in array_merge()](https://github.com/phpstan/phpstan-src/pull/4554) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Merge branch &#39;11.5&#39; into 12.4](https://github.com/sebastianbergmann/phpunit/pull/6415) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [CI: enable pcntl to un-skip tests](https://github.com/sebastianbergmann/phpunit/pull/6412) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
@@ -54,7 +55,6 @@
 - [Implement TrueTruthyFalseFalseyTypeSpecifierContextMutator](https://github.com/phpstan/build-infection/pull/36) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (3 days ago)
 - [Add `#[CoversNothing]` to classes which test other test-artifacts](https://github.com/phpstan/phpstan-src/pull/4546) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Make AssertSameWithCountRule auto-fixable](https://github.com/phpstan/phpstan-phpunit/pull/259) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
-- [Fix &#34;Unexpected input(s) &#39;extensions&#39;, valid inputs are [&#39;php-version&#39;, &#39;php-extensions&#39;, &#39;build-infection-path&#39;]&#34;](https://github.com/phpstan/phpstan-phpunit/pull/258) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
