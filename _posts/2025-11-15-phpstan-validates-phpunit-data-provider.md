@@ -121,7 +121,8 @@ This new ability was also added to a few `assert*` rules.
 
 ### Summary
 
-I spent a lot of time over a few weeks to make the PHPUnit integration shine. I feel we are on a totally new level and even more new cool stuff is getting possible.
+I spent a lot of time over a few weeks to make the PHPUnit integration shine.
+We are on a totally new level and even more new cool stuff is getting possible.
 
-Make sure your boss considers [sponsoring my open source work](https://github.com/sponsors/staabm), so I can spent more time no your beloved code quality tooling.
+Make sure your boss considers [sponsoring my open source work](https://github.com/sponsors/staabm), so I can spend more time on your beloved code quality tooling.
 
