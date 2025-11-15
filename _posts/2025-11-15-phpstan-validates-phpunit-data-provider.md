@@ -35,6 +35,8 @@ At the time of writing we support multiple kind of data-providers:
 - `yield from []` data-providers
 - named arguments in data-providers
 
+See it in action:
+
 ```php
 	#[DataProvider('aProvider')]
 	public function testTrim(string $expectedResult, string $input): void
