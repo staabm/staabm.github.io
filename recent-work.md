@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [infection/infection](https://github.com/infection/infection) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (4 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [theseer/tokenizer](https://github.com/theseer/tokenizer) (1 week ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 week ago)
 
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Create 2025-11-15-new-and-noteworthy-phpstan-phpunit-integration.md](https://github.com/staabm/staabm.github.io/pull/140) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [chore: Update phpstan/phpstan-phpunit to 2.0.8](https://github.com/infection/infection/pull/2580) on [infection/infection](https://github.com/infection/infection) (today)
 - [Fix StrykerDashboardClientTest not using data-provided data](https://github.com/infection/infection/pull/2579) on [infection/infection](https://github.com/infection/infection) (today)
 - [chore: Update PHPStan to 2.1.32](https://github.com/infection/infection/pull/2577) on [infection/infection](https://github.com/infection/infection) (1 day ago)
@@ -54,7 +55,6 @@
 - [Bump spaze/phpstan-disallowed-calls from 4.6.0 to 4.7.0](https://github.com/FriendsOfREDAXO/rexstan/pull/935) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [Support error identfiers and rawMessage](https://github.com/staabm/phpstan-baseline-analysis/pull/194) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
 - [Use isSuperTypeOf() instead of equals() in Bound check](https://github.com/phpstan/phpstan-src/pull/4549) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Implement TrueTruthyFalseFalseyTypeSpecifierContextMutator](https://github.com/phpstan/build-infection/pull/36) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
