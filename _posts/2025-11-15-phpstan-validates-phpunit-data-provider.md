@@ -118,7 +118,7 @@ There is even more magic under the hood.
 We have a experimental feature in PHPStan which allows us to not just report errors, but also `--fix` some of them.
 This new ability was also added to a few `assert*` rules.
 
-For example, we can turn `$this->assertSame(true, $this->returnBool());` into `$this->assertTrue($this->returnBool());`
+For example, we can turn `$this->assertSame(true, $this->returnBool());` into `$this->assertTrue($this->returnBool());`.
 
 
 ### Summary
