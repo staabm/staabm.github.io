@@ -111,8 +111,8 @@ This release is no difference, as some changes have been done to make most PHPUn
 
 There is even more magic under the hood.
 
-We have a experimental feature in PHPStan which allows us to not just report errors, but also fixes some of them.
-This new ability also added to a few `assert*` rules.
+We have a experimental feature in PHPStan which allows us to not just report errors, but also `--fix` some of them.
+This new ability was also added to a few `assert*` rules.
 
 
 ### Summary
