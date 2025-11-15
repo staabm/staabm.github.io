@@ -98,12 +98,12 @@ This will help to prevent false positive errors you may have experienced in the 
 With the addition of [`PHPUnitVersionDetector`](https://github.com/phpstan/phpstan-phpunit/pull/248)
 we will be able to easily implement rules or extensions tailored to certain PHPUnit versions.
 
-This will be useful in the future, so we can for example assist in PHPUnit upgrades and pave the way for a smoother upgrade path.
+This will be useful in the future, so we can for example assist in PHPUnit migrations and pave the way for a smoother upgrade path.
 
 
 ### Performance improvements
 
-People reading my blog or social media post know my obsession in making things faster.
+People reading my blog or social media posts know [my obsession in making things faster](https://staabm.github.io/archive.html#performance).
 This release is no difference, as some changes have been done to make most PHPUnit specific rules [more efficient by reducing unnecessary work](https://github.com/phpstan/phpstan-phpunit/pull/247).
 
 
