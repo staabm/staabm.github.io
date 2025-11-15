@@ -13,7 +13,7 @@ ogImage:
 
 ### New and noteworthy: PHPStan and PHPUnit integration
 
-In this article we will have a brief look into the latest update to [`phpstan/phpstan-phpunit`](https://github.com/phpstan/phpstan-phpunit).
+In this article we will have a brief look into the latest update to [`phpstan/phpstan-phpunit`](https://github.com/phpstan/phpstan-phpunit) 2.0.8.
 
 ### PHPStan validates PHPUnit data providers
 
