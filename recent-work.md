@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: Update phpstan/phpstan-phpunit to 2.0.8](https://github.com/infection/infection/pull/2580) on [infection/infection](https://github.com/infection/infection) (today)
+- [Fix StrykerDashboardClientTest not using data-provided data](https://github.com/infection/infection/pull/2579) on [infection/infection](https://github.com/infection/infection) (today)
 - [chore: Update PHPStan to 2.1.32](https://github.com/infection/infection/pull/2577) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [Don&#39;t loose known offset-types in array_merge()](https://github.com/phpstan/phpstan-src/pull/4554) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Merge branch &#39;11.5&#39; into 12.4](https://github.com/sebastianbergmann/phpunit/pull/6415) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
@@ -53,8 +55,6 @@
 - [Support error identfiers and rawMessage](https://github.com/staabm/phpstan-baseline-analysis/pull/194) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
 - [Use isSuperTypeOf() instead of equals() in Bound check](https://github.com/phpstan/phpstan-src/pull/4549) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Implement TrueTruthyFalseFalseyTypeSpecifierContextMutator](https://github.com/phpstan/build-infection/pull/36) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (4 days ago)
-- [Add `#[CoversNothing]` to classes which test other test-artifacts](https://github.com/phpstan/phpstan-src/pull/4546) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Make AssertSameWithCountRule auto-fixable](https://github.com/phpstan/phpstan-phpunit/pull/259) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
