@@ -15,14 +15,14 @@ ogImage:
 
 In this article we will have a brief look into the latest update to [`phpstan/phpstan-phpunit`](https://github.com/phpstan/phpstan-phpunit) 2.0.8.
 
-### PHPStan validates PHPUnit data providers
+### PHPStan validates PHPUnit data-providers
 
-One of the features, which I am most proud of is the data provider validation.
+One of the features, which I am most proud of is the data-provider validation.
 It was requested by several people years ago, but we did not yet have a good idea how to make it happen without major changes in the PHPStan core.
 
 Starting with this release, we take each data-set of a data-provider and check it against the signature of the corresponding test-case.
 
-At the time of writing we support multiple kind of data-providers:
+At the time of writing we support multiple kinds of data-providers:
 - `@test`
 - `#[Test]`
 - "test*" method name prefix
