@@ -69,7 +69,7 @@ public function aProvider(): array
 ```
 
 For this to happen we re-use existing rules for method call validation via the newly introduced [`NodeCallbackInvoker`](https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Analyser/NodeCallbackInvoker.php).
-This new interface allows us to create virtual made-up AST nodes, which are handled like regular method calls.
+This new interface allows us to create virtual made-up AST nodes, and handle them like regular method calls.
 
 Related pull requests:
 - [Implement DataProviderDataRule](https://github.com/phpstan/phpstan-phpunit/pull/238)
