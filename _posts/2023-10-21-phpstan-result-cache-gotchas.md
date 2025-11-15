@@ -182,7 +182,7 @@ When using GitHub Actions you should consider using a [cache action](https://git
 - Use a separate result cache per php version, e.g. using `{% raw %}${{ matrix.php-version }}{% endraw %}`
 - Use the `push` GitHub Actions event on the default-branch, to make sure newly created PRs will utilize a fresh cache from the default-branch.
 
-In case you are working with long running branches you may consider using separate `actions/cache/restore@v3` and `actions/cache/save@v3` steps instead, to make sure the result cache [is also persisted on failling jobs](https://github.com/actions/cache/tree/main/save#always-save-cache):
+In case you are working with long running branches you may consider using separate `actions/cache/restore@v3` and `actions/cache/save@v3` steps instead, to make sure the result cache [is also persisted on failing jobs](https://github.com/actions/cache/tree/main/save#always-save-cache):
 
 ```yaml
   - name: "Restore result cache"
