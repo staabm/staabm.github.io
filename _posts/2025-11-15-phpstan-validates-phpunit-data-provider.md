@@ -45,26 +45,26 @@ public function testTrim(string $expectedResult, string $input): void
 
 public function aProvider(): array
 {
-    return [
-        [
-            'Hello World',
-            " Hello World \n",
-        ],
-        [
-            // Parameter #2 $input of method FooTest::testTrim() expects string, int given.
-            'Hello World',
-            123,
-        ],
-        [
-            // Parameter #2 $input of method FooTest::testTrim() expects string, false given.
-            'Hello World',
-            false,
-        ],
-        [
-            // Method FooTest::testTrim() invoked with 1 parameter, 2 required.
-            'Hello World',
-        ],
-    ];
+   return [
+      [
+         'Hello World',
+         " Hello World \n",
+      ],
+      [
+         // Parameter #2 $input of method FooTest::testTrim() expects string, int given.
+         'Hello World',
+         123,
+      ],
+      [
+         // Parameter #2 $input of method FooTest::testTrim() expects string, false given.
+         'Hello World',
+         false,
+      ],
+      [
+         // Method FooTest::testTrim() invoked with 1 parameter, 2 required.
+         'Hello World',
+      ],
+   ];
 }
 ```
 
