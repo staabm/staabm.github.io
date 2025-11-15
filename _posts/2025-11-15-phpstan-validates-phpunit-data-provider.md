@@ -38,34 +38,34 @@ At the time of writing we support multiple kind of data-providers:
 See it in action:
 
 ```php
-	#[DataProvider('aProvider')]
-	public function testTrim(string $expectedResult, string $input): void
-	{
-	}
+#[DataProvider('aProvider')]
+public function testTrim(string $expectedResult, string $input): void
+{
+}
 
-	public function aProvider(): array /** @phpstan-ignore missingType.iterableValue */
-	{
-		return [
-			[
-				'Hello World',
-				" Hello World \n",
-			],
-			[
-			    // Parameter #2 $input of method FooTest::testTrim() expects string, int given.
-				'Hello World',
-				123,
-			],
-			[
-			    // Parameter #2 $input of method FooTest::testTrim() expects string, false given.
-				'Hello World',
-				false,
-			],
-			[
-			    // Method FooTest::testTrim() invoked with 1 parameter, 2 required.
-				'Hello World',
-			],
-		];
-	}
+public function aProvider(): array
+{
+    return [
+        [
+            'Hello World',
+            " Hello World \n",
+        ],
+        [
+            // Parameter #2 $input of method FooTest::testTrim() expects string, int given.
+            'Hello World',
+            123,
+        ],
+        [
+            // Parameter #2 $input of method FooTest::testTrim() expects string, false given.
+            'Hello World',
+            false,
+        ],
+        [
+            // Method FooTest::testTrim() invoked with 1 parameter, 2 required.
+            'Hello World',
+        ],
+    ];
+}
 ```
 
 For this to happen we re-use existing rules for method call validation via the newly introduced [`NodeCallbackInvoker`](https://github.com/phpstan/phpstan-src/blob/2.1.x/src/Analyser/NodeCallbackInvoker.php).
