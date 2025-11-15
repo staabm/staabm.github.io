@@ -91,7 +91,7 @@ We went one step further and re-used the existing validation logic to omit the `
 This is possible by [implementing a new `IgnoreErrorExtension`](https://github.com/phpstan/phpstan-phpunit/pull/246).
 
 
-### Improved `assertArrayHasKey` inference
+### Improved `assertArrayHasKey()` inference
 
 Based on a [fix in the PHPStan core](https://github.com/phpstan/phpstan-src/pull/4473), we are now able to properly narrow types after a call to PHPUnits' `assertArrayHasKey()`.
 This will help to prevent false positive errors you may have experienced in the past.
