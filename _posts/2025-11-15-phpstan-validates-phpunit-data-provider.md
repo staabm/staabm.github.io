@@ -17,7 +17,7 @@ In this article we will have a brief look into the latest update to [`phpstan/ph
 
 ### PHPStan validates PHPUnit data providers
 
-On of the features, which I am most proud of is the data provider validation.
+One of the features, which I am most proud of is the data provider validation.
 It was requested by several people years ago, but we did not yet have a good idea how to make it happen without major changes in the PHPStan core.
 
 Starting with this release, we take each data-set of a data-provider and check it against the signature of the corresponding test-case.
