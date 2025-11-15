@@ -86,7 +86,7 @@ You likely have been haunted by this error in your test-suite:
 Even in the PHPStan-src codebase this error was ignored by NEON config in the past, as it was really not that useful to repeat all types in every data-provider,
 which were already present in the test-case method signatures.
 
-As you already learned in the above paragraph we learned how to validate data-providers with this release.
+As you already saw in the above paragraph we learned how to validate data-providers with this release.
 We went one step further and re-used the existing validation logic to omit the `missingType.iterableValue` error only for those data-providers which we are able to validate.
 This is possible by [implementing a new `IgnoreErrorExtension`](https://github.com/phpstan/phpstan-phpunit/pull/246).
 
