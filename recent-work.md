@@ -4,11 +4,11 @@
 #### 💻 Check out what I'm currently working on
 
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
 - [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
-- [phpstan/build-infection](https://github.com/phpstan/build-infection) (5 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [try infection dev-version](https://github.com/phpstan/build-infection/pull/38) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
 - [fix code example indent](https://github.com/staabm/staabm.github.io/pull/141) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [Create 2025-11-15-new-and-noteworthy-phpstan-phpunit-integration.md](https://github.com/staabm/staabm.github.io/pull/140) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [chore: Update phpstan/phpstan-phpunit to 2.0.8](https://github.com/infection/infection/pull/2580) on [infection/infection](https://github.com/infection/infection) (1 day ago)
@@ -54,7 +55,6 @@
 - [Bump staabm/phpstan-baseline-analysis from 0.13.1 to 0.13.2](https://github.com/FriendsOfREDAXO/rexstan/pull/939) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [Bump phpstan/phpstan-phpunit from 2.0.7 to 2.0.8](https://github.com/FriendsOfREDAXO/rexstan/pull/938) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [Bump spaze/phpstan-disallowed-calls from 4.6.0 to 4.7.0](https://github.com/FriendsOfREDAXO/rexstan/pull/935) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [Support error identifiers and rawMessage](https://github.com/staabm/phpstan-baseline-analysis/pull/194) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
