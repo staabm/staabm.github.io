@@ -3,13 +3,13 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [infection/infection](https://github.com/infection/infection) (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
-- [phpstan/build-infection](https://github.com/phpstan/build-infection) (4 days ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
+- [phpstan/build-infection](https://github.com/phpstan/build-infection) (5 days ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 week ago)
@@ -17,7 +17,7 @@
 
 #### 📜 My recent blog posts
 
-- [New and noteworthy: PHPStan and PHPUnit integration](https://staabm.github.io/2025/11/15/phpstan-validates-phpunit-data-provider.html) (today)
+- [New and noteworthy: PHPStan and PHPUnit integration](https://staabm.github.io/2025/11/15/phpstan-validates-phpunit-data-provider.html) (1 day ago)
 - [Mutation testing with Infection in PHP](https://staabm.github.io/2025/08/01/infection-php-mutation-testing.html) (3 months ago)
 - [PHPStan remembered types from constructor](https://staabm.github.io/2025/04/15/phpstan-remember-constructor-types.html) (7 months ago)
 - [Thank You](https://staabm.github.io/2025/01/24/thank-you.html) (9 months ago)
@@ -40,31 +40,31 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix code example indent](https://github.com/staabm/staabm.github.io/pull/141) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [Create 2025-11-15-new-and-noteworthy-phpstan-phpunit-integration.md](https://github.com/staabm/staabm.github.io/pull/140) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [chore: Update phpstan/phpstan-phpunit to 2.0.8](https://github.com/infection/infection/pull/2580) on [infection/infection](https://github.com/infection/infection) (today)
-- [Fix StrykerDashboardClientTest not using data-provided data](https://github.com/infection/infection/pull/2579) on [infection/infection](https://github.com/infection/infection) (today)
-- [chore: Update PHPStan to 2.1.32](https://github.com/infection/infection/pull/2577) on [infection/infection](https://github.com/infection/infection) (1 day ago)
-- [Don&#39;t loose known offset-types in array_merge()](https://github.com/phpstan/phpstan-src/pull/4554) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Merge branch &#39;11.5&#39; into 12.4](https://github.com/sebastianbergmann/phpunit/pull/6415) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
-- [CI: enable pcntl to un-skip tests](https://github.com/sebastianbergmann/phpunit/pull/6412) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
-- [Report invalid data provider on exceptions](https://github.com/sebastianbergmann/phpunit/pull/6409) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
-- [Remove no longer necessary BC layer](https://github.com/FriendsOfREDAXO/rexstan/pull/941) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [Support PHP 8.4.x/8.5.x](https://github.com/FriendsOfREDAXO/rexstan/pull/940) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [Bump staabm/phpstan-baseline-analysis from 0.13.1 to 0.13.2](https://github.com/FriendsOfREDAXO/rexstan/pull/939) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [Bump phpstan/phpstan-phpunit from 2.0.7 to 2.0.8](https://github.com/FriendsOfREDAXO/rexstan/pull/938) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [Bump spaze/phpstan-disallowed-calls from 4.6.0 to 4.7.0](https://github.com/FriendsOfREDAXO/rexstan/pull/935) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [Support error identifiers and rawMessage](https://github.com/staabm/phpstan-baseline-analysis/pull/194) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (3 days ago)
+- [fix code example indent](https://github.com/staabm/staabm.github.io/pull/141) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [Create 2025-11-15-new-and-noteworthy-phpstan-phpunit-integration.md](https://github.com/staabm/staabm.github.io/pull/140) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [chore: Update phpstan/phpstan-phpunit to 2.0.8](https://github.com/infection/infection/pull/2580) on [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [Fix StrykerDashboardClientTest not using data-provided data](https://github.com/infection/infection/pull/2579) on [infection/infection](https://github.com/infection/infection) (1 day ago)
+- [chore: Update PHPStan to 2.1.32](https://github.com/infection/infection/pull/2577) on [infection/infection](https://github.com/infection/infection) (2 days ago)
+- [Don&#39;t loose known offset-types in array_merge()](https://github.com/phpstan/phpstan-src/pull/4554) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Merge branch &#39;11.5&#39; into 12.4](https://github.com/sebastianbergmann/phpunit/pull/6415) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
+- [CI: enable pcntl to un-skip tests](https://github.com/sebastianbergmann/phpunit/pull/6412) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
+- [Report invalid data provider on exceptions](https://github.com/sebastianbergmann/phpunit/pull/6409) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
+- [Remove no longer necessary BC layer](https://github.com/FriendsOfREDAXO/rexstan/pull/941) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
+- [Support PHP 8.4.x/8.5.x](https://github.com/FriendsOfREDAXO/rexstan/pull/940) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
+- [Bump staabm/phpstan-baseline-analysis from 0.13.1 to 0.13.2](https://github.com/FriendsOfREDAXO/rexstan/pull/939) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
+- [Bump phpstan/phpstan-phpunit from 2.0.7 to 2.0.8](https://github.com/FriendsOfREDAXO/rexstan/pull/938) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
+- [Bump spaze/phpstan-disallowed-calls from 4.6.0 to 4.7.0](https://github.com/FriendsOfREDAXO/rexstan/pull/935) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
+- [Support error identifiers and rawMessage](https://github.com/staabm/phpstan-baseline-analysis/pull/194) on [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [theseer/tokenizer](https://github.com/theseer/tokenizer) - [1.3.0](https://github.com/theseer/tokenizer/releases/tag/1.3.0) (2 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.3) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0-beta1](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0-beta1) (3 days ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.13.2](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.13.2) (3 days ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.8](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.8) (4 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.32](https://github.com/phpstan/phpstan/releases/tag/2.1.32) (4 days ago)
+- [theseer/tokenizer](https://github.com/theseer/tokenizer) - [1.3.0](https://github.com/theseer/tokenizer/releases/tag/1.3.0) (3 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.3) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0-beta1](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0-beta1) (4 days ago)
+- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.13.2](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.13.2) (4 days ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.8](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.8) (5 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.32](https://github.com/phpstan/phpstan/releases/tag/2.1.32) (5 days ago)
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - [5.37.1](https://github.com/pmmp/PocketMine-MP/releases/tag/5.37.1) (1 week ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.89.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.89.2) (1 week ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [13.0.0](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/13.0.0) (1 week ago)
