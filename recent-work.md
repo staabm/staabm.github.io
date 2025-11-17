@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix cs](https://github.com/phpstan/phpstan-src/pull/4562) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix typo in GNSR](https://github.com/phpstan/phpstan-src/pull/4561) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [De-duplicate phpstan.php errors](https://github.com/phpstan/phpstan-src/pull/4560) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [try infection dev-version](https://github.com/phpstan/build-infection/pull/38) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 day ago)
@@ -54,7 +55,6 @@
 - [Report invalid data provider on exceptions](https://github.com/sebastianbergmann/phpunit/pull/6409) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
 - [Remove no longer necessary BC layer](https://github.com/FriendsOfREDAXO/rexstan/pull/941) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [Support PHP 8.4.x/8.5.x](https://github.com/FriendsOfREDAXO/rexstan/pull/940) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
-- [Bump staabm/phpstan-baseline-analysis from 0.13.1 to 0.13.2](https://github.com/FriendsOfREDAXO/rexstan/pull/939) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
