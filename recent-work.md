@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [theseer/tokenizer](https://github.com/theseer/tokenizer) - [1.3.0](https://github.com/theseer/tokenizer/releases/tag/1.3.0) (4 days ago)
+- [theseer/tokenizer](https://github.com/theseer/tokenizer) - [1.3.1](https://github.com/theseer/tokenizer/releases/tag/1.3.1) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.3) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0-beta1](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0-beta1) (5 days ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.13.2](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.13.2) (5 days ago)
