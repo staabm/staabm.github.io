@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 day ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) (2 days ago)
@@ -11,7 +12,6 @@
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (5 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 week ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 week ago)
 
 
