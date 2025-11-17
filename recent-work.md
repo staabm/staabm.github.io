@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix typo in GNSR](https://github.com/phpstan/phpstan-src/pull/4561) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [De-duplicate phpstan.php errors](https://github.com/phpstan/phpstan-src/pull/4560) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [try infection dev-version](https://github.com/phpstan/build-infection/pull/38) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 day ago)
 - [fix code example indent](https://github.com/staabm/staabm.github.io/pull/141) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [Create 2025-11-15-new-and-noteworthy-phpstan-phpunit-integration.md](https://github.com/staabm/staabm.github.io/pull/140) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
@@ -53,8 +55,6 @@
 - [Remove no longer necessary BC layer](https://github.com/FriendsOfREDAXO/rexstan/pull/941) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [Support PHP 8.4.x/8.5.x](https://github.com/FriendsOfREDAXO/rexstan/pull/940) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [Bump staabm/phpstan-baseline-analysis from 0.13.1 to 0.13.2](https://github.com/FriendsOfREDAXO/rexstan/pull/939) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
-- [Bump phpstan/phpstan-phpunit from 2.0.7 to 2.0.8](https://github.com/FriendsOfREDAXO/rexstan/pull/938) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
-- [Bump spaze/phpstan-disallowed-calls from 4.6.0 to 4.7.0](https://github.com/FriendsOfREDAXO/rexstan/pull/935) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
