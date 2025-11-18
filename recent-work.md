@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update theseer/tokenizer to 1.3.1](https://github.com/phpstan/phpstan-src/pull/4565) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [fix cs](https://github.com/phpstan/phpstan-src/pull/4562) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix typo in GNSR](https://github.com/phpstan/phpstan-src/pull/4561) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [De-duplicate phpstan.php errors](https://github.com/phpstan/phpstan-src/pull/4560) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [CI: enable pcntl to un-skip tests](https://github.com/sebastianbergmann/phpunit/pull/6412) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
 - [Report invalid data provider on exceptions](https://github.com/sebastianbergmann/phpunit/pull/6409) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
 - [Remove no longer necessary BC layer](https://github.com/FriendsOfREDAXO/rexstan/pull/941) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
-- [Support PHP 8.4.x/8.5.x](https://github.com/FriendsOfREDAXO/rexstan/pull/940) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
