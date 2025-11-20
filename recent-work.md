@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [build-element will always exists](https://github.com/sebastianbergmann/php-code-coverage/pull/1122) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
 - [Remove unnecessary indirection via dom()-method](https://github.com/sebastianbergmann/php-code-coverage/pull/1121) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
 - [Simplify Xml/File](https://github.com/sebastianbergmann/php-code-coverage/pull/1120) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
 - [Remove getElementsByTagNameNS() for cases which can never find a element](https://github.com/sebastianbergmann/php-code-coverage/pull/1119) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
@@ -54,7 +55,6 @@
 - [Extract xml namespace into global constant](https://github.com/sebastianbergmann/php-code-coverage/pull/1111) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
 - [Update theseer/tokenizer to 1.3.1](https://github.com/phpstan/phpstan-src/pull/4565) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [fix cs](https://github.com/phpstan/phpstan-src/pull/4562) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Fix typo in GNSR](https://github.com/phpstan/phpstan-src/pull/4561) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
