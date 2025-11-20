@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (4 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
@@ -40,6 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Unit: Move always available information into __construct()](https://github.com/sebastianbergmann/php-code-coverage/pull/1115) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
+- [Report: Reduce dependency on DOM](https://github.com/sebastianbergmann/php-code-coverage/pull/1114) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
+- [Project: Reduce dependency on DOM](https://github.com/sebastianbergmann/php-code-coverage/pull/1113) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
+- [Project: Make parent::__construct() call explicit](https://github.com/sebastianbergmann/php-code-coverage/pull/1112) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
 - [Prevent global side-effect in Bug13813IntegrationTest](https://github.com/phpstan/phpstan-src/pull/4566) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Extract xml namespace into global constant](https://github.com/sebastianbergmann/php-code-coverage/pull/1111) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
 - [Update theseer/tokenizer to 1.3.1](https://github.com/phpstan/phpstan-src/pull/4565) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -51,10 +55,6 @@
 - [Create 2025-11-15-new-and-noteworthy-phpstan-phpunit-integration.md](https://github.com/staabm/staabm.github.io/pull/140) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 - [chore: Update phpstan/phpstan-phpunit to 2.0.8](https://github.com/infection/infection/pull/2580) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 - [Fix StrykerDashboardClientTest not using data-provided data](https://github.com/infection/infection/pull/2579) on [infection/infection](https://github.com/infection/infection) (5 days ago)
-- [chore: Update PHPStan to 2.1.32](https://github.com/infection/infection/pull/2577) on [infection/infection](https://github.com/infection/infection) (6 days ago)
-- [Don&#39;t loose known offset-types in array_merge()](https://github.com/phpstan/phpstan-src/pull/4554) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Merge branch &#39;11.5&#39; into 12.4](https://github.com/sebastianbergmann/phpunit/pull/6415) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [CI: enable pcntl to un-skip tests](https://github.com/sebastianbergmann/phpunit/pull/6412) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
