@@ -40,6 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove unnecessary indirection via dom()-method](https://github.com/sebastianbergmann/php-code-coverage/pull/1121) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
+- [Simplify Xml/File](https://github.com/sebastianbergmann/php-code-coverage/pull/1120) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
+- [Remove getElementsByTagNameNS() for cases which can never find a element](https://github.com/sebastianbergmann/php-code-coverage/pull/1119) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
+- [BuildInformation: Move always available information into __construct()](https://github.com/sebastianbergmann/php-code-coverage/pull/1118) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
 - [Node properties are immutable](https://github.com/sebastianbergmann/php-code-coverage/pull/1117) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
 - [Method: Move always available information into __construct()](https://github.com/sebastianbergmann/php-code-coverage/pull/1116) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
 - [Unit: Move always available information into __construct()](https://github.com/sebastianbergmann/php-code-coverage/pull/1115) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
@@ -51,10 +55,6 @@
 - [Update theseer/tokenizer to 1.3.1](https://github.com/phpstan/phpstan-src/pull/4565) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [fix cs](https://github.com/phpstan/phpstan-src/pull/4562) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Fix typo in GNSR](https://github.com/phpstan/phpstan-src/pull/4561) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [De-duplicate phpstan.php errors](https://github.com/phpstan/phpstan-src/pull/4560) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [try infection dev-version](https://github.com/phpstan/build-infection/pull/38) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (4 days ago)
-- [fix code example indent](https://github.com/staabm/staabm.github.io/pull/141) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
-- [Create 2025-11-15-new-and-noteworthy-phpstan-phpunit-integration.md](https://github.com/staabm/staabm.github.io/pull/140) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
