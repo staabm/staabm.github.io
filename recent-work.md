@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
@@ -12,7 +13,6 @@
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
-- [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Trigger reflection processing lazily](https://github.com/thecodingmachine/phpstan-safe-rule/pull/64) on [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (today)
 - [Add XMLSerializer-&gt;appendToWriter()](https://github.com/theseer/tokenizer/pull/38) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (today)
 - [Use explicit Xml-namespace](https://github.com/sebastianbergmann/php-code-coverage/pull/1124) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
 - [Refactor: extract targetFilePath() method](https://github.com/sebastianbergmann/php-code-coverage/pull/1123) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
@@ -54,11 +55,11 @@
 - [Report: Reduce dependency on DOM](https://github.com/sebastianbergmann/php-code-coverage/pull/1114) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
 - [Project: Reduce dependency on DOM](https://github.com/sebastianbergmann/php-code-coverage/pull/1113) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
 - [Project: Make parent::__construct() call explicit](https://github.com/sebastianbergmann/php-code-coverage/pull/1112) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
-- [Prevent global side-effect in Bug13813IntegrationTest](https://github.com/phpstan/phpstan-src/pull/4566) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) - [v1.4.3](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.3) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.4.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.4) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.90.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.90.0) (1 day ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) - [1.3.1](https://github.com/theseer/tokenizer/releases/tag/1.3.1) (4 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.32](https://github.com/phpstan/phpstan/releases/tag/2.1.32) (1 week ago)
 - [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [13.0.0](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/13.0.0) (2 weeks ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.66.0](https://github.com/Roave/BetterReflection/releases/tag/6.66.0) (2 weeks ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.11](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.11) (2 weeks ago)
