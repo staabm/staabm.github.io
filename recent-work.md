@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (5 days ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add XMLSerializer-&gt;appendToWriter()](https://github.com/theseer/tokenizer/pull/38) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (today)
+- [Use explicit Xml-namespace](https://github.com/sebastianbergmann/php-code-coverage/pull/1124) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
 - [Refactor: extract targetFilePath() method](https://github.com/sebastianbergmann/php-code-coverage/pull/1123) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
 - [build-element will always exists](https://github.com/sebastianbergmann/php-code-coverage/pull/1122) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
 - [Remove unnecessary indirection via dom()-method](https://github.com/sebastianbergmann/php-code-coverage/pull/1121) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
@@ -53,15 +55,13 @@
 - [Project: Reduce dependency on DOM](https://github.com/sebastianbergmann/php-code-coverage/pull/1113) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
 - [Project: Make parent::__construct() call explicit](https://github.com/sebastianbergmann/php-code-coverage/pull/1112) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
 - [Prevent global side-effect in Bug13813IntegrationTest](https://github.com/phpstan/phpstan-src/pull/4566) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Extract xml namespace into global constant](https://github.com/sebastianbergmann/php-code-coverage/pull/1111) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 days ago)
-- [Update theseer/tokenizer to 1.3.1](https://github.com/phpstan/phpstan-src/pull/4565) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.4.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.4) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.90.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.90.0) (1 day ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) - [1.3.1](https://github.com/theseer/tokenizer/releases/tag/1.3.1) (4 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.3) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0-beta1](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0-beta1) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.13.2](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.13.2) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.8](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.8) (1 week ago)
