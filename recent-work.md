@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Drop DOM dependency](https://github.com/sebastianbergmann/php-code-coverage/pull/1125) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
 - [XMLWriter: Change setIndent as it expects a boolean](https://github.com/php/doc-en/pull/5011) on [php/doc-en](https://github.com/php/doc-en) (today)
 - [Trigger reflection processing lazily](https://github.com/thecodingmachine/phpstan-safe-rule/pull/64) on [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (1 day ago)
 - [Add XMLSerializer-&gt;appendToWriter()](https://github.com/theseer/tokenizer/pull/38) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (1 day ago)
@@ -54,7 +55,6 @@
 - [Method: Move always available information into __construct()](https://github.com/sebastianbergmann/php-code-coverage/pull/1116) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 days ago)
 - [Unit: Move always available information into __construct()](https://github.com/sebastianbergmann/php-code-coverage/pull/1115) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 days ago)
 - [Report: Reduce dependency on DOM](https://github.com/sebastianbergmann/php-code-coverage/pull/1114) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 days ago)
-- [Project: Reduce dependency on DOM](https://github.com/sebastianbergmann/php-code-coverage/pull/1113) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
