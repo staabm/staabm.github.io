@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nette/tester](https://github.com/nette/tester) - [v2.5.7](https://github.com/nette/tester/releases/tag/v2.5.7) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.3.2](https://github.com/staabm/phpstan-todo-by/releases/tag/0.3.2) (today)
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) - [v1.4.3](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.3) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.4.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.4) (1 day ago)
@@ -68,4 +69,3 @@
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.13.2](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.13.2) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.8](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.8) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.32](https://github.com/phpstan/phpstan/releases/tag/2.1.32) (1 week ago)
-- [easy-coding-standard/easy-coding-standard](https://github.com/easy-coding-standard/easy-coding-standard) - [13.0.0](https://github.com/easy-coding-standard/easy-coding-standard/releases/tag/13.0.0) (2 weeks ago)
