@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [CI: Run on PHP 8.5 / Support sebastian/diff 7.0](https://github.com/ondrejmirtes/php-merge/pull/1) on [ondrejmirtes/php-merge](https://github.com/ondrejmirtes/php-merge) (today)
 - [CI: Cover PHP 8.4/8.5](https://github.com/staabm/phpstan-todo-by/pull/167) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Drop DOM dependency](https://github.com/sebastianbergmann/php-code-coverage/pull/1125) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
 - [XMLWriter: Change setIndent as it expects a boolean](https://github.com/php/doc-en/pull/5011) on [php/doc-en](https://github.com/php/doc-en) (today)
@@ -54,7 +55,6 @@
 - [BuildInformation: Move always available information into __construct()](https://github.com/sebastianbergmann/php-code-coverage/pull/1118) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 days ago)
 - [Node properties are immutable](https://github.com/sebastianbergmann/php-code-coverage/pull/1117) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 days ago)
 - [Method: Move always available information into __construct()](https://github.com/sebastianbergmann/php-code-coverage/pull/1116) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 days ago)
-- [Unit: Move always available information into __construct()](https://github.com/sebastianbergmann/php-code-coverage/pull/1115) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
