@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (2 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 week ago)
 - [infection/infection](https://github.com/infection/infection) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Reduce ContainerFactory::postInitializeContainer() calls](https://github.com/phpstan/phpstan-src/pull/4568) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [CI: Run on PHP 8.5 / Support sebastian/diff 7.0](https://github.com/ondrejmirtes/php-merge/pull/1) on [ondrejmirtes/php-merge](https://github.com/ondrejmirtes/php-merge) (1 day ago)
 - [CI: Cover PHP 8.4/8.5](https://github.com/staabm/phpstan-todo-by/pull/167) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [Drop DOM dependency](https://github.com/sebastianbergmann/php-code-coverage/pull/1125) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
@@ -54,7 +55,6 @@
 - [Remove getElementsByTagNameNS() for cases which can never find a element](https://github.com/sebastianbergmann/php-code-coverage/pull/1119) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (3 days ago)
 - [BuildInformation: Move always available information into __construct()](https://github.com/sebastianbergmann/php-code-coverage/pull/1118) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (3 days ago)
 - [Node properties are immutable](https://github.com/sebastianbergmann/php-code-coverage/pull/1117) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (3 days ago)
-- [Method: Move always available information into __construct()](https://github.com/sebastianbergmann/php-code-coverage/pull/1116) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
