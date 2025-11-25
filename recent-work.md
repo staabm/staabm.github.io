@@ -59,6 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) - [1.8.4](https://github.com/shipmonk-rnd/composer-dependency-analyser/releases/tag/1.8.4) (today)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.20.1](https://github.com/redaxo/redaxo/releases/tag/5.20.1) (today)
 - [nette/tester](https://github.com/nette/tester) - [v2.5.7](https://github.com/nette/tester/releases/tag/v2.5.7) (3 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.3.2](https://github.com/staabm/phpstan-todo-by/releases/tag/0.3.2) (3 days ago)
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) - [v1.4.3](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.3) (4 days ago)
@@ -67,5 +69,3 @@
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) - [1.3.1](https://github.com/theseer/tokenizer/releases/tag/1.3.1) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0-beta1](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0-beta1) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.13.2](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.13.2) (1 week ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.8](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.8) (2 weeks ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.32](https://github.com/phpstan/phpstan/releases/tag/2.1.32) (2 weeks ago)
