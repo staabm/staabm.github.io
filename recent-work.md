@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[PHP 8.5] ini_get(&#34;max_memory_limit&#34;) is a string](https://github.com/phpstan/phpstan-src/pull/4574) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Report memory-usage while coverage report generation](https://github.com/sebastianbergmann/phpunit/pull/6421) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Reduce ContainerFactory::postInitializeContainer() calls](https://github.com/phpstan/phpstan-src/pull/4572) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Reduce ContainerFactory::postInitializeContainer() calls](https://github.com/phpstan/phpstan-src/pull/4568) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [build-element will always exists](https://github.com/sebastianbergmann/php-code-coverage/pull/1122) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (5 days ago)
 - [Remove unnecessary indirection via dom()-method](https://github.com/sebastianbergmann/php-code-coverage/pull/1121) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (5 days ago)
 - [Simplify Xml/File](https://github.com/sebastianbergmann/php-code-coverage/pull/1120) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (5 days ago)
-- [Remove getElementsByTagNameNS() for cases which can never find a element](https://github.com/sebastianbergmann/php-code-coverage/pull/1119) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
