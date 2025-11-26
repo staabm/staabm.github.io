@@ -89,7 +89,7 @@ By removing the DOM interactions I feel we made the implementation more direct a
 
 Another idea which came up was looking into the involved data-structures of PHPUnits' [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) component.
 
-Reworking the implementation which heavily relied on PHP arrays lead us to a [~33% faster data processing](https://github.com/sebastianbergmann/php-code-coverage/pull/1105) for `--path-coverage`.
+Reworking the implementation which heavily relied on PHP arrays lead us to [~33% faster data processing](https://github.com/sebastianbergmann/php-code-coverage/pull/1105) for PHPUnits' `--path-coverage` option.
 Inspiration for this change came from a [GIST by Nikita Popov](https://gist.github.com/nikic/5015323), which I found on github.com.
 It explains in full detail why/when objects use less memory than arrays.
 
