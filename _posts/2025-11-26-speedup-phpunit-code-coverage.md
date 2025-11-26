@@ -15,7 +15,7 @@ ogImage:
 While working on the PHPStan codebase I recently realized we spent a considerable amount of time to generate code-coverage data,
 which we need later on to feed the Infection based mutation testing process.
 
-Running mutation testing in our CI based on GitHub Actions took around ~15m 30s in total.
+Running mutation testing in our CI based on GitHub Actions took around ~15m 30s in total per PHP version we support.
 In this article I will describe how I approached this problem and what we came up with.
 
 
