@@ -5,7 +5,7 @@ tags:
 image: "images/og-images/speedup-phpunit-code-coverage.jpg"
 
 ogImage:
-    title: "Speedup mutation testing with faster PHPUnit code coverage generation"
+    title: "Speedup PHPUnit code coverage generation"
     imageUrl: "https://staabm.github.io/staabm.svg"
     fileName: "speedup-phpunit-code-coverage"
 ---
