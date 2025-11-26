@@ -101,7 +101,7 @@ While refactoring the implementation by introducing more immutable objects and r
 Working on slow processes like code-coverage recording which takes multiple minutes to execute, its vital to take shortcuts which shorten the feedback loop.
 To help myself I hacked into the process a few lines of code which `serialize`d the generated `CodeCoverage` object and stored it as a 998MB `coverage-data.ser`-file.
 
-Using this short script this made it possible to profile the xml report generation alone, without long waiting for the data recording:
+Using this short script made it possible to profile the xml report generation alone, without long waiting for the data recording:
 ```php
 <?php
 
@@ -117,13 +117,14 @@ $writer = new XmlReport(Version::id());
 $writer->process($coverage, $config);
 ```
 
-I put all this data into a [separate git repository](https://github.com/staabm/code-coverage-benchmarks/tree/main/slow-coverage-xml1) to allow re-using it in the future.
+I put all this into a [separate git repository](https://github.com/staabm/code-coverage-benchmarks/tree/main/slow-coverage-xml1) to allow re-using it in the future.
 
 
 ### Summary
 
-I spent a lot of time over a few weeks to make the PHPUnit integration shine.
-We are on a totally new level and even more new cool stuff is getting possible.
+Working thru all this details and codebases made a lot of fun while also taking a lot of time from my freetime.
+In the future a lot of projects will benefit from these changes by updating PHPUnit and related libraries.
+Faster tooling processes will also save costly CI-minute resources and people waiting time.
 
 Make sure your boss considers [sponsoring my open source work](https://github.com/sponsors/staabm), so I can spend more time on your beloved code quality tooling.
 
