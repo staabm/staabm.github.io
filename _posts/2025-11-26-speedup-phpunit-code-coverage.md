@@ -77,8 +77,8 @@ While working on a few micro-optimizations in the underlying libraries I slowly 
 - Utilize PhpToken::tokenize() - requires PHP8+ [theseer/tokenizer#35](https://github.com/theseer/tokenizer/pull/35)
 
 
-After a chat with php-src contributor [Niels Dossche](https://github.com/ndossche) the idea came up that,
-XML report generation could see a big speed boost after untangling the DOM and XMLWriter implementation.
+After a chat with php-src contributor [Niels Dossche](https://github.com/ndossche) the idea came up,
+that XML report generation could see a big speed boost after untangling the DOM and XMLWriter implementation.
 A new [pull request which drops the DOM dependency](https://github.com/sebastianbergmann/php-code-coverage/pull/1125) shows we could reach a ~50% faster report generation.
 While the implementation before this PR was more flexible, I think this flexibility is not worth such a performance penalty.
 By removing the DOM interactions I feel we made the implementation more direct and explicit.
@@ -88,7 +88,7 @@ By removing the DOM interactions I feel we made the implementation more direct a
 Another idea which came up was looking into the involved data-structures of PHPUnits' [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) component.
 
 Reworking the implementation which heavily relied on PHP arrays lead us to a [~33% faster data processing](https://github.com/sebastianbergmann/php-code-coverage/pull/1105) for `--path-coverage`.
-Inspiration for this change came from [GIST by Nikita Popov](https://gist.github.com/nikic/5015323), which I found on github.com.
+Inspiration for this change came from a [GIST by Nikita Popov](https://gist.github.com/nikic/5015323), which I found on github.com.
 It explains in full detail why/when objects use less memory than arrays.
 
 While refactoring the implementation by introducing more immutable objects and reducing unnecessary duplicate work I squeezed out a bit more performance:
@@ -99,7 +99,7 @@ While refactoring the implementation by introducing more immutable objects and r
 ### Taking shortcuts
 
 Working on slow processes like code-coverage recording which takes multiple minutes to execute, its vital to take shortcuts which shorten the feedback loop.
-To help myself I hacked into the process a few lines of code which `serialize`d the generated `CodeCoverage` object and stored it as a 998MB file.
+To assist myself I hacked into the process a few lines of code which `serialize`d the generated `CodeCoverage` object and stored it as a 998MB file.
 
 Using this short script made it possible to profile the xml report generation alone, without long waiting for the data recording:
 ```php
@@ -122,7 +122,7 @@ I put all this into a [separate git repository](https://github.com/staabm/code-c
 
 ### Summary
 
-Working thru all this details and codebases made a lot of fun while also taking a lot of time from my freetime.
+Working thru all this details and codebases made a lot of fun while also taking a lot of my freetime.
 In the future a lot of projects will benefit from these changes by updating PHPUnit and related libraries.
 Faster tooling processes will also save costly CI-minute resources and people waiting time.
 
