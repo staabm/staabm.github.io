@@ -21,7 +21,7 @@ In this article I will describe how I approached this problem and what we came u
 
 ### Getting a better idea what is slow
 
-As a very first step I tried to divide the big blog of work into smaller parts, to get a better understanding which part actually is slow.
+As a very first step I tried to divide the big block of work into smaller parts, to get a better understanding which part actually is slow.
 Therefore, separating Infections' preparational initial-tests step from the actual mutation testing was my first idea.
 This can be achieved by running infection with [`--skip-initial-tests`](https://infection.github.io/guide/command-line-options.html) and record the coverage data beforehand in a separate step.
 The resulting GitHub Actions steps for this look like:
@@ -56,7 +56,7 @@ also note, that we are using `paratest` - which we use for running tests in phps
 before this change, when infection itself triggered the initial test step, this work was done on a single process only.
 
 This leads us to the following results:
-- the total amount of time required to run this 2 steps is dropped to ~12m 30s
+- the total amount of time required to run this dropped to ~12m 30s
 - coverage generation takes ~6m 10s
 - from looking at the `paratest` output, we see `Generating code coverage report in PHPUnit XML format ... done [01:00.714]`
 - running infection takes ~6m 20s
@@ -67,7 +67,7 @@ I was pretty surprised that the xml report generation takes 1 minute alone.
 ### Speedup code coverage xml report generation
 
 Looking into blackfire profiles of this xml generation process yielded some interesting insight.
-While working on a few micro-optimizations in der underlying libraries I slowly started to better understand how all this works.
+While working on a few micro-optimizations in the underlying libraries I slowly started to better understand how all this works.
 
 - Faster coverage-xml report [sebastianbergmann/php-code-coverage#1102](https://github.com/sebastianbergmann/php-code-coverage/pull/1102)
 - Simplify XMLSerializer [theseer/tokenizer#24](https://github.com/theseer/tokenizer/pull/24)
@@ -80,12 +80,16 @@ While working on a few micro-optimizations in der underlying libraries I slowly 
 After a chat with php-src contributor [Niels Dossche](https://github.com/ndossche) the idea came up that,
 XML report generation could see a big speed boost after untangling the DOM and XMLWriter implementation.
 A new [pull request which drops the DOM dependency](https://github.com/sebastianbergmann/php-code-coverage/pull/1125) shows we could reach a ~50% faster report generation.
-
+While the implementation before this PR was more flexible, I think this flexibility is not worth such a performance penality.
+By removing the DOM interactions I feel we made the implementation more direct and explicit.
 
 ### Faster code coverage data processing
 
 Another idea which came up was looking into the involved data-structures of PHPUnits' [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) component.
-Reworking the implementation which heavily relied on PHP arrays lead us to a [~33% faster data processing](https://github.com/sebastianbergmann/php-code-coverage/pull/1105) for `--path-coverage` reports.
+
+Reworking the implementation which heavily relied on PHP arrays lead us to a [~33% faster data processing](https://github.com/sebastianbergmann/php-code-coverage/pull/1105) for `--path-coverage`.
+Inspiration for this change came from [GIST by Nikita Popov](https://gist.github.com/nikic/5015323), which I found on github.com.
+It explains in full detail why/when objects use less memory than arrays.
 
 While refactoring the implementation by introducing more immutable objects and reducing unnecessary duplicate work squeezed out a bit more performance:
 - Prevent sorting coverage-data over and over in [sebastianbergmann/php-code-coverage#1107](https://github.com/sebastianbergmann/php-code-coverage/pull/1107) and [sebastianbergmann/php-code-coverage#1108](https://github.com/sebastianbergmann/php-code-coverage/pull/1108)
