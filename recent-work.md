@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.16.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.16.0) (today)
 - [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) - [1.8.4](https://github.com/shipmonk-rnd/composer-dependency-analyser/releases/tag/1.8.4) (1 day ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.20.1](https://github.com/redaxo/redaxo/releases/tag/5.20.1) (1 day ago)
 - [nette/tester](https://github.com/nette/tester) - [v2.5.7](https://github.com/nette/tester/releases/tag/v2.5.7) (4 days ago)
@@ -68,4 +69,3 @@
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.90.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.90.0) (6 days ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) - [1.3.1](https://github.com/theseer/tokenizer/releases/tag/1.3.1) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0-beta1](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0-beta1) (2 weeks ago)
-- [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - [0.13.2](https://github.com/staabm/phpstan-baseline-analysis/releases/tag/0.13.2) (2 weeks ago)
