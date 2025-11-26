@@ -124,6 +124,11 @@ I put all this into a [separate git repository](https://github.com/staabm/code-c
 ### Summary
 
 Working thru all this details and codebases made a lot of fun while also taking a lot of my freetime.
+
+At this point I want to emphasize how important it is to separate the public API of a library/tool/component from the inner workings.
+Sebastian Bergmann and Arne Blankerts did a great job in the repositories I worked on in this context by declaring classes `@internal`,
+so we could easily even do backwards incompatible changes, as long as the public API is untouched.
+
 In the future a lot of projects will benefit from these changes by updating PHPUnit and related libraries.
 Faster tooling processes will also save costly CI-minute resources and people waiting time.
 
