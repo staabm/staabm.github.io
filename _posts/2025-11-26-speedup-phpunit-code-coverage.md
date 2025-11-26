@@ -27,27 +27,27 @@ This can be achieved by running infection with [`--skip-initial-tests`](https://
 The resulting GitHub Actions steps for this look like:
 
 ```
-      # see https://infection.github.io/guide/command-line-options.html#coverage
-      - name: "Create coverage in parallel"
-        run: |
-          php -d pcov.enabled=1 tests/vendor/bin/paratest \
-            --passthru-php="'-d' 'pcov.enabled=1'" \
-            --coverage-xml=tmp/coverage/coverage-xml --log-junit=tmp/coverage/junit.xml
+# see https://infection.github.io/guide/command-line-options.html#coverage
+- name: "Create coverage in parallel"
+run: |
+  php -d pcov.enabled=1 tests/vendor/bin/paratest \
+    --passthru-php="'-d' 'pcov.enabled=1'" \
+    --coverage-xml=tmp/coverage/coverage-xml --log-junit=tmp/coverage/junit.xml
 
-      - name: "Run infection"
-        run: |
-          git fetch --depth=1 origin ${{ steps.default-branch.outputs.name }}
-          infection \
-            --git-diff-base=origin/${{ steps.default-branch.outputs.name }} \
-            --git-diff-lines \
-            --coverage=tmp/coverage \
-            --skip-initial-tests \
-            --ignore-msi-with-no-mutations \
-            --min-msi=100 \
-            --min-covered-msi=100 \
-            --log-verbosity=all \
-            --debug \
-            --logger-text=php://stdout
+- name: "Run infection"
+run: |
+  git fetch --depth=1 origin ${{ steps.default-branch.outputs.name }}
+  infection \
+    --git-diff-base=origin/${{ steps.default-branch.outputs.name }} \
+    --git-diff-lines \
+    --coverage=tmp/coverage \
+    --skip-initial-tests \
+    --ignore-msi-with-no-mutations \
+    --min-msi=100 \
+    --min-covered-msi=100 \
+    --log-verbosity=all \
+    --debug \
+    --logger-text=php://stdout
 ```
 
 note, that we are using `pcov` over `xdebug` to record coverage information, as in our case this was the [considerably faster option](https://github.com/phpstan/phpstan-src/pull/4565#issuecomment-3545713472).
