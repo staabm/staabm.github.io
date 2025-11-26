@@ -91,7 +91,7 @@ Reworking the implementation which heavily relied on PHP arrays lead us to a [~3
 Inspiration for this change came from [GIST by Nikita Popov](https://gist.github.com/nikic/5015323), which I found on github.com.
 It explains in full detail why/when objects use less memory than arrays.
 
-While refactoring the implementation by introducing more immutable objects and reducing unnecessary duplicate work squeezed out a bit more performance:
+While refactoring the implementation by introducing more immutable objects and reducing unnecessary duplicate work I squeezed out a bit more performance:
 - Prevent sorting coverage-data over and over in [sebastianbergmann/php-code-coverage#1107](https://github.com/sebastianbergmann/php-code-coverage/pull/1107) and [sebastianbergmann/php-code-coverage#1108](https://github.com/sebastianbergmann/php-code-coverage/pull/1108)
 - Node properties are immutable [sebastianbergmann/php-code-coverage#1117](https://github.com/sebastianbergmann/php-code-coverage/pull/1117)
 
@@ -118,7 +118,6 @@ $writer->process($coverage, $config);
 ```
 
 I put all this data into a [separate git repository](https://github.com/staabm/code-coverage-benchmarks/tree/main/slow-coverage-xml1) to allow re-using it in the future.
-
 
 
 ### Summary
