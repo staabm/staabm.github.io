@@ -102,7 +102,7 @@ While refactoring the implementation by introducing more immutable objects and r
 Working on slow processes like code-coverage recording which takes multiple minutes to execute, its vital to take shortcuts which shorten the feedback loop.
 To assist myself I hacked into the process a few lines of code which `serialize`d the generated `CodeCoverage` object and stored it as a 998MB file.
 
-Using this short script made it possible to profile the xml report generation alone, without long waiting for the data recording:
+Using the pre-recorded data and the following short script made it possible to profile the xml report generation alone, without long waiting for the data recording:
 ```php
 <?php
 
