@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (5 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (5 days ago)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 week ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [infection/infection](https://github.com/infection/infection) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Create 2025-11-26-speedup-phpunit-code-coverage.md](https://github.com/staabm/staabm.github.io/pull/143) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [Cache files in OptimizedDirectorySourceLocatorFactory](https://github.com/phpstan/phpstan-src/pull/4577) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Enable FileCacheStorage for OptimizedDirectorySourceLocatorFactory in tests](https://github.com/phpstan/phpstan-src/pull/4576) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [[PHP 8.5] ini_get(&#34;max_memory_limit&#34;) is a string](https://github.com/phpstan/phpstan-src/pull/4574) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Add XMLSerializer-&gt;appendToWriter()](https://github.com/theseer/tokenizer/pull/38) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (5 days ago)
 - [Use explicit Xml-namespace](https://github.com/sebastianbergmann/php-code-coverage/pull/1124) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (5 days ago)
 - [Refactor: extract targetFilePath() method](https://github.com/sebastianbergmann/php-code-coverage/pull/1123) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (5 days ago)
-- [build-element will always exists](https://github.com/sebastianbergmann/php-code-coverage/pull/1122) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
