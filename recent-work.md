@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Cache files in OptimizedDirectorySourceLocatorFactory](https://github.com/phpstan/phpstan-src/pull/4577) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Enable FileCacheStorage for OptimizedDirectorySourceLocatorFactory in tests](https://github.com/phpstan/phpstan-src/pull/4576) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [[PHP 8.5] ini_get(&#34;max_memory_limit&#34;) is a string](https://github.com/phpstan/phpstan-src/pull/4574) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Report memory-usage while coverage report generation](https://github.com/sebastianbergmann/phpunit/pull/6421) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Reduce ContainerFactory::postInitializeContainer() calls](https://github.com/phpstan/phpstan-src/pull/4572) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -53,8 +55,6 @@
 - [Use explicit Xml-namespace](https://github.com/sebastianbergmann/php-code-coverage/pull/1124) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (5 days ago)
 - [Refactor: extract targetFilePath() method](https://github.com/sebastianbergmann/php-code-coverage/pull/1123) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (5 days ago)
 - [build-element will always exists](https://github.com/sebastianbergmann/php-code-coverage/pull/1122) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (6 days ago)
-- [Remove unnecessary indirection via dom()-method](https://github.com/sebastianbergmann/php-code-coverage/pull/1121) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (6 days ago)
-- [Simplify Xml/File](https://github.com/sebastianbergmann/php-code-coverage/pull/1120) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
