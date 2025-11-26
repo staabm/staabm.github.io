@@ -80,7 +80,7 @@ While working on a few micro-optimizations in the underlying libraries I slowly 
 After a chat with php-src contributor [Niels Dossche](https://github.com/ndossche) the idea came up that,
 XML report generation could see a big speed boost after untangling the DOM and XMLWriter implementation.
 A new [pull request which drops the DOM dependency](https://github.com/sebastianbergmann/php-code-coverage/pull/1125) shows we could reach a ~50% faster report generation.
-While the implementation before this PR was more flexible, I think this flexibility is not worth such a performance penality.
+While the implementation before this PR was more flexible, I think this flexibility is not worth such a performance penalty.
 By removing the DOM interactions I feel we made the implementation more direct and explicit.
 
 ### Faster code coverage data processing
@@ -99,7 +99,7 @@ While refactoring the implementation by introducing more immutable objects and r
 ### Taking shortcuts
 
 Working on slow processes like code-coverage recording which takes multiple minutes to execute, its vital to take shortcuts which shorten the feedback loop.
-To help myself I hacked into the process a few lines of code which `serialize`d the generated `CodeCoverage` object and stored it as a 998MB `coverage-data.ser`-file.
+To help myself I hacked into the process a few lines of code which `serialize`d the generated `CodeCoverage` object and stored it as a 998MB file.
 
 Using this short script made it possible to profile the xml report generation alone, without long waiting for the data recording:
 ```php
