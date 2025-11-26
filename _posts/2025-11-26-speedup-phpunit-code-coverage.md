@@ -1,6 +1,8 @@
 ---
 tags:
+    - PHPStan
     - PHPUnit
+    - Mutation Testing
 
 image: "images/og-images/speedup-phpunit-code-coverage.jpg"
 
@@ -10,7 +12,7 @@ ogImage:
     fileName: "speedup-phpunit-code-coverage"
 ---
 
-### Speedup mutation testing with faster PHPUnit code coverage generation
+### Speedup PHPUnit code coverage generation
 
 While working on the PHPStan codebase I recently realized we spent a considerable amount of time to generate code-coverage data,
 which we need later on to feed the Infection based mutation testing process.
