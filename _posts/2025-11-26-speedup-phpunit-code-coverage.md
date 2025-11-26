@@ -63,10 +63,9 @@ This leads us to the following results:
 - from looking at the `paratest` output, we see `Generating code coverage report in PHPUnit XML format ... done [01:00.714]`
 - running infection takes ~6m 20s
 
-I was pretty surprised that the xml report generation takes 1 minute alone.
-
-
 ### Speedup code coverage xml report generation
+
+I was pretty surprised that the xml report generation takes 1 minute alone.
 
 Looking into blackfire profiles of this xml generation process yielded some interesting insight.
 While working on a few micro-optimizations in the underlying libraries I slowly started to better understand how all this works.
