@@ -49,7 +49,7 @@
 - [Reduce ContainerFactory::postInitializeContainer() calls](https://github.com/phpstan/phpstan-src/pull/4568) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [CI: Run on PHP 8.5 / Support sebastian/diff 7.0](https://github.com/ondrejmirtes/php-merge/pull/1) on [ondrejmirtes/php-merge](https://github.com/ondrejmirtes/php-merge) (5 days ago)
 - [CI: Cover PHP 8.4/8.5](https://github.com/staabm/phpstan-todo-by/pull/167) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (5 days ago)
-- [Drop DOM dependency](https://github.com/sebastianbergmann/php-code-coverage/pull/1125) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (5 days ago)
+- [Drop DOM dependency in XML Report](https://github.com/sebastianbergmann/php-code-coverage/pull/1125) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (5 days ago)
 - [XMLWriter: Change setIndent as it expects a boolean](https://github.com/php/doc-en/pull/5011) on [php/doc-en](https://github.com/php/doc-en) (5 days ago)
 - [Trigger reflection processing lazily](https://github.com/thecodingmachine/phpstan-safe-rule/pull/64) on [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (6 days ago)
 - [Add XMLSerializer-&gt;appendToWriter()](https://github.com/theseer/tokenizer/pull/38) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (6 days ago)
