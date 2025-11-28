@@ -17,7 +17,7 @@ ogImage:
 While working on the PHPStan codebase I recently realized we spent a considerable amount of time to generate code-coverage data,
 which we need later on to feed the Infection based [mutation testing process](https://staabm.github.io/2025/08/01/infection-php-mutation-testing.html).
 
-Running mutation testing in our continous integration pipeline based on GitHub Actions took around ~15m 30s in total per PHP version we support.
+Running mutation testing in our continuous integration pipeline based on GitHub Actions took around ~15m 30s in total per PHP version we support.
 In this article I will describe how I approached this problem and what we came up with.
 
 Most of the following ideas and optimizations will also fit for other PHPUnit code coverage use cases.
