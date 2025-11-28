@@ -26,7 +26,7 @@ Most of the following ideas and optimizations will also fit for other PHPUnit co
 ## Getting a better idea of what is slow
 
 As a very first step I tried to divide the big block of work into smaller parts, to get a better understanding which part actually is slow.
-Therefore, separating Infections' preparational initial-tests step from the actual mutation testing was my first idea.
+Therefore, separating Infections' preparational initial-tests step from the actual mutation testing was my first take.
 This can be achieved by running infection with [`--skip-initial-tests`](https://infection.github.io/guide/command-line-options.html) and record the coverage data beforehand in a separate step.
 The resulting GitHub Actions steps for this look like:
 
