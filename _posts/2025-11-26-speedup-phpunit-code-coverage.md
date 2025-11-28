@@ -23,7 +23,7 @@ In this article I will describe how I approached this problem and what we came u
 Most of the following ideas and optimizations will also fit for other PHPUnit code coverage use cases.
 
 
-## Getting a better idea what is slow
+## Getting a better idea of what is slow
 
 As a very first step I tried to divide the big block of work into smaller parts, to get a better understanding which part actually is slow.
 Therefore, separating Infections' preparational initial-tests step from the actual mutation testing was my first idea.
