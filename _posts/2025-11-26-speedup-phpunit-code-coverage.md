@@ -105,7 +105,7 @@ While refactoring the implementation by introducing more immutable objects and r
 Sebastian came up with the [suggestion of removing the `<source>`-element](https://github.com/sebastianbergmann/php-code-coverage/pull/1125#issuecomment-3582440397) from the xml coverage report via opt-in flag.
 
 After playing with the idea it seems this information is not required by Infection, so he added a new [`--exclude-source-from-xml-coverage` CLI option](https://github.com/sebastianbergmann/phpunit/issues/6422)
-which will be [used by Infection to speedup the coverage generation](https://github.com/infection/infection/pull/2604) when PHPUnit 12.5+ is used.
+which will be [automatically enabled by Infection to speedup the coverage generation](https://github.com/infection/infection/pull/2604) when PHPUnit 12.5+ is used.
 
 A test on the PHPStan codebase shows, this can [speedup the xml coverage report generation by ~15%](https://github.com/sebastianbergmann/php-code-coverage/pull/1125#issuecomment-3584453120).
 
