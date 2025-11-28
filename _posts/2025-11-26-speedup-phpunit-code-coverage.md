@@ -135,7 +135,7 @@ $writer->process($coverage, $config);
 I put all this into a [separate git repository](https://github.com/staabm/code-coverage-benchmarks/tree/main/slow-coverage-xml1) to allow re-using it in the future.
 
 
-### Summary
+## Summary
 
 Working thru all this details and codebases made a lot of fun while also taking a lot of my freetime.
 
