@@ -12,7 +12,7 @@ ogImage:
     fileName: "speedup-phpunit-code-coverage"
 ---
 
-### Speedup PHPUnit code coverage generation
+## Speedup PHPUnit code coverage generation
 
 While working on the PHPStan codebase I recently realized we spent a considerable amount of time to generate code-coverage data,
 which we need later on to feed the Infection based [mutation testing process](https://staabm.github.io/2025/08/01/infection-php-mutation-testing.html).
@@ -22,7 +22,8 @@ In this article I will describe how I approached this problem and what we came u
 
 Most of the following ideas and optimizations will also fit for other PHPUnit code coverage use cases.
 
-### Getting a better idea what is slow
+
+## Getting a better idea what is slow
 
 As a very first step I tried to divide the big block of work into smaller parts, to get a better understanding which part actually is slow.
 Therefore, separating Infections' preparational initial-tests step from the actual mutation testing was my first idea.
@@ -64,7 +65,8 @@ This leads us to the following results:
 - from looking at the `paratest` output, we see `Generating code coverage report in PHPUnit XML format ... done [01:00.714]`
 - running infection takes ~6m 20s
 
-### Speedup code coverage xml report generation
+
+## Speedup code coverage xml report generation
 
 I was pretty surprised that the xml report generation takes 1 minute alone.
 
@@ -85,7 +87,7 @@ A new [pull request which drops the DOM dependency](https://github.com/sebastian
 While the implementation before this PR was more flexible, I think this flexibility is not worth such a performance penalty.
 By removing the DOM interactions I feel we made the implementation more direct and explicit.
 
-### Faster code coverage data processing
+## Faster code coverage data processing
 
 Another idea which came up was looking into the involved data-structures of PHPUnits' [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) component.
 
@@ -98,7 +100,18 @@ While refactoring the implementation by introducing more immutable objects and r
 - Node properties are immutable [sebastianbergmann/php-code-coverage#1117](https://github.com/sebastianbergmann/php-code-coverage/pull/1117)
 
 
-### Taking shortcuts
+## Prevent unnecessary work
+
+Sebastian came up with the [idea of removing the `<source>`-elemnt](https://github.com/sebastianbergmann/php-code-coverage/pull/1125#issuecomment-3582440397) from the xml coverage report via opt-in flag.
+
+After playing with the idea it seems this information is not required by Infection, so he added a new [`--exclude-source-from-xml-coverage` CLI option](https://github.com/sebastianbergmann/phpunit/issues/6422)
+which will be [used by Infection to speedup the coverage generation](https://github.com/infection/infection/pull/2604) when PHPUnit 12.5+ is used.
+
+A test on the PHPStan codebase shows, this can [speedup the xml coverage report generation by ~15%](https://github.com/sebastianbergmann/php-code-coverage/pull/1125#issuecomment-3584453120).
+
+
+
+## Taking shortcuts
 
 Working on slow processes like code-coverage recording which takes multiple minutes to execute, its vital to take shortcuts which shorten the feedback loop.
 To assist myself I hacked into the process a few lines of code which `serialize`d the generated `CodeCoverage` object and stored it as a 998MB file.
