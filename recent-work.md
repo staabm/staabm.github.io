@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor `PhpUnitAdapterTest` to ease testing of PHPUnit version dependent behaviour](https://github.com/infection/infection/pull/2607) on [infection/infection](https://github.com/infection/infection) (today)
 - [Enable `failOnDeprecation=&#34;true&#34;` in PHPUnit configuration](https://github.com/infection/infection/pull/2606) on [infection/infection](https://github.com/infection/infection) (today)
 - [Prevent use of deprecated PHPUnit `$this-&gt;isType(&#39;string&#39;)`](https://github.com/infection/infection/pull/2605) on [infection/infection](https://github.com/infection/infection) (today)
 - [Support `--exclude-source-from-xml-coverage` fast path for PHPUnit 12.5&#43;](https://github.com/infection/infection/pull/2604) on [infection/infection](https://github.com/infection/infection) (today)
@@ -54,7 +55,6 @@
 - [CI: Cover PHP 8.4/8.5](https://github.com/staabm/phpstan-todo-by/pull/167) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (6 days ago)
 - [Drop DOM dependency in XML Report](https://github.com/sebastianbergmann/php-code-coverage/pull/1125) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (6 days ago)
 - [XMLWriter: Change setIndent as it expects a boolean](https://github.com/php/doc-en/pull/5011) on [php/doc-en](https://github.com/php/doc-en) (6 days ago)
-- [Trigger reflection processing lazily](https://github.com/thecodingmachine/phpstan-safe-rule/pull/64) on [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
