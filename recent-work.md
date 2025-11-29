@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement BinaryModHandler](https://github.com/phpstan/phpstan-src/pull/4587) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Implement BitwiseAndHandler](https://github.com/phpstan/phpstan-src/pull/4586) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Implement BinaryConcatHandler](https://github.com/phpstan/phpstan-src/pull/4585) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement BinaryDivHandler](https://github.com/phpstan/phpstan-src/pull/4584) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement BinaryMulHandler](https://github.com/phpstan/phpstan-src/pull/4583) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement BinaryMinusHandler](https://github.com/phpstan/phpstan-src/pull/4582) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -52,9 +55,6 @@
 - [Cache files in OptimizedDirectorySourceLocatorFactory](https://github.com/phpstan/phpstan-src/pull/4577) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Enable FileCacheStorage for OptimizedDirectorySourceLocatorFactory in tests](https://github.com/phpstan/phpstan-src/pull/4576) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [[PHP 8.5] ini_get(&#34;max_memory_limit&#34;) is a string](https://github.com/phpstan/phpstan-src/pull/4574) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Report memory-usage while coverage report generation](https://github.com/sebastianbergmann/phpunit/pull/6421) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
-- [Reduce ContainerFactory::postInitializeContainer() calls](https://github.com/phpstan/phpstan-src/pull/4572) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Reduce ContainerFactory::postInitializeContainer() calls](https://github.com/phpstan/phpstan-src/pull/4568) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
