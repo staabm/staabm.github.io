@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix &#34;Array does not have offset&#34; in curl_setopt_array()](https://github.com/phpstan/phpstan-src/pull/4590) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Implement BitwiseOrHandler](https://github.com/phpstan/phpstan-src/pull/4589) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Implement BinaryPowHandler](https://github.com/phpstan/phpstan-src/pull/4588) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement BinaryModHandler](https://github.com/phpstan/phpstan-src/pull/4587) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement BitwiseAndHandler](https://github.com/phpstan/phpstan-src/pull/4586) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement BinaryConcatHandler](https://github.com/phpstan/phpstan-src/pull/4585) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -52,9 +55,6 @@
 - [Prevent use of deprecated PHPUnit `$this-&gt;isType(&#39;string&#39;)`](https://github.com/infection/infection/pull/2605) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [Support `--exclude-source-from-xml-coverage` fast path for PHPUnit 12.5&#43;](https://github.com/infection/infection/pull/2604) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [Create 2025-11-26-speedup-phpunit-code-coverage.md](https://github.com/staabm/staabm.github.io/pull/143) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
-- [Cache files in OptimizedDirectorySourceLocatorFactory](https://github.com/phpstan/phpstan-src/pull/4577) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Enable FileCacheStorage for OptimizedDirectorySourceLocatorFactory in tests](https://github.com/phpstan/phpstan-src/pull/4576) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [[PHP 8.5] ini_get(&#34;max_memory_limit&#34;) is a string](https://github.com/phpstan/phpstan-src/pull/4574) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
