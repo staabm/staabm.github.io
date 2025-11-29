@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.5.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.5.0) (today)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.17.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.17.0) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.91.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.91.0) (1 day ago)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v1.1.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v1.1.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.3.2](https://github.com/staabm/phpstan-todo-by/releases/tag/0.3.2) (1 week ago)
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) - [v1.4.3](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.3) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.4.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.4) (1 week ago)
-- [theseer/tokenizer](https://github.com/theseer/tokenizer) - [1.3.1](https://github.com/theseer/tokenizer/releases/tag/1.3.1) (1 week ago)
