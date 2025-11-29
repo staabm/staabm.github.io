@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 week ago)
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement BinaryDivHandler](https://github.com/phpstan/phpstan-src/pull/4584) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Implement BinaryMulHandler](https://github.com/phpstan/phpstan-src/pull/4583) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Implement BinaryMinusHandler](https://github.com/phpstan/phpstan-src/pull/4582) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Build: Allow PHPUnit 12.x](https://github.com/infection/infection/pull/2609) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [Refactor `PhpUnitAdapterTest` to ease testing of PHPUnit version dependent behaviour](https://github.com/infection/infection/pull/2607) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [Enable `failOnDeprecation=&#34;true&#34;` in PHPUnit configuration](https://github.com/infection/infection/pull/2606) on [infection/infection](https://github.com/infection/infection) (1 day ago)
@@ -52,9 +55,6 @@
 - [Report memory-usage while coverage report generation](https://github.com/sebastianbergmann/phpunit/pull/6421) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [Reduce ContainerFactory::postInitializeContainer() calls](https://github.com/phpstan/phpstan-src/pull/4572) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Reduce ContainerFactory::postInitializeContainer() calls](https://github.com/phpstan/phpstan-src/pull/4568) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [CI: Run on PHP 8.5 / Support sebastian/diff 7.0](https://github.com/ondrejmirtes/php-merge/pull/1) on [ondrejmirtes/php-merge](https://github.com/ondrejmirtes/php-merge) (1 week ago)
-- [CI: Cover PHP 8.4/8.5](https://github.com/staabm/phpstan-todo-by/pull/167) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
-- [Drop DOM dependency in XML Report](https://github.com/sebastianbergmann/php-code-coverage/pull/1125) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
