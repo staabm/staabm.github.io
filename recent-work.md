@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement BitwiseNotHandler](https://github.com/phpstan/phpstan-src/pull/4592) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Implement BitwiseXorHandler](https://github.com/phpstan/phpstan-src/pull/4591) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix &#34;Array does not have offset&#34; in curl_setopt_array()](https://github.com/phpstan/phpstan-src/pull/4590) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Implement BitwiseOrHandler](https://github.com/phpstan/phpstan-src/pull/4589) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Implement BinaryPowHandler](https://github.com/phpstan/phpstan-src/pull/4588) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Refactor `PhpUnitAdapterTest` to ease testing of PHPUnit version dependent behaviour](https://github.com/infection/infection/pull/2607) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [Enable `failOnDeprecation=&#34;true&#34;` in PHPUnit configuration](https://github.com/infection/infection/pull/2606) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [Prevent use of deprecated PHPUnit `$this-&gt;isType(&#39;string&#39;)`](https://github.com/infection/infection/pull/2605) on [infection/infection](https://github.com/infection/infection) (2 days ago)
-- [Support `--exclude-source-from-xml-coverage` fast path for PHPUnit 12.5&#43;](https://github.com/infection/infection/pull/2604) on [infection/infection](https://github.com/infection/infection) (2 days ago)
-- [Create 2025-11-26-speedup-phpunit-code-coverage.md](https://github.com/staabm/staabm.github.io/pull/143) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
