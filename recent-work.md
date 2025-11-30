@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement SpaceshipHandler](https://github.com/phpstan/phpstan-src/pull/4594) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Implement BinaryShiftLeftHandler, BinaryShiftRightHandler](https://github.com/phpstan/phpstan-src/pull/4593) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement BitwiseNotHandler](https://github.com/phpstan/phpstan-src/pull/4592) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement BitwiseXorHandler](https://github.com/phpstan/phpstan-src/pull/4591) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix &#34;Array does not have offset&#34; in curl_setopt_array()](https://github.com/phpstan/phpstan-src/pull/4590) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Implement BinaryMinusHandler](https://github.com/phpstan/phpstan-src/pull/4582) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Build: Allow PHPUnit 12.x](https://github.com/infection/infection/pull/2609) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [Refactor `PhpUnitAdapterTest` to ease testing of PHPUnit version dependent behaviour](https://github.com/infection/infection/pull/2607) on [infection/infection](https://github.com/infection/infection) (2 days ago)
-- [Enable `failOnDeprecation=&#34;true&#34;` in PHPUnit configuration](https://github.com/infection/infection/pull/2606) on [infection/infection](https://github.com/infection/infection) (2 days ago)
-- [Prevent use of deprecated PHPUnit `$this-&gt;isType(&#39;string&#39;)`](https://github.com/infection/infection/pull/2605) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
