@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement UnaryPlusHandler](https://github.com/phpstan/phpstan-src/pull/4599) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Implement UnaryMinusHandler](https://github.com/phpstan/phpstan-src/pull/4598) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement CastObjectHandler](https://github.com/phpstan/phpstan-src/pull/4596) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Implement Cast*Handler](https://github.com/phpstan/phpstan-src/pull/4595) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Implement SpaceshipHandler](https://github.com/phpstan/phpstan-src/pull/4594) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Implement BitwiseAndHandler](https://github.com/phpstan/phpstan-src/pull/4586) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Implement BinaryConcatHandler](https://github.com/phpstan/phpstan-src/pull/4585) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Implement BinaryDivHandler](https://github.com/phpstan/phpstan-src/pull/4584) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Implement BinaryMulHandler](https://github.com/phpstan/phpstan-src/pull/4583) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Implement BinaryMinusHandler](https://github.com/phpstan/phpstan-src/pull/4582) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
