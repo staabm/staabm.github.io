@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) (3 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement InterpolatedStringHandler](https://github.com/phpstan/phpstan-src/pull/4600) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement UnaryPlusHandler](https://github.com/phpstan/phpstan-src/pull/4599) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement UnaryMinusHandler](https://github.com/phpstan/phpstan-src/pull/4598) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement CastObjectHandler](https://github.com/phpstan/phpstan-src/pull/4596) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,11 +55,11 @@
 - [Implement BinaryModHandler](https://github.com/phpstan/phpstan-src/pull/4587) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Implement BitwiseAndHandler](https://github.com/phpstan/phpstan-src/pull/4586) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Implement BinaryConcatHandler](https://github.com/phpstan/phpstan-src/pull/4585) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Implement BinaryDivHandler](https://github.com/phpstan/phpstan-src/pull/4584) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.4.5](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.5) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0-beta2](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0-beta2) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.9](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.9) (2 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.5.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.5.0) (2 days ago)
@@ -68,4 +69,3 @@
 - [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) - [1.8.4](https://github.com/shipmonk-rnd/composer-dependency-analyser/releases/tag/1.8.4) (6 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.20.1](https://github.com/redaxo/redaxo/releases/tag/5.20.1) (6 days ago)
 - [nette/tester](https://github.com/nette/tester) - [v2.5.7](https://github.com/nette/tester/releases/tag/v2.5.7) (1 week ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.3.2](https://github.com/staabm/phpstan-todo-by/releases/tag/0.3.2) (1 week ago)
