@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Narrow types after cast in generator based Handlers](https://github.com/phpstan/phpstan-src/pull/4603) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement Magic-File/Dir/Line handler](https://github.com/phpstan/phpstan-src/pull/4602) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement ScalarFloatHandler](https://github.com/phpstan/phpstan-src/pull/4601) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement InterpolatedStringHandler](https://github.com/phpstan/phpstan-src/pull/4600) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,18 +55,17 @@
 - [Fix &#34;Array does not have offset&#34; in curl_setopt_array()](https://github.com/phpstan/phpstan-src/pull/4590) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Implement BitwiseOrHandler](https://github.com/phpstan/phpstan-src/pull/4589) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Implement BinaryPowHandler](https://github.com/phpstan/phpstan-src/pull/4588) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Implement BinaryModHandler](https://github.com/phpstan/phpstan-src/pull/4587) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.12](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.12) (today)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.91.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.91.1) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.4.5](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.5) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0-beta2](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0-beta2) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.9](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.9) (2 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.5.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.5.0) (2 days ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.17.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.17.0) (2 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.91.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.91.0) (3 days ago)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v1.1.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v1.1.0) (3 days ago)
 - [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) - [1.8.4](https://github.com/shipmonk-rnd/composer-dependency-analyser/releases/tag/1.8.4) (6 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.20.1](https://github.com/redaxo/redaxo/releases/tag/5.20.1) (6 days ago)
-- [nette/tester](https://github.com/nette/tester) - [v2.5.7](https://github.com/nette/tester/releases/tag/v2.5.7) (1 week ago)
