@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix autoloading](https://github.com/theseer/tokenizer/pull/41) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (today)
+- [Refactor Scalar*Handlers into single ScalarHandler](https://github.com/phpstan/phpstan-src/pull/4605) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Implement remaining Magic-Const Handlers](https://github.com/phpstan/phpstan-src/pull/4604) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Narrow types after cast in generator based Handlers](https://github.com/phpstan/phpstan-src/pull/4603) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement Magic-File/Dir/Line handler](https://github.com/phpstan/phpstan-src/pull/4602) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement ScalarFloatHandler](https://github.com/phpstan/phpstan-src/pull/4601) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -52,9 +55,6 @@
 - [Implement BinaryShiftLeftHandler, BinaryShiftRightHandler](https://github.com/phpstan/phpstan-src/pull/4593) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Implement BitwiseNotHandler](https://github.com/phpstan/phpstan-src/pull/4592) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Implement BitwiseXorHandler](https://github.com/phpstan/phpstan-src/pull/4591) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Fix &#34;Array does not have offset&#34; in curl_setopt_array()](https://github.com/phpstan/phpstan-src/pull/4590) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Implement BitwiseOrHandler](https://github.com/phpstan/phpstan-src/pull/4589) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Implement BinaryPowHandler](https://github.com/phpstan/phpstan-src/pull/4588) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
