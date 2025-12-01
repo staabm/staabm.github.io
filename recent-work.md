@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement Magic-File/Dir/Line handler](https://github.com/phpstan/phpstan-src/pull/4602) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Implement ScalarFloatHandler](https://github.com/phpstan/phpstan-src/pull/4601) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement InterpolatedStringHandler](https://github.com/phpstan/phpstan-src/pull/4600) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement UnaryPlusHandler](https://github.com/phpstan/phpstan-src/pull/4599) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement UnaryMinusHandler](https://github.com/phpstan/phpstan-src/pull/4598) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -53,8 +55,6 @@
 - [Implement BitwiseOrHandler](https://github.com/phpstan/phpstan-src/pull/4589) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Implement BinaryPowHandler](https://github.com/phpstan/phpstan-src/pull/4588) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Implement BinaryModHandler](https://github.com/phpstan/phpstan-src/pull/4587) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Implement BitwiseAndHandler](https://github.com/phpstan/phpstan-src/pull/4586) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Implement BinaryConcatHandler](https://github.com/phpstan/phpstan-src/pull/4585) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
