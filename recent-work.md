@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) (3 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
@@ -11,7 +12,6 @@
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (1 week ago)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 weeks ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) (2 weeks ago)
 
 
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0-beta2](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0-beta2) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.9](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.9) (2 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.5.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.5.0) (2 days ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.17.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.17.0) (2 days ago)
@@ -68,4 +69,3 @@
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.20.1](https://github.com/redaxo/redaxo/releases/tag/5.20.1) (6 days ago)
 - [nette/tester](https://github.com/nette/tester) - [v2.5.7](https://github.com/nette/tester/releases/tag/v2.5.7) (1 week ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.3.2](https://github.com/staabm/phpstan-todo-by/releases/tag/0.3.2) (1 week ago)
-- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) - [v1.4.3](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.3) (1 week ago)
