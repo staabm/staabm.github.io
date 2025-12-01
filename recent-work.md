@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [infection/infection](https://github.com/infection/infection) (2 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [infection/infection](https://github.com/infection/infection) (3 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 week ago)
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (1 week ago)
@@ -17,7 +17,7 @@
 
 #### 📜 My recent blog posts
 
-- [Speedup PHPUnit code coverage generation](https://staabm.github.io/2025/11/26/speedup-phpunit-code-coverage.html) (4 days ago)
+- [Speedup PHPUnit code coverage generation](https://staabm.github.io/2025/11/26/speedup-phpunit-code-coverage.html) (5 days ago)
 - [New and noteworthy: PHPStan and PHPUnit integration](https://staabm.github.io/2025/11/15/phpstan-validates-phpunit-data-provider.html) (2 weeks ago)
 - [Mutation testing with Infection in PHP](https://staabm.github.io/2025/08/01/infection-php-mutation-testing.html) (4 months ago)
 - [PHPStan remembered types from constructor](https://staabm.github.io/2025/04/15/phpstan-remember-constructor-types.html) (7 months ago)
@@ -26,7 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
-- [JetBrainsOfficial](https://github.com/JetBrainsOfficial) (1 month ago)
+- [JetBrainsOfficial](https://github.com/JetBrainsOfficial) (2 months ago)
 - [passbolt](https://github.com/passbolt) (4 months ago)
 - [packagist](https://github.com/packagist) (6 months ago)
 - [Enkora](https://github.com/Enkora) (6 months ago)
@@ -40,32 +40,32 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Implement CastObjectHandler](https://github.com/phpstan/phpstan-src/pull/4596) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Implement Cast*Handler](https://github.com/phpstan/phpstan-src/pull/4595) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Implement SpaceshipHandler](https://github.com/phpstan/phpstan-src/pull/4594) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Implement BinaryShiftLeftHandler, BinaryShiftRightHandler](https://github.com/phpstan/phpstan-src/pull/4593) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Implement BitwiseNotHandler](https://github.com/phpstan/phpstan-src/pull/4592) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Implement BitwiseXorHandler](https://github.com/phpstan/phpstan-src/pull/4591) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Fix &#34;Array does not have offset&#34; in curl_setopt_array()](https://github.com/phpstan/phpstan-src/pull/4590) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Implement BitwiseOrHandler](https://github.com/phpstan/phpstan-src/pull/4589) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Implement BinaryPowHandler](https://github.com/phpstan/phpstan-src/pull/4588) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Implement BinaryModHandler](https://github.com/phpstan/phpstan-src/pull/4587) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Implement BitwiseAndHandler](https://github.com/phpstan/phpstan-src/pull/4586) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Implement BinaryConcatHandler](https://github.com/phpstan/phpstan-src/pull/4585) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Implement BinaryDivHandler](https://github.com/phpstan/phpstan-src/pull/4584) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Implement BinaryMulHandler](https://github.com/phpstan/phpstan-src/pull/4583) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Implement BinaryMinusHandler](https://github.com/phpstan/phpstan-src/pull/4582) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Implement CastObjectHandler](https://github.com/phpstan/phpstan-src/pull/4596) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Implement Cast*Handler](https://github.com/phpstan/phpstan-src/pull/4595) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Implement SpaceshipHandler](https://github.com/phpstan/phpstan-src/pull/4594) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Implement BinaryShiftLeftHandler, BinaryShiftRightHandler](https://github.com/phpstan/phpstan-src/pull/4593) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Implement BitwiseNotHandler](https://github.com/phpstan/phpstan-src/pull/4592) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Implement BitwiseXorHandler](https://github.com/phpstan/phpstan-src/pull/4591) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Fix &#34;Array does not have offset&#34; in curl_setopt_array()](https://github.com/phpstan/phpstan-src/pull/4590) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Implement BitwiseOrHandler](https://github.com/phpstan/phpstan-src/pull/4589) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Implement BinaryPowHandler](https://github.com/phpstan/phpstan-src/pull/4588) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Implement BinaryModHandler](https://github.com/phpstan/phpstan-src/pull/4587) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Implement BitwiseAndHandler](https://github.com/phpstan/phpstan-src/pull/4586) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Implement BinaryConcatHandler](https://github.com/phpstan/phpstan-src/pull/4585) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Implement BinaryDivHandler](https://github.com/phpstan/phpstan-src/pull/4584) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Implement BinaryMulHandler](https://github.com/phpstan/phpstan-src/pull/4583) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Implement BinaryMinusHandler](https://github.com/phpstan/phpstan-src/pull/4582) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.9](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.9) (1 day ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.5.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.5.0) (1 day ago)
-- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.17.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.17.0) (1 day ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.91.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.91.0) (2 days ago)
-- [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v1.1.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v1.1.0) (2 days ago)
-- [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) - [1.8.4](https://github.com/shipmonk-rnd/composer-dependency-analyser/releases/tag/1.8.4) (5 days ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.20.1](https://github.com/redaxo/redaxo/releases/tag/5.20.1) (5 days ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.9](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.9) (2 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.5.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.5.0) (2 days ago)
+- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.17.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.17.0) (2 days ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.91.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.91.0) (3 days ago)
+- [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v1.1.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v1.1.0) (3 days ago)
+- [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) - [1.8.4](https://github.com/shipmonk-rnd/composer-dependency-analyser/releases/tag/1.8.4) (6 days ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.20.1](https://github.com/redaxo/redaxo/releases/tag/5.20.1) (6 days ago)
 - [nette/tester](https://github.com/nette/tester) - [v2.5.7](https://github.com/nette/tester/releases/tag/v2.5.7) (1 week ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.3.2](https://github.com/staabm/phpstan-todo-by/releases/tag/0.3.2) (1 week ago)
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) - [v1.4.3](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.3) (1 week ago)
