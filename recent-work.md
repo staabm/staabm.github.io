@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Share DNS and Connect between curl requests](https://github.com/lesstif/php-jira-rest-client/pull/565) on [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (today)
+- [Share DNS and Connect between curl requests](https://github.com/lesstif/php-JiraCloud-RESTAPI/pull/117) on [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (today)
 - [build: stop on error while phar-build](https://github.com/sebastianbergmann/phpunit/pull/6430) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Test .phar file is scoped](https://github.com/sebastianbergmann/phpunit/pull/6429) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Fix autoloading](https://github.com/theseer/tokenizer/pull/41) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (1 day ago)
@@ -53,8 +55,6 @@
 - [Implement UnaryMinusHandler](https://github.com/phpstan/phpstan-src/pull/4598) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Implement CastObjectHandler](https://github.com/phpstan/phpstan-src/pull/4596) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Implement Cast*Handler](https://github.com/phpstan/phpstan-src/pull/4595) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Implement SpaceshipHandler](https://github.com/phpstan/phpstan-src/pull/4594) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Implement BinaryShiftLeftHandler, BinaryShiftRightHandler](https://github.com/phpstan/phpstan-src/pull/4593) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
