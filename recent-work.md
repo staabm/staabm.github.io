@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [build: stop on error while phar-build](https://github.com/sebastianbergmann/phpunit/pull/6430) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [Test .phar file is scoped](https://github.com/sebastianbergmann/phpunit/pull/6429) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Fix autoloading](https://github.com/theseer/tokenizer/pull/41) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (1 day ago)
 - [Refactor Scalar*Handlers into single ScalarHandler](https://github.com/phpstan/phpstan-src/pull/4605) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Implement remaining Magic-Const Handlers](https://github.com/phpstan/phpstan-src/pull/4604) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Implement Cast*Handler](https://github.com/phpstan/phpstan-src/pull/4595) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Implement SpaceshipHandler](https://github.com/phpstan/phpstan-src/pull/4594) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Implement BinaryShiftLeftHandler, BinaryShiftRightHandler](https://github.com/phpstan/phpstan-src/pull/4593) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Implement BitwiseNotHandler](https://github.com/phpstan/phpstan-src/pull/4592) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Implement BitwiseXorHandler](https://github.com/phpstan/phpstan-src/pull/4591) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
