@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [More precise return type for gatherAssertTypes](https://github.com/phpstan/phpstan-src/pull/4614) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Remove no longer required phpdoc types](https://github.com/phpstan/phpstan-webmozart-assert/pull/193) on [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (today)
 - [Note deprecation of version requirements without operator](https://github.com/sebastianbergmann/phpunit-documentation-english/pull/402) on [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) (today)
 - [Narrow CURLOPT_SHARE accepting type](https://github.com/phpstan/phpstan-src/pull/4611) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix curl-share handling on PHP &lt; 8.5](https://github.com/staabm/phpstan-todo-by/pull/173) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
@@ -53,8 +55,6 @@
 - [Narrow types after cast in generator based Handlers](https://github.com/phpstan/phpstan-src/pull/4603) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Implement Magic-File/Dir/Line handler](https://github.com/phpstan/phpstan-src/pull/4602) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Implement ScalarFloatHandler](https://github.com/phpstan/phpstan-src/pull/4601) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Implement InterpolatedStringHandler](https://github.com/phpstan/phpstan-src/pull/4600) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Implement UnaryPlusHandler](https://github.com/phpstan/phpstan-src/pull/4599) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
