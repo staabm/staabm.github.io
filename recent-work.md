@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Note deprecation of version requirements without operator](https://github.com/sebastianbergmann/phpunit-documentation-english/pull/402) on [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) (today)
 - [Narrow CURLOPT_SHARE accepting type](https://github.com/phpstan/phpstan-src/pull/4611) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix curl-share handling on PHP &lt; 8.5](https://github.com/staabm/phpstan-todo-by/pull/173) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Share DNS and Connect between curl requests](https://github.com/lesstif/php-jira-rest-client/pull/565) on [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (2 days ago)
@@ -54,7 +55,6 @@
 - [Implement ScalarFloatHandler](https://github.com/phpstan/phpstan-src/pull/4601) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Implement InterpolatedStringHandler](https://github.com/phpstan/phpstan-src/pull/4600) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Implement UnaryPlusHandler](https://github.com/phpstan/phpstan-src/pull/4599) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Implement UnaryMinusHandler](https://github.com/phpstan/phpstan-src/pull/4598) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
