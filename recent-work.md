@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [infection/infection](https://github.com/infection/infection) (6 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) (1 week ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 week ago)
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (1 week ago)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 weeks ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Narrow CURLOPT_SHARE accepting type](https://github.com/phpstan/phpstan-src/pull/4611) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Fix curl-share handling on PHP &lt; 8.5](https://github.com/staabm/phpstan-todo-by/pull/173) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Share DNS and Connect between curl requests](https://github.com/lesstif/php-jira-rest-client/pull/565) on [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (2 days ago)
 - [Share DNS and Connect between curl requests](https://github.com/lesstif/php-JiraCloud-RESTAPI/pull/117) on [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (2 days ago)
 - [build: stop on error while phar-build](https://github.com/sebastianbergmann/phpunit/pull/6430) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
@@ -53,12 +55,11 @@
 - [Implement InterpolatedStringHandler](https://github.com/phpstan/phpstan-src/pull/4600) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Implement UnaryPlusHandler](https://github.com/phpstan/phpstan-src/pull/4599) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Implement UnaryMinusHandler](https://github.com/phpstan/phpstan-src/pull/4598) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Implement CastObjectHandler](https://github.com/phpstan/phpstan-src/pull/4596) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Implement Cast*Handler](https://github.com/phpstan/phpstan-src/pull/4595) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.3.3](https://github.com/staabm/phpstan-todo-by/releases/tag/0.3.3) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.91.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.91.2) (3 days ago)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.0](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.0) (3 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.12](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.12) (3 days ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.5.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.5.0) (5 days ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.17.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.17.0) (5 days ago)
 - [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v1.1.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v1.1.0) (6 days ago)
-- [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) - [1.8.4](https://github.com/shipmonk-rnd/composer-dependency-analyser/releases/tag/1.8.4) (1 week ago)
