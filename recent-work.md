@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.33](https://github.com/phpstan/phpstan/releases/tag/2.1.33) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.9](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.9) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.0](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.0) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.3.3](https://github.com/staabm/phpstan-todo-by/releases/tag/0.3.3) (1 day ago)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0-beta2](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0-beta2) (4 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.9](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.9) (6 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.5.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.5.0) (6 days ago)
-- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.17.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.17.0) (6 days ago)
