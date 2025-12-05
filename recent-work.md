@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [infection/infection](https://github.com/infection/infection) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
+- [infection/infection](https://github.com/infection/infection) (1 week ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 weeks ago)
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (2 weeks ago)
-- [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement AttributeRequiresPhpVersionRule](https://github.com/phpstan/phpstan-phpunit/pull/268) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [More precise return type for gatherAssertTypes](https://github.com/phpstan/phpstan-src/pull/4614) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Remove no longer required phpdoc types](https://github.com/phpstan/phpstan-webmozart-assert/pull/193) on [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (1 day ago)
 - [Note deprecation of version requirements without operator](https://github.com/sebastianbergmann/phpunit-documentation-english/pull/402) on [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) (1 day ago)
@@ -54,11 +55,11 @@
 - [Implement remaining Magic-Const Handlers](https://github.com/phpstan/phpstan-src/pull/4604) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Narrow types after cast in generator based Handlers](https://github.com/phpstan/phpstan-src/pull/4603) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Implement Magic-File/Dir/Line handler](https://github.com/phpstan/phpstan-src/pull/4602) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Implement ScalarFloatHandler](https://github.com/phpstan/phpstan-src/pull/4601) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.9](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.9) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.0](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.0) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.3.3](https://github.com/staabm/phpstan-todo-by/releases/tag/0.3.3) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.91.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.91.2) (4 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.9](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.9) (6 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.5.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.5.0) (6 days ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.17.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.17.0) (6 days ago)
-- [pb30/phpstan-composer-analysis](https://github.com/pb30/phpstan-composer-analysis) - [v1.1.0](https://github.com/pb30/phpstan-composer-analysis/releases/tag/v1.1.0) (1 week ago)
