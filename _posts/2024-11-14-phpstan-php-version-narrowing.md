@@ -83,7 +83,7 @@ In case this feature detected dead code in one of your projects, [retweet](https
 
 ### Future work
 
-For the future is planned to take PHPUnits `RequiresPhp` attribute into account as well.
+For the future is planned to [take PHPUnits `RequiresPhp` attribute into account](https://github.com/phpstan/phpstan-phpunit/pull/269) as well.
 ```
     #[RequiresPhp('5.4.0-alpha1')]
     public function myTest(): void
