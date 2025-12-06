@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) (today)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
 - [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) (2 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 weeks ago)
@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.1) (today)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.7.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.7.0) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.10](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.10) (today)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) - [2.0.0](https://github.com/theseer/tokenizer/releases/tag/2.0.0) (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.5.46](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.46) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.91.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.91.3) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.33](https://github.com/phpstan/phpstan/releases/tag/2.1.33) (1 day ago)
