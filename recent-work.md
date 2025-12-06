@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update shipmonk/dead-code-detector to 0.14.0](https://github.com/infection/infection/pull/2670) on [infection/infection](https://github.com/infection/infection) (today)
 - [Add --exclude-source-from-xml-coverage support](https://github.com/paratestphp/paratest/pull/1056) on [paratestphp/paratest](https://github.com/paratestphp/paratest) (today)
 - [Sanity check `#[RequiresPhp]` value and range](https://github.com/phpstan/phpstan-phpunit/pull/269) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
 - [Implement AttributeRequiresPhpVersionRule](https://github.com/phpstan/phpstan-phpunit/pull/268) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
@@ -54,16 +55,15 @@
 - [Test .phar file is scoped](https://github.com/sebastianbergmann/phpunit/pull/6429) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [Fix autoloading](https://github.com/theseer/tokenizer/pull/41) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (5 days ago)
 - [Refactor Scalar*Handlers into single ScalarHandler](https://github.com/phpstan/phpstan-src/pull/4605) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Implement remaining Magic-Const Handlers](https://github.com/phpstan/phpstan-src/pull/4604) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.5.46](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.46) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.91.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.91.3) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.33](https://github.com/phpstan/phpstan/releases/tag/2.1.33) (1 day ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.9](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.9) (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.0](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.0) (1 day ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.3.3](https://github.com/staabm/phpstan-todo-by/releases/tag/0.3.3) (2 days ago)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.0](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.0) (5 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.12](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.12) (5 days ago)
