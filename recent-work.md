@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add --exclude-source-from-xml-coverage support](https://github.com/paratestphp/paratest/pull/1056) on [paratestphp/paratest](https://github.com/paratestphp/paratest) (today)
 - [Sanity check `#[RequiresPhp]` value and range](https://github.com/phpstan/phpstan-phpunit/pull/269) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
 - [Implement AttributeRequiresPhpVersionRule](https://github.com/phpstan/phpstan-phpunit/pull/268) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
 - [More precise return type for gatherAssertTypes](https://github.com/phpstan/phpstan-src/pull/4614) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Fix autoloading](https://github.com/theseer/tokenizer/pull/41) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (5 days ago)
 - [Refactor Scalar*Handlers into single ScalarHandler](https://github.com/phpstan/phpstan-src/pull/4605) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Implement remaining Magic-Const Handlers](https://github.com/phpstan/phpstan-src/pull/4604) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Narrow types after cast in generator based Handlers](https://github.com/phpstan/phpstan-src/pull/4603) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
