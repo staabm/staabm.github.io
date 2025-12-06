@@ -4,13 +4,13 @@
 #### 💻 Check out what I'm currently working on
 
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
+- [theseer/tokenizer](https://github.com/theseer/tokenizer) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 days ago)
 - [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) (2 days ago)
-- [theseer/tokenizer](https://github.com/theseer/tokenizer) (2 weeks ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 weeks ago)
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (2 weeks ago)
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [CI: Ignore code coverage reporting configured in the XML configuration file](https://github.com/theseer/tokenizer/pull/43) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (today)
 - [Bump PHPUnit to 10.5.60](https://github.com/theseer/tokenizer/pull/42) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (today)
 - [Update shipmonk/dead-code-detector to 0.14.0](https://github.com/infection/infection/pull/2670) on [infection/infection](https://github.com/infection/infection) (today)
 - [Add --exclude-source-from-xml-coverage support](https://github.com/paratestphp/paratest/pull/1056) on [paratestphp/paratest](https://github.com/paratestphp/paratest) (today)
@@ -54,7 +55,6 @@
 - [Share DNS and Connect between curl requests](https://github.com/lesstif/php-JiraCloud-RESTAPI/pull/117) on [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (4 days ago)
 - [build: stop on error while phar-build](https://github.com/sebastianbergmann/phpunit/pull/6430) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [Test .phar file is scoped](https://github.com/sebastianbergmann/phpunit/pull/6429) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
-- [Fix autoloading](https://github.com/theseer/tokenizer/pull/41) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
