@@ -109,7 +109,7 @@ which will be [automatically enabled by Infection to speedup the coverage genera
 
 A test on the PHPStan codebase shows, this can [speedup the xml coverage report generation by ~15%](https://github.com/sebastianbergmann/php-code-coverage/pull/1125#issuecomment-3584453120).
 
-
+As a followup support for this new option was added into [Infection](https://github.com/infection/infection/pull/2604) and [ParaTest](https://github.com/paratestphp/paratest/pull/1056).
 
 ## Taking shortcuts
 
