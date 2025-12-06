@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Bump PHPUnit to 10.5.60](https://github.com/theseer/tokenizer/pull/42) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (today)
 - [Update shipmonk/dead-code-detector to 0.14.0](https://github.com/infection/infection/pull/2670) on [infection/infection](https://github.com/infection/infection) (today)
 - [Add --exclude-source-from-xml-coverage support](https://github.com/paratestphp/paratest/pull/1056) on [paratestphp/paratest](https://github.com/paratestphp/paratest) (today)
 - [Sanity check `#[RequiresPhp]` value and range](https://github.com/phpstan/phpstan-phpunit/pull/269) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
@@ -54,7 +55,6 @@
 - [build: stop on error while phar-build](https://github.com/sebastianbergmann/phpunit/pull/6430) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [Test .phar file is scoped](https://github.com/sebastianbergmann/phpunit/pull/6429) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [Fix autoloading](https://github.com/theseer/tokenizer/pull/41) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (5 days ago)
-- [Refactor Scalar*Handlers into single ScalarHandler](https://github.com/phpstan/phpstan-src/pull/4605) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
