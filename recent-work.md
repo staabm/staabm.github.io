@@ -4,9 +4,9 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [infection/infection](https://github.com/infection/infection) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) (1 day ago)
-- [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix missing iterable type](https://github.com/infection/infection/pull/2676) on [infection/infection](https://github.com/infection/infection) (today)
 - [Upgrade ondram/ci-detector to 4.x](https://github.com/phpstan/phpstan-src/pull/4617) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Remove third-party autoloading](https://github.com/infection/infection/pull/2673) on [infection/infection](https://github.com/infection/infection) (today)
 - [CI: Ignore code coverage reporting configured in the XML configuration file](https://github.com/theseer/tokenizer/pull/43) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (1 day ago)
@@ -54,7 +55,6 @@
 - [Narrow CURLOPT_SHARE accepting type](https://github.com/phpstan/phpstan-src/pull/4611) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Fix curl-share handling on PHP &lt; 8.5](https://github.com/staabm/phpstan-todo-by/pull/173) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
 - [Share DNS and Connect between curl requests](https://github.com/lesstif/php-jira-rest-client/pull/565) on [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (5 days ago)
-- [Share DNS and Connect between curl requests](https://github.com/lesstif/php-JiraCloud-RESTAPI/pull/117) on [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
