@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Upgrade ondram/ci-detector to 4.x](https://github.com/phpstan/phpstan-src/pull/4617) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Remove third-party autoloading](https://github.com/infection/infection/pull/2673) on [infection/infection](https://github.com/infection/infection) (today)
 - [CI: Ignore code coverage reporting configured in the XML configuration file](https://github.com/theseer/tokenizer/pull/43) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (1 day ago)
 - [Bump PHPUnit to 10.5.60](https://github.com/theseer/tokenizer/pull/42) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (1 day ago)
 - [Update shipmonk/dead-code-detector to 0.14.0](https://github.com/infection/infection/pull/2670) on [infection/infection](https://github.com/infection/infection) (1 day ago)
@@ -53,8 +55,6 @@
 - [Fix curl-share handling on PHP &lt; 8.5](https://github.com/staabm/phpstan-todo-by/pull/173) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
 - [Share DNS and Connect between curl requests](https://github.com/lesstif/php-jira-rest-client/pull/565) on [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (5 days ago)
 - [Share DNS and Connect between curl requests](https://github.com/lesstif/php-JiraCloud-RESTAPI/pull/117) on [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (5 days ago)
-- [build: stop on error while phar-build](https://github.com/sebastianbergmann/phpunit/pull/6430) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
-- [Test .phar file is scoped](https://github.com/sebastianbergmann/phpunit/pull/6429) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
