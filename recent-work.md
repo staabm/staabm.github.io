@@ -3,11 +3,11 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) (2 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
 - [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) (4 days ago)
