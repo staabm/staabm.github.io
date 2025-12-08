@@ -59,7 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.1) (2 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.2](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.2) (today)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.5.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.5.1) (today)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.7.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.7.0) (2 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.10](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.10) (2 days ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) - [2.0.0](https://github.com/theseer/tokenizer/releases/tag/2.0.0) (2 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.33](https://github.com/phpstan/phpstan/releases/tag/2.1.33) (3 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.3.3](https://github.com/staabm/phpstan-todo-by/releases/tag/0.3.3) (4 days ago)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.0](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.0) (1 week ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.12](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.12) (1 week ago)
