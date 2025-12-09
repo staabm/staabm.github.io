@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update PHPStan packages](https://github.com/phpstan/phpstan-src/pull/4621) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix regression from update to theseer/tokenizer 2.x](https://github.com/sebastianbergmann/php-code-coverage/pull/1129) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
 - [Fix missing iterable type](https://github.com/infection/infection/pull/2676) on [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [Upgrade ondram/ci-detector to 4.x](https://github.com/phpstan/phpstan-src/pull/4617) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Remove no longer required phpdoc types](https://github.com/phpstan/phpstan-webmozart-assert/pull/193) on [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (5 days ago)
 - [Note deprecation of version requirements without operator](https://github.com/sebastianbergmann/phpunit-documentation-english/pull/402) on [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) (5 days ago)
 - [Narrow CURLOPT_SHARE accepting type](https://github.com/phpstan/phpstan-src/pull/4611) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Fix curl-share handling on PHP &lt; 8.5](https://github.com/staabm/phpstan-todo-by/pull/173) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
