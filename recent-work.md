@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) (2 days ago)
-- [theseer/tokenizer](https://github.com/theseer/tokenizer) (3 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
+- [theseer/tokenizer](https://github.com/theseer/tokenizer) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) (5 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (5 days ago)
-- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (2 weeks ago)
+- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) (5 days ago)
 
 
 #### 📜 My recent blog posts
@@ -51,7 +51,7 @@
 - [CI: Ignore code coverage reporting configured in the XML configuration file](https://github.com/theseer/tokenizer/pull/43) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (3 days ago)
 - [Bump PHPUnit to 10.5.60](https://github.com/theseer/tokenizer/pull/42) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (3 days ago)
 - [Update shipmonk/dead-code-detector to 0.14.0](https://github.com/infection/infection/pull/2670) on [infection/infection](https://github.com/infection/infection) (3 days ago)
-- [Add --exclude-source-from-xml-coverage support](https://github.com/paratestphp/paratest/pull/1056) on [paratestphp/paratest](https://github.com/paratestphp/paratest) (3 days ago)
+- [Add `--exclude-source-from-xml-coverage` support](https://github.com/paratestphp/paratest/pull/1056) on [paratestphp/paratest](https://github.com/paratestphp/paratest) (3 days ago)
 - [Sanity check `#[RequiresPhp]` value and range](https://github.com/phpstan/phpstan-phpunit/pull/269) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
 - [Implement AttributeRequiresPhpVersionRule](https://github.com/phpstan/phpstan-phpunit/pull/268) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
 - [More precise return type for gatherAssertTypes](https://github.com/phpstan/phpstan-src/pull/4614) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.16.0](https://github.com/paratestphp/paratest/releases/tag/v7.16.0) (today)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.2](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.2) (today)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) - [2.0.1](https://github.com/theseer/tokenizer/releases/tag/2.0.1) (1 day ago)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - [2.3.0](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/releases/tag/2.3.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.7.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.7.0) (3 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.10](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.10) (3 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.91.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.91.3) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0) (4 days ago)
