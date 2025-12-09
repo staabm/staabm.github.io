@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix PHP 8.5 build errors](https://github.com/phpstan/phpstan-src/pull/4623) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Remove unused baseline-7.3.neon file](https://github.com/phpstan/phpstan-src/pull/4622) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update PHPStan packages](https://github.com/phpstan/phpstan-src/pull/4621) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix regression from update to theseer/tokenizer 2.x](https://github.com/sebastianbergmann/php-code-coverage/pull/1129) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
 - [Fix missing iterable type](https://github.com/infection/infection/pull/2676) on [infection/infection](https://github.com/infection/infection) (2 days ago)
@@ -53,8 +55,6 @@
 - [Implement AttributeRequiresPhpVersionRule](https://github.com/phpstan/phpstan-phpunit/pull/268) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
 - [More precise return type for gatherAssertTypes](https://github.com/phpstan/phpstan-src/pull/4614) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Remove no longer required phpdoc types](https://github.com/phpstan/phpstan-webmozart-assert/pull/193) on [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (5 days ago)
-- [Note deprecation of version requirements without operator](https://github.com/sebastianbergmann/phpunit-documentation-english/pull/402) on [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) (5 days ago)
-- [Narrow CURLOPT_SHARE accepting type](https://github.com/phpstan/phpstan-src/pull/4611) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
