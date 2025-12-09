@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [infection/infection](https://github.com/infection/infection) (2 days ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) (3 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Allow PHPUnit 12](https://github.com/phpstan/phpstan-src/pull/4624) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix PHP 8.5 build errors](https://github.com/phpstan/phpstan-src/pull/4623) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Remove unused baseline-7.3.neon file](https://github.com/phpstan/phpstan-src/pull/4622) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update PHPStan packages](https://github.com/phpstan/phpstan-src/pull/4621) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Sanity check `#[RequiresPhp]` value and range](https://github.com/phpstan/phpstan-phpunit/pull/269) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
 - [Implement AttributeRequiresPhpVersionRule](https://github.com/phpstan/phpstan-phpunit/pull/268) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
 - [More precise return type for gatherAssertTypes](https://github.com/phpstan/phpstan-src/pull/4614) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Remove no longer required phpdoc types](https://github.com/phpstan/phpstan-webmozart-assert/pull/193) on [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
