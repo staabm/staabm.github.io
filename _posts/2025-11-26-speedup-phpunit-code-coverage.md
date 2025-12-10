@@ -134,6 +134,23 @@ $writer->process($coverage, $config);
 
 I put all this into a [separate git repository](https://github.com/staabm/code-coverage-benchmarks/tree/main/slow-coverage-xml1) to allow re-using it in the future.
 
+## Results
+
+Applying all those [fixes on the phpstan-src codebase](https://github.com/phpstan/phpstan-src/pull/4624) yielded a impressive improvement in xml coverage report generation:
+
+Before (PHPUnit 11.5.x)
+
+> Time: 04:37.104, Memory: 688.50 MB
+> Generating code coverage report in PHPUnit XML format ... done [00:51.395]
+
+After upgrading to PHPUnit 12.5.x
+
+> Time: 04:23.595, Memory: 678.50 MB
+> Generating code coverage report in PHPUnit XML format ... done [00:21.631]
+
+After adding `--exclude-source-from-xml-coverage`
+> Time: 04:16.807, Memory: 634.50 MB
+> Generating code coverage report in PHPUnit XML format ... done [00:21.631]
 
 ## Summary
 
