@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove path normalizing from NodeDependencies](https://github.com/phpstan/phpstan-src/pull/4627) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Tests: Use Stubs instead of Mocks](https://github.com/phpstan/phpstan-src/pull/4626) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [upgrade to phpstan/phpstan-phpunit 2.0.10](https://github.com/phpstan/phpstan-src/pull/4625) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Allow PHPUnit 12](https://github.com/phpstan/phpstan-src/pull/4624) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Bump PHPUnit to 10.5.60](https://github.com/theseer/tokenizer/pull/42) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (5 days ago)
 - [Update shipmonk/dead-code-detector to 0.14.0](https://github.com/infection/infection/pull/2670) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 - [Add `--exclude-source-from-xml-coverage` support](https://github.com/paratestphp/paratest/pull/1056) on [paratestphp/paratest](https://github.com/paratestphp/paratest) (5 days ago)
-- [Sanity check `#[RequiresPhp]` value and range](https://github.com/phpstan/phpstan-phpunit/pull/269) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
