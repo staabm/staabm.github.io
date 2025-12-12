@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.92.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.92.0) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.3) (1 day ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.16.0](https://github.com/paratestphp/paratest/releases/tag/v7.16.0) (3 days ago)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.2](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.2) (3 days ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.5.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.5.1) (4 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.7.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.7.0) (6 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.10](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.10) (6 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.91.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.91.3) (1 week ago)
