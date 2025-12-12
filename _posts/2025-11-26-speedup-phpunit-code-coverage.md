@@ -36,7 +36,8 @@ The resulting GitHub Actions steps for this look like:
 run: |
   php -d pcov.enabled=1 tests/vendor/bin/paratest \
     --passthru-php="'-d' 'pcov.enabled=1'" \
-    --coverage-xml=tmp/coverage/coverage-xml --log-junit=tmp/coverage/junit.xml
+    --coverage-xml=tmp/coverage/coverage-xml --log-junit=tmp/coverage/junit.xml \
+    --exclude-source-from-xml-coverage
 
 - name: "Run infection"
 run: |
