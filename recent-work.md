@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [php/doc-en](https://github.com/php/doc-en) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) (3 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (4 days ago)
 - [infection/infection](https://github.com/infection/infection) (5 days ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix mutation testing](https://github.com/phpstan/phpstan-src/pull/4631) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Constants deprecation depends on Scope-&gt;getPhpVersion()](https://github.com/phpstan/phpstan-deprecation-rules/pull/170) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
 - [Constants isDeprecation() depends on Scope-&gt;getPhpVersion()](https://github.com/phpstan/phpstan-src/pull/4630) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Remove path normalizing from NodeDependencies](https://github.com/phpstan/phpstan-src/pull/4627) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Tests: Use Stubs instead of Mocks](https://github.com/phpstan/phpstan-src/pull/4626) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -53,8 +55,6 @@
 - [Upgrade ondram/ci-detector to 4.x](https://github.com/phpstan/phpstan-src/pull/4617) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Remove third-party autoloading](https://github.com/infection/infection/pull/2673) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 - [CI: Ignore code coverage reporting configured in the XML configuration file](https://github.com/theseer/tokenizer/pull/43) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (6 days ago)
-- [Bump PHPUnit to 10.5.60](https://github.com/theseer/tokenizer/pull/42) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (6 days ago)
-- [Update shipmonk/dead-code-detector to 0.14.0](https://github.com/infection/infection/pull/2670) on [infection/infection](https://github.com/infection/infection) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
