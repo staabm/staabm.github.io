@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Constants isDeprecation() depends on Scope-&gt;getPhpVersion()](https://github.com/phpstan/phpstan-src/pull/4630) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Remove path normalizing from NodeDependencies](https://github.com/phpstan/phpstan-src/pull/4627) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Tests: Use Stubs instead of Mocks](https://github.com/phpstan/phpstan-src/pull/4626) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [upgrade to phpstan/phpstan-phpunit 2.0.10](https://github.com/phpstan/phpstan-src/pull/4625) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -54,7 +55,6 @@
 - [CI: Ignore code coverage reporting configured in the XML configuration file](https://github.com/theseer/tokenizer/pull/43) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (6 days ago)
 - [Bump PHPUnit to 10.5.60](https://github.com/theseer/tokenizer/pull/42) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (6 days ago)
 - [Update shipmonk/dead-code-detector to 0.14.0](https://github.com/infection/infection/pull/2670) on [infection/infection](https://github.com/infection/infection) (6 days ago)
-- [Add `--exclude-source-from-xml-coverage` support](https://github.com/paratestphp/paratest/pull/1056) on [paratestphp/paratest](https://github.com/paratestphp/paratest) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
