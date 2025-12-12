@@ -153,7 +153,7 @@ After upgrading to PHPUnit 12.5.x
 After adding `--exclude-source-from-xml-coverage`
 > Time: 04:16.807, Memory: 634.50 MB
 > 
-> Generating code coverage report in PHPUnit XML format ... done [00:21.631]
+> Generating code coverage report in PHPUnit XML format ... done [00:17.431]
 
 ## Summary
 
