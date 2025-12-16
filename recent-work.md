@@ -3,11 +3,11 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
-- [php/doc-en](https://github.com/php/doc-en) (5 days ago)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) (6 days ago)
+- [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
+- [php/doc-en](https://github.com/php/doc-en) (6 days ago)
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 week ago)
 - [infection/infection](https://github.com/infection/infection) (1 week ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) (1 week ago)
@@ -40,17 +40,17 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Refactor ComposerPhpVersionFactory](https://github.com/phpstan/phpstan-src/pull/4635) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Fix mutation testing](https://github.com/phpstan/phpstan-src/pull/4631) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Constants deprecation depends on Scope-&gt;getPhpVersion()](https://github.com/phpstan/phpstan-deprecation-rules/pull/170) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (3 days ago)
-- [Constants isDeprecation() depends on Scope-&gt;getPhpVersion()](https://github.com/phpstan/phpstan-src/pull/4630) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Remove path normalizing from NodeDependencies](https://github.com/phpstan/phpstan-src/pull/4627) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Tests: Use Stubs instead of Mocks](https://github.com/phpstan/phpstan-src/pull/4626) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [upgrade to phpstan/phpstan-phpunit 2.0.10](https://github.com/phpstan/phpstan-src/pull/4625) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Allow PHPUnit 12](https://github.com/phpstan/phpstan-src/pull/4624) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Fix PHP 8.5 build errors](https://github.com/phpstan/phpstan-src/pull/4623) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Remove unused baseline-7.3.neon file](https://github.com/phpstan/phpstan-src/pull/4622) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Update PHPStan packages](https://github.com/phpstan/phpstan-src/pull/4621) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Refactor ComposerPhpVersionFactory](https://github.com/phpstan/phpstan-src/pull/4635) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Fix mutation testing](https://github.com/phpstan/phpstan-src/pull/4631) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Constants deprecation depends on Scope-&gt;getPhpVersion()](https://github.com/phpstan/phpstan-deprecation-rules/pull/170) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (4 days ago)
+- [Constants isDeprecation() depends on Scope-&gt;getPhpVersion()](https://github.com/phpstan/phpstan-src/pull/4630) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Remove path normalizing from NodeDependencies](https://github.com/phpstan/phpstan-src/pull/4627) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Tests: Use Stubs instead of Mocks](https://github.com/phpstan/phpstan-src/pull/4626) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [upgrade to phpstan/phpstan-phpunit 2.0.10](https://github.com/phpstan/phpstan-src/pull/4625) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [Allow PHPUnit 12](https://github.com/phpstan/phpstan-src/pull/4624) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [Fix PHP 8.5 build errors](https://github.com/phpstan/phpstan-src/pull/4623) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [Remove unused baseline-7.3.neon file](https://github.com/phpstan/phpstan-src/pull/4622) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [Update PHPStan packages](https://github.com/phpstan/phpstan-src/pull/4621) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix regression from update to theseer/tokenizer 2.x](https://github.com/sebastianbergmann/php-code-coverage/pull/1129) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 week ago)
 - [Fix missing iterable type](https://github.com/infection/infection/pull/2676) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 - [Upgrade ondram/ci-detector to 4.x](https://github.com/phpstan/phpstan-src/pull/4617) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.4) (today)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.92.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.92.0) (3 days ago)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.16.0](https://github.com/paratestphp/paratest/releases/tag/v7.16.0) (6 days ago)
-- [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.2](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.2) (6 days ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.92.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.92.1) (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.4) (1 day ago)
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.16.0](https://github.com/paratestphp/paratest/releases/tag/v7.16.0) (1 week ago)
+- [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.2](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.2) (1 week ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) - [2.0.1](https://github.com/theseer/tokenizer/releases/tag/2.0.1) (1 week ago)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - [2.3.0](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/releases/tag/2.3.0) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.7](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.7) (1 week ago)
