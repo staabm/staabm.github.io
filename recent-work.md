@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Failling test: MergeWithCallableAndWillReturnRector forgest to introduce closure `use`](https://github.com/rectorphp/rector-phpunit/pull/604) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)
 - [Refactor ComposerPhpVersionFactory](https://github.com/phpstan/phpstan-src/pull/4635) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fix mutation testing](https://github.com/phpstan/phpstan-src/pull/4631) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Constants deprecation depends on Scope-&gt;getPhpVersion()](https://github.com/phpstan/phpstan-deprecation-rules/pull/170) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (5 days ago)
@@ -54,7 +55,6 @@
 - [Fix regression from update to theseer/tokenizer 2.x](https://github.com/sebastianbergmann/php-code-coverage/pull/1129) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 week ago)
 - [Fix missing iterable type](https://github.com/infection/infection/pull/2676) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 - [Upgrade ondram/ci-detector to 4.x](https://github.com/phpstan/phpstan-src/pull/4617) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Remove third-party autoloading](https://github.com/infection/infection/pull/2673) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
