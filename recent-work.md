@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Cache nodes in FileNodesFetcher](https://github.com/phpstan/phpstan-src/pull/4636) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Failling test: MergeWithCallableAndWillReturnRector forgest to introduce closure `use`](https://github.com/rectorphp/rector-phpunit/pull/604) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 day ago)
 - [Refactor ComposerPhpVersionFactory](https://github.com/phpstan/phpstan-src/pull/4635) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Fix mutation testing](https://github.com/phpstan/phpstan-src/pull/4631) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
@@ -54,7 +55,6 @@
 - [Update PHPStan packages](https://github.com/phpstan/phpstan-src/pull/4621) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix regression from update to theseer/tokenizer 2.x](https://github.com/sebastianbergmann/php-code-coverage/pull/1129) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 week ago)
 - [Fix missing iterable type](https://github.com/infection/infection/pull/2676) on [infection/infection](https://github.com/infection/infection) (1 week ago)
-- [Upgrade ondram/ci-detector to 4.x](https://github.com/phpstan/phpstan-src/pull/4617) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
