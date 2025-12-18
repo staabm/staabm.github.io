@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.3](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.3) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.92.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.92.3) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.4) (3 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.16.0](https://github.com/paratestphp/paratest/releases/tag/v7.16.0) (1 week ago)
-- [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.2](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.2) (1 week ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) - [2.0.1](https://github.com/theseer/tokenizer/releases/tag/2.0.1) (1 week ago)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - [2.3.0](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/releases/tag/2.3.0) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.7](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.7) (1 week ago)
