@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/build-infection](https://github.com/phpstan/build-infection) (3 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
+- [phpstan/build-infection](https://github.com/phpstan/build-infection) (4 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [php/doc-en](https://github.com/php/doc-en) (1 week ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 week ago)
 - [infection/infection](https://github.com/infection/infection) (1 week ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) (1 week ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -29,7 +29,7 @@
 - [JetBrainsOfficial](https://github.com/JetBrainsOfficial) (2 months ago)
 - [passbolt](https://github.com/passbolt) (5 months ago)
 - [packagist](https://github.com/packagist) (6 months ago)
-- [Enkora](https://github.com/Enkora) (6 months ago)
+- [Enkora](https://github.com/Enkora) (7 months ago)
 - [phpstan](https://github.com/phpstan) (1 year ago)
 - [oliverklee](https://github.com/oliverklee) (1 year ago)
 - [TicketSwap](https://github.com/TicketSwap) (1 year ago)
@@ -40,12 +40,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Cache nodes in FileNodesFetcher](https://github.com/phpstan/phpstan-src/pull/4636) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Failling test: MergeWithCallableAndWillReturnRector forgest to introduce closure `use`](https://github.com/rectorphp/rector-phpunit/pull/604) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 day ago)
-- [Refactor ComposerPhpVersionFactory](https://github.com/phpstan/phpstan-src/pull/4635) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Fix mutation testing](https://github.com/phpstan/phpstan-src/pull/4631) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Constants deprecation depends on Scope-&gt;getPhpVersion()](https://github.com/phpstan/phpstan-deprecation-rules/pull/170) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (6 days ago)
-- [Constants isDeprecation() depends on Scope-&gt;getPhpVersion()](https://github.com/phpstan/phpstan-src/pull/4630) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Cache nodes in FileNodesFetcher](https://github.com/phpstan/phpstan-src/pull/4636) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Failling test: MergeWithCallableAndWillReturnRector forgest to introduce closure `use`](https://github.com/rectorphp/rector-phpunit/pull/604) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 days ago)
+- [Refactor ComposerPhpVersionFactory](https://github.com/phpstan/phpstan-src/pull/4635) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Fix mutation testing](https://github.com/phpstan/phpstan-src/pull/4631) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [Constants deprecation depends on Scope-&gt;getPhpVersion()](https://github.com/phpstan/phpstan-deprecation-rules/pull/170) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 week ago)
+- [Constants isDeprecation() depends on Scope-&gt;getPhpVersion()](https://github.com/phpstan/phpstan-src/pull/4630) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Remove path normalizing from NodeDependencies](https://github.com/phpstan/phpstan-src/pull/4627) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Tests: Use Stubs instead of Mocks](https://github.com/phpstan/phpstan-src/pull/4626) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [upgrade to phpstan/phpstan-phpunit 2.0.10](https://github.com/phpstan/phpstan-src/pull/4625) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.3](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.3) (today)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.92.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.92.3) (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.4) (3 days ago)
+- [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.3](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.3) (1 day ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.92.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.92.3) (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.4) (4 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.16.0](https://github.com/paratestphp/paratest/releases/tag/v7.16.0) (1 week ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) - [2.0.1](https://github.com/theseer/tokenizer/releases/tag/2.0.1) (1 week ago)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - [2.3.0](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/releases/tag/2.3.0) (1 week ago)
