@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix MutatingScope-&gt;compareVariableTypeHolders()](https://github.com/phpstan/phpstan-src/pull/4641) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent unnecessary scope merging](https://github.com/phpstan/phpstan-src/pull/4640) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update phpstan/phpstan-phpunit to 2.0.11](https://github.com/phpstan/phpstan-src/pull/4639) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Coverage-xml cannot contain pcov and xdebug at the same time](https://github.com/sebastianbergmann/php-code-coverage/pull/1132) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (today)
@@ -54,7 +55,6 @@
 - [Remove path normalizing from NodeDependencies](https://github.com/phpstan/phpstan-src/pull/4627) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Tests: Use Stubs instead of Mocks](https://github.com/phpstan/phpstan-src/pull/4626) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [upgrade to phpstan/phpstan-phpunit 2.0.10](https://github.com/phpstan/phpstan-src/pull/4625) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Allow PHPUnit 12](https://github.com/phpstan/phpstan-src/pull/4624) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
