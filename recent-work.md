@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent reading &amp; json-decoding composer.json multiple times](https://github.com/phpstan/phpstan-src/pull/4645) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Remember function return type extensions](https://github.com/phpstan/phpstan-src/pull/4644) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Run cs-fixer on PHP 8.5](https://github.com/phpstan/phpstan-src/pull/4643) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix MutatingScope-&gt;compareVariableTypeHolders()](https://github.com/phpstan/phpstan-src/pull/4641) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix mutation testing](https://github.com/phpstan/phpstan-src/pull/4631) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Constants deprecation depends on Scope-&gt;getPhpVersion()](https://github.com/phpstan/phpstan-deprecation-rules/pull/170) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 week ago)
 - [Constants isDeprecation() depends on Scope-&gt;getPhpVersion()](https://github.com/phpstan/phpstan-src/pull/4630) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Remove path normalizing from NodeDependencies](https://github.com/phpstan/phpstan-src/pull/4627) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
