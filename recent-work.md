@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remember resolved types after pushInFunctionCall](https://github.com/phpstan/phpstan-src/pull/4648) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Use separate cache for CachedParser-&gt;parseFile()](https://github.com/phpstan/phpstan-src/pull/4647) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent reading &amp; neon-decoding multiple times](https://github.com/phpstan/phpstan-src/pull/4646) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent reading &amp; json-decoding composer.json multiple times](https://github.com/phpstan/phpstan-src/pull/4645) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Cache nodes in FileNodesFetcher](https://github.com/phpstan/phpstan-src/pull/4636) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Failling test: MergeWithCallableAndWillReturnRector forgest to introduce closure `use`](https://github.com/rectorphp/rector-phpunit/pull/604) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (4 days ago)
 - [Refactor ComposerPhpVersionFactory](https://github.com/phpstan/phpstan-src/pull/4635) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Fix mutation testing](https://github.com/phpstan/phpstan-src/pull/4631) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
