@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Ignore by identifier instead of regex error pattern](https://github.com/phpstan/phpstan-src/pull/4652) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Remember resolved types after pushInFunctionCall](https://github.com/phpstan/phpstan-src/pull/4648) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Use separate cache for CachedParser-&gt;parseFile()](https://github.com/phpstan/phpstan-src/pull/4647) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Prevent reading &amp; neon-decoding multiple times](https://github.com/phpstan/phpstan-src/pull/4646) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Perf: Refactor PHPUnitVersionDetector to use runtime reflection](https://github.com/phpstan/phpstan-phpunit/pull/273) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
 - [Cache nodes in FileNodesFetcher](https://github.com/phpstan/phpstan-src/pull/4636) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Failling test: MergeWithCallableAndWillReturnRector forgest to introduce closure `use`](https://github.com/rectorphp/rector-phpunit/pull/604) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (5 days ago)
-- [Refactor ComposerPhpVersionFactory](https://github.com/phpstan/phpstan-src/pull/4635) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
