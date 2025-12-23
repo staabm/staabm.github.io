@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [TypeCombinator: Remove unnecessary md5 encoding](https://github.com/phpstan/phpstan-src/pull/4658) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Microoptimize TypeCombinator](https://github.com/phpstan/phpstan-src/pull/4657) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Use sha256 which is cpu optimized in PHP 8.4&#43;](https://github.com/phpstan/phpstan-src/pull/4656) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Cache ast-parsing in RegexGroupParser](https://github.com/phpstan/phpstan-src/pull/4655) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Use self:: over $this-&gt; for PHPUnit assertions](https://github.com/phpstan/phpstan-src/pull/4654) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -53,8 +55,6 @@
 - [Fix MutatingScope-&gt;compareVariableTypeHolders()](https://github.com/phpstan/phpstan-src/pull/4641) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Prevent unnecessary scope merging](https://github.com/phpstan/phpstan-src/pull/4640) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Update phpstan/phpstan-phpunit to 2.0.11](https://github.com/phpstan/phpstan-src/pull/4639) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Coverage-xml cannot contain pcov and xdebug at the same time](https://github.com/sebastianbergmann/php-code-coverage/pull/1132) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (4 days ago)
-- [Prevent double normalization of FuncCall nodes](https://github.com/phpstan/phpstan-src/pull/4637) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
