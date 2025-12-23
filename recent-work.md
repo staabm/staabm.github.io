@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify FiberNodeScopeResolver](https://github.com/phpstan/phpstan-src/pull/4659) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [TypeCombinator: Remove unnecessary md5 encoding](https://github.com/phpstan/phpstan-src/pull/4658) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Microoptimize TypeCombinator](https://github.com/phpstan/phpstan-src/pull/4657) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Use sha256 which is cpu optimized in PHP 8.4&#43;](https://github.com/phpstan/phpstan-src/pull/4656) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Run cs-fixer on PHP 8.5](https://github.com/phpstan/phpstan-src/pull/4643) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Fix MutatingScope-&gt;compareVariableTypeHolders()](https://github.com/phpstan/phpstan-src/pull/4641) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Prevent unnecessary scope merging](https://github.com/phpstan/phpstan-src/pull/4640) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Update phpstan/phpstan-phpunit to 2.0.11](https://github.com/phpstan/phpstan-src/pull/4639) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
