@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent unnecessary work when resolving Expr\BinaryOp\Coalesce](https://github.com/phpstan/phpstan-src/pull/4661) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Prevent unnecessary work in TypeTraverser::map() callbacks](https://github.com/phpstan/phpstan-src/pull/4660) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify FiberNodeScopeResolver](https://github.com/phpstan/phpstan-src/pull/4659) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [TypeCombinator: Remove unnecessary md5 encoding](https://github.com/phpstan/phpstan-src/pull/4658) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Microoptimize TypeCombinator](https://github.com/phpstan/phpstan-src/pull/4657) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -53,8 +55,6 @@
 - [Prevent reading &amp; json-decoding composer.json multiple times](https://github.com/phpstan/phpstan-src/pull/4645) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Remember function return type extensions](https://github.com/phpstan/phpstan-src/pull/4644) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Run cs-fixer on PHP 8.5](https://github.com/phpstan/phpstan-src/pull/4643) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Fix MutatingScope-&gt;compareVariableTypeHolders()](https://github.com/phpstan/phpstan-src/pull/4641) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Prevent unnecessary scope merging](https://github.com/phpstan/phpstan-src/pull/4640) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
