@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use self:: over $this-&gt; for PHPUnit assertions](https://github.com/phpstan/phpstan-src/pull/4654) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Ignore by identifier instead of regex error pattern](https://github.com/phpstan/phpstan-src/pull/4652) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Remember resolved types after pushInFunctionCall](https://github.com/phpstan/phpstan-src/pull/4648) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Use separate cache for CachedParser-&gt;parseFile()](https://github.com/phpstan/phpstan-src/pull/4647) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Prevent double normalization of FuncCall nodes](https://github.com/phpstan/phpstan-src/pull/4637) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Perf: Refactor PHPUnitVersionDetector to use runtime reflection](https://github.com/phpstan/phpstan-phpunit/pull/273) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
 - [Cache nodes in FileNodesFetcher](https://github.com/phpstan/phpstan-src/pull/4636) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Failling test: MergeWithCallableAndWillReturnRector forgest to introduce closure `use`](https://github.com/rectorphp/rector-phpunit/pull/604) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
