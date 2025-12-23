@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement DynamicCallToAssertionIgnoreExtension](https://github.com/phpstan/phpstan-phpunit/pull/274) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [Prevent unnecessary work when resolving Expr\BinaryOp\Coalesce](https://github.com/phpstan/phpstan-src/pull/4661) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent unnecessary work in TypeTraverser::map() callbacks](https://github.com/phpstan/phpstan-src/pull/4660) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify FiberNodeScopeResolver](https://github.com/phpstan/phpstan-src/pull/4659) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Prevent reading &amp; neon-decoding multiple times](https://github.com/phpstan/phpstan-src/pull/4646) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Prevent reading &amp; json-decoding composer.json multiple times](https://github.com/phpstan/phpstan-src/pull/4645) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Remember function return type extensions](https://github.com/phpstan/phpstan-src/pull/4644) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Run cs-fixer on PHP 8.5](https://github.com/phpstan/phpstan-src/pull/4643) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
