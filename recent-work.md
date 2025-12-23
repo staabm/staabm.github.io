@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use sha256 which is cpu optimized in PHP 8.4&#43;](https://github.com/phpstan/phpstan-src/pull/4656) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Cache ast-parsing in RegexGroupParser](https://github.com/phpstan/phpstan-src/pull/4655) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Use self:: over $this-&gt; for PHPUnit assertions](https://github.com/phpstan/phpstan-src/pull/4654) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Ignore by identifier instead of regex error pattern](https://github.com/phpstan/phpstan-src/pull/4652) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Remember resolved types after pushInFunctionCall](https://github.com/phpstan/phpstan-src/pull/4648) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -53,8 +55,6 @@
 - [Update phpstan/phpstan-phpunit to 2.0.11](https://github.com/phpstan/phpstan-src/pull/4639) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Coverage-xml cannot contain pcov and xdebug at the same time](https://github.com/sebastianbergmann/php-code-coverage/pull/1132) on [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (4 days ago)
 - [Prevent double normalization of FuncCall nodes](https://github.com/phpstan/phpstan-src/pull/4637) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Perf: Refactor PHPUnitVersionDetector to use runtime reflection](https://github.com/phpstan/phpstan-phpunit/pull/273) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
-- [Cache nodes in FileNodesFetcher](https://github.com/phpstan/phpstan-src/pull/4636) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
