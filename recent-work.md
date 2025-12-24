@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent duplicate super-global-variable detection](https://github.com/phpstan/phpstan-src/pull/4662) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement DynamicCallToAssertionIgnoreExtension](https://github.com/phpstan/phpstan-phpunit/pull/274) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
 - [Prevent unnecessary work when resolving Expr\BinaryOp\Coalesce](https://github.com/phpstan/phpstan-src/pull/4661) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Prevent unnecessary work in TypeTraverser::map() callbacks](https://github.com/phpstan/phpstan-src/pull/4660) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Use separate cache for CachedParser-&gt;parseFile()](https://github.com/phpstan/phpstan-src/pull/4647) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Prevent reading &amp; neon-decoding multiple times](https://github.com/phpstan/phpstan-src/pull/4646) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Prevent reading &amp; json-decoding composer.json multiple times](https://github.com/phpstan/phpstan-src/pull/4645) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Remember function return type extensions](https://github.com/phpstan/phpstan-src/pull/4644) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
