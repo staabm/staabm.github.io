@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [TypeCombinator: Reduce number of intersect() calls](https://github.com/phpstan/phpstan-src/pull/4668) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [TypeCombinator: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4667) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [TypeCombinator: Simplify ConstantStringType handling](https://github.com/phpstan/phpstan-src/pull/4666) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [TypeCombinator: remove unnecessary loop](https://github.com/phpstan/phpstan-src/pull/4665) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Print more precise elapsed time](https://github.com/phpstan/phpstan-src/pull/4664) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -53,12 +55,11 @@
 - [Microoptimize TypeCombinator](https://github.com/phpstan/phpstan-src/pull/4657) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Use sha256 which is cpu optimized in PHP 8.4&#43;](https://github.com/phpstan/phpstan-src/pull/4656) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Cache ast-parsing in RegexGroupParser](https://github.com/phpstan/phpstan-src/pull/4655) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Use self:: over $this-&gt; for PHPUnit assertions](https://github.com/phpstan/phpstan-src/pull/4654) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Ignore by identifier instead of regex error pattern](https://github.com/phpstan/phpstan-src/pull/4652) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [infection/infection](https://github.com/infection/infection) - [0.32.0](https://github.com/infection/infection/releases/tag/0.32.0) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.5.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.5.2) (1 day ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.11](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.11) (6 days ago)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.3](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.3) (1 week ago)
@@ -68,4 +69,3 @@
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) - [2.0.1](https://github.com/theseer/tokenizer/releases/tag/2.0.1) (2 weeks ago)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - [2.3.0](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/releases/tag/2.3.0) (2 weeks ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.7](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.7) (2 weeks ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.7.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.7.0) (2 weeks ago)
