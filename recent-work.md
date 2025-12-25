@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [TypeCombinator: Simplify ConstantStringType handling](https://github.com/phpstan/phpstan-src/pull/4666) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [TypeCombinator: remove unnecessary loop](https://github.com/phpstan/phpstan-src/pull/4665) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Print more precise elapsed time](https://github.com/phpstan/phpstan-src/pull/4664) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent Scalar expressions to be specified](https://github.com/phpstan/phpstan-src/pull/4663) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent duplicate super-global-variable detection](https://github.com/phpstan/phpstan-src/pull/4662) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Cache ast-parsing in RegexGroupParser](https://github.com/phpstan/phpstan-src/pull/4655) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Use self:: over $this-&gt; for PHPUnit assertions](https://github.com/phpstan/phpstan-src/pull/4654) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Ignore by identifier instead of regex error pattern](https://github.com/phpstan/phpstan-src/pull/4652) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Remember resolved types after pushInFunctionCall](https://github.com/phpstan/phpstan-src/pull/4648) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Use separate cache for CachedParser-&gt;parseFile()](https://github.com/phpstan/phpstan-src/pull/4647) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
