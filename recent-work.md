@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent Scalar expressions to be specified](https://github.com/phpstan/phpstan-src/pull/4663) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent duplicate super-global-variable detection](https://github.com/phpstan/phpstan-src/pull/4662) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Implement DynamicCallToAssertionIgnoreExtension](https://github.com/phpstan/phpstan-phpunit/pull/274) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
 - [Prevent unnecessary work when resolving Expr\BinaryOp\Coalesce](https://github.com/phpstan/phpstan-src/pull/4661) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Remember resolved types after pushInFunctionCall](https://github.com/phpstan/phpstan-src/pull/4648) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Use separate cache for CachedParser-&gt;parseFile()](https://github.com/phpstan/phpstan-src/pull/4647) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Prevent reading &amp; neon-decoding multiple times](https://github.com/phpstan/phpstan-src/pull/4646) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Prevent reading &amp; json-decoding composer.json multiple times](https://github.com/phpstan/phpstan-src/pull/4645) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
