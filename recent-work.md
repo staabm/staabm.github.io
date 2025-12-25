@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [php/doc-en](https://github.com/php/doc-en) (2 weeks ago)
@@ -40,29 +40,29 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Prevent duplicate super-global-variable detection](https://github.com/phpstan/phpstan-src/pull/4662) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Implement DynamicCallToAssertionIgnoreExtension](https://github.com/phpstan/phpstan-phpunit/pull/274) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
-- [Prevent unnecessary work when resolving Expr\BinaryOp\Coalesce](https://github.com/phpstan/phpstan-src/pull/4661) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Prevent unnecessary work in TypeTraverser::map() callbacks](https://github.com/phpstan/phpstan-src/pull/4660) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Simplify FiberNodeScopeResolver](https://github.com/phpstan/phpstan-src/pull/4659) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [TypeCombinator: Remove unnecessary md5 encoding](https://github.com/phpstan/phpstan-src/pull/4658) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Microoptimize TypeCombinator](https://github.com/phpstan/phpstan-src/pull/4657) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Use sha256 which is cpu optimized in PHP 8.4&#43;](https://github.com/phpstan/phpstan-src/pull/4656) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Cache ast-parsing in RegexGroupParser](https://github.com/phpstan/phpstan-src/pull/4655) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Use self:: over $this-&gt; for PHPUnit assertions](https://github.com/phpstan/phpstan-src/pull/4654) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Ignore by identifier instead of regex error pattern](https://github.com/phpstan/phpstan-src/pull/4652) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Remember resolved types after pushInFunctionCall](https://github.com/phpstan/phpstan-src/pull/4648) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Use separate cache for CachedParser-&gt;parseFile()](https://github.com/phpstan/phpstan-src/pull/4647) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Prevent reading &amp; neon-decoding multiple times](https://github.com/phpstan/phpstan-src/pull/4646) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Prevent reading &amp; json-decoding composer.json multiple times](https://github.com/phpstan/phpstan-src/pull/4645) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Prevent duplicate super-global-variable detection](https://github.com/phpstan/phpstan-src/pull/4662) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Implement DynamicCallToAssertionIgnoreExtension](https://github.com/phpstan/phpstan-phpunit/pull/274) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
+- [Prevent unnecessary work when resolving Expr\BinaryOp\Coalesce](https://github.com/phpstan/phpstan-src/pull/4661) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Prevent unnecessary work in TypeTraverser::map() callbacks](https://github.com/phpstan/phpstan-src/pull/4660) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Simplify FiberNodeScopeResolver](https://github.com/phpstan/phpstan-src/pull/4659) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [TypeCombinator: Remove unnecessary md5 encoding](https://github.com/phpstan/phpstan-src/pull/4658) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Microoptimize TypeCombinator](https://github.com/phpstan/phpstan-src/pull/4657) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Use sha256 which is cpu optimized in PHP 8.4&#43;](https://github.com/phpstan/phpstan-src/pull/4656) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Cache ast-parsing in RegexGroupParser](https://github.com/phpstan/phpstan-src/pull/4655) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Use self:: over $this-&gt; for PHPUnit assertions](https://github.com/phpstan/phpstan-src/pull/4654) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Ignore by identifier instead of regex error pattern](https://github.com/phpstan/phpstan-src/pull/4652) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Remember resolved types after pushInFunctionCall](https://github.com/phpstan/phpstan-src/pull/4648) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Use separate cache for CachedParser-&gt;parseFile()](https://github.com/phpstan/phpstan-src/pull/4647) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Prevent reading &amp; neon-decoding multiple times](https://github.com/phpstan/phpstan-src/pull/4646) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Prevent reading &amp; json-decoding composer.json multiple times](https://github.com/phpstan/phpstan-src/pull/4645) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.5.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.5.2) (today)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.11](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.11) (5 days ago)
-- [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.3](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.3) (6 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.92.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.92.3) (6 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.5.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.5.2) (1 day ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.11](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.11) (6 days ago)
+- [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.3](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.3) (1 week ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.92.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.92.3) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.4) (1 week ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.16.0](https://github.com/paratestphp/paratest/releases/tag/v7.16.0) (2 weeks ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) - [2.0.1](https://github.com/theseer/tokenizer/releases/tag/2.0.1) (2 weeks ago)
