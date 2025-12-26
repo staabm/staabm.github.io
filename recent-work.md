@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [VerbosityLevel: early return type traversal](https://github.com/phpstan/phpstan-src/pull/4670) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [ParametersAcceptorSelector: early return type traversal](https://github.com/phpstan/phpstan-src/pull/4669) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [TypeCombinator: Reduce number of intersect() calls](https://github.com/phpstan/phpstan-src/pull/4668) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [TypeCombinator: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4667) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [TypeCombinator: Simplify ConstantStringType handling](https://github.com/phpstan/phpstan-src/pull/4666) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Simplify FiberNodeScopeResolver](https://github.com/phpstan/phpstan-src/pull/4659) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [TypeCombinator: Remove unnecessary md5 encoding](https://github.com/phpstan/phpstan-src/pull/4658) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Microoptimize TypeCombinator](https://github.com/phpstan/phpstan-src/pull/4657) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Use sha256 which is cpu optimized in PHP 8.4&#43;](https://github.com/phpstan/phpstan-src/pull/4656) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Cache ast-parsing in RegexGroupParser](https://github.com/phpstan/phpstan-src/pull/4655) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
