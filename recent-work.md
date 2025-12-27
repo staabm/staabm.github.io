@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use more efficient spl_object_id() over spl_object_hash()](https://github.com/phpstan/phpstan-src/pull/4674) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [LazyInternalScopeFactory: Prevent expensive repeated getService() calls](https://github.com/phpstan/phpstan-src/pull/4672) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [UnresolvableTypeHelper: early return type traversal](https://github.com/phpstan/phpstan-src/pull/4671) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [VerbosityLevel: early return type traversal](https://github.com/phpstan/phpstan-src/pull/4670) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Implement DynamicCallToAssertionIgnoreExtension](https://github.com/phpstan/phpstan-phpunit/pull/274) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
 - [Prevent unnecessary work when resolving Expr\BinaryOp\Coalesce](https://github.com/phpstan/phpstan-src/pull/4661) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Prevent unnecessary work in TypeTraverser::map() callbacks](https://github.com/phpstan/phpstan-src/pull/4660) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Simplify FiberNodeScopeResolver](https://github.com/phpstan/phpstan-src/pull/4659) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
