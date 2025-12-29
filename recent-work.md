@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Speedup analysis of big arrays containing closures](https://github.com/phpstan/phpstan-src/pull/4680) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Preserve already resolved types after scope re-creation](https://github.com/phpstan/phpstan-src/pull/4677) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Don&#39;t store scalar values in resolvedTypes](https://github.com/phpstan/phpstan-src/pull/4676) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [TypeCombinator: Remove never types early](https://github.com/phpstan/phpstan-src/pull/4675) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [TypeCombinator: remove unnecessary loop](https://github.com/phpstan/phpstan-src/pull/4665) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Print more precise elapsed time](https://github.com/phpstan/phpstan-src/pull/4664) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Prevent Scalar expressions to be specified](https://github.com/phpstan/phpstan-src/pull/4663) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Prevent duplicate super-global-variable detection](https://github.com/phpstan/phpstan-src/pull/4662) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
