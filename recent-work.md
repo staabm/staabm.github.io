@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (3 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 weeks ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent repetative method calls on ParametersAcceptor](https://github.com/phpstan/phpstan-src/pull/4686) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Fix PHP 7.4 build](https://github.com/phpstan/phpstan-src/pull/4685) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Speedup analysis of arrays containing closures](https://github.com/phpstan/phpstan-src/pull/4684) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Speedup analysis of big arrays containing closures](https://github.com/phpstan/phpstan-src/pull/4680) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Preserve already resolved types after scope re-creation](https://github.com/phpstan/phpstan-src/pull/4677) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -53,8 +55,6 @@
 - [TypeCombinator: Reduce number of intersect() calls](https://github.com/phpstan/phpstan-src/pull/4668) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [TypeCombinator: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4667) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [TypeCombinator: Simplify ConstantStringType handling](https://github.com/phpstan/phpstan-src/pull/4666) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [TypeCombinator: remove unnecessary loop](https://github.com/phpstan/phpstan-src/pull/4665) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Print more precise elapsed time](https://github.com/phpstan/phpstan-src/pull/4664) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
