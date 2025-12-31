@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent unnecessary work in BetterReflectionProvider](https://github.com/phpstan/phpstan-src/pull/4687) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent repetative method calls on ParametersAcceptor](https://github.com/phpstan/phpstan-src/pull/4686) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix PHP 7.4 build](https://github.com/phpstan/phpstan-src/pull/4685) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Speedup analysis of arrays containing closures](https://github.com/phpstan/phpstan-src/pull/4684) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [ParametersAcceptorSelector: early return type traversal](https://github.com/phpstan/phpstan-src/pull/4669) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [TypeCombinator: Reduce number of intersect() calls](https://github.com/phpstan/phpstan-src/pull/4668) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [TypeCombinator: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4667) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [TypeCombinator: Simplify ConstantStringType handling](https://github.com/phpstan/phpstan-src/pull/4666) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
