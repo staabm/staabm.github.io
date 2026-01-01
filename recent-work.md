@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Reapply &#34;Enable FileCacheStorage for OptimizedDirectorySourceLocatorFactory in tests&#34;](https://github.com/phpstan/phpstan-src/pull/4693) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify MutatingScope-&gt;invalidateMethodsOnExpression()](https://github.com/phpstan/phpstan-src/pull/4692) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent unnecessary node-key calculation](https://github.com/phpstan/phpstan-src/pull/4691) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent maybe unnecessary work in MutatingScope::filterBySpecifiedTypes()](https://github.com/phpstan/phpstan-src/pull/4690) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Use more efficient spl_object_id() over spl_object_hash()](https://github.com/phpstan/phpstan-src/pull/4674) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [LazyInternalScopeFactory: Prevent expensive repeated getService() calls](https://github.com/phpstan/phpstan-src/pull/4672) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [UnresolvableTypeHelper: early return type traversal](https://github.com/phpstan/phpstan-src/pull/4671) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [VerbosityLevel: early return type traversal](https://github.com/phpstan/phpstan-src/pull/4670) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
