@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (3 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (4 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 weeks ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
@@ -40,31 +40,31 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Prevent unnecessary work in BetterReflectionProvider](https://github.com/phpstan/phpstan-src/pull/4687) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Prevent repetative method calls on ParametersAcceptor](https://github.com/phpstan/phpstan-src/pull/4686) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Fix PHP 7.4 build](https://github.com/phpstan/phpstan-src/pull/4685) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Speedup analysis of arrays containing closures](https://github.com/phpstan/phpstan-src/pull/4684) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Speedup analysis of big arrays containing closures](https://github.com/phpstan/phpstan-src/pull/4680) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Preserve already resolved types after scope re-creation](https://github.com/phpstan/phpstan-src/pull/4677) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Don&#39;t store scalar values in resolvedTypes](https://github.com/phpstan/phpstan-src/pull/4676) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [TypeCombinator: Remove never types early](https://github.com/phpstan/phpstan-src/pull/4675) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Use more efficient spl_object_id() over spl_object_hash()](https://github.com/phpstan/phpstan-src/pull/4674) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [LazyInternalScopeFactory: Prevent expensive repeated getService() calls](https://github.com/phpstan/phpstan-src/pull/4672) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [UnresolvableTypeHelper: early return type traversal](https://github.com/phpstan/phpstan-src/pull/4671) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [VerbosityLevel: early return type traversal](https://github.com/phpstan/phpstan-src/pull/4670) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [ParametersAcceptorSelector: early return type traversal](https://github.com/phpstan/phpstan-src/pull/4669) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [TypeCombinator: Reduce number of intersect() calls](https://github.com/phpstan/phpstan-src/pull/4668) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [TypeCombinator: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4667) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Prevent unnecessary work in BetterReflectionProvider](https://github.com/phpstan/phpstan-src/pull/4687) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Prevent repetative method calls on ParametersAcceptor](https://github.com/phpstan/phpstan-src/pull/4686) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Fix PHP 7.4 build](https://github.com/phpstan/phpstan-src/pull/4685) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Speedup analysis of arrays containing closures](https://github.com/phpstan/phpstan-src/pull/4684) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Speedup analysis of big arrays containing closures](https://github.com/phpstan/phpstan-src/pull/4680) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Preserve already resolved types after scope re-creation](https://github.com/phpstan/phpstan-src/pull/4677) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Don&#39;t store scalar values in resolvedTypes](https://github.com/phpstan/phpstan-src/pull/4676) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [TypeCombinator: Remove never types early](https://github.com/phpstan/phpstan-src/pull/4675) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Use more efficient spl_object_id() over spl_object_hash()](https://github.com/phpstan/phpstan-src/pull/4674) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [LazyInternalScopeFactory: Prevent expensive repeated getService() calls](https://github.com/phpstan/phpstan-src/pull/4672) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [UnresolvableTypeHelper: early return type traversal](https://github.com/phpstan/phpstan-src/pull/4671) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [VerbosityLevel: early return type traversal](https://github.com/phpstan/phpstan-src/pull/4670) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [ParametersAcceptorSelector: early return type traversal](https://github.com/phpstan/phpstan-src/pull/4669) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [TypeCombinator: Reduce number of intersect() calls](https://github.com/phpstan/phpstan-src/pull/4668) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [TypeCombinator: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4667) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.11.0](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.11.0) (3 days ago)
-- [infection/infection](https://github.com/infection/infection) - [0.32.0](https://github.com/infection/infection/releases/tag/0.32.0) (6 days ago)
+- [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.11.0](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.11.0) (4 days ago)
+- [infection/infection](https://github.com/infection/infection) - [0.32.0](https://github.com/infection/infection/releases/tag/0.32.0) (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.5.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.5.2) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.11](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.11) (1 week ago)
-- [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.3](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.3) (1 week ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.92.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.92.3) (1 week ago)
+- [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.3](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.3) (2 weeks ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.92.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.92.3) (2 weeks ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.4) (2 weeks ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.16.0](https://github.com/paratestphp/paratest/releases/tag/v7.16.0) (3 weeks ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) - [2.0.1](https://github.com/theseer/tokenizer/releases/tag/2.0.1) (3 weeks ago)
