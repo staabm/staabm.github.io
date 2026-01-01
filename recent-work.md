@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Seldaek/monolog](https://github.com/Seldaek/monolog) - [2.11.0](https://github.com/Seldaek/monolog/releases/tag/2.11.0) (today)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.11.0](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.11.0) (4 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.32.0](https://github.com/infection/infection/releases/tag/0.32.0) (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.5.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.5.2) (1 week ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.4) (2 weeks ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.16.0](https://github.com/paratestphp/paratest/releases/tag/v7.16.0) (3 weeks ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) - [2.0.1](https://github.com/theseer/tokenizer/releases/tag/2.0.1) (3 weeks ago)
-- [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - [2.3.0](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/releases/tag/2.3.0) (3 weeks ago)
