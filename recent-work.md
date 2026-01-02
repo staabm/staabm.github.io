@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify NodeScopeResolver-&gt;processImmediatelyCalledCallable()](https://github.com/phpstan/phpstan-src/pull/4698) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Remove NodeFinder from MutatingScope-&gt;restoreThis()](https://github.com/phpstan/phpstan-src/pull/4697) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [ConstantStringType: Prevent creation of unnecessary constant-object types](https://github.com/phpstan/phpstan-src/pull/4696) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [TypeCombinator: prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4695) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Speedup analysis of arrays containing closures](https://github.com/phpstan/phpstan-src/pull/4684) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Speedup analysis of big arrays containing closures](https://github.com/phpstan/phpstan-src/pull/4680) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Preserve already resolved types after scope re-creation](https://github.com/phpstan/phpstan-src/pull/4677) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Don&#39;t store scalar values in resolvedTypes](https://github.com/phpstan/phpstan-src/pull/4676) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
