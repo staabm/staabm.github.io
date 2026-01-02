@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (5 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [TypeNodeResolver: Reduce number of intersect() calls](https://github.com/phpstan/phpstan-src/pull/4694) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Reapply &#34;Enable FileCacheStorage for OptimizedDirectorySourceLocatorFactory in tests&#34;](https://github.com/phpstan/phpstan-src/pull/4693) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Simplify MutatingScope-&gt;invalidateMethodsOnExpression()](https://github.com/phpstan/phpstan-src/pull/4692) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Prevent unnecessary node-key calculation](https://github.com/phpstan/phpstan-src/pull/4691) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,12 +55,11 @@
 - [TypeCombinator: Remove never types early](https://github.com/phpstan/phpstan-src/pull/4675) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Use more efficient spl_object_id() over spl_object_hash()](https://github.com/phpstan/phpstan-src/pull/4674) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [LazyInternalScopeFactory: Prevent expensive repeated getService() calls](https://github.com/phpstan/phpstan-src/pull/4672) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [UnresolvableTypeHelper: early return type traversal](https://github.com/phpstan/phpstan-src/pull/4671) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [Seldaek/monolog](https://github.com/Seldaek/monolog) - [2.11.0](https://github.com/Seldaek/monolog/releases/tag/2.11.0) (1 day ago)
+- [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.10.0](https://github.com/Seldaek/monolog/releases/tag/3.10.0) (today)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.11.0](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.11.0) (5 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.32.0](https://github.com/infection/infection/releases/tag/0.32.0) (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.5.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.5.2) (1 week ago)
