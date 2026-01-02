@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ConstantStringType: Prevent creation of unnecessary constant-object types](https://github.com/phpstan/phpstan-src/pull/4696) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [TypeCombinator: prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4695) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [TypeNodeResolver: Reduce number of intersect() calls](https://github.com/phpstan/phpstan-src/pull/4694) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Reapply &#34;Enable FileCacheStorage for OptimizedDirectorySourceLocatorFactory in tests&#34;](https://github.com/phpstan/phpstan-src/pull/4693) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Simplify MutatingScope-&gt;invalidateMethodsOnExpression()](https://github.com/phpstan/phpstan-src/pull/4692) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Preserve already resolved types after scope re-creation](https://github.com/phpstan/phpstan-src/pull/4677) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Don&#39;t store scalar values in resolvedTypes](https://github.com/phpstan/phpstan-src/pull/4676) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [TypeCombinator: Remove never types early](https://github.com/phpstan/phpstan-src/pull/4675) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Use more efficient spl_object_id() over spl_object_hash()](https://github.com/phpstan/phpstan-src/pull/4674) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [LazyInternalScopeFactory: Prevent expensive repeated getService() calls](https://github.com/phpstan/phpstan-src/pull/4672) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
