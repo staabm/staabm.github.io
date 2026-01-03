@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (5 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (6 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 weeks ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 weeks ago)
@@ -12,7 +12,7 @@
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) (3 weeks ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (3 weeks ago)
 - [infection/infection](https://github.com/infection/infection) (3 weeks ago)
-- [theseer/tokenizer](https://github.com/theseer/tokenizer) (3 weeks ago)
+- [theseer/tokenizer](https://github.com/theseer/tokenizer) (4 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,27 +40,27 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Simplify NodeScopeResolver-&gt;processImmediatelyCalledCallable()](https://github.com/phpstan/phpstan-src/pull/4698) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Remove NodeFinder from MutatingScope-&gt;restoreThis()](https://github.com/phpstan/phpstan-src/pull/4697) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [ConstantStringType: Prevent creation of unnecessary constant-object types](https://github.com/phpstan/phpstan-src/pull/4696) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [TypeCombinator: prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4695) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [TypeNodeResolver: Reduce number of intersect() calls](https://github.com/phpstan/phpstan-src/pull/4694) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Reapply &#34;Enable FileCacheStorage for OptimizedDirectorySourceLocatorFactory in tests&#34;](https://github.com/phpstan/phpstan-src/pull/4693) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Simplify MutatingScope-&gt;invalidateMethodsOnExpression()](https://github.com/phpstan/phpstan-src/pull/4692) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Prevent unnecessary node-key calculation](https://github.com/phpstan/phpstan-src/pull/4691) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Prevent maybe unnecessary work in MutatingScope::filterBySpecifiedTypes()](https://github.com/phpstan/phpstan-src/pull/4690) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Prevent unnecessary work in BetterReflectionProvider](https://github.com/phpstan/phpstan-src/pull/4687) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Prevent repetative method calls on ParametersAcceptor](https://github.com/phpstan/phpstan-src/pull/4686) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Fix PHP 7.4 build](https://github.com/phpstan/phpstan-src/pull/4685) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Speedup analysis of arrays containing closures](https://github.com/phpstan/phpstan-src/pull/4684) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Speedup analysis of big arrays containing closures](https://github.com/phpstan/phpstan-src/pull/4680) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Preserve already resolved types after scope re-creation](https://github.com/phpstan/phpstan-src/pull/4677) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Simplify NodeScopeResolver-&gt;processImmediatelyCalledCallable()](https://github.com/phpstan/phpstan-src/pull/4698) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Remove NodeFinder from MutatingScope-&gt;restoreThis()](https://github.com/phpstan/phpstan-src/pull/4697) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [ConstantStringType: Prevent creation of unnecessary constant-object types](https://github.com/phpstan/phpstan-src/pull/4696) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [TypeCombinator: prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4695) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [TypeNodeResolver: Reduce number of intersect() calls](https://github.com/phpstan/phpstan-src/pull/4694) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Reapply &#34;Enable FileCacheStorage for OptimizedDirectorySourceLocatorFactory in tests&#34;](https://github.com/phpstan/phpstan-src/pull/4693) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Simplify MutatingScope-&gt;invalidateMethodsOnExpression()](https://github.com/phpstan/phpstan-src/pull/4692) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Prevent unnecessary node-key calculation](https://github.com/phpstan/phpstan-src/pull/4691) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Prevent maybe unnecessary work in MutatingScope::filterBySpecifiedTypes()](https://github.com/phpstan/phpstan-src/pull/4690) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Prevent unnecessary work in BetterReflectionProvider](https://github.com/phpstan/phpstan-src/pull/4687) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Prevent repetative method calls on ParametersAcceptor](https://github.com/phpstan/phpstan-src/pull/4686) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Fix PHP 7.4 build](https://github.com/phpstan/phpstan-src/pull/4685) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Speedup analysis of arrays containing closures](https://github.com/phpstan/phpstan-src/pull/4684) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Speedup analysis of big arrays containing closures](https://github.com/phpstan/phpstan-src/pull/4680) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Preserve already resolved types after scope re-creation](https://github.com/phpstan/phpstan-src/pull/4677) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.10.0](https://github.com/Seldaek/monolog/releases/tag/3.10.0) (today)
-- [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.11.0](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.11.0) (5 days ago)
+- [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.10.0](https://github.com/Seldaek/monolog/releases/tag/3.10.0) (1 day ago)
+- [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.11.0](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.11.0) (6 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.32.0](https://github.com/infection/infection/releases/tag/0.32.0) (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.5.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.5.2) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.11](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.11) (2 weeks ago)
