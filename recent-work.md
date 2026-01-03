@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify Type-&gt;describe()](https://github.com/phpstan/phpstan-src/pull/4703) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Use static callback for TypeTraverser::map()](https://github.com/phpstan/phpstan-src/pull/4701) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix PHPStorm inspection errors](https://github.com/phpstan/phpstan-src/pull/4700) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify NodeScopeResolver-&gt;processImmediatelyCalledCallable()](https://github.com/phpstan/phpstan-src/pull/4698) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Prevent unnecessary work in BetterReflectionProvider](https://github.com/phpstan/phpstan-src/pull/4687) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Prevent repetative method calls on ParametersAcceptor](https://github.com/phpstan/phpstan-src/pull/4686) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Fix PHP 7.4 build](https://github.com/phpstan/phpstan-src/pull/4685) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Speedup analysis of arrays containing closures](https://github.com/phpstan/phpstan-src/pull/4684) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
