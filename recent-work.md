@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [NodeScopeResolver: Move assignByReference logic out of generic path](https://github.com/phpstan/phpstan-src/pull/4711) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [NodeScopeResolver: cheap checks first](https://github.com/phpstan/phpstan-src/pull/4710) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [NodeScopeResolver: determine callCallbackImmediately only for callables](https://github.com/phpstan/phpstan-src/pull/4709) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [NodeScopeResolver: Move condition out of loop](https://github.com/phpstan/phpstan-src/pull/4708) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent unnecessary work in TypeSpecifier-&gt;createForExpr()](https://github.com/phpstan/phpstan-src/pull/4707) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -53,8 +55,6 @@
 - [Remove NodeFinder from MutatingScope-&gt;restoreThis()](https://github.com/phpstan/phpstan-src/pull/4697) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [ConstantStringType: Prevent creation of unnecessary constant-object types](https://github.com/phpstan/phpstan-src/pull/4696) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [TypeCombinator: prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4695) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [TypeNodeResolver: Reduce number of intersect() calls](https://github.com/phpstan/phpstan-src/pull/4694) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Reapply &#34;Enable FileCacheStorage for OptimizedDirectorySourceLocatorFactory in tests&#34;](https://github.com/phpstan/phpstan-src/pull/4693) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
