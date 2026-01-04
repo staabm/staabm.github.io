@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent unnecessary work in TypeSpecifier-&gt;createForExpr()](https://github.com/phpstan/phpstan-src/pull/4707) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent unnecessary work in While/Do analysis](https://github.com/phpstan/phpstan-src/pull/4706) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Prevent unnecessary work in NodeScopeResolver-&gt;processAssignVar()](https://github.com/phpstan/phpstan-src/pull/4705) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Prevent unnecessary work while Ternary analysis](https://github.com/phpstan/phpstan-src/pull/4704) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Reapply &#34;Enable FileCacheStorage for OptimizedDirectorySourceLocatorFactory in tests&#34;](https://github.com/phpstan/phpstan-src/pull/4693) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Simplify MutatingScope-&gt;invalidateMethodsOnExpression()](https://github.com/phpstan/phpstan-src/pull/4692) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Prevent unnecessary node-key calculation](https://github.com/phpstan/phpstan-src/pull/4691) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Prevent maybe unnecessary work in MutatingScope::filterBySpecifiedTypes()](https://github.com/phpstan/phpstan-src/pull/4690) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
