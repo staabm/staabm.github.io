@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.92.4](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.92.4) (today)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.10.0](https://github.com/Seldaek/monolog/releases/tag/3.10.0) (2 days ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.11.0](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.11.0) (1 week ago)
 - [infection/infection](https://github.com/infection/infection) - [0.32.0](https://github.com/infection/infection/releases/tag/0.32.0) (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.5.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.5.2) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.11](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.11) (2 weeks ago)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.3](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.3) (2 weeks ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.92.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.92.3) (2 weeks ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.4) (2 weeks ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.16.0](https://github.com/paratestphp/paratest/releases/tag/v7.16.0) (3 weeks ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) - [2.0.1](https://github.com/theseer/tokenizer/releases/tag/2.0.1) (3 weeks ago)
