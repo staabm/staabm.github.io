@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [NodeScopeResolver: Skip const args processing](https://github.com/phpstan/phpstan-src/pull/4712) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [NodeScopeResolver: Move assignByReference logic out of generic path](https://github.com/phpstan/phpstan-src/pull/4711) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [NodeScopeResolver: cheap checks first](https://github.com/phpstan/phpstan-src/pull/4710) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [NodeScopeResolver: determine callCallbackImmediately only for callables](https://github.com/phpstan/phpstan-src/pull/4709) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Simplify NodeScopeResolver-&gt;processImmediatelyCalledCallable()](https://github.com/phpstan/phpstan-src/pull/4698) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Remove NodeFinder from MutatingScope-&gt;restoreThis()](https://github.com/phpstan/phpstan-src/pull/4697) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [ConstantStringType: Prevent creation of unnecessary constant-object types](https://github.com/phpstan/phpstan-src/pull/4696) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [TypeCombinator: prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4695) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
