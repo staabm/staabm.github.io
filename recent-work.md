@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Cheap checks first](https://github.com/phpstan/phpstan-src/pull/4715) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify NodeScopeResolver](https://github.com/phpstan/phpstan-src/pull/4714) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [More precise Type-&gt;getCallableParametersAcceptors() return type](https://github.com/phpstan/phpstan-src/pull/4713) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [NodeScopeResolver: Skip const args processing](https://github.com/phpstan/phpstan-src/pull/4712) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Simplify Type-&gt;describe()](https://github.com/phpstan/phpstan-src/pull/4703) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Use static callback for TypeTraverser::map()](https://github.com/phpstan/phpstan-src/pull/4701) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix PHPStorm inspection errors](https://github.com/phpstan/phpstan-src/pull/4700) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Simplify NodeScopeResolver-&gt;processImmediatelyCalledCallable()](https://github.com/phpstan/phpstan-src/pull/4698) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
