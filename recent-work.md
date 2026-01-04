@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent unnecessary work in NodeScopeResolver-&gt;processAssignVar()](https://github.com/phpstan/phpstan-src/pull/4716) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Cheap checks first](https://github.com/phpstan/phpstan-src/pull/4715) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify NodeScopeResolver](https://github.com/phpstan/phpstan-src/pull/4714) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [More precise Type-&gt;getCallableParametersAcceptors() return type](https://github.com/phpstan/phpstan-src/pull/4713) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Prevent unnecessary work while Ternary analysis](https://github.com/phpstan/phpstan-src/pull/4704) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Simplify Type-&gt;describe()](https://github.com/phpstan/phpstan-src/pull/4703) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Use static callback for TypeTraverser::map()](https://github.com/phpstan/phpstan-src/pull/4701) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Fix PHPStorm inspection errors](https://github.com/phpstan/phpstan-src/pull/4700) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
