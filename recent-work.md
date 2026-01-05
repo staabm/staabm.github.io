@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Less expression printing](https://github.com/phpstan/phpstan-src/pull/4723) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update dependency shipmonk/dead-code-detector to ^0.14.0](https://github.com/phpstan/phpstan-src/pull/4721) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent unnecessary work in MutatingScope-&gt;mergeVariableHolders()](https://github.com/phpstan/phpstan-src/pull/4720) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent unnecessary work in NodeScopeResolver-&gt;processAssignVar()](https://github.com/phpstan/phpstan-src/pull/4716) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,17 +55,16 @@
 - [Prevent unnecessary work in TypeSpecifier-&gt;createForExpr()](https://github.com/phpstan/phpstan-src/pull/4707) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Prevent unnecessary work in While/Do analysis](https://github.com/phpstan/phpstan-src/pull/4706) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Prevent unnecessary work in NodeScopeResolver-&gt;processAssignVar()](https://github.com/phpstan/phpstan-src/pull/4705) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Prevent unnecessary work while Ternary analysis](https://github.com/phpstan/phpstan-src/pull/4704) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [infection/infection](https://github.com/infection/infection) - [0.32.1](https://github.com/infection/infection/releases/tag/0.32.1) (today)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.12.1](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.12.1) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.20.2](https://github.com/redaxo/redaxo/releases/tag/5.20.2) (today)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.11.1](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.11.1) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.92.4](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.92.4) (1 day ago)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.10.0](https://github.com/Seldaek/monolog/releases/tag/3.10.0) (3 days ago)
-- [infection/infection](https://github.com/infection/infection) - [0.32.0](https://github.com/infection/infection/releases/tag/0.32.0) (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.5.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.5.2) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.11](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.11) (2 weeks ago)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.3](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.3) (2 weeks ago)
