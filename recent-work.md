@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update dependency shipmonk/dead-code-detector to ^0.14.0](https://github.com/phpstan/phpstan-src/pull/4721) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent unnecessary work in MutatingScope-&gt;mergeVariableHolders()](https://github.com/phpstan/phpstan-src/pull/4720) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent unnecessary work in NodeScopeResolver-&gt;processAssignVar()](https://github.com/phpstan/phpstan-src/pull/4716) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Cheap checks first](https://github.com/phpstan/phpstan-src/pull/4715) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,11 +55,11 @@
 - [Prevent unnecessary work in While/Do analysis](https://github.com/phpstan/phpstan-src/pull/4706) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Prevent unnecessary work in NodeScopeResolver-&gt;processAssignVar()](https://github.com/phpstan/phpstan-src/pull/4705) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Prevent unnecessary work while Ternary analysis](https://github.com/phpstan/phpstan-src/pull/4704) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Simplify Type-&gt;describe()](https://github.com/phpstan/phpstan-src/pull/4703) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.20.2](https://github.com/redaxo/redaxo/releases/tag/5.20.2) (today)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.11.1](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.11.1) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.92.4](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.92.4) (1 day ago)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.10.0](https://github.com/Seldaek/monolog/releases/tag/3.10.0) (3 days ago)
@@ -68,4 +69,3 @@
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.3](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.3) (2 weeks ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.4) (3 weeks ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.16.0](https://github.com/paratestphp/paratest/releases/tag/v7.16.0) (3 weeks ago)
-- [theseer/tokenizer](https://github.com/theseer/tokenizer) - [2.0.1](https://github.com/theseer/tokenizer/releases/tag/2.0.1) (4 weeks ago)
