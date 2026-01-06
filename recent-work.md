@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [NodeScopeResolver: duplicate only if we actually change the storage](https://github.com/phpstan/phpstan-src/pull/4729) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [NodeScopeResolver: cheap checks first](https://github.com/phpstan/phpstan-src/pull/4728) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [MutatingScope: Reduce duplicate expression printing](https://github.com/phpstan/phpstan-src/pull/4727) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [MutatingScope: Prevent duplicate work in getVariableType()](https://github.com/phpstan/phpstan-src/pull/4726) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/4725) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -53,8 +55,6 @@
 - [More precise Type-&gt;getCallableParametersAcceptors() return type](https://github.com/phpstan/phpstan-src/pull/4713) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [NodeScopeResolver: Skip const args processing](https://github.com/phpstan/phpstan-src/pull/4712) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [NodeScopeResolver: Move assignByReference logic out of generic path](https://github.com/phpstan/phpstan-src/pull/4711) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [NodeScopeResolver: cheap checks first](https://github.com/phpstan/phpstan-src/pull/4710) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [NodeScopeResolver: determine callCallbackImmediately only for callables](https://github.com/phpstan/phpstan-src/pull/4709) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
