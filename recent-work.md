@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix build](https://github.com/phpstan/phpstan-src/pull/4725) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Made closure php-src cachable](https://github.com/phpstan/phpstan-src/pull/4724) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Less expression printing](https://github.com/phpstan/phpstan-src/pull/4723) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Update dependency shipmonk/dead-code-detector to ^0.14.0](https://github.com/phpstan/phpstan-src/pull/4721) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [NodeScopeResolver: determine callCallbackImmediately only for callables](https://github.com/phpstan/phpstan-src/pull/4709) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [NodeScopeResolver: Move condition out of loop](https://github.com/phpstan/phpstan-src/pull/4708) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Prevent unnecessary work in TypeSpecifier-&gt;createForExpr()](https://github.com/phpstan/phpstan-src/pull/4707) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Prevent unnecessary work in While/Do analysis](https://github.com/phpstan/phpstan-src/pull/4706) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
