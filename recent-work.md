@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [FileTypeMapper: Don&#39;t deep traverse method/function/hook bodies](https://github.com/phpstan/phpstan-src/pull/4730) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [NodeScopeResolver: duplicate only if we actually change the storage](https://github.com/phpstan/phpstan-src/pull/4729) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [NodeScopeResolver: cheap checks first](https://github.com/phpstan/phpstan-src/pull/4728) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [MutatingScope: Reduce duplicate expression printing](https://github.com/phpstan/phpstan-src/pull/4727) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Simplify NodeScopeResolver](https://github.com/phpstan/phpstan-src/pull/4714) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [More precise Type-&gt;getCallableParametersAcceptors() return type](https://github.com/phpstan/phpstan-src/pull/4713) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [NodeScopeResolver: Skip const args processing](https://github.com/phpstan/phpstan-src/pull/4712) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [NodeScopeResolver: Move assignByReference logic out of generic path](https://github.com/phpstan/phpstan-src/pull/4711) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
