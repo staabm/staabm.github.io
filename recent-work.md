@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [infection/infection](https://github.com/infection/infection) - [0.32.1](https://github.com/infection/infection/releases/tag/0.32.1) (2 days ago)
+- [infection/infection](https://github.com/infection/infection) - [0.32.2](https://github.com/infection/infection/releases/tag/0.32.2) (today)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.12.1](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.12.1) (2 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.20.2](https://github.com/redaxo/redaxo/releases/tag/5.20.2) (2 days ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.11.1](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.11.1) (3 days ago)
