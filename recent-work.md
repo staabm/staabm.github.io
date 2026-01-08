@@ -59,12 +59,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.92.5](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.92.5) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.8.5](https://github.com/paratestphp/paratest/releases/tag/v7.8.5) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.32.2](https://github.com/infection/infection/releases/tag/0.32.2) (1 day ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.12.1](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.12.1) (3 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.20.2](https://github.com/redaxo/redaxo/releases/tag/5.20.2) (3 days ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.11.1](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.11.1) (4 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.92.4](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.92.4) (4 days ago)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.10.0](https://github.com/Seldaek/monolog/releases/tag/3.10.0) (6 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.5.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.5.2) (2 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.11](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.11) (2 weeks ago)
