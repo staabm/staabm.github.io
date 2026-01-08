@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (3 days ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [CallTo*Rule: cheap checks first](https://github.com/phpstan/phpstan-src/pull/4733) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Added native return types](https://github.com/phpstan/phpstan-src/pull/4732) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [TypeSpecifier: cheap checks first](https://github.com/phpstan/phpstan-src/pull/4731) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FileTypeMapper: Don&#39;t deep traverse method/function/hook bodies](https://github.com/phpstan/phpstan-src/pull/4730) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [NodeScopeResolver: duplicate only if we actually change the storage](https://github.com/phpstan/phpstan-src/pull/4729) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [NodeScopeResolver: cheap checks first](https://github.com/phpstan/phpstan-src/pull/4728) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -52,9 +55,6 @@
 - [Prevent unnecessary work in MutatingScope-&gt;mergeVariableHolders()](https://github.com/phpstan/phpstan-src/pull/4720) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Prevent unnecessary work in NodeScopeResolver-&gt;processAssignVar()](https://github.com/phpstan/phpstan-src/pull/4716) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Cheap checks first](https://github.com/phpstan/phpstan-src/pull/4715) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Simplify NodeScopeResolver](https://github.com/phpstan/phpstan-src/pull/4714) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [More precise Type-&gt;getCallableParametersAcceptors() return type](https://github.com/phpstan/phpstan-src/pull/4713) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [NodeScopeResolver: Skip const args processing](https://github.com/phpstan/phpstan-src/pull/4712) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
