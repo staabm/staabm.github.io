@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [FNSR false positive: Call to method X on a separate line has no effect](https://github.com/phpstan/phpstan-src/pull/4738) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Find all constant/method types per class at once](https://github.com/phpstan/phpstan-src/pull/4737) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Revert &#34;MutatingScope resolvedTypes is an array of ExpressionTypeHolder&#34;](https://github.com/phpstan/phpstan-src/pull/4736) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Optimize keepVoidType](https://github.com/phpstan/phpstan-src/pull/4735) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/4725) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Made closure php-src cachable](https://github.com/phpstan/phpstan-src/pull/4724) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Less expression printing](https://github.com/phpstan/phpstan-src/pull/4723) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Update dependency shipmonk/dead-code-detector to ^0.14.0](https://github.com/phpstan/phpstan-src/pull/4721) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
