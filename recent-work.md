@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (4 days ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 weeks ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Revert &#34;MutatingScope resolvedTypes is an array of ExpressionTypeHolder&#34;](https://github.com/phpstan/phpstan-src/pull/4736) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Optimize keepVoidType](https://github.com/phpstan/phpstan-src/pull/4735) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [CallTo*Rule: cheap checks first](https://github.com/phpstan/phpstan-src/pull/4733) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Added native return types](https://github.com/phpstan/phpstan-src/pull/4732) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [TypeSpecifier: cheap checks first](https://github.com/phpstan/phpstan-src/pull/4731) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Less expression printing](https://github.com/phpstan/phpstan-src/pull/4723) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Update dependency shipmonk/dead-code-detector to ^0.14.0](https://github.com/phpstan/phpstan-src/pull/4721) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Prevent unnecessary work in MutatingScope-&gt;mergeVariableHolders()](https://github.com/phpstan/phpstan-src/pull/4720) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Prevent unnecessary work in NodeScopeResolver-&gt;processAssignVar()](https://github.com/phpstan/phpstan-src/pull/4716) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Cheap checks first](https://github.com/phpstan/phpstan-src/pull/4715) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
