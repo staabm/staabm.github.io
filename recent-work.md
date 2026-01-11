@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (6 days ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (2 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent unnecessary work in Match_ analysis](https://github.com/phpstan/phpstan-src/pull/4739) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FNSR false positive: Call to method X on a separate line has no effect](https://github.com/phpstan/phpstan-src/pull/4738) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Find all constant/method types per class at once](https://github.com/phpstan/phpstan-src/pull/4737) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Revert &#34;MutatingScope resolvedTypes is an array of ExpressionTypeHolder&#34;](https://github.com/phpstan/phpstan-src/pull/4736) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [MutatingScope: Prevent duplicate work in getVariableType()](https://github.com/phpstan/phpstan-src/pull/4726) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/4725) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Made closure php-src cachable](https://github.com/phpstan/phpstan-src/pull/4724) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Less expression printing](https://github.com/phpstan/phpstan-src/pull/4723) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
