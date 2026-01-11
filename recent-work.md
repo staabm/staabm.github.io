@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement Type-&gt;getEnumCaseObject()](https://github.com/phpstan/phpstan-src/pull/4740) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent unnecessary work in Match_ analysis](https://github.com/phpstan/phpstan-src/pull/4739) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FNSR false positive: Call to method X on a separate line has no effect](https://github.com/phpstan/phpstan-src/pull/4738) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Find all constant/method types per class at once](https://github.com/phpstan/phpstan-src/pull/4737) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [MutatingScope: Reduce duplicate expression printing](https://github.com/phpstan/phpstan-src/pull/4727) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [MutatingScope: Prevent duplicate work in getVariableType()](https://github.com/phpstan/phpstan-src/pull/4726) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/4725) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Made closure php-src cachable](https://github.com/phpstan/phpstan-src/pull/4724) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
