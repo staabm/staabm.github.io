@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (1 week ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (2 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Faster IntersectionType-&gt;getFiniteTypes()](https://github.com/phpstan/phpstan-src/pull/4746) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [EnumCaseObjectType enumCaseName is readonly](https://github.com/phpstan/phpstan-src/pull/4745) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [IntersectionType: remove unnecessary hashing](https://github.com/phpstan/phpstan-src/pull/4744) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify PhpClassReflectionExtension](https://github.com/phpstan/phpstan-src/pull/4741) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,11 +55,11 @@
 - [TypeSpecifier: cheap checks first](https://github.com/phpstan/phpstan-src/pull/4731) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [FileTypeMapper: Don&#39;t deep traverse method/function/hook bodies](https://github.com/phpstan/phpstan-src/pull/4730) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [NodeScopeResolver: duplicate only if we actually change the storage](https://github.com/phpstan/phpstan-src/pull/4729) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [NodeScopeResolver: cheap checks first](https://github.com/phpstan/phpstan-src/pull/4728) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0-beta](https://github.com/deployphp/deployer/releases/tag/v8.0.0-beta) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.92.5](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.92.5) (4 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.8.5](https://github.com/paratestphp/paratest/releases/tag/v7.8.5) (4 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.32.2](https://github.com/infection/infection/releases/tag/0.32.2) (5 days ago)
@@ -68,4 +69,3 @@
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.10.0](https://github.com/Seldaek/monolog/releases/tag/3.10.0) (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.5.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.5.2) (2 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.11](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.11) (3 weeks ago)
-- [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.3](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.3) (3 weeks ago)
