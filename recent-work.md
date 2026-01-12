@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) - [5.1.4](https://github.com/stomp-php/stomp-php/releases/tag/5.1.4) (today)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0-beta](https://github.com/deployphp/deployer/releases/tag/v8.0.0-beta) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.92.5](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.92.5) (4 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.8.5](https://github.com/paratestphp/paratest/releases/tag/v7.8.5) (4 days ago)
@@ -68,4 +69,3 @@
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.11.1](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.11.1) (1 week ago)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.10.0](https://github.com/Seldaek/monolog/releases/tag/3.10.0) (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.5.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.5.2) (2 weeks ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.11](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.11) (3 weeks ago)
