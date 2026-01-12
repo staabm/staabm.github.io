@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [EnumCaseObjectType enumCaseName is readonly](https://github.com/phpstan/phpstan-src/pull/4745) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [IntersectionType: remove unnecessary hashing](https://github.com/phpstan/phpstan-src/pull/4744) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify PhpClassReflectionExtension](https://github.com/phpstan/phpstan-src/pull/4741) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Implement Type-&gt;getEnumCaseObject()](https://github.com/phpstan/phpstan-src/pull/4740) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [FileTypeMapper: Don&#39;t deep traverse method/function/hook bodies](https://github.com/phpstan/phpstan-src/pull/4730) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [NodeScopeResolver: duplicate only if we actually change the storage](https://github.com/phpstan/phpstan-src/pull/4729) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [NodeScopeResolver: cheap checks first](https://github.com/phpstan/phpstan-src/pull/4728) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [MutatingScope: Reduce duplicate expression printing](https://github.com/phpstan/phpstan-src/pull/4727) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
