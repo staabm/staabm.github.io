@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [IntersectionType: remove unnecessary hashing](https://github.com/phpstan/phpstan-src/pull/4744) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify PhpClassReflectionExtension](https://github.com/phpstan/phpstan-src/pull/4741) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Implement Type-&gt;getEnumCaseObject()](https://github.com/phpstan/phpstan-src/pull/4740) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Prevent unnecessary work in Match_ analysis](https://github.com/phpstan/phpstan-src/pull/4739) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [NodeScopeResolver: duplicate only if we actually change the storage](https://github.com/phpstan/phpstan-src/pull/4729) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [NodeScopeResolver: cheap checks first](https://github.com/phpstan/phpstan-src/pull/4728) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [MutatingScope: Reduce duplicate expression printing](https://github.com/phpstan/phpstan-src/pull/4727) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [MutatingScope: Prevent duplicate work in getVariableType()](https://github.com/phpstan/phpstan-src/pull/4726) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
