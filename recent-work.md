@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.67.0](https://github.com/Roave/BetterReflection/releases/tag/6.67.0) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.32.3](https://github.com/infection/infection/releases/tag/0.32.3) (today)
 - [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) - [5.1.4](https://github.com/stomp-php/stomp-php/releases/tag/5.1.4) (1 day ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0-beta](https://github.com/deployphp/deployer/releases/tag/v8.0.0-beta) (1 day ago)
@@ -68,4 +69,3 @@
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.20.2](https://github.com/redaxo/redaxo/releases/tag/5.20.2) (1 week ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.11.1](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.11.1) (1 week ago)
 - [Seldaek/monolog](https://github.com/Seldaek/monolog) - [3.10.0](https://github.com/Seldaek/monolog/releases/tag/3.10.0) (1 week ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [12.5.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.5.2) (2 weeks ago)
