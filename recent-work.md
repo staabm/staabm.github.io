@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Error: Don&#39;t persist redundant filePath value](https://github.com/phpstan/phpstan-src/pull/4751) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [MemoizingReflectionProvider-&gt;hasClass() is case-insensitive](https://github.com/phpstan/phpstan-src/pull/4750) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Faster IntersectionType-&gt;getFiniteTypes()](https://github.com/phpstan/phpstan-src/pull/4746) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [EnumCaseObjectType enumCaseName is readonly](https://github.com/phpstan/phpstan-src/pull/4745) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [CallTo*Rule: cheap checks first](https://github.com/phpstan/phpstan-src/pull/4733) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Added native return types](https://github.com/phpstan/phpstan-src/pull/4732) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [TypeSpecifier: cheap checks first](https://github.com/phpstan/phpstan-src/pull/4731) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [FileTypeMapper: Don&#39;t deep traverse method/function/hook bodies](https://github.com/phpstan/phpstan-src/pull/4730) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
