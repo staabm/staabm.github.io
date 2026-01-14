@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (1 week ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (2 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [FileTypeMapper: Prevent unnecessary file IO](https://github.com/phpstan/phpstan-src/pull/4756) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify ContainerDynamicReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/4755) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Error: Don&#39;t persist redundant filePath value](https://github.com/phpstan/phpstan-src/pull/4751) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [MemoizingReflectionProvider-&gt;hasClass() is case-insensitive](https://github.com/phpstan/phpstan-src/pull/4750) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Revert &#34;MutatingScope resolvedTypes is an array of ExpressionTypeHolder&#34;](https://github.com/phpstan/phpstan-src/pull/4736) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Optimize keepVoidType](https://github.com/phpstan/phpstan-src/pull/4735) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [CallTo*Rule: cheap checks first](https://github.com/phpstan/phpstan-src/pull/4733) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Added native return types](https://github.com/phpstan/phpstan-src/pull/4732) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
