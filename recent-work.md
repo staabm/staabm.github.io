@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [FileAnalyser: Move repetitive work out of hot loop](https://github.com/phpstan/phpstan-src/pull/4758) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [TypeSpecifier: Prevent unnecessary type specification](https://github.com/phpstan/phpstan-src/pull/4757) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FileTypeMapper: Prevent unnecessary file IO](https://github.com/phpstan/phpstan-src/pull/4756) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify ContainerDynamicReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/4755) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [FNSR false positive: Call to method X on a separate line has no effect](https://github.com/phpstan/phpstan-src/pull/4738) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Find all constant/method types per class at once](https://github.com/phpstan/phpstan-src/pull/4737) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Revert &#34;MutatingScope resolvedTypes is an array of ExpressionTypeHolder&#34;](https://github.com/phpstan/phpstan-src/pull/4736) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Optimize keepVoidType](https://github.com/phpstan/phpstan-src/pull/4735) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
