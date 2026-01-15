@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Cache ClassReflections](https://github.com/phpstan/phpstan-src/pull/4761) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Split MutatingScope-&gt;resolveType() into smaller methods - part 2](https://github.com/phpstan/phpstan-src/pull/4760) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Split MutatingScope-&gt;resolveType() into smaller methods](https://github.com/phpstan/phpstan-src/pull/4759) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FileAnalyser: Move repetitive work out of hot loop](https://github.com/phpstan/phpstan-src/pull/4758) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [TypeSpecifier: Prevent unnecessary type specification](https://github.com/phpstan/phpstan-src/pull/4757) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Simplify PhpClassReflectionExtension](https://github.com/phpstan/phpstan-src/pull/4741) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Implement Type-&gt;getEnumCaseObject()](https://github.com/phpstan/phpstan-src/pull/4740) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Prevent unnecessary work in Match_ analysis](https://github.com/phpstan/phpstan-src/pull/4739) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [FNSR false positive: Call to method X on a separate line has no effect](https://github.com/phpstan/phpstan-src/pull/4738) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Find all constant/method types per class at once](https://github.com/phpstan/phpstan-src/pull/4737) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
