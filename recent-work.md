@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Debug-Rules: cheap checks first](https://github.com/phpstan/phpstan-src/pull/4764) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix regression](https://github.com/phpstan/phpstan-src/pull/4763) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [MemoizingReflector: more precise types](https://github.com/phpstan/phpstan-src/pull/4762) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Cache ClassReflections](https://github.com/phpstan/phpstan-src/pull/4761) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Faster IntersectionType-&gt;getFiniteTypes()](https://github.com/phpstan/phpstan-src/pull/4746) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [EnumCaseObjectType enumCaseName is readonly](https://github.com/phpstan/phpstan-src/pull/4745) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [IntersectionType: remove unnecessary hashing](https://github.com/phpstan/phpstan-src/pull/4744) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Simplify PhpClassReflectionExtension](https://github.com/phpstan/phpstan-src/pull/4741) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
