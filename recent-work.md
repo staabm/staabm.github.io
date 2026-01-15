@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix regression](https://github.com/phpstan/phpstan-src/pull/4763) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [MemoizingReflector: more precise types](https://github.com/phpstan/phpstan-src/pull/4762) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Cache ClassReflections](https://github.com/phpstan/phpstan-src/pull/4761) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Split MutatingScope-&gt;resolveType() into smaller methods - part 2](https://github.com/phpstan/phpstan-src/pull/4760) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Split MutatingScope-&gt;resolveType() into smaller methods](https://github.com/phpstan/phpstan-src/pull/4759) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -53,8 +55,6 @@
 - [EnumCaseObjectType enumCaseName is readonly](https://github.com/phpstan/phpstan-src/pull/4745) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [IntersectionType: remove unnecessary hashing](https://github.com/phpstan/phpstan-src/pull/4744) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Simplify PhpClassReflectionExtension](https://github.com/phpstan/phpstan-src/pull/4741) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Implement Type-&gt;getEnumCaseObject()](https://github.com/phpstan/phpstan-src/pull/4740) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Prevent unnecessary work in Match_ analysis](https://github.com/phpstan/phpstan-src/pull/4739) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
