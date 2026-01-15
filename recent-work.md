@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Intersection of array&amp;hasOffset is accepted by non-empty-array](https://github.com/phpstan/phpstan-src/pull/4766) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [UnionType: inline array_map() call](https://github.com/phpstan/phpstan-src/pull/4765) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Debug-Rules: cheap checks first](https://github.com/phpstan/phpstan-src/pull/4764) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix regression](https://github.com/phpstan/phpstan-src/pull/4763) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Error: Don&#39;t persist redundant filePath value](https://github.com/phpstan/phpstan-src/pull/4751) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [MemoizingReflectionProvider-&gt;hasClass() is case-insensitive](https://github.com/phpstan/phpstan-src/pull/4750) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Faster IntersectionType-&gt;getFiniteTypes()](https://github.com/phpstan/phpstan-src/pull/4746) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [EnumCaseObjectType enumCaseName is readonly](https://github.com/phpstan/phpstan-src/pull/4745) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
