@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.5](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.5) (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.6) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.67.0](https://github.com/Roave/BetterReflection/releases/tag/6.67.0) (3 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.32.3](https://github.com/infection/infection/releases/tag/0.32.3) (3 days ago)
 - [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) - [5.1.4](https://github.com/stomp-php/stomp-php/releases/tag/5.1.4) (4 days ago)
