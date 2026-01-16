@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [More precise types](https://github.com/phpstan/phpstan-src/pull/4772) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [TypeCombinator: merge 2 loops in intersect()](https://github.com/phpstan/phpstan-src/pull/4771) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [TypeCombinator: filter NeverType out earlier](https://github.com/phpstan/phpstan-src/pull/4770) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify TypeCombinator-&gt;processArrayTypes()](https://github.com/phpstan/phpstan-src/pull/4769) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Split MutatingScope-&gt;resolveType() into smaller methods](https://github.com/phpstan/phpstan-src/pull/4759) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [FileAnalyser: Move repetitive work out of hot loop](https://github.com/phpstan/phpstan-src/pull/4758) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [TypeSpecifier: Prevent unnecessary type specification](https://github.com/phpstan/phpstan-src/pull/4757) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [FileTypeMapper: Prevent unnecessary file IO](https://github.com/phpstan/phpstan-src/pull/4756) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
