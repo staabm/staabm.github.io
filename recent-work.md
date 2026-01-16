@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify TypeCombinator-&gt;processArrayTypes()](https://github.com/phpstan/phpstan-src/pull/4769) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Drop MutatingScope-&gt;rememberConstructorScope()](https://github.com/phpstan/phpstan-src/pull/4768) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Intersection of array&amp;hasOffset is accepted by non-empty-array](https://github.com/phpstan/phpstan-src/pull/4766) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [UnionType: inline array_map() call](https://github.com/phpstan/phpstan-src/pull/4765) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [FileTypeMapper: Prevent unnecessary file IO](https://github.com/phpstan/phpstan-src/pull/4756) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Simplify ContainerDynamicReturnTypeExtension](https://github.com/phpstan/phpstan-src/pull/4755) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Error: Don&#39;t persist redundant filePath value](https://github.com/phpstan/phpstan-src/pull/4751) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [MemoizingReflectionProvider-&gt;hasClass() is case-insensitive](https://github.com/phpstan/phpstan-src/pull/4750) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
