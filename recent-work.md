@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [MutatingScope: merge loops into one](https://github.com/phpstan/phpstan-src/pull/4774) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [TypeCombinator: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4773) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [More precise types](https://github.com/phpstan/phpstan-src/pull/4772) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [TypeCombinator: merge 2 loops in intersect()](https://github.com/phpstan/phpstan-src/pull/4771) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Cache ClassReflections](https://github.com/phpstan/phpstan-src/pull/4761) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Split MutatingScope-&gt;resolveType() into smaller methods - part 2](https://github.com/phpstan/phpstan-src/pull/4760) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Split MutatingScope-&gt;resolveType() into smaller methods](https://github.com/phpstan/phpstan-src/pull/4759) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [FileAnalyser: Move repetitive work out of hot loop](https://github.com/phpstan/phpstan-src/pull/4758) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
