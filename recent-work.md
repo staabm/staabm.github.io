@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (1 week ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (2 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [TypeCombinator: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4773) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [More precise types](https://github.com/phpstan/phpstan-src/pull/4772) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [TypeCombinator: merge 2 loops in intersect()](https://github.com/phpstan/phpstan-src/pull/4771) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [TypeCombinator: filter NeverType out earlier](https://github.com/phpstan/phpstan-src/pull/4770) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Split MutatingScope-&gt;resolveType() into smaller methods - part 2](https://github.com/phpstan/phpstan-src/pull/4760) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Split MutatingScope-&gt;resolveType() into smaller methods](https://github.com/phpstan/phpstan-src/pull/4759) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [FileAnalyser: Move repetitive work out of hot loop](https://github.com/phpstan/phpstan-src/pull/4758) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [TypeSpecifier: Prevent unnecessary type specification](https://github.com/phpstan/phpstan-src/pull/4757) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
