@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [InitializerExprTypeResolver: move work out of loop](https://github.com/phpstan/phpstan-src/pull/4785) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [TrinaryLogic: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4784) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix PHP8.0 build](https://github.com/phpstan/phpstan-src/pull/4782) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix PHP7.4 build](https://github.com/phpstan/phpstan-src/pull/4781) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [TypeCombinator: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4773) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [More precise types](https://github.com/phpstan/phpstan-src/pull/4772) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [TypeCombinator: merge 2 loops in intersect()](https://github.com/phpstan/phpstan-src/pull/4771) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [TypeCombinator: filter NeverType out earlier](https://github.com/phpstan/phpstan-src/pull/4770) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
