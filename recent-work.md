@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (1 week ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (2 weeks ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (3 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 month ago)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 month ago)
@@ -21,7 +21,7 @@
 - [New and noteworthy: PHPStan and PHPUnit integration](https://staabm.github.io/2025/11/15/phpstan-validates-phpunit-data-provider.html) (2 months ago)
 - [Mutation testing with Infection in PHP](https://staabm.github.io/2025/08/01/infection-php-mutation-testing.html) (5 months ago)
 - [PHPStan remembered types from constructor](https://staabm.github.io/2025/04/15/phpstan-remember-constructor-types.html) (9 months ago)
-- [Thank You](https://staabm.github.io/2025/01/24/thank-you.html) (11 months ago)
+- [Thank You](https://staabm.github.io/2025/01/24/thank-you.html) (1 year ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
@@ -40,32 +40,32 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix PHP8.0 build](https://github.com/phpstan/phpstan-src/pull/4782) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Fix PHP7.4 build](https://github.com/phpstan/phpstan-src/pull/4781) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Update shipmonk-rnd/dead-code-detector](https://github.com/phpstan/phpstan/pull/13971) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [MutatingScope: Remove unnecessary union](https://github.com/phpstan/phpstan-src/pull/4780) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [MutatingScope: remove always-true condition](https://github.com/phpstan/phpstan-src/pull/4779) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [TrinaryLogic: faster or()](https://github.com/phpstan/phpstan-src/pull/4778) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Faster ExpressionTypeHolder-&gt;equals()](https://github.com/phpstan/phpstan-src/pull/4777) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [IntersectionType: Extract describeType() method](https://github.com/phpstan/phpstan-src/pull/4776) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [test remembered types in inherited scopes](https://github.com/phpstan/phpstan-src/pull/4775) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [MutatingScope: merge loops into one](https://github.com/phpstan/phpstan-src/pull/4774) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [TypeCombinator: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4773) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [More precise types](https://github.com/phpstan/phpstan-src/pull/4772) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [TypeCombinator: merge 2 loops in intersect()](https://github.com/phpstan/phpstan-src/pull/4771) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [TypeCombinator: filter NeverType out earlier](https://github.com/phpstan/phpstan-src/pull/4770) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Simplify TypeCombinator-&gt;processArrayTypes()](https://github.com/phpstan/phpstan-src/pull/4769) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Fix PHP8.0 build](https://github.com/phpstan/phpstan-src/pull/4782) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Fix PHP7.4 build](https://github.com/phpstan/phpstan-src/pull/4781) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Update shipmonk-rnd/dead-code-detector](https://github.com/phpstan/phpstan/pull/13971) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [MutatingScope: Remove unnecessary union](https://github.com/phpstan/phpstan-src/pull/4780) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [MutatingScope: remove always-true condition](https://github.com/phpstan/phpstan-src/pull/4779) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [TrinaryLogic: faster or()](https://github.com/phpstan/phpstan-src/pull/4778) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Faster ExpressionTypeHolder-&gt;equals()](https://github.com/phpstan/phpstan-src/pull/4777) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [IntersectionType: Extract describeType() method](https://github.com/phpstan/phpstan-src/pull/4776) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [test remembered types in inherited scopes](https://github.com/phpstan/phpstan-src/pull/4775) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [MutatingScope: merge loops into one](https://github.com/phpstan/phpstan-src/pull/4774) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [TypeCombinator: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4773) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [More precise types](https://github.com/phpstan/phpstan-src/pull/4772) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [TypeCombinator: merge 2 loops in intersect()](https://github.com/phpstan/phpstan-src/pull/4771) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [TypeCombinator: filter NeverType out earlier](https://github.com/phpstan/phpstan-src/pull/4770) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Simplify TypeCombinator-&gt;processArrayTypes()](https://github.com/phpstan/phpstan-src/pull/4769) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.6) (2 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.67.0](https://github.com/Roave/BetterReflection/releases/tag/6.67.0) (5 days ago)
-- [infection/infection](https://github.com/infection/infection) - [0.32.3](https://github.com/infection/infection/releases/tag/0.32.3) (5 days ago)
-- [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) - [5.1.4](https://github.com/stomp-php/stomp-php/releases/tag/5.1.4) (6 days ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0-beta](https://github.com/deployphp/deployer/releases/tag/v8.0.0-beta) (6 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.6) (3 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.67.0](https://github.com/Roave/BetterReflection/releases/tag/6.67.0) (6 days ago)
+- [infection/infection](https://github.com/infection/infection) - [0.32.3](https://github.com/infection/infection/releases/tag/0.32.3) (6 days ago)
+- [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) - [5.1.4](https://github.com/stomp-php/stomp-php/releases/tag/5.1.4) (1 week ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0-beta](https://github.com/deployphp/deployer/releases/tag/v8.0.0-beta) (1 week ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.92.5](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.92.5) (1 week ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.8.5](https://github.com/paratestphp/paratest/releases/tag/v7.8.5) (1 week ago)
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.12.1](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.12.1) (1 week ago)
-- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.20.2](https://github.com/redaxo/redaxo/releases/tag/5.20.2) (1 week ago)
+- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.12.1](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.12.1) (2 weeks ago)
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.20.2](https://github.com/redaxo/redaxo/releases/tag/5.20.2) (2 weeks ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) - [1.11.1](https://github.com/lesstif/php-JiraCloud-RESTAPI/releases/tag/1.11.1) (2 weeks ago)
