@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.35](https://github.com/phpstan/phpstan/releases/tag/2.1.35) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.10](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.10) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.1](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.1) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.13](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.13) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.34](https://github.com/phpstan/phpstan/releases/tag/2.1.34) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.68.0](https://github.com/Roave/BetterReflection/releases/tag/6.68.0) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.6) (4 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.32.3](https://github.com/infection/infection/releases/tag/0.32.3) (1 week ago)
