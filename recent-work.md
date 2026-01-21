@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/4796) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent unnecessary work around parametersAcceptor-&gt;getParameters() call-sites](https://github.com/phpstan/phpstan-src/pull/4792) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [SplObjectStorage iterates over objects](https://github.com/phpstan/phpstan-src/pull/4789) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [RuleTestCase: Use stable error order](https://github.com/phpstan/phpstan-src/pull/4788) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Faster ExpressionTypeHolder-&gt;equals()](https://github.com/phpstan/phpstan-src/pull/4777) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [IntersectionType: Extract describeType() method](https://github.com/phpstan/phpstan-src/pull/4776) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [test remembered types in inherited scopes](https://github.com/phpstan/phpstan-src/pull/4775) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [MutatingScope: merge loops into one](https://github.com/phpstan/phpstan-src/pull/4774) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
