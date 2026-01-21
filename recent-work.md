@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent repetitive calls to getArgs()](https://github.com/phpstan/phpstan-src/pull/4799) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix broken `array_count_values` array key inference](https://github.com/phpstan/phpstan-src/pull/4798) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/4796) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent unnecessary work around parametersAcceptor-&gt;getParameters() call-sites](https://github.com/phpstan/phpstan-src/pull/4792) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [MutatingScope: remove always-true condition](https://github.com/phpstan/phpstan-src/pull/4779) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [TrinaryLogic: faster or()](https://github.com/phpstan/phpstan-src/pull/4778) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Faster ExpressionTypeHolder-&gt;equals()](https://github.com/phpstan/phpstan-src/pull/4777) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [IntersectionType: Extract describeType() method](https://github.com/phpstan/phpstan-src/pull/4776) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
