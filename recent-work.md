@@ -4,7 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (2 weeks ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (3 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 month ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix broken `array_count_values` array key inference](https://github.com/phpstan/phpstan-src/pull/4798) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/4796) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent unnecessary work around parametersAcceptor-&gt;getParameters() call-sites](https://github.com/phpstan/phpstan-src/pull/4792) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [SplObjectStorage iterates over objects](https://github.com/phpstan/phpstan-src/pull/4789) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [TrinaryLogic: faster or()](https://github.com/phpstan/phpstan-src/pull/4778) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Faster ExpressionTypeHolder-&gt;equals()](https://github.com/phpstan/phpstan-src/pull/4777) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [IntersectionType: Extract describeType() method](https://github.com/phpstan/phpstan-src/pull/4776) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [test remembered types in inherited scopes](https://github.com/phpstan/phpstan-src/pull/4775) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
