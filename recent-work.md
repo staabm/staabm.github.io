@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (2 weeks ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (3 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 month ago)
@@ -40,31 +40,31 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Prevent unnecessary work around parametersAcceptor-&gt;getParameters() call-sites](https://github.com/phpstan/phpstan-src/pull/4792) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [SplObjectStorage iterates over objects](https://github.com/phpstan/phpstan-src/pull/4789) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [RuleTestCase: Use stable error order](https://github.com/phpstan/phpstan-src/pull/4788) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [InitializerExprTypeResolver: move work out of loop](https://github.com/phpstan/phpstan-src/pull/4785) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [TrinaryLogic: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4784) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Fix PHP8.0 build](https://github.com/phpstan/phpstan-src/pull/4782) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Fix PHP7.4 build](https://github.com/phpstan/phpstan-src/pull/4781) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Update shipmonk-rnd/dead-code-detector](https://github.com/phpstan/phpstan/pull/13971) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
-- [MutatingScope: Remove unnecessary union](https://github.com/phpstan/phpstan-src/pull/4780) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [MutatingScope: remove always-true condition](https://github.com/phpstan/phpstan-src/pull/4779) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [TrinaryLogic: faster or()](https://github.com/phpstan/phpstan-src/pull/4778) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Faster ExpressionTypeHolder-&gt;equals()](https://github.com/phpstan/phpstan-src/pull/4777) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [IntersectionType: Extract describeType() method](https://github.com/phpstan/phpstan-src/pull/4776) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [test remembered types in inherited scopes](https://github.com/phpstan/phpstan-src/pull/4775) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [MutatingScope: merge loops into one](https://github.com/phpstan/phpstan-src/pull/4774) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Prevent unnecessary work around parametersAcceptor-&gt;getParameters() call-sites](https://github.com/phpstan/phpstan-src/pull/4792) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [SplObjectStorage iterates over objects](https://github.com/phpstan/phpstan-src/pull/4789) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [RuleTestCase: Use stable error order](https://github.com/phpstan/phpstan-src/pull/4788) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [InitializerExprTypeResolver: move work out of loop](https://github.com/phpstan/phpstan-src/pull/4785) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [TrinaryLogic: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4784) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Fix PHP8.0 build](https://github.com/phpstan/phpstan-src/pull/4782) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Fix PHP7.4 build](https://github.com/phpstan/phpstan-src/pull/4781) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Update shipmonk-rnd/dead-code-detector](https://github.com/phpstan/phpstan/pull/13971) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
+- [MutatingScope: Remove unnecessary union](https://github.com/phpstan/phpstan-src/pull/4780) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [MutatingScope: remove always-true condition](https://github.com/phpstan/phpstan-src/pull/4779) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [TrinaryLogic: faster or()](https://github.com/phpstan/phpstan-src/pull/4778) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Faster ExpressionTypeHolder-&gt;equals()](https://github.com/phpstan/phpstan-src/pull/4777) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [IntersectionType: Extract describeType() method](https://github.com/phpstan/phpstan-src/pull/4776) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [test remembered types in inherited scopes](https://github.com/phpstan/phpstan-src/pull/4775) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [MutatingScope: merge loops into one](https://github.com/phpstan/phpstan-src/pull/4774) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.35](https://github.com/phpstan/phpstan/releases/tag/2.1.35) (today)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.10](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.10) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.1](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.1) (today)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.13](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.13) (1 day ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.68.0](https://github.com/Roave/BetterReflection/releases/tag/6.68.0) (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.6) (4 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.35](https://github.com/phpstan/phpstan/releases/tag/2.1.35) (1 day ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.10](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.10) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.1](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.1) (1 day ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.13](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.13) (2 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.68.0](https://github.com/Roave/BetterReflection/releases/tag/6.68.0) (2 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.6) (5 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.32.3](https://github.com/infection/infection/releases/tag/0.32.3) (1 week ago)
 - [stomp-php/stomp-php](https://github.com/stomp-php/stomp-php) - [5.1.4](https://github.com/stomp-php/stomp-php/releases/tag/5.1.4) (1 week ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0-beta](https://github.com/deployphp/deployer/releases/tag/v8.0.0-beta) (1 week ago)
