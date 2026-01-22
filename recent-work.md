@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (2 weeks ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (3 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ExpressionTypeHolder: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4800) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent repetitive calls to getArgs()](https://github.com/phpstan/phpstan-src/pull/4799) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix broken `array_count_values` array key inference](https://github.com/phpstan/phpstan-src/pull/4798) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/4796) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [MutatingScope: Remove unnecessary union](https://github.com/phpstan/phpstan-src/pull/4780) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [MutatingScope: remove always-true condition](https://github.com/phpstan/phpstan-src/pull/4779) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [TrinaryLogic: faster or()](https://github.com/phpstan/phpstan-src/pull/4778) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Faster ExpressionTypeHolder-&gt;equals()](https://github.com/phpstan/phpstan-src/pull/4777) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
