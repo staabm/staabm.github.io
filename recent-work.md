@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [TrinaryLogic: detect logic errors](https://github.com/phpstan/phpstan-src/pull/4802) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [ExpressionTypeHolder: re-use objects more often](https://github.com/phpstan/phpstan-src/pull/4801) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [ExpressionTypeHolder: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4800) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent repetitive calls to getArgs()](https://github.com/phpstan/phpstan-src/pull/4799) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix PHP7.4 build](https://github.com/phpstan/phpstan-src/pull/4781) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Update shipmonk-rnd/dead-code-detector](https://github.com/phpstan/phpstan/pull/13971) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [MutatingScope: Remove unnecessary union](https://github.com/phpstan/phpstan-src/pull/4780) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [MutatingScope: remove always-true condition](https://github.com/phpstan/phpstan-src/pull/4779) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
