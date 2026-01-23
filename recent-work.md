@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [NodeDependencies: prevent unnecessary FileHelper::normalizePath() calls](https://github.com/phpstan/phpstan-src/pull/4809) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [FileCacheStorage: Don&#39;t use sprintf() on maybe huge strings](https://github.com/phpstan/phpstan-src/pull/4808) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [TrinaryLogic: detect logic errors](https://github.com/phpstan/phpstan-src/pull/4802) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [ExpressionTypeHolder: re-use objects more often](https://github.com/phpstan/phpstan-src/pull/4801) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [ExpressionTypeHolder: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4800) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,12 +55,11 @@
 - [TrinaryLogic: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4784) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Fix PHP8.0 build](https://github.com/phpstan/phpstan-src/pull/4782) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Fix PHP7.4 build](https://github.com/phpstan/phpstan-src/pull/4781) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Update shipmonk-rnd/dead-code-detector](https://github.com/phpstan/phpstan/pull/13971) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
-- [MutatingScope: Remove unnecessary union](https://github.com/phpstan/phpstan-src/pull/4780) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.3.2](https://github.com/CuyZ/Valinor/releases/tag/2.3.2) (today)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.5](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.5) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.12](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.12) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.12](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.12) (1 day ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.13](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.13) (4 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.68.0](https://github.com/Roave/BetterReflection/releases/tag/6.68.0) (4 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.6) (1 week ago)
-- [infection/infection](https://github.com/infection/infection) - [0.32.3](https://github.com/infection/infection/releases/tag/0.32.3) (1 week ago)
