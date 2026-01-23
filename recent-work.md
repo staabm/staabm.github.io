@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [CallPrivateMethodThroughStaticRule: cheap checks first](https://github.com/phpstan/phpstan-src/pull/4812) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [ConstantArrayType: prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4811) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [ConstantStringType: prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4810) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [NodeDependencies: prevent unnecessary FileHelper::normalizePath() calls](https://github.com/phpstan/phpstan-src/pull/4809) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FileCacheStorage: Don&#39;t use sprintf() on maybe huge strings](https://github.com/phpstan/phpstan-src/pull/4808) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [TrinaryLogic: detect logic errors](https://github.com/phpstan/phpstan-src/pull/4802) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -52,9 +55,6 @@
 - [SplObjectStorage iterates over objects](https://github.com/phpstan/phpstan-src/pull/4789) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [RuleTestCase: Use stable error order](https://github.com/phpstan/phpstan-src/pull/4788) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [InitializerExprTypeResolver: move work out of loop](https://github.com/phpstan/phpstan-src/pull/4785) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [TrinaryLogic: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4784) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Fix PHP8.0 build](https://github.com/phpstan/phpstan-src/pull/4782) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Fix PHP7.4 build](https://github.com/phpstan/phpstan-src/pull/4781) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
