@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.11](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.11) (1 day ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.12](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.12) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.12](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.12) (1 day ago)
 - [nette/tester](https://github.com/nette/tester) - [v2.6.0](https://github.com/nette/tester/releases/tag/v2.6.0) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.36](https://github.com/phpstan/phpstan/releases/tag/2.1.36) (2 days ago)
