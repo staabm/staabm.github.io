@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [8.5.51](https://github.com/sebastianbergmann/phpunit/releases/tag/8.5.51) (today)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.1.4](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.4) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.37](https://github.com/phpstan/phpstan/releases/tag/2.1.37) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.93.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.93.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.12](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.12) (2 days ago)
 - [nette/tester](https://github.com/nette/tester) - [v2.6.0](https://github.com/nette/tester/releases/tag/v2.6.0) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.2](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.2) (3 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.13](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.13) (5 days ago)
