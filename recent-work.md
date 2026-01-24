@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ImpossibleCheckTypeHelper: Cache context determination](https://github.com/phpstan/phpstan-src/pull/4817) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [ImpossibleCheckTypeHelper: Remove unnecessary late-resolving](https://github.com/phpstan/phpstan-src/pull/4816) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [NodeDependencies: cache normalized filenames](https://github.com/phpstan/phpstan-src/pull/4815) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [CallPrivateMethodThroughStaticRule: cheap checks first](https://github.com/phpstan/phpstan-src/pull/4812) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [ConstantArrayType: prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4811) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,13 +55,11 @@
 - [Fix broken `array_count_values` array key inference](https://github.com/phpstan/phpstan-src/pull/4798) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/4796) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Prevent unnecessary work around parametersAcceptor-&gt;getParameters() call-sites](https://github.com/phpstan/phpstan-src/pull/4792) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [SplObjectStorage iterates over objects](https://github.com/phpstan/phpstan-src/pull/4789) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [RuleTestCase: Use stable error order](https://github.com/phpstan/phpstan-src/pull/4788) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [8.5.51](https://github.com/sebastianbergmann/phpunit/releases/tag/8.5.51) (today)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.7) (today)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.1.4](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.4) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.37](https://github.com/phpstan/phpstan/releases/tag/2.1.37) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.93.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.93.0) (1 day ago)
