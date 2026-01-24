@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.1.4](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.4) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.37](https://github.com/phpstan/phpstan/releases/tag/2.1.37) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.93.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.93.0) (1 day ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.3.2](https://github.com/CuyZ/Valinor/releases/tag/2.3.2) (1 day ago)
@@ -68,4 +69,3 @@
 - [nette/tester](https://github.com/nette/tester) - [v2.6.0](https://github.com/nette/tester/releases/tag/v2.6.0) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.2](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.2) (3 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.13](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.13) (5 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.68.0](https://github.com/Roave/BetterReflection/releases/tag/6.68.0) (5 days ago)
