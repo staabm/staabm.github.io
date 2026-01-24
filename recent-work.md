@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (2 weeks ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (3 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [NodeDependencies: cache normalized filenames](https://github.com/phpstan/phpstan-src/pull/4815) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [CallPrivateMethodThroughStaticRule: cheap checks first](https://github.com/phpstan/phpstan-src/pull/4812) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [ConstantArrayType: prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4811) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [ConstantStringType: prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4810) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,18 +55,17 @@
 - [Prevent unnecessary work around parametersAcceptor-&gt;getParameters() call-sites](https://github.com/phpstan/phpstan-src/pull/4792) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [SplObjectStorage iterates over objects](https://github.com/phpstan/phpstan-src/pull/4789) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [RuleTestCase: Use stable error order](https://github.com/phpstan/phpstan-src/pull/4788) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [InitializerExprTypeResolver: move work out of loop](https://github.com/phpstan/phpstan-src/pull/4785) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.37](https://github.com/phpstan/phpstan/releases/tag/2.1.37) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.93.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.93.0) (1 day ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.3.2](https://github.com/CuyZ/Valinor/releases/tag/2.3.2) (1 day ago)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.5](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.5) (1 day ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.12](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.12) (1 day ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.12](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.12) (2 days ago)
 - [nette/tester](https://github.com/nette/tester) - [v2.6.0](https://github.com/nette/tester/releases/tag/v2.6.0) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.36](https://github.com/phpstan/phpstan/releases/tag/2.1.36) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.2](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.2) (3 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.13](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.13) (5 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.68.0](https://github.com/Roave/BetterReflection/releases/tag/6.68.0) (5 days ago)
