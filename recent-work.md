@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (2 weeks ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (4 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [TemplateTypeHelper: prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4818) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [ImpossibleCheckTypeHelper: Cache context determination](https://github.com/phpstan/phpstan-src/pull/4817) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [ImpossibleCheckTypeHelper: Remove unnecessary late-resolving](https://github.com/phpstan/phpstan-src/pull/4816) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [NodeDependencies: cache normalized filenames](https://github.com/phpstan/phpstan-src/pull/4815) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Prevent repetitive calls to getArgs()](https://github.com/phpstan/phpstan-src/pull/4799) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Fix broken `array_count_values` array key inference](https://github.com/phpstan/phpstan-src/pull/4798) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/4796) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Prevent unnecessary work around parametersAcceptor-&gt;getParameters() call-sites](https://github.com/phpstan/phpstan-src/pull/4792) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
