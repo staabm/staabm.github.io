@@ -31,6 +31,7 @@ We are happy to see our end-users can reproduce the improvements on real world p
 
 We would love to see your raw performance numbers - [please share them with us](https://github.com/phpstan/phpstan/discussions/13976#new_comment_form).
 
+
 ## PHPStan loves InfectionPHP
 
 Another focus of this work was reducing bootstrap overhead so running the PHPStan integration while [mutating testing with InfectionPHP](https://staabm.github.io/2025/08/01/infection-php-mutation-testing.html) gets faster.
@@ -38,8 +39,22 @@ This area was mostly IO oriented, because when analyzing only few files of a mut
 
 In our reference mutation testing example, we measured 70% less files being read/analyzed and the PHPStan invocation got ~40 % faster.
 
+
 ## Known problems
 
 We are aware that after the 2.1.34 release analyzing files require more memory.
 After a few experiments we already got ideas on how we can improve on it.
 This will be explored in upcoming releases. Stay tuned.
+
+
+## Saving resource all over the world
+
+We expect this changes to considerably reduce the amount of energy used in CI pipelines.
+
+If you are using PHPStan in projects this will also [considerably reduce the wait time](https://twitter.com/OndrejMirtes/status/1601514447159578624) for the engineers.
+A shorter feedback loop helps developers to stay in focus and work more efficiently.
+
+Chances are high, that you or your company is saving a lot of money with recent releases.
+[Please consider supporting my work](https://github.com/sponsors/staabm), so I can make sure PHPStan keeps as fast as possible and evolves to the next level.
+
+All this performance work have been developed while holiday of my primary job.
