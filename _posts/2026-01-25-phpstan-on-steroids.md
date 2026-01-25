@@ -41,5 +41,5 @@ In our reference mutation testing example, we measured 70% less files being read
 ## Known problems
 
 We are aware that after the 2.1.34 release analyzing files require more memory.
-After a few experients we already got ideas on how we can improve on it.
-This will be explored in upcoming releases.
+After a few experiments we already got ideas on how we can improve on it.
+This will be explored in upcoming releases. Stay tuned.
