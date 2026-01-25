@@ -29,7 +29,7 @@ Our internal "reference benchmark" improved by ~50% in runtime. Running this ver
 In the related [release discussion](https://github.com/phpstan/phpstan/discussions/13976) we asked our users how they experience the new version.
 We are happy to see our end-users can reproduce the improvements on real world projects. People report improvements of 8% - 40%.
 
-We would love to see your raw performance numbers - [please share](https://github.com/phpstan/phpstan/discussions/13976#new_comment_form).
+We would love to see your raw performance numbers - [please share them with us](https://github.com/phpstan/phpstan/discussions/13976#new_comment_form).
 
 ## PHPStan loves InfectionPHP
 
