@@ -17,11 +17,11 @@
 
 #### 📜 My recent blog posts
 
+- [PHPStan on steroids](https://staabm.github.io/2026/01/25/phpstan-on-steroids.html) (today)
 - [Speedup PHPUnit code coverage generation](https://staabm.github.io/2025/11/26/speedup-phpunit-code-coverage.html) (2 months ago)
 - [New and noteworthy: PHPStan and PHPUnit integration](https://staabm.github.io/2025/11/15/phpstan-validates-phpunit-data-provider.html) (2 months ago)
 - [Mutation testing with Infection in PHP](https://staabm.github.io/2025/08/01/infection-php-mutation-testing.html) (5 months ago)
 - [PHPStan remembered types from constructor](https://staabm.github.io/2025/04/15/phpstan-remember-constructor-types.html) (9 months ago)
-- [Thank You](https://staabm.github.io/2025/01/24/thank-you.html) (1 year ago)
 
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
