@@ -34,7 +34,7 @@ We would love to see your raw performance numbers - [please share](https://githu
 ## PHPStan loves InfectionPHP
 
 Another focus of this work was reducing bootstrap overhead so running the PHPStan integration while [mutating testing with InfectionPHP](https://staabm.github.io/2025/08/01/infection-php-mutation-testing.html) gets faster.
-This area was mostly IO oriented, because when analyzing only few files of a mutation the overall time was dominated by reading files and loading configuration.
+This area was mostly IO oriented, because when analyzing only few files of a mutation the overall time was dominated by reading and ast-parsing files, and loading the configuration.
 
 In our reference mutation testing example, we measured 70% less files being read/analyzed and the PHPStan invocation got ~40 % faster.
 
