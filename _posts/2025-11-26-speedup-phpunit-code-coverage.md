@@ -3,6 +3,7 @@ tags:
     - PHPStan
     - PHPUnit
     - Mutation Testing
+    - Performance
 
 image: "images/og-images/speedup-phpunit-code-coverage.jpg"
 
@@ -142,18 +143,18 @@ Applying all those [fixes on the phpstan-src codebase](https://github.com/phpsta
 Before (PHPUnit 11.5.x)
 
 > Time: 04:37.104, Memory: 688.50 MB
-> 
+>
 > Generating code coverage report in PHPUnit XML format ... done [00:51.395]
 
 After upgrading to PHPUnit 12.5.x
 
 > Time: 04:23.595, Memory: 678.50 MB
-> 
+>
 > Generating code coverage report in PHPUnit XML format ... done [00:21.631]
 
 After adding `--exclude-source-from-xml-coverage`
 > Time: 04:16.807, Memory: 634.50 MB
-> 
+>
 > Generating code coverage report in PHPUnit XML format ... done [00:17.431]
 
 ## Summary
