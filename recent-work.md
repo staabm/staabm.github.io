@@ -3,13 +3,13 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (2 weeks ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (4 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 month ago)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 month ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 month ago)
 - [php/doc-en](https://github.com/php/doc-en) (1 month ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) (1 month ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) (1 month ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Create 2026-01-25-phpstan-on-steroids.md](https://github.com/staabm/staabm.github.io/pull/144) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [TemplateTypeHelper: prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4818) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [ImpossibleCheckTypeHelper: Cache context determination](https://github.com/phpstan/phpstan-src/pull/4817) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [ImpossibleCheckTypeHelper: Remove unnecessary late-resolving](https://github.com/phpstan/phpstan-src/pull/4816) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [ExpressionTypeHolder: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4800) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Prevent repetitive calls to getArgs()](https://github.com/phpstan/phpstan-src/pull/4799) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Fix broken `array_count_values` array key inference](https://github.com/phpstan/phpstan-src/pull/4798) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/4796) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
