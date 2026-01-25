@@ -55,7 +55,7 @@ If you are using PHPStan in projects this will also [considerably reduce the wai
 A shorter feedback loop helps developers to stay in focus and work more efficiently.
 
 Nowadays, this can be especially important when paired with AI tooling workflows,
-which can be particular slow and/or produce big amounts source code changes containing bugs which are hard to catch by the human eye.
+which can be particular slow and/or produce big amounts of source code changes containing bugs which are hard to catch by the human eye.
 
 Chances are high, that you or your company is saving a lot of money with recent releases.
 [Please consider supporting my work](https://github.com/sponsors/staabm), so I can make sure PHPStan keeps as fast as possible and evolves to the next level.
