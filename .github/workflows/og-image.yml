@@ -9,7 +9,7 @@ concurrency:
 
 jobs:
   generate_og_job:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
     name: Generate OG Images
     if: github.event.pull_request.draft == false
 
