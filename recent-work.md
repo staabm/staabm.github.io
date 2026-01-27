@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [11.5.50](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.50) (today)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.8](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.8) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.14](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.14) (2 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.1.4](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.4) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.37](https://github.com/phpstan/phpstan/releases/tag/2.1.37) (3 days ago)
