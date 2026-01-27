@@ -6,7 +6,7 @@ tags:
 image: "images/og-images/phpstan-on-steroids.jpg"
 
 ogImage:
-    title: "PHPStan on steroids"
+    title: "PHPStan on steroids - test"
     subtitle: "performance on a new level"
     imageUrl: "https://staabm.github.io/staabm.svg"
     fileName: "phpstan-on-steroids"
