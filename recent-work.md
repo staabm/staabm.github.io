@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (3 weeks ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (1 month ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 month ago)
@@ -17,10 +17,10 @@
 
 #### 📜 My recent blog posts
 
-- [PHPStan on steroids](https://staabm.github.io/2026/01/25/phpstan-on-steroids.html) (2 days ago)
+- [PHPStan on steroids](https://staabm.github.io/2026/01/25/phpstan-on-steroids.html) (3 days ago)
 - [Speedup PHPUnit code coverage generation](https://staabm.github.io/2025/11/26/speedup-phpunit-code-coverage.html) (2 months ago)
 - [New and noteworthy: PHPStan and PHPUnit integration](https://staabm.github.io/2025/11/15/phpstan-validates-phpunit-data-provider.html) (2 months ago)
-- [Mutation testing with Infection in PHP](https://staabm.github.io/2025/08/01/infection-php-mutation-testing.html) (5 months ago)
+- [Mutation testing with Infection in PHP](https://staabm.github.io/2025/08/01/infection-php-mutation-testing.html) (6 months ago)
 - [PHPStan remembered types from constructor](https://staabm.github.io/2025/04/15/phpstan-remember-constructor-types.html) (9 months ago)
 
 
@@ -28,7 +28,7 @@
 
 - [JetBrainsOfficial](https://github.com/JetBrainsOfficial) (3 months ago)
 - [passbolt](https://github.com/passbolt) (6 months ago)
-- [packagist](https://github.com/packagist) (7 months ago)
+- [packagist](https://github.com/packagist) (8 months ago)
 - [Enkora](https://github.com/Enkora) (8 months ago)
 - [phpstan](https://github.com/phpstan) (1 year ago)
 - [oliverklee](https://github.com/oliverklee) (2 years ago)
@@ -40,32 +40,32 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Don&#39;t lose known offset-types in array_replace()](https://github.com/phpstan/phpstan-src/pull/4826) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Don&#39;t error with `checkMissingCallableSignature: true` about degraded closures](https://github.com/phpstan/phpstan-src/pull/4823) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Update ogImage title in PHPStan post](https://github.com/staabm/staabm.github.io/pull/145) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
-- [Create 2026-01-25-phpstan-on-steroids.md](https://github.com/staabm/staabm.github.io/pull/144) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
-- [TemplateTypeHelper: prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4818) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [ImpossibleCheckTypeHelper: Cache context determination](https://github.com/phpstan/phpstan-src/pull/4817) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [ImpossibleCheckTypeHelper: Remove unnecessary late-resolving](https://github.com/phpstan/phpstan-src/pull/4816) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [NodeDependencies: cache normalized filenames](https://github.com/phpstan/phpstan-src/pull/4815) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [CallPrivateMethodThroughStaticRule: cheap checks first](https://github.com/phpstan/phpstan-src/pull/4812) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [ConstantArrayType: prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4811) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [ConstantStringType: prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4810) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [NodeDependencies: prevent unnecessary FileHelper::normalizePath() calls](https://github.com/phpstan/phpstan-src/pull/4809) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [FileCacheStorage: Don&#39;t use sprintf() on maybe huge strings](https://github.com/phpstan/phpstan-src/pull/4808) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [TrinaryLogic: detect logic errors](https://github.com/phpstan/phpstan-src/pull/4802) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [ExpressionTypeHolder: re-use objects more often](https://github.com/phpstan/phpstan-src/pull/4801) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Don&#39;t lose known offset-types in array_replace()](https://github.com/phpstan/phpstan-src/pull/4826) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Don&#39;t error with `checkMissingCallableSignature: true` about degraded closures](https://github.com/phpstan/phpstan-src/pull/4823) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Update ogImage title in PHPStan post](https://github.com/staabm/staabm.github.io/pull/145) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
+- [Create 2026-01-25-phpstan-on-steroids.md](https://github.com/staabm/staabm.github.io/pull/144) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
+- [TemplateTypeHelper: prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4818) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [ImpossibleCheckTypeHelper: Cache context determination](https://github.com/phpstan/phpstan-src/pull/4817) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [ImpossibleCheckTypeHelper: Remove unnecessary late-resolving](https://github.com/phpstan/phpstan-src/pull/4816) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [NodeDependencies: cache normalized filenames](https://github.com/phpstan/phpstan-src/pull/4815) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [CallPrivateMethodThroughStaticRule: cheap checks first](https://github.com/phpstan/phpstan-src/pull/4812) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [ConstantArrayType: prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4811) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [ConstantStringType: prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4810) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [NodeDependencies: prevent unnecessary FileHelper::normalizePath() calls](https://github.com/phpstan/phpstan-src/pull/4809) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [FileCacheStorage: Don&#39;t use sprintf() on maybe huge strings](https://github.com/phpstan/phpstan-src/pull/4808) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [TrinaryLogic: detect logic errors](https://github.com/phpstan/phpstan-src/pull/4802) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [ExpressionTypeHolder: re-use objects more often](https://github.com/phpstan/phpstan-src/pull/4801) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [recombee/php-api-client](https://github.com/recombee/php-api-client) - [v6.1.0](https://github.com/recombee/php-api-client/releases/tag/v6.1.0) (today)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.8](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.8) (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.8](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.8) (today)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.14](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.14) (2 days ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.1.4](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.4) (3 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.37](https://github.com/phpstan/phpstan/releases/tag/2.1.37) (3 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.93.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.93.0) (4 days ago)
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.3.2](https://github.com/CuyZ/Valinor/releases/tag/2.3.2) (4 days ago)
-- [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.5](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.5) (4 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.12](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.12) (4 days ago)
+- [recombee/php-api-client](https://github.com/recombee/php-api-client) - [v6.1.0](https://github.com/recombee/php-api-client/releases/tag/v6.1.0) (1 day ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.8](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.8) (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.8](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.8) (1 day ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.14](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.14) (3 days ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.1.4](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.4) (4 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.37](https://github.com/phpstan/phpstan/releases/tag/2.1.37) (4 days ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.93.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.93.0) (5 days ago)
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.3.2](https://github.com/CuyZ/Valinor/releases/tag/2.3.2) (5 days ago)
+- [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.5](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.5) (5 days ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.12](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.12) (5 days ago)
