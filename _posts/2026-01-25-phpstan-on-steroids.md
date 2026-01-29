@@ -47,7 +47,7 @@ After a few experiments we already got ideas on how we can improve on it.
 This will be explored in upcoming releases. Stay tuned.
 
 
-## Saving resource all over the world
+## Saving resources all over the world
 
 We expect this changes to considerably reduce the amount of energy used in CI pipelines.
 
