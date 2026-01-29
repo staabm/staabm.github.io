@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [MutatingScope: Faster createConditionalExpressions](https://github.com/phpstan/phpstan-src/pull/4831) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Don&#39;t lose known offset-types in array_replace()](https://github.com/phpstan/phpstan-src/pull/4826) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Don&#39;t error with `checkMissingCallableSignature: true` about degraded closures](https://github.com/phpstan/phpstan-src/pull/4823) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Update ogImage title in PHPStan post](https://github.com/staabm/staabm.github.io/pull/145) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
@@ -54,7 +55,6 @@
 - [NodeDependencies: prevent unnecessary FileHelper::normalizePath() calls](https://github.com/phpstan/phpstan-src/pull/4809) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [FileCacheStorage: Don&#39;t use sprintf() on maybe huge strings](https://github.com/phpstan/phpstan-src/pull/4808) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [TrinaryLogic: detect logic errors](https://github.com/phpstan/phpstan-src/pull/4802) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [ExpressionTypeHolder: re-use objects more often](https://github.com/phpstan/phpstan-src/pull/4801) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
