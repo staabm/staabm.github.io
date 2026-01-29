@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (3 weeks ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (1 month ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Re-use ExpressionTypeHolder](https://github.com/phpstan/phpstan-src/pull/4832) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [MutatingScope: Faster createConditionalExpressions](https://github.com/phpstan/phpstan-src/pull/4831) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Don&#39;t lose known offset-types in array_replace()](https://github.com/phpstan/phpstan-src/pull/4826) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Don&#39;t error with `checkMissingCallableSignature: true` about degraded closures](https://github.com/phpstan/phpstan-src/pull/4823) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -54,7 +55,6 @@
 - [ConstantStringType: prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4810) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [NodeDependencies: prevent unnecessary FileHelper::normalizePath() calls](https://github.com/phpstan/phpstan-src/pull/4809) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [FileCacheStorage: Don&#39;t use sprintf() on maybe huge strings](https://github.com/phpstan/phpstan-src/pull/4808) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [TrinaryLogic: detect logic errors](https://github.com/phpstan/phpstan-src/pull/4802) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
