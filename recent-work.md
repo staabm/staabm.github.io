@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.38](https://github.com/phpstan/phpstan/releases/tag/2.1.38) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.3](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.3) (2 days ago)
 - [recombee/php-api-client](https://github.com/recombee/php-api-client) - [v6.1.0](https://github.com/recombee/php-api-client/releases/tag/v6.1.0) (3 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.8](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.8) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.8](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.8) (3 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.14](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.14) (5 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.1.4](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.4) (6 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.37](https://github.com/phpstan/phpstan/releases/tag/2.1.37) (6 days ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.3.2](https://github.com/CuyZ/Valinor/releases/tag/2.3.2) (1 week ago)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.5](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.5) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.12](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.12) (1 week ago)
