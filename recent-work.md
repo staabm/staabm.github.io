@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent unnecessary work in MutatingScope-&gt;mergeVariableHolders()](https://github.com/phpstan/phpstan-src/pull/4837) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Cache IntersectionType results](https://github.com/phpstan/phpstan-src/pull/4836) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [IntersectionType cannot be void](https://github.com/phpstan/phpstan-src/pull/4835) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Re-use ExpressionTypeHolder](https://github.com/phpstan/phpstan-src/pull/4832) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [NodeDependencies: cache normalized filenames](https://github.com/phpstan/phpstan-src/pull/4815) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [CallPrivateMethodThroughStaticRule: cheap checks first](https://github.com/phpstan/phpstan-src/pull/4812) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [ConstantArrayType: prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4811) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [ConstantStringType: prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4810) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
