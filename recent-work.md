@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [NodeScopeResolver: Prevent repetitive union of static types](https://github.com/phpstan/phpstan-src/pull/4841) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify lowercase-string handling](https://github.com/phpstan/phpstan-src/pull/4838) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Prevent unnecessary work in MutatingScope-&gt;mergeVariableHolders()](https://github.com/phpstan/phpstan-src/pull/4837) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Cache IntersectionType results](https://github.com/phpstan/phpstan-src/pull/4836) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [ImpossibleCheckTypeHelper: Cache context determination](https://github.com/phpstan/phpstan-src/pull/4817) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [ImpossibleCheckTypeHelper: Remove unnecessary late-resolving](https://github.com/phpstan/phpstan-src/pull/4816) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [NodeDependencies: cache normalized filenames](https://github.com/phpstan/phpstan-src/pull/4815) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [CallPrivateMethodThroughStaticRule: cheap checks first](https://github.com/phpstan/phpstan-src/pull/4812) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
