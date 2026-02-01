@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.69.0](https://github.com/Roave/BetterReflection/releases/tag/6.69.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.38](https://github.com/phpstan/phpstan/releases/tag/2.1.38) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.3](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.3) (4 days ago)
 - [recombee/php-api-client](https://github.com/recombee/php-api-client) - [v6.1.0](https://github.com/recombee/php-api-client/releases/tag/v6.1.0) (5 days ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.1.4](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.4) (1 week ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.3.2](https://github.com/CuyZ/Valinor/releases/tag/2.3.2) (1 week ago)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.5](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.5) (1 week ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.12](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.12) (1 week ago)
