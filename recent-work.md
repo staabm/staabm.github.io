@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [NodeScopeResolver: Prevent repetitive union of static types](https://github.com/phpstan/phpstan-src/pull/4843) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [NodeScopeResolver: faster produceArrayDimFetchAssignValueToWrite()](https://github.com/phpstan/phpstan-src/pull/4842) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [NodeScopeResolver: Prevent repetitive union of static types](https://github.com/phpstan/phpstan-src/pull/4841) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Simplify lowercase-string handling](https://github.com/phpstan/phpstan-src/pull/4838) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Create 2026-01-25-phpstan-on-steroids.md](https://github.com/staabm/staabm.github.io/pull/144) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [TemplateTypeHelper: prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4818) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [ImpossibleCheckTypeHelper: Cache context determination](https://github.com/phpstan/phpstan-src/pull/4817) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [ImpossibleCheckTypeHelper: Remove unnecessary late-resolving](https://github.com/phpstan/phpstan-src/pull/4816) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
