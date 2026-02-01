@@ -205,6 +205,16 @@ In case you are working with long running branches you may consider using separa
 
 **Update:** The above tip regarding GitHub Actions cache handling works also for other tools, like e.g. RectorPHP.
 
+
+### Invalidate result cache based on extension knowledge
+
+PHPStan invalidates the result cache based on changes in analyzed files.
+
+But sometimes the project setup or custom extensions are so complex, the result cache invalidation mechanism cannot invalidate the cache properly and it becomes stale.
+
+You can implement [ResultCacheMetaExtension interface](https://phpstan.org/developing-extensions/result-cache-meta-extensions) to make PHPStan aware of changes external to PHPStan.
+
+
 ## Give back
 
 In case you find [my PHPStan contributions](https://github.com/phpstan/phpstan-src/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Astaabm+is%3Amerged) and/or this content useful, [please consider supporting my open source work](https://github.com/sponsors/staabm).
