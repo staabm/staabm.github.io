@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent repetitive calls to ParametersAcceptorSelector::selectFromArgs()](https://github.com/phpstan/phpstan-src/pull/4855) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [MutatingScope: prevent unnecessary scope re-creation after openssl* calls](https://github.com/phpstan/phpstan-src/pull/4854) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [ObjectType is not equal with different hasFinalByKeywordOverride](https://github.com/phpstan/phpstan-src/pull/4853) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [IterableType: Remove unnecessary work in toCoercedArgumentType()](https://github.com/phpstan/phpstan-src/pull/4852) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Re-use ExpressionTypeHolder](https://github.com/phpstan/phpstan-src/pull/4832) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [MutatingScope: Faster createConditionalExpressions](https://github.com/phpstan/phpstan-src/pull/4831) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Don&#39;t lose known offset-types in array_replace()](https://github.com/phpstan/phpstan-src/pull/4826) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Don&#39;t error with `checkMissingCallableSignature: true` about degraded closures](https://github.com/phpstan/phpstan-src/pull/4823) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
