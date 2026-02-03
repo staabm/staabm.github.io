@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Comparison with strtolower() etc. leads lower/upper-case-string](https://github.com/phpstan/phpstan-src/pull/4857) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [ConstantArrayTypeBuilder: Raise ARRAY_COUNT_LIMIT to 512](https://github.com/phpstan/phpstan-src/pull/4856) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent repetitive calls to ParametersAcceptorSelector::selectFromArgs()](https://github.com/phpstan/phpstan-src/pull/4855) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [MutatingScope: prevent unnecessary scope re-creation after openssl* calls](https://github.com/phpstan/phpstan-src/pull/4854) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Cache IntersectionType results](https://github.com/phpstan/phpstan-src/pull/4836) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [IntersectionType cannot be void](https://github.com/phpstan/phpstan-src/pull/4835) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Re-use ExpressionTypeHolder](https://github.com/phpstan/phpstan-src/pull/4832) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [MutatingScope: Faster createConditionalExpressions](https://github.com/phpstan/phpstan-src/pull/4831) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
