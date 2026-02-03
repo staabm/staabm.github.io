@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [MutatingScope: prevent unnecessary scope re-creation after openssl* calls](https://github.com/phpstan/phpstan-src/pull/4854) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [ObjectType is not equal with different hasFinalByKeywordOverride](https://github.com/phpstan/phpstan-src/pull/4853) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [IterableType: Remove unnecessary work in toCoercedArgumentType()](https://github.com/phpstan/phpstan-src/pull/4852) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [MutatingScope: Prevent unnecessary scope re-creation](https://github.com/phpstan/phpstan-src/pull/4848) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [NodeScopeResolver: Prevent repetitive union of static types](https://github.com/phpstan/phpstan-src/pull/4843) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -53,8 +55,6 @@
 - [MutatingScope: Faster createConditionalExpressions](https://github.com/phpstan/phpstan-src/pull/4831) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Don&#39;t lose known offset-types in array_replace()](https://github.com/phpstan/phpstan-src/pull/4826) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Don&#39;t error with `checkMissingCallableSignature: true` about degraded closures](https://github.com/phpstan/phpstan-src/pull/4823) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Update ogImage title in PHPStan post](https://github.com/staabm/staabm.github.io/pull/145) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
-- [Create 2026-01-25-phpstan-on-steroids.md](https://github.com/staabm/staabm.github.io/pull/144) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
