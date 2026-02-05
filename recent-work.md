@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (2 days ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (3 days ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (1 month ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (1 month ago)
@@ -40,27 +40,27 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Comparison with strtolower() etc. leads lower/upper-case-string](https://github.com/phpstan/phpstan-src/pull/4857) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [ConstantArrayTypeBuilder: Raise ARRAY_COUNT_LIMIT to 512](https://github.com/phpstan/phpstan-src/pull/4856) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Prevent repetitive calls to ParametersAcceptorSelector::selectFromArgs()](https://github.com/phpstan/phpstan-src/pull/4855) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [MutatingScope: prevent unnecessary scope re-creation after openssl* calls](https://github.com/phpstan/phpstan-src/pull/4854) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [ObjectType is not equal with different hasFinalByKeywordOverride](https://github.com/phpstan/phpstan-src/pull/4853) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [IterableType: Remove unnecessary work in toCoercedArgumentType()](https://github.com/phpstan/phpstan-src/pull/4852) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [MutatingScope: Prevent unnecessary scope re-creation](https://github.com/phpstan/phpstan-src/pull/4848) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [NodeScopeResolver: Prevent repetitive union of static types](https://github.com/phpstan/phpstan-src/pull/4843) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [NodeScopeResolver: faster produceArrayDimFetchAssignValueToWrite()](https://github.com/phpstan/phpstan-src/pull/4842) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [NodeScopeResolver: Prevent repetitive union of static types](https://github.com/phpstan/phpstan-src/pull/4841) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Simplify lowercase-string handling](https://github.com/phpstan/phpstan-src/pull/4838) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Prevent unnecessary work in MutatingScope-&gt;mergeVariableHolders()](https://github.com/phpstan/phpstan-src/pull/4837) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Cache IntersectionType results](https://github.com/phpstan/phpstan-src/pull/4836) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [IntersectionType cannot be void](https://github.com/phpstan/phpstan-src/pull/4835) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Re-use ExpressionTypeHolder](https://github.com/phpstan/phpstan-src/pull/4832) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Comparison with strtolower() etc. leads lower/upper-case-string](https://github.com/phpstan/phpstan-src/pull/4857) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [ConstantArrayTypeBuilder: Raise ARRAY_COUNT_LIMIT to 512](https://github.com/phpstan/phpstan-src/pull/4856) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Prevent repetitive calls to ParametersAcceptorSelector::selectFromArgs()](https://github.com/phpstan/phpstan-src/pull/4855) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [MutatingScope: prevent unnecessary scope re-creation after openssl* calls](https://github.com/phpstan/phpstan-src/pull/4854) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [ObjectType is not equal with different hasFinalByKeywordOverride](https://github.com/phpstan/phpstan-src/pull/4853) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [IterableType: Remove unnecessary work in toCoercedArgumentType()](https://github.com/phpstan/phpstan-src/pull/4852) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [MutatingScope: Prevent unnecessary scope re-creation](https://github.com/phpstan/phpstan-src/pull/4848) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [NodeScopeResolver: Prevent repetitive union of static types](https://github.com/phpstan/phpstan-src/pull/4843) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [NodeScopeResolver: faster produceArrayDimFetchAssignValueToWrite()](https://github.com/phpstan/phpstan-src/pull/4842) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [NodeScopeResolver: Prevent repetitive union of static types](https://github.com/phpstan/phpstan-src/pull/4841) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Simplify lowercase-string handling](https://github.com/phpstan/phpstan-src/pull/4838) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Prevent unnecessary work in MutatingScope-&gt;mergeVariableHolders()](https://github.com/phpstan/phpstan-src/pull/4837) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Cache IntersectionType results](https://github.com/phpstan/phpstan-src/pull/4836) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [IntersectionType cannot be void](https://github.com/phpstan/phpstan-src/pull/4835) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [Re-use ExpressionTypeHolder](https://github.com/phpstan/phpstan-src/pull/4832) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.69.0](https://github.com/Roave/BetterReflection/releases/tag/6.69.0) (3 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.38](https://github.com/phpstan/phpstan/releases/tag/2.1.38) (5 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.69.0](https://github.com/Roave/BetterReflection/releases/tag/6.69.0) (4 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.38](https://github.com/phpstan/phpstan/releases/tag/2.1.38) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.3](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.3) (1 week ago)
 - [recombee/php-api-client](https://github.com/recombee/php-api-client) - [v6.1.0](https://github.com/recombee/php-api-client/releases/tag/v6.1.0) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.8](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.8) (1 week ago)
