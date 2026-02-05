@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.17.0](https://github.com/paratestphp/paratest/releases/tag/v7.17.0) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.9](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.9) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.69.0](https://github.com/Roave/BetterReflection/releases/tag/6.69.0) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.38](https://github.com/phpstan/phpstan/releases/tag/2.1.38) (6 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.14](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.14) (1 week ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.1.4](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.4) (1 week ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.3.2](https://github.com/CuyZ/Valinor/releases/tag/2.3.2) (1 week ago)
-- [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.5](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.5) (1 week ago)
