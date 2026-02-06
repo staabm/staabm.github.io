@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.0.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.0.0) (today)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [13.0.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/13.0.0) (today)
+- [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - [9.0.0](https://github.com/sebastianbergmann/global-state/releases/tag/9.0.0) (today)
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.0.0](https://github.com/sebastianbergmann/environment/releases/tag/9.0.0) (today)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.0.0](https://github.com/sebastianbergmann/comparator/releases/tag/8.0.0) (today)
+- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - [5.0.0](https://github.com/sebastianbergmann/cli-parser/releases/tag/5.0.0) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.17.0](https://github.com/paratestphp/paratest/releases/tag/v7.17.0) (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.9](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.9) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.69.0](https://github.com/Roave/BetterReflection/releases/tag/6.69.0) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.38](https://github.com/phpstan/phpstan/releases/tag/2.1.38) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.3](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.3) (1 week ago)
-- [recombee/php-api-client](https://github.com/recombee/php-api-client) - [v6.1.0](https://github.com/recombee/php-api-client/releases/tag/v6.1.0) (1 week ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.8](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.8) (1 week ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.14](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.14) (1 week ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [7.1.4](https://github.com/sebastianbergmann/comparator/releases/tag/7.1.4) (1 week ago)
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.3.2](https://github.com/CuyZ/Valinor/releases/tag/2.3.2) (2 weeks ago)
