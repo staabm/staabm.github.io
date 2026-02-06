@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [13.0.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/13.0.1) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.0.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.0.0) (today)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [13.0.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/13.0.0) (today)
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - [9.0.0](https://github.com/sebastianbergmann/global-state/releases/tag/9.0.0) (today)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.0.0](https://github.com/sebastianbergmann/environment/releases/tag/9.0.0) (today)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.0.0](https://github.com/sebastianbergmann/comparator/releases/tag/8.0.0) (today)
