@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix build](https://github.com/phpstan/phpstan-src/pull/4858) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Comparison with strtolower() etc. leads lower/upper-case-string](https://github.com/phpstan/phpstan-src/pull/4857) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [ConstantArrayTypeBuilder: Raise ARRAY_COUNT_LIMIT to 512](https://github.com/phpstan/phpstan-src/pull/4856) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Prevent repetitive calls to ParametersAcceptorSelector::selectFromArgs()](https://github.com/phpstan/phpstan-src/pull/4855) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -54,7 +55,6 @@
 - [Prevent unnecessary work in MutatingScope-&gt;mergeVariableHolders()](https://github.com/phpstan/phpstan-src/pull/4837) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Cache IntersectionType results](https://github.com/phpstan/phpstan-src/pull/4836) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [IntersectionType cannot be void](https://github.com/phpstan/phpstan-src/pull/4835) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Re-use ExpressionTypeHolder](https://github.com/phpstan/phpstan-src/pull/4832) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
