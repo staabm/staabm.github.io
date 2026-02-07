@@ -38,7 +38,7 @@ Usually running a bisect process works like
 While this process works good, it requires a lot of manual input and might take a while until you finally find the regression commit.
 Some people might even not use this process because it requires a lot of boring manual commands.
 
-## Automated `git bisect`
+## Find a regression commit in PHPStan - Automated `git bisect`
 
 Automating the process requires a bit more preparation work but usually it will save you a lot of time in the bisection process.
 It also takes away possible human errors in the process, which can be frustrating when e.g. mistakenly mixing up good and bad commits.
