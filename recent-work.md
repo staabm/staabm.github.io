@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) - [2.21.0](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.21.0) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.19.0](https://github.com/paratestphp/paratest/releases/tag/v7.19.0) (1 day ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [13.0.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/13.0.1) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.0.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.0.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - [5.0.0](https://github.com/sebastianbergmann/cli-parser/releases/tag/5.0.0) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.69.0](https://github.com/Roave/BetterReflection/releases/tag/6.69.0) (6 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.38](https://github.com/phpstan/phpstan/releases/tag/2.1.38) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.3](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.3) (1 week ago)
