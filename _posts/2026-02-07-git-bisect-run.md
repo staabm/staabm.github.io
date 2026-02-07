@@ -127,3 +127,9 @@ Date:   Thu Jan 15 08:52:27 2026 +0100
  1 file changed, 2 insertions(+), 2 deletions(-)
 bisect found first bad commit
 ```
+
+In the above output we can see Git identified a commit:
+
+> 4a143bdda18c535d66ea5afbcea885c7cce63abd is the first bad commit
+
+To get more information about this commit you can for example open it in your browser: https://github.com/phpstan/phpstan-src/commit/4a143bdda18c535d66ea5afbcea885c7cce63abd
