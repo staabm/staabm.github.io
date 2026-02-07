@@ -66,7 +66,7 @@ exit-code should be `0` when everything went well and non-0 otherwise.
 
 #### Variant B: Find a PHPStan false-negative error
 
-In this case we want to find the regression commit in which PHPStan started to no longer report a expected error message.
+In this case we want to find the regression commit in which PHPStan started to no longer report an expected error message.
 
 Create a file `test.sh` in the phpstan-src root dir:
 ```
