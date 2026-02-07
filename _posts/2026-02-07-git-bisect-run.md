@@ -59,7 +59,7 @@ composer install
 PHPSTAN_FNSR=1 php bin/phpstan analyze bug-xyz.php --debug |grep "Expected type object, actual: mixed"
 ```
 
-run `./test.sh` and check whether the script returns as expected.
+run `./test.sh` and check whether the script returns as expected using `echo $?`.
 exit-code should be `0` when everything went well and non-0 otherwise.
 
 #### Variant B: Find a PHPStan false-negative error
@@ -75,7 +75,7 @@ PHPSTAN_FNSR=1 php bin/phpstan analyze bug-xyz.php --debug |grep "Expected type 
 test $? -eq 1 # error when grep did not match
 ```
 
-run `./test.sh` and check whether the script returns as expected.
+run `./test.sh` and check whether the script returns as expected using `echo $?`.
 exit-code should be `0` when everything went well and non-0 otherwise.
 
 ### Run `git bisect`
