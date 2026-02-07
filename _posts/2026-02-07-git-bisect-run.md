@@ -40,6 +40,9 @@ Some people might even not use this process because it requires a lot of boring 
 
 ## Automated `git bisect`
 
+Automating the process requires a bit more preparation work but usually it will save you a lot of time in the bisection process.
+It also takes away possible human errors in the process, which can be frustrating when e.g. mistakenly mixing up good and bad commits.
+
 ### Preparation
 
 Put your reproducer code into `bug-xyz.php` in the phpstan-src root dir and run `bin/phpstan bug-xyz.php` on it to verify/observe the faulty behavior.
