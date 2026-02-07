@@ -23,7 +23,7 @@ In the past I used [`git bisect`](https://git-scm.com/docs/git-bisect) to run th
 Recently I learned this process can be automated using the `git bisect run` subcommand.
 While the following procedure works in any Git based project, I will walk you through a real world PHPStan example.
 
-## Find a regression commit in PHPStan - the old manual way
+## Find a regression commit in PHPStan - the manual way
 
 Preparation: Put your reproducer code into `bug-xyz.php` in the phpstan-src root dir and run `bin/phpstan bug-xyz.php` on it to verify/observe the faulty behavior.
 
