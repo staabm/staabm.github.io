@@ -84,9 +84,9 @@ exit-code should be `0` when everything went well and non-0 otherwise.
 
 After we prepared a `bug-xyz.php` and a `test.sh` in the previous steps,
 we can now instruct `git bisect` to start the bisection process utilizing `test.sh` to inform Git whether the bug can be observed or not.
+The process might output a big wall of text while working through the Git history.
 
-Run `git bisect run ./test.sh` and it will run on its own until it finds the first bad commit.
-The process might output a big wall of text while working through the Git history:
+Run `git bisect run ./test.sh` and it will run on its own until it finds the first bad commit:
 
 ```
 git bisect run ./test.sh
