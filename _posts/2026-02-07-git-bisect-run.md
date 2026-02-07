@@ -90,7 +90,9 @@ The process might output a big wall of text while working through the Git histor
 
 ```
 git bisect run ./test.sh
-...
+.
+.
+.
 [8612d23273cae722be5d8cfd4e559357edf775a7] Split MutatingScope->resolveType() into smaller methods - part 2 (#4760)
 running './test.sh'
 Composer could not detect the root package (phpstan/phpstan-src) version, defaulting to '1.0.0'. See https://getcomposer.org/root-version
