@@ -21,7 +21,7 @@ After finding the regression commit it's easier to reason about the problem cont
 In the past I used [`git bisect`](https://git-scm.com/docs/git-bisect) to run the process and get to the source of the problem one step at a time.
 
 Recently I learned this process can be automated using the `git bisect run` subcommand.
-While the following procedure works in any git based project, I will walk you through a real world PHPStan example.
+While the following procedure works in any Git based project, I will walk you through a real world PHPStan example.
 
 ## Find a regression commit in PHPStan - the old manual way
 
@@ -38,7 +38,7 @@ Usually running a bisect process works like
 While this process works good, it requires a lot of manual input and might take a while until you finally find the regression commit.
 Some people might even not use this process because it requires a lot of boring manual commands.
 
-## Automated git bisect
+## Automated `git bisect`
 
 ### Preparation
 
