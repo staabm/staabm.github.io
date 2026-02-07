@@ -40,7 +40,7 @@ Some people might even not use this process because it requires a lot of boring 
 
 ## Find a regression commit - Automated `git bisect`
 
-Automating the process requires a bit more preparation work but usually it will save you a lot of time in the bisection process.
+Automating the process requires a bit more preparation work, but usually it will save you a lot of time in the bisection process.
 It also takes away possible human errors in the process, which can be frustrating when e.g. mistakenly mixing up good and bad commits.
 
 After having it setup once you can easily adapt the involved files and apply the idea to different code examples.
