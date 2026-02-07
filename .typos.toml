@@ -18,3 +18,4 @@ extend-ignore-re = [
 # Don't correct this words
 [default.extend-words]
 Symplify = "Symplify"
+ser = "ser" # $coverage = unserialize(file_get_contents(__DIR__ . '/coverage-data.ser'));
