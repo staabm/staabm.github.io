@@ -44,7 +44,7 @@ Some people might even not use this process because it requires a lot of boring 
 
 Put your reproducer code into `bug-xyz.php` in the phpstan-src root dir and run `bin/phpstan bug-xyz.php` on it to verify/observe the faulty behavior.
 
-### Find a PHPStan false-positive error
+#### Variant A: Find a PHPStan false-positive error
 
 In this case we want to find the regression commit in which PHPStan started to emit a wrong error message which it did not emit in previous versions.
 
@@ -59,7 +59,7 @@ PHPSTAN_FNSR=1 php bin/phpstan analyze bug-xyz.php --debug |grep "Expected type 
 run `./test.sh` and check whether the script returns as expected.
 exit-code should be `0` when everything went well and non-0 otherwise.
 
-### Find a PHPStan false-negative error
+#### Variant B: Find a PHPStan false-negative error
 
 In this case we want to find the regression commit in which PHPStan started to no longer report a expected error message.
 
