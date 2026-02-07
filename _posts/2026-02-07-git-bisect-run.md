@@ -33,7 +33,7 @@ Usually running a bisect process works like
 2. Tell the tooling about known working and non-working commits using `git bisect bad <your commit>` and `git bisect good <your commit>`.
 3. Run `composer install` to build PHPStan with its dependencies for the current commit.
 4. Run `bin/phpstan bug-xyz.php` and observe whether PHPStan works like expected. If the faulty behavior can be observed execute `git bisect bad`. If it works like expected execute `git bisect good`.
-5. Git will automatically checkout a new commit. You start with step 3 again and do these manual steps until Git tells you that it find the "first bad commit".
+5. Git will automatically checkout a new commit. You start with step 3 again and do these manual steps until Git tells you that it found the "first bad commit".
 
 While this process works good, it requires a lot of manual input and might take a while until you finally find the regression commit.
 Some people might even not use this process because it requires a lot of boring manual commands.
