@@ -59,6 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.18.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.18.0) (today)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.8](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.8) (today)
 - [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) - [2.22.1](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.22.1) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.0.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.0.1) (1 day ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.19.0](https://github.com/paratestphp/paratest/releases/tag/v7.19.0) (3 days ago)
@@ -67,5 +69,3 @@
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.0.0](https://github.com/sebastianbergmann/environment/releases/tag/9.0.0) (3 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.0.0](https://github.com/sebastianbergmann/comparator/releases/tag/8.0.0) (3 days ago)
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - [5.0.0](https://github.com/sebastianbergmann/cli-parser/releases/tag/5.0.0) (3 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.69.0](https://github.com/Roave/BetterReflection/releases/tag/6.69.0) (1 week ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.38](https://github.com/phpstan/phpstan/releases/tag/2.1.38) (1 week ago)
