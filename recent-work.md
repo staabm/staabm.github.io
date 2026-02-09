@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.13](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.13) (today)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.18.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.18.0) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.8](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.8) (today)
 - [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) - [2.22.1](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.22.1) (1 day ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - [9.0.0](https://github.com/sebastianbergmann/global-state/releases/tag/9.0.0) (3 days ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.0.0](https://github.com/sebastianbergmann/environment/releases/tag/9.0.0) (3 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.0.0](https://github.com/sebastianbergmann/comparator/releases/tag/8.0.0) (3 days ago)
-- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - [5.0.0](https://github.com/sebastianbergmann/cli-parser/releases/tag/5.0.0) (3 days ago)
