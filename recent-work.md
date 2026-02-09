@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [infection/infection](https://github.com/infection/infection) - [0.32.4](https://github.com/infection/infection/releases/tag/0.32.4) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.13](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.13) (today)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.18.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.18.0) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.8](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.8) (today)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [13.0.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/13.0.1) (3 days ago)
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - [9.0.0](https://github.com/sebastianbergmann/global-state/releases/tag/9.0.0) (3 days ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.0.0](https://github.com/sebastianbergmann/environment/releases/tag/9.0.0) (3 days ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.0.0](https://github.com/sebastianbergmann/comparator/releases/tag/8.0.0) (3 days ago)
