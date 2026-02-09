@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Narrow PHP_VERSION_ID on version_compare()](https://github.com/phpstan/phpstan-src/pull/4863) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Test deprecated constant via `define()`](https://github.com/Roave/BetterReflection/pull/1548) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [Refactor InitializerExprTypeResolver](https://github.com/phpstan/phpstan-src/pull/4861) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix build](https://github.com/phpstan/phpstan-doctrine/pull/721) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
@@ -54,7 +55,6 @@
 - [MutatingScope: Prevent unnecessary scope re-creation](https://github.com/phpstan/phpstan-src/pull/4848) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [NodeScopeResolver: Prevent repetitive union of static types](https://github.com/phpstan/phpstan-src/pull/4843) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [NodeScopeResolver: faster produceArrayDimFetchAssignValueToWrite()](https://github.com/phpstan/phpstan-src/pull/4842) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [NodeScopeResolver: Prevent repetitive union of static types](https://github.com/phpstan/phpstan-src/pull/4841) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
