@@ -3,6 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
@@ -11,8 +13,6 @@
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (1 month ago)
 - [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (1 month ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 month ago)
-- [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 month ago)
-- [php/doc-en](https://github.com/php/doc-en) (2 months ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Test deprecated constant via `define()`](https://github.com/Roave/BetterReflection/pull/1548) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [Refactor InitializerExprTypeResolver](https://github.com/phpstan/phpstan-src/pull/4861) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix build](https://github.com/phpstan/phpstan-doctrine/pull/721) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [Create 2026-02-07-git-bisect-run.md](https://github.com/staabm/staabm.github.io/pull/147) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
@@ -54,7 +55,6 @@
 - [NodeScopeResolver: Prevent repetitive union of static types](https://github.com/phpstan/phpstan-src/pull/4843) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [NodeScopeResolver: faster produceArrayDimFetchAssignValueToWrite()](https://github.com/phpstan/phpstan-src/pull/4842) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [NodeScopeResolver: Prevent repetitive union of static types](https://github.com/phpstan/phpstan-src/pull/4841) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Simplify lowercase-string handling](https://github.com/phpstan/phpstan-src/pull/4838) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
