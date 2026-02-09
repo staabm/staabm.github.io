@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Usage of deprecated E_STRICT is reported even though it&#39;s guarded](https://github.com/phpstan/phpstan-deprecation-rules/pull/174) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
 - [Narrow PHP_VERSION_ID on version_compare()](https://github.com/phpstan/phpstan-src/pull/4863) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Test deprecated constant via `define()`](https://github.com/Roave/BetterReflection/pull/1548) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [Refactor InitializerExprTypeResolver](https://github.com/phpstan/phpstan-src/pull/4861) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [IterableType: Remove unnecessary work in toCoercedArgumentType()](https://github.com/phpstan/phpstan-src/pull/4852) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [MutatingScope: Prevent unnecessary scope re-creation](https://github.com/phpstan/phpstan-src/pull/4848) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [NodeScopeResolver: Prevent repetitive union of static types](https://github.com/phpstan/phpstan-src/pull/4843) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [NodeScopeResolver: faster produceArrayDimFetchAssignValueToWrite()](https://github.com/phpstan/phpstan-src/pull/4842) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
