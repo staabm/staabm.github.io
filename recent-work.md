@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.3.2](https://github.com/paratestphp/paratest/releases/tag/v7.3.2) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.32.4](https://github.com/infection/infection/releases/tag/0.32.4) (1 day ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.13](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.13) (1 day ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.18.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.18.0) (1 day ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.8](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.8) (1 day ago)
 - [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) - [2.22.1](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.22.1) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.0.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.0.1) (2 days ago)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.19.0](https://github.com/paratestphp/paratest/releases/tag/v7.19.0) (4 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [13.0.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/13.0.1) (4 days ago)
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - [9.0.0](https://github.com/sebastianbergmann/global-state/releases/tag/9.0.0) (4 days ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.0.0](https://github.com/sebastianbergmann/environment/releases/tag/9.0.0) (4 days ago)
