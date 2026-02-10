@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.0.2](https://github.com/sebastianbergmann/phpunit/releases/tag/13.0.2) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.15](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.15) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.14](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.14) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.13](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.13) (today)
@@ -67,5 +68,4 @@
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.18.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.18.0) (1 day ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.8](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.8) (1 day ago)
 - [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) - [2.22.1](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.22.1) (2 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.0.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.0.1) (2 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [13.0.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/13.0.1) (4 days ago)
