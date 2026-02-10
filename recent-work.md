@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Do not degrade array-shapes in phpdocs](https://github.com/phpstan/phpstan-src/pull/4864) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Usage of deprecated E_STRICT is reported even though it&#39;s guarded](https://github.com/phpstan/phpstan-deprecation-rules/pull/174) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 day ago)
 - [Narrow PHP_VERSION_ID on version_compare()](https://github.com/phpstan/phpstan-src/pull/4863) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Test deprecated constant via `define()`](https://github.com/Roave/BetterReflection/pull/1548) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
@@ -54,7 +55,6 @@
 - [ObjectType is not equal with different hasFinalByKeywordOverride](https://github.com/phpstan/phpstan-src/pull/4853) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [IterableType: Remove unnecessary work in toCoercedArgumentType()](https://github.com/phpstan/phpstan-src/pull/4852) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [MutatingScope: Prevent unnecessary scope re-creation](https://github.com/phpstan/phpstan-src/pull/4848) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [NodeScopeResolver: Prevent repetitive union of static types](https://github.com/phpstan/phpstan-src/pull/4843) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
