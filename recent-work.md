@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.4](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.4) (today)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.10](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.10) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.39](https://github.com/phpstan/phpstan/releases/tag/2.1.39) (today)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.15](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.15) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.14](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.14) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.9](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.9) (today)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.9](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.9) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.16](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.16) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.0.2](https://github.com/sebastianbergmann/phpunit/releases/tag/13.0.2) (1 day ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.14](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.14) (1 day ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.3.2](https://github.com/paratestphp/paratest/releases/tag/v7.3.2) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) - [0.32.4](https://github.com/infection/infection/releases/tag/0.32.4) (2 days ago)
-- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.18.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.18.0) (2 days ago)
-- [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) - [2.22.1](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.22.1) (3 days ago)
