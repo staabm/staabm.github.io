@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix build](https://github.com/phpstan/phpstan-src/pull/4901) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Fix build](https://github.com/phpstan/phpstan-src/pull/4899) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Fix build](https://github.com/phpstan/phpstan-src/pull/4898) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/4892) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Loadable classes not recognized since 2.1.34 release](https://github.com/phpstan/phpstan-src/pull/4891) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent unnecssary Type traversal](https://github.com/phpstan/phpstan-src/pull/4874) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -52,9 +55,6 @@
 - [Refactor InitializerExprTypeResolver](https://github.com/phpstan/phpstan-src/pull/4861) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Fix build](https://github.com/phpstan/phpstan-doctrine/pull/721) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 days ago)
 - [Create 2026-02-07-git-bisect-run.md](https://github.com/staabm/staabm.github.io/pull/147) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
-- [Fix build](https://github.com/phpstan/phpstan-src/pull/4858) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Comparison with strtolower() etc. leads lower/upper-case-string](https://github.com/phpstan/phpstan-src/pull/4857) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [ConstantArrayTypeBuilder: Raise ARRAY_COUNT_LIMIT to 512](https://github.com/phpstan/phpstan-src/pull/4856) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
