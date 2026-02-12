@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (3 days ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (3 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 days ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix build](https://github.com/phpstan/phpstan-src/pull/4892) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Loadable classes not recognized since 2.1.34 release](https://github.com/phpstan/phpstan-src/pull/4891) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent unnecssary Type traversal](https://github.com/phpstan/phpstan-src/pull/4874) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Extract FileAnalyserCallback](https://github.com/phpstan/phpstan-src/pull/4872) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4868) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/4858) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Comparison with strtolower() etc. leads lower/upper-case-string](https://github.com/phpstan/phpstan-src/pull/4857) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [ConstantArrayTypeBuilder: Raise ARRAY_COUNT_LIMIT to 512](https://github.com/phpstan/phpstan-src/pull/4856) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Prevent repetitive calls to ParametersAcceptorSelector::selectFromArgs()](https://github.com/phpstan/phpstan-src/pull/4855) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [MutatingScope: prevent unnecessary scope re-creation after openssl* calls](https://github.com/phpstan/phpstan-src/pull/4854) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
