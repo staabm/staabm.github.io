@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) - [2.22.2](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.22.2) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.4](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.4) (1 day ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.4](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.4) (2 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.10](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.10) (2 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.9](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.9) (2 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.16](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.16) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.0.2](https://github.com/sebastianbergmann/phpunit/releases/tag/13.0.2) (3 days ago)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.3.2](https://github.com/paratestphp/paratest/releases/tag/v7.3.2) (3 days ago)
