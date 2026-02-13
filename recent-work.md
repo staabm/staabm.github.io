@@ -40,9 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [DependencyResolver: Reduce duplicate work](https://github.com/phpstan/phpstan-src/pull/4923) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [MutatingScope: prevent unnecessary work in removeTypeFromExpression()](https://github.com/phpstan/phpstan-src/pull/4922) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Faster NetteContainer](https://github.com/phpstan/phpstan-src/pull/4921) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Fix @phpstan-assert not working correctly with union types](https://github.com/phpstan/phpstan-src/pull/4920) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Fix `@phpstan-assert` not working correctly with union types](https://github.com/phpstan/phpstan-src/pull/4920) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/4905) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/4901) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/4899) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4868) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Do not degrade array-shapes in phpdocs](https://github.com/phpstan/phpstan-src/pull/4864) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Usage of deprecated E_STRICT is reported even though it&#39;s guarded](https://github.com/phpstan/phpstan-deprecation-rules/pull/174) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (4 days ago)
-- [Narrow PHP_VERSION_ID on version_compare()](https://github.com/phpstan/phpstan-src/pull/4863) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
