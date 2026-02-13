@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.19.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.19.0) (today)
 - [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) - [2.22.2](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.22.2) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.4](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.4) (1 day ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.4](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.4) (2 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.14](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.14) (2 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.9](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.9) (2 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.16](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.16) (2 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.0.2](https://github.com/sebastianbergmann/phpunit/releases/tag/13.0.2) (3 days ago)
