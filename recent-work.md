@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent duplicate path normalization](https://github.com/phpstan/phpstan-src/pull/4931) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Implement StubData::__set_state()](https://github.com/ondrejmirtes/BetterReflection/pull/40) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (today)
 - [Cache PHPStorm stubs](https://github.com/phpstan/phpstan-src/pull/4930) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [ClassNameCheck: Retrieve extensions just once](https://github.com/phpstan/phpstan-src/pull/4926) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Make sure invocations via blackfire use the same container](https://github.com/phpstan/phpstan-src/pull/4925) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -53,8 +55,6 @@
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/4901) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/4899) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/4898) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Fix build](https://github.com/phpstan/phpstan-src/pull/4892) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Loadable classes not recognized since 2.1.34 release](https://github.com/phpstan/phpstan-src/pull/4891) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
