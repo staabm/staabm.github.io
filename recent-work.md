@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (5 days ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (5 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Don&#39;t invalidate container cache on user-interactions in the shell](https://github.com/phpstan/phpstan-src/pull/4924) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [DataProviderDataRule: Optimize hot path](https://github.com/phpstan/phpstan-phpunit/pull/277) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [DependencyResolver: Reduce duplicate work](https://github.com/phpstan/phpstan-src/pull/4923) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [MutatingScope: prevent unnecessary work in removeTypeFromExpression()](https://github.com/phpstan/phpstan-src/pull/4922) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Prevent unnecssary Type traversal](https://github.com/phpstan/phpstan-src/pull/4874) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Extract FileAnalyserCallback](https://github.com/phpstan/phpstan-src/pull/4872) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4868) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Do not degrade array-shapes in phpdocs](https://github.com/phpstan/phpstan-src/pull/4864) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
