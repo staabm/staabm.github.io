@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [DataProviderDataRule: Optimize hot path](https://github.com/phpstan/phpstan-phpunit/pull/277) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [DependencyResolver: Reduce duplicate work](https://github.com/phpstan/phpstan-src/pull/4923) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [MutatingScope: prevent unnecessary work in removeTypeFromExpression()](https://github.com/phpstan/phpstan-src/pull/4922) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Faster NetteContainer](https://github.com/phpstan/phpstan-src/pull/4921) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Extract FileAnalyserCallback](https://github.com/phpstan/phpstan-src/pull/4872) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4868) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Do not degrade array-shapes in phpdocs](https://github.com/phpstan/phpstan-src/pull/4864) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Usage of deprecated E_STRICT is reported even though it&#39;s guarded](https://github.com/phpstan/phpstan-deprecation-rules/pull/174) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
