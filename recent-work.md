@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Cache PHPStorm stubs](https://github.com/phpstan/phpstan-src/pull/4930) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [ClassNameCheck: Retrieve extensions just once](https://github.com/phpstan/phpstan-src/pull/4926) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Make sure invocations via blackfire use the same container](https://github.com/phpstan/phpstan-src/pull/4925) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Don&#39;t invalidate container cache on user-interactions in the shell](https://github.com/phpstan/phpstan-src/pull/4924) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/4898) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/4892) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Loadable classes not recognized since 2.1.34 release](https://github.com/phpstan/phpstan-src/pull/4891) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Prevent unnecssary Type traversal](https://github.com/phpstan/phpstan-src/pull/4874) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
