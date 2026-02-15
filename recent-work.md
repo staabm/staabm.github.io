@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add more foreach with by-ref $value tests](https://github.com/phpstan/phpstan-src/pull/4934) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4932) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Prevent duplicate path normalization](https://github.com/phpstan/phpstan-src/pull/4931) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Implement StubData::__set_state()](https://github.com/ondrejmirtes/BetterReflection/pull/40) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix `@phpstan-assert` not working correctly with union types](https://github.com/phpstan/phpstan-src/pull/4920) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/4905) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/4901) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Fix build](https://github.com/phpstan/phpstan-src/pull/4899) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
