@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Cleanup ConstantArrayTypeBuilder](https://github.com/phpstan/phpstan-src/pull/4955) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Support integer range keys in constant arrays](https://github.com/phpstan/phpstan-src/pull/4952) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Add more foreach with by-ref $value tests](https://github.com/phpstan/phpstan-src/pull/4934) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4932) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [MutatingScope: prevent unnecessary work in removeTypeFromExpression()](https://github.com/phpstan/phpstan-src/pull/4922) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Faster NetteContainer](https://github.com/phpstan/phpstan-src/pull/4921) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Fix `@phpstan-assert` not working correctly with union types](https://github.com/phpstan/phpstan-src/pull/4920) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Fix build](https://github.com/phpstan/phpstan-src/pull/4905) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
