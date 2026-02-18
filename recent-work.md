@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix test lint-comment](https://github.com/phpstan/phpstan-src/pull/4986) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix false positive dead catch for ReflectionMethod::invoke/invokeArgs](https://github.com/phpstan/phpstan-src/pull/4985) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix TypeError dead catch when assigning mixed to int in property](https://github.com/phpstan/phpstan-src/pull/4981) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Cleanup ConstantArrayTypeBuilder](https://github.com/phpstan/phpstan-src/pull/4955) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,11 +55,11 @@
 - [Don&#39;t invalidate container cache on user-interactions in the shell](https://github.com/phpstan/phpstan-src/pull/4924) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [DataProviderDataRule: Optimize hot path](https://github.com/phpstan/phpstan-phpunit/pull/277) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
 - [DependencyResolver: Reduce duplicate work](https://github.com/phpstan/phpstan-src/pull/4923) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [MutatingScope: prevent unnecessary work in removeTypeFromExpression()](https://github.com/phpstan/phpstan-src/pull/4922) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.17](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.17) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.0.4](https://github.com/sebastianbergmann/phpunit/releases/tag/13.0.4) (today)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.6](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.6) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.5](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.5) (2 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.4](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.4) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.10](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.10) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.39](https://github.com/phpstan/phpstan/releases/tag/2.1.39) (1 week ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.14](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.14) (1 week ago)
