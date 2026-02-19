@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement ArrayKeyFirstLastTypeSpecifyingExtension](https://github.com/phpstan/phpstan-src/pull/4993) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix #12574: Erroneous Offset might not exist](https://github.com/phpstan/phpstan-src/pull/4988) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix test lint-comment](https://github.com/phpstan/phpstan-src/pull/4986) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix false positive dead catch for ReflectionMethod::invoke/invokeArgs](https://github.com/phpstan/phpstan-src/pull/4985) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [ClassNameCheck: Retrieve extensions just once](https://github.com/phpstan/phpstan-src/pull/4926) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Make sure invocations via blackfire use the same container](https://github.com/phpstan/phpstan-src/pull/4925) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Don&#39;t invalidate container cache on user-interactions in the shell](https://github.com/phpstan/phpstan-src/pull/4924) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [DataProviderDataRule: Optimize hot path](https://github.com/phpstan/phpstan-phpunit/pull/277) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
