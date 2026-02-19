@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix #11463: Using phpstan-import-type between classes makes alias unresolvable](https://github.com/phpstan/phpstan-src/pull/4997) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Specify conditional types for all falsey scalars](https://github.com/phpstan/phpstan-src/pull/4995) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [More precise array_key_first/array_key_last inference](https://github.com/phpstan/phpstan-src/pull/4994) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement ArrayKeyFirstLastTypeSpecifyingExtension](https://github.com/phpstan/phpstan-src/pull/4993) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Prevent duplicate path normalization](https://github.com/phpstan/phpstan-src/pull/4931) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Implement StubData::__set_state()](https://github.com/ondrejmirtes/BetterReflection/pull/40) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (5 days ago)
 - [Cache PHPStorm stubs](https://github.com/phpstan/phpstan-src/pull/4930) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [ClassNameCheck: Retrieve extensions just once](https://github.com/phpstan/phpstan-src/pull/4926) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
