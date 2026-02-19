@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [More precise array_key_first/array_key_last inference](https://github.com/phpstan/phpstan-src/pull/4994) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement ArrayKeyFirstLastTypeSpecifyingExtension](https://github.com/phpstan/phpstan-src/pull/4993) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix #12574: Erroneous Offset might not exist](https://github.com/phpstan/phpstan-src/pull/4988) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix test lint-comment](https://github.com/phpstan/phpstan-src/pull/4986) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Cache PHPStorm stubs](https://github.com/phpstan/phpstan-src/pull/4930) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [ClassNameCheck: Retrieve extensions just once](https://github.com/phpstan/phpstan-src/pull/4926) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Make sure invocations via blackfire use the same container](https://github.com/phpstan/phpstan-src/pull/4925) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Don&#39;t invalidate container cache on user-interactions in the shell](https://github.com/phpstan/phpstan-src/pull/4924) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
