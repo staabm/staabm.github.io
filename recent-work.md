@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix #5020: phpstan could handle $class::someMethod syntax better](https://github.com/phpstan/phpstan-src/pull/5000) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [claude-ci-fix: use cross repo issue identifier](https://github.com/phpstan/phpstan-src/pull/4998) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix #11463: Using phpstan-import-type between classes makes alias unresolvable](https://github.com/phpstan/phpstan-src/pull/4997) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Specify conditional types for all falsey scalars](https://github.com/phpstan/phpstan-src/pull/4995) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Add more foreach with by-ref $value tests](https://github.com/phpstan/phpstan-src/pull/4934) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4932) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Prevent duplicate path normalization](https://github.com/phpstan/phpstan-src/pull/4931) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Implement StubData::__set_state()](https://github.com/ondrejmirtes/BetterReflection/pull/40) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
