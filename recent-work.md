@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ArgumentsNormalizer: remove duplicated work](https://github.com/phpstan/phpstan-src/pull/5010) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Cover dynamic static calls in tests](https://github.com/phpstan/phpstan-src/pull/5009) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix #14124: Reassigning to `array&lt;string, list&lt;T&gt;&gt;` out parameter does not see the `list&lt;T&gt;` property during assignment](https://github.com/phpstan/phpstan-src/pull/5006) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix #5020: phpstan could handle $class::someMethod syntax better](https://github.com/phpstan/phpstan-src/pull/5000) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix TypeError dead catch when assigning mixed to int in property](https://github.com/phpstan/phpstan-src/pull/4981) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Cleanup ConstantArrayTypeBuilder](https://github.com/phpstan/phpstan-src/pull/4955) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Support integer range keys in constant arrays](https://github.com/phpstan/phpstan-src/pull/4952) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Add more foreach with by-ref $value tests](https://github.com/phpstan/phpstan-src/pull/4934) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
