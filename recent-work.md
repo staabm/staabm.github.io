@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Faster AcceptsResult, IsSuperTypeOfResult](https://github.com/phpstan/phpstan-src/pull/5013) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Faster IntersectionTypeMethodReflection-&gt;getVariants()](https://github.com/phpstan/phpstan-src/pull/5012) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [IsSuperTypeOfResult: cache YES/NO/MAYBE](https://github.com/phpstan/phpstan-src/pull/5011) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [ArgumentsNormalizer: remove duplicated work](https://github.com/phpstan/phpstan-src/pull/5010) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Cover dynamic static calls in tests](https://github.com/phpstan/phpstan-src/pull/5009) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -53,8 +55,6 @@
 - [Fix #12574: Erroneous Offset might not exist](https://github.com/phpstan/phpstan-src/pull/4988) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fix test lint-comment](https://github.com/phpstan/phpstan-src/pull/4986) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fix false positive dead catch for ReflectionMethod::invoke/invokeArgs](https://github.com/phpstan/phpstan-src/pull/4985) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Fix TypeError dead catch when assigning mixed to int in property](https://github.com/phpstan/phpstan-src/pull/4981) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Cleanup ConstantArrayTypeBuilder](https://github.com/phpstan/phpstan-src/pull/4955) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
