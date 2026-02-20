@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [infection/infection](https://github.com/infection/infection) - [0.32.5](https://github.com/infection/infection/releases/tag/0.32.5) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.0.5](https://github.com/sebastianbergmann/phpunit/releases/tag/13.0.5) (2 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.17](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.17) (2 days ago)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.6](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.6) (4 days ago)
@@ -68,4 +69,3 @@
 - [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) - [2.22.2](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.22.2) (1 week ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.4](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.4) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.10](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.10) (1 week ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.39](https://github.com/phpstan/phpstan/releases/tag/2.1.39) (1 week ago)
