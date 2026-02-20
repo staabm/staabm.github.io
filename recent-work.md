@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix #14124: Reassigning to `array&lt;string, list&lt;T&gt;&gt;` out parameter does not see the `list&lt;T&gt;` property during assignment](https://github.com/phpstan/phpstan-src/pull/5006) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix #5020: phpstan could handle $class::someMethod syntax better](https://github.com/phpstan/phpstan-src/pull/5000) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [claude-ci-fix: use cross repo issue identifier](https://github.com/phpstan/phpstan-src/pull/4998) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix #11463: Using phpstan-import-type between classes makes alias unresolvable](https://github.com/phpstan/phpstan-src/pull/4997) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Support integer range keys in constant arrays](https://github.com/phpstan/phpstan-src/pull/4952) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Add more foreach with by-ref $value tests](https://github.com/phpstan/phpstan-src/pull/4934) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/4932) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Prevent duplicate path normalization](https://github.com/phpstan/phpstan-src/pull/4931) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
