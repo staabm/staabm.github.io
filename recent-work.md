@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [TypeSpecifier: Prevent duplicate expression printing](https://github.com/phpstan/phpstan-src/pull/5018) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify throw processing](https://github.com/phpstan/phpstan-src/pull/5017) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix use of deprecated PHPParser LNumber, DNumber nodes](https://github.com/phpstan/phpstan-src/pull/5016) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Faster Ternary analysis](https://github.com/phpstan/phpstan-src/pull/5015) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [claude-ci-fix: use cross repo issue identifier](https://github.com/phpstan/phpstan-src/pull/4998) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fix #11463: Using phpstan-import-type between classes makes alias unresolvable](https://github.com/phpstan/phpstan-src/pull/4997) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Specify conditional types for all falsey scalars](https://github.com/phpstan/phpstan-src/pull/4995) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [More precise array_key_first/array_key_last inference](https://github.com/phpstan/phpstan-src/pull/4994) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
