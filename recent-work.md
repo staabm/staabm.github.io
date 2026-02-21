@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix use of deprecated PHPParser LNumber, DNumber nodes](https://github.com/phpstan/phpstan-src/pull/5016) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Faster Ternary analysis](https://github.com/phpstan/phpstan-src/pull/5015) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Faster MutatingScope-&gt;getNodeKey()](https://github.com/phpstan/phpstan-src/pull/5014) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Faster AcceptsResult, IsSuperTypeOfResult](https://github.com/phpstan/phpstan-src/pull/5013) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Faster IntersectionTypeMethodReflection-&gt;getVariants()](https://github.com/phpstan/phpstan-src/pull/5012) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [IsSuperTypeOfResult: cache YES/NO/MAYBE](https://github.com/phpstan/phpstan-src/pull/5011) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -52,9 +55,6 @@
 - [Specify conditional types for all falsey scalars](https://github.com/phpstan/phpstan-src/pull/4995) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [More precise array_key_first/array_key_last inference](https://github.com/phpstan/phpstan-src/pull/4994) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Implement ArrayKeyFirstLastTypeSpecifyingExtension](https://github.com/phpstan/phpstan-src/pull/4993) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Fix #12574: Erroneous Offset might not exist](https://github.com/phpstan/phpstan-src/pull/4988) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Fix test lint-comment](https://github.com/phpstan/phpstan-src/pull/4986) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Fix false positive dead catch for ReflectionMethod::invoke/invokeArgs](https://github.com/phpstan/phpstan-src/pull/4985) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
