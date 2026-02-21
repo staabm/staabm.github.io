@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify throw processing](https://github.com/phpstan/phpstan-src/pull/5017) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix use of deprecated PHPParser LNumber, DNumber nodes](https://github.com/phpstan/phpstan-src/pull/5016) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Faster Ternary analysis](https://github.com/phpstan/phpstan-src/pull/5015) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Faster MutatingScope-&gt;getNodeKey()](https://github.com/phpstan/phpstan-src/pull/5014) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Fix #11463: Using phpstan-import-type between classes makes alias unresolvable](https://github.com/phpstan/phpstan-src/pull/4997) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Specify conditional types for all falsey scalars](https://github.com/phpstan/phpstan-src/pull/4995) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [More precise array_key_first/array_key_last inference](https://github.com/phpstan/phpstan-src/pull/4994) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Implement ArrayKeyFirstLastTypeSpecifyingExtension](https://github.com/phpstan/phpstan-src/pull/4993) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
