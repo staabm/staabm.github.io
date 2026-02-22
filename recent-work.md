@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 - [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (2 weeks ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (1 month ago)
-- [lesstif/php-JiraCloud-RESTAPI](https://github.com/lesstif/php-JiraCloud-RESTAPI) (1 month ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Extract identifiers: improve error reporting](https://github.com/phpstan/phpstan/pull/14180) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [Extract identifiers: improve error reporting](https://github.com/phpstan/phpstan/pull/14179) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Makefile: create targets to ease code generation](https://github.com/ondrejmirtes/BetterReflection/pull/42) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (today)
 - [Assert ExprCacheHelper-&gt;import() will not mix up same expr-string based attributes](https://github.com/phpstan/phpstan-src/pull/5023) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [ExprCacheHelper: Reduce PHPParser instantiation](https://github.com/ondrejmirtes/BetterReflection/pull/41) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (today)
@@ -53,8 +55,6 @@
 - [Faster IntersectionTypeMethodReflection-&gt;getVariants()](https://github.com/phpstan/phpstan-src/pull/5012) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [IsSuperTypeOfResult: cache YES/NO/MAYBE](https://github.com/phpstan/phpstan-src/pull/5011) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [ArgumentsNormalizer: remove duplicated work](https://github.com/phpstan/phpstan-src/pull/5010) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Cover dynamic static calls in tests](https://github.com/phpstan/phpstan-src/pull/5009) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Fix #14124: Reassigning to `array&lt;string, list&lt;T&gt;&gt;` out parameter does not see the `list&lt;T&gt;` property during assignment](https://github.com/phpstan/phpstan-src/pull/5006) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
