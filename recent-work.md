@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ExprCacheHelper: Reduce PHPParser instantiation](https://github.com/ondrejmirtes/BetterReflection/pull/41) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (today)
 - [Simplify MemoizingContainer](https://github.com/phpstan/phpstan-src/pull/5019) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [TypeSpecifier: Prevent duplicate expression printing](https://github.com/phpstan/phpstan-src/pull/5018) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Simplify throw processing](https://github.com/phpstan/phpstan-src/pull/5017) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix #14124: Reassigning to `array&lt;string, list&lt;T&gt;&gt;` out parameter does not see the `list&lt;T&gt;` property during assignment](https://github.com/phpstan/phpstan-src/pull/5006) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fix #5020: phpstan could handle $class::someMethod syntax better](https://github.com/phpstan/phpstan-src/pull/5000) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [claude-ci-fix: use cross repo issue identifier](https://github.com/phpstan/phpstan-src/pull/4998) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Fix #11463: Using phpstan-import-type between classes makes alias unresolvable](https://github.com/phpstan/phpstan-src/pull/4997) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
