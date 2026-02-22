@@ -7,9 +7,9 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 week ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 - [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (2 weeks ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (1 month ago)
@@ -40,6 +40,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix typo false-positive](https://github.com/phpstan/phpstan/pull/14184) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [Fix extracting identifiers](https://github.com/phpstan/phpstan-src/pull/5028) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [ClassNameCheck: Retrieve extensions just once](https://github.com/phpstan/phpstan-src/pull/5027) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Fix extracting identifiers](https://github.com/phpstan/phpstan-src/pull/5026) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Extract identifiers: use exit-status from phpstan, not tee](https://github.com/phpstan/phpstan/pull/14182) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Extract identifiers: improve error reporting](https://github.com/phpstan/phpstan/pull/14180) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Extract identifiers: improve error reporting](https://github.com/phpstan/phpstan/pull/14179) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Makefile: create targets to ease code generation](https://github.com/ondrejmirtes/BetterReflection/pull/42) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (today)
@@ -50,11 +55,6 @@
 - [Simplify throw processing](https://github.com/phpstan/phpstan-src/pull/5017) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix use of deprecated PHPParser LNumber, DNumber nodes](https://github.com/phpstan/phpstan-src/pull/5016) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Faster Ternary analysis](https://github.com/phpstan/phpstan-src/pull/5015) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Faster MutatingScope-&gt;getNodeKey()](https://github.com/phpstan/phpstan-src/pull/5014) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Faster AcceptsResult, IsSuperTypeOfResult](https://github.com/phpstan/phpstan-src/pull/5013) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Faster IntersectionTypeMethodReflection-&gt;getVariants()](https://github.com/phpstan/phpstan-src/pull/5012) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [IsSuperTypeOfResult: cache YES/NO/MAYBE](https://github.com/phpstan/phpstan-src/pull/5011) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [ArgumentsNormalizer: remove duplicated work](https://github.com/phpstan/phpstan-src/pull/5010) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
