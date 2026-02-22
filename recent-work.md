@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Makefile: create targets to ease code generation](https://github.com/ondrejmirtes/BetterReflection/pull/42) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (today)
 - [Assert ExprCacheHelper-&gt;import() will not mix up same expr-string based attributes](https://github.com/phpstan/phpstan-src/pull/5023) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [ExprCacheHelper: Reduce PHPParser instantiation](https://github.com/ondrejmirtes/BetterReflection/pull/41) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (today)
 - [Simplify MemoizingContainer](https://github.com/phpstan/phpstan-src/pull/5019) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [ArgumentsNormalizer: remove duplicated work](https://github.com/phpstan/phpstan-src/pull/5010) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Cover dynamic static calls in tests](https://github.com/phpstan/phpstan-src/pull/5009) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fix #14124: Reassigning to `array&lt;string, list&lt;T&gt;&gt;` out parameter does not see the `list&lt;T&gt;` property during assignment](https://github.com/phpstan/phpstan-src/pull/5006) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Fix #5020: phpstan could handle $class::someMethod syntax better](https://github.com/phpstan/phpstan-src/pull/5000) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
