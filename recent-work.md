@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.40](https://github.com/phpstan/phpstan/releases/tag/2.1.40) (today)
 - [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) - [2.23.0](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.23.0) (1 day ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0-rc](https://github.com/deployphp/deployer/releases/tag/v8.0.0-rc) (3 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.32.5](https://github.com/infection/infection/releases/tag/0.32.5) (3 days ago)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.5](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.5) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.16](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.16) (1 week ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.19.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.19.0) (1 week ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.4](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.4) (1 week ago)
