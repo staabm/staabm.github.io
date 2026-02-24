@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [debug parallel-lint on windows](https://github.com/phpstan/phpstan-src/pull/5037) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [debug parallel-lint](https://github.com/ondrejmirtes/simple-downgrader/pull/22) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
 - [Fix build](https://github.com/ondrejmirtes/simple-downgrader/pull/21) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
 - [Downgrade RunInSeparateProcess attribute](https://github.com/ondrejmirtes/simple-downgrader/pull/20) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
@@ -54,7 +55,6 @@
 - [Assert ExprCacheHelper-&gt;import() will not mix up same expr-string based attributes](https://github.com/phpstan/phpstan-src/pull/5023) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [ExprCacheHelper: Reduce PHPParser instantiation](https://github.com/ondrejmirtes/BetterReflection/pull/41) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (2 days ago)
 - [Simplify MemoizingContainer](https://github.com/phpstan/phpstan-src/pull/5019) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [TypeSpecifier: Prevent duplicate expression printing](https://github.com/phpstan/phpstan-src/pull/5018) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
