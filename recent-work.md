@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix build](https://github.com/ondrejmirtes/simple-downgrader/pull/21) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
+- [Downgrade RunInSeparateProcess attribute](https://github.com/ondrejmirtes/simple-downgrader/pull/20) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
 - [Fix typo false-positive](https://github.com/phpstan/phpstan/pull/14184) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [Fix extracting identifiers](https://github.com/phpstan/phpstan-src/pull/5028) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [ClassNameCheck: Retrieve extensions just once](https://github.com/phpstan/phpstan-src/pull/5027) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -53,18 +55,16 @@
 - [Simplify MemoizingContainer](https://github.com/phpstan/phpstan-src/pull/5019) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [TypeSpecifier: Prevent duplicate expression printing](https://github.com/phpstan/phpstan-src/pull/5018) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Simplify throw processing](https://github.com/phpstan/phpstan-src/pull/5017) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Fix use of deprecated PHPParser LNumber, DNumber nodes](https://github.com/phpstan/phpstan-src/pull/5016) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Faster Ternary analysis](https://github.com/phpstan/phpstan-src/pull/5015) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.18](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.18) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.40](https://github.com/phpstan/phpstan/releases/tag/2.1.40) (1 day ago)
 - [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) - [2.23.0](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.23.0) (2 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0-rc](https://github.com/deployphp/deployer/releases/tag/v8.0.0-rc) (4 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.32.5](https://github.com/infection/infection/releases/tag/0.32.5) (4 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.0.5](https://github.com/sebastianbergmann/phpunit/releases/tag/13.0.5) (6 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.17](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.17) (6 days ago)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.6](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.6) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.5](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.5) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.16](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.16) (1 week ago)
