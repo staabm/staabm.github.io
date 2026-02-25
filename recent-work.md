@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Faster TrinaryLogic::maxMin()](https://github.com/phpstan/phpstan-src/pull/5045) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Faster LazyInternalScopeFactory-&gt;create()](https://github.com/phpstan/phpstan-src/pull/5043) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Faster IsSuperTypeOfResult creation](https://github.com/phpstan/phpstan-src/pull/5042) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [CI: Don&#39;t lint on windows](https://github.com/ondrejmirtes/simple-downgrader/pull/23) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 day ago)
@@ -54,11 +55,11 @@
 - [Extract identifiers: use exit-status from phpstan, not tee](https://github.com/phpstan/phpstan/pull/14182) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
 - [Extract identifiers: improve error reporting](https://github.com/phpstan/phpstan/pull/14180) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
 - [Extract identifiers: improve error reporting](https://github.com/phpstan/phpstan/pull/14179) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
-- [Makefile: create targets to ease code generation](https://github.com/ondrejmirtes/BetterReflection/pull/42) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.19.1](https://github.com/paratestphp/paratest/releases/tag/v7.19.1) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.18](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.18) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.40](https://github.com/phpstan/phpstan/releases/tag/2.1.40) (2 days ago)
 - [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) - [2.23.0](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.23.0) (3 days ago)
@@ -68,4 +69,3 @@
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.6](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.6) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.5](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.5) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.16](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.16) (1 week ago)
-- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.19.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.19.0) (1 week ago)
