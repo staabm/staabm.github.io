@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Faster IsSuperTypeOfResult creation](https://github.com/phpstan/phpstan-src/pull/5042) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [CI: Don&#39;t lint on windows](https://github.com/ondrejmirtes/simple-downgrader/pull/23) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 day ago)
 - [debug parallel-lint on windows](https://github.com/phpstan/phpstan-src/pull/5037) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [debug parallel-lint](https://github.com/ondrejmirtes/simple-downgrader/pull/22) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 day ago)
@@ -54,7 +55,6 @@
 - [Extract identifiers: improve error reporting](https://github.com/phpstan/phpstan/pull/14179) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
 - [Makefile: create targets to ease code generation](https://github.com/ondrejmirtes/BetterReflection/pull/42) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (3 days ago)
 - [Assert ExprCacheHelper-&gt;import() will not mix up same expr-string based attributes](https://github.com/phpstan/phpstan-src/pull/5023) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [ExprCacheHelper: Reduce PHPParser instantiation](https://github.com/ondrejmirtes/BetterReflection/pull/41) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
