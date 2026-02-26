@@ -4,6 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
@@ -12,7 +13,6 @@
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (2 weeks ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 - [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (3 weeks ago)
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) (1 month ago)
 
 
 #### 📜 My recent blog posts
