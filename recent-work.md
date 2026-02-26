@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added regression tests](https://github.com/phpstan/phpstan-src/pull/5050) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix slow analysis on return with a big OR condition](https://github.com/phpstan/phpstan-src/pull/5049) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent `TypeCombinator::intersect()` calls in `MutatingScope-&gt; specifyExpressionType()`](https://github.com/phpstan/phpstan-src/pull/5048) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [More precise array-item types in loops](https://github.com/phpstan/phpstan-src/pull/5047) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Fix typo false-positive](https://github.com/phpstan/phpstan/pull/14184) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [Fix extracting identifiers](https://github.com/phpstan/phpstan-src/pull/5028) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [ClassNameCheck: Retrieve extensions just once](https://github.com/phpstan/phpstan-src/pull/5027) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Fix extracting identifiers](https://github.com/phpstan/phpstan-src/pull/5026) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
