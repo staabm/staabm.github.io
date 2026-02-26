@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [More precise array-item types in loops](https://github.com/phpstan/phpstan-src/pull/5047) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Faster TrinaryLogic::maxMin()](https://github.com/phpstan/phpstan-src/pull/5045) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Faster LazyInternalScopeFactory-&gt;create()](https://github.com/phpstan/phpstan-src/pull/5043) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Faster IsSuperTypeOfResult creation](https://github.com/phpstan/phpstan-src/pull/5042) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix extracting identifiers](https://github.com/phpstan/phpstan-src/pull/5026) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Extract identifiers: use exit-status from phpstan, not tee](https://github.com/phpstan/phpstan/pull/14182) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [Extract identifiers: improve error reporting](https://github.com/phpstan/phpstan/pull/14180) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
-- [Extract identifiers: improve error reporting](https://github.com/phpstan/phpstan/pull/14179) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
