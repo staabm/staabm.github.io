@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent unnecessary work in `UnionType-&gt;describe()`](https://github.com/phpstan/phpstan-src/pull/5062) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent unnecessary work in IntersectionType](https://github.com/phpstan/phpstan-src/pull/5054) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix slow analysis on return with a big OR condition](https://github.com/phpstan/phpstan-src/pull/5053) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent unnecessary `$scope-&gt;getType()` calls](https://github.com/phpstan/phpstan-src/pull/5051) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [debug parallel-lint on windows](https://github.com/phpstan/phpstan-src/pull/5037) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [debug parallel-lint](https://github.com/ondrejmirtes/simple-downgrader/pull/22) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (3 days ago)
 - [Fix build](https://github.com/ondrejmirtes/simple-downgrader/pull/21) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (3 days ago)
-- [Downgrade RunInSeparateProcess attribute](https://github.com/ondrejmirtes/simple-downgrader/pull/20) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
