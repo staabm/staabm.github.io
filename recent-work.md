@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/5088) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent unnecessary work in `UnionType-&gt;describe()`](https://github.com/phpstan/phpstan-src/pull/5062) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent unnecessary work in IntersectionType](https://github.com/phpstan/phpstan-src/pull/5054) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix slow analysis on return with a big OR condition](https://github.com/phpstan/phpstan-src/pull/5053) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [CI: Don&#39;t lint on windows](https://github.com/ondrejmirtes/simple-downgrader/pull/23) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (3 days ago)
 - [debug parallel-lint on windows](https://github.com/phpstan/phpstan-src/pull/5037) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [debug parallel-lint](https://github.com/ondrejmirtes/simple-downgrader/pull/22) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (3 days ago)
-- [Fix build](https://github.com/ondrejmirtes/simple-downgrader/pull/21) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
