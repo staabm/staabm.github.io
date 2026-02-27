@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (2 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 weeks ago)
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.6](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.6) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.32.6](https://github.com/infection/infection/releases/tag/0.32.6) (1 day ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.15](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.15) (1 day ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.19.1](https://github.com/paratestphp/paratest/releases/tag/v7.19.1) (2 days ago)
@@ -68,4 +69,3 @@
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0-rc](https://github.com/deployphp/deployer/releases/tag/v8.0.0-rc) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.0.5](https://github.com/sebastianbergmann/phpunit/releases/tag/13.0.5) (1 week ago)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.6](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.6) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.5](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.5) (1 week ago)
