@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Claude fix issue workflow: properly reference issue in PR title ](https://github.com/phpstan/phpstan-src/pull/5093) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/5088) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Prevent unnecessary work in `UnionType-&gt;describe()`](https://github.com/phpstan/phpstan-src/pull/5062) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Prevent unnecessary work in IntersectionType](https://github.com/phpstan/phpstan-src/pull/5054) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Faster IsSuperTypeOfResult creation](https://github.com/phpstan/phpstan-src/pull/5042) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [CI: Don&#39;t lint on windows](https://github.com/ondrejmirtes/simple-downgrader/pull/23) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (4 days ago)
 - [debug parallel-lint on windows](https://github.com/phpstan/phpstan-src/pull/5037) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [debug parallel-lint](https://github.com/ondrejmirtes/simple-downgrader/pull/22) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
