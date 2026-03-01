@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix phpstan/phpstan#13526: False positive with array_key_exists and union types](https://github.com/phpstan/phpstan-src/pull/5114) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Claude fix issue workflow: properly reference issue in PR title ](https://github.com/phpstan/phpstan-src/pull/5093) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/5088) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Prevent unnecessary work in `UnionType-&gt;describe()`](https://github.com/phpstan/phpstan-src/pull/5062) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Faster LazyInternalScopeFactory-&gt;create()](https://github.com/phpstan/phpstan-src/pull/5043) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Faster IsSuperTypeOfResult creation](https://github.com/phpstan/phpstan-src/pull/5042) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [CI: Don&#39;t lint on windows](https://github.com/ondrejmirtes/simple-downgrader/pull/23) on [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (5 days ago)
-- [debug parallel-lint on windows](https://github.com/phpstan/phpstan-src/pull/5037) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
