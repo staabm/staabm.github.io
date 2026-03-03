@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [TypeSpecifier refactor](https://github.com/phpstan/phpstan-src/pull/5123) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [TemplateTypeTrait: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/5122) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix phpstan/phpstan#13526: False positive with array_key_exists and union types](https://github.com/phpstan/phpstan-src/pull/5114) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Claude fix issue workflow: properly reference issue in PR title ](https://github.com/phpstan/phpstan-src/pull/5093) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -54,7 +55,6 @@
 - [More precise array-item types in loops](https://github.com/phpstan/phpstan-src/pull/5047) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Faster TrinaryLogic::maxMin()](https://github.com/phpstan/phpstan-src/pull/5045) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Faster LazyInternalScopeFactory-&gt;create()](https://github.com/phpstan/phpstan-src/pull/5043) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Faster IsSuperTypeOfResult creation](https://github.com/phpstan/phpstan-src/pull/5042) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
