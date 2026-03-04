@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
@@ -10,9 +11,8 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (3 weeks ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 weeks ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (3 weeks ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 weeks ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [MutatingScope-&gt;createConditionalExpressions(): cheap checks first](https://github.com/phpstan/phpstan-src/pull/5126) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [TypeSpecifier refactor](https://github.com/phpstan/phpstan-src/pull/5123) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [TemplateTypeTrait: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/5122) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fix phpstan/phpstan#13526: False positive with array_key_exists and union types](https://github.com/phpstan/phpstan-src/pull/5114) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -54,7 +55,6 @@
 - [Prevent `TypeCombinator::intersect()` calls in `MutatingScope-&gt; specifyExpressionType()`](https://github.com/phpstan/phpstan-src/pull/5048) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [More precise array-item types in loops](https://github.com/phpstan/phpstan-src/pull/5047) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Faster TrinaryLogic::maxMin()](https://github.com/phpstan/phpstan-src/pull/5045) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Faster LazyInternalScopeFactory-&gt;create()](https://github.com/phpstan/phpstan-src/pull/5043) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
