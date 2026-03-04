@@ -86,7 +86,8 @@ After we prepared a `bug-xyz.php` and a `test.sh` in the previous steps,
 we can now instruct `git bisect` to start the bisection process utilizing `test.sh` to inform Git whether the bug can be observed or not.
 The process might output a big wall of text while working through the Git history.
 
-Run `git bisect run ./test.sh` and it will run on its own until it finds the first bad commit:
+As usual run `git bisect start` and let it now first good and bad commits with `git bisect good` and `git bisect bad`.
+Now run `git bisect run ./test.sh` and it will run on its own until it finds the first bad commit:
 
 ```
 git bisect run ./test.sh
