@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (5 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
+- [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (6 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (3 weeks ago)
@@ -26,7 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
-- [saibotk](https://github.com/saibotk) (1 week ago)
+- [saibotk](https://github.com/saibotk) (2 weeks ago)
 - [JetBrainsOfficial](https://github.com/JetBrainsOfficial) (5 months ago)
 - [passbolt](https://github.com/passbolt) (7 months ago)
 - [packagist](https://github.com/packagist) (9 months ago)
@@ -40,32 +40,32 @@
 
 #### 🔨 My recent Pull Requests
 
-- [TypeSpecifier refactor](https://github.com/phpstan/phpstan-src/pull/5123) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [TemplateTypeTrait: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/5122) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Fix phpstan/phpstan#13526: False positive with array_key_exists and union types](https://github.com/phpstan/phpstan-src/pull/5114) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Claude fix issue workflow: properly reference issue in PR title ](https://github.com/phpstan/phpstan-src/pull/5093) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/5088) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Prevent unnecessary work in `UnionType-&gt;describe()`](https://github.com/phpstan/phpstan-src/pull/5062) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Prevent unnecessary work in IntersectionType](https://github.com/phpstan/phpstan-src/pull/5054) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Fix slow analysis on return with a big OR condition](https://github.com/phpstan/phpstan-src/pull/5053) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Prevent unnecessary `$scope-&gt;getType()` calls](https://github.com/phpstan/phpstan-src/pull/5051) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Added regression tests](https://github.com/phpstan/phpstan-src/pull/5050) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Fix slow analysis on return with a big OR condition](https://github.com/phpstan/phpstan-src/pull/5049) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Prevent `TypeCombinator::intersect()` calls in `MutatingScope-&gt; specifyExpressionType()`](https://github.com/phpstan/phpstan-src/pull/5048) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [More precise array-item types in loops](https://github.com/phpstan/phpstan-src/pull/5047) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Faster TrinaryLogic::maxMin()](https://github.com/phpstan/phpstan-src/pull/5045) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Faster LazyInternalScopeFactory-&gt;create()](https://github.com/phpstan/phpstan-src/pull/5043) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [TypeSpecifier refactor](https://github.com/phpstan/phpstan-src/pull/5123) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [TemplateTypeTrait: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/5122) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Fix phpstan/phpstan#13526: False positive with array_key_exists and union types](https://github.com/phpstan/phpstan-src/pull/5114) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Claude fix issue workflow: properly reference issue in PR title ](https://github.com/phpstan/phpstan-src/pull/5093) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/5088) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Prevent unnecessary work in `UnionType-&gt;describe()`](https://github.com/phpstan/phpstan-src/pull/5062) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Prevent unnecessary work in IntersectionType](https://github.com/phpstan/phpstan-src/pull/5054) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Fix slow analysis on return with a big OR condition](https://github.com/phpstan/phpstan-src/pull/5053) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Prevent unnecessary `$scope-&gt;getType()` calls](https://github.com/phpstan/phpstan-src/pull/5051) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Added regression tests](https://github.com/phpstan/phpstan-src/pull/5050) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Fix slow analysis on return with a big OR condition](https://github.com/phpstan/phpstan-src/pull/5049) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Prevent `TypeCombinator::intersect()` calls in `MutatingScope-&gt; specifyExpressionType()`](https://github.com/phpstan/phpstan-src/pull/5048) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [More precise array-item types in loops](https://github.com/phpstan/phpstan-src/pull/5047) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Faster TrinaryLogic::maxMin()](https://github.com/phpstan/phpstan-src/pull/5045) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [Faster LazyInternalScopeFactory-&gt;create()](https://github.com/phpstan/phpstan-src/pull/5043) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.33](https://github.com/phpstan/phpstan/releases/tag/1.12.33) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.6](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.6) (4 days ago)
-- [infection/infection](https://github.com/infection/infection) - [0.32.6](https://github.com/infection/infection/releases/tag/0.32.6) (5 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.15](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.15) (5 days ago)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.19.1](https://github.com/paratestphp/paratest/releases/tag/v7.19.1) (6 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.33](https://github.com/phpstan/phpstan/releases/tag/1.12.33) (4 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.6](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.6) (5 days ago)
+- [infection/infection](https://github.com/infection/infection) - [0.32.6](https://github.com/infection/infection/releases/tag/0.32.6) (6 days ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.15](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.15) (6 days ago)
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.19.1](https://github.com/paratestphp/paratest/releases/tag/v7.19.1) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.18](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.18) (1 week ago)
 - [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) - [2.23.0](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.23.0) (1 week ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0-rc](https://github.com/deployphp/deployer/releases/tag/v8.0.0-rc) (1 week ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.0.5](https://github.com/sebastianbergmann/phpunit/releases/tag/13.0.5) (1 week ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.0.5](https://github.com/sebastianbergmann/phpunit/releases/tag/13.0.5) (2 weeks ago)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.6](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.6) (2 weeks ago)
