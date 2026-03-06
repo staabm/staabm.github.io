@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix &#39;restricted open_basedir&#39; e2e test](https://github.com/phpstan/phpstan-src/pull/5138) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [TableErrorFormatter: Limit number of errors](https://github.com/phpstan/phpstan-src/pull/5136) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [MutatingScope-&gt;createConditionalExpressions(): cheap checks first](https://github.com/phpstan/phpstan-src/pull/5126) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [TypeSpecifier refactor](https://github.com/phpstan/phpstan-src/pull/5123) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -54,7 +55,6 @@
 - [Added regression tests](https://github.com/phpstan/phpstan-src/pull/5050) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix slow analysis on return with a big OR condition](https://github.com/phpstan/phpstan-src/pull/5049) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Prevent `TypeCombinator::intersect()` calls in `MutatingScope-&gt; specifyExpressionType()`](https://github.com/phpstan/phpstan-src/pull/5048) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [More precise array-item types in loops](https://github.com/phpstan/phpstan-src/pull/5047) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
