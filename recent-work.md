@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix spurious error nullCoalesce.offset](https://github.com/phpstan/phpstan-src/pull/5145) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [get_headers() $associative parameter is a bool](https://github.com/php/doc-de/pull/218) on [php/doc-de](https://github.com/php/doc-de) (today)
 - [Fix &#39;restricted open_basedir&#39; e2e test](https://github.com/phpstan/phpstan-src/pull/5138) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [TableErrorFormatter: Limit number of errors](https://github.com/phpstan/phpstan-src/pull/5136) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -54,7 +55,6 @@
 - [Fix slow analysis on return with a big OR condition](https://github.com/phpstan/phpstan-src/pull/5053) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Prevent unnecessary `$scope-&gt;getType()` calls](https://github.com/phpstan/phpstan-src/pull/5051) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Added regression tests](https://github.com/phpstan/phpstan-src/pull/5050) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix slow analysis on return with a big OR condition](https://github.com/phpstan/phpstan-src/pull/5049) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
