@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify NonNullabilityHelper](https://github.com/phpstan/phpstan-src/pull/5158) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix more PHP 7.4 errors](https://github.com/phpstan/phpstan-src/pull/5156) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix PHP7.4 errors](https://github.com/phpstan/phpstan-src/pull/5155) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Refactor: NonNullabilityHelper](https://github.com/phpstan/phpstan-src/pull/5154) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Claude fix issue workflow: properly reference issue in PR title ](https://github.com/phpstan/phpstan-src/pull/5093) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/5088) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Prevent unnecessary work in `UnionType-&gt;describe()`](https://github.com/phpstan/phpstan-src/pull/5062) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Prevent unnecessary work in IntersectionType](https://github.com/phpstan/phpstan-src/pull/5054) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
