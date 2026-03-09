@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix more PHP 7.4 errors](https://github.com/phpstan/phpstan-src/pull/5156) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix PHP7.4 errors](https://github.com/phpstan/phpstan-src/pull/5155) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Refactor: NonNullabilityHelper](https://github.com/phpstan/phpstan-src/pull/5154) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix spurious error nullCoalesce.offset](https://github.com/phpstan/phpstan-src/pull/5145) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/5088) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Prevent unnecessary work in `UnionType-&gt;describe()`](https://github.com/phpstan/phpstan-src/pull/5062) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Prevent unnecessary work in IntersectionType](https://github.com/phpstan/phpstan-src/pull/5054) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix slow analysis on return with a big OR condition](https://github.com/phpstan/phpstan-src/pull/5053) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
