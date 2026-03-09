@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix PHP7.4 errors](https://github.com/phpstan/phpstan-src/pull/5155) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Refactor: NonNullabilityHelper](https://github.com/phpstan/phpstan-src/pull/5154) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix spurious error nullCoalesce.offset](https://github.com/phpstan/phpstan-src/pull/5145) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [get_headers() $associative parameter is a bool](https://github.com/php/doc-de/pull/218) on [php/doc-de](https://github.com/php/doc-de) (1 day ago)
@@ -54,7 +55,6 @@
 - [Prevent unnecessary work in `UnionType-&gt;describe()`](https://github.com/phpstan/phpstan-src/pull/5062) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Prevent unnecessary work in IntersectionType](https://github.com/phpstan/phpstan-src/pull/5054) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix slow analysis on return with a big OR condition](https://github.com/phpstan/phpstan-src/pull/5053) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Prevent unnecessary `$scope-&gt;getType()` calls](https://github.com/phpstan/phpstan-src/pull/5051) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
