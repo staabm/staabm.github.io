@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [php/doc-de](https://github.com/php/doc-de) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
 - [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor: NonNullabilityHelper](https://github.com/phpstan/phpstan-src/pull/5154) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix spurious error nullCoalesce.offset](https://github.com/phpstan/phpstan-src/pull/5145) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [get_headers() $associative parameter is a bool](https://github.com/php/doc-de/pull/218) on [php/doc-de](https://github.com/php/doc-de) (1 day ago)
 - [Fix &#39;restricted open_basedir&#39; e2e test](https://github.com/phpstan/phpstan-src/pull/5138) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -54,7 +55,6 @@
 - [Prevent unnecessary work in IntersectionType](https://github.com/phpstan/phpstan-src/pull/5054) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix slow analysis on return with a big OR condition](https://github.com/phpstan/phpstan-src/pull/5053) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Prevent unnecessary `$scope-&gt;getType()` calls](https://github.com/phpstan/phpstan-src/pull/5051) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Added regression tests](https://github.com/phpstan/phpstan-src/pull/5050) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
