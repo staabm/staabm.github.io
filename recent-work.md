@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [php/doc-de](https://github.com/php/doc-de) (1 day ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (5 days ago)
@@ -11,7 +12,6 @@
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 weeks ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (4 weeks ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (4 weeks ago)
 
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Allow running the test-suite when mongo extension is not loaded](https://github.com/phpstan/phpstan-doctrine/pull/737) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [Upgrade Dead Code Detector to 0.15.x](https://github.com/phpstan/phpstan-src/pull/5160) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify NonNullabilityHelper](https://github.com/phpstan/phpstan-src/pull/5158) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix more PHP 7.4 errors](https://github.com/phpstan/phpstan-src/pull/5156) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [TemplateTypeTrait: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/5122) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix phpstan/phpstan#13526: False positive with array_key_exists and union types](https://github.com/phpstan/phpstan-src/pull/5114) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Claude fix issue workflow: properly reference issue in PR title ](https://github.com/phpstan/phpstan-src/pull/5093) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/5088) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
