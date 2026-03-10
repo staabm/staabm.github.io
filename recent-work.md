@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support sizeof() alias in addition to count()](https://github.com/phpstan/phpstan-src/pull/5179) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Allow running the test-suite when mongo extension is not loaded](https://github.com/phpstan/phpstan-doctrine/pull/737) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
 - [Upgrade Dead Code Detector to 0.15.x](https://github.com/phpstan/phpstan-src/pull/5160) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Simplify NonNullabilityHelper](https://github.com/phpstan/phpstan-src/pull/5158) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [TypeSpecifier refactor](https://github.com/phpstan/phpstan-src/pull/5123) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [TemplateTypeTrait: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/5122) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix phpstan/phpstan#13526: False positive with array_key_exists and union types](https://github.com/phpstan/phpstan-src/pull/5114) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Claude fix issue workflow: properly reference issue in PR title ](https://github.com/phpstan/phpstan-src/pull/5093) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
