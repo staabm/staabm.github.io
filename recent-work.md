@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
 - [php/doc-de](https://github.com/php/doc-de) (3 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix remaining errors after LegacyNodeScopeResolverTest refactoring](https://github.com/phpstan/phpstan-src/pull/5202) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [NoArrayAccessOnObjectRule: Support WeakMap](https://github.com/rectorphp/type-perfect/pull/72) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 day ago)
 - [Fix typo](https://github.com/phpstan/phpstan-src/pull/5180) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Support sizeof() alias in addition to count()](https://github.com/phpstan/phpstan-src/pull/5179) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix &#39;restricted open_basedir&#39; e2e test](https://github.com/phpstan/phpstan-src/pull/5138) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [TableErrorFormatter: Limit number of errors](https://github.com/phpstan/phpstan-src/pull/5136) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [MutatingScope-&gt;createConditionalExpressions(): cheap checks first](https://github.com/phpstan/phpstan-src/pull/5126) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [TypeSpecifier refactor](https://github.com/phpstan/phpstan-src/pull/5123) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
