@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.20](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.20) (today)
 - [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) - [2.24.0](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.24.0) (today)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.19](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.19) (3 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.19.2](https://github.com/paratestphp/paratest/releases/tag/v7.19.2) (4 days ago)
 - [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) - [v2.1.2](https://github.com/olvlvl/composer-attribute-collector/releases/tag/v2.1.2) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.33](https://github.com/phpstan/phpstan/releases/tag/1.12.33) (1 week ago)
