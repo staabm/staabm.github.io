@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (4 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (5 days ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Revert d7ba1e3](https://github.com/phpstan/phpstan-src/pull/5220) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Regression tests should not be adapted](https://github.com/phpstan/phpstan-src/pull/5219) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update baselines for refs/heads/2.1.x](https://github.com/phpstan/phpstan/pull/14276) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [Added missing namespace to test](https://github.com/phpstan/phpstan-src/pull/5214) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix build](https://github.com/phpstan/phpstan-phpunit/pull/287) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
@@ -53,8 +55,6 @@
 - [Simplify NonNullabilityHelper](https://github.com/phpstan/phpstan-src/pull/5158) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Fix more PHP 7.4 errors](https://github.com/phpstan/phpstan-src/pull/5156) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Fix PHP7.4 errors](https://github.com/phpstan/phpstan-src/pull/5155) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Refactor: NonNullabilityHelper](https://github.com/phpstan/phpstan-src/pull/5154) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Fix spurious error nullCoalesce.offset](https://github.com/phpstan/phpstan-src/pull/5145) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
