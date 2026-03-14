@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Wrongly narrowed types in `assertSame`](https://github.com/phpstan/phpstan-phpunit/pull/288) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [Revert d7ba1e3](https://github.com/phpstan/phpstan-src/pull/5220) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Regression tests should not be adapted](https://github.com/phpstan/phpstan-src/pull/5219) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update baselines for refs/heads/2.1.x](https://github.com/phpstan/phpstan/pull/14276) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
@@ -54,7 +55,6 @@
 - [Upgrade Dead Code Detector to 0.15.x](https://github.com/phpstan/phpstan-src/pull/5160) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Simplify NonNullabilityHelper](https://github.com/phpstan/phpstan-src/pull/5158) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Fix more PHP 7.4 errors](https://github.com/phpstan/phpstan-src/pull/5156) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Fix PHP7.4 errors](https://github.com/phpstan/phpstan-src/pull/5155) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
