@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Create laravel neon-config](https://github.com/phpstan/phpstan/pull/14287) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [fix typo](https://github.com/phpstan/phpstan/pull/14286) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Update baselines for refs/heads/2.1.x](https://github.com/phpstan/phpstan/pull/14282) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [Wrongly narrowed types in `assertSame`](https://github.com/phpstan/phpstan-phpunit/pull/288) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix typo](https://github.com/phpstan/phpstan-src/pull/5180) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Support sizeof() alias in addition to count()](https://github.com/phpstan/phpstan-src/pull/5179) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Allow running the test-suite when mongo extension is not loaded](https://github.com/phpstan/phpstan-doctrine/pull/737) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (6 days ago)
-- [Upgrade Dead Code Detector to 0.15.x](https://github.com/phpstan/phpstan-src/pull/5160) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
