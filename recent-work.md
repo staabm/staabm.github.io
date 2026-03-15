@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Create laravel neon-config](https://github.com/phpstan/phpstan/pull/14287) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [Integration tests run with a custom editor-url that automatically links the source code with the right repo/commit/file/line URL on GitHub](https://github.com/phpstan/phpstan/pull/14287) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [fix typo](https://github.com/phpstan/phpstan/pull/14286) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Update baselines for refs/heads/2.1.x](https://github.com/phpstan/phpstan/pull/14282) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [Wrongly narrowed types in `assertSame`](https://github.com/phpstan/phpstan-phpunit/pull/288) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
