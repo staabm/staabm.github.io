@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix indent](https://github.com/phpstan/phpstan/pull/14290) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [Integration tests run with a custom editor-url that automatically links the source code with the right repo/commit/file/line URL on GitHub](https://github.com/phpstan/phpstan/pull/14289) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Integration tests run with a custom editor-url that automatically links the source code with the right repo/commit/file/line URL on GitHub](https://github.com/phpstan/phpstan/pull/14287) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [fix typo](https://github.com/phpstan/phpstan/pull/14286) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Update baselines for refs/heads/2.1.x](https://github.com/phpstan/phpstan/pull/14282) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
@@ -53,8 +55,6 @@
 - [Fix remaining errors after LegacyNodeScopeResolverTest refactoring](https://github.com/phpstan/phpstan-src/pull/5202) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [NoArrayAccessOnObjectRule: Support WeakMap](https://github.com/rectorphp/type-perfect/pull/72) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (5 days ago)
 - [Fix typo](https://github.com/phpstan/phpstan-src/pull/5180) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Support sizeof() alias in addition to count()](https://github.com/phpstan/phpstan-src/pull/5179) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Allow running the test-suite when mongo extension is not loaded](https://github.com/phpstan/phpstan-doctrine/pull/737) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
