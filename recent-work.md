@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.0.1](https://github.com/sebastianbergmann/environment/releases/tag/9.0.1) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.20](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.20) (2 days ago)
 - [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) - [2.24.0](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.24.0) (2 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.19.2](https://github.com/paratestphp/paratest/releases/tag/v7.19.2) (6 days ago)
@@ -68,4 +69,3 @@
 - [infection/infection](https://github.com/infection/infection) - [0.32.6](https://github.com/infection/infection/releases/tag/0.32.6) (2 weeks ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.15](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.15) (2 weeks ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0-rc](https://github.com/deployphp/deployer/releases/tag/v8.0.0-rc) (3 weeks ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.0.5](https://github.com/sebastianbergmann/phpunit/releases/tag/13.0.5) (3 weeks ago)
