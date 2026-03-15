@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
-- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (4 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (5 days ago)
-- [php/doc-de](https://github.com/php/doc-de) (6 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
+- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (5 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (6 days ago)
+- [php/doc-de](https://github.com/php/doc-de) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
-- [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (1 week ago)
+- [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (2 weeks ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
 - [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (2 weeks ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -20,7 +20,7 @@
 - [Automate the process to find a regression commit](https://staabm.github.io/2026/02/07/git-bisect-run.html) (1 month ago)
 - [PHPStan on steroids](https://staabm.github.io/2026/01/25/phpstan-on-steroids.html) (1 month ago)
 - [Speedup PHPUnit code coverage generation](https://staabm.github.io/2025/11/26/speedup-phpunit-code-coverage.html) (3 months ago)
-- [New and noteworthy: PHPStan and PHPUnit integration](https://staabm.github.io/2025/11/15/phpstan-validates-phpunit-data-provider.html) (3 months ago)
+- [New and noteworthy: PHPStan and PHPUnit integration](https://staabm.github.io/2025/11/15/phpstan-validates-phpunit-data-provider.html) (4 months ago)
 - [Mutation testing with Infection in PHP](https://staabm.github.io/2025/08/01/infection-php-mutation-testing.html) (7 months ago)
 
 
@@ -40,28 +40,28 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update baselines for refs/heads/2.1.x](https://github.com/phpstan/phpstan/pull/14282) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [Wrongly narrowed types in `assertSame`](https://github.com/phpstan/phpstan-phpunit/pull/288) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
-- [Revert d7ba1e3](https://github.com/phpstan/phpstan-src/pull/5220) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Regression tests should not be adapted](https://github.com/phpstan/phpstan-src/pull/5219) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Update baselines for refs/heads/2.1.x](https://github.com/phpstan/phpstan/pull/14276) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
-- [Added missing namespace to test](https://github.com/phpstan/phpstan-src/pull/5214) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Fix build](https://github.com/phpstan/phpstan-phpunit/pull/287) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
-- [Implement NodeScopeResolverTestPHPVersionMutator](https://github.com/phpstan/build-infection/pull/62) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (3 days ago)
-- [Fix remaining errors after LegacyNodeScopeResolverTest refactoring](https://github.com/phpstan/phpstan-src/pull/5202) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [NoArrayAccessOnObjectRule: Support WeakMap](https://github.com/rectorphp/type-perfect/pull/72) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (4 days ago)
-- [Fix typo](https://github.com/phpstan/phpstan-src/pull/5180) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Support sizeof() alias in addition to count()](https://github.com/phpstan/phpstan-src/pull/5179) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Allow running the test-suite when mongo extension is not loaded](https://github.com/phpstan/phpstan-doctrine/pull/737) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (5 days ago)
-- [Upgrade Dead Code Detector to 0.15.x](https://github.com/phpstan/phpstan-src/pull/5160) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Simplify NonNullabilityHelper](https://github.com/phpstan/phpstan-src/pull/5158) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Update baselines for refs/heads/2.1.x](https://github.com/phpstan/phpstan/pull/14282) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [Wrongly narrowed types in `assertSame`](https://github.com/phpstan/phpstan-phpunit/pull/288) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
+- [Revert d7ba1e3](https://github.com/phpstan/phpstan-src/pull/5220) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Regression tests should not be adapted](https://github.com/phpstan/phpstan-src/pull/5219) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Update baselines for refs/heads/2.1.x](https://github.com/phpstan/phpstan/pull/14276) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
+- [Added missing namespace to test](https://github.com/phpstan/phpstan-src/pull/5214) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Fix build](https://github.com/phpstan/phpstan-phpunit/pull/287) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
+- [Implement NodeScopeResolverTestPHPVersionMutator](https://github.com/phpstan/build-infection/pull/62) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (4 days ago)
+- [Fix remaining errors after LegacyNodeScopeResolverTest refactoring](https://github.com/phpstan/phpstan-src/pull/5202) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [NoArrayAccessOnObjectRule: Support WeakMap](https://github.com/rectorphp/type-perfect/pull/72) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (5 days ago)
+- [Fix typo](https://github.com/phpstan/phpstan-src/pull/5180) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Support sizeof() alias in addition to count()](https://github.com/phpstan/phpstan-src/pull/5179) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Allow running the test-suite when mongo extension is not loaded](https://github.com/phpstan/phpstan-doctrine/pull/737) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (6 days ago)
+- [Upgrade Dead Code Detector to 0.15.x](https://github.com/phpstan/phpstan-src/pull/5160) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Simplify NonNullabilityHelper](https://github.com/phpstan/phpstan-src/pull/5158) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.20](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.20) (1 day ago)
-- [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) - [2.24.0](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.24.0) (1 day ago)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.19.2](https://github.com/paratestphp/paratest/releases/tag/v7.19.2) (5 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.20](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.20) (2 days ago)
+- [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) - [2.24.0](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.24.0) (2 days ago)
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.19.2](https://github.com/paratestphp/paratest/releases/tag/v7.19.2) (6 days ago)
 - [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) - [v2.1.2](https://github.com/olvlvl/composer-attribute-collector/releases/tag/v2.1.2) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.33](https://github.com/phpstan/phpstan/releases/tag/1.12.33) (2 weeks ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.6](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.6) (2 weeks ago)
