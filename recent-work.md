@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [PMMP: fix artifact name](https://github.com/phpstan/phpstan/pull/14295) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [integration-tests-baselines: wait for PMMP](https://github.com/phpstan/phpstan/pull/14294) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [PMMP-integration test: fix non-ignorable errors](https://github.com/phpstan/phpstan/pull/14293) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [PMMP-integration test: fix non-ignorable errors](https://github.com/phpstan/phpstan/pull/14292) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
@@ -54,7 +55,6 @@
 - [Regression tests should not be adapted](https://github.com/phpstan/phpstan-src/pull/5219) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Update baselines for refs/heads/2.1.x](https://github.com/phpstan/phpstan/pull/14276) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
 - [Added missing namespace to test](https://github.com/phpstan/phpstan-src/pull/5214) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Fix build](https://github.com/phpstan/phpstan-phpunit/pull/287) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
