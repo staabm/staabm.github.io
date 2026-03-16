@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (6 days ago)
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [PMMP-integration test: fix non-ignorable errors](https://github.com/phpstan/phpstan/pull/14293) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [PMMP-integration test: fix non-ignorable errors](https://github.com/phpstan/phpstan/pull/14292) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [Narrow ReflectionClass::getConstant() return-type](https://github.com/JetBrains/phpstorm-stubs/pull/1860) on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (today)
 - [fix indent](https://github.com/phpstan/phpstan/pull/14290) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [Integration tests run with a custom editor-url that automatically links the source code with the right repo/commit/file/line URL on GitHub](https://github.com/phpstan/phpstan/pull/14289) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [Integration tests run with a custom editor-url that automatically links the source code with the right repo/commit/file/line URL on GitHub](https://github.com/phpstan/phpstan/pull/14287) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
@@ -52,9 +55,6 @@
 - [Added missing namespace to test](https://github.com/phpstan/phpstan-src/pull/5214) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Fix build](https://github.com/phpstan/phpstan-phpunit/pull/287) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
 - [Implement NodeScopeResolverTestPHPVersionMutator](https://github.com/phpstan/build-infection/pull/62) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (5 days ago)
-- [Fix remaining errors after LegacyNodeScopeResolverTest refactoring](https://github.com/phpstan/phpstan-src/pull/5202) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [NoArrayAccessOnObjectRule: Support WeakMap](https://github.com/rectorphp/type-perfect/pull/72) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (6 days ago)
-- [Fix typo](https://github.com/phpstan/phpstan-src/pull/5180) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
