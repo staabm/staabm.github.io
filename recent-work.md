@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
@@ -12,7 +13,6 @@
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [staabm/oss-contribs](https://github.com/staabm/oss-contribs) (2 weeks ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
-- [ondrejmirtes/simple-downgrader](https://github.com/ondrejmirtes/simple-downgrader) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [integration-tests-baselines: wait for PMMP](https://github.com/phpstan/phpstan/pull/14294) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [PMMP-integration test: fix non-ignorable errors](https://github.com/phpstan/phpstan/pull/14293) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [PMMP-integration test: fix non-ignorable errors](https://github.com/phpstan/phpstan/pull/14292) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Narrow ReflectionClass::getConstant() return-type](https://github.com/JetBrains/phpstorm-stubs/pull/1860) on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (today)
@@ -54,7 +55,6 @@
 - [Update baselines for refs/heads/2.1.x](https://github.com/phpstan/phpstan/pull/14276) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
 - [Added missing namespace to test](https://github.com/phpstan/phpstan-src/pull/5214) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Fix build](https://github.com/phpstan/phpstan-phpunit/pull/287) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
-- [Implement NodeScopeResolverTestPHPVersionMutator](https://github.com/phpstan/build-infection/pull/62) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
