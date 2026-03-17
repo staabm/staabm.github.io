@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent unnecessary IO while bootstrapping](https://github.com/phpstan/phpstan-src/pull/5235) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Verify regression test](https://github.com/phpstan/phpstan-src/pull/5233) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [fix invalid phpdoc](https://github.com/ralouphie/getallheaders/pull/16) on [ralouphie/getallheaders](https://github.com/ralouphie/getallheaders) (1 day ago)
 - [Merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan/pull/14298) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [PMMP: fix artifact name](https://github.com/phpstan/phpstan/pull/14295) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
@@ -53,8 +55,6 @@
 - [fix typo](https://github.com/phpstan/phpstan/pull/14286) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [Update baselines for refs/heads/2.1.x](https://github.com/phpstan/phpstan/pull/14282) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
 - [Wrongly narrowed types in `assertSame`](https://github.com/phpstan/phpstan-phpunit/pull/288) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
-- [Revert d7ba1e3](https://github.com/phpstan/phpstan-src/pull/5220) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Regression tests should not be adapted](https://github.com/phpstan/phpstan-src/pull/5219) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
