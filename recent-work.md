@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) (2 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [IntersectionType: Prevent duplicate work in isOffsetAccessible()](https://github.com/phpstan/phpstan-src/pull/5243) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [regression-test-skill: add Adjust pull request description step](https://github.com/phpstan/phpstan-src/pull/5241) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent unnecessary IO while bootstrapping](https://github.com/phpstan/phpstan-src/pull/5235) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Verify regression test](https://github.com/phpstan/phpstan-src/pull/5233) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [fix invalid phpdoc](https://github.com/ralouphie/getallheaders/pull/16) on [ralouphie/getallheaders](https://github.com/ralouphie/getallheaders) (2 days ago)
@@ -53,14 +55,12 @@
 - [Integration tests run with a custom editor-url that automatically links the source code with the right repo/commit/file/line URL on GitHub](https://github.com/phpstan/phpstan/pull/14289) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
 - [Integration tests run with a custom editor-url that automatically links the source code with the right repo/commit/file/line URL on GitHub](https://github.com/phpstan/phpstan/pull/14287) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
 - [fix typo](https://github.com/phpstan/phpstan/pull/14286) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
-- [Update baselines for refs/heads/2.1.x](https://github.com/phpstan/phpstan/pull/14282) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
-- [Wrongly narrowed types in `assertSame`](https://github.com/phpstan/phpstan-phpunit/pull/288) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.8](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.8) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.42](https://github.com/phpstan/phpstan/releases/tag/2.1.42) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.7](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.7) (1 day ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.0.1](https://github.com/sebastianbergmann/environment/releases/tag/9.0.1) (3 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.20](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.20) (5 days ago)
 - [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) - [2.24.0](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.24.0) (5 days ago)
