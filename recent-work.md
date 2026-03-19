@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify PHPBench make-target](https://github.com/phpstan/phpstan-src/pull/5251) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Makefile: added phpbench target](https://github.com/phpstan/phpstan-src/pull/5250) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [IntersectionType: Prevent duplicate work in isOffsetAccessible()](https://github.com/phpstan/phpstan-src/pull/5243) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [regression-test-skill: add Adjust pull request description step](https://github.com/phpstan/phpstan-src/pull/5241) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Narrow ReflectionClass::getConstant() return-type](https://github.com/JetBrains/phpstorm-stubs/pull/1860) on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (3 days ago)
 - [fix indent](https://github.com/phpstan/phpstan/pull/14290) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [Integration tests run with a custom editor-url that automatically links the source code with the right repo/commit/file/line URL on GitHub](https://github.com/phpstan/phpstan/pull/14289) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
-- [Integration tests run with a custom editor-url that automatically links the source code with the right repo/commit/file/line URL on GitHub](https://github.com/phpstan/phpstan/pull/14287) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
