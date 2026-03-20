@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.20.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.20.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.8](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.8) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.42](https://github.com/phpstan/phpstan/releases/tag/2.1.42) (3 days ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.0.1](https://github.com/sebastianbergmann/environment/releases/tag/9.0.1) (5 days ago)
@@ -68,4 +69,3 @@
 - [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) - [v2.1.2](https://github.com/olvlvl/composer-attribute-collector/releases/tag/v2.1.2) (2 weeks ago)
 - [infection/infection](https://github.com/infection/infection) - [0.32.6](https://github.com/infection/infection/releases/tag/0.32.6) (3 weeks ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.15](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.15) (3 weeks ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0-rc](https://github.com/deployphp/deployer/releases/tag/v8.0.0-rc) (4 weeks ago)
