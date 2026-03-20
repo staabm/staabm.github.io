@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added non-regression test](https://github.com/phpstan/phpstan-src/pull/5260) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix incorrect narrowing of nested array after assignment](https://github.com/phpstan/phpstan-src/pull/5258) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan-bot: react only on &#39;open&#39; pull requests](https://github.com/phpstan/phpstan-src/pull/5254) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify PHPBench make-target](https://github.com/phpstan/phpstan-src/pull/5251) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [integration-tests-baselines: wait for PMMP](https://github.com/phpstan/phpstan/pull/14294) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [PMMP-integration test: fix non-ignorable errors](https://github.com/phpstan/phpstan/pull/14293) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [PMMP-integration test: fix non-ignorable errors](https://github.com/phpstan/phpstan/pull/14292) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
-- [Narrow ReflectionClass::getConstant() return-type](https://github.com/JetBrains/phpstorm-stubs/pull/1860) on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
