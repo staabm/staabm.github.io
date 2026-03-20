@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix incorrect narrowing of nested array after assignment](https://github.com/phpstan/phpstan-src/pull/5258) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan-bot: react only on &#39;open&#39; pull requests](https://github.com/phpstan/phpstan-src/pull/5254) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify PHPBench make-target](https://github.com/phpstan/phpstan-src/pull/5251) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Makefile: added phpbench target](https://github.com/phpstan/phpstan-src/pull/5250) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [PMMP-integration test: fix non-ignorable errors](https://github.com/phpstan/phpstan/pull/14293) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [PMMP-integration test: fix non-ignorable errors](https://github.com/phpstan/phpstan/pull/14292) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [Narrow ReflectionClass::getConstant() return-type](https://github.com/JetBrains/phpstorm-stubs/pull/1860) on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (4 days ago)
-- [fix indent](https://github.com/phpstan/phpstan/pull/14290) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
