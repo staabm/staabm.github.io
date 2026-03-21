@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix &#34;Parameter X of array_values is already a list, call has no effect&#34;-false positive](https://github.com/phpstan/phpstan-src/pull/5271) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix phpstan/phpstan#13629: False report for 2.1.30 release &#34;arrayValues.list&#34; (&#34;Parameter X of array_values is already a list, call has no effect&#34;)](https://github.com/phpstan/phpstan-src/pull/5270) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Revert &#34;Fix phpstan/phpstan#13629: False report for 2.1.30 release &#34;arrayValues.list&#34; (&#34;Parameter X of array_values is already a list, call has no effect&#34;) (#5264)&#34;](https://github.com/phpstan/phpstan-src/pull/5268) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Remove unnecessary negation](https://github.com/phpstan/phpstan-src/pull/5262) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Verify regression test](https://github.com/phpstan/phpstan-src/pull/5233) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [fix invalid phpdoc](https://github.com/ralouphie/getallheaders/pull/16) on [ralouphie/getallheaders](https://github.com/ralouphie/getallheaders) (5 days ago)
 - [Merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan/pull/14298) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
-- [PMMP: fix artifact name](https://github.com/phpstan/phpstan/pull/14295) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
