@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [InvalidVariableAssignRule: test null coalesce assign](https://github.com/phpstan/phpstan-src/pull/5277) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [PHPBench: force ansi colors in github actions](https://github.com/phpstan/phpstan-src/pull/5274) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix &#34;Parameter X of array_values is already a list, call has no effect&#34;-false positive](https://github.com/phpstan/phpstan-src/pull/5271) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fix phpstan/phpstan#13629: False report for 2.1.30 release &#34;arrayValues.list&#34; (&#34;Parameter X of array_values is already a list, call has no effect&#34;)](https://github.com/phpstan/phpstan-src/pull/5270) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [regression-test-skill: add Adjust pull request description step](https://github.com/phpstan/phpstan-src/pull/5241) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Prevent unnecessary IO while bootstrapping](https://github.com/phpstan/phpstan-src/pull/5235) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Verify regression test](https://github.com/phpstan/phpstan-src/pull/5233) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [fix invalid phpdoc](https://github.com/ralouphie/getallheaders/pull/16) on [ralouphie/getallheaders](https://github.com/ralouphie/getallheaders) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
