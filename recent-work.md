@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.43](https://github.com/phpstan/phpstan/releases/tag/2.1.43) (today)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.4.0](https://github.com/CuyZ/Valinor/releases/tag/2.4.0) (1 day ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.1.0](https://github.com/sebastianbergmann/environment/releases/tag/9.1.0) (2 days ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.20.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.20.0) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.8](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.8) (6 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.42](https://github.com/phpstan/phpstan/releases/tag/2.1.42) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.20](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.20) (1 week ago)
 - [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) - [2.24.0](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.24.0) (1 week ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.19.2](https://github.com/paratestphp/paratest/releases/tag/v7.19.2) (2 weeks ago)
