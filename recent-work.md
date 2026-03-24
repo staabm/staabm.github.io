@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix infinite loop in recursive generics](https://github.com/phpstan/phpstan-src/pull/5288) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [InvalidVariableAssignRule: test null coalesce assign](https://github.com/phpstan/phpstan-src/pull/5277) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [PHPBench: force ansi colors in github actions](https://github.com/phpstan/phpstan-src/pull/5274) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fix &#34;Parameter X of array_values is already a list, call has no effect&#34;-false positive](https://github.com/phpstan/phpstan-src/pull/5271) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -54,7 +55,6 @@
 - [IntersectionType: Prevent duplicate work in isOffsetAccessible()](https://github.com/phpstan/phpstan-src/pull/5243) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [regression-test-skill: add Adjust pull request description step](https://github.com/phpstan/phpstan-src/pull/5241) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Prevent unnecessary IO while bootstrapping](https://github.com/phpstan/phpstan-src/pull/5235) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Verify regression test](https://github.com/phpstan/phpstan-src/pull/5233) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
