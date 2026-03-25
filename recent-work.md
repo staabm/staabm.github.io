@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.44](https://github.com/phpstan/phpstan/releases/tag/2.1.44) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.9](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.9) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.43](https://github.com/phpstan/phpstan/releases/tag/2.1.43) (1 day ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.4.0](https://github.com/CuyZ/Valinor/releases/tag/2.4.0) (2 days ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.1.0](https://github.com/sebastianbergmann/environment/releases/tag/9.1.0) (3 days ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.20.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.20.0) (5 days ago)
