@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ctype_digit() narrows to decimal-int-string](https://github.com/phpstan/phpstan-src/pull/5311) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/5306) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [automatically link source-code in laravel-types integration test](https://github.com/phpstan/phpstan/pull/14383) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [automatically link source-code in laravel-types integration test](https://github.com/phpstan/phpstan/pull/14382) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
@@ -54,7 +55,6 @@
 - [Fix incorrect narrowing of nested array after assignment](https://github.com/phpstan/phpstan-src/pull/5258) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [phpstan-bot: react only on &#39;open&#39; pull requests](https://github.com/phpstan/phpstan-src/pull/5254) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Simplify PHPBench make-target](https://github.com/phpstan/phpstan-src/pull/5251) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Makefile: added phpbench target](https://github.com/phpstan/phpstan-src/pull/5250) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
