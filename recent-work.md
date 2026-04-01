@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [13.0.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/13.0.2) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.46](https://github.com/phpstan/phpstan/releases/tag/2.1.46) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.0.6](https://github.com/sebastianbergmann/phpunit/releases/tag/13.0.6) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.11](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.11) (1 day ago)
@@ -68,4 +69,3 @@
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.20.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.20.0) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.20](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.20) (2 weeks ago)
 - [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) - [2.24.0](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.24.0) (2 weeks ago)
-- [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) - [v2.1.2](https://github.com/olvlvl/composer-attribute-collector/releases/tag/v2.1.2) (3 weeks ago)
