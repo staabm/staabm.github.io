@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (2 weeks ago)
 - [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) (2 weeks ago)
@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.12](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.12) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [13.0.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/13.0.2) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.46](https://github.com/phpstan/phpstan/releases/tag/2.1.46) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.0.6](https://github.com/sebastianbergmann/phpunit/releases/tag/13.0.6) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.11](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.11) (2 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.20.0](https://github.com/paratestphp/paratest/releases/tag/v7.20.0) (4 days ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.4.0](https://github.com/CuyZ/Valinor/releases/tag/2.4.0) (1 week ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.1.0](https://github.com/sebastianbergmann/environment/releases/tag/9.1.0) (1 week ago)
