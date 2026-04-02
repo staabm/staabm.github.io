@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [TypeCombinator: Remove always true condition](https://github.com/phpstan/phpstan-src/pull/5383) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update larastan to newer version](https://github.com/phpstan/phpstan/pull/14425) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Update larastan to newer version](https://github.com/phpstan/phpstan/pull/14423) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Detect more AI agents](https://github.com/phpstan/phpstan-src/pull/5375) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,11 +55,11 @@
 - [Fix &#34;Parameter X of array_values is already a list, call has no effect&#34;-false positive](https://github.com/phpstan/phpstan-src/pull/5271) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix phpstan/phpstan#13629: False report for 2.1.30 release &#34;arrayValues.list&#34; (&#34;Parameter X of array_values is already a list, call has no effect&#34;)](https://github.com/phpstan/phpstan-src/pull/5270) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Revert &#34;Fix phpstan/phpstan#13629: False report for 2.1.30 release &#34;arrayValues.list&#34; (&#34;Parameter X of array_values is already a list, call has no effect&#34;) (#5264)&#34;](https://github.com/phpstan/phpstan-src/pull/5268) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Remove unnecessary negation](https://github.com/phpstan/phpstan-src/pull/5262) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.21.0-beta1](https://github.com/redaxo/redaxo/releases/tag/5.21.0-beta1) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.12](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.12) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [13.0.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/13.0.2) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.46](https://github.com/phpstan/phpstan/releases/tag/2.1.46) (1 day ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.1.0](https://github.com/sebastianbergmann/environment/releases/tag/9.1.0) (1 week ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.20.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.20.0) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.20](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.20) (2 weeks ago)
-- [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) - [2.24.0](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.24.0) (2 weeks ago)
