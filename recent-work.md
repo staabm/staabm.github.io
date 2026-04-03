@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.21.0](https://github.com/paratestphp/paratest/releases/tag/v7.21.0) (today)
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.21.1](https://github.com/paratestphp/paratest/releases/tag/v7.21.1) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.0) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.0.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.0.0) (today)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.21.0-beta1](https://github.com/redaxo/redaxo/releases/tag/5.21.0-beta1) (1 day ago)
