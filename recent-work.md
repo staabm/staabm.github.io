@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.2.0](https://github.com/sebastianbergmann/environment/releases/tag/9.2.0) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.22.0](https://github.com/paratestphp/paratest/releases/tag/v7.22.0) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.0) (2 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.0.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.0.0) (2 days ago)
@@ -66,6 +67,5 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.12](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.12) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.46](https://github.com/phpstan/phpstan/releases/tag/2.1.46) (4 days ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.4.0](https://github.com/CuyZ/Valinor/releases/tag/2.4.0) (1 week ago)
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.1.0](https://github.com/sebastianbergmann/environment/releases/tag/9.1.0) (2 weeks ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.20.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.20.0) (2 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.20](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.20) (3 weeks ago)
