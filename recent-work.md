@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update rector to 2.1.x-dev compatible version](https://github.com/phpstan/phpstan/pull/14435) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Prevent duplicate argument re-normalizing](https://github.com/phpstan/phpstan-src/pull/5393) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [TypeCombinator: Remove always true condition](https://github.com/phpstan/phpstan-src/pull/5383) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Update larastan to newer version](https://github.com/phpstan/phpstan/pull/14425) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
@@ -54,7 +55,6 @@
 - [InvalidVariableAssignRule: test null coalesce assign](https://github.com/phpstan/phpstan-src/pull/5277) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [PHPBench: force ansi colors in github actions](https://github.com/phpstan/phpstan-src/pull/5274) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Fix &#34;Parameter X of array_values is already a list, call has no effect&#34;-false positive](https://github.com/phpstan/phpstan-src/pull/5271) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [Fix phpstan/phpstan#13629: False report for 2.1.30 release &#34;arrayValues.list&#34; (&#34;Parameter X of array_values is already a list, call has no effect&#34;)](https://github.com/phpstan/phpstan-src/pull/5270) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
