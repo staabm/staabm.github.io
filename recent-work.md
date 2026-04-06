@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.1.0](https://github.com/sebastianbergmann/comparator/releases/tag/8.1.0) (today)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.2.0](https://github.com/sebastianbergmann/environment/releases/tag/9.2.0) (1 day ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.22.0](https://github.com/paratestphp/paratest/releases/tag/v7.22.0) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.0) (3 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.46](https://github.com/phpstan/phpstan/releases/tag/2.1.46) (5 days ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.4.0](https://github.com/CuyZ/Valinor/releases/tag/2.4.0) (2 weeks ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.20.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.20.0) (2 weeks ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.20](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.20) (3 weeks ago)
