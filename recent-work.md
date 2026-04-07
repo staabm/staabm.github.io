@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.70.0](https://github.com/Roave/BetterReflection/releases/tag/6.70.0) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.22.1](https://github.com/paratestphp/paratest/releases/tag/v7.22.1) (today)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.7](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.7) (today)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.1.0](https://github.com/sebastianbergmann/comparator/releases/tag/8.1.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.21.0-beta1](https://github.com/redaxo/redaxo/releases/tag/5.21.0-beta1) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.12](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.12) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.46](https://github.com/phpstan/phpstan/releases/tag/2.1.46) (6 days ago)
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.4.0](https://github.com/CuyZ/Valinor/releases/tag/2.4.0) (2 weeks ago)
