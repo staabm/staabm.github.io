@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added regression tests](https://github.com/phpstan/phpstan-src/pull/5425) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5421) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update rector to 2.1.x-dev compatible version](https://github.com/phpstan/phpstan/pull/14436) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [Update rector to 2.1.x-dev compatible version](https://github.com/phpstan/phpstan/pull/14435) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
@@ -54,7 +55,6 @@
 - [automatically link source-code in laravel-types integration test](https://github.com/phpstan/phpstan/pull/14383) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [automatically link source-code in laravel-types integration test](https://github.com/phpstan/phpstan/pull/14382) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [Fix infinite loop in recursive generics](https://github.com/phpstan/phpstan-src/pull/5288) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [InvalidVariableAssignRule: test null coalesce assign](https://github.com/phpstan/phpstan-src/pull/5277) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
