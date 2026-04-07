@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) (3 weeks ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (3 weeks ago)
@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.22.1](https://github.com/paratestphp/paratest/releases/tag/v7.22.1) (today)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.7](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.7) (today)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.1.0](https://github.com/sebastianbergmann/comparator/releases/tag/8.1.0) (1 day ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.2.0](https://github.com/sebastianbergmann/environment/releases/tag/9.2.0) (2 days ago)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.22.0](https://github.com/paratestphp/paratest/releases/tag/v7.22.0) (4 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.0) (4 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.0.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.0.0) (4 days ago)
 - [redaxo/redaxo](https://github.com/redaxo/redaxo) - [5.21.0-beta1](https://github.com/redaxo/redaxo/releases/tag/5.21.0-beta1) (5 days ago)
