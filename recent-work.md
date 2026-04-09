@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [redaxo/core](https://github.com/redaxo/core) - [5.21.0](https://github.com/redaxo/core/releases/tag/5.21.0) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.22.2](https://github.com/paratestphp/paratest/releases/tag/v7.22.2) (1 day ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.1.1](https://github.com/sebastianbergmann/comparator/releases/tag/8.1.1) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.1) (1 day ago)
@@ -66,6 +67,5 @@
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.7](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.7) (2 days ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.2.0](https://github.com/sebastianbergmann/environment/releases/tag/9.2.0) (4 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.0.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.0.0) (6 days ago)
-- [redaxo/core](https://github.com/redaxo/core) - [5.21.0-beta1](https://github.com/redaxo/core/releases/tag/5.21.0-beta1) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.12](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.12) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.46](https://github.com/phpstan/phpstan/releases/tag/2.1.46) (1 week ago)
