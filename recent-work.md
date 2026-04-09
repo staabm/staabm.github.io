@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [bisect: advertise gzip,deflate encoding when supported](https://github.com/phpstan/phpstan-src/pull/5434) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5427) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Added regression tests](https://github.com/phpstan/phpstan-src/pull/5425) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5421) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [ctype_digit() narrows to decimal-int-string](https://github.com/phpstan/phpstan-src/pull/5311) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/5306) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [automatically link source-code in laravel-types integration test](https://github.com/phpstan/phpstan/pull/14383) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
-- [automatically link source-code in laravel-types integration test](https://github.com/phpstan/phpstan/pull/14382) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
