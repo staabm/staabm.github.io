@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) (3 weeks ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (3 weeks ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 weeks ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 month ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 month ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 month ago)
 - [php/doc-de](https://github.com/php/doc-de) (1 month ago)
@@ -40,32 +40,32 @@
 
 #### 🔨 My recent Pull Requests
 
-- [bisect: advertise gzip,deflate encoding when supported](https://github.com/phpstan/phpstan-src/pull/5434) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5427) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Added regression tests](https://github.com/phpstan/phpstan-src/pull/5425) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5421) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Update rector to 2.1.x-dev compatible version](https://github.com/phpstan/phpstan/pull/14436) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
-- [Update rector to 2.1.x-dev compatible version](https://github.com/phpstan/phpstan/pull/14435) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
+- [bisect: advertise gzip,deflate encoding when supported](https://github.com/phpstan/phpstan-src/pull/5434) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5427) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Added regression tests](https://github.com/phpstan/phpstan-src/pull/5425) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5421) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Update rector to 2.1.x-dev compatible version](https://github.com/phpstan/phpstan/pull/14436) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
+- [Update rector to 2.1.x-dev compatible version](https://github.com/phpstan/phpstan/pull/14435) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
 - [Prevent duplicate argument re-normalizing](https://github.com/phpstan/phpstan-src/pull/5393) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [TypeCombinator: Remove always true condition](https://github.com/phpstan/phpstan-src/pull/5383) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Update larastan to newer version](https://github.com/phpstan/phpstan/pull/14425) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [Update larastan to newer version](https://github.com/phpstan/phpstan/pull/14423) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [Detect more AI agents](https://github.com/phpstan/phpstan-src/pull/5375) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/5313) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [ctype_digit() narrows to decimal-int-string](https://github.com/phpstan/phpstan-src/pull/5311) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/5313) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
+- [ctype_digit() narrows to decimal-int-string](https://github.com/phpstan/phpstan-src/pull/5311) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/5306) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [automatically link source-code in laravel-types integration test](https://github.com/phpstan/phpstan/pull/14383) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [redaxo/core](https://github.com/redaxo/core) - [5.21.0](https://github.com/redaxo/core/releases/tag/5.21.0) (1 day ago)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.22.2](https://github.com/paratestphp/paratest/releases/tag/v7.22.2) (2 days ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.1.1](https://github.com/sebastianbergmann/comparator/releases/tag/8.1.1) (2 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.1) (2 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.70.0](https://github.com/Roave/BetterReflection/releases/tag/6.70.0) (3 days ago)
-- [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.7](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.7) (3 days ago)
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.2.0](https://github.com/sebastianbergmann/environment/releases/tag/9.2.0) (5 days ago)
+- [redaxo/core](https://github.com/redaxo/core) - [5.21.0](https://github.com/redaxo/core/releases/tag/5.21.0) (2 days ago)
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.22.2](https://github.com/paratestphp/paratest/releases/tag/v7.22.2) (3 days ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.1.1](https://github.com/sebastianbergmann/comparator/releases/tag/8.1.1) (3 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.1) (3 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.70.0](https://github.com/Roave/BetterReflection/releases/tag/6.70.0) (4 days ago)
+- [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.7](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.7) (4 days ago)
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.2.0](https://github.com/sebastianbergmann/environment/releases/tag/9.2.0) (6 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.0.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.0.0) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.12](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.12) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.46](https://github.com/phpstan/phpstan/releases/tag/2.1.46) (1 week ago)
