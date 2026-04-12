@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.0) (today)
 - [redaxo/core](https://github.com/redaxo/core) - [5.21.0](https://github.com/redaxo/core/releases/tag/5.21.0) (3 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.22.2](https://github.com/paratestphp/paratest/releases/tag/v7.22.2) (4 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.1.1](https://github.com/sebastianbergmann/comparator/releases/tag/8.1.1) (4 days ago)
@@ -66,6 +67,5 @@
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.70.0](https://github.com/Roave/BetterReflection/releases/tag/6.70.0) (5 days ago)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.7](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.7) (5 days ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.2.0](https://github.com/sebastianbergmann/environment/releases/tag/9.2.0) (1 week ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.0.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.0.0) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.12](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.12) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.46](https://github.com/phpstan/phpstan/releases/tag/2.1.46) (1 week ago)
