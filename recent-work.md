@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.1) (today)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0-rc.1](https://github.com/deployphp/deployer/releases/tag/v8.0.0-rc.1) (1 day ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.0) (1 day ago)
 - [redaxo/core](https://github.com/redaxo/core) - [5.21.0](https://github.com/redaxo/core/releases/tag/5.21.0) (4 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.22.2](https://github.com/paratestphp/paratest/releases/tag/v7.22.2) (5 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.1.1](https://github.com/sebastianbergmann/comparator/releases/tag/8.1.1) (5 days ago)
