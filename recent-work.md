@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.47](https://github.com/phpstan/phpstan/releases/tag/2.1.47) (today)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [10.1.2](https://github.com/staabm/secure_dotenv/releases/tag/10.1.2) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.3) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.1) (today)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.1.1](https://github.com/sebastianbergmann/comparator/releases/tag/8.1.1) (5 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.70.0](https://github.com/Roave/BetterReflection/releases/tag/6.70.0) (6 days ago)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.3.7](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.3.7) (6 days ago)
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.2.0](https://github.com/sebastianbergmann/environment/releases/tag/9.2.0) (1 week ago)
