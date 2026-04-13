@@ -7,8 +7,8 @@
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (4 weeks ago)
 - [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) (4 weeks ago)
+- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (4 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 month ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 month ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 month ago)
@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [10.1.1](https://github.com/staabm/secure_dotenv/releases/tag/10.1.1) (today)
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [10.1.2](https://github.com/staabm/secure_dotenv/releases/tag/10.1.2) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.3) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.1) (today)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0-rc.1](https://github.com/deployphp/deployer/releases/tag/v8.0.0-rc.1) (1 day ago)
