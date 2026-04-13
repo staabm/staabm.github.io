@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add SecretNotDecryptableException](https://github.com/staabm/secure_dotenv/pull/25) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
+- [Fix LazySecret json encoding](https://github.com/staabm/secure_dotenv/pull/24) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
 - [Implement LazySecret](https://github.com/staabm/secure_dotenv/pull/23) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
 - [bisect: advertise gzip,deflate encoding when supported](https://github.com/phpstan/phpstan-src/pull/5434) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5427) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
@@ -53,13 +55,11 @@
 - [Update larastan to newer version](https://github.com/phpstan/phpstan/pull/14423) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [Detect more AI agents](https://github.com/phpstan/phpstan-src/pull/5375) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/5313) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [ctype_digit() narrows to decimal-int-string](https://github.com/phpstan/phpstan-src/pull/5311) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/5306) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [10.1](https://github.com/staabm/secure_dotenv/releases/tag/10.1) (today)
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [10.1.1](https://github.com/staabm/secure_dotenv/releases/tag/10.1.1) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.3) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.1) (today)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0-rc.1](https://github.com/deployphp/deployer/releases/tag/v8.0.0-rc.1) (1 day ago)
