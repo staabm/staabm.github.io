@@ -3,13 +3,13 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
-- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (4 weeks ago)
 - [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) (4 weeks ago)
+- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (4 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 month ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 month ago)
 - [php/doc-de](https://github.com/php/doc-de) (1 month ago)
@@ -40,8 +40,12 @@
 
 #### 🔨 My recent Pull Requests
 
+- [PHPStan level8, baseline errors](https://github.com/staabm/secure_dotenv/pull/32) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
+- [declare more types](https://github.com/staabm/secure_dotenv/pull/31) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
+- [Fix CS](https://github.com/staabm/secure_dotenv/pull/30) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
+- [Drop PHP 7.4/8.0 support](https://github.com/staabm/secure_dotenv/pull/29) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
 - [Test Parser-&gt;save()](https://github.com/staabm/secure_dotenv/pull/28) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
-- [LazySecrets no longer implement magic __toString](https://github.com/staabm/secure_dotenv/pull/27) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
+- [BC-Break: LazySecrets no longer implement magic `__toString`](https://github.com/staabm/secure_dotenv/pull/27) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
 - [LazySecret free-underlying callable when resolved](https://github.com/staabm/secure_dotenv/pull/26) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
 - [Cleanup EntityRepositoryClassReflectionExtension](https://github.com/phpstan/phpstan-doctrine/pull/740) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [Add SecretNotDecryptableException](https://github.com/staabm/secure_dotenv/pull/25) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 day ago)
@@ -51,15 +55,11 @@
 - [Merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5427) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Added regression tests](https://github.com/phpstan/phpstan-src/pull/5425) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5421) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Update rector to 2.1.x-dev compatible version](https://github.com/phpstan/phpstan/pull/14436) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
-- [Update rector to 2.1.x-dev compatible version](https://github.com/phpstan/phpstan/pull/14435) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
-- [Prevent duplicate argument re-normalizing](https://github.com/phpstan/phpstan-src/pull/5393) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [TypeCombinator: Remove always true condition](https://github.com/phpstan/phpstan-src/pull/5383) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [10.1.3](https://github.com/staabm/secure_dotenv/releases/tag/10.1.3) (today)
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [11.0](https://github.com/staabm/secure_dotenv/releases/tag/11.0) (today)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.1.2](https://github.com/sebastianbergmann/comparator/releases/tag/8.1.2) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.13](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.13) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.47](https://github.com/phpstan/phpstan/releases/tag/2.1.47) (1 day ago)
