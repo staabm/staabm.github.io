@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Test Parser-&gt;save()](https://github.com/staabm/secure_dotenv/pull/28) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
+- [LazySecrets no longer implement magic __toString](https://github.com/staabm/secure_dotenv/pull/27) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
 - [LazySecret free-underlying callable when resolved](https://github.com/staabm/secure_dotenv/pull/26) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
 - [Cleanup EntityRepositoryClassReflectionExtension](https://github.com/phpstan/phpstan-doctrine/pull/740) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [Add SecretNotDecryptableException](https://github.com/staabm/secure_dotenv/pull/25) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 day ago)
@@ -53,8 +55,6 @@
 - [Update rector to 2.1.x-dev compatible version](https://github.com/phpstan/phpstan/pull/14435) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [Prevent duplicate argument re-normalizing](https://github.com/phpstan/phpstan-src/pull/5393) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [TypeCombinator: Remove always true condition](https://github.com/phpstan/phpstan-src/pull/5383) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Update larastan to newer version](https://github.com/phpstan/phpstan/pull/14425) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
-- [Update larastan to newer version](https://github.com/phpstan/phpstan/pull/14423) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
