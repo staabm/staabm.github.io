@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [recombee/php-api-client](https://github.com/recombee/php-api-client) - [v6.2.0](https://github.com/recombee/php-api-client/releases/tag/v6.2.0) (today)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [11.0](https://github.com/staabm/secure_dotenv/releases/tag/11.0) (today)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.1.2](https://github.com/sebastianbergmann/comparator/releases/tag/8.1.2) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.13](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.13) (today)
@@ -68,4 +69,3 @@
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0-rc.1](https://github.com/deployphp/deployer/releases/tag/v8.0.0-rc.1) (2 days ago)
 - [redaxo/core](https://github.com/redaxo/core) - [5.21.0](https://github.com/redaxo/core/releases/tag/5.21.0) (5 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.22.2](https://github.com/paratestphp/paratest/releases/tag/v7.22.2) (6 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.70.0](https://github.com/Roave/BetterReflection/releases/tag/6.70.0) (1 week ago)
