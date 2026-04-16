@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (2 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.14](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.14) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.5](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.5) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.48](https://github.com/phpstan/phpstan/releases/tag/2.1.48) (1 day ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.3.0](https://github.com/sebastianbergmann/environment/releases/tag/9.3.0) (1 day ago)
@@ -67,5 +68,4 @@
 - [recombee/php-api-client](https://github.com/recombee/php-api-client) - [v6.2.0](https://github.com/recombee/php-api-client/releases/tag/v6.2.0) (2 days ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [11.0](https://github.com/staabm/secure_dotenv/releases/tag/11.0) (2 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.1.2](https://github.com/sebastianbergmann/comparator/releases/tag/8.1.2) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.13](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.13) (2 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0-rc.1](https://github.com/deployphp/deployer/releases/tag/v8.0.0-rc.1) (4 days ago)
