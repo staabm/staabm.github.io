@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
-- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (1 month ago)
 - [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) (1 month ago)
+- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (1 month ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 month ago)
-- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 month ago)
 - [php/doc-de](https://github.com/php/doc-de) (1 month ago)
 
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [NarrowPublicClassMethodParamTypeRule: Fix generic-object false-positive](https://github.com/rectorphp/type-perfect/pull/74) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
 - [Fix generic-object false positive](https://github.com/rectorphp/type-perfect/pull/73) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
 - [PHPStan level8, baseline errors](https://github.com/staabm/secure_dotenv/pull/32) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 days ago)
 - [declare more types](https://github.com/staabm/secure_dotenv/pull/31) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 days ago)
@@ -54,7 +55,6 @@
 - [Implement LazySecret](https://github.com/staabm/secure_dotenv/pull/23) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (4 days ago)
 - [bisect: advertise gzip,deflate encoding when supported](https://github.com/phpstan/phpstan-src/pull/5434) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5427) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Added regression tests](https://github.com/phpstan/phpstan-src/pull/5425) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
