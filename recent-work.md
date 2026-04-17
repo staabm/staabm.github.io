@@ -3,13 +3,13 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 days ago)
 - [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) (1 month ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (1 month ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 month ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update rector to 2.1.x-dev compatible version](https://github.com/phpstan/phpstan/pull/14492) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Update rector to 2.1.x-dev compatible version](https://github.com/phpstan/phpstan/pull/14491) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Fix build](https://github.com/staabm/phpstan-dba/pull/775) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [NarrowPublicClassMethodParamTypeRule: Fix generic-object false-positive](https://github.com/rectorphp/type-perfect/pull/74) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
@@ -54,7 +55,6 @@
 - [Cleanup EntityRepositoryClassReflectionExtension](https://github.com/phpstan/phpstan-doctrine/pull/740) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 days ago)
 - [Add SecretNotDecryptableException](https://github.com/staabm/secure_dotenv/pull/25) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (4 days ago)
 - [Fix LazySecret json encoding](https://github.com/staabm/secure_dotenv/pull/24) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (4 days ago)
-- [Implement LazySecret](https://github.com/staabm/secure_dotenv/pull/23) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
