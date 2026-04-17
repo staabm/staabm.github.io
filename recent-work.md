@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update rector to 2.1.x-dev compatible version](https://github.com/phpstan/phpstan/pull/14491) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Fix build](https://github.com/staabm/phpstan-dba/pull/775) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [NarrowPublicClassMethodParamTypeRule: Fix generic-object false-positive](https://github.com/rectorphp/type-perfect/pull/74) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
 - [Fix generic-object false positive](https://github.com/rectorphp/type-perfect/pull/73) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
@@ -54,7 +55,6 @@
 - [Add SecretNotDecryptableException](https://github.com/staabm/secure_dotenv/pull/25) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (4 days ago)
 - [Fix LazySecret json encoding](https://github.com/staabm/secure_dotenv/pull/24) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (4 days ago)
 - [Implement LazySecret](https://github.com/staabm/secure_dotenv/pull/23) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (4 days ago)
-- [bisect: advertise gzip,deflate encoding when supported](https://github.com/phpstan/phpstan-src/pull/5434) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
