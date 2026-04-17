@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix generic-object false positive](https://github.com/rectorphp/type-perfect/pull/73) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (today)
 - [PHPStan level8, baseline errors](https://github.com/staabm/secure_dotenv/pull/32) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 days ago)
 - [declare more types](https://github.com/staabm/secure_dotenv/pull/31) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 days ago)
 - [Fix CS](https://github.com/staabm/secure_dotenv/pull/30) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 days ago)
@@ -54,7 +55,6 @@
 - [bisect: advertise gzip,deflate encoding when supported](https://github.com/phpstan/phpstan-src/pull/5434) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5427) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Added regression tests](https://github.com/phpstan/phpstan-src/pull/5425) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5421) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
