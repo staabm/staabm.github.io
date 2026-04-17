@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.15](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.15) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.49](https://github.com/phpstan/phpstan/releases/tag/2.1.49) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.14](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.14) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.5](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.5) (1 day ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.3.0](https://github.com/sebastianbergmann/environment/releases/tag/9.3.0) (2 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.2) (2 days ago)
