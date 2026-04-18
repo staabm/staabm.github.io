@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/5494) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Revert &#34;CI: Fix old PHPUnit (#5490)&#34;](https://github.com/phpstan/phpstan-src/pull/5493) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update phpbench baseline](https://github.com/phpstan/phpstan-src/pull/5492) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [CI: Fix old PHPUnit](https://github.com/phpstan/phpstan-src/pull/5490) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update rector to 2.1.x-dev compatible version](https://github.com/phpstan/phpstan/pull/14492) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
@@ -53,8 +55,6 @@
 - [Drop PHP 7.4/8.0 support](https://github.com/staabm/secure_dotenv/pull/29) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (4 days ago)
 - [Test Parser-&gt;save()](https://github.com/staabm/secure_dotenv/pull/28) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (4 days ago)
 - [BC-Break: LazySecrets no longer implement magic `__toString`](https://github.com/staabm/secure_dotenv/pull/27) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (4 days ago)
-- [LazySecret free-underlying callable when resolved](https://github.com/staabm/secure_dotenv/pull/26) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (4 days ago)
-- [Cleanup EntityRepositoryClassReflectionExtension](https://github.com/phpstan/phpstan-doctrine/pull/740) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
