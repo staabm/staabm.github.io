@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [COMPOSER_NO_SECURITY_BLOCKING=1 for tests with old PHPUnit](https://github.com/phpstan/phpstan-src/pull/5490) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [CI: Fix old PHPUnit](https://github.com/phpstan/phpstan-src/pull/5490) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update rector to 2.1.x-dev compatible version](https://github.com/phpstan/phpstan/pull/14492) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [Update rector to 2.1.x-dev compatible version](https://github.com/phpstan/phpstan/pull/14491) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [Fix build](https://github.com/staabm/phpstan-dba/pull/775) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
