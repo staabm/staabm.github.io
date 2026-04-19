@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix shopsys integration test](https://github.com/phpstan/phpstan/pull/14496) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [fix shopsys integration test](https://github.com/phpstan/phpstan/pull/14495) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [Workaround actions/upload-artifact#176](https://github.com/phpstan/phpstan/pull/14494) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/5494) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Revert &#34;CI: Fix old PHPUnit (#5490)&#34;](https://github.com/phpstan/phpstan-src/pull/5493) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Update phpbench baseline](https://github.com/phpstan/phpstan-src/pull/5492) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -52,9 +55,6 @@
 - [PHPStan level8, baseline errors](https://github.com/staabm/secure_dotenv/pull/32) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (5 days ago)
 - [declare more types](https://github.com/staabm/secure_dotenv/pull/31) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (5 days ago)
 - [Fix CS](https://github.com/staabm/secure_dotenv/pull/30) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (5 days ago)
-- [Drop PHP 7.4/8.0 support](https://github.com/staabm/secure_dotenv/pull/29) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (5 days ago)
-- [Test Parser-&gt;save()](https://github.com/staabm/secure_dotenv/pull/28) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (5 days ago)
-- [BC-Break: LazySecrets no longer implement magic `__toString`](https://github.com/staabm/secure_dotenv/pull/27) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
