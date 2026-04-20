@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [11.1.2](https://github.com/staabm/secure_dotenv/releases/tag/11.1.2) (today)
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [11.1.3](https://github.com/staabm/secure_dotenv/releases/tag/11.1.3) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.16](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.16) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.7](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.7) (2 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.3](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.3) (2 days ago)
