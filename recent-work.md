@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Secret throws SecretNotDecryptableException](https://github.com/staabm/secure_dotenv/pull/35) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
 - [Narrow type](https://github.com/staabm/secure_dotenv/pull/34) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
 - [Implement RawSecret &amp; Secret Interface](https://github.com/staabm/secure_dotenv/pull/33) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
 - [fix shopsys integration test](https://github.com/phpstan/phpstan/pull/14496) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
@@ -54,12 +55,11 @@
 - [Fix build](https://github.com/staabm/phpstan-dba/pull/775) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [NarrowPublicClassMethodParamTypeRule: Fix generic-object false-positive](https://github.com/rectorphp/type-perfect/pull/74) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (3 days ago)
 - [Fix generic-object false positive](https://github.com/rectorphp/type-perfect/pull/73) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (3 days ago)
-- [PHPStan level8, baseline errors](https://github.com/staabm/secure_dotenv/pull/32) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [11.1.1](https://github.com/staabm/secure_dotenv/releases/tag/11.1.1) (today)
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [11.1.2](https://github.com/staabm/secure_dotenv/releases/tag/11.1.2) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.16](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.16) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.7](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.7) (2 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.3](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.3) (2 days ago)
