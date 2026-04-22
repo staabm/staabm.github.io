@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Make bcfloor, bcceil pure](https://github.com/phpstan/phpstan-src/pull/5509) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Secret throws SecretNotDecryptableException](https://github.com/staabm/secure_dotenv/pull/35) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (2 days ago)
 - [Narrow type](https://github.com/staabm/secure_dotenv/pull/34) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (2 days ago)
 - [Implement RawSecret &amp; Secret Interface](https://github.com/staabm/secure_dotenv/pull/33) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (2 days ago)
@@ -54,14 +55,13 @@
 - [Update rector to 2.1.x-dev compatible version](https://github.com/phpstan/phpstan/pull/14491) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
 - [Fix build](https://github.com/staabm/phpstan-dba/pull/775) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [NarrowPublicClassMethodParamTypeRule: Fix generic-object false-positive](https://github.com/rectorphp/type-perfect/pull/74) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (5 days ago)
-- [Fix generic-object false positive](https://github.com/rectorphp/type-perfect/pull/73) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.17](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.17) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.51](https://github.com/phpstan/phpstan/releases/tag/2.1.51) (1 day ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [11.1.3](https://github.com/staabm/secure_dotenv/releases/tag/11.1.3) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.16](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.16) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.7](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.7) (4 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.3](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.3) (4 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.21](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.21) (5 days ago)
