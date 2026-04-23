@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/5515) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Don&#39;t remember types after impure assignments](https://github.com/phpstan/phpstan-src/pull/5514) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix shopsys integration test (update phpunit because of CVE)](https://github.com/phpstan/phpstan/pull/14516) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Fix shopsys integration test (update phpunit because of CVE)](https://github.com/phpstan/phpstan/pull/14515) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
@@ -54,7 +55,6 @@
 - [Revert &#34;CI: Fix old PHPUnit (#5490)&#34;](https://github.com/phpstan/phpstan-src/pull/5493) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Update phpbench baseline](https://github.com/phpstan/phpstan-src/pull/5492) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [CI: Fix old PHPUnit](https://github.com/phpstan/phpstan-src/pull/5490) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Update rector to 2.1.x-dev compatible version](https://github.com/phpstan/phpstan/pull/14492) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
