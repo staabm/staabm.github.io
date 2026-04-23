@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Don&#39;t remember types after impure assignments](https://github.com/phpstan/phpstan-src/pull/5514) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix shopsys integration test (update phpunit because of CVE)](https://github.com/phpstan/phpstan/pull/14516) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Fix shopsys integration test (update phpunit because of CVE)](https://github.com/phpstan/phpstan/pull/14515) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Make bcfloor, bcceil pure](https://github.com/phpstan/phpstan-src/pull/5509) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Update phpbench baseline](https://github.com/phpstan/phpstan-src/pull/5492) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [CI: Fix old PHPUnit](https://github.com/phpstan/phpstan-src/pull/5490) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Update rector to 2.1.x-dev compatible version](https://github.com/phpstan/phpstan/pull/14492) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
-- [Update rector to 2.1.x-dev compatible version](https://github.com/phpstan/phpstan/pull/14491) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
