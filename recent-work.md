@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix shopsys integration test (update phpunit because of CVE)](https://github.com/phpstan/phpstan/pull/14516) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [Fix shopsys integration test (update phpunit because of CVE)](https://github.com/phpstan/phpstan/pull/14515) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Make bcfloor, bcceil pure](https://github.com/phpstan/phpstan-src/pull/5509) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Secret throws SecretNotDecryptableException](https://github.com/staabm/secure_dotenv/pull/35) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 days ago)
 - [Narrow type](https://github.com/staabm/secure_dotenv/pull/34) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 days ago)
@@ -53,8 +55,6 @@
 - [CI: Fix old PHPUnit](https://github.com/phpstan/phpstan-src/pull/5490) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Update rector to 2.1.x-dev compatible version](https://github.com/phpstan/phpstan/pull/14492) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
 - [Update rector to 2.1.x-dev compatible version](https://github.com/phpstan/phpstan/pull/14491) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
-- [Fix build](https://github.com/staabm/phpstan-dba/pull/775) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
-- [NarrowPublicClassMethodParamTypeRule: Fix generic-object false-positive](https://github.com/rectorphp/type-perfect/pull/74) on [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
