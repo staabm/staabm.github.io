@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [SecretNotDecryptableException is a RuntimeException](https://github.com/staabm/secure_dotenv/pull/36) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/5515) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Don&#39;t remember types after impure assignments](https://github.com/phpstan/phpstan-src/pull/5514) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix shopsys integration test (update phpunit because of CVE)](https://github.com/phpstan/phpstan/pull/14516) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
@@ -54,14 +55,13 @@
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/5494) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Revert &#34;CI: Fix old PHPUnit (#5490)&#34;](https://github.com/phpstan/phpstan-src/pull/5493) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Update phpbench baseline](https://github.com/phpstan/phpstan-src/pull/5492) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [CI: Fix old PHPUnit](https://github.com/phpstan/phpstan-src/pull/5490) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [11.1.4](https://github.com/staabm/secure_dotenv/releases/tag/11.1.4) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.17](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.17) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.51](https://github.com/phpstan/phpstan/releases/tag/2.1.51) (2 days ago)
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [11.1.3](https://github.com/staabm/secure_dotenv/releases/tag/11.1.3) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.7](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.7) (5 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.3](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.3) (5 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.21](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.21) (6 days ago)
