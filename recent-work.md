@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improve inference for truethy comparisons](https://github.com/phpstan/phpstan-src/pull/5521) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Revert fix](https://github.com/phpstan/phpstan-src/pull/5520) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Autoloading should not be invoked for any string](https://github.com/phpstan/phpstan-src/pull/5519) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [SecretNotDecryptableException is a RuntimeException](https://github.com/staabm/secure_dotenv/pull/36) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
@@ -54,7 +55,6 @@
 - [fix shopsys integration test](https://github.com/phpstan/phpstan/pull/14496) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [fix shopsys integration test](https://github.com/phpstan/phpstan/pull/14495) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [Workaround actions/upload-artifact#176](https://github.com/phpstan/phpstan/pull/14494) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/5494) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
