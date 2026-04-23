@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Revert fix](https://github.com/phpstan/phpstan-src/pull/5520) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Autoloading should not be invoked for any string](https://github.com/phpstan/phpstan-src/pull/5519) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [SecretNotDecryptableException is a RuntimeException](https://github.com/staabm/secure_dotenv/pull/36) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/5515) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Don&#39;t remember types after impure assignments](https://github.com/phpstan/phpstan-src/pull/5514) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -53,8 +55,6 @@
 - [fix shopsys integration test](https://github.com/phpstan/phpstan/pull/14495) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [Workaround actions/upload-artifact#176](https://github.com/phpstan/phpstan/pull/14494) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/5494) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Revert &#34;CI: Fix old PHPUnit (#5490)&#34;](https://github.com/phpstan/phpstan-src/pull/5493) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Update phpbench baseline](https://github.com/phpstan/phpstan-src/pull/5492) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
