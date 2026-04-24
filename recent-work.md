@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.6](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.6) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.32.7](https://github.com/infection/infection/releases/tag/0.32.7) (1 day ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.4](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.4) (1 day ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [11.1.4](https://github.com/staabm/secure_dotenv/releases/tag/11.1.4) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.17](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.17) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.51](https://github.com/phpstan/phpstan/releases/tag/2.1.51) (3 days ago)
