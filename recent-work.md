@@ -4,8 +4,8 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 week ago)
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0](https://github.com/deployphp/deployer/releases/tag/v8.0.0) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.6](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.6) (2 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.32.7](https://github.com/infection/infection/releases/tag/0.32.7) (3 days ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [11.1.4](https://github.com/staabm/secure_dotenv/releases/tag/11.1.4) (3 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.21](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.21) (1 week ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.3.0](https://github.com/sebastianbergmann/environment/releases/tag/9.3.0) (1 week ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.22.3](https://github.com/paratestphp/paratest/releases/tag/v7.22.3) (1 week ago)
-- [recombee/php-api-client](https://github.com/recombee/php-api-client) - [v6.2.0](https://github.com/recombee/php-api-client/releases/tag/v6.2.0) (1 week ago)
