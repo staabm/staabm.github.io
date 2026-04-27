@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Narrow types](https://github.com/staabm/secure_dotenv/pull/37) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (today)
 - [Fix PHPUnit warnings](https://github.com/phpstan/phpstan-src/pull/5522) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Improve inference for truethy comparisons](https://github.com/phpstan/phpstan-src/pull/5521) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Revert fix](https://github.com/phpstan/phpstan-src/pull/5520) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -54,15 +55,14 @@
 - [Narrow type](https://github.com/staabm/secure_dotenv/pull/34) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
 - [Implement RawSecret &amp; Secret Interface](https://github.com/staabm/secure_dotenv/pull/33) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
 - [fix shopsys integration test](https://github.com/phpstan/phpstan/pull/14496) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
-- [fix shopsys integration test](https://github.com/phpstan/phpstan/pull/14495) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [11.1.5](https://github.com/staabm/secure_dotenv/releases/tag/11.1.5) (today)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0](https://github.com/deployphp/deployer/releases/tag/v8.0.0) (1 day ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.6](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.6) (3 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.32.7](https://github.com/infection/infection/releases/tag/0.32.7) (4 days ago)
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [11.1.4](https://github.com/staabm/secure_dotenv/releases/tag/11.1.4) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.17](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.17) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.51](https://github.com/phpstan/phpstan/releases/tag/2.1.51) (6 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.7](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.7) (1 week ago)
