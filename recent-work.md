@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.53](https://github.com/phpstan/phpstan/releases/tag/2.1.53) (today)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2026.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2026.1) (today)
 - [rhukster/sphp.sh](https://github.com/rhukster/sphp.sh) - [1.2.0](https://github.com/rhukster/sphp.sh/releases/tag/1.2.0) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.52](https://github.com/phpstan/phpstan/releases/tag/2.1.52) (today)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [11.1.5](https://github.com/staabm/secure_dotenv/releases/tag/11.1.5) (1 day ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0](https://github.com/deployphp/deployer/releases/tag/v8.0.0) (2 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.6](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.6) (4 days ago)
