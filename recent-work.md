@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.54](https://github.com/phpstan/phpstan/releases/tag/2.1.54) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.18](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.18) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.53](https://github.com/phpstan/phpstan/releases/tag/2.1.53) (1 day ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2026.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2026.1) (1 day ago)
 - [rhukster/sphp.sh](https://github.com/rhukster/sphp.sh) - [1.2.0](https://github.com/rhukster/sphp.sh/releases/tag/1.2.0) (1 day ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [11.1.5](https://github.com/staabm/secure_dotenv/releases/tag/11.1.5) (2 days ago)
