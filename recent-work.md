@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 weeks ago)
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.18](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.18) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.53](https://github.com/phpstan/phpstan/releases/tag/2.1.53) (1 day ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2026.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2026.1) (1 day ago)
 - [rhukster/sphp.sh](https://github.com/rhukster/sphp.sh) - [1.2.0](https://github.com/rhukster/sphp.sh/releases/tag/1.2.0) (1 day ago)
@@ -66,6 +67,5 @@
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.0](https://github.com/deployphp/deployer/releases/tag/v8.0.0) (3 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.6](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.6) (5 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.32.7](https://github.com/infection/infection/releases/tag/0.32.7) (6 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.17](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.17) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.7](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.7) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.21](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.21) (1 week ago)
