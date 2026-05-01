@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Lazily initialize AggregateSourceLocator to speedup bootstrapping](https://github.com/phpstan/phpstan-src/pull/5577) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Don&#39;t report &#34;no value type specified in iterable type array&amp;callable&#34;](https://github.com/phpstan/phpstan-src/pull/5565) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Narrow types](https://github.com/staabm/secure_dotenv/pull/37) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (4 days ago)
 - [Fix PHPUnit warnings](https://github.com/phpstan/phpstan-src/pull/5522) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -54,7 +55,6 @@
 - [Make bcfloor, bcceil pure](https://github.com/phpstan/phpstan-src/pull/5509) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Secret throws SecretNotDecryptableException](https://github.com/staabm/secure_dotenv/pull/35) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
 - [Narrow type](https://github.com/staabm/secure_dotenv/pull/34) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
-- [Implement RawSecret &amp; Secret Interface](https://github.com/staabm/secure_dotenv/pull/33) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
