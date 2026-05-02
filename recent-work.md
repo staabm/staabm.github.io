@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.71.0](https://github.com/Roave/BetterReflection/releases/tag/6.71.0) (today)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.11](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.11) (today)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.1](https://github.com/deployphp/deployer/releases/tag/v8.0.1) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.8](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.8) (1 day ago)
@@ -68,4 +69,3 @@
 - [rhukster/sphp.sh](https://github.com/rhukster/sphp.sh) - [1.2.0](https://github.com/rhukster/sphp.sh/releases/tag/1.2.0) (4 days ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [11.1.5](https://github.com/staabm/secure_dotenv/releases/tag/11.1.5) (5 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.6](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.6) (1 week ago)
-- [infection/infection](https://github.com/infection/infection) - [0.32.7](https://github.com/infection/infection/releases/tag/0.32.7) (1 week ago)
