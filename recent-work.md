@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/5585) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Lazily initialize AggregateSourceLocator to speedup bootstrapping](https://github.com/phpstan/phpstan-src/pull/5577) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Don&#39;t report &#34;no value type specified in iterable type array&amp;callable&#34;](https://github.com/phpstan/phpstan-src/pull/5565) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Narrow types](https://github.com/staabm/secure_dotenv/pull/37) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (6 days ago)
@@ -54,7 +55,6 @@
 - [Fix shopsys integration test (update phpunit because of CVE)](https://github.com/phpstan/phpstan/pull/14515) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [Make bcfloor, bcceil pure](https://github.com/phpstan/phpstan-src/pull/5509) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Secret throws SecretNotDecryptableException](https://github.com/staabm/secure_dotenv/pull/35) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
-- [Narrow type](https://github.com/staabm/secure_dotenv/pull/34) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
