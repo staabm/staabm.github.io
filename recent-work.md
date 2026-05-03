@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (4 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (2 weeks ago)
@@ -40,9 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Lazily initialize AggregateSourceLocator to speedup bootstrapping](https://github.com/phpstan/phpstan-src/pull/5577) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Don&#39;t report &#34;no value type specified in iterable type array&amp;callable&#34;](https://github.com/phpstan/phpstan-src/pull/5565) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Narrow types](https://github.com/staabm/secure_dotenv/pull/37) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (5 days ago)
+- [Lazily initialize AggregateSourceLocator to speedup bootstrapping](https://github.com/phpstan/phpstan-src/pull/5577) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Don&#39;t report &#34;no value type specified in iterable type array&amp;callable&#34;](https://github.com/phpstan/phpstan-src/pull/5565) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Narrow types](https://github.com/staabm/secure_dotenv/pull/37) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (6 days ago)
 - [Fix PHPUnit warnings](https://github.com/phpstan/phpstan-src/pull/5522) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Improve inference for truethy comparisons](https://github.com/phpstan/phpstan-src/pull/5521) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Revert fix](https://github.com/phpstan/phpstan-src/pull/5520) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.71.0](https://github.com/Roave/BetterReflection/releases/tag/6.71.0) (today)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.11](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.11) (today)
-- [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.1](https://github.com/deployphp/deployer/releases/tag/v8.0.1) (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.8](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.8) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.19](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.19) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.54](https://github.com/phpstan/phpstan/releases/tag/2.1.54) (3 days ago)
-- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2026.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2026.1) (4 days ago)
-- [rhukster/sphp.sh](https://github.com/rhukster/sphp.sh) - [1.2.0](https://github.com/rhukster/sphp.sh/releases/tag/1.2.0) (4 days ago)
-- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [11.1.5](https://github.com/staabm/secure_dotenv/releases/tag/11.1.5) (5 days ago)
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.71.0](https://github.com/Roave/BetterReflection/releases/tag/6.71.0) (1 day ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.11](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.11) (1 day ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.1](https://github.com/deployphp/deployer/releases/tag/v8.0.1) (2 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.8](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.8) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.19](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.19) (3 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.54](https://github.com/phpstan/phpstan/releases/tag/2.1.54) (4 days ago)
+- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2026.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2026.1) (5 days ago)
+- [rhukster/sphp.sh](https://github.com/rhukster/sphp.sh) - [1.2.0](https://github.com/rhukster/sphp.sh/releases/tag/1.2.0) (5 days ago)
+- [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [11.1.5](https://github.com/staabm/secure_dotenv/releases/tag/11.1.5) (6 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.6](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.6) (1 week ago)
