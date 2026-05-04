@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.2](https://github.com/deployphp/deployer/releases/tag/v8.0.2) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.71.0](https://github.com/Roave/BetterReflection/releases/tag/6.71.0) (2 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.11](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.11) (2 days ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.1](https://github.com/deployphp/deployer/releases/tag/v8.0.1) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.8](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.8) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.19](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.19) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.54](https://github.com/phpstan/phpstan/releases/tag/2.1.54) (5 days ago)
