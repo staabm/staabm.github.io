@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.7](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.7) (today)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.2](https://github.com/deployphp/deployer/releases/tag/v8.0.2) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.71.0](https://github.com/Roave/BetterReflection/releases/tag/6.71.0) (2 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.11](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.11) (2 days ago)
@@ -68,4 +69,3 @@
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2026.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2026.1) (6 days ago)
 - [rhukster/sphp.sh](https://github.com/rhukster/sphp.sh) - [1.2.0](https://github.com/rhukster/sphp.sh/releases/tag/1.2.0) (6 days ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) - [11.1.5](https://github.com/staabm/secure_dotenv/releases/tag/11.1.5) (1 week ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.6](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.6) (1 week ago)
