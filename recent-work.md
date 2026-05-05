@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.3](https://github.com/deployphp/deployer/releases/tag/v8.0.3) (today)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) - [1.8.7](https://github.com/staabm/annotate-pull-request-from-checkstyle/releases/tag/1.8.7) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.7](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.7) (1 day ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.2](https://github.com/deployphp/deployer/releases/tag/v8.0.2) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.71.0](https://github.com/Roave/BetterReflection/releases/tag/6.71.0) (3 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.11](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.11) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.8](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.8) (4 days ago)
