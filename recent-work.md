@@ -11,8 +11,8 @@
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (2 weeks ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 weeks ago)
-- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (1 month ago)
 - [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) (1 month ago)
+- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (1 month ago)
 
 
 #### 📜 My recent blog posts
