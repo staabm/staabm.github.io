@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove dead code from FileExcluder](https://github.com/phpstan/phpstan-src/pull/5598) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Partly revert wrong expectations](https://github.com/phpstan/phpstan-src/pull/5589) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Narrow `DateInterval-&gt;days` after `DateTimeInterface-&gt;diff()`](https://github.com/phpstan/phpstan-src/pull/5588) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/5585) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/5515) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Don&#39;t remember types after impure assignments](https://github.com/phpstan/phpstan-src/pull/5514) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix shopsys integration test (update phpunit because of CVE)](https://github.com/phpstan/phpstan/pull/14516) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
-- [Fix shopsys integration test (update phpunit because of CVE)](https://github.com/phpstan/phpstan/pull/14515) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
