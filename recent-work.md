@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [name-collision-detector](https://github.com/phpstan/phpstan-strict-rules/pull/314) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
+- [name-collision-detector](https://github.com/phpstan/phpstan-doctrine/pull/745) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [prepare release](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/126) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 day ago)
 - [PhpFileCleaner: Use strcspn instead of regex for fast-skip in clean()](https://github.com/phpstan/phpstan-src/pull/5600) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Remove dead code from FileExcluder](https://github.com/phpstan/phpstan-src/pull/5598) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Improve inference for truethy comparisons](https://github.com/phpstan/phpstan-src/pull/5521) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Revert fix](https://github.com/phpstan/phpstan-src/pull/5520) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Autoloading should not be invoked for any string](https://github.com/phpstan/phpstan-src/pull/5519) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [SecretNotDecryptableException is a RuntimeException](https://github.com/staabm/secure_dotenv/pull/36) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/5515) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
