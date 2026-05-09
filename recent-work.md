@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Test result-cache restore does not trigger reflection in all 1st party extensions](https://github.com/phpstan/phpstan-src/pull/5618) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Test result-cache restore does not trigger reflection](https://github.com/phpstan/phpstan-src/pull/5617) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [name-collision-detector](https://github.com/phpstan/phpstan-strict-rules/pull/314) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (3 days ago)
 - [name-collision-detector](https://github.com/phpstan/phpstan-doctrine/pull/745) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 days ago)
@@ -54,11 +55,12 @@
 - [Narrow types](https://github.com/staabm/secure_dotenv/pull/37) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
 - [Fix PHPUnit warnings](https://github.com/phpstan/phpstan-src/pull/5522) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Improve inference for truethy comparisons](https://github.com/phpstan/phpstan-src/pull/5521) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [Revert fix](https://github.com/phpstan/phpstan-src/pull/5520) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.22](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.22) (today)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.16](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.16) (today)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.3](https://github.com/deployphp/deployer/releases/tag/v8.0.3) (4 days ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) - [1.8.7](https://github.com/staabm/annotate-pull-request-from-checkstyle/releases/tag/1.8.7) (4 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.7](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.7) (5 days ago)
@@ -67,5 +69,3 @@
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.8](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.8) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.19](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.19) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.54](https://github.com/phpstan/phpstan/releases/tag/2.1.54) (1 week ago)
-- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2026.1](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2026.1) (1 week ago)
-- [rhukster/sphp.sh](https://github.com/rhukster/sphp.sh) - [1.2.0](https://github.com/rhukster/sphp.sh/releases/tag/1.2.0) (1 week ago)
