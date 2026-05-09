@@ -11,8 +11,8 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 weeks ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (3 weeks ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
