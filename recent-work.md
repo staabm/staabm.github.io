@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (3 days ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (4 days ago)
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update release-toot.yml](https://github.com/phpstan/phpstan-symfony/pull/489) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (today)
+- [Fix build](https://github.com/phpstan/phpstan-src/pull/5620) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Merge branch 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5619) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Test result-cache restore does not trigger reflection in all 1st party extensions](https://github.com/phpstan/phpstan-src/pull/5618) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Test result-cache restore does not trigger reflection](https://github.com/phpstan/phpstan-src/pull/5617) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [name-collision-detector](https://github.com/phpstan/phpstan-strict-rules/pull/314) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (3 days ago)
@@ -52,9 +55,6 @@
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/5585) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Lazily initialize AggregateSourceLocator to speedup bootstrapping](https://github.com/phpstan/phpstan-src/pull/5577) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Don&#39;t report &#34;no value type specified in iterable type array&amp;callable&#34;](https://github.com/phpstan/phpstan-src/pull/5565) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Narrow types](https://github.com/staabm/secure_dotenv/pull/37) on [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
-- [Fix PHPUnit warnings](https://github.com/phpstan/phpstan-src/pull/5522) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [Improve inference for truethy comparisons](https://github.com/phpstan/phpstan-src/pull/5521) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
