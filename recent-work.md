@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (3 days ago)
@@ -12,7 +13,6 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 weeks ago)
 - [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) (3 weeks ago)
-- [staabm/complex-library-installer](https://github.com/staabm/complex-library-installer) (1 month ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Test result-cache restore does not trigger reflection](https://github.com/phpstan/phpstan-src/pull/5617) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [name-collision-detector](https://github.com/phpstan/phpstan-strict-rules/pull/314) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (3 days ago)
 - [name-collision-detector](https://github.com/phpstan/phpstan-doctrine/pull/745) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 days ago)
 - [prepare release](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/126) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (4 days ago)
@@ -54,7 +55,6 @@
 - [Fix PHPUnit warnings](https://github.com/phpstan/phpstan-src/pull/5522) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Improve inference for truethy comparisons](https://github.com/phpstan/phpstan-src/pull/5521) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Revert fix](https://github.com/phpstan/phpstan-src/pull/5520) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [Autoloading should not be invoked for any string](https://github.com/phpstan/phpstan-src/pull/5519) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
