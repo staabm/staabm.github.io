@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [CI: move name-collision job into build.yml](https://github.com/phpstan/phpstan-strict-rules/pull/318) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
+- [CI: move name-collision job into build.yml](https://github.com/phpstan/phpstan-doctrine/pull/750) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [Update release-toot.yml](https://github.com/phpstan/phpstan-symfony/pull/489) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 day ago)
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/5620) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Merge branch 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5619) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Partly revert wrong expectations](https://github.com/phpstan/phpstan-src/pull/5589) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Narrow `DateInterval-&gt;days` after `DateTimeInterface-&gt;diff()`](https://github.com/phpstan/phpstan-src/pull/5588) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/5585) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Lazily initialize AggregateSourceLocator to speedup bootstrapping](https://github.com/phpstan/phpstan-src/pull/5577) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Don&#39;t report &#34;no value type specified in iterable type array&amp;callable&#34;](https://github.com/phpstan/phpstan-src/pull/5565) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
