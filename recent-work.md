@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (today)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (today)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (today)
-- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (today)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (today)
+- [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (today)
+- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 
 
 #### 📜 My recent blog posts
