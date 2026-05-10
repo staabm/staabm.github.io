@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 day ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (4 days ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (4 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/secure_dotenv](https://github.com/staabm/secure_dotenv) (1 week ago)
@@ -40,6 +40,13 @@
 
 #### 🔨 My recent Pull Requests
 
+- [name-collision-detector](https://github.com/phpstan/phpstan-beberlei-assert/pull/88) on [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (today)
+- [name-collision-detector](https://github.com/phpstan/phpstan-webmozart-assert/pull/211) on [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (today)
+- [name-collision-detector](https://github.com/phpstan/phpstan-mockery/pull/96) on [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (today)
+- [name-collision-detector](https://github.com/phpstan/phpstan-deprecation-rules/pull/187) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
+- [name-collision-detector](https://github.com/phpstan/phpstan-dibi/pull/63) on [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (today)
+- [name-collision-detector](https://github.com/phpstan/phpstan-nette/pull/197) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
+- [name-collision-detector](https://github.com/phpstan/phpstan-phpunit/pull/294) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [CI: move name-collision job into build.yml](https://github.com/phpstan/phpstan-strict-rules/pull/318) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
 - [CI: move name-collision job into build.yml](https://github.com/phpstan/phpstan-doctrine/pull/750) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
 - [Update release-toot.yml](https://github.com/phpstan/phpstan-symfony/pull/489) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 day ago)
@@ -48,13 +55,6 @@
 - [Test result-cache restore does not trigger reflection in all 1st party extensions](https://github.com/phpstan/phpstan-src/pull/5618) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Test result-cache restore does not trigger reflection](https://github.com/phpstan/phpstan-src/pull/5617) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [name-collision-detector](https://github.com/phpstan/phpstan-strict-rules/pull/314) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (4 days ago)
-- [name-collision-detector](https://github.com/phpstan/phpstan-doctrine/pull/745) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (4 days ago)
-- [prepare release](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/126) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (5 days ago)
-- [PhpFileCleaner: Use strcspn instead of regex for fast-skip in clean()](https://github.com/phpstan/phpstan-src/pull/5600) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Remove dead code from FileExcluder](https://github.com/phpstan/phpstan-src/pull/5598) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Partly revert wrong expectations](https://github.com/phpstan/phpstan-src/pull/5589) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Narrow `DateInterval-&gt;days` after `DateTimeInterface-&gt;diff()`](https://github.com/phpstan/phpstan-src/pull/5588) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/5585) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
