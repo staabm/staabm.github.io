@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [DateFunctionReturnTypeHelper: prevent unnecessary TypeCombinator::union()](https://github.com/phpstan/phpstan-src/pull/5629) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update release-toot.yml](https://github.com/phpstan/phpstan-strict-rules/pull/319) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
 - [Update release-toot.yml](https://github.com/phpstan/phpstan-dibi/pull/64) on [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (today)
 - [Update release-toot.yml](https://github.com/phpstan/phpstan-nette/pull/198) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
@@ -54,7 +55,6 @@
 - [Remove dead code in StrContainingTypeSpecifyingExtension](https://github.com/phpstan/phpstan-src/pull/5626) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [name-collision-detector](https://github.com/phpstan/phpstan-beberlei-assert/pull/88) on [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (today)
 - [name-collision-detector](https://github.com/phpstan/phpstan-webmozart-assert/pull/211) on [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (today)
-- [name-collision-detector](https://github.com/phpstan/phpstan-mockery/pull/96) on [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (today)
 
 
 #### 🔭 Latest releases I've contributed to
