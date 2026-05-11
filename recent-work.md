@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Manually merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5639) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Raise min php version to 8.3.x as latest infection requires it](https://github.com/phpstan/build-infection/pull/79) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (today)
 - [latest infection does not support PHP 8.2](https://github.com/phpstan/phpstan-phpunit/pull/296) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [latest infection does not support PHP 8.2](https://github.com/phpstan/phpstan-deprecation-rules/pull/189) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
@@ -54,7 +55,6 @@
 - [Update release-toot.yml](https://github.com/phpstan/phpdoc-parser/pull/299) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
 - [Update release-toot.yml](https://github.com/phpstan/phpstan-mockery/pull/97) on [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (1 day ago)
 - [Update release-toot.yml](https://github.com/phpstan/phpstan-webmozart-assert/pull/212) on [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (1 day ago)
-- [Update release-toot.yml](https://github.com/phpstan/phpstan-beberlei-assert/pull/89) on [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
