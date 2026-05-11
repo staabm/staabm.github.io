@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
-- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (today)
-- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (today)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (today)
-- [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (today)
-- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (today)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
+- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (1 day ago)
+- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (1 day ago)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (1 day ago)
+- [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (1 day ago)
+- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (1 day ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 
 
 #### 📜 My recent blog posts
@@ -40,30 +40,30 @@
 
 #### 🔨 My recent Pull Requests
 
-- [DateFunctionReturnTypeHelper: prevent unnecessary TypeCombinator::union()](https://github.com/phpstan/phpstan-src/pull/5629) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Update release-toot.yml](https://github.com/phpstan/phpstan-strict-rules/pull/319) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
-- [Update release-toot.yml](https://github.com/phpstan/phpstan-dibi/pull/64) on [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (today)
-- [Update release-toot.yml](https://github.com/phpstan/phpstan-nette/pull/198) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
-- [Update release-toot.yml](https://github.com/phpstan/phpdoc-parser/pull/299) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
-- [Update release-toot.yml](https://github.com/phpstan/phpstan-mockery/pull/97) on [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (today)
-- [Update release-toot.yml](https://github.com/phpstan/phpstan-webmozart-assert/pull/212) on [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (today)
-- [Update release-toot.yml](https://github.com/phpstan/phpstan-beberlei-assert/pull/89) on [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (today)
-- [Update release-toot.yml](https://github.com/phpstan/extension-installer/pull/110) on [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (today)
-- [Update release-toot.yml](https://github.com/phpstan/phpstan-phpunit/pull/295) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
-- [Update release-toot.yml](https://github.com/phpstan/phpstan-doctrine/pull/751) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
-- [Update release-toot.yml](https://github.com/phpstan/phpstan-deprecation-rules/pull/188) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (today)
-- [Remove dead code in StrContainingTypeSpecifyingExtension](https://github.com/phpstan/phpstan-src/pull/5626) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [name-collision-detector](https://github.com/phpstan/phpstan-beberlei-assert/pull/88) on [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (today)
-- [name-collision-detector](https://github.com/phpstan/phpstan-webmozart-assert/pull/211) on [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (today)
+- [DateFunctionReturnTypeHelper: prevent unnecessary TypeCombinator::union()](https://github.com/phpstan/phpstan-src/pull/5629) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Update release-toot.yml](https://github.com/phpstan/phpstan-strict-rules/pull/319) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 day ago)
+- [Update release-toot.yml](https://github.com/phpstan/phpstan-dibi/pull/64) on [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (1 day ago)
+- [Update release-toot.yml](https://github.com/phpstan/phpstan-nette/pull/198) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
+- [Update release-toot.yml](https://github.com/phpstan/phpdoc-parser/pull/299) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 day ago)
+- [Update release-toot.yml](https://github.com/phpstan/phpstan-mockery/pull/97) on [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (1 day ago)
+- [Update release-toot.yml](https://github.com/phpstan/phpstan-webmozart-assert/pull/212) on [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (1 day ago)
+- [Update release-toot.yml](https://github.com/phpstan/phpstan-beberlei-assert/pull/89) on [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (1 day ago)
+- [Update release-toot.yml](https://github.com/phpstan/extension-installer/pull/110) on [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (1 day ago)
+- [Update release-toot.yml](https://github.com/phpstan/phpstan-phpunit/pull/295) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
+- [Update release-toot.yml](https://github.com/phpstan/phpstan-doctrine/pull/751) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
+- [Update release-toot.yml](https://github.com/phpstan/phpstan-deprecation-rules/pull/188) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 day ago)
+- [Remove dead code in StrContainingTypeSpecifyingExtension](https://github.com/phpstan/phpstan-src/pull/5626) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [name-collision-detector](https://github.com/phpstan/phpstan-beberlei-assert/pull/88) on [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (1 day ago)
+- [name-collision-detector](https://github.com/phpstan/phpstan-webmozart-assert/pull/211) on [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (1 day ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.17](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.17) (today)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.8](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.8) (1 day ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.22](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.22) (1 day ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.3](https://github.com/deployphp/deployer/releases/tag/v8.0.3) (5 days ago)
-- [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) - [1.8.7](https://github.com/staabm/annotate-pull-request-from-checkstyle/releases/tag/1.8.7) (5 days ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.17](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.17) (1 day ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.8](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.8) (2 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.22](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.22) (2 days ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.3](https://github.com/deployphp/deployer/releases/tag/v8.0.3) (6 days ago)
+- [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) - [1.8.7](https://github.com/staabm/annotate-pull-request-from-checkstyle/releases/tag/1.8.7) (6 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.71.0](https://github.com/Roave/BetterReflection/releases/tag/6.71.0) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.11](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.11) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.8](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.8) (1 week ago)
