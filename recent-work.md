@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix PHP 7.4 build](https://github.com/phpstan/phpstan-src/pull/5655) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/5652) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Manually merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5639) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Raise min php version to 8.3.x as latest infection requires it](https://github.com/phpstan/build-infection/pull/79) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 days ago)
@@ -54,7 +55,6 @@
 - [Update release-toot.yml](https://github.com/phpstan/phpstan-dibi/pull/64) on [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (3 days ago)
 - [Update release-toot.yml](https://github.com/phpstan/phpstan-nette/pull/198) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (3 days ago)
 - [Update release-toot.yml](https://github.com/phpstan/phpdoc-parser/pull/299) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (3 days ago)
-- [Update release-toot.yml](https://github.com/phpstan/phpstan-mockery/pull/97) on [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
