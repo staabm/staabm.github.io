@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix shopsys e2e test](https://github.com/phpstan/phpstan/pull/14608) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5656) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix PHP 7.4 build](https://github.com/phpstan/phpstan-src/pull/5655) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/5652) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [DateFunctionReturnTypeHelper: prevent unnecessary TypeCombinator::union()](https://github.com/phpstan/phpstan-src/pull/5629) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Update release-toot.yml](https://github.com/phpstan/phpstan-strict-rules/pull/319) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (3 days ago)
 - [Update release-toot.yml](https://github.com/phpstan/phpstan-dibi/pull/64) on [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (3 days ago)
-- [Update release-toot.yml](https://github.com/phpstan/phpstan-nette/pull/198) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
