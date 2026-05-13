@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 day ago)
-- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (2 days ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (2 days ago)
-- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (2 days ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 days ago)
-- [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (2 days ago)
-- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (2 days ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (2 days ago)
+- [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (3 days ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (3 days ago)
+- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (3 days ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (3 days ago)
+- [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (3 days ago)
+- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (3 days ago)
 
 
 #### 📜 My recent blog posts
@@ -40,30 +40,30 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Manually merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5639) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Raise min php version to 8.3.x as latest infection requires it](https://github.com/phpstan/build-infection/pull/79) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 day ago)
-- [latest infection does not support PHP 8.2](https://github.com/phpstan/phpstan-phpunit/pull/296) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
-- [latest infection does not support PHP 8.2](https://github.com/phpstan/phpstan-deprecation-rules/pull/189) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 day ago)
-- [latest infection does not support PHP 8.2](https://github.com/phpstan/phpstan-doctrine/pull/752) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
-- [update infection](https://github.com/phpstan/build-infection/pull/78) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 day ago)
-- [update infection](https://github.com/phpstan/build-infection/pull/77) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 day ago)
-- [update infection](https://github.com/phpstan/build-infection/pull/76) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 day ago)
-- [DateFunctionReturnTypeHelper: prevent unnecessary TypeCombinator::union()](https://github.com/phpstan/phpstan-src/pull/5629) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Update release-toot.yml](https://github.com/phpstan/phpstan-strict-rules/pull/319) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (2 days ago)
-- [Update release-toot.yml](https://github.com/phpstan/phpstan-dibi/pull/64) on [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (2 days ago)
-- [Update release-toot.yml](https://github.com/phpstan/phpstan-nette/pull/198) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 days ago)
-- [Update release-toot.yml](https://github.com/phpstan/phpdoc-parser/pull/299) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 days ago)
-- [Update release-toot.yml](https://github.com/phpstan/phpstan-mockery/pull/97) on [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (2 days ago)
-- [Update release-toot.yml](https://github.com/phpstan/phpstan-webmozart-assert/pull/212) on [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (2 days ago)
+- [Manually merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5639) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Raise min php version to 8.3.x as latest infection requires it](https://github.com/phpstan/build-infection/pull/79) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 days ago)
+- [latest infection does not support PHP 8.2](https://github.com/phpstan/phpstan-phpunit/pull/296) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
+- [latest infection does not support PHP 8.2](https://github.com/phpstan/phpstan-deprecation-rules/pull/189) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (2 days ago)
+- [latest infection does not support PHP 8.2](https://github.com/phpstan/phpstan-doctrine/pull/752) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
+- [update infection](https://github.com/phpstan/build-infection/pull/78) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 days ago)
+- [update infection](https://github.com/phpstan/build-infection/pull/77) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 days ago)
+- [update infection](https://github.com/phpstan/build-infection/pull/76) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 days ago)
+- [DateFunctionReturnTypeHelper: prevent unnecessary TypeCombinator::union()](https://github.com/phpstan/phpstan-src/pull/5629) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Update release-toot.yml](https://github.com/phpstan/phpstan-strict-rules/pull/319) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (3 days ago)
+- [Update release-toot.yml](https://github.com/phpstan/phpstan-dibi/pull/64) on [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (3 days ago)
+- [Update release-toot.yml](https://github.com/phpstan/phpstan-nette/pull/198) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (3 days ago)
+- [Update release-toot.yml](https://github.com/phpstan/phpdoc-parser/pull/299) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (3 days ago)
+- [Update release-toot.yml](https://github.com/phpstan/phpstan-mockery/pull/97) on [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (3 days ago)
+- [Update release-toot.yml](https://github.com/phpstan/phpstan-webmozart-assert/pull/212) on [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.22.4](https://github.com/paratestphp/paratest/releases/tag/v7.22.4) (today)
-- [nette/tester](https://github.com/nette/tester) - [v2.6.1](https://github.com/nette/tester/releases/tag/v2.6.1) (1 day ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.17](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.17) (2 days ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.8](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.8) (3 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.22](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.22) (3 days ago)
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.22.4](https://github.com/paratestphp/paratest/releases/tag/v7.22.4) (1 day ago)
+- [nette/tester](https://github.com/nette/tester) - [v2.6.1](https://github.com/nette/tester/releases/tag/v2.6.1) (2 days ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.17](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.17) (3 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.8](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.8) (4 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.22](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.22) (4 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.3](https://github.com/deployphp/deployer/releases/tag/v8.0.3) (1 week ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) - [1.8.7](https://github.com/staabm/annotate-pull-request-from-checkstyle/releases/tag/1.8.7) (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.71.0](https://github.com/Roave/BetterReflection/releases/tag/6.71.0) (1 week ago)
