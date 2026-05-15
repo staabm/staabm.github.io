@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.1.3](https://github.com/sebastianbergmann/comparator/releases/tag/8.1.3) (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.9](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.9) (2 days ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.1.4](https://github.com/sebastianbergmann/comparator/releases/tag/8.1.4) (today)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.10](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.10) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.22.4](https://github.com/paratestphp/paratest/releases/tag/v7.22.4) (3 days ago)
 - [nette/tester](https://github.com/nette/tester) - [v2.6.1](https://github.com/nette/tester/releases/tag/v2.6.1) (4 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.17](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.17) (5 days ago)
