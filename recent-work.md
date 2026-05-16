@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Memoize ArrayType-&gt;isList()](https://github.com/phpstan/phpstan-src/pull/5680) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix PHP 7.4 build](https://github.com/phpstan/phpstan-src/pull/5662) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Update pocketmine-ng-baseline.neon](https://github.com/phpstan/phpstan/pull/14611) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [fix shopsys e2e test](https://github.com/phpstan/phpstan/pull/14608) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
@@ -54,7 +55,6 @@
 - [update infection](https://github.com/phpstan/build-infection/pull/78) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (5 days ago)
 - [update infection](https://github.com/phpstan/build-infection/pull/77) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (5 days ago)
 - [update infection](https://github.com/phpstan/build-infection/pull/76) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (5 days ago)
-- [DateFunctionReturnTypeHelper: prevent unnecessary TypeCombinator::union()](https://github.com/phpstan/phpstan-src/pull/5629) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
