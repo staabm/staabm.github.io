@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.9](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.9) (today)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.21.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.21.0) (1 day ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.1.4](https://github.com/sebastianbergmann/comparator/releases/tag/8.1.4) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.10](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.10) (1 day ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.22.4](https://github.com/paratestphp/paratest/releases/tag/v7.22.4) (4 days ago)
 - [nette/tester](https://github.com/nette/tester) - [v2.6.1](https://github.com/nette/tester/releases/tag/v2.6.1) (5 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.17](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.17) (6 days ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.8](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.8) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.22](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.22) (1 week ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.3](https://github.com/deployphp/deployer/releases/tag/v8.0.3) (1 week ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) - [1.8.7](https://github.com/staabm/annotate-pull-request-from-checkstyle/releases/tag/1.8.7) (1 week ago)
