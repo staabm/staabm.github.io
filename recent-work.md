@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (6 days ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (6 days ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix 2.2.x build after f2af15b571](https://github.com/phpstan/phpstan-src/pull/5690) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5689) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Memoize ArrayType-&gt;isList()](https://github.com/phpstan/phpstan-src/pull/5680) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix PHP 7.4 build](https://github.com/phpstan/phpstan-src/pull/5662) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Update pocketmine-ng-baseline.neon](https://github.com/phpstan/phpstan/pull/14611) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
@@ -53,8 +55,6 @@
 - [latest infection does not support PHP 8.2](https://github.com/phpstan/phpstan-deprecation-rules/pull/189) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (6 days ago)
 - [latest infection does not support PHP 8.2](https://github.com/phpstan/phpstan-doctrine/pull/752) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (6 days ago)
 - [update infection](https://github.com/phpstan/build-infection/pull/78) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (6 days ago)
-- [update infection](https://github.com/phpstan/build-infection/pull/77) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (6 days ago)
-- [update infection](https://github.com/phpstan/build-infection/pull/76) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
