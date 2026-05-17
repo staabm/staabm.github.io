@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - [4.2.1](https://github.com/sebastianbergmann/cli-parser/releases/tag/4.2.1) (today)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.4](https://github.com/deployphp/deployer/releases/tag/v8.0.4) (1 day ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.9](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.9) (1 day ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.21.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.21.0) (2 days ago)
@@ -68,4 +69,3 @@
 - [nette/tester](https://github.com/nette/tester) - [v2.6.1](https://github.com/nette/tester/releases/tag/v2.6.1) (6 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.17](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.17) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.22](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.22) (1 week ago)
-- [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) - [1.8.7](https://github.com/staabm/annotate-pull-request-from-checkstyle/releases/tag/1.8.7) (1 week ago)
