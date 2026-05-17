@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5691) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix 2.2.x build after f2af15b571](https://github.com/phpstan/phpstan-src/pull/5690) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5689) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Memoize ArrayType-&gt;isList()](https://github.com/phpstan/phpstan-src/pull/5680) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [latest infection does not support PHP 8.2](https://github.com/phpstan/phpstan-phpunit/pull/296) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
 - [latest infection does not support PHP 8.2](https://github.com/phpstan/phpstan-deprecation-rules/pull/189) on [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (6 days ago)
 - [latest infection does not support PHP 8.2](https://github.com/phpstan/phpstan-doctrine/pull/752) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (6 days ago)
-- [update infection](https://github.com/phpstan/build-infection/pull/78) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
