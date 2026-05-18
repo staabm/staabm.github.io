@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.55](https://github.com/phpstan/phpstan/releases/tag/2.1.55) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.33.1](https://github.com/infection/infection/releases/tag/0.33.1) (today)
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - [4.2.1](https://github.com/sebastianbergmann/cli-parser/releases/tag/4.2.1) (1 day ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.4](https://github.com/deployphp/deployer/releases/tag/v8.0.4) (2 days ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.10](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.10) (3 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.22.4](https://github.com/paratestphp/paratest/releases/tag/v7.22.4) (6 days ago)
 - [nette/tester](https://github.com/nette/tester) - [v2.6.1](https://github.com/nette/tester/releases/tag/v2.6.1) (1 week ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.17](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.17) (1 week ago)
