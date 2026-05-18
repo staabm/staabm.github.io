@@ -4,14 +4,14 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 week ago)
-- [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (1 week ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
+- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (1 week ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (1 week ago)
-- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (1 week ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 week ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
+- [phpstan/phpstan-beberlei-assert](https://github.com/phpstan/phpstan-beberlei-assert) (1 week ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (1 week ago)
 
 
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.20](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.20) (today)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.5](https://github.com/deployphp/deployer/releases/tag/v8.0.5) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.18](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.18) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.55](https://github.com/phpstan/phpstan/releases/tag/2.1.55) (today)
@@ -68,4 +69,3 @@
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.21.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.21.0) (3 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.1.4](https://github.com/sebastianbergmann/comparator/releases/tag/8.1.4) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.10](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.10) (3 days ago)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.22.4](https://github.com/paratestphp/paratest/releases/tag/v7.22.4) (6 days ago)
