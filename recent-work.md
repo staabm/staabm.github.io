@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Configuration defined type validation: Improve error message](https://github.com/phpstan/phpstan-src/pull/5700) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Reflection Golden Tests: Report changes via GitHub Actions annotation](https://github.com/phpstan/phpstan-src/pull/5697) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix another shuffle() variant](https://github.com/phpstan/phpstan-src/pull/5696) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5691) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/5652) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Manually merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5639) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Raise min php version to 8.3.x as latest infection requires it](https://github.com/phpstan/build-infection/pull/79) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 week ago)
-- [latest infection does not support PHP 8.2](https://github.com/phpstan/phpstan-phpunit/pull/296) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
