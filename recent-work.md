@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.5](https://github.com/deployphp/deployer/releases/tag/v8.0.5) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.18](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.18) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.55](https://github.com/phpstan/phpstan/releases/tag/2.1.55) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.33.1](https://github.com/infection/infection/releases/tag/0.33.1) (today)
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - [4.2.1](https://github.com/sebastianbergmann/cli-parser/releases/tag/4.2.1) (1 day ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.4](https://github.com/deployphp/deployer/releases/tag/v8.0.4) (2 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.9](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.9) (2 days ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.21.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.21.0) (3 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.1.4](https://github.com/sebastianbergmann/comparator/releases/tag/8.1.4) (3 days ago)
