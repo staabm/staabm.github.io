@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 week ago)
@@ -26,7 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
-- [saibotk](https://github.com/saibotk) (2 months ago)
+- [saibotk](https://github.com/saibotk) (3 months ago)
 - [JetBrainsOfficial](https://github.com/JetBrainsOfficial) (7 months ago)
 - [passbolt](https://github.com/passbolt) (10 months ago)
 - [packagist](https://github.com/packagist) (11 months ago)
@@ -40,32 +40,32 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Configuration defined type validation: Improve error message](https://github.com/phpstan/phpstan-src/pull/5700) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Reflection Golden Tests: Report changes via GitHub Actions annotation](https://github.com/phpstan/phpstan-src/pull/5697) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Fix another shuffle() variant](https://github.com/phpstan/phpstan-src/pull/5696) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5691) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Fix 2.2.x build after f2af15b571](https://github.com/phpstan/phpstan-src/pull/5690) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5689) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Memoize ArrayType-&gt;isList()](https://github.com/phpstan/phpstan-src/pull/5680) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Fix PHP 7.4 build](https://github.com/phpstan/phpstan-src/pull/5662) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Update pocketmine-ng-baseline.neon](https://github.com/phpstan/phpstan/pull/14611) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
-- [fix shopsys e2e test](https://github.com/phpstan/phpstan/pull/14608) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
-- [Merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5656) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Fix PHP 7.4 build](https://github.com/phpstan/phpstan-src/pull/5655) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/5652) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Configuration defined type validation: Improve error message](https://github.com/phpstan/phpstan-src/pull/5700) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Reflection Golden Tests: Report changes via GitHub Actions annotation](https://github.com/phpstan/phpstan-src/pull/5697) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Fix another shuffle() variant](https://github.com/phpstan/phpstan-src/pull/5696) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5691) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Fix 2.2.x build after f2af15b571](https://github.com/phpstan/phpstan-src/pull/5690) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5689) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Memoize ArrayType-&gt;isList()](https://github.com/phpstan/phpstan-src/pull/5680) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Fix PHP 7.4 build](https://github.com/phpstan/phpstan-src/pull/5662) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Update pocketmine-ng-baseline.neon](https://github.com/phpstan/phpstan/pull/14611) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
+- [fix shopsys e2e test](https://github.com/phpstan/phpstan/pull/14608) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
+- [Merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5656) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Fix PHP 7.4 build](https://github.com/phpstan/phpstan-src/pull/5655) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/5652) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Manually merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5639) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Raise min php version to 8.3.x as latest infection requires it](https://github.com/phpstan/build-infection/pull/79) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.20](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.20) (today)
-- [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.5](https://github.com/deployphp/deployer/releases/tag/v8.0.5) (today)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.18](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.18) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.55](https://github.com/phpstan/phpstan/releases/tag/2.1.55) (today)
-- [infection/infection](https://github.com/infection/infection) - [0.33.1](https://github.com/infection/infection/releases/tag/0.33.1) (today)
-- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - [4.2.1](https://github.com/sebastianbergmann/cli-parser/releases/tag/4.2.1) (1 day ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.9](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.9) (2 days ago)
-- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.21.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.21.0) (3 days ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.1.4](https://github.com/sebastianbergmann/comparator/releases/tag/8.1.4) (3 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.10](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.10) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.20](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.20) (1 day ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.5](https://github.com/deployphp/deployer/releases/tag/v8.0.5) (1 day ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.18](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.18) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.55](https://github.com/phpstan/phpstan/releases/tag/2.1.55) (1 day ago)
+- [infection/infection](https://github.com/infection/infection) - [0.33.1](https://github.com/infection/infection/releases/tag/0.33.1) (1 day ago)
+- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - [4.2.1](https://github.com/sebastianbergmann/cli-parser/releases/tag/4.2.1) (2 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.9](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.9) (3 days ago)
+- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.21.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.21.0) (4 days ago)
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.1.4](https://github.com/sebastianbergmann/comparator/releases/tag/8.1.4) (4 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.10](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.10) (4 days ago)
