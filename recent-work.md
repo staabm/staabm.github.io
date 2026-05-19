@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [More precise `dirname()` return type](https://github.com/phpstan/phpstan-src/pull/5708) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Configuration defined type validation: Improve error message](https://github.com/phpstan/phpstan-src/pull/5700) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Reflection Golden Tests: Report changes via GitHub Actions annotation](https://github.com/phpstan/phpstan-src/pull/5697) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix another shuffle() variant](https://github.com/phpstan/phpstan-src/pull/5696) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix PHP 7.4 build](https://github.com/phpstan/phpstan-src/pull/5655) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/5652) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Manually merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5639) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Raise min php version to 8.3.x as latest infection requires it](https://github.com/phpstan/build-infection/pull/79) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
