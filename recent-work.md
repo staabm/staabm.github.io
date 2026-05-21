@@ -5,14 +5,14 @@
 
 - [deployphp/deployer](https://github.com/deployphp/deployer) (today)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
-- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (1 week ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Most RunParams are readonly](https://github.com/deployphp/deployer/pull/4225) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
 - [NoDynamicNameRule: Skip named lookup on known object](https://github.com/symplify/phpstan-rules/pull/264) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (today)
 - [ENV vars and secrets have scalar values, and a string name](https://github.com/deployphp/deployer/pull/4224) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
 - [PHPStan: raise to level 6](https://github.com/deployphp/deployer/pull/4223) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
@@ -54,11 +55,11 @@
 - [Fix 2.2.x build after f2af15b571](https://github.com/phpstan/phpstan-src/pull/5690) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5689) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Memoize ArrayType-&gt;isList()](https://github.com/phpstan/phpstan-src/pull/5680) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Fix PHP 7.4 build](https://github.com/phpstan/phpstan-src/pull/5662) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.11](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.11) (today)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.3.1](https://github.com/sebastianbergmann/environment/releases/tag/9.3.1) (today)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.2.1](https://github.com/sebastianbergmann/comparator/releases/tag/8.2.1) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.33.2](https://github.com/infection/infection/releases/tag/0.33.2) (1 day ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.18](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.18) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.55](https://github.com/phpstan/phpstan/releases/tag/2.1.55) (3 days ago)
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - [4.2.1](https://github.com/sebastianbergmann/cli-parser/releases/tag/4.2.1) (4 days ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.9](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.9) (5 days ago)
