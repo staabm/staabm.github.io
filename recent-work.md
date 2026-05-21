@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [deployphp/deployer](https://github.com/deployphp/deployer) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
@@ -10,9 +11,8 @@
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 week ago)
 - [phpstan/phpstan-webmozart-assert](https://github.com/phpstan/phpstan-webmozart-assert) (1 week ago)
-- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (1 week ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [PHPStan: raise to level 6](https://github.com/deployphp/deployer/pull/4223) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
+- [PHPStan: cleanup setup](https://github.com/deployphp/deployer/pull/4222) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
+- [Update documentation for secret placeholders](https://github.com/deployphp/deployer/pull/4221) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
 - [Narrow types](https://github.com/sebastianbergmann/phpunit/pull/6655) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [More precise `dirname()` return type](https://github.com/phpstan/phpstan-src/pull/5708) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Configuration defined type validation: Improve error message](https://github.com/phpstan/phpstan-src/pull/5700) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -52,9 +55,6 @@
 - [Fix PHP 7.4 build](https://github.com/phpstan/phpstan-src/pull/5662) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Update pocketmine-ng-baseline.neon](https://github.com/phpstan/phpstan/pull/14611) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [fix shopsys e2e test](https://github.com/phpstan/phpstan/pull/14608) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
-- [Merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5656) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix PHP 7.4 build](https://github.com/phpstan/phpstan-src/pull/5655) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/5652) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
