@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ENV vars and secrets have scalar values, and a string name](https://github.com/deployphp/deployer/pull/4224) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
 - [PHPStan: raise to level 6](https://github.com/deployphp/deployer/pull/4223) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
 - [PHPStan: cleanup setup](https://github.com/deployphp/deployer/pull/4222) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
 - [Update documentation for secret placeholders](https://github.com/deployphp/deployer/pull/4221) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
@@ -54,11 +55,11 @@
 - [Memoize ArrayType-&gt;isList()](https://github.com/phpstan/phpstan-src/pull/5680) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Fix PHP 7.4 build](https://github.com/phpstan/phpstan-src/pull/5662) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Update pocketmine-ng-baseline.neon](https://github.com/phpstan/phpstan/pull/14611) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
-- [fix shopsys e2e test](https://github.com/phpstan/phpstan/pull/14608) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.3.1](https://github.com/sebastianbergmann/environment/releases/tag/9.3.1) (today)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.2.1](https://github.com/sebastianbergmann/comparator/releases/tag/8.2.1) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.33.2](https://github.com/infection/infection/releases/tag/0.33.2) (1 day ago)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.4.0](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.4.0) (2 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.55](https://github.com/phpstan/phpstan/releases/tag/2.1.55) (3 days ago)
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - [4.2.1](https://github.com/sebastianbergmann/cli-parser/releases/tag/4.2.1) (4 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.9](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.9) (5 days ago)
-- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.21.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.21.0) (6 days ago)
