@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Do not report function_exists as always-true conditions](https://github.com/phpstan/phpstan-src/pull/5739) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Improve variable name](https://github.com/phpstan/phpstan-src/pull/5736) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Most RunParams are readonly](https://github.com/deployphp/deployer/pull/4225) on [deployphp/deployer](https://github.com/deployphp/deployer) (2 days ago)
 - [NoDynamicNameRule: Skip named lookup on known object](https://github.com/symplify/phpstan-rules/pull/264) on [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 days ago)
@@ -54,7 +55,6 @@
 - [Fix another shuffle() variant](https://github.com/phpstan/phpstan-src/pull/5696) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5691) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Fix 2.2.x build after f2af15b571](https://github.com/phpstan/phpstan-src/pull/5690) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5689) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
