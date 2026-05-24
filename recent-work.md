@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Retain `class_exists` expression types in closure](https://github.com/phpstan/phpstan-src/pull/5746) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Do not report function_exists as always-true conditions](https://github.com/phpstan/phpstan-src/pull/5739) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Improve variable name](https://github.com/phpstan/phpstan-src/pull/5736) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Most RunParams are readonly](https://github.com/deployphp/deployer/pull/4225) on [deployphp/deployer](https://github.com/deployphp/deployer) (3 days ago)
@@ -54,7 +55,6 @@
 - [Reflection Golden Tests: Report changes via GitHub Actions annotation](https://github.com/phpstan/phpstan-src/pull/5697) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Fix another shuffle() variant](https://github.com/phpstan/phpstan-src/pull/5696) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Merge 2.1.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/5691) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix 2.2.x build after f2af15b571](https://github.com/phpstan/phpstan-src/pull/5690) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
