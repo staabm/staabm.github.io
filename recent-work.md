@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Cleanup `instanceof ConstantStringType` calls](https://github.com/phpstan/phpstan-src/pull/5752) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Code around enum_exists() does not complain about nonexistent classes](https://github.com/phpstan/phpstan-src/pull/5751) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/5750) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Test array_key_exists() on subtracted enum](https://github.com/phpstan/phpstan-src/pull/5749) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [PHPStan: cleanup setup](https://github.com/deployphp/deployer/pull/4222) on [deployphp/deployer](https://github.com/deployphp/deployer) (3 days ago)
 - [Update documentation for secret placeholders](https://github.com/deployphp/deployer/pull/4221) on [deployphp/deployer](https://github.com/deployphp/deployer) (3 days ago)
 - [Narrow types](https://github.com/sebastianbergmann/phpunit/pull/6655) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
-- [More precise `dirname()` return type](https://github.com/phpstan/phpstan-src/pull/5708) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
