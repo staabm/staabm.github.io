@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.12](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.12) (today)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.3.2](https://github.com/sebastianbergmann/environment/releases/tag/9.3.2) (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.11](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.11) (4 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.2.1](https://github.com/sebastianbergmann/comparator/releases/tag/8.2.1) (4 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.33.2](https://github.com/infection/infection/releases/tag/0.33.2) (5 days ago)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.4.0](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.4.0) (6 days ago)
