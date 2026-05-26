@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Cleanup ArrayType-&gt;tryRemove()](https://github.com/phpstan/phpstan-src/pull/5766) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Cleanup `instanceof ConstantStringType` calls](https://github.com/phpstan/phpstan-src/pull/5753) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Cleanup `instanceof ConstantStringType` calls](https://github.com/phpstan/phpstan-src/pull/5752) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Code around enum_exists() does not complain about nonexistent classes](https://github.com/phpstan/phpstan-src/pull/5751) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [ENV vars and secrets have scalar values, and a string name](https://github.com/deployphp/deployer/pull/4224) on [deployphp/deployer](https://github.com/deployphp/deployer) (5 days ago)
 - [PHPStan: raise to level 6](https://github.com/deployphp/deployer/pull/4223) on [deployphp/deployer](https://github.com/deployphp/deployer) (5 days ago)
 - [PHPStan: cleanup setup](https://github.com/deployphp/deployer/pull/4222) on [deployphp/deployer](https://github.com/deployphp/deployer) (5 days ago)
-- [Update documentation for secret placeholders](https://github.com/deployphp/deployer/pull/4221) on [deployphp/deployer](https://github.com/deployphp/deployer) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
