@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.0](https://github.com/phpstan/phpstan/releases/tag/2.2.0) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.13](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.13) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.21](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.21) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.1.56](https://github.com/phpstan/phpstan/releases/tag/2.1.56) (2 days ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.3.2](https://github.com/sebastianbergmann/environment/releases/tag/9.3.2) (3 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.2.1](https://github.com/sebastianbergmann/comparator/releases/tag/8.2.1) (1 week ago)
 - [infection/infection](https://github.com/infection/infection) - [0.33.2](https://github.com/infection/infection/releases/tag/0.33.2) (1 week ago)
