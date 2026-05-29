@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
@@ -40,29 +40,29 @@
 
 #### 🔨 My recent Pull Requests
 
-- [update infection to 0.33.x](https://github.com/phpstan/build-infection/pull/83) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 day ago)
-- [update infection to 0.33.x](https://github.com/phpstan/build-infection/pull/82) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 day ago)
-- [update vendor](https://github.com/FriendsOfREDAXO/rexstan/pull/1025) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [Fix build - &#34;readonly class&#34; is a PHP 8.2 feature](https://github.com/phpstan/phpstan-src/pull/5768) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Simplify InitializerExprTypeResolver api-surface](https://github.com/phpstan/phpstan-src/pull/5767) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Cleanup ArrayType-&gt;tryRemove()](https://github.com/phpstan/phpstan-src/pull/5766) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Cleanup `instanceof ConstantStringType` calls](https://github.com/phpstan/phpstan-src/pull/5753) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Cleanup `instanceof ConstantStringType` calls](https://github.com/phpstan/phpstan-src/pull/5752) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Code around enum_exists() does not complain about nonexistent classes](https://github.com/phpstan/phpstan-src/pull/5751) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/5750) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Test array_key_exists() on subtracted enum](https://github.com/phpstan/phpstan-src/pull/5749) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Cleanup ClassExistsFunctionTypeSpecifyingExtension](https://github.com/phpstan/phpstan-src/pull/5748) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Retain `class_exists` expression types in closure](https://github.com/phpstan/phpstan-src/pull/5746) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Do not report function_exists as always-true conditions](https://github.com/phpstan/phpstan-src/pull/5739) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Improve variable name](https://github.com/phpstan/phpstan-src/pull/5736) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [update infection to 0.33.x](https://github.com/phpstan/build-infection/pull/83) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 days ago)
+- [update infection to 0.33.x](https://github.com/phpstan/build-infection/pull/82) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 days ago)
+- [update vendor](https://github.com/FriendsOfREDAXO/rexstan/pull/1025) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [Fix build - &#34;readonly class&#34; is a PHP 8.2 feature](https://github.com/phpstan/phpstan-src/pull/5768) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Simplify InitializerExprTypeResolver api-surface](https://github.com/phpstan/phpstan-src/pull/5767) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Cleanup ArrayType-&gt;tryRemove()](https://github.com/phpstan/phpstan-src/pull/5766) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Cleanup `instanceof ConstantStringType` calls](https://github.com/phpstan/phpstan-src/pull/5753) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Cleanup `instanceof ConstantStringType` calls](https://github.com/phpstan/phpstan-src/pull/5752) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Code around enum_exists() does not complain about nonexistent classes](https://github.com/phpstan/phpstan-src/pull/5751) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/5750) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Test array_key_exists() on subtracted enum](https://github.com/phpstan/phpstan-src/pull/5749) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Cleanup ClassExistsFunctionTypeSpecifyingExtension](https://github.com/phpstan/phpstan-src/pull/5748) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Retain `class_exists` expression types in closure](https://github.com/phpstan/phpstan-src/pull/5746) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Do not report function_exists as always-true conditions](https://github.com/phpstan/phpstan-src/pull/5739) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Improve variable name](https://github.com/phpstan/phpstan-src/pull/5736) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.1](https://github.com/phpstan/phpstan/releases/tag/2.2.1) (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.13](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.13) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.21](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.21) (1 day ago)
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.3.2](https://github.com/sebastianbergmann/environment/releases/tag/9.3.2) (3 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.1](https://github.com/phpstan/phpstan/releases/tag/2.2.1) (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.13](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.13) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.21](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.21) (2 days ago)
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.3.2](https://github.com/sebastianbergmann/environment/releases/tag/9.3.2) (4 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.2.1](https://github.com/sebastianbergmann/comparator/releases/tag/8.2.1) (1 week ago)
 - [infection/infection](https://github.com/infection/infection) - [0.33.2](https://github.com/infection/infection/releases/tag/0.33.2) (1 week ago)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.4.0](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.4.0) (1 week ago)
