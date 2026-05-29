@@ -59,6 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.23](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.23) (today)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.19](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.19) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.1](https://github.com/phpstan/phpstan/releases/tag/2.2.1) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.13](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.13) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.21](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.21) (2 days ago)
@@ -67,5 +69,3 @@
 - [infection/infection](https://github.com/infection/infection) - [0.33.2](https://github.com/infection/infection/releases/tag/0.33.2) (1 week ago)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.4.0](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.4.0) (1 week ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.5](https://github.com/deployphp/deployer/releases/tag/v8.0.5) (1 week ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.18](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.18) (1 week ago)
-- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - [4.2.1](https://github.com/sebastianbergmann/cli-parser/releases/tag/4.2.1) (1 week ago)
