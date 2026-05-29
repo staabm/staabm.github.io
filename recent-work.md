@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [PHPStan should not crash on startup when projects&#39; composer.json is invalid](https://github.com/phpstan/phpstan-src/pull/5779) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [update infection to 0.33.x](https://github.com/phpstan/build-infection/pull/83) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 days ago)
 - [update infection to 0.33.x](https://github.com/phpstan/build-infection/pull/82) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (2 days ago)
 - [update vendor](https://github.com/FriendsOfREDAXO/rexstan/pull/1025) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
@@ -54,7 +55,6 @@
 - [Cleanup ClassExistsFunctionTypeSpecifyingExtension](https://github.com/phpstan/phpstan-src/pull/5748) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Retain `class_exists` expression types in closure](https://github.com/phpstan/phpstan-src/pull/5746) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Do not report function_exists as always-true conditions](https://github.com/phpstan/phpstan-src/pull/5739) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Improve variable name](https://github.com/phpstan/phpstan-src/pull/5736) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
