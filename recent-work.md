@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update larastan to newer version](https://github.com/phpstan/phpstan/pull/14734) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [Simplify use of `getConstantScalarTypes()` to `getConstantScalarValues()`](https://github.com/phpstan/phpstan-src/pull/5786) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Cleanup `instanceof ConstantScalarType`](https://github.com/phpstan/phpstan-src/pull/5785) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Support union types in str_repeat()](https://github.com/phpstan/phpstan-src/pull/5784) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Cleanup `instanceof ConstantStringType`](https://github.com/phpstan/phpstan-src/pull/5783) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -53,8 +55,6 @@
 - [Simplify InitializerExprTypeResolver api-surface](https://github.com/phpstan/phpstan-src/pull/5767) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Cleanup ArrayType-&gt;tryRemove()](https://github.com/phpstan/phpstan-src/pull/5766) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Cleanup `instanceof ConstantStringType` calls](https://github.com/phpstan/phpstan-src/pull/5753) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Cleanup `instanceof ConstantStringType` calls](https://github.com/phpstan/phpstan-src/pull/5752) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Code around enum_exists() does not complain about nonexistent classes](https://github.com/phpstan/phpstan-src/pull/5751) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
