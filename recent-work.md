@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (3 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Cleanup `instanceof ConstantScalarType`](https://github.com/phpstan/phpstan-src/pull/5785) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Support union types in str_repeat()](https://github.com/phpstan/phpstan-src/pull/5784) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Cleanup `instanceof ConstantStringType`](https://github.com/phpstan/phpstan-src/pull/5783) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update baselines for refs/heads/2.2.x](https://github.com/phpstan/phpstan/pull/14729) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [Bump shopsys dependencies](https://github.com/phpstan/phpstan/pull/14728) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [PHPStan should not crash on startup when projects&#39; composer.json is invalid](https://github.com/phpstan/phpstan-src/pull/5779) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -52,9 +55,6 @@
 - [Cleanup `instanceof ConstantStringType` calls](https://github.com/phpstan/phpstan-src/pull/5753) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Cleanup `instanceof ConstantStringType` calls](https://github.com/phpstan/phpstan-src/pull/5752) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Code around enum_exists() does not complain about nonexistent classes](https://github.com/phpstan/phpstan-src/pull/5751) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/5750) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Test array_key_exists() on subtracted enum](https://github.com/phpstan/phpstan-src/pull/5749) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Cleanup ClassExistsFunctionTypeSpecifyingExtension](https://github.com/phpstan/phpstan-src/pull/5748) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
