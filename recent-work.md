@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [phpstan/build-infection](https://github.com/phpstan/build-infection) (4 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
+- [phpstan/build-infection](https://github.com/phpstan/build-infection) (5 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (2 weeks ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 weeks ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (3 weeks ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 weeks ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,32 +40,32 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix sealed shape error](https://github.com/phpstan/phpstan/pull/14743) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [Update rector to newer version](https://github.com/phpstan/phpstan/pull/14742) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [Fix PHP 7.4 build](https://github.com/phpstan/phpstan-src/pull/5790) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [PHPBench: use custom report format](https://github.com/phpstan/phpstan-src/pull/5789) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Update larastan to newer version](https://github.com/phpstan/phpstan/pull/14734) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
-- [Simplify use of `getConstantScalarTypes()` to `getConstantScalarValues()`](https://github.com/phpstan/phpstan-src/pull/5786) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Cleanup `instanceof ConstantScalarType`](https://github.com/phpstan/phpstan-src/pull/5785) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Support union types in str_repeat()](https://github.com/phpstan/phpstan-src/pull/5784) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Cleanup `instanceof ConstantStringType`](https://github.com/phpstan/phpstan-src/pull/5783) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Update baselines for refs/heads/2.2.x](https://github.com/phpstan/phpstan/pull/14729) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
-- [Bump shopsys dependencies](https://github.com/phpstan/phpstan/pull/14728) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
-- [PHPStan should not crash on startup when projects&#39; composer.json is invalid](https://github.com/phpstan/phpstan-src/pull/5779) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [update infection to 0.33.x](https://github.com/phpstan/build-infection/pull/83) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (4 days ago)
-- [update infection to 0.33.x](https://github.com/phpstan/build-infection/pull/82) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (4 days ago)
-- [update vendor](https://github.com/FriendsOfREDAXO/rexstan/pull/1025) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
+- [Fix sealed shape error](https://github.com/phpstan/phpstan/pull/14743) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [Update rector to newer version](https://github.com/phpstan/phpstan/pull/14742) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [Fix PHP 7.4 build](https://github.com/phpstan/phpstan-src/pull/5790) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [PHPBench: use custom report format](https://github.com/phpstan/phpstan-src/pull/5789) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Update larastan to newer version](https://github.com/phpstan/phpstan/pull/14734) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
+- [Simplify use of `getConstantScalarTypes()` to `getConstantScalarValues()`](https://github.com/phpstan/phpstan-src/pull/5786) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Cleanup `instanceof ConstantScalarType`](https://github.com/phpstan/phpstan-src/pull/5785) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Support union types in str_repeat()](https://github.com/phpstan/phpstan-src/pull/5784) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Cleanup `instanceof ConstantStringType`](https://github.com/phpstan/phpstan-src/pull/5783) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Update baselines for refs/heads/2.2.x](https://github.com/phpstan/phpstan/pull/14729) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
+- [Bump shopsys dependencies](https://github.com/phpstan/phpstan/pull/14728) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
+- [PHPStan should not crash on startup when projects&#39; composer.json is invalid](https://github.com/phpstan/phpstan-src/pull/5779) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [update infection to 0.33.x](https://github.com/phpstan/build-infection/pull/83) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (5 days ago)
+- [update infection to 0.33.x](https://github.com/phpstan/build-infection/pull/82) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (5 days ago)
+- [update vendor](https://github.com/FriendsOfREDAXO/rexstan/pull/1025) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.22](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.22) (1 day ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.23](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.23) (2 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.19](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.19) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.1](https://github.com/phpstan/phpstan/releases/tag/2.2.1) (3 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.13](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.13) (4 days ago)
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.3.2](https://github.com/sebastianbergmann/environment/releases/tag/9.3.2) (6 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.22](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.22) (2 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.23](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.23) (3 days ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.19](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.19) (3 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.1](https://github.com/phpstan/phpstan/releases/tag/2.2.1) (4 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.13](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.13) (5 days ago)
+- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.3.2](https://github.com/sebastianbergmann/environment/releases/tag/9.3.2) (1 week ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.2.1](https://github.com/sebastianbergmann/comparator/releases/tag/8.2.1) (1 week ago)
 - [infection/infection](https://github.com/infection/infection) - [0.33.2](https://github.com/infection/infection/releases/tag/0.33.2) (1 week ago)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.4.0](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.4.0) (1 week ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.5](https://github.com/deployphp/deployer/releases/tag/v8.0.5) (1 week ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) - [v8.0.5](https://github.com/deployphp/deployer/releases/tag/v8.0.5) (2 weeks ago)
