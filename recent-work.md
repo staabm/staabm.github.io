@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.10](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.10) (today)
 - [redaxo/core](https://github.com/redaxo/core) - [5.21.1](https://github.com/redaxo/core/releases/tag/5.21.1) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.22](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.22) (2 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.23](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.23) (3 days ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.3.2](https://github.com/sebastianbergmann/environment/releases/tag/9.3.2) (1 week ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.2.1](https://github.com/sebastianbergmann/comparator/releases/tag/8.2.1) (1 week ago)
 - [infection/infection](https://github.com/infection/infection) - [0.33.2](https://github.com/infection/infection/releases/tag/0.33.2) (1 week ago)
-- [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.4.0](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.4.0) (1 week ago)
