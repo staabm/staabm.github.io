@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - [9.0.1](https://github.com/sebastianbergmann/global-state/releases/tag/9.0.1) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.10](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.10) (today)
 - [redaxo/core](https://github.com/redaxo/core) - [5.21.1](https://github.com/redaxo/core/releases/tag/5.21.1) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.22](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.22) (2 days ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.13](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.13) (5 days ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.3.2](https://github.com/sebastianbergmann/environment/releases/tag/9.3.2) (1 week ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.2.1](https://github.com/sebastianbergmann/comparator/releases/tag/8.2.1) (1 week ago)
-- [infection/infection](https://github.com/infection/infection) - [0.33.2](https://github.com/infection/infection/releases/tag/0.33.2) (1 week ago)
