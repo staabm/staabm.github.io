@@ -4,7 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (6 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (1 week ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix &#34;Possibly invalid array key type string|null.&#34;](https://github.com/staabm/phpstan-dba/pull/778) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Revert &#34;Return `list&lt;mixed&gt;` from `PDOStatement::fetchAll()` (#5643)&#34;](https://github.com/phpstan/phpstan-src/pull/5795) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Setup phpstan-dba integration tests](https://github.com/phpstan/phpstan/pull/14752) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Fix sealed shape error](https://github.com/phpstan/phpstan/pull/14743) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [Update rector to newer version](https://github.com/phpstan/phpstan/pull/14742) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
@@ -53,17 +55,15 @@
 - [Update baselines for refs/heads/2.2.x](https://github.com/phpstan/phpstan/pull/14729) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [Bump shopsys dependencies](https://github.com/phpstan/phpstan/pull/14728) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [PHPStan should not crash on startup when projects&#39; composer.json is invalid](https://github.com/phpstan/phpstan-src/pull/5779) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [update infection to 0.33.x](https://github.com/phpstan/build-infection/pull/83) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (6 days ago)
-- [update infection to 0.33.x](https://github.com/phpstan/build-infection/pull/82) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.24](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.24) (today)
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - [9.0.1](https://github.com/sebastianbergmann/global-state/releases/tag/9.0.1) (1 day ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.10](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.10) (1 day ago)
 - [redaxo/core](https://github.com/redaxo/core) - [5.21.1](https://github.com/redaxo/core/releases/tag/5.21.1) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.22](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.22) (3 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.23](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.23) (4 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.19](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.19) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.1](https://github.com/phpstan/phpstan/releases/tag/2.2.1) (5 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.13](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.13) (6 days ago)
