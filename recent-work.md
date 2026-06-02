@@ -4,12 +4,12 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (6 days ago)
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (1 week ago)
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Upgrade mysql to 8.4](https://github.com/staabm/phpstan-dba/pull/780) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Fix build](https://github.com/staabm/phpstan-dba/pull/779) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [phpstan-dba: no need to require phpstan/phpstan as its part of -dev dependencies](https://github.com/phpstan/phpstan/pull/14755) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [update phpstan-dba integration test](https://github.com/phpstan/phpstan/pull/14754) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
@@ -54,7 +55,6 @@
 - [Simplify use of `getConstantScalarTypes()` to `getConstantScalarValues()`](https://github.com/phpstan/phpstan-src/pull/5786) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Cleanup `instanceof ConstantScalarType`](https://github.com/phpstan/phpstan-src/pull/5785) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Support union types in str_repeat()](https://github.com/phpstan/phpstan-src/pull/5784) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Cleanup `instanceof ConstantStringType`](https://github.com/phpstan/phpstan-src/pull/5783) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
