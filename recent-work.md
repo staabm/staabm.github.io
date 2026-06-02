@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (6 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Setup phpstan-dba integration tests](https://github.com/phpstan/phpstan/pull/14752) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Fix sealed shape error](https://github.com/phpstan/phpstan/pull/14743) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [Update rector to newer version](https://github.com/phpstan/phpstan/pull/14742) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [Fix PHP 7.4 build](https://github.com/phpstan/phpstan-src/pull/5790) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [PHPStan should not crash on startup when projects&#39; composer.json is invalid](https://github.com/phpstan/phpstan-src/pull/5779) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [update infection to 0.33.x](https://github.com/phpstan/build-infection/pull/83) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (6 days ago)
 - [update infection to 0.33.x](https://github.com/phpstan/build-infection/pull/82) on [phpstan/build-infection](https://github.com/phpstan/build-infection) (6 days ago)
-- [update vendor](https://github.com/FriendsOfREDAXO/rexstan/pull/1025) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
