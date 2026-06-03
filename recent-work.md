@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix zizmor error](https://github.com/phpstan/phpstan/pull/14762) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [update zizmor](https://github.com/phpstan/phpstan/pull/14761) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Fix phpstan build](https://github.com/deployphp/deployer/pull/4229) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
 - [integration-tests: setup mysql only if required](https://github.com/phpstan/phpstan/pull/14760) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
@@ -54,7 +55,6 @@
 - [Fix sealed shape error](https://github.com/phpstan/phpstan/pull/14743) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
 - [Update rector to newer version](https://github.com/phpstan/phpstan/pull/14742) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
 - [Fix PHP 7.4 build](https://github.com/phpstan/phpstan-src/pull/5790) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [PHPBench: use custom report format](https://github.com/phpstan/phpstan-src/pull/5789) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
