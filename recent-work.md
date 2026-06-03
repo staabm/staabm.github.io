@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [integration-tests: setup mysql only if required](https://github.com/phpstan/phpstan/pull/14760) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Fix &#34;Offset decimal-int-string does not exist on array&lt;string, string&gt;.&#34; false positive](https://github.com/phpstan/phpstan-src/pull/5797) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Upgrade mysql to 8.4](https://github.com/staabm/phpstan-dba/pull/780) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Fix build](https://github.com/staabm/phpstan-dba/pull/779) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
@@ -54,7 +55,6 @@
 - [PHPBench: use custom report format](https://github.com/phpstan/phpstan-src/pull/5789) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Update larastan to newer version](https://github.com/phpstan/phpstan/pull/14734) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [Simplify use of `getConstantScalarTypes()` to `getConstantScalarValues()`](https://github.com/phpstan/phpstan-src/pull/5786) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Cleanup `instanceof ConstantScalarType`](https://github.com/phpstan/phpstan-src/pull/5785) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
