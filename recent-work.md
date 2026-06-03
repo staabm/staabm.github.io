@@ -4,7 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 week ago)
@@ -40,8 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [update zizmor](https://github.com/phpstan/phpstan/pull/14761) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [Fix phpstan build](https://github.com/deployphp/deployer/pull/4229) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
 - [integration-tests: setup mysql only if required](https://github.com/phpstan/phpstan/pull/14760) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [Fix &#34;Offset decimal-int-string does not exist on array&lt;string, string&gt;.&#34; false positive](https://github.com/phpstan/phpstan-src/pull/5797) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Add regression test](https://github.com/phpstan/phpstan-src/pull/5797) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Upgrade mysql to 8.4](https://github.com/staabm/phpstan-dba/pull/780) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Fix build](https://github.com/staabm/phpstan-dba/pull/779) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [phpstan-dba: no need to require phpstan/phpstan as its part of -dev dependencies](https://github.com/phpstan/phpstan/pull/14755) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
@@ -53,8 +55,6 @@
 - [Update rector to newer version](https://github.com/phpstan/phpstan/pull/14742) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
 - [Fix PHP 7.4 build](https://github.com/phpstan/phpstan-src/pull/5790) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [PHPBench: use custom report format](https://github.com/phpstan/phpstan-src/pull/5789) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Update larastan to newer version](https://github.com/phpstan/phpstan/pull/14734) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
-- [Simplify use of `getConstantScalarTypes()` to `getConstantScalarValues()`](https://github.com/phpstan/phpstan-src/pull/5786) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
