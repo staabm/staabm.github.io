@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (1 day ago)
@@ -11,8 +12,7 @@
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 week ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 weeks ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 weeks ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) (3 weeks ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Narrow `Strings::match`/`Strings::matchAll` subject string type when match is truthy](https://github.com/phpstan/phpstan-nette/pull/201) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
 - [Update test-expectations after more precise phpstan-src types](https://github.com/phpstan/phpstan-nette/pull/200) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
 - [Fix zizmor error](https://github.com/phpstan/phpstan/pull/14762) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [update zizmor](https://github.com/phpstan/phpstan/pull/14761) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
@@ -54,7 +55,6 @@
 - [Revert &#34;Return `list&lt;mixed&gt;` from `PDOStatement::fetchAll()` (#5643)&#34;](https://github.com/phpstan/phpstan-src/pull/5795) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Setup phpstan-dba integration tests](https://github.com/phpstan/phpstan/pull/14752) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [Fix sealed shape error](https://github.com/phpstan/phpstan/pull/14743) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
-- [Update rector to newer version](https://github.com/phpstan/phpstan/pull/14742) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
