@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update test-expectations after more precise phpstan-src types](https://github.com/phpstan/phpstan-nette/pull/200) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
 - [Fix zizmor error](https://github.com/phpstan/phpstan/pull/14762) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [update zizmor](https://github.com/phpstan/phpstan/pull/14761) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [Fix phpstan build](https://github.com/deployphp/deployer/pull/4229) on [deployphp/deployer](https://github.com/deployphp/deployer) (1 day ago)
@@ -54,7 +55,6 @@
 - [Setup phpstan-dba integration tests](https://github.com/phpstan/phpstan/pull/14752) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [Fix sealed shape error](https://github.com/phpstan/phpstan/pull/14743) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [Update rector to newer version](https://github.com/phpstan/phpstan/pull/14742) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
-- [Fix PHP 7.4 build](https://github.com/phpstan/phpstan-src/pull/5790) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
