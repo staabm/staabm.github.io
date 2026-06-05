@@ -3,11 +3,11 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (2 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 week ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 weeks ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Revert &#34;Narrow regex subject to `non-decimal-int-string` in the non-matching branch of `preg_match` (#5804)&#34;](https://github.com/phpstan/phpstan-src/pull/5807) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Fix build](https://github.com/phpstan/phpstan-src/pull/5806) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Narrow `Strings::match`/`Strings::matchAll` subject string type when match is truthy](https://github.com/phpstan/phpstan-nette/pull/201) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
 - [Update test-expectations after more precise phpstan-src types](https://github.com/phpstan/phpstan-nette/pull/200) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
 - [Fix zizmor error](https://github.com/phpstan/phpstan/pull/14762) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
@@ -53,12 +55,11 @@
 - [update phpstan-dba integration test](https://github.com/phpstan/phpstan/pull/14754) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
 - [Fix &#34;Possibly invalid array key type string|null.&#34;](https://github.com/staabm/phpstan-dba/pull/778) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [Revert &#34;Return `list&lt;mixed&gt;` from `PDOStatement::fetchAll()` (#5643)&#34;](https://github.com/phpstan/phpstan-src/pull/5795) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Setup phpstan-dba integration tests](https://github.com/phpstan/phpstan/pull/14752) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
-- [Fix sealed shape error](https://github.com/phpstan/phpstan/pull/14743) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.3](https://github.com/staabm/phpstan-dba/releases/tag/0.4.3) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.2.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.0) (today)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.3.0](https://github.com/sebastianbergmann/comparator/releases/tag/8.3.0) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.2.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.2.0) (today)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.22](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.22) (6 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.19](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.19) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.1](https://github.com/phpstan/phpstan/releases/tag/2.2.1) (1 week ago)
-- [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.3.2](https://github.com/sebastianbergmann/environment/releases/tag/9.3.2) (1 week ago)
