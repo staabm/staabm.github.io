@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [recombee/php-api-client](https://github.com/recombee/php-api-client) - [v6.3.0](https://github.com/recombee/php-api-client/releases/tag/v6.3.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.2](https://github.com/phpstan/phpstan/releases/tag/2.2.2) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.3](https://github.com/staabm/phpstan-dba/releases/tag/0.4.3) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.2.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.0) (today)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - [9.0.1](https://github.com/sebastianbergmann/global-state/releases/tag/9.0.1) (4 days ago)
 - [redaxo/core](https://github.com/redaxo/core) - [5.21.1](https://github.com/redaxo/core/releases/tag/5.21.1) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.22](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.22) (6 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.19](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.19) (1 week ago)
