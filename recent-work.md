@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.3.0](https://github.com/sebastianbergmann/comparator/releases/tag/8.3.0) (today)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.2.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.2.0) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.1.14](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.14) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.25](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.25) (3 days ago)
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - [9.0.1](https://github.com/sebastianbergmann/global-state/releases/tag/9.0.1) (4 days ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.1.10](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.1.10) (4 days ago)
 - [redaxo/core](https://github.com/redaxo/core) - [5.21.1](https://github.com/redaxo/core/releases/tag/5.21.1) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.22](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.22) (6 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.19](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.19) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.1](https://github.com/phpstan/phpstan/releases/tag/2.2.1) (1 week ago)
 - [sebastianbergmann/environment](https://github.com/sebastianbergmann/environment) - [9.3.2](https://github.com/sebastianbergmann/environment/releases/tag/9.3.2) (1 week ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.2.1](https://github.com/sebastianbergmann/comparator/releases/tag/8.2.1) (2 weeks ago)
