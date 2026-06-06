@@ -4,8 +4,8 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: bump bashunit from 0.20.0 to 0.37.0](https://github.com/phpstan/phpstan-src/pull/5813) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [DeleteInlineHTML: remove dead code](https://github.com/bladestan/bladestan/pull/182) on [bladestan/bladestan](https://github.com/bladestan/bladestan) (today)
 - [Fix PHPStan build on latest release](https://github.com/nikic/PHP-Parser/pull/1148) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
 - [editor-link errors in NEOS, phpstan-dba integration tests](https://github.com/phpstan/phpstan/pull/14783) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
@@ -54,7 +55,6 @@
 - [Revert &#34;Narrow regex subject to `non-decimal-int-string` in the non-matching branch of `preg_match` (#5804)&#34;](https://github.com/phpstan/phpstan-src/pull/5807) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/5806) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Narrow `Strings::match`/`Strings::matchAll` subject string type when match is truthy](https://github.com/phpstan/phpstan-nette/pull/201) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 days ago)
-- [Update test-expectations after more precise phpstan-src types](https://github.com/phpstan/phpstan-nette/pull/200) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
