@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Drop PHPUnit 8 (only required for PHP 7.2&#43;)](https://github.com/composer/pcre/pull/55) on [composer/pcre](https://github.com/composer/pcre) (today)
+- [Narrow subject on matches](https://github.com/composer/pcre/pull/54) on [composer/pcre](https://github.com/composer/pcre) (today)
 - [Revert &#34;Narrow regex subject to `non-decimal-int-string` in the non-matching branch of `preg_match` (#5804)&#34;](https://github.com/phpstan/phpstan-src/pull/5807) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/5806) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Narrow `Strings::match`/`Strings::matchAll` subject string type when match is truthy](https://github.com/phpstan/phpstan-nette/pull/201) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 days ago)
@@ -53,8 +55,6 @@
 - [Fix build](https://github.com/staabm/phpstan-dba/pull/779) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [phpstan-dba: no need to require phpstan/phpstan as its part of -dev dependencies](https://github.com/phpstan/phpstan/pull/14755) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [update phpstan-dba integration test](https://github.com/phpstan/phpstan/pull/14754) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
-- [Fix &#34;Possibly invalid array key type string|null.&#34;](https://github.com/staabm/phpstan-dba/pull/778) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [Revert &#34;Return `list&lt;mixed&gt;` from `PDOStatement::fetchAll()` (#5643)&#34;](https://github.com/phpstan/phpstan-src/pull/5795) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
