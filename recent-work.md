@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Narrow subject on matches](https://github.com/thecodingmachine/phpstan-safe-rule/pull/69) on [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (today)
+- [chore: narrow `Preg::match`/`Preg::matchAll` subject string type when match is truthy](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9668) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (today)
 - [chore: Cleanup `assert()` and add more precise `Preg::matchAll()` return type](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9667) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (today)
 - [Drop PHPUnit 8 (only required for PHP 7.2&#43;)](https://github.com/composer/pcre/pull/55) on [composer/pcre](https://github.com/composer/pcre) (today)
 - [Narrow subject on matches](https://github.com/composer/pcre/pull/54) on [composer/pcre](https://github.com/composer/pcre) (today)
@@ -53,8 +55,6 @@
 - [integration-tests: setup mysql only if required](https://github.com/phpstan/phpstan/pull/14760) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
 - [Add regression test](https://github.com/phpstan/phpstan-src/pull/5797) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Upgrade mysql to 8.4](https://github.com/staabm/phpstan-dba/pull/780) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [Fix build](https://github.com/staabm/phpstan-dba/pull/779) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [phpstan-dba: no need to require phpstan/phpstan as its part of -dev dependencies](https://github.com/phpstan/phpstan/pull/14755) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
