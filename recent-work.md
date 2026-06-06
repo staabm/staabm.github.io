@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (3 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 week ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 weeks ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 weeks ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,12 @@
 
 #### 🔨 My recent Pull Requests
 
+- [DeleteInlineHTML: remove dead code](https://github.com/bladestan/bladestan/pull/182) on [bladestan/bladestan](https://github.com/bladestan/bladestan) (today)
+- [Fix PHPStan build on latest release](https://github.com/nikic/PHP-Parser/pull/1148) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
+- [editor-link errors in NEOS, phpstan-dba integration tests](https://github.com/phpstan/phpstan/pull/14783) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [Fix build on latest PHPStan](https://github.com/larastan/larastan/pull/2496) on [larastan/larastan](https://github.com/larastan/larastan) (today)
+- [update staabm/phpstan-dba](https://github.com/phpstan/phpstan/pull/14782) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [Update expectations for PHPStan 2.2.2&#43;](https://github.com/staabm/phpstan-dba/pull/785) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Narrow subject on matches](https://github.com/thecodingmachine/phpstan-safe-rule/pull/69) on [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (today)
 - [chore: narrow `Preg::match`/`Preg::matchAll` subject string type when match is truthy](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9668) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (today)
 - [chore: Cleanup `assert()` and add more precise `Preg::matchAll()` return type](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9667) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (today)
@@ -49,16 +55,11 @@
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/5806) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Narrow `Strings::match`/`Strings::matchAll` subject string type when match is truthy](https://github.com/phpstan/phpstan-nette/pull/201) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 days ago)
 - [Update test-expectations after more precise phpstan-src types](https://github.com/phpstan/phpstan-nette/pull/200) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 days ago)
-- [Fix zizmor error](https://github.com/phpstan/phpstan/pull/14762) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
-- [update zizmor](https://github.com/phpstan/phpstan/pull/14761) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
-- [Fix phpstan build](https://github.com/deployphp/deployer/pull/4229) on [deployphp/deployer](https://github.com/deployphp/deployer) (3 days ago)
-- [integration-tests: setup mysql only if required](https://github.com/phpstan/phpstan/pull/14760) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
-- [Add regression test](https://github.com/phpstan/phpstan-src/pull/5797) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Upgrade mysql to 8.4](https://github.com/staabm/phpstan-dba/pull/780) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.10](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.10) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.23.0](https://github.com/paratestphp/paratest/releases/tag/v7.23.0) (1 day ago)
 - [recombee/php-api-client](https://github.com/recombee/php-api-client) - [v6.3.0](https://github.com/recombee/php-api-client/releases/tag/v6.3.0) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.2](https://github.com/phpstan/phpstan/releases/tag/2.2.2) (1 day ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.2.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.2.0) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.25](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.25) (4 days ago)
 - [sebastianbergmann/global-state](https://github.com/sebastianbergmann/global-state) - [9.0.1](https://github.com/sebastianbergmann/global-state/releases/tag/9.0.1) (5 days ago)
-- [redaxo/core](https://github.com/redaxo/core) - [5.21.1](https://github.com/redaxo/core/releases/tag/5.21.1) (5 days ago)
