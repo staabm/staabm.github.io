@@ -4,6 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (today)
+- [composer/pcre](https://github.com/composer/pcre) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
@@ -12,7 +13,6 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 week ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) (2 weeks ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
