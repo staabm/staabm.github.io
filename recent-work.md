@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent ENV var tokens from beeing leaked by commited DI containers](https://github.com/phpstan/phpstan-src/pull/5820) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent ENV var tokens from beeing leaked by commited DI containers](https://github.com/phpstan/phpstan-src/pull/5818) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [ci: bump bashunit from 0.20.0 to 0.37.0](https://github.com/phpstan/phpstan-src/pull/5813) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [DeleteInlineHTML: remove dead code](https://github.com/bladestan/bladestan/pull/182) on [bladestan/bladestan](https://github.com/bladestan/bladestan) (1 day ago)
@@ -54,7 +55,6 @@
 - [Drop PHPUnit 8 (only required for PHP 7.2&#43;)](https://github.com/composer/pcre/pull/55) on [composer/pcre](https://github.com/composer/pcre) (1 day ago)
 - [Narrow subject on matches](https://github.com/composer/pcre/pull/54) on [composer/pcre](https://github.com/composer/pcre) (1 day ago)
 - [Revert &#34;Narrow regex subject to `non-decimal-int-string` in the non-matching branch of `preg_match` (#5804)&#34;](https://github.com/phpstan/phpstan-src/pull/5807) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Fix build](https://github.com/phpstan/phpstan-src/pull/5806) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
