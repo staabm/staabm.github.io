@@ -4,8 +4,8 @@
 #### 💻 Check out what I'm currently working on
 
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (3 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (4 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent ENV var tokens from beeing leaked by commited DI containers](https://github.com/phpstan/phpstan-src/pull/5818) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [ci: bump bashunit from 0.20.0 to 0.37.0](https://github.com/phpstan/phpstan-src/pull/5813) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [DeleteInlineHTML: remove dead code](https://github.com/bladestan/bladestan/pull/182) on [bladestan/bladestan](https://github.com/bladestan/bladestan) (1 day ago)
 - [Fix PHPStan build on latest release](https://github.com/nikic/PHP-Parser/pull/1148) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 day ago)
@@ -54,11 +55,11 @@
 - [Narrow subject on matches](https://github.com/composer/pcre/pull/54) on [composer/pcre](https://github.com/composer/pcre) (1 day ago)
 - [Revert &#34;Narrow regex subject to `non-decimal-int-string` in the non-matching branch of `preg_match` (#5804)&#34;](https://github.com/phpstan/phpstan-src/pull/5807) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/5806) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Narrow `Strings::match`/`Strings::matchAll` subject string type when match is truthy](https://github.com/phpstan/phpstan-nette/pull/201) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.2.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.2.1) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.10](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.10) (1 day ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.23.0](https://github.com/paratestphp/paratest/releases/tag/v7.23.0) (2 days ago)
 - [recombee/php-api-client](https://github.com/recombee/php-api-client) - [v6.3.0](https://github.com/recombee/php-api-client/releases/tag/v6.3.0) (2 days ago)
@@ -66,6 +67,5 @@
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.3](https://github.com/staabm/phpstan-dba/releases/tag/0.4.3) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.2.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.0) (2 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.3.0](https://github.com/sebastianbergmann/comparator/releases/tag/8.3.0) (2 days ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.2.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.2.0) (2 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.4](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.4) (4 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.25](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.25) (5 days ago)
