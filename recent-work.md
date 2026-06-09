@@ -3,14 +3,14 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 day ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (2 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [composer/pcre](https://github.com/composer/pcre) (2 days ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (5 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (6 days ago)
 - [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 week ago)
 
