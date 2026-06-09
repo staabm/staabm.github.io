@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Revert PHPBench Update](https://github.com/phpstan/phpstan-src/pull/5836) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [re-record PHPBench baseline after update](https://github.com/phpstan/phpstan-src/pull/5835) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix debug leftover](https://github.com/phpstan/phpstan-src/pull/5834) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update PHPBench to 1.7.0](https://github.com/phpstan/phpstan-src/pull/5830) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix build after revert in phpstan-src](https://github.com/phpstan/phpstan-nette/pull/203) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
@@ -53,8 +55,6 @@
 - [ci: bump bashunit from 0.20.0 to 0.37.0](https://github.com/phpstan/phpstan-src/pull/5813) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [DeleteInlineHTML: remove dead code](https://github.com/bladestan/bladestan/pull/182) on [bladestan/bladestan](https://github.com/bladestan/bladestan) (3 days ago)
 - [Fix PHPStan build on latest release](https://github.com/nikic/PHP-Parser/pull/1148) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (3 days ago)
-- [editor-link errors in NEOS, phpstan-dba integration tests](https://github.com/phpstan/phpstan/pull/14783) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
-- [fix: build on latest PHPStan](https://github.com/larastan/larastan/pull/2496) on [larastan/larastan](https://github.com/larastan/larastan) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
