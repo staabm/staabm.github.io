@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix build after revert in phpstan-src](https://github.com/phpstan/phpstan-nette/pull/203) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
 - [install bashunit via pinned github action](https://github.com/phpstan/phpstan-src/pull/5826) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [PIN github action dependencies](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/127) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 day ago)
 - [PIN github action dependencies](https://github.com/staabm/phpstan-dba/pull/787) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix build on latest PHPStan](https://github.com/larastan/larastan/pull/2496) on [larastan/larastan](https://github.com/larastan/larastan) (3 days ago)
 - [update staabm/phpstan-dba](https://github.com/phpstan/phpstan/pull/14782) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
 - [Update expectations for PHPStan 2.2.2&#43;](https://github.com/staabm/phpstan-dba/pull/785) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
-- [Narrow subject on matches](https://github.com/thecodingmachine/phpstan-safe-rule/pull/69) on [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
