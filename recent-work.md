@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.11.0](https://github.com/symplify/phpstan-rules/releases/tag/14.11.0) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.5](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.5) (today)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.3.4](https://github.com/staabm/phpstan-todo-by/releases/tag/0.3.4) (1 day ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.2.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.2.2) (1 day ago)
@@ -68,4 +69,3 @@
 - [recombee/php-api-client](https://github.com/recombee/php-api-client) - [v6.3.0](https://github.com/recombee/php-api-client/releases/tag/v6.3.0) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.2](https://github.com/phpstan/phpstan/releases/tag/2.2.2) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.3](https://github.com/staabm/phpstan-dba/releases/tag/0.4.3) (4 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.2.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.0) (4 days ago)
