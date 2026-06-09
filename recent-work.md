@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [larastan/larastan](https://github.com/larastan/larastan) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [composer/pcre](https://github.com/composer/pcre) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (2 days ago)
+- [composer/pcre](https://github.com/composer/pcre) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (6 days ago)
-- [phpstan/build-infection](https://github.com/phpstan/build-infection) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update PHPBench to 1.7.0](https://github.com/phpstan/phpstan-src/pull/5830) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix build after revert in phpstan-src](https://github.com/phpstan/phpstan-nette/pull/203) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
 - [install bashunit via pinned github action](https://github.com/phpstan/phpstan-src/pull/5826) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [PIN github action dependencies](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/127) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 day ago)
@@ -52,9 +53,8 @@
 - [DeleteInlineHTML: remove dead code](https://github.com/bladestan/bladestan/pull/182) on [bladestan/bladestan](https://github.com/bladestan/bladestan) (3 days ago)
 - [Fix PHPStan build on latest release](https://github.com/nikic/PHP-Parser/pull/1148) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (3 days ago)
 - [editor-link errors in NEOS, phpstan-dba integration tests](https://github.com/phpstan/phpstan/pull/14783) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
-- [Fix build on latest PHPStan](https://github.com/larastan/larastan/pull/2496) on [larastan/larastan](https://github.com/larastan/larastan) (3 days ago)
+- [fix: build on latest PHPStan](https://github.com/larastan/larastan/pull/2496) on [larastan/larastan](https://github.com/larastan/larastan) (3 days ago)
 - [update staabm/phpstan-dba](https://github.com/phpstan/phpstan/pull/14782) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
-- [Update expectations for PHPStan 2.2.2&#43;](https://github.com/staabm/phpstan-dba/pull/785) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
