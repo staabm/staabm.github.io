@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [More precise `ObjectProxy` doctypes](https://github.com/deployphp/deployer/pull/4231) on [deployphp/deployer](https://github.com/deployphp/deployer) (today)
 - [Update Bashunit to 0.39.1](https://github.com/phpstan/phpstan-src/pull/5839) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Revert PHPBench Update](https://github.com/phpstan/phpstan-src/pull/5836) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [re-record PHPBench baseline after update](https://github.com/phpstan/phpstan-src/pull/5835) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Prevent ENV var tokens from beeing leaked by commited DI containers](https://github.com/phpstan/phpstan-src/pull/5820) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Prevent ENV var tokens from beeing leaked by commited DI containers](https://github.com/phpstan/phpstan-src/pull/5818) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [ci: bump bashunit from 0.20.0 to 0.37.0](https://github.com/phpstan/phpstan-src/pull/5813) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [DeleteInlineHTML: remove dead code](https://github.com/bladestan/bladestan/pull/182) on [bladestan/bladestan](https://github.com/bladestan/bladestan) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
