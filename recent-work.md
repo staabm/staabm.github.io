@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ecsphp/ecs](https://github.com/ecsphp/ecs) - [13.2.0](https://github.com/ecsphp/ecs/releases/tag/13.2.0) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.27](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.27) (1 day ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.11.0](https://github.com/symplify/phpstan-rules/releases/tag/14.11.0) (2 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.5](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.5) (2 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.10](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.10) (5 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.23.0](https://github.com/paratestphp/paratest/releases/tag/v7.23.0) (6 days ago)
 - [recombee/php-api-client](https://github.com/recombee/php-api-client) - [v6.3.0](https://github.com/recombee/php-api-client/releases/tag/v6.3.0) (6 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.2](https://github.com/phpstan/phpstan/releases/tag/2.2.2) (6 days ago)
