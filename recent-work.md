@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [try lint comment over makefile exclude](https://github.com/phpstan/phpstan-src/pull/5856) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix 7.4/8.0 build](https://github.com/phpstan/phpstan-src/pull/5850) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [update larastan](https://github.com/phpstan/phpstan/pull/14812) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [More precise `ObjectProxy` doctypes](https://github.com/deployphp/deployer/pull/4231) on [deployphp/deployer](https://github.com/deployphp/deployer) (2 days ago)
@@ -54,7 +55,6 @@
 - [PIN github action dependencies](https://github.com/staabm/phpstan-dba/pull/787) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [PIN github action dependencies](https://github.com/staabm/phpstan-todo-by/pull/186) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
 - [Revert 7fe8b00282cff26f814cbddbec9906a1f4802301](https://github.com/phpstan/phpstan-src/pull/5825) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Prevent ENV var tokens from beeing leaked by commited DI containers](https://github.com/phpstan/phpstan-src/pull/5820) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
