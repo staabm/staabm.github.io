@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [update larastan](https://github.com/phpstan/phpstan/pull/14812) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [More precise `ObjectProxy` doctypes](https://github.com/deployphp/deployer/pull/4231) on [deployphp/deployer](https://github.com/deployphp/deployer) (2 days ago)
 - [Update Bashunit to 0.39.1](https://github.com/phpstan/phpstan-src/pull/5839) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Revert PHPBench Update](https://github.com/phpstan/phpstan-src/pull/5836) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -54,7 +55,6 @@
 - [Revert 7fe8b00282cff26f814cbddbec9906a1f4802301](https://github.com/phpstan/phpstan-src/pull/5825) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Prevent ENV var tokens from beeing leaked by commited DI containers](https://github.com/phpstan/phpstan-src/pull/5820) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Prevent ENV var tokens from beeing leaked by commited DI containers](https://github.com/phpstan/phpstan-src/pull/5818) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [ci: bump bashunit from 0.20.0 to 0.37.0](https://github.com/phpstan/phpstan-src/pull/5813) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
