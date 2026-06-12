@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add more regex tests](https://github.com/phpstan/phpstan-src/pull/5858) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix PMMP baseline](https://github.com/phpstan/phpstan/pull/14817) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [try lint comment over makefile exclude](https://github.com/phpstan/phpstan-src/pull/5856) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix 7.4/8.0 build](https://github.com/phpstan/phpstan-src/pull/5850) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [install bashunit via pinned github action](https://github.com/phpstan/phpstan-src/pull/5826) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [PIN github action dependencies](https://github.com/staabm/annotate-pull-request-from-checkstyle/pull/127) on [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (4 days ago)
 - [PIN github action dependencies](https://github.com/staabm/phpstan-dba/pull/787) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [PIN github action dependencies](https://github.com/staabm/phpstan-todo-by/pull/186) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
