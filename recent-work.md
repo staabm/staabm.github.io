@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.6](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.6) (today)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.7](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.7) (today)
 - [composer/pcre](https://github.com/composer/pcre) - [3.4.0](https://github.com/composer/pcre/releases/tag/3.4.0) (2 days ago)
 - [ecsphp/ecs](https://github.com/ecsphp/ecs) - [13.2.0](https://github.com/ecsphp/ecs/releases/tag/13.2.0) (2 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.27](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.27) (3 days ago)
