@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix &#34;Differing behaviors when requiring or including relatively vs using __DIR__&#34;](https://github.com/phpstan/phpstan-src/pull/5862) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Setup PHPStan](https://github.com/php/web-php/pull/1922) on [php/web-php](https://github.com/php/web-php) (today)
 - [Fix LangChooserTest](https://github.com/php/web-php/pull/1921) on [php/web-php](https://github.com/php/web-php) (today)
 - [Add more regex tests](https://github.com/phpstan/phpstan-src/pull/5858) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Fix debug leftover](https://github.com/phpstan/phpstan-src/pull/5834) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Update PHPBench to 1.7.0](https://github.com/phpstan/phpstan-src/pull/5830) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Fix build after revert in phpstan-src](https://github.com/phpstan/phpstan-nette/pull/203) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (4 days ago)
-- [install bashunit via pinned github action](https://github.com/phpstan/phpstan-src/pull/5826) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
