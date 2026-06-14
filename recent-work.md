@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [php/web-php](https://github.com/php/web-php) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (4 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (5 days ago)
 - [larastan/larastan](https://github.com/larastan/larastan) (5 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (6 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [composer/pcre](https://github.com/composer/pcre) (1 week ago)
 
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Consider `is_file($path)` before checking `require $path`](https://github.com/phpstan/phpstan-src/pull/5867) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix &#34;Differing behaviors when requiring or including relatively vs using __DIR__&#34;](https://github.com/phpstan/phpstan-src/pull/5862) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Setup PHPStan](https://github.com/php/web-php/pull/1922) on [php/web-php](https://github.com/php/web-php) (1 day ago)
 - [Fix LangChooserTest](https://github.com/php/web-php/pull/1921) on [php/web-php](https://github.com/php/web-php) (1 day ago)
@@ -54,7 +55,6 @@
 - [re-record PHPBench baseline after update](https://github.com/phpstan/phpstan-src/pull/5835) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Fix debug leftover](https://github.com/phpstan/phpstan-src/pull/5834) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Update PHPBench to 1.7.0](https://github.com/phpstan/phpstan-src/pull/5830) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Fix build after revert in phpstan-src](https://github.com/phpstan/phpstan-nette/pull/203) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
