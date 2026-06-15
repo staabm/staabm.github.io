@@ -5,8 +5,8 @@
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [php/web-php](https://github.com/php/web-php) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (5 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (6 days ago)
 - [larastan/larastan](https://github.com/larastan/larastan) (6 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Revert &#34;Update baselines (#14823)&#34;](https://github.com/phpstan/phpstan/pull/14832) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Fix OrChainIdenticalComparisonToInArrayRule](https://github.com/phpstan/phpstan-src/pull/5881) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [RequireFileExistsRule: enable __DIR__ only for bleeding edge](https://github.com/phpstan/phpstan-src/pull/5879) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Consider `is_file($path)` before checking `require $path`](https://github.com/phpstan/phpstan-src/pull/5867) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [More precise `ObjectProxy` doctypes](https://github.com/deployphp/deployer/pull/4231) on [deployphp/deployer](https://github.com/deployphp/deployer) (5 days ago)
 - [Update Bashunit to 0.39.1](https://github.com/phpstan/phpstan-src/pull/5839) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Revert PHPBench Update](https://github.com/phpstan/phpstan-src/pull/5836) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [re-record PHPBench baseline after update](https://github.com/phpstan/phpstan-src/pull/5835) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
