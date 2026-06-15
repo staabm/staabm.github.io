@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [deployphp/deployer](https://github.com/deployphp/deployer) (today)
 - [php/web-php](https://github.com/php/web-php) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (5 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (6 days ago)
 - [larastan/larastan](https://github.com/larastan/larastan) (6 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
-- [composer/pcre](https://github.com/composer/pcre) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [RequireFileExistsRule: enable __DIR__ only for bleeding edge](https://github.com/phpstan/phpstan-src/pull/5879) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Consider `is_file($path)` before checking `require $path`](https://github.com/phpstan/phpstan-src/pull/5867) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix &#34;Differing behaviors when requiring or including relatively vs using __DIR__&#34;](https://github.com/phpstan/phpstan-src/pull/5862) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Setup PHPStan](https://github.com/php/web-php/pull/1922) on [php/web-php](https://github.com/php/web-php) (2 days ago)
@@ -54,11 +55,11 @@
 - [Revert PHPBench Update](https://github.com/phpstan/phpstan-src/pull/5836) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [re-record PHPBench baseline after update](https://github.com/phpstan/phpstan-src/pull/5835) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Fix debug leftover](https://github.com/phpstan/phpstan-src/pull/5834) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Update PHPBench to 1.7.0](https://github.com/phpstan/phpstan-src/pull/5830) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.2.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.1) (today)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.12.0](https://github.com/symplify/phpstan-rules/releases/tag/14.12.0) (today)
 - [ecsphp/ecs](https://github.com/ecsphp/ecs) - [13.2.2](https://github.com/ecsphp/ecs/releases/tag/13.2.2) (2 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.7](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.7) (2 days ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.2.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.2.2) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.23](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.23) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.10](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.10) (1 week ago)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.23.0](https://github.com/paratestphp/paratest/releases/tag/v7.23.0) (1 week ago)
