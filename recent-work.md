@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.12.0](https://github.com/symplify/phpstan-rules/releases/tag/14.12.0) (today)
 - [ecsphp/ecs](https://github.com/ecsphp/ecs) - [13.2.2](https://github.com/ecsphp/ecs/releases/tag/13.2.2) (2 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.7](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.7) (2 days ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.4.0](https://github.com/composer/pcre/releases/tag/3.4.0) (4 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.27](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.27) (5 days ago)
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.11.0](https://github.com/symplify/phpstan-rules/releases/tag/14.11.0) (6 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.3.4](https://github.com/staabm/phpstan-todo-by/releases/tag/0.3.4) (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.2.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.2.2) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.23](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.23) (1 week ago)
