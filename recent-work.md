@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix OrChainIdenticalComparisonToInArrayRule](https://github.com/phpstan/phpstan-src/pull/5881) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [RequireFileExistsRule: enable __DIR__ only for bleeding edge](https://github.com/phpstan/phpstan-src/pull/5879) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Consider `is_file($path)` before checking `require $path`](https://github.com/phpstan/phpstan-src/pull/5867) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix &#34;Differing behaviors when requiring or including relatively vs using __DIR__&#34;](https://github.com/phpstan/phpstan-src/pull/5862) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Update Bashunit to 0.39.1](https://github.com/phpstan/phpstan-src/pull/5839) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Revert PHPBench Update](https://github.com/phpstan/phpstan-src/pull/5836) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [re-record PHPBench baseline after update](https://github.com/phpstan/phpstan-src/pull/5835) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Fix debug leftover](https://github.com/phpstan/phpstan-src/pull/5834) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
