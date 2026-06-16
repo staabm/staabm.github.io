@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [php/web-php](https://github.com/php/web-php) (3 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (6 days ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [larastan/larastan](https://github.com/larastan/larastan) (1 week ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
+- [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
 
 
 #### 📜 My recent blog posts
