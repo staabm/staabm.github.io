@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove unnecessary loop in `FileExcluder-&gt;isExcludedFromAnalysing()`](https://github.com/phpstan/phpstan-src/pull/5886) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Remember call expression as truthy/falsey alongside `@phpstan-assert-if-true` argument narrowing](https://github.com/phpstan/phpstan-src/pull/5885) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [issue-bot: upgrade PHPUnit, fix deprecations](https://github.com/phpstan/phpstan-src/pull/5884) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [issue-bot: write output into output-stream instead of plain echo](https://github.com/phpstan/phpstan-src/pull/5883) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Fix PMMP baseline](https://github.com/phpstan/phpstan/pull/14817) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [try lint comment over makefile exclude](https://github.com/phpstan/phpstan-src/pull/5856) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Fix 7.4/8.0 build](https://github.com/phpstan/phpstan-src/pull/5850) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [update larastan](https://github.com/phpstan/phpstan/pull/14812) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
