@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [issue-bot: fix PHPUnit deprecations](https://github.com/phpstan/phpstan-src/pull/5884) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [issue-bot: write output into output-stream instead of plain echo](https://github.com/phpstan/phpstan-src/pull/5883) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Revert &#34;Update baselines (#14823)&#34;](https://github.com/phpstan/phpstan/pull/14832) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [Fix OrChainIdenticalComparisonToInArrayRule](https://github.com/phpstan/phpstan-src/pull/5881) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [RequireFileExistsRule: enable __DIR__ only for bleeding edge](https://github.com/phpstan/phpstan-src/pull/5879) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Fix 7.4/8.0 build](https://github.com/phpstan/phpstan-src/pull/5850) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [update larastan](https://github.com/phpstan/phpstan/pull/14812) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [More precise `ObjectProxy` doctypes](https://github.com/deployphp/deployer/pull/4231) on [deployphp/deployer](https://github.com/deployphp/deployer) (6 days ago)
-- [Update Bashunit to 0.39.1](https://github.com/phpstan/phpstan-src/pull/5839) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Revert PHPBench Update](https://github.com/phpstan/phpstan-src/pull/5836) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
