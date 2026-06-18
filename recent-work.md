@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update CLI options section in README](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/pull/63) on [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (today)
 - [Remove unnecessary loop in `FileExcluder-&gt;isExcludedFromAnalysing()`](https://github.com/phpstan/phpstan-src/pull/5886) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Remember call expression as truthy/falsey alongside `@phpstan-assert-if-true` argument narrowing](https://github.com/phpstan/phpstan-src/pull/5885) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [issue-bot: upgrade PHPUnit, fix deprecations](https://github.com/phpstan/phpstan-src/pull/5884) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,11 +55,11 @@
 - [Add more regex tests](https://github.com/phpstan/phpstan-src/pull/5858) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Fix PMMP baseline](https://github.com/phpstan/phpstan/pull/14817) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
 - [try lint comment over makefile exclude](https://github.com/phpstan/phpstan-src/pull/5856) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Fix 7.4/8.0 build](https://github.com/phpstan/phpstan-src/pull/5850) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [infection/infection](https://github.com/infection/infection) - [0.33.3](https://github.com/infection/infection/releases/tag/0.33.3) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.8](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.8) (2 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.20](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.20) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.2.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.1) (3 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.27](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.27) (1 week ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.3.4](https://github.com/staabm/phpstan-todo-by/releases/tag/0.3.4) (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.2.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.2.2) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.23](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.23) (1 week ago)
