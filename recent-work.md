@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [php/web-php](https://github.com/php/web-php) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
@@ -10,9 +11,8 @@
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [larastan/larastan](https://github.com/larastan/larastan) (1 week ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
+- [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [RequiredPhpVersionVisitor: Don&#39;t duplicate php-version knowledge](https://github.com/phpstan/phpstan-src/pull/5896) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update CLI options section in README](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/pull/63) on [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (today)
 - [Remove unnecessary loop in `FileExcluder-&gt;isExcludedFromAnalysing()`](https://github.com/phpstan/phpstan-src/pull/5886) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Remember call expression as truthy/falsey alongside `@phpstan-assert-if-true` argument narrowing](https://github.com/phpstan/phpstan-src/pull/5885) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Fix LangChooserTest](https://github.com/php/web-php/pull/1921) on [php/web-php](https://github.com/php/web-php) (5 days ago)
 - [Add more regex tests](https://github.com/phpstan/phpstan-src/pull/5858) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Fix PMMP baseline](https://github.com/phpstan/phpstan/pull/14817) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
-- [try lint comment over makefile exclude](https://github.com/phpstan/phpstan-src/pull/5856) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
