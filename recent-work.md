@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (1 day ago)
 - [php/web-php](https://github.com/php/web-php) (3 days ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (4 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Cover `PhpMinorVersionIterator-&gt;__construct()` in BC promise](https://github.com/phpstan/phpstan-src/pull/5898) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement PhpMinorVersionIterator](https://github.com/phpstan/phpstan-src/pull/5897) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Warn about incomplete versions in #[RequiresPhp]](https://github.com/phpstan/phpstan-phpunit/pull/303) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
 - [RequiredPhpVersionVisitor: Don&#39;t duplicate php-version knowledge](https://github.com/phpstan/phpstan-src/pull/5896) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,13 +55,12 @@
 - [Consider `is_file($path)` before checking `require $path`](https://github.com/phpstan/phpstan-src/pull/5867) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Fix &#34;Differing behaviors when requiring or including relatively vs using __DIR__&#34;](https://github.com/phpstan/phpstan-src/pull/5862) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Setup PHPStan](https://github.com/php/web-php/pull/1922) on [php/web-php](https://github.com/php/web-php) (6 days ago)
-- [Fix LangChooserTest](https://github.com/php/web-php/pull/1921) on [php/web-php](https://github.com/php/web-php) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.9](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.9) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.33.3](https://github.com/infection/infection/releases/tag/0.33.3) (1 day ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.8](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.8) (3 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.20](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.20) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.2.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.1) (4 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.12.0](https://github.com/symplify/phpstan-rules/releases/tag/14.12.0) (4 days ago)
