@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.9](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.9) (today)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.10](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.10) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.33.3](https://github.com/infection/infection/releases/tag/0.33.3) (1 day ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.20](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.20) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.2.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.1) (4 days ago)
