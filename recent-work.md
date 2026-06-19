@@ -12,7 +12,7 @@
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 week ago)
 - [larastan/larastan](https://github.com/larastan/larastan) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
-- [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle) (1 week ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 
 
 #### 📜 My recent blog posts
