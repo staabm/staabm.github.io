@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Enter right-side-assign context for `??=` so closures capturing the assigned variable by reference see its assigned type](https://github.com/phpstan/phpstan-src/pull/5900) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Cover `PhpMinorVersionIterator-&gt;__construct()` in BC promise](https://github.com/phpstan/phpstan-src/pull/5898) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Implement PhpMinorVersionIterator](https://github.com/phpstan/phpstan-src/pull/5897) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Warn about incomplete versions in `#[RequiresPhp]`](https://github.com/phpstan/phpstan-phpunit/pull/303) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
@@ -54,7 +55,6 @@
 - [RequireFileExistsRule: enable __DIR__ only for bleeding edge](https://github.com/phpstan/phpstan-src/pull/5879) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Consider `is_file($path)` before checking `require $path`](https://github.com/phpstan/phpstan-src/pull/5867) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Fix &#34;Differing behaviors when requiring or including relatively vs using __DIR__&#34;](https://github.com/phpstan/phpstan-src/pull/5862) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Setup PHPStan](https://github.com/php/web-php/pull/1922) on [php/web-php](https://github.com/php/web-php) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
