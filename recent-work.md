@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement ClassAttributeRequiresPhpVersionRule](https://github.com/phpstan/phpstan-phpunit/pull/305) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
+- [Extract AttributeVersionRequirementHelper](https://github.com/phpstan/phpstan-phpunit/pull/304) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [update shopsys composer.lock](https://github.com/phpstan/phpstan/pull/14849) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Enter right-side-assign context for `??=` so closures capturing the assigned variable by reference see its assigned type](https://github.com/phpstan/phpstan-src/pull/5900) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Cover `PhpMinorVersionIterator-&gt;__construct()` in BC promise](https://github.com/phpstan/phpstan-src/pull/5898) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [issue-bot: write output into output-stream instead of plain echo](https://github.com/phpstan/phpstan-src/pull/5883) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Revert &#34;Update baselines (#14823)&#34;](https://github.com/phpstan/phpstan/pull/14832) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
 - [Fix OrChainIdenticalComparisonToInArrayRule](https://github.com/phpstan/phpstan-src/pull/5881) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [RequireFileExistsRule: enable __DIR__ only for bleeding edge](https://github.com/phpstan/phpstan-src/pull/5879) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Consider `is_file($path)` before checking `require $path`](https://github.com/phpstan/phpstan-src/pull/5867) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
