@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update PHPStan, fix false-positive](https://github.com/infection/infection/pull/3296) on [infection/infection](https://github.com/infection/infection) (today)
+- [ReplaceSafeFunctionsDynamicReturnTypeExtension: fix typo](https://github.com/thecodingmachine/phpstan-safe-rule/pull/71) on [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (today)
 - [Improve ReplaceSafeFunctions type inference](https://github.com/thecodingmachine/phpstan-safe-rule/pull/70) on [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (today)
 - [Implement ClassAttributeRequiresPhpVersionRule](https://github.com/phpstan/phpstan-phpunit/pull/305) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
 - [Extract AttributeVersionRequirementHelper](https://github.com/phpstan/phpstan-phpunit/pull/304) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
@@ -53,13 +55,11 @@
 - [Remove unnecessary loop in `FileExcluder-&gt;isExcludedFromAnalysing()`](https://github.com/phpstan/phpstan-src/pull/5886) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Remember call expression as truthy/falsey alongside `@phpstan-assert-if-true` argument narrowing](https://github.com/phpstan/phpstan-src/pull/5885) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [issue-bot: upgrade PHPUnit, fix deprecations](https://github.com/phpstan/phpstan-src/pull/5884) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [issue-bot: write output into output-stream instead of plain echo](https://github.com/phpstan/phpstan-src/pull/5883) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Revert &#34;Update baselines (#14823)&#34;](https://github.com/phpstan/phpstan/pull/14832) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) - [v.1.4.5](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v.1.4.5) (today)
+- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) - [v.1.4.6](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v.1.4.6) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.10](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.10) (2 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.33.3](https://github.com/infection/infection/releases/tag/0.33.3) (3 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.20](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.20) (5 days ago)
