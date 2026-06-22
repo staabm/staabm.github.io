@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: utilize `$default-branch` variable](https://github.com/zizmorcore/zizmor/pull/2145) on [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) (today)
+- [Readme: document missing inputs](https://github.com/zizmorcore/zizmor-action/pull/130) on [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) (today)
 - [fix build](https://github.com/phpstan/phpstan-src/pull/5908) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Update PHPStan, fix false-positive](https://github.com/infection/infection/pull/3296) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [ReplaceSafeFunctionsDynamicReturnTypeExtension: fix typo](https://github.com/thecodingmachine/phpstan-safe-rule/pull/71) on [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (1 day ago)
@@ -53,8 +55,6 @@
 - [Warn about incomplete versions in `#[RequiresPhp]`](https://github.com/phpstan/phpstan-phpunit/pull/303) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
 - [RequiredPhpVersionVisitor: Don&#39;t duplicate php-version knowledge](https://github.com/phpstan/phpstan-src/pull/5896) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Update CLI options section in README](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/pull/63) on [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (4 days ago)
-- [Remove unnecessary loop in `FileExcluder-&gt;isExcludedFromAnalysing()`](https://github.com/phpstan/phpstan-src/pull/5886) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Remember call expression as truthy/falsey alongside `@phpstan-assert-if-true` argument narrowing](https://github.com/phpstan/phpstan-src/pull/5885) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
