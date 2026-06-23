@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) - [v.1.4.6](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v.1.4.6) (2 days ago)
+- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) - [v1.4.7](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.7) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.10](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.10) (4 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.33.3](https://github.com/infection/infection/releases/tag/0.33.3) (5 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.20](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.20) (1 week ago)
