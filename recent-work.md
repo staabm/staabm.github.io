@@ -3,14 +3,14 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
-- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
-- [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (5 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
+- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (3 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
+- [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (6 days ago)
 - [php/web-php](https://github.com/php/web-php) (1 week ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (1 week ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 week ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (2 weeks ago)
 - [larastan/larastan](https://github.com/larastan/larastan) (2 weeks ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
 
@@ -18,8 +18,8 @@
 #### 📜 My recent blog posts
 
 - [Automate the process to find a regression commit](https://staabm.github.io/2026/02/07/git-bisect-run.html) (4 months ago)
-- [PHPStan on steroids](https://staabm.github.io/2026/01/25/phpstan-on-steroids.html) (4 months ago)
-- [Speedup PHPUnit code coverage generation](https://staabm.github.io/2025/11/26/speedup-phpunit-code-coverage.html) (6 months ago)
+- [PHPStan on steroids](https://staabm.github.io/2026/01/25/phpstan-on-steroids.html) (5 months ago)
+- [Speedup PHPUnit code coverage generation](https://staabm.github.io/2025/11/26/speedup-phpunit-code-coverage.html) (7 months ago)
 - [New and noteworthy: PHPStan and PHPUnit integration](https://staabm.github.io/2025/11/15/phpstan-validates-phpunit-data-provider.html) (7 months ago)
 - [Mutation testing with Infection in PHP](https://staabm.github.io/2025/08/01/infection-php-mutation-testing.html) (10 months ago)
 
@@ -40,32 +40,32 @@
 
 #### 🔨 My recent Pull Requests
 
-- [docs: utilize `$default-branch` variable](https://github.com/zizmorcore/zizmor/pull/2145) on [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) (1 day ago)
-- [Readme: document missing inputs](https://github.com/zizmorcore/zizmor-action/pull/130) on [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) (1 day ago)
-- [fix build](https://github.com/phpstan/phpstan-src/pull/5908) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Update PHPStan, fix false-positive](https://github.com/infection/infection/pull/3296) on [infection/infection](https://github.com/infection/infection) (2 days ago)
-- [ReplaceSafeFunctionsDynamicReturnTypeExtension: fix typo](https://github.com/thecodingmachine/phpstan-safe-rule/pull/71) on [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (2 days ago)
-- [Improve ReplaceSafeFunctions type inference](https://github.com/thecodingmachine/phpstan-safe-rule/pull/70) on [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (2 days ago)
-- [Implement ClassAttributeRequiresPhpVersionRule](https://github.com/phpstan/phpstan-phpunit/pull/305) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
-- [Extract AttributeVersionRequirementHelper](https://github.com/phpstan/phpstan-phpunit/pull/304) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
-- [update shopsys composer.lock](https://github.com/phpstan/phpstan/pull/14849) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
-- [Enter right-side-assign context for `??=` so closures capturing the assigned variable by reference see its assigned type](https://github.com/phpstan/phpstan-src/pull/5900) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Cover `PhpMinorVersionIterator-&gt;__construct()` in BC promise](https://github.com/phpstan/phpstan-src/pull/5898) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Implement PhpMinorVersionIterator](https://github.com/phpstan/phpstan-src/pull/5897) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Warn about incomplete versions in `#[RequiresPhp]`](https://github.com/phpstan/phpstan-phpunit/pull/303) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
-- [RequiredPhpVersionVisitor: Don&#39;t duplicate php-version knowledge](https://github.com/phpstan/phpstan-src/pull/5896) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Update CLI options section in README](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/pull/63) on [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (5 days ago)
+- [docs: utilize `$default-branch` variable](https://github.com/zizmorcore/zizmor/pull/2145) on [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) (2 days ago)
+- [Readme: document missing inputs](https://github.com/zizmorcore/zizmor-action/pull/130) on [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) (2 days ago)
+- [fix build](https://github.com/phpstan/phpstan-src/pull/5908) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Update PHPStan, fix false-positive](https://github.com/infection/infection/pull/3296) on [infection/infection](https://github.com/infection/infection) (3 days ago)
+- [ReplaceSafeFunctionsDynamicReturnTypeExtension: fix typo](https://github.com/thecodingmachine/phpstan-safe-rule/pull/71) on [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (3 days ago)
+- [Improve ReplaceSafeFunctions type inference](https://github.com/thecodingmachine/phpstan-safe-rule/pull/70) on [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (3 days ago)
+- [Implement ClassAttributeRequiresPhpVersionRule](https://github.com/phpstan/phpstan-phpunit/pull/305) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
+- [Extract AttributeVersionRequirementHelper](https://github.com/phpstan/phpstan-phpunit/pull/304) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
+- [update shopsys composer.lock](https://github.com/phpstan/phpstan/pull/14849) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
+- [Enter right-side-assign context for `??=` so closures capturing the assigned variable by reference see its assigned type](https://github.com/phpstan/phpstan-src/pull/5900) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Cover `PhpMinorVersionIterator-&gt;__construct()` in BC promise](https://github.com/phpstan/phpstan-src/pull/5898) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Implement PhpMinorVersionIterator](https://github.com/phpstan/phpstan-src/pull/5897) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Warn about incomplete versions in `#[RequiresPhp]`](https://github.com/phpstan/phpstan-phpunit/pull/303) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
+- [RequiredPhpVersionVisitor: Don&#39;t duplicate php-version knowledge](https://github.com/phpstan/phpstan-src/pull/5896) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Update CLI options section in README](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/pull/63) on [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) - [v1.4.7](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.7) (today)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.10](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.10) (4 days ago)
-- [infection/infection](https://github.com/infection/infection) - [0.33.3](https://github.com/infection/infection/releases/tag/0.33.3) (5 days ago)
+- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) - [v1.4.7](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.7) (1 day ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.10](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.10) (5 days ago)
+- [infection/infection](https://github.com/infection/infection) - [0.33.3](https://github.com/infection/infection/releases/tag/0.33.3) (6 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.20](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.20) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.2.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.1) (1 week ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.12.0](https://github.com/symplify/phpstan-rules/releases/tag/14.12.0) (1 week ago)
 - [ecsphp/ecs](https://github.com/ecsphp/ecs) - [13.2.2](https://github.com/ecsphp/ecs/releases/tag/13.2.2) (1 week ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.4.0](https://github.com/composer/pcre/releases/tag/3.4.0) (1 week ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.27](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.27) (1 week ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.27](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.27) (2 weeks ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.3.4](https://github.com/staabm/phpstan-todo-by/releases/tag/0.3.4) (2 weeks ago)
