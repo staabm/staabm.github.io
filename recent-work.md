@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (3 days ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (6 days ago)
 - [php/web-php](https://github.com/php/web-php) (1 week ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (1 week ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (2 weeks ago)
-- [larastan/larastan](https://github.com/larastan/larastan) (2 weeks ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix build on PHPStan 2.2.3](https://github.com/phpstan/phpstan-nette/pull/206) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
+- [Fix build on PHPStan 2.2.3](https://github.com/phpstan/phpstan-dibi/pull/67) on [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (today)
 - [docs: utilize `$default-branch` variable](https://github.com/zizmorcore/zizmor/pull/2145) on [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) (2 days ago)
 - [Readme: document missing inputs](https://github.com/zizmorcore/zizmor-action/pull/130) on [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) (2 days ago)
 - [fix build](https://github.com/phpstan/phpstan-src/pull/5908) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -53,8 +55,6 @@
 - [Cover `PhpMinorVersionIterator-&gt;__construct()` in BC promise](https://github.com/phpstan/phpstan-src/pull/5898) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Implement PhpMinorVersionIterator](https://github.com/phpstan/phpstan-src/pull/5897) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Warn about incomplete versions in `#[RequiresPhp]`](https://github.com/phpstan/phpstan-phpunit/pull/303) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
-- [RequiredPhpVersionVisitor: Don&#39;t duplicate php-version knowledge](https://github.com/phpstan/phpstan-src/pull/5896) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Update CLI options section in README](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/pull/63) on [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
