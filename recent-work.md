@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (1 day ago)
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (4 days ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (1 week ago)
 - [php/web-php](https://github.com/php/web-php) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Utilize `BleedingEdgeToggle::withBleedingEdge` to simplify test](https://github.com/phpstan/phpstan-src/pull/5930) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix build on PHPStan 2.2.3](https://github.com/bitExpert/phpstan-magento/pull/351) on [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) (1 day ago)
 - [Fix build on PHPStan 2.2.3](https://github.com/phpstan/phpstan-doctrine/pull/773) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
 - [Narrow to non-empty-string via `Strings::length`](https://github.com/phpstan/phpstan-nette/pull/207) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
@@ -54,7 +55,6 @@
 - [Implement ClassAttributeRequiresPhpVersionRule](https://github.com/phpstan/phpstan-phpunit/pull/305) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
 - [Extract AttributeVersionRequirementHelper](https://github.com/phpstan/phpstan-phpunit/pull/304) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
 - [update shopsys composer.lock](https://github.com/phpstan/phpstan/pull/14849) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
-- [Enter right-side-assign context for `??=` so closures capturing the assigned variable by reference see its assigned type](https://github.com/phpstan/phpstan-src/pull/5900) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
