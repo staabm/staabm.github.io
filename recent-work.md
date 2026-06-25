@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Faster TypeCombinator](https://github.com/phpstan/phpstan-src/pull/5934) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Check `#[RequiresPhpunit]` in the same way we check `#[RequiresPhp]`](https://github.com/phpstan/phpstan-phpunit/pull/308) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [Faster `VerbosityLevel`](https://github.com/phpstan/phpstan-src/pull/5932) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Utilize `BleedingEdgeToggle::withBleedingEdge` to simplify another test](https://github.com/phpstan/phpstan-src/pull/5931) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Utilize `BleedingEdgeToggle::withBleedingEdge` to simplify test](https://github.com/phpstan/phpstan-src/pull/5930) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -53,8 +55,6 @@
 - [fix build](https://github.com/phpstan/phpstan-src/pull/5908) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Update PHPStan, fix false-positive](https://github.com/infection/infection/pull/3296) on [infection/infection](https://github.com/infection/infection) (4 days ago)
 - [ReplaceSafeFunctionsDynamicReturnTypeExtension: fix typo](https://github.com/thecodingmachine/phpstan-safe-rule/pull/71) on [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (4 days ago)
-- [Improve ReplaceSafeFunctions type inference](https://github.com/thecodingmachine/phpstan-safe-rule/pull/70) on [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (4 days ago)
-- [Implement ClassAttributeRequiresPhpVersionRule](https://github.com/phpstan/phpstan-phpunit/pull/305) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
