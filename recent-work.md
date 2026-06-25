@@ -4,9 +4,9 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (1 day ago)
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Utilize `BleedingEdgeToggle::withBleedingEdge` to simplify another test](https://github.com/phpstan/phpstan-src/pull/5931) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Utilize `BleedingEdgeToggle::withBleedingEdge` to simplify test](https://github.com/phpstan/phpstan-src/pull/5930) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix build on PHPStan 2.2.3](https://github.com/bitExpert/phpstan-magento/pull/351) on [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) (1 day ago)
 - [Fix build on PHPStan 2.2.3](https://github.com/phpstan/phpstan-doctrine/pull/773) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
@@ -54,7 +55,6 @@
 - [Improve ReplaceSafeFunctions type inference](https://github.com/thecodingmachine/phpstan-safe-rule/pull/70) on [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (4 days ago)
 - [Implement ClassAttributeRequiresPhpVersionRule](https://github.com/phpstan/phpstan-phpunit/pull/305) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
 - [Extract AttributeVersionRequirementHelper](https://github.com/phpstan/phpstan-phpunit/pull/304) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
-- [update shopsys composer.lock](https://github.com/phpstan/phpstan/pull/14849) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
