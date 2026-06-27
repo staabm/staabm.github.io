@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Allow PHP 8.6-nightly](https://github.com/phpstan/phpstan-src/pull/5942) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Faster TypeCombinator](https://github.com/phpstan/phpstan-src/pull/5934) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Check `#[RequiresPhpunit]` in the same way we check `#[RequiresPhp]`](https://github.com/phpstan/phpstan-phpunit/pull/308) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
 - [Faster `VerbosityLevel`](https://github.com/phpstan/phpstan-src/pull/5932) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Readme: document missing inputs](https://github.com/zizmorcore/zizmor-action/pull/130) on [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) (5 days ago)
 - [fix build](https://github.com/phpstan/phpstan-src/pull/5908) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Update PHPStan, fix false-positive](https://github.com/infection/infection/pull/3296) on [infection/infection](https://github.com/infection/infection) (6 days ago)
-- [ReplaceSafeFunctionsDynamicReturnTypeExtension: fix typo](https://github.com/thecodingmachine/phpstan-safe-rule/pull/71) on [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
