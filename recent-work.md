@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) - [v0.43.0](https://github.com/bitExpert/phpstan-magento/releases/tag/v0.43.0) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.11](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.11) (3 days ago)
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) - [v1.4.7](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.7) (5 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.33.3](https://github.com/infection/infection/releases/tag/0.33.3) (1 week ago)
@@ -68,4 +69,3 @@
 - [ecsphp/ecs](https://github.com/ecsphp/ecs) - [13.2.2](https://github.com/ecsphp/ecs/releases/tag/13.2.2) (2 weeks ago)
 - [composer/pcre](https://github.com/composer/pcre) - [3.4.0](https://github.com/composer/pcre/releases/tag/3.4.0) (2 weeks ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.27](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.27) (2 weeks ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.3.4](https://github.com/staabm/phpstan-todo-by/releases/tag/0.3.4) (2 weeks ago)
