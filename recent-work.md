@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (3 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 days ago)
-- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (3 days ago)
-- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (6 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (4 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (4 days ago)
+- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (4 days ago)
+- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (1 week ago)
 - [php/web-php](https://github.com/php/web-php) (1 week ago)
@@ -40,27 +40,27 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Allow PHP 8.6-nightly](https://github.com/phpstan/phpstan-src/pull/5942) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Faster TypeCombinator](https://github.com/phpstan/phpstan-src/pull/5934) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Check `#[RequiresPhpunit]` in the same way we check `#[RequiresPhp]`](https://github.com/phpstan/phpstan-phpunit/pull/308) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
-- [Faster `VerbosityLevel`](https://github.com/phpstan/phpstan-src/pull/5932) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Utilize `BleedingEdgeToggle::withBleedingEdge` to simplify another test](https://github.com/phpstan/phpstan-src/pull/5931) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Utilize `BleedingEdgeToggle::withBleedingEdge` to simplify test](https://github.com/phpstan/phpstan-src/pull/5930) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Fix build on PHPStan 2.2.3](https://github.com/bitExpert/phpstan-magento/pull/351) on [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) (3 days ago)
-- [Fix build on PHPStan 2.2.3](https://github.com/phpstan/phpstan-doctrine/pull/773) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 days ago)
-- [Narrow to non-empty-string via `Strings::length`](https://github.com/phpstan/phpstan-nette/pull/207) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (3 days ago)
-- [Fix build on PHPStan 2.2.3](https://github.com/phpstan/phpstan-nette/pull/206) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (3 days ago)
-- [Fix build on PHPStan 2.2.3](https://github.com/phpstan/phpstan-dibi/pull/67) on [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (3 days ago)
-- [docs: utilize `$default-branch` variable](https://github.com/zizmorcore/zizmor/pull/2145) on [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) (5 days ago)
-- [Readme: document missing inputs](https://github.com/zizmorcore/zizmor-action/pull/130) on [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) (5 days ago)
-- [fix build](https://github.com/phpstan/phpstan-src/pull/5908) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Update PHPStan, fix false-positive](https://github.com/infection/infection/pull/3296) on [infection/infection](https://github.com/infection/infection) (6 days ago)
+- [Allow PHP 8.6-nightly](https://github.com/phpstan/phpstan-src/pull/5942) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Faster TypeCombinator](https://github.com/phpstan/phpstan-src/pull/5934) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Check `#[RequiresPhpunit]` in the same way we check `#[RequiresPhp]`](https://github.com/phpstan/phpstan-phpunit/pull/308) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
+- [Faster `VerbosityLevel`](https://github.com/phpstan/phpstan-src/pull/5932) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Utilize `BleedingEdgeToggle::withBleedingEdge` to simplify another test](https://github.com/phpstan/phpstan-src/pull/5931) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Utilize `BleedingEdgeToggle::withBleedingEdge` to simplify test](https://github.com/phpstan/phpstan-src/pull/5930) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Fix build on PHPStan 2.2.3](https://github.com/bitExpert/phpstan-magento/pull/351) on [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) (4 days ago)
+- [Fix build on PHPStan 2.2.3](https://github.com/phpstan/phpstan-doctrine/pull/773) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (4 days ago)
+- [Narrow to non-empty-string via `Strings::length`](https://github.com/phpstan/phpstan-nette/pull/207) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (4 days ago)
+- [Fix build on PHPStan 2.2.3](https://github.com/phpstan/phpstan-nette/pull/206) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (4 days ago)
+- [Fix build on PHPStan 2.2.3](https://github.com/phpstan/phpstan-dibi/pull/67) on [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (4 days ago)
+- [docs: utilize `$default-branch` variable](https://github.com/zizmorcore/zizmor/pull/2145) on [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) (6 days ago)
+- [Readme: document missing inputs](https://github.com/zizmorcore/zizmor-action/pull/130) on [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) (6 days ago)
+- [fix build](https://github.com/phpstan/phpstan-src/pull/5908) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [Update PHPStan, fix false-positive](https://github.com/infection/infection/pull/3296) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.11](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.11) (2 days ago)
-- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) - [v1.4.7](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.7) (4 days ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.11](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.11) (3 days ago)
+- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) - [v1.4.7](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.7) (5 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.33.3](https://github.com/infection/infection/releases/tag/0.33.3) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.20](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.20) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.2.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.1) (1 week ago)
