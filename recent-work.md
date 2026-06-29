@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Upload coverage reports artifacts](https://github.com/phpstan/phpstan-src/pull/5950) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Upload coverage report artifacts](https://github.com/phpstan/phpstan-src/pull/5950) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix PHPUnit &#34;incomplete version requirement&#34; warning](https://github.com/phpstan/phpstan-src/pull/5949) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Setup GitHub native coverage report](https://github.com/phpstan/phpstan-src/pull/5948) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Allow PHP 8.6-nightly](https://github.com/phpstan/phpstan-src/pull/5942) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.2.2](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.2) (today)
 - [redaxo/core](https://github.com/redaxo/core) - [5.21.2](https://github.com/redaxo/core/releases/tag/5.21.2) (today)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.5.0](https://github.com/CuyZ/Valinor/releases/tag/2.5.0) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) - [0.34.0](https://github.com/infection/infection/releases/tag/0.34.0) (1 day ago)
@@ -66,6 +67,5 @@
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.11](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.11) (4 days ago)
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) - [v1.4.7](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.7) (6 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.20](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.20) (1 week ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.2.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.1) (2 weeks ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.12.0](https://github.com/symplify/phpstan-rules/releases/tag/14.12.0) (2 weeks ago)
 - [ecsphp/ecs](https://github.com/ecsphp/ecs) - [13.2.2](https://github.com/ecsphp/ecs/releases/tag/13.2.2) (2 weeks ago)
