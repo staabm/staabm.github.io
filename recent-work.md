@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
 - [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) (5 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (5 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Setup GitHub native coverage report](https://github.com/phpstan/phpstan-src/pull/5948) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Allow PHP 8.6-nightly](https://github.com/phpstan/phpstan-src/pull/5942) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Faster TypeCombinator](https://github.com/phpstan/phpstan-src/pull/5934) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Check `#[RequiresPhpunit]` in the same way we check `#[RequiresPhp]`](https://github.com/phpstan/phpstan-phpunit/pull/308) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
@@ -54,7 +55,6 @@
 - [docs: utilize `$default-branch` variable](https://github.com/zizmorcore/zizmor/pull/2145) on [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) (1 week ago)
 - [Readme: document missing inputs](https://github.com/zizmorcore/zizmor-action/pull/130) on [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) (1 week ago)
 - [fix build](https://github.com/phpstan/phpstan-src/pull/5908) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Update PHPStan, fix false-positive](https://github.com/infection/infection/pull/3296) on [infection/infection](https://github.com/infection/infection) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
