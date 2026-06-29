@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Upload coverage reports artifacts](https://github.com/phpstan/phpstan-src/pull/5950) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Fix PHPUnit &#34;incomplete version requirement&#34; warning](https://github.com/phpstan/phpstan-src/pull/5949) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Setup GitHub native coverage report](https://github.com/phpstan/phpstan-src/pull/5948) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Allow PHP 8.6-nightly](https://github.com/phpstan/phpstan-src/pull/5942) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Faster TypeCombinator](https://github.com/phpstan/phpstan-src/pull/5934) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -53,12 +55,11 @@
 - [Fix build on PHPStan 2.2.3](https://github.com/phpstan/phpstan-nette/pull/206) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (5 days ago)
 - [Fix build on PHPStan 2.2.3](https://github.com/phpstan/phpstan-dibi/pull/67) on [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (5 days ago)
 - [docs: utilize `$default-branch` variable](https://github.com/zizmorcore/zizmor/pull/2145) on [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) (1 week ago)
-- [Readme: document missing inputs](https://github.com/zizmorcore/zizmor-action/pull/130) on [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) (1 week ago)
-- [fix build](https://github.com/phpstan/phpstan-src/pull/5908) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [redaxo/core](https://github.com/redaxo/core) - [5.21.2](https://github.com/redaxo/core/releases/tag/5.21.2) (today)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.5.0](https://github.com/CuyZ/Valinor/releases/tag/2.5.0) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) - [0.34.0](https://github.com/infection/infection/releases/tag/0.34.0) (1 day ago)
 - [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) - [v0.43.0](https://github.com/bitExpert/phpstan-magento/releases/tag/v0.43.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.2.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.1) (2 weeks ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.12.0](https://github.com/symplify/phpstan-rules/releases/tag/14.12.0) (2 weeks ago)
 - [ecsphp/ecs](https://github.com/ecsphp/ecs) - [13.2.2](https://github.com/ecsphp/ecs/releases/tag/13.2.2) (2 weeks ago)
-- [composer/pcre](https://github.com/composer/pcre) - [3.4.0](https://github.com/composer/pcre/releases/tag/3.4.0) (2 weeks ago)
