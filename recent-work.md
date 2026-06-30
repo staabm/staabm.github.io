@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
-- [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) (6 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (6 days ago)
-- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (6 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (6 days ago)
+- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (6 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (6 days ago)
+- [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) (6 days ago)
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) (1 week ago)
-- [php/web-php](https://github.com/php/web-php) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix build with latest PHPStan](https://github.com/staabm/phpstan-dba/pull/791) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Implement DbSchemaResultCacheMetaExtension](https://github.com/staabm/phpstan-dba/pull/790) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Upload coverage report artifacts](https://github.com/phpstan/phpstan-src/pull/5950) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix PHPUnit &#34;incomplete version requirement&#34; warning](https://github.com/phpstan/phpstan-src/pull/5949) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Setup GitHub native coverage report](https://github.com/phpstan/phpstan-src/pull/5948) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Fix build on PHPStan 2.2.3](https://github.com/phpstan/phpstan-doctrine/pull/773) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (6 days ago)
 - [Narrow to non-empty-string via `Strings::length`](https://github.com/phpstan/phpstan-nette/pull/207) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (6 days ago)
 - [Fix build on PHPStan 2.2.3](https://github.com/phpstan/phpstan-nette/pull/206) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (6 days ago)
-- [Fix build on PHPStan 2.2.3](https://github.com/phpstan/phpstan-dibi/pull/67) on [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (6 days ago)
-- [docs: utilize `$default-branch` variable](https://github.com/zizmorcore/zizmor/pull/2145) on [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
