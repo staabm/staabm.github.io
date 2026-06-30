@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.3](https://github.com/phpstan/phpstan/releases/tag/2.2.3) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.5](https://github.com/staabm/phpstan-dba/releases/tag/0.4.5) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.2.2](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.2) (1 day ago)
 - [redaxo/core](https://github.com/redaxo/core) - [5.21.2](https://github.com/redaxo/core/releases/tag/5.21.2) (1 day ago)
@@ -68,4 +69,3 @@
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.11](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.11) (5 days ago)
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) - [v1.4.7](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.7) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.0.20](https://github.com/phpstan/phpstan-symfony/releases/tag/2.0.20) (2 weeks ago)
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.12.0](https://github.com/symplify/phpstan-rules/releases/tag/14.12.0) (2 weeks ago)
