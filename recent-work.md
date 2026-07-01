@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [infection/infection](https://github.com/infection/infection) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
-- [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) (1 week ago)
 - [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (1 week ago)
+- [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) (1 week ago)
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (1 week ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update shipmonk/dead-code-detector](https://github.com/infection/infection/pull/3311) on [infection/infection](https://github.com/infection/infection) (today)
+- [Fix `make download-coverage` for bot PRs](https://github.com/phpstan/phpstan-src/pull/5960) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Remove accidental committed file](https://github.com/phpstan/phpstan-nette/pull/208) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
 - [Fix &#34;Reflector not initialized&#34; in DbSchemaResultCacheMetaExtension](https://github.com/staabm/phpstan-dba/pull/792) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Fix build with latest PHPStan](https://github.com/staabm/phpstan-dba/pull/791) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Implement DbSchemaResultCacheMetaExtension](https://github.com/staabm/phpstan-dba/pull/790) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
@@ -52,13 +55,12 @@
 - [Faster `VerbosityLevel`](https://github.com/phpstan/phpstan-src/pull/5932) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Utilize `BleedingEdgeToggle::withBleedingEdge` to simplify another test](https://github.com/phpstan/phpstan-src/pull/5931) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Utilize `BleedingEdgeToggle::withBleedingEdge` to simplify test](https://github.com/phpstan/phpstan-src/pull/5930) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Fix build on PHPStan 2.2.3](https://github.com/bitExpert/phpstan-magento/pull/351) on [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) (1 week ago)
-- [Fix build on PHPStan 2.2.3](https://github.com/phpstan/phpstan-doctrine/pull/773) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
-- [Narrow to non-empty-string via `Strings::length`](https://github.com/phpstan/phpstan-nette/pull/207) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.11](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.11) (today)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.17](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.17) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.24](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.24) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.3](https://github.com/phpstan/phpstan/releases/tag/2.2.3) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.5](https://github.com/staabm/phpstan-dba/releases/tag/0.4.5) (1 day ago)
@@ -67,5 +69,3 @@
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.5.0](https://github.com/CuyZ/Valinor/releases/tag/2.5.0) (3 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.34.0](https://github.com/infection/infection/releases/tag/0.34.0) (3 days ago)
 - [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) - [v0.43.0](https://github.com/bitExpert/phpstan-magento/releases/tag/v0.43.0) (3 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.11](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.11) (6 days ago)
-- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) - [v1.4.7](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.7) (1 week ago)
