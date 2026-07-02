@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
-- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (1 week ago)
-- [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
+- [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) (1 week ago)
+- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Reduce memory_limit](https://github.com/phpstan/phpstan-src/pull/5971) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Fix &#34;False positive staticMethod.alreadyNarrowedType for Strings::length() inside numeric comparison&#34;](https://github.com/phpstan/phpstan-nette/pull/210) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
+- [update phpstan/nette](https://github.com/phpstan/phpstan-src/pull/5970) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update shipmonk/dead-code-detector](https://github.com/infection/infection/pull/3311) on [infection/infection](https://github.com/infection/infection) (1 day ago)
 - [Fix `make download-coverage` for bot PRs](https://github.com/phpstan/phpstan-src/pull/5960) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Remove accidental committed file](https://github.com/phpstan/phpstan-nette/pull/208) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
@@ -52,9 +55,6 @@
 - [Allow PHP 8.6-nightly](https://github.com/phpstan/phpstan-src/pull/5942) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Faster TypeCombinator](https://github.com/phpstan/phpstan-src/pull/5934) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Check `#[RequiresPhpunit]` in the same way we check `#[RequiresPhp]`](https://github.com/phpstan/phpstan-phpunit/pull/308) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
-- [Faster `VerbosityLevel`](https://github.com/phpstan/phpstan-src/pull/5932) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Utilize `BleedingEdgeToggle::withBleedingEdge` to simplify another test](https://github.com/phpstan/phpstan-src/pull/5931) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Utilize `BleedingEdgeToggle::withBleedingEdge` to simplify test](https://github.com/phpstan/phpstan-src/pull/5930) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
