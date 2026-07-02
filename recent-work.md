@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix Pgsql support with DbSchemaResultCacheMetaExtension](https://github.com/staabm/phpstan-dba/pull/794) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [update phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-src/pull/5972) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Reduce memory_limit](https://github.com/phpstan/phpstan-src/pull/5971) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix &#34;False positive staticMethod.alreadyNarrowedType for Strings::length() inside numeric comparison&#34;](https://github.com/phpstan/phpstan-nette/pull/210) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (today)
@@ -54,7 +55,6 @@
 - [Fix PHPUnit &#34;incomplete version requirement&#34; warning](https://github.com/phpstan/phpstan-src/pull/5949) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Setup GitHub native coverage report](https://github.com/phpstan/phpstan-src/pull/5948) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Allow PHP 8.6-nightly](https://github.com/phpstan/phpstan-src/pull/5942) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Faster TypeCombinator](https://github.com/phpstan/phpstan-src/pull/5934) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
