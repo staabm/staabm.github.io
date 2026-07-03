@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (1 day ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 day ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [infection/infection](https://github.com/infection/infection) (2 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
+- [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) (1 week ago)
 - [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (1 week ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.6](https://github.com/staabm/phpstan-dba/releases/tag/0.4.6) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.4](https://github.com/phpstan/phpstan/releases/tag/2.2.4) (today)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.12](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.12) (1 day ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.17](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.17) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.24](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.24) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.3](https://github.com/phpstan/phpstan/releases/tag/2.2.3) (3 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.5](https://github.com/staabm/phpstan-dba/releases/tag/0.4.5) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.2.2](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.2) (4 days ago)
 - [redaxo/core](https://github.com/redaxo/core) - [5.21.2](https://github.com/redaxo/core/releases/tag/5.21.2) (4 days ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.5.0](https://github.com/CuyZ/Valinor/releases/tag/2.5.0) (5 days ago)
