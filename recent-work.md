@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix CS](https://github.com/phpstan/phpstan-src/pull/5990) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix Pgsql support with DbSchemaResultCacheMetaExtension](https://github.com/staabm/phpstan-dba/pull/794) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [update phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-src/pull/5972) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Reduce memory_limit](https://github.com/phpstan/phpstan-src/pull/5971) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Upload coverage report artifacts](https://github.com/phpstan/phpstan-src/pull/5950) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Fix PHPUnit &#34;incomplete version requirement&#34; warning](https://github.com/phpstan/phpstan-src/pull/5949) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Setup GitHub native coverage report](https://github.com/phpstan/phpstan-src/pull/5948) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Allow PHP 8.6-nightly](https://github.com/phpstan/phpstan-src/pull/5942) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
