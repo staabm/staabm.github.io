@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.18](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.18) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.6](https://github.com/staabm/phpstan-dba/releases/tag/0.4.6) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.4](https://github.com/phpstan/phpstan/releases/tag/2.2.4) (1 day ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.12](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.12) (2 days ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.17](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.17) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.24](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.24) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.2.2](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.2) (5 days ago)
 - [redaxo/core](https://github.com/redaxo/core) - [5.21.2](https://github.com/redaxo/core/releases/tag/5.21.2) (5 days ago)
