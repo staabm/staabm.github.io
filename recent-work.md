@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.8.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.8.0) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.18](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.18) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.6](https://github.com/staabm/phpstan-dba/releases/tag/0.4.6) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.4](https://github.com/phpstan/phpstan/releases/tag/2.2.4) (1 day ago)
@@ -68,4 +69,3 @@
 - [redaxo/core](https://github.com/redaxo/core) - [5.21.2](https://github.com/redaxo/core/releases/tag/5.21.2) (5 days ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.5.0](https://github.com/CuyZ/Valinor/releases/tag/2.5.0) (6 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.34.0](https://github.com/infection/infection/releases/tag/0.34.0) (6 days ago)
-- [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) - [v0.43.0](https://github.com/bitExpert/phpstan-magento/releases/tag/v0.43.0) (6 days ago)
