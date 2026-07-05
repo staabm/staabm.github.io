@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (3 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (3 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Cache ObjectType instead of re-creating it over and over](https://github.com/phpstan/phpstan-src/pull/6006) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [AttributeVersionRequirementHelper: add defaults to bool parameters](https://github.com/phpstan/phpstan-phpunit/pull/312) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
 - [Fix CS](https://github.com/phpstan/phpstan-src/pull/5990) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix Pgsql support with DbSchemaResultCacheMetaExtension](https://github.com/staabm/phpstan-dba/pull/794) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
@@ -54,7 +55,6 @@
 - [Fix build with latest PHPStan](https://github.com/staabm/phpstan-dba/pull/791) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [Implement DbSchemaResultCacheMetaExtension](https://github.com/staabm/phpstan-dba/pull/790) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [Upload coverage report artifacts](https://github.com/phpstan/phpstan-src/pull/5950) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Fix PHPUnit &#34;incomplete version requirement&#34; warning](https://github.com/phpstan/phpstan-src/pull/5949) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
