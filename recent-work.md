@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (4 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (4 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (4 days ago)
 - [infection/infection](https://github.com/infection/infection) (5 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
+- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (1 week ago)
 - [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) (1 week ago)
 
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [AttributeVersionRequirementHelper: Improve error messages](https://github.com/phpstan/phpstan-phpunit/pull/316) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [Utilize ConfiguredPhpVersionRangeHelper](https://github.com/phpstan/phpstan-src/pull/6017) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [ConfiguredPhpVersionRangeHelper no longer final](https://github.com/phpstan/phpstan-src/pull/6016) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix PHPVersion based checks](https://github.com/phpstan/phpstan-phpunit/pull/315) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
@@ -54,11 +55,11 @@
 - [update phpstan/nette](https://github.com/phpstan/phpstan-src/pull/5970) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Update shipmonk/dead-code-detector](https://github.com/infection/infection/pull/3311) on [infection/infection](https://github.com/infection/infection) (5 days ago)
 - [Fix `make download-coverage` for bot PRs](https://github.com/phpstan/phpstan-src/pull/5960) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Remove accidental committed file](https://github.com/phpstan/phpstan-nette/pull/208) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.25](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.25) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.2.3](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.2.3) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.2.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.3) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.5](https://github.com/phpstan/phpstan/releases/tag/2.2.5) (1 day ago)
@@ -66,6 +67,5 @@
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.18](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.18) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.6](https://github.com/staabm/phpstan-dba/releases/tag/0.4.6) (3 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.12](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.12) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.24](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.24) (5 days ago)
 - [redaxo/core](https://github.com/redaxo/core) - [5.21.2](https://github.com/redaxo/core/releases/tag/5.21.2) (1 week ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.5.0](https://github.com/CuyZ/Valinor/releases/tag/2.5.0) (1 week ago)
