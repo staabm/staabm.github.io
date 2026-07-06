@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (4 days ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix PHPVersion based checks](https://github.com/phpstan/phpstan-phpunit/pull/315) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
+- [Refactor: extract ConfiguredPhpVersionRangeHelper](https://github.com/phpstan/phpstan-src/pull/6014) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Cache ObjectType instead of re-creating it over and over](https://github.com/phpstan/phpstan-src/pull/6006) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [AttributeVersionRequirementHelper: add defaults to bool parameters](https://github.com/phpstan/phpstan-phpunit/pull/312) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
 - [Fix CS](https://github.com/phpstan/phpstan-src/pull/5990) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -53,8 +55,6 @@
 - [Remove accidental committed file](https://github.com/phpstan/phpstan-nette/pull/208) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (5 days ago)
 - [Fix &#34;Reflector not initialized&#34; in DbSchemaResultCacheMetaExtension](https://github.com/staabm/phpstan-dba/pull/792) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 - [Fix build with latest PHPStan](https://github.com/staabm/phpstan-dba/pull/791) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
-- [Implement DbSchemaResultCacheMetaExtension](https://github.com/staabm/phpstan-dba/pull/790) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
-- [Upload coverage report artifacts](https://github.com/phpstan/phpstan-src/pull/5950) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
