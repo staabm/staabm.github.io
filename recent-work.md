@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (6 days ago)
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [nikic/PHP-Parser: re-use parser](https://github.com/TomasVotruba/php-parser-speed-comparison-2026/pull/7) on [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (today)
+- [Disable GC in nikic/PHP-Parser](https://github.com/TomasVotruba/php-parser-speed-comparison-2026/pull/6) on [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (today)
+- [Disable zend.assertions as suggested by PHPParser](https://github.com/phpstan/phpstan-src/pull/6021) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [AttributeVersionRequirementHelper: Improve error messages](https://github.com/phpstan/phpstan-phpunit/pull/316) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
 - [Utilize ConfiguredPhpVersionRangeHelper](https://github.com/phpstan/phpstan-src/pull/6017) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [ConfiguredPhpVersionRangeHelper no longer final](https://github.com/phpstan/phpstan-src/pull/6016) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -52,18 +55,15 @@
 - [update phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-src/pull/5972) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Reduce memory_limit](https://github.com/phpstan/phpstan-src/pull/5971) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Fix &#34;False positive staticMethod.alreadyNarrowedType for Strings::length() inside numeric comparison&#34;](https://github.com/phpstan/phpstan-nette/pull/210) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (6 days ago)
-- [update phpstan/nette](https://github.com/phpstan/phpstan-src/pull/5970) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Update shipmonk/dead-code-detector](https://github.com/infection/infection/pull/3311) on [infection/infection](https://github.com/infection/infection) (1 week ago)
-- [Fix `make download-coverage` for bot PRs](https://github.com/phpstan/phpstan-src/pull/5960) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.2.4](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.4) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.3](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.3) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.12](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.12) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.25](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.25) (2 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.2.3](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.2.3) (2 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.2.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.3) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.5](https://github.com/phpstan/phpstan/releases/tag/2.2.5) (3 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.8.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.8.0) (4 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.18](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.18) (4 days ago)
