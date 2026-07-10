@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Rename Test-classes colliding with builtin classes](https://github.com/phpstan/phpstan-src/pull/6032) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [nikic/PHP-Parser: re-use parser](https://github.com/TomasVotruba/php-parser-speed-comparison-2026/pull/7) on [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (2 days ago)
 - [Disable GC in nikic/PHP-Parser](https://github.com/TomasVotruba/php-parser-speed-comparison-2026/pull/6) on [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (2 days ago)
 - [Disable zend.assertions as suggested by PHPParser](https://github.com/phpstan/phpstan-src/pull/6021) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Fix Pgsql support with DbSchemaResultCacheMetaExtension](https://github.com/staabm/phpstan-dba/pull/794) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [update phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-src/pull/5972) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Reduce memory_limit](https://github.com/phpstan/phpstan-src/pull/5971) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix &#34;False positive staticMethod.alreadyNarrowedType for Strings::length() inside numeric comparison&#34;](https://github.com/phpstan/phpstan-nette/pull/210) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
