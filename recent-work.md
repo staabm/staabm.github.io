@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.13](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.13) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.2.4](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.4) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.3](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.3) (2 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.12](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.12) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.25](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.25) (4 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.2.3](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.2.3) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.5](https://github.com/phpstan/phpstan/releases/tag/2.2.5) (5 days ago)
