@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Faster DuplicateFunctionDeclarationRule](https://github.com/phpstan/phpstan-src/pull/6039) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Faster DuplicateClassDeclarationRule](https://github.com/phpstan/phpstan-src/pull/6038) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Test caret/asterisk version operator completeness](https://github.com/sebastianbergmann/phpunit/pull/6828) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Pass thru underlying error message](https://github.com/sebastianbergmann/version-requirement/pull/15) on [sebastianbergmann/version-requirement](https://github.com/sebastianbergmann/version-requirement) (today)
@@ -54,7 +55,6 @@
 - [Utilize ConfiguredPhpVersionRangeHelper](https://github.com/phpstan/phpstan-src/pull/6017) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [ConfiguredPhpVersionRangeHelper no longer final](https://github.com/phpstan/phpstan-src/pull/6016) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Fix PHPVersion based checks](https://github.com/phpstan/phpstan-phpunit/pull/315) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
-- [Refactor: extract ConfiguredPhpVersionRangeHelper](https://github.com/phpstan/phpstan-src/pull/6014) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
