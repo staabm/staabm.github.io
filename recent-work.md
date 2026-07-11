@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Test caret/asterisk version operator completeness](https://github.com/sebastianbergmann/phpunit/pull/6828) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [Pass thru underlying error message](https://github.com/sebastianbergmann/version-requirement/pull/15) on [sebastianbergmann/version-requirement](https://github.com/sebastianbergmann/version-requirement) (today)
+- [Use sebastian/version-requirement](https://github.com/phpstan/phpstan-phpunit/pull/317) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [Fix &#39;path ... does not exist&#39; false-positive for expr containing DIRECTORY_SEPARATOR](https://github.com/phpstan/phpstan-src/pull/6035) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Remove unnecessary logic](https://github.com/mspirkov/yii2-phpstan-rules/pull/31) on [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) (1 day ago)
 - [Rename Test-classes colliding with builtin classes](https://github.com/phpstan/phpstan-src/pull/6032) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -52,9 +55,6 @@
 - [Fix PHPVersion based checks](https://github.com/phpstan/phpstan-phpunit/pull/315) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
 - [Refactor: extract ConfiguredPhpVersionRangeHelper](https://github.com/phpstan/phpstan-src/pull/6014) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Cache ObjectType instead of re-creating it over and over](https://github.com/phpstan/phpstan-src/pull/6006) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [AttributeVersionRequirementHelper: add defaults to bool parameters](https://github.com/phpstan/phpstan-phpunit/pull/312) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
-- [Fix CS](https://github.com/phpstan/phpstan-src/pull/5990) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix Pgsql support with DbSchemaResultCacheMetaExtension](https://github.com/staabm/phpstan-dba/pull/794) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
