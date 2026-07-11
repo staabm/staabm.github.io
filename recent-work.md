@@ -9,9 +9,9 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (1 week ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
+- [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (1 week ago)
 - [infection/infection](https://github.com/infection/infection) (1 week ago)
 
 
