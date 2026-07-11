@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix &#39;path ... does not exist&#39; false-positive for expr containing DIRECTORY_SEPARATOR](https://github.com/phpstan/phpstan-src/pull/6035) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Remove unnecessary logic](https://github.com/mspirkov/yii2-phpstan-rules/pull/31) on [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) (1 day ago)
 - [Rename Test-classes colliding with builtin classes](https://github.com/phpstan/phpstan-src/pull/6032) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [nikic/PHP-Parser: re-use parser](https://github.com/TomasVotruba/php-parser-speed-comparison-2026/pull/7) on [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (3 days ago)
@@ -54,7 +55,6 @@
 - [AttributeVersionRequirementHelper: add defaults to bool parameters](https://github.com/phpstan/phpstan-phpunit/pull/312) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [Fix CS](https://github.com/phpstan/phpstan-src/pull/5990) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix Pgsql support with DbSchemaResultCacheMetaExtension](https://github.com/staabm/phpstan-dba/pull/794) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [update phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-src/pull/5972) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
