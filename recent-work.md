@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
 - [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) (2 days ago)
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) (3 days ago)
@@ -40,7 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Memoize ExprHandler dispatch in MutatingScope::resolveType()](https://github.com/phpstan/phpstan-src/pull/6040) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Replace `NodeFinder` with direct recursion in `shouldInvalidateExpression()`](https://github.com/phpstan/phpstan-src/pull/6041) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Memoize `ExprHandler` dispatch in `MutatingScope::resolveType()`](https://github.com/phpstan/phpstan-src/pull/6040) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Faster DuplicateFunctionDeclarationRule](https://github.com/phpstan/phpstan-src/pull/6039) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Faster DuplicateClassDeclarationRule](https://github.com/phpstan/phpstan-src/pull/6038) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Test caret/asterisk version operator completeness](https://github.com/sebastianbergmann/phpunit/pull/6828) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
@@ -54,7 +55,6 @@
 - [Disable zend.assertions as suggested by PHPParser](https://github.com/phpstan/phpstan-src/pull/6021) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [AttributeVersionRequirementHelper: Improve error messages](https://github.com/phpstan/phpstan-phpunit/pull/316) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
 - [Utilize ConfiguredPhpVersionRangeHelper](https://github.com/phpstan/phpstan-src/pull/6017) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [ConfiguredPhpVersionRangeHelper no longer final](https://github.com/phpstan/phpstan-src/pull/6016) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
