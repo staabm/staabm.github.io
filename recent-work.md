@@ -4,6 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
 - [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) (2 days ago)
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) (3 days ago)
@@ -12,7 +13,6 @@
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
 - [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (1 week ago)
-- [infection/infection](https://github.com/infection/infection) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) - [0.7.0](https://github.com/mspirkov/yii2-phpstan-rules/releases/tag/0.7.0) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.7](https://github.com/staabm/phpstan-dba/releases/tag/0.4.7) (2 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.13](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.13) (2 days ago)
-- [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) - [0.6.1](https://github.com/mspirkov/yii2-phpstan-rules/releases/tag/0.6.1) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.2.4](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.4) (4 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.3](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.3) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.25](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.25) (6 days ago)
