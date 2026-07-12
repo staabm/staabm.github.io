@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Return early from ClassReflection::getMethod() cache](https://github.com/phpstan/phpstan-src/pull/6043) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Replace `NodeFinder` with direct recursion in `shouldInvalidateExpression()`](https://github.com/phpstan/phpstan-src/pull/6041) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Memoize `ExprHandler` dispatch in `MutatingScope::resolveType()`](https://github.com/phpstan/phpstan-src/pull/6040) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Faster DuplicateFunctionDeclarationRule](https://github.com/phpstan/phpstan-src/pull/6039) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Disable GC in nikic/PHP-Parser](https://github.com/TomasVotruba/php-parser-speed-comparison-2026/pull/6) on [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (4 days ago)
 - [Disable zend.assertions as suggested by PHPParser](https://github.com/phpstan/phpstan-src/pull/6021) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [AttributeVersionRequirementHelper: Improve error messages](https://github.com/phpstan/phpstan-phpunit/pull/316) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
-- [Utilize ConfiguredPhpVersionRangeHelper](https://github.com/phpstan/phpstan-src/pull/6017) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
