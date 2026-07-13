@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use single global transaction per process](https://github.com/staabm/phpstan-dba/pull/798) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Return early from ClassReflection::getMethod() cache](https://github.com/phpstan/phpstan-src/pull/6043) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Replace `NodeFinder` with direct recursion in `shouldInvalidateExpression()`](https://github.com/phpstan/phpstan-src/pull/6041) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Memoize `ExprHandler` dispatch in `MutatingScope::resolveType()`](https://github.com/phpstan/phpstan-src/pull/6040) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [nikic/PHP-Parser: re-use parser](https://github.com/TomasVotruba/php-parser-speed-comparison-2026/pull/7) on [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (5 days ago)
 - [Disable GC in nikic/PHP-Parser](https://github.com/TomasVotruba/php-parser-speed-comparison-2026/pull/6) on [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (5 days ago)
 - [Disable zend.assertions as suggested by PHPParser](https://github.com/phpstan/phpstan-src/pull/6021) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [AttributeVersionRequirementHelper: Improve error messages](https://github.com/phpstan/phpstan-phpunit/pull/316) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
