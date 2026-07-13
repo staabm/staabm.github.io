@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
 - [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) (3 days ago)
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
 - [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (1 week ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Test CI Status](https://github.com/staabm/phpstan-dba/pull/799) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Use single global transaction per process](https://github.com/staabm/phpstan-dba/pull/798) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Return early from ClassReflection::getMethod() cache](https://github.com/phpstan/phpstan-src/pull/6043) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Replace `NodeFinder` with direct recursion in `shouldInvalidateExpression()`](https://github.com/phpstan/phpstan-src/pull/6041) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,14 +55,13 @@
 - [Rename Test-classes colliding with builtin classes](https://github.com/phpstan/phpstan-src/pull/6032) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [nikic/PHP-Parser: re-use parser](https://github.com/TomasVotruba/php-parser-speed-comparison-2026/pull/7) on [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (5 days ago)
 - [Disable GC in nikic/PHP-Parser](https://github.com/TomasVotruba/php-parser-speed-comparison-2026/pull/6) on [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (5 days ago)
-- [Disable zend.assertions as suggested by PHPParser](https://github.com/phpstan/phpstan-src/pull/6021) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.8](https://github.com/staabm/phpstan-dba/releases/tag/0.4.8) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.28](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.28) (today)
 - [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) - [0.7.0](https://github.com/mspirkov/yii2-phpstan-rules/releases/tag/0.7.0) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.7](https://github.com/staabm/phpstan-dba/releases/tag/0.4.7) (3 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.13](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.13) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.2.4](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.4) (5 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.3](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.3) (5 days ago)
