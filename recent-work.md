@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [GitHub Actions: Remove unnecessary command combination](https://github.com/phpstan/phpstan/pull/14955) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Test CI Status](https://github.com/staabm/phpstan-dba/pull/799) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Use single global transaction per process](https://github.com/staabm/phpstan-dba/pull/798) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Return early from ClassReflection::getMethod() cache](https://github.com/phpstan/phpstan-src/pull/6043) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Remove unnecessary logic](https://github.com/mspirkov/yii2-phpstan-rules/pull/31) on [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) (4 days ago)
 - [Rename Test-classes colliding with builtin classes](https://github.com/phpstan/phpstan-src/pull/6032) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [nikic/PHP-Parser: re-use parser](https://github.com/TomasVotruba/php-parser-speed-comparison-2026/pull/7) on [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (6 days ago)
-- [Disable GC in nikic/PHP-Parser](https://github.com/TomasVotruba/php-parser-speed-comparison-2026/pull/6) on [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
