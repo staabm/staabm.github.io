@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) (4 days ago)
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
 - [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (1 week ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix actionlint error](https://github.com/phpstan/phpstan-src/pull/6053) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix CS](https://github.com/phpstan/phpstan-src/pull/6052) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [GitHub Actions: Remove unnecessary command combination](https://github.com/phpstan/phpstan/pull/14955) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Test CI Status](https://github.com/staabm/phpstan-dba/pull/799) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
@@ -54,7 +55,6 @@
 - [Use sebastian/version-requirement](https://github.com/phpstan/phpstan-phpunit/pull/317) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
 - [Fix &#39;path ... does not exist&#39; false-positive for expr containing DIRECTORY_SEPARATOR](https://github.com/phpstan/phpstan-src/pull/6035) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Remove unnecessary logic](https://github.com/mspirkov/yii2-phpstan-rules/pull/31) on [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) (4 days ago)
-- [Rename Test-classes colliding with builtin classes](https://github.com/phpstan/phpstan-src/pull/6032) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
