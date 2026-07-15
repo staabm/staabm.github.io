@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remember valid queries while recording](https://github.com/staabm/phpstan-dba/pull/800) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Fix actionlint error](https://github.com/phpstan/phpstan-src/pull/6053) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix CS](https://github.com/phpstan/phpstan-src/pull/6052) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [GitHub Actions: Remove unnecessary command combination](https://github.com/phpstan/phpstan/pull/14955) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
@@ -54,7 +55,6 @@
 - [Pass thru underlying error message](https://github.com/sebastianbergmann/version-requirement/pull/15) on [sebastianbergmann/version-requirement](https://github.com/sebastianbergmann/version-requirement) (4 days ago)
 - [Use sebastian/version-requirement](https://github.com/phpstan/phpstan-phpunit/pull/317) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
 - [Fix &#39;path ... does not exist&#39; false-positive for expr containing DIRECTORY_SEPARATOR](https://github.com/phpstan/phpstan-src/pull/6035) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Remove unnecessary logic](https://github.com/mspirkov/yii2-phpstan-rules/pull/31) on [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
