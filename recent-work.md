@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.14](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.14) (today)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.15](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.15) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.8](https://github.com/staabm/phpstan-dba/releases/tag/0.4.8) (2 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.28](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.28) (2 days ago)
 - [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) - [0.7.0](https://github.com/mspirkov/yii2-phpstan-rules/releases/tag/0.7.0) (3 days ago)
