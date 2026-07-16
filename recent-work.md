@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix build](https://github.com/phpstan/phpstan-src/pull/6057) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Make PHPStan DI-Container available in bootstrap files](https://github.com/rectorphp/rector-src/pull/8190) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Reuse FileExcluder instances in `IgnoredError::shouldIgnore()`](https://github.com/phpstan/phpstan-src/pull/6055) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement ReflectionCacheTest](https://github.com/staabm/phpstan-dba/pull/801) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
@@ -54,7 +55,6 @@
 - [Memoize `ExprHandler` dispatch in `MutatingScope::resolveType()`](https://github.com/phpstan/phpstan-src/pull/6040) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Faster DuplicateFunctionDeclarationRule](https://github.com/phpstan/phpstan-src/pull/6039) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Faster DuplicateClassDeclarationRule](https://github.com/phpstan/phpstan-src/pull/6038) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Test caret/asterisk version operator completeness](https://github.com/sebastianbergmann/phpunit/pull/6828) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
