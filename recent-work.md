@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
-- [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) (5 days ago)
-- [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) (6 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
+- [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) (6 days ago)
+- [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (1 week ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
+- [staabm/phpstan-psr3](https://github.com/staabm/phpstan-psr3) (2 weeks ago)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,30 +40,30 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Implement ReflectionCacheTest](https://github.com/staabm/phpstan-dba/pull/801) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [Remember valid queries while recording](https://github.com/staabm/phpstan-dba/pull/800) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [Fix actionlint error](https://github.com/phpstan/phpstan-src/pull/6053) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [Fix CS](https://github.com/phpstan/phpstan-src/pull/6052) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [GitHub Actions: Remove unnecessary command combination](https://github.com/phpstan/phpstan/pull/14955) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
-- [Test CI Status](https://github.com/staabm/phpstan-dba/pull/799) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
-- [Use single global transaction per process](https://github.com/staabm/phpstan-dba/pull/798) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
-- [Return early from ClassReflection::getMethod() cache](https://github.com/phpstan/phpstan-src/pull/6043) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Replace `NodeFinder` with direct recursion in `shouldInvalidateExpression()`](https://github.com/phpstan/phpstan-src/pull/6041) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Memoize `ExprHandler` dispatch in `MutatingScope::resolveType()`](https://github.com/phpstan/phpstan-src/pull/6040) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Faster DuplicateFunctionDeclarationRule](https://github.com/phpstan/phpstan-src/pull/6039) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Faster DuplicateClassDeclarationRule](https://github.com/phpstan/phpstan-src/pull/6038) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Test caret/asterisk version operator completeness](https://github.com/sebastianbergmann/phpunit/pull/6828) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
-- [Pass thru underlying error message](https://github.com/sebastianbergmann/version-requirement/pull/15) on [sebastianbergmann/version-requirement](https://github.com/sebastianbergmann/version-requirement) (4 days ago)
-- [Use sebastian/version-requirement](https://github.com/phpstan/phpstan-phpunit/pull/317) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
+- [Implement ReflectionCacheTest](https://github.com/staabm/phpstan-dba/pull/801) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [Remember valid queries while recording](https://github.com/staabm/phpstan-dba/pull/800) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [Fix actionlint error](https://github.com/phpstan/phpstan-src/pull/6053) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [Fix CS](https://github.com/phpstan/phpstan-src/pull/6052) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [GitHub Actions: Remove unnecessary command combination](https://github.com/phpstan/phpstan/pull/14955) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
+- [Test CI Status](https://github.com/staabm/phpstan-dba/pull/799) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
+- [Use single global transaction per process](https://github.com/staabm/phpstan-dba/pull/798) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
+- [Return early from ClassReflection::getMethod() cache](https://github.com/phpstan/phpstan-src/pull/6043) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Replace `NodeFinder` with direct recursion in `shouldInvalidateExpression()`](https://github.com/phpstan/phpstan-src/pull/6041) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Memoize `ExprHandler` dispatch in `MutatingScope::resolveType()`](https://github.com/phpstan/phpstan-src/pull/6040) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Faster DuplicateFunctionDeclarationRule](https://github.com/phpstan/phpstan-src/pull/6039) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Faster DuplicateClassDeclarationRule](https://github.com/phpstan/phpstan-src/pull/6038) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Test caret/asterisk version operator completeness](https://github.com/sebastianbergmann/phpunit/pull/6828) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
+- [Pass thru underlying error message](https://github.com/sebastianbergmann/version-requirement/pull/15) on [sebastianbergmann/version-requirement](https://github.com/sebastianbergmann/version-requirement) (5 days ago)
+- [Use sebastian/version-requirement](https://github.com/phpstan/phpstan-phpunit/pull/317) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.6.0](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.6.0) (today)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.15](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.15) (today)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.8](https://github.com/staabm/phpstan-dba/releases/tag/0.4.8) (2 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.28](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.28) (2 days ago)
-- [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) - [0.7.0](https://github.com/mspirkov/yii2-phpstan-rules/releases/tag/0.7.0) (3 days ago)
+- [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.6.0](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.6.0) (1 day ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.15](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.15) (1 day ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.8](https://github.com/staabm/phpstan-dba/releases/tag/0.4.8) (3 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.28](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.28) (3 days ago)
+- [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) - [0.7.0](https://github.com/mspirkov/yii2-phpstan-rules/releases/tag/0.7.0) (4 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.2.4](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.4) (1 week ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.3](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.3) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.25](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.25) (1 week ago)
