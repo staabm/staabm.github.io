@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Make PHPStan DI-Container available in bootstrap files](https://github.com/rectorphp/rector-src/pull/8190) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
+- [Reuse FileExcluder instances in `IgnoredError::shouldIgnore()`](https://github.com/phpstan/phpstan-src/pull/6055) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Implement ReflectionCacheTest](https://github.com/staabm/phpstan-dba/pull/801) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Remember valid queries while recording](https://github.com/staabm/phpstan-dba/pull/800) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Fix actionlint error](https://github.com/phpstan/phpstan-src/pull/6053) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -53,8 +55,6 @@
 - [Faster DuplicateFunctionDeclarationRule](https://github.com/phpstan/phpstan-src/pull/6039) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Faster DuplicateClassDeclarationRule](https://github.com/phpstan/phpstan-src/pull/6038) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Test caret/asterisk version operator completeness](https://github.com/sebastianbergmann/phpunit/pull/6828) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
-- [Pass thru underlying error message](https://github.com/sebastianbergmann/version-requirement/pull/15) on [sebastianbergmann/version-requirement](https://github.com/sebastianbergmann/version-requirement) (5 days ago)
-- [Use sebastian/version-requirement](https://github.com/phpstan/phpstan-phpunit/pull/317) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
