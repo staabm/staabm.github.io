@@ -4,6 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [akunzai/MageBridgeCore](https://github.com/akunzai/MageBridgeCore) (1 day ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
@@ -12,7 +13,6 @@
 - [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) (1 week ago)
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
