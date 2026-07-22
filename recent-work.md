@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2026.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2026.2) (today)
 - [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) - [0.9.0](https://github.com/mspirkov/yii2-phpstan-rules/releases/tag/0.9.0) (3 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.12](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.12) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.9](https://github.com/staabm/phpstan-dba/releases/tag/0.4.9) (6 days ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.2.4](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.4) (2 weeks ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.3](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.3) (2 weeks ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.25](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.25) (2 weeks ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.2.3](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.2.3) (2 weeks ago)
