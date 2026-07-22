@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.72.0](https://github.com/Roave/BetterReflection/releases/tag/6.72.0) (today)
 - [ecsphp/ecs](https://github.com/ecsphp/ecs) - [13.2.15](https://github.com/ecsphp/ecs/releases/tag/13.2.15) (today)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2026.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2026.2) (today)
 - [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) - [0.9.0](https://github.com/mspirkov/yii2-phpstan-rules/releases/tag/0.9.0) (3 days ago)
@@ -68,4 +69,3 @@
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.15](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.15) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.28](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.28) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.2.4](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.4) (2 weeks ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.3](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.3) (2 weeks ago)
