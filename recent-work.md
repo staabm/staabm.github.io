@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ecsphp/ecs](https://github.com/ecsphp/ecs) - [13.2.14](https://github.com/ecsphp/ecs/releases/tag/13.2.14) (today)
+- [ecsphp/ecs](https://github.com/ecsphp/ecs) - [13.2.15](https://github.com/ecsphp/ecs/releases/tag/13.2.15) (today)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2026.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2026.2) (today)
 - [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) - [0.9.0](https://github.com/mspirkov/yii2-phpstan-rules/releases/tag/0.9.0) (3 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.12](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.12) (3 days ago)
