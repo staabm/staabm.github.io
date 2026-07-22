@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [akunzai/MageBridgeCore](https://github.com/akunzai/MageBridgeCore) (2 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix build](https://github.com/phpstan/phpstan-src/pull/6083) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Prevent reflection when Property Hooks not supported](https://github.com/phpstan/phpstan-src/pull/6082) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent unnecessary method calls on Type](https://github.com/phpstan/phpstan-src/pull/6076) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix PHPStan not using result cache](https://github.com/tempestphp/tempest-framework/pull/2234) on [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) (1 day ago)
 - [Remove maximumNumberOfProcesses limitation to keep analysis fast on modern computers.](https://github.com/akunzai/MageBridgeCore/pull/202) on [akunzai/MageBridgeCore](https://github.com/akunzai/MageBridgeCore) (2 days ago)
@@ -53,8 +55,6 @@
 - [Make PHPStan DI-Container available in bootstrap files](https://github.com/rectorphp/rector-src/pull/8190) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
 - [Reuse FileExcluder instances in `IgnoredError::shouldIgnore()`](https://github.com/phpstan/phpstan-src/pull/6055) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Implement ReflectionCacheTest](https://github.com/staabm/phpstan-dba/pull/801) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [Remember valid queries while recording](https://github.com/staabm/phpstan-dba/pull/800) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
-- [Fix actionlint error](https://github.com/phpstan/phpstan-src/pull/6053) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
