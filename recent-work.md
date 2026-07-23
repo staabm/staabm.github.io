@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use iteration over recursion in `PrettyPrinterAbstract::newOperandRequiresParens()`](https://github.com/nikic/PHP-Parser/pull/1161) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
+- [Cheap check first in `dereferenceLhsRequiresParens()`](https://github.com/nikic/PHP-Parser/pull/1160) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
 - [Iterate in `collectInterfaces()`](https://github.com/phpstan/phpstan-src/pull/6092) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Iterate in getBooleanExpressionDepth()](https://github.com/phpstan/phpstan-src/pull/6091) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/6083) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,8 +55,6 @@
 - [Remove maximumNumberOfProcesses limitation to keep analysis fast on modern computers.](https://github.com/gnikyt/Basic-Shopify-API/pull/157) on [gnikyt/Basic-Shopify-API](https://github.com/gnikyt/Basic-Shopify-API) (3 days ago)
 - [Fix PHP 7.4 build](https://github.com/phpstan/phpstan-src/pull/6068) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Fix intermittent `MissingMethodImplementationRuleTest` error](https://github.com/phpstan/phpstan-src/pull/6066) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Fix build](https://github.com/phpstan/phpstan-src/pull/6057) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Make PHPStan DI-Container available in bootstrap files](https://github.com/rectorphp/rector-src/pull/8190) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
