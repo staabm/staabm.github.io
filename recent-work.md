@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.17](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.17) (today)
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.6.1](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.6.1) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.72.0](https://github.com/Roave/BetterReflection/releases/tag/6.72.0) (2 days ago)
 - [ecsphp/ecs](https://github.com/ecsphp/ecs) - [13.2.15](https://github.com/ecsphp/ecs/releases/tag/13.2.15) (2 days ago)
@@ -66,6 +67,5 @@
 - [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) - [0.9.0](https://github.com/mspirkov/yii2-phpstan-rules/releases/tag/0.9.0) (5 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.12](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.12) (5 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.9](https://github.com/staabm/phpstan-dba/releases/tag/0.4.9) (1 week ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.15](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.15) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.28](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.28) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.2.4](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.4) (2 weeks ago)
