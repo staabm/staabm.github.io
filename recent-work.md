@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor getOffsetValueType to remove exception throw](https://github.com/erickskrauch/phpstan-yii2/pull/19) on [erickskrauch/phpstan-yii2](https://github.com/erickskrauch/phpstan-yii2) (today)
 - [Use iteration over recursion in `PrettyPrinterAbstract::newOperandRequiresParens()`](https://github.com/nikic/PHP-Parser/pull/1161) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 day ago)
 - [Cheap check first in `dereferenceLhsRequiresParens()`](https://github.com/nikic/PHP-Parser/pull/1160) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 day ago)
 - [Iterate in `collectInterfaces()`](https://github.com/phpstan/phpstan-src/pull/6092) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Remove maximumNumberOfProcesses limitation to keep analysis fast on modern computers.](https://github.com/ticgal/actualtime/pull/163) on [ticgal/actualtime](https://github.com/ticgal/actualtime) (4 days ago)
 - [Remove maximumNumberOfProcesses limitation to keep analysis fast on modern computers.](https://github.com/gnikyt/Basic-Shopify-API/pull/157) on [gnikyt/Basic-Shopify-API](https://github.com/gnikyt/Basic-Shopify-API) (4 days ago)
 - [Fix PHP 7.4 build](https://github.com/phpstan/phpstan-src/pull/6068) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Fix intermittent `MissingMethodImplementationRuleTest` error](https://github.com/phpstan/phpstan-src/pull/6066) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
