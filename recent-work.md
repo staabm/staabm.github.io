@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Disable runtime assertions](https://github.com/TomasVotruba/php-parser-speed-comparison-2026/pull/12) on [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (today)
 - [Fix &#34;ob_get_*() === false will always evaluate to false&#34; false positive](https://github.com/phpstan/phpstan-src/pull/6097) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Refactor getOffsetValueType to remove exception throw](https://github.com/erickskrauch/phpstan-yii2/pull/19) on [erickskrauch/phpstan-yii2](https://github.com/erickskrauch/phpstan-yii2) (1 day ago)
 - [Use iteration over recursion in `PrettyPrinterAbstract::newOperandRequiresParens()`](https://github.com/nikic/PHP-Parser/pull/1161) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 days ago)
@@ -54,11 +55,11 @@
 - [Remove maximumNumberOfProcesses limitation to keep analysis fast on modern computers.](https://github.com/Naugrimm/opentrans/pull/17) on [Naugrimm/opentrans](https://github.com/Naugrimm/opentrans) (5 days ago)
 - [Remove maximumNumberOfProcesses limitation to keep analysis fast on modern computers.](https://github.com/thelia/thelia/pull/3436) on [thelia/thelia](https://github.com/thelia/thelia) (5 days ago)
 - [Remove maximumNumberOfProcesses limitation to keep analysis fast on modern computers.](https://github.com/ticgal/actualtime/pull/163) on [ticgal/actualtime](https://github.com/ticgal/actualtime) (5 days ago)
-- [Remove maximumNumberOfProcesses limitation to keep analysis fast on modern computers.](https://github.com/gnikyt/Basic-Shopify-API/pull/157) on [gnikyt/Basic-Shopify-API](https://github.com/gnikyt/Basic-Shopify-API) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.2.5](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.5) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.17](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.17) (1 day ago)
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.6.1](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.6.1) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.72.0](https://github.com/Roave/BetterReflection/releases/tag/6.72.0) (3 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.12](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.12) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.9](https://github.com/staabm/phpstan-dba/releases/tag/0.4.9) (1 week ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.0.28](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.0.28) (1 week ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.2.4](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.4) (2 weeks ago)
