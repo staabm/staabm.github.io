@@ -40,7 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Prevent unnecessary getType() calls in BooleanOrHandler](https://github.com/phpstan/phpstan-src/pull/6106) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Simplify `AccessoryArrayListType`](https://github.com/phpstan/phpstan-src/pull/6107) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Remove unnecessary work in `BooleanOrHandler`](https://github.com/phpstan/phpstan-src/pull/6106) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Iterative NullsafeOperatorHelper](https://github.com/phpstan/phpstan-src/pull/6105) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Skip scope type lookup for expressions without nullsafe operators](https://github.com/phpstan/phpstan-src/pull/6104) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent duplicate `filterByTruthyValue()` work in `NodeScopeResolver`](https://github.com/phpstan/phpstan-src/pull/6103) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
@@ -54,7 +55,6 @@
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/6083) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Prevent reflection when Property Hooks not supported](https://github.com/phpstan/phpstan-src/pull/6082) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Prevent unnecessary method calls on Type](https://github.com/phpstan/phpstan-src/pull/6076) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Fix PHPStan not using result cache](https://github.com/tempestphp/tempest-framework/pull/2234) on [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
