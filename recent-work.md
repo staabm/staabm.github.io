@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent duplicate `filterByTruthyValue()` work in `NodeScopeResolver`](https://github.com/phpstan/phpstan-src/pull/6103) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Disable runtime assertions](https://github.com/TomasVotruba/php-parser-speed-comparison-2026/pull/12) on [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (1 day ago)
 - [Fix &#34;ob_get_*() === false will always evaluate to false&#34; false positive](https://github.com/phpstan/phpstan-src/pull/6097) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Refactor getOffsetValueType to remove exception throw](https://github.com/erickskrauch/phpstan-yii2/pull/19) on [erickskrauch/phpstan-yii2](https://github.com/erickskrauch/phpstan-yii2) (2 days ago)
@@ -54,7 +55,6 @@
 - [Remove maximumNumberOfProcesses limitation to keep analysis fast on modern computers.](https://github.com/akunzai/MageBridgeCore/pull/202) on [akunzai/MageBridgeCore](https://github.com/akunzai/MageBridgeCore) (6 days ago)
 - [Remove maximumNumberOfProcesses limitation to keep analysis fast on modern computers.](https://github.com/Naugrimm/opentrans/pull/17) on [Naugrimm/opentrans](https://github.com/Naugrimm/opentrans) (6 days ago)
 - [Remove maximumNumberOfProcesses limitation to keep analysis fast on modern computers.](https://github.com/thelia/thelia/pull/3436) on [thelia/thelia](https://github.com/thelia/thelia) (6 days ago)
-- [Remove maximumNumberOfProcesses limitation to keep analysis fast on modern computers.](https://github.com/ticgal/actualtime/pull/163) on [ticgal/actualtime](https://github.com/ticgal/actualtime) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
