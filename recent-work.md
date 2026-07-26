@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Iterative NullsafeOperatorHelper](https://github.com/phpstan/phpstan-src/pull/6105) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Skip scope type lookup for expressions without nullsafe operators](https://github.com/phpstan/phpstan-src/pull/6104) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Prevent duplicate `filterByTruthyValue()` work in `NodeScopeResolver`](https://github.com/phpstan/phpstan-src/pull/6103) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Disable runtime assertions](https://github.com/TomasVotruba/php-parser-speed-comparison-2026/pull/12) on [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (1 day ago)
 - [Fix &#34;ob_get_*() === false will always evaluate to false&#34; false positive](https://github.com/phpstan/phpstan-src/pull/6097) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -53,8 +55,6 @@
 - [Prevent unnecessary method calls on Type](https://github.com/phpstan/phpstan-src/pull/6076) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Fix PHPStan not using result cache](https://github.com/tempestphp/tempest-framework/pull/2234) on [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) (5 days ago)
 - [Remove maximumNumberOfProcesses limitation to keep analysis fast on modern computers.](https://github.com/akunzai/MageBridgeCore/pull/202) on [akunzai/MageBridgeCore](https://github.com/akunzai/MageBridgeCore) (6 days ago)
-- [Remove maximumNumberOfProcesses limitation to keep analysis fast on modern computers.](https://github.com/Naugrimm/opentrans/pull/17) on [Naugrimm/opentrans](https://github.com/Naugrimm/opentrans) (6 days ago)
-- [Remove maximumNumberOfProcesses limitation to keep analysis fast on modern computers.](https://github.com/thelia/thelia/pull/3436) on [thelia/thelia](https://github.com/thelia/thelia) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
