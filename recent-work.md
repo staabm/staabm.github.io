@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (3 days ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [akunzai/MageBridgeCore](https://github.com/akunzai/MageBridgeCore) (1 week ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)
 - [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) (2 weeks ago)
-- [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -26,6 +26,7 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/staabm) (thank you!)
 
+- [pavel-rossinsky](https://github.com/pavel-rossinsky) (today)
 - [saibotk](https://github.com/saibotk) (5 months ago)
 - [JetBrainsOfficial](https://github.com/JetBrainsOfficial) (9 months ago)
 - [passbolt](https://github.com/passbolt) (1 year ago)
@@ -35,7 +36,6 @@
 - [oliverklee](https://github.com/oliverklee) (2 years ago)
 - [TicketSwap](https://github.com/TicketSwap) (2 years ago)
 - [brotkrueml](https://github.com/brotkrueml) (2 years ago)
-- [eliashaeussler](https://github.com/eliashaeussler) (2 years ago)
 
 
 #### 🔨 My recent Pull Requests
@@ -59,6 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.5](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.5) (today)
+- [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - [v3.17.0](https://github.com/tempestphp/tempest-framework/releases/tag/v3.17.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.6](https://github.com/phpstan/phpstan/releases/tag/2.2.6) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.2.5](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.5) (2 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.17](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.17) (3 days ago)
@@ -67,5 +69,3 @@
 - [ecsphp/ecs](https://github.com/ecsphp/ecs) - [13.2.15](https://github.com/ecsphp/ecs/releases/tag/13.2.15) (5 days ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2026.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2026.2) (5 days ago)
 - [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) - [0.9.0](https://github.com/mspirkov/yii2-phpstan-rules/releases/tag/0.9.0) (1 week ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.0.12](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.0.12) (1 week ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.9](https://github.com/staabm/phpstan-dba/releases/tag/0.4.9) (1 week ago)
