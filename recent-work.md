@@ -59,6 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [infection/infection](https://github.com/infection/infection) - [0.34.1](https://github.com/infection/infection/releases/tag/0.34.1) (today)
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.5.1](https://github.com/CuyZ/Valinor/releases/tag/2.5.1) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.2.6](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.6) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.23.1](https://github.com/paratestphp/paratest/releases/tag/v7.23.1) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.34](https://github.com/phpstan/phpstan/releases/tag/1.12.34) (today)
@@ -67,5 +69,3 @@
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - [v3.17.0](https://github.com/tempestphp/tempest-framework/releases/tag/v3.17.0) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.17](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.17) (4 days ago)
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.6.1](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.6.1) (5 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.72.0](https://github.com/Roave/BetterReflection/releases/tag/6.72.0) (6 days ago)
-- [ecsphp/ecs](https://github.com/ecsphp/ecs) - [13.2.15](https://github.com/ecsphp/ecs/releases/tag/13.2.15) (6 days ago)
