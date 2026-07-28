@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (4 days ago)
 - [akunzai/MageBridgeCore](https://github.com/akunzai/MageBridgeCore) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Check `bench/data` files with RequiredPhpVersionCommentTest](https://github.com/phpstan/phpstan-src/pull/6122) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Prevent unnecessary re-creation of benevolent union types](https://github.com/phpstan/phpstan-src/pull/6119) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Prevent unnecessary re-creation of union types](https://github.com/phpstan/phpstan-src/pull/6117) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify `AccessoryArrayListType`](https://github.com/phpstan/phpstan-src/pull/6107) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Remove unnecessary work in `BooleanOrHandler`](https://github.com/phpstan/phpstan-src/pull/6106) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Iterative NullsafeOperatorHelper](https://github.com/phpstan/phpstan-src/pull/6105) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -52,20 +55,17 @@
 - [Cheap check first in `dereferenceLhsRequiresParens()`](https://github.com/nikic/PHP-Parser/pull/1160) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (5 days ago)
 - [Iterate in `collectInterfaces()`](https://github.com/phpstan/phpstan-src/pull/6092) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Iterate in getBooleanExpressionDepth()](https://github.com/phpstan/phpstan-src/pull/6091) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Fix build](https://github.com/phpstan/phpstan-src/pull/6083) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Prevent reflection when Property Hooks not supported](https://github.com/phpstan/phpstan-src/pull/6082) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Prevent unnecessary method calls on Type](https://github.com/phpstan/phpstan-src/pull/6076) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.2.6](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.6) (today)
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.23.1](https://github.com/paratestphp/paratest/releases/tag/v7.23.1) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [1.12.34](https://github.com/phpstan/phpstan/releases/tag/1.12.34) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.26](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.26) (1 day ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.5](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.5) (1 day ago)
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - [v3.17.0](https://github.com/tempestphp/tempest-framework/releases/tag/v3.17.0) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.6](https://github.com/phpstan/phpstan/releases/tag/2.2.6) (2 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.2.5](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.5) (3 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.17](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.17) (4 days ago)
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.6.1](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.6.1) (5 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.72.0](https://github.com/Roave/BetterReflection/releases/tag/6.72.0) (6 days ago)
 - [ecsphp/ecs](https://github.com/ecsphp/ecs) - [13.2.15](https://github.com/ecsphp/ecs/releases/tag/13.2.15) (6 days ago)
-- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2026.2](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2026.2) (6 days ago)
