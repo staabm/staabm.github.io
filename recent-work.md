@@ -3,14 +3,14 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) (3 days ago)
 - [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (6 days ago)
 - [akunzai/MageBridgeCore](https://github.com/akunzai/MageBridgeCore) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update rector-src integration tests / fixes build](https://github.com/phpstan/phpstan/pull/15024) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Check `bench/data` files with RequiredPhpVersionCommentTest](https://github.com/phpstan/phpstan-src/pull/6122) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Prevent unnecessary re-creation of benevolent union types](https://github.com/phpstan/phpstan-src/pull/6119) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Prevent unnecessary re-creation of union types](https://github.com/phpstan/phpstan-src/pull/6117) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,18 +55,17 @@
 - [Use iteration over recursion in `PrettyPrinterAbstract::newOperandRequiresParens()`](https://github.com/nikic/PHP-Parser/pull/1161) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
 - [Cheap check first in `dereferenceLhsRequiresParens()`](https://github.com/nikic/PHP-Parser/pull/1160) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
 - [Iterate in `collectInterfaces()`](https://github.com/phpstan/phpstan-src/pull/6092) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Iterate in getBooleanExpressionDepth()](https://github.com/phpstan/phpstan-src/pull/6091) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.2.4](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.2.4) (today)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.18](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.18) (today)
+- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) - [2.2.0](https://github.com/rectorphp/type-perfect/releases/tag/2.2.0) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.27](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.27) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.7](https://github.com/phpstan/phpstan/releases/tag/2.2.7) (1 day ago)
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - [v3.18.0](https://github.com/tempestphp/tempest-framework/releases/tag/v3.18.0) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) - [0.34.1](https://github.com/infection/infection/releases/tag/0.34.1) (2 days ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.5.1](https://github.com/CuyZ/Valinor/releases/tag/2.5.1) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.2.6](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.6) (2 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.23.1](https://github.com/paratestphp/paratest/releases/tag/v7.23.1) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.26](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.26) (3 days ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.5](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.5) (3 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.17](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.17) (6 days ago)
-- [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.6.1](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.6.1) (1 week ago)
