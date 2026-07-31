@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) (4 days ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Faster handling of enums with lots of cases](https://github.com/phpstan/phpstan-src/pull/6160) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Improve `#[InstanceofDeprecated]` message of EnumCaseObjectType](https://github.com/phpstan/phpstan-src/pull/6159) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update rector-src integration tests / fixes build](https://github.com/phpstan/phpstan/pull/15024) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [Check `bench/data` files with RequiredPhpVersionCommentTest](https://github.com/phpstan/phpstan-src/pull/6122) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Prevent unnecessary re-creation of benevolent union types](https://github.com/phpstan/phpstan-src/pull/6119) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -53,8 +55,6 @@
 - [Fix &#34;ob_get_*() === false will always evaluate to false&#34; false positive](https://github.com/phpstan/phpstan-src/pull/6097) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Refactor getOffsetValueType to remove exception throw](https://github.com/erickskrauch/phpstan-yii2/pull/19) on [erickskrauch/phpstan-yii2](https://github.com/erickskrauch/phpstan-yii2) (1 week ago)
 - [Use iteration over recursion in `PrettyPrinterAbstract::newOperandRequiresParens()`](https://github.com/nikic/PHP-Parser/pull/1161) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
-- [Cheap check first in `dereferenceLhsRequiresParens()`](https://github.com/nikic/PHP-Parser/pull/1160) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
-- [Iterate in `collectInterfaces()`](https://github.com/phpstan/phpstan-src/pull/6092) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
