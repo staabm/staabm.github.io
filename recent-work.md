@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) - [0.10.0](https://github.com/mspirkov/yii2-phpstan-rules/releases/tag/0.10.0) (today)
+- [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) - [0.10.1](https://github.com/mspirkov/yii2-phpstan-rules/releases/tag/0.10.1) (today)
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.6.2](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.6.2) (1 day ago)
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - [5.0.1](https://github.com/sebastianbergmann/cli-parser/releases/tag/5.0.1) (1 day ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.2.4](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.2.4) (3 days ago)
