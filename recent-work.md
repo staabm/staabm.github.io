@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update phpbench baseline(s)](https://github.com/phpstan/phpstan-src/pull/6176) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Faster handling of enums with lots of cases](https://github.com/phpstan/phpstan-src/pull/6160) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Improve `#[InstanceofDeprecated]` message of EnumCaseObjectType](https://github.com/phpstan/phpstan-src/pull/6159) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Update rector-src integration tests / fixes build](https://github.com/phpstan/phpstan/pull/15024) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
@@ -54,12 +55,11 @@
 - [Disable runtime assertions](https://github.com/TomasVotruba/php-parser-speed-comparison-2026/pull/12) on [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (1 week ago)
 - [Fix &#34;ob_get_*() === false will always evaluate to false&#34; false positive](https://github.com/phpstan/phpstan-src/pull/6097) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Refactor getOffsetValueType to remove exception throw](https://github.com/erickskrauch/phpstan-yii2/pull/19) on [erickskrauch/phpstan-yii2](https://github.com/erickskrauch/phpstan-yii2) (1 week ago)
-- [Use iteration over recursion in `PrettyPrinterAbstract::newOperandRequiresParens()`](https://github.com/nikic/PHP-Parser/pull/1161) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) - [0.10.1](https://github.com/mspirkov/yii2-phpstan-rules/releases/tag/0.10.1) (1 day ago)
+- [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) - [0.11.0](https://github.com/mspirkov/yii2-phpstan-rules/releases/tag/0.11.0) (today)
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.6.2](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.6.2) (2 days ago)
 - [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - [5.0.1](https://github.com/sebastianbergmann/cli-parser/releases/tag/5.0.1) (2 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.2.4](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.2.4) (4 days ago)
