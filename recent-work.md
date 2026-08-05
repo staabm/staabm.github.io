@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix phpdoc](https://github.com/ondrejmirtes/BetterReflection/pull/43) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (today)
 - [Update phpbench baseline(s)](https://github.com/phpstan/phpstan-src/pull/6176) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Faster handling of enums with lots of cases](https://github.com/phpstan/phpstan-src/pull/6160) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Improve `#[InstanceofDeprecated]` message of EnumCaseObjectType](https://github.com/phpstan/phpstan-src/pull/6159) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
@@ -54,7 +55,6 @@
 - [Prevent duplicate `filterByTruthyValue()` work in `NodeScopeResolver`](https://github.com/phpstan/phpstan-src/pull/6103) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Disable runtime assertions](https://github.com/TomasVotruba/php-parser-speed-comparison-2026/pull/12) on [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (1 week ago)
 - [Fix &#34;ob_get_*() === false will always evaluate to false&#34; false positive](https://github.com/phpstan/phpstan-src/pull/6097) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Refactor getOffsetValueType to remove exception throw](https://github.com/erickskrauch/phpstan-yii2/pull/19) on [erickskrauch/phpstan-yii2](https://github.com/erickskrauch/phpstan-yii2) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
