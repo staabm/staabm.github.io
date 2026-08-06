@@ -3,21 +3,21 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) (1 week ago)
 - [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (1 week ago)
 - [akunzai/MageBridgeCore](https://github.com/akunzai/MageBridgeCore) (2 weeks ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 weeks ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
 
-- [Automate the process to find a regression commit](https://staabm.github.io/2026/02/07/git-bisect-run.html) (5 months ago)
+- [Automate the process to find a regression commit](https://staabm.github.io/2026/02/07/git-bisect-run.html) (6 months ago)
 - [PHPStan on steroids](https://staabm.github.io/2026/01/25/phpstan-on-steroids.html) (6 months ago)
 - [Speedup PHPUnit code coverage generation](https://staabm.github.io/2025/11/26/speedup-phpunit-code-coverage.html) (8 months ago)
 - [New and noteworthy: PHPStan and PHPUnit integration](https://staabm.github.io/2025/11/15/phpstan-validates-phpunit-data-provider.html) (8 months ago)
@@ -40,32 +40,32 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix phpdoc](https://github.com/ondrejmirtes/BetterReflection/pull/43) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (today)
-- [Update phpbench baseline(s)](https://github.com/phpstan/phpstan-src/pull/6176) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Faster handling of enums with lots of cases](https://github.com/phpstan/phpstan-src/pull/6160) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Improve `#[InstanceofDeprecated]` message of EnumCaseObjectType](https://github.com/phpstan/phpstan-src/pull/6159) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Update rector-src integration tests / fixes build](https://github.com/phpstan/phpstan/pull/15024) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
+- [configure: disable Apple clang size optimizations that hurt runtime speed](https://github.com/php/php-src/pull/23080) on [php/php-src](https://github.com/php/php-src) (today)
+- [End-to-End tests: Support different php versions per case](https://github.com/phpstan/phpstan-src/pull/6186) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Update rector-src integration tests / fixes build](https://github.com/phpstan/phpstan/pull/15054) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [Update shipmonk-rnd/dead-code-detector to fix integration tests](https://github.com/phpstan/phpstan/pull/15053) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [Revert &#34;fix build (#113)&#34;](https://github.com/phpstan/extension-installer/pull/115) on [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (today)
+- [improve build fix](https://github.com/phpstan/extension-installer/pull/114) on [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (today)
+- [fix build](https://github.com/phpstan/extension-installer/pull/113) on [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (today)
+- [Fix phpdoc](https://github.com/ondrejmirtes/BetterReflection/pull/43) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (1 day ago)
+- [Update phpbench baseline(s)](https://github.com/phpstan/phpstan-src/pull/6176) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Faster handling of enums with lots of cases](https://github.com/phpstan/phpstan-src/pull/6160) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Improve `#[InstanceofDeprecated]` message of EnumCaseObjectType](https://github.com/phpstan/phpstan-src/pull/6159) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Update rector-src integration tests / fixes build](https://github.com/phpstan/phpstan/pull/15024) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [Check `bench/data` files with RequiredPhpVersionCommentTest](https://github.com/phpstan/phpstan-src/pull/6122) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Prevent unnecessary re-creation of benevolent union types](https://github.com/phpstan/phpstan-src/pull/6119) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Prevent unnecessary re-creation of union types](https://github.com/phpstan/phpstan-src/pull/6117) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Simplify `AccessoryArrayListType`](https://github.com/phpstan/phpstan-src/pull/6107) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Remove unnecessary work in `BooleanOrHandler`](https://github.com/phpstan/phpstan-src/pull/6106) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Iterative NullsafeOperatorHelper](https://github.com/phpstan/phpstan-src/pull/6105) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Skip scope type lookup for expressions without nullsafe operators](https://github.com/phpstan/phpstan-src/pull/6104) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Prevent duplicate `filterByTruthyValue()` work in `NodeScopeResolver`](https://github.com/phpstan/phpstan-src/pull/6103) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Disable runtime assertions](https://github.com/TomasVotruba/php-parser-speed-comparison-2026/pull/12) on [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (1 week ago)
-- [Fix &#34;ob_get_*() === false will always evaluate to false&#34; false positive](https://github.com/phpstan/phpstan-src/pull/6097) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.8](https://github.com/phpstan/phpstan/releases/tag/2.2.8) (1 day ago)
-- [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) - [0.11.0](https://github.com/mspirkov/yii2-phpstan-rules/releases/tag/0.11.0) (2 days ago)
-- [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.6.2](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.6.2) (4 days ago)
-- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - [5.0.1](https://github.com/sebastianbergmann/cli-parser/releases/tag/5.0.1) (4 days ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.2.4](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.2.4) (6 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.18](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.18) (6 days ago)
-- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) - [2.2.0](https://github.com/rectorphp/type-perfect/releases/tag/2.2.0) (6 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.27](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.27) (6 days ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.3.5](https://github.com/staabm/phpstan-todo-by/releases/tag/0.3.5) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.8](https://github.com/phpstan/phpstan/releases/tag/2.2.8) (2 days ago)
+- [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) - [0.11.0](https://github.com/mspirkov/yii2-phpstan-rules/releases/tag/0.11.0) (3 days ago)
+- [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.6.2](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.6.2) (5 days ago)
+- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - [5.0.1](https://github.com/sebastianbergmann/cli-parser/releases/tag/5.0.1) (5 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.2.4](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.2.4) (1 week ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.18](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.18) (1 week ago)
+- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) - [2.2.0](https://github.com/rectorphp/type-perfect/releases/tag/2.2.0) (1 week ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.27](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.27) (1 week ago)
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - [v3.18.0](https://github.com/tempestphp/tempest-framework/releases/tag/v3.18.0) (1 week ago)
-- [infection/infection](https://github.com/infection/infection) - [0.34.1](https://github.com/infection/infection/releases/tag/0.34.1) (1 week ago)
