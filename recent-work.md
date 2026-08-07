@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) (1 week ago)
 - [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (2 weeks ago)
@@ -59,6 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.28](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.28) (today)
+- [infection/infection](https://github.com/infection/infection) - [0.34.2](https://github.com/infection/infection/releases/tag/0.34.2) (today)
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.24.0](https://github.com/paratestphp/paratest/releases/tag/v7.24.0) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.3.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.0) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.3.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.0) (today)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.4.0](https://github.com/sebastianbergmann/comparator/releases/tag/8.4.0) (today)
@@ -66,6 +69,3 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.8](https://github.com/phpstan/phpstan/releases/tag/2.2.8) (3 days ago)
 - [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) - [0.11.0](https://github.com/mspirkov/yii2-phpstan-rules/releases/tag/0.11.0) (4 days ago)
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.6.2](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.6.2) (6 days ago)
-- [sebastianbergmann/cli-parser](https://github.com/sebastianbergmann/cli-parser) - [5.0.1](https://github.com/sebastianbergmann/cli-parser/releases/tag/5.0.1) (6 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.18](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.18) (1 week ago)
-- [rectorphp/type-perfect](https://github.com/rectorphp/type-perfect) - [2.2.0](https://github.com/rectorphp/type-perfect/releases/tag/2.2.0) (1 week ago)
