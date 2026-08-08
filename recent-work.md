@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.28](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.28) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.29](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.29) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.34.2](https://github.com/infection/infection/releases/tag/0.34.2) (1 day ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.24.0](https://github.com/paratestphp/paratest/releases/tag/v7.24.0) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.3.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.0) (1 day ago)
