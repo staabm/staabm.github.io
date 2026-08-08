@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix incomplete version requirements in tests](https://github.com/phpstan/phpstan-src/pull/6198) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [TypeCombinator: remove unnecessary iteration over types](https://github.com/phpstan/phpstan-src/pull/6194) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update shopsys/shopsys to fix integration tests](https://github.com/phpstan/phpstan/pull/15058) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [Make strtolower()/strtoupper() frameless](https://github.com/php/php-src/pull/23084) on [php/php-src](https://github.com/php/php-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Update phpbench baseline(s)](https://github.com/phpstan/phpstan-src/pull/6176) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Faster handling of enums with lots of cases](https://github.com/phpstan/phpstan-src/pull/6160) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Improve `#[InstanceofDeprecated]` message of EnumCaseObjectType](https://github.com/phpstan/phpstan-src/pull/6159) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Update rector-src integration tests / fixes build](https://github.com/phpstan/phpstan/pull/15024) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
