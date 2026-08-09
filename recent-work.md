@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update phpbench baseline(s)](https://github.com/phpstan/phpstan-src/pull/6201) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Removed duplicate code](https://github.com/phpstan/phpstan-src/pull/6200) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix incomplete version requirements in tests](https://github.com/phpstan/phpstan-src/pull/6198) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [TypeCombinator: remove unnecessary iteration over types](https://github.com/phpstan/phpstan-src/pull/6194) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Update shopsys/shopsys to fix integration tests](https://github.com/phpstan/phpstan/pull/15058) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
@@ -53,8 +55,6 @@
 - [fix build](https://github.com/phpstan/extension-installer/pull/113) on [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (3 days ago)
 - [Fix phpdoc](https://github.com/ondrejmirtes/BetterReflection/pull/43) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (4 days ago)
 - [Update phpbench baseline(s)](https://github.com/phpstan/phpstan-src/pull/6176) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Faster handling of enums with lots of cases](https://github.com/phpstan/phpstan-src/pull/6160) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Improve `#[InstanceofDeprecated]` message of EnumCaseObjectType](https://github.com/phpstan/phpstan-src/pull/6159) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
