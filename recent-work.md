@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
@@ -40,6 +40,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Skip doc-comment copying and presize token arrays when tokenizing](https://github.com/php/php-src/pull/23200) on [php/php-src](https://github.com/php/php-src) (today)
+- [` src/Rules/Api/*Rule`: cheap checks first](https://github.com/phpstan/phpstan-src/pull/6206) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [`Rules\LazyRegistry`, `Collectors\Registry`: Cache extension-class-names](https://github.com/phpstan/phpstan-src/pull/6205) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Utilize `ExtensionClassHelper` in `Rules\LazyRegistry` and `Collectors\Registry`](https://github.com/phpstan/phpstan-src/pull/6204) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [DynamicReturnTypeExtensionRegistry: Cache extension-class-names](https://github.com/phpstan/phpstan-src/pull/6203) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update phpbench baseline(s)](https://github.com/phpstan/phpstan-src/pull/6201) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Removed duplicate code](https://github.com/phpstan/phpstan-src/pull/6200) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix incomplete version requirements in tests](https://github.com/phpstan/phpstan-src/pull/6198) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -50,11 +55,6 @@
 - [End-to-End tests: Support different php versions per case](https://github.com/phpstan/phpstan-src/pull/6186) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Update rector-src integration tests / fixes build](https://github.com/phpstan/phpstan/pull/15054) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [Update shipmonk-rnd/dead-code-detector to fix integration tests](https://github.com/phpstan/phpstan/pull/15053) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
-- [Revert &#34;fix build (#113)&#34;](https://github.com/phpstan/extension-installer/pull/115) on [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (4 days ago)
-- [improve build fix](https://github.com/phpstan/extension-installer/pull/114) on [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (4 days ago)
-- [fix build](https://github.com/phpstan/extension-installer/pull/113) on [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (4 days ago)
-- [Fix phpdoc](https://github.com/ondrejmirtes/BetterReflection/pull/43) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (5 days ago)
-- [Update phpbench baseline(s)](https://github.com/phpstan/phpstan-src/pull/6176) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
