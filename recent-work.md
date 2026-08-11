@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (5 days ago)
@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [9.6.36](https://github.com/sebastianbergmann/phpunit/releases/tag/9.6.36) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.29](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.29) (3 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.34.2](https://github.com/infection/infection/releases/tag/0.34.2) (4 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.24.0](https://github.com/paratestphp/paratest/releases/tag/v7.24.0) (4 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.3.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.0) (4 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.3.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.0) (4 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.4.0](https://github.com/sebastianbergmann/comparator/releases/tag/8.4.0) (4 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.3.5](https://github.com/staabm/phpstan-todo-by/releases/tag/0.3.5) (5 days ago)
