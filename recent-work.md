@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.6.0](https://github.com/CuyZ/Valinor/releases/tag/2.6.0) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [9.6.36](https://github.com/sebastianbergmann/phpunit/releases/tag/9.6.36) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.29](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.29) (3 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.34.2](https://github.com/infection/infection/releases/tag/0.34.2) (4 days ago)
@@ -68,4 +69,3 @@
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.3.5](https://github.com/staabm/phpstan-todo-by/releases/tag/0.3.5) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.8](https://github.com/phpstan/phpstan/releases/tag/2.2.8) (1 week ago)
 - [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) - [0.11.0](https://github.com/mspirkov/yii2-phpstan-rules/releases/tag/0.11.0) (1 week ago)
-- [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.6.2](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.6.2) (1 week ago)
