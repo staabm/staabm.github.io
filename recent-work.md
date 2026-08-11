@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Faster `UnionType-&gt;getFiniteTypes()`](https://github.com/phpstan/phpstan-src/pull/6210) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Skip doc-comment copying and presize token arrays when tokenizing](https://github.com/php/php-src/pull/23200) on [php/php-src](https://github.com/php/php-src) (1 day ago)
 - [` src/Rules/Api/*Rule`: cheap checks first](https://github.com/phpstan/phpstan-src/pull/6206) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [`Rules\LazyRegistry`, `Collectors\Registry`: Cache extension-class-names](https://github.com/phpstan/phpstan-src/pull/6205) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [configure: disable Apple clang size optimizations that hurt runtime speed](https://github.com/php/php-src/pull/23080) on [php/php-src](https://github.com/php/php-src) (5 days ago)
 - [End-to-End tests: Support different php versions per case](https://github.com/phpstan/phpstan-src/pull/6186) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Update rector-src integration tests / fixes build](https://github.com/phpstan/phpstan/pull/15054) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
-- [Update shipmonk-rnd/dead-code-detector to fix integration tests](https://github.com/phpstan/phpstan/pull/15053) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
