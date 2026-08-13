@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.3.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.1) (today)
 - [recombee/php-api-client](https://github.com/recombee/php-api-client) - [v6.3.1](https://github.com/recombee/php-api-client/releases/tag/v6.3.1) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.10](https://github.com/staabm/phpstan-dba/releases/tag/0.4.10) (1 day ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.6.0](https://github.com/CuyZ/Valinor/releases/tag/2.6.0) (2 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [9.6.36](https://github.com/sebastianbergmann/phpunit/releases/tag/9.6.36) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.29](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.29) (5 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.34.2](https://github.com/infection/infection/releases/tag/0.34.2) (6 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.24.0](https://github.com/paratestphp/paratest/releases/tag/v7.24.0) (6 days ago)
