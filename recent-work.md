@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [recombee/php-api-client](https://github.com/recombee/php-api-client) - [v6.3.1](https://github.com/recombee/php-api-client/releases/tag/v6.3.1) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.10](https://github.com/staabm/phpstan-dba/releases/tag/0.4.10) (1 day ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.6.0](https://github.com/CuyZ/Valinor/releases/tag/2.6.0) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [9.6.36](https://github.com/sebastianbergmann/phpunit/releases/tag/9.6.36) (2 days ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.3.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.0) (6 days ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.4.0](https://github.com/sebastianbergmann/comparator/releases/tag/8.4.0) (6 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.3.5](https://github.com/staabm/phpstan-todo-by/releases/tag/0.3.5) (1 week ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.8](https://github.com/phpstan/phpstan/releases/tag/2.2.8) (1 week ago)
