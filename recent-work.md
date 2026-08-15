@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
@@ -40,17 +40,17 @@
 
 #### 🔨 My recent Pull Requests
 
-- [CI: Use latest possible PHP 7.4 compatible PHPBench version](https://github.com/phpstan/phpstan-src/pull/6213) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Faster `UnionType-&gt;getFiniteTypes()`](https://github.com/phpstan/phpstan-src/pull/6210) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Skip doc-comment copying and presize token arrays when tokenizing](https://github.com/php/php-src/pull/23200) on [php/php-src](https://github.com/php/php-src) (4 days ago)
-- [` src/Rules/Api/*Rule`: cheap checks first](https://github.com/phpstan/phpstan-src/pull/6206) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [`Rules\LazyRegistry`, `Collectors\Registry`: Cache extension-class-names](https://github.com/phpstan/phpstan-src/pull/6205) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Utilize `ExtensionClassHelper` in `Rules\LazyRegistry` and `Collectors\Registry`](https://github.com/phpstan/phpstan-src/pull/6204) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [DynamicReturnTypeExtensionRegistry: Cache extension-class-names](https://github.com/phpstan/phpstan-src/pull/6203) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Update phpbench baseline(s)](https://github.com/phpstan/phpstan-src/pull/6201) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Removed duplicate code](https://github.com/phpstan/phpstan-src/pull/6200) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Fix incomplete version requirements in tests](https://github.com/phpstan/phpstan-src/pull/6198) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [TypeCombinator: remove unnecessary iteration over types](https://github.com/phpstan/phpstan-src/pull/6194) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [CI: Use latest possible PHP 7.4 compatible PHPBench version](https://github.com/phpstan/phpstan-src/pull/6213) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Faster `UnionType-&gt;getFiniteTypes()`](https://github.com/phpstan/phpstan-src/pull/6210) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Skip doc-comment copying and presize token arrays when tokenizing](https://github.com/php/php-src/pull/23200) on [php/php-src](https://github.com/php/php-src) (5 days ago)
+- [` src/Rules/Api/*Rule`: cheap checks first](https://github.com/phpstan/phpstan-src/pull/6206) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [`Rules\LazyRegistry`, `Collectors\Registry`: Cache extension-class-names](https://github.com/phpstan/phpstan-src/pull/6205) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Utilize `ExtensionClassHelper` in `Rules\LazyRegistry` and `Collectors\Registry`](https://github.com/phpstan/phpstan-src/pull/6204) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [DynamicReturnTypeExtensionRegistry: Cache extension-class-names](https://github.com/phpstan/phpstan-src/pull/6203) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Update phpbench baseline(s)](https://github.com/phpstan/phpstan-src/pull/6201) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Removed duplicate code](https://github.com/phpstan/phpstan-src/pull/6200) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Fix incomplete version requirements in tests](https://github.com/phpstan/phpstan-src/pull/6198) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [TypeCombinator: remove unnecessary iteration over types](https://github.com/phpstan/phpstan-src/pull/6194) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Update shopsys/shopsys to fix integration tests](https://github.com/phpstan/phpstan/pull/15058) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [Make strtolower()/strtoupper() frameless](https://github.com/php/php-src/pull/23084) on [php/php-src](https://github.com/php/php-src) (1 week ago)
 - [configure: disable Apple clang size optimizations that hurt runtime speed](https://github.com/php/php-src/pull/23080) on [php/php-src](https://github.com/php/php-src) (1 week ago)
@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.3.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.1) (1 day ago)
-- [recombee/php-api-client](https://github.com/recombee/php-api-client) - [v6.3.1](https://github.com/recombee/php-api-client/releases/tag/v6.3.1) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.10](https://github.com/staabm/phpstan-dba/releases/tag/0.4.10) (2 days ago)
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.6.0](https://github.com/CuyZ/Valinor/releases/tag/2.6.0) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.29](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.29) (6 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.3.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.1) (2 days ago)
+- [recombee/php-api-client](https://github.com/recombee/php-api-client) - [v6.3.1](https://github.com/recombee/php-api-client/releases/tag/v6.3.1) (2 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.10](https://github.com/staabm/phpstan-dba/releases/tag/0.4.10) (3 days ago)
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.6.0](https://github.com/CuyZ/Valinor/releases/tag/2.6.0) (4 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.29](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.29) (1 week ago)
 - [infection/infection](https://github.com/infection/infection) - [0.34.2](https://github.com/infection/infection/releases/tag/0.34.2) (1 week ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.24.0](https://github.com/paratestphp/paratest/releases/tag/v7.24.0) (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.3.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.0) (1 week ago)
