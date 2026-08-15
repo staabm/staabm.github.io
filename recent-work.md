@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Compile negated conditions as inverted jumps](https://github.com/php/php-src/pull/23292) on [php/php-src](https://github.com/php/php-src) (today)
 - [Share the method&#39;s runtime cache with fake closures of the same scope](https://github.com/php/php-src/pull/23291) on [php/php-src](https://github.com/php/php-src) (today)
 - [CI: Use latest possible PHP 7.4 compatible PHPBench version](https://github.com/phpstan/phpstan-src/pull/6213) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Faster `UnionType-&gt;getFiniteTypes()`](https://github.com/phpstan/phpstan-src/pull/6210) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -54,7 +55,6 @@
 - [TypeCombinator: remove unnecessary iteration over types](https://github.com/phpstan/phpstan-src/pull/6194) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Update shopsys/shopsys to fix integration tests](https://github.com/phpstan/phpstan/pull/15058) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [Make strtolower()/strtoupper() frameless](https://github.com/php/php-src/pull/23084) on [php/php-src](https://github.com/php/php-src) (1 week ago)
-- [configure: disable Apple clang size optimizations that hurt runtime speed](https://github.com/php/php-src/pull/23080) on [php/php-src](https://github.com/php/php-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
