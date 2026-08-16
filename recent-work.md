@@ -12,7 +12,7 @@
 - [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (3 weeks ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 weeks ago)
 - [akunzai/MageBridgeCore](https://github.com/akunzai/MageBridgeCore) (3 weeks ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 month ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 month ago)
 
 
 #### 📜 My recent blog posts
