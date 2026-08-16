@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Elide provably-passing return type checks at compile time](https://github.com/php/php-src/pull/23305) on [php/php-src](https://github.com/php/php-src) (today)
 - [Defer SAVE_OPLINE() on the INSTANCEOF fast path](https://github.com/php/php-src/pull/23304) on [php/php-src](https://github.com/php/php-src) (today)
 - [Compile negated conditions as inverted jumps](https://github.com/php/php-src/pull/23292) on [php/php-src](https://github.com/php/php-src) (1 day ago)
 - [Share the method&#39;s runtime cache with fake closures of the same scope](https://github.com/php/php-src/pull/23291) on [php/php-src](https://github.com/php/php-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Removed duplicate code](https://github.com/phpstan/phpstan-src/pull/6200) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix incomplete version requirements in tests](https://github.com/phpstan/phpstan-src/pull/6198) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [TypeCombinator: remove unnecessary iteration over types](https://github.com/phpstan/phpstan-src/pull/6194) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Update shopsys/shopsys to fix integration tests](https://github.com/phpstan/phpstan/pull/15058) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
