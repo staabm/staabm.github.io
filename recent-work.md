@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [infection/infection](https://github.com/infection/infection) - [0.35.0](https://github.com/infection/infection/releases/tag/0.35.0) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.24.1](https://github.com/paratestphp/paratest/releases/tag/v7.24.1) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.3.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.1) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.3.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.1) (4 days ago)
@@ -66,6 +67,5 @@
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.10](https://github.com/staabm/phpstan-dba/releases/tag/0.4.10) (5 days ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.6.0](https://github.com/CuyZ/Valinor/releases/tag/2.6.0) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.29](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.29) (1 week ago)
-- [infection/infection](https://github.com/infection/infection) - [0.34.2](https://github.com/infection/infection/releases/tag/0.34.2) (1 week ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.4.0](https://github.com/sebastianbergmann/comparator/releases/tag/8.4.0) (1 week ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) - [0.3.5](https://github.com/staabm/phpstan-todo-by/releases/tag/0.3.5) (1 week ago)
