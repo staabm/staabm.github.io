@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (1 week ago)
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [akunzai/MageBridgeCore](https://github.com/akunzai/MageBridgeCore) - [3.1.1](https://github.com/akunzai/MageBridgeCore/releases/tag/3.1.1) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.19](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.19) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) - [0.35.0](https://github.com/infection/infection/releases/tag/0.35.0) (1 day ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.24.1](https://github.com/paratestphp/paratest/releases/tag/v7.24.1) (1 day ago)
@@ -68,4 +69,3 @@
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.10](https://github.com/staabm/phpstan-dba/releases/tag/0.4.10) (6 days ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - [2.6.0](https://github.com/CuyZ/Valinor/releases/tag/2.6.0) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.29](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.29) (1 week ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - [8.4.0](https://github.com/sebastianbergmann/comparator/releases/tag/8.4.0) (1 week ago)
