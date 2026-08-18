@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify `FiniteTypeSet`](https://github.com/phpstan/phpstan-src/pull/6229) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Faster `FiniteTypeSet-&gt;key()`](https://github.com/phpstan/phpstan-src/pull/6228) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Elide provably-passing return type checks at compile time](https://github.com/php/php-src/pull/23305) on [php/php-src](https://github.com/php/php-src) (2 days ago)
 - [Defer SAVE_OPLINE() on the INSTANCEOF fast path](https://github.com/php/php-src/pull/23304) on [php/php-src](https://github.com/php/php-src) (2 days ago)
 - [Compile negated conditions as inverted jumps](https://github.com/php/php-src/pull/23292) on [php/php-src](https://github.com/php/php-src) (3 days ago)
@@ -53,8 +55,6 @@
 - [DynamicReturnTypeExtensionRegistry: Cache extension-class-names](https://github.com/phpstan/phpstan-src/pull/6203) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Update phpbench baseline(s)](https://github.com/phpstan/phpstan-src/pull/6201) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Removed duplicate code](https://github.com/phpstan/phpstan-src/pull/6200) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix incomplete version requirements in tests](https://github.com/phpstan/phpstan-src/pull/6198) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [TypeCombinator: remove unnecessary iteration over types](https://github.com/phpstan/phpstan-src/pull/6194) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
