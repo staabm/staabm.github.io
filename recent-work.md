@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Faster `UnionType-&gt;isNull()`](https://github.com/phpstan/phpstan-src/pull/6232) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Simplify `FiniteTypeSet`](https://github.com/phpstan/phpstan-src/pull/6229) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Faster `FiniteTypeSet-&gt;key()`](https://github.com/phpstan/phpstan-src/pull/6228) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Elide provably-passing return type checks at compile time](https://github.com/php/php-src/pull/23305) on [php/php-src](https://github.com/php/php-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Utilize `ExtensionClassHelper` in `Rules\LazyRegistry` and `Collectors\Registry`](https://github.com/phpstan/phpstan-src/pull/6204) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [DynamicReturnTypeExtensionRegistry: Cache extension-class-names](https://github.com/phpstan/phpstan-src/pull/6203) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Update phpbench baseline(s)](https://github.com/phpstan/phpstan-src/pull/6201) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Removed duplicate code](https://github.com/phpstan/phpstan-src/pull/6200) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
