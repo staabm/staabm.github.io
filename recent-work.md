@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.20](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.20) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.35.1](https://github.com/infection/infection/releases/tag/0.35.1) (today)
 - [akunzai/MageBridgeCore](https://github.com/akunzai/MageBridgeCore) - [3.1.1](https://github.com/akunzai/MageBridgeCore/releases/tag/3.1.1) (1 day ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.19](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.19) (2 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.24.1](https://github.com/paratestphp/paratest/releases/tag/v7.24.1) (2 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.3.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.1) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.3.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.1) (6 days ago)
