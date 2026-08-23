@@ -11,8 +11,8 @@
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) (3 weeks ago)
 - [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (1 month ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 month ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 month ago)
 - [akunzai/MageBridgeCore](https://github.com/akunzai/MageBridgeCore) (1 month ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 month ago)
 
 
 #### 📜 My recent blog posts
