@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.22](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.22) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.9](https://github.com/phpstan/phpstan/releases/tag/2.2.9) (2 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.21](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.21) (3 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.35.2](https://github.com/infection/infection/releases/tag/0.35.2) (5 days ago)
 - [akunzai/MageBridgeCore](https://github.com/akunzai/MageBridgeCore) - [3.1.1](https://github.com/akunzai/MageBridgeCore/releases/tag/3.1.1) (6 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.24.1](https://github.com/paratestphp/paratest/releases/tag/v7.24.1) (1 week ago)
