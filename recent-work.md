@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.3.2](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.2) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.23](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.23) (1 day ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.12.3](https://github.com/symplify/phpstan-rules/releases/tag/14.12.3) (3 days ago)
 - [ecsphp/ecs](https://github.com/ecsphp/ecs) - [13.2.19](https://github.com/ecsphp/ecs/releases/tag/13.2.19) (3 days ago)
@@ -67,5 +68,4 @@
 - [akunzai/MageBridgeCore](https://github.com/akunzai/MageBridgeCore) - [3.1.1](https://github.com/akunzai/MageBridgeCore/releases/tag/3.1.1) (1 week ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.24.1](https://github.com/paratestphp/paratest/releases/tag/v7.24.1) (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.3.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.1) (1 week ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.3.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.1) (2 weeks ago)
 - [recombee/php-api-client](https://github.com/recombee/php-api-client) - [v6.3.1](https://github.com/recombee/php-api-client/releases/tag/v6.3.1) (2 weeks ago)
