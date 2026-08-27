@@ -59,12 +59,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [infection/infection](https://github.com/infection/infection) - [0.35.3](https://github.com/infection/infection/releases/tag/0.35.3) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.3.2](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.2) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.23](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.23) (1 day ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.12.3](https://github.com/symplify/phpstan-rules/releases/tag/14.12.3) (3 days ago)
 - [ecsphp/ecs](https://github.com/ecsphp/ecs) - [13.2.19](https://github.com/ecsphp/ecs/releases/tag/13.2.19) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.9](https://github.com/phpstan/phpstan/releases/tag/2.2.9) (5 days ago)
-- [infection/infection](https://github.com/infection/infection) - [0.35.2](https://github.com/infection/infection/releases/tag/0.35.2) (1 week ago)
 - [akunzai/MageBridgeCore](https://github.com/akunzai/MageBridgeCore) - [3.1.1](https://github.com/akunzai/MageBridgeCore/releases/tag/3.1.1) (1 week ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.24.1](https://github.com/paratestphp/paratest/releases/tag/v7.24.1) (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.3.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.1) (1 week ago)
