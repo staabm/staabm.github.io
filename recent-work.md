@@ -5,9 +5,9 @@
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 weeks ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (3 weeks ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 weeks ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 month ago)
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) (1 month ago)
 - [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (1 month ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 month ago)
@@ -28,7 +28,7 @@
 
 - [pavel-rossinsky](https://github.com/pavel-rossinsky) (1 month ago)
 - [saibotk](https://github.com/saibotk) (6 months ago)
-- [JetBrainsOfficial](https://github.com/JetBrainsOfficial) (10 months ago)
+- [JetBrainsOfficial](https://github.com/JetBrainsOfficial) (11 months ago)
 - [passbolt](https://github.com/passbolt) (1 year ago)
 - [packagist](https://github.com/packagist) (1 year ago)
 - [Enkora](https://github.com/Enkora) (1 year ago)
@@ -59,12 +59,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [infection/infection](https://github.com/infection/infection) - [0.35.3](https://github.com/infection/infection/releases/tag/0.35.3) (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.3.2](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.2) (today)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.23](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.23) (1 day ago)
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.12.3](https://github.com/symplify/phpstan-rules/releases/tag/14.12.3) (3 days ago)
-- [ecsphp/ecs](https://github.com/ecsphp/ecs) - [13.2.19](https://github.com/ecsphp/ecs/releases/tag/13.2.19) (3 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.9](https://github.com/phpstan/phpstan/releases/tag/2.2.9) (5 days ago)
+- [infection/infection](https://github.com/infection/infection) - [0.35.3](https://github.com/infection/infection/releases/tag/0.35.3) (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.3.2](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.2) (1 day ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.23](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.23) (2 days ago)
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.12.3](https://github.com/symplify/phpstan-rules/releases/tag/14.12.3) (4 days ago)
+- [ecsphp/ecs](https://github.com/ecsphp/ecs) - [13.2.19](https://github.com/ecsphp/ecs/releases/tag/13.2.19) (4 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.9](https://github.com/phpstan/phpstan/releases/tag/2.2.9) (6 days ago)
 - [akunzai/MageBridgeCore](https://github.com/akunzai/MageBridgeCore) - [3.1.1](https://github.com/akunzai/MageBridgeCore/releases/tag/3.1.1) (1 week ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.24.1](https://github.com/paratestphp/paratest/releases/tag/v7.24.1) (1 week ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.3.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.1) (1 week ago)
