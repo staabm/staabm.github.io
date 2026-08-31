@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.12](https://github.com/phpstan/phpstan/releases/tag/2.2.12) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.5](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.5) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.24](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.24) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.11](https://github.com/phpstan/phpstan/releases/tag/2.2.11) (today)
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.6.3](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.6.3) (1 day ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.5.10](https://github.com/php/php-src/releases/tag/php-8.5.10) (3 days ago)
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - [v3.19.0](https://github.com/tempestphp/tempest-framework/releases/tag/v3.19.0) (3 days ago)
