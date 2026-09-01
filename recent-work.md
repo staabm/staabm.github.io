@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 weeks ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 weeks ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (3 weeks ago)
@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Faster `UnionType-&gt;isCallable()`](https://github.com/phpstan/phpstan-src/pull/6233) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Faster `UnionType-&gt;isNull()`](https://github.com/phpstan/phpstan-src/pull/6232) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Simplify `FiniteTypeSet`](https://github.com/phpstan/phpstan-src/pull/6229) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Faster `FiniteTypeSet-&gt;key()`](https://github.com/phpstan/phpstan-src/pull/6228) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [Faster `UnionType-&gt;isCallable()`](https://github.com/phpstan/phpstan-src/pull/6233) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
+- [Faster `UnionType-&gt;isNull()`](https://github.com/phpstan/phpstan-src/pull/6232) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
+- [Simplify `FiniteTypeSet`](https://github.com/phpstan/phpstan-src/pull/6229) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
+- [Faster `FiniteTypeSet-&gt;key()`](https://github.com/phpstan/phpstan-src/pull/6228) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Elide provably-passing return type checks at compile time](https://github.com/php/php-src/pull/23305) on [php/php-src](https://github.com/php/php-src) (2 weeks ago)
 - [Defer SAVE_OPLINE() on the INSTANCEOF fast path](https://github.com/php/php-src/pull/23304) on [php/php-src](https://github.com/php/php-src) (2 weeks ago)
 - [Compile negated conditions as inverted jumps](https://github.com/php/php-src/pull/23292) on [php/php-src](https://github.com/php/php-src) (2 weeks ago)
 - [Share the method&#39;s runtime cache with fake closures of the same scope](https://github.com/php/php-src/pull/23291) on [php/php-src](https://github.com/php/php-src) (2 weeks ago)
 - [CI: Use latest possible PHP 7.4 compatible PHPBench version](https://github.com/phpstan/phpstan-src/pull/6213) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [Faster `UnionType-&gt;getFiniteTypes()`](https://github.com/phpstan/phpstan-src/pull/6210) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
+- [Faster `UnionType-&gt;getFiniteTypes()`](https://github.com/phpstan/phpstan-src/pull/6210) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
 - [Skip doc-comment copying and presize token arrays when tokenizing](https://github.com/php/php-src/pull/23200) on [php/php-src](https://github.com/php/php-src) (3 weeks ago)
 - [` src/Rules/Api/*Rule`: cheap checks first](https://github.com/phpstan/phpstan-src/pull/6206) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
 - [`Rules\LazyRegistry`, `Collectors\Registry`: Cache extension-class-names](https://github.com/phpstan/phpstan-src/pull/6205) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.12](https://github.com/phpstan/phpstan/releases/tag/2.2.12) (today)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.5](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.5) (today)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.24](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.24) (today)
-- [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.6.3](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.6.3) (1 day ago)
-- [php/php-src](https://github.com/php/php-src) - [php-8.5.10](https://github.com/php/php-src/releases/tag/php-8.5.10) (3 days ago)
-- [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - [v3.19.0](https://github.com/tempestphp/tempest-framework/releases/tag/v3.19.0) (3 days ago)
-- [infection/infection](https://github.com/infection/infection) - [0.35.3](https://github.com/infection/infection/releases/tag/0.35.3) (4 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.3.2](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.2) (4 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.12](https://github.com/phpstan/phpstan/releases/tag/2.2.12) (1 day ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.5](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.5) (1 day ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.24](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.24) (1 day ago)
+- [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.6.3](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.6.3) (2 days ago)
+- [php/php-src](https://github.com/php/php-src) - [php-8.5.10](https://github.com/php/php-src/releases/tag/php-8.5.10) (4 days ago)
+- [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - [v3.19.0](https://github.com/tempestphp/tempest-framework/releases/tag/v3.19.0) (4 days ago)
+- [infection/infection](https://github.com/infection/infection) - [0.35.3](https://github.com/infection/infection/releases/tag/0.35.3) (5 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.3.2](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.2) (5 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.12.3](https://github.com/symplify/phpstan-rules/releases/tag/14.12.3) (1 week ago)
 - [ecsphp/ecs](https://github.com/ecsphp/ecs) - [13.2.19](https://github.com/ecsphp/ecs/releases/tag/13.2.19) (1 week ago)
