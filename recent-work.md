@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Verify test](https://github.com/phpstan/phpstan-src/pull/6354) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [HashFunctionsReturnTypeExtension: init hash-algorithm list lazily](https://github.com/phpstan/phpstan-src/pull/6345) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Add shipmonk/dead-code-detector](https://github.com/phpstan/phpdoc-parser/pull/315) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (today)
 - [Faster `UnionType-&gt;isCallable()`](https://github.com/phpstan/phpstan-src/pull/6233) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
@@ -54,7 +55,6 @@
 - [Faster `UnionType-&gt;getFiniteTypes()`](https://github.com/phpstan/phpstan-src/pull/6210) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
 - [Skip doc-comment copying and presize token arrays when tokenizing](https://github.com/php/php-src/pull/23200) on [php/php-src](https://github.com/php/php-src) (3 weeks ago)
 - [` src/Rules/Api/*Rule`: cheap checks first](https://github.com/phpstan/phpstan-src/pull/6206) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
-- [`Rules\LazyRegistry`, `Collectors\Registry`: Cache extension-class-names](https://github.com/phpstan/phpstan-src/pull/6205) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
