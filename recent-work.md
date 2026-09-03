@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - [v3.19.1](https://github.com/tempestphp/tempest-framework/releases/tag/v3.19.1) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.35.4](https://github.com/infection/infection/releases/tag/0.35.4) (1 day ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v3.11.0](https://github.com/larastan/larastan/releases/tag/v3.11.0) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.12](https://github.com/phpstan/phpstan/releases/tag/2.2.12) (3 days ago)
@@ -66,6 +67,5 @@
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.24](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.24) (3 days ago)
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.6.3](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.6.3) (4 days ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.5.10](https://github.com/php/php-src/releases/tag/php-8.5.10) (6 days ago)
-- [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - [v3.19.0](https://github.com/tempestphp/tempest-framework/releases/tag/v3.19.0) (6 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.3.2](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.2) (1 week ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.12.3](https://github.com/symplify/phpstan-rules/releases/tag/14.12.3) (1 week ago)
