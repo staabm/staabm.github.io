@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.13](https://github.com/phpstan/phpstan/releases/tag/2.2.13) (today)
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - [v3.19.1](https://github.com/tempestphp/tempest-framework/releases/tag/v3.19.1) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.35.4](https://github.com/infection/infection/releases/tag/0.35.4) (1 day ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v3.11.0](https://github.com/larastan/larastan/releases/tag/v3.11.0) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.12](https://github.com/phpstan/phpstan/releases/tag/2.2.12) (3 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.5](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.5) (3 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.24](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.24) (3 days ago)
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.6.3](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.6.3) (4 days ago)
