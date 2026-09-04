@@ -29,6 +29,9 @@ when everything is going according to plan and the tool can do its job utilizing
 But what could possibly go wrong?
 In this post I will write down what I learned from setting up PHPStan in a lot of different projects and environments.
 
+**Update:** Starting with PHPStan 2.2.13+ most of the mentioned problems got fixed and PHPStan improved its out-of-the-box experience.
+
+
 ## Lets go
 
 You don't need to enable result cache explicitly, as it's enabled by default.
