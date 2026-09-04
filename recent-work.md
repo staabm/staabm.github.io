@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 weeks ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (4 weeks ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 month ago)
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) (1 month ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 month ago)
-- [akunzai/MageBridgeCore](https://github.com/akunzai/MageBridgeCore) (1 month ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 month ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [CI: fix PHP 7.4 build](https://github.com/phpstan/phpstan/pull/15183) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [Update shipmonk-rnd/dead-code-detector](https://github.com/phpstan/phpstan/pull/15182) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [Fix PHPUnit warning](https://github.com/phpstan/phpstan-src/pull/6375) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Verify test](https://github.com/phpstan/phpstan-src/pull/6354) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [HashFunctionsReturnTypeExtension: init hash-algorithm list lazily](https://github.com/phpstan/phpstan-src/pull/6345) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Add shipmonk/dead-code-detector](https://github.com/phpstan/phpdoc-parser/pull/315) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 days ago)
@@ -52,9 +55,6 @@
 - [Compile negated conditions as inverted jumps](https://github.com/php/php-src/pull/23292) on [php/php-src](https://github.com/php/php-src) (2 weeks ago)
 - [Share the method&#39;s runtime cache with fake closures of the same scope](https://github.com/php/php-src/pull/23291) on [php/php-src](https://github.com/php/php-src) (2 weeks ago)
 - [CI: Use latest possible PHP 7.4 compatible PHPBench version](https://github.com/phpstan/phpstan-src/pull/6213) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
-- [Faster `UnionType-&gt;getFiniteTypes()`](https://github.com/phpstan/phpstan-src/pull/6210) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
-- [Skip doc-comment copying and presize token arrays when tokenizing](https://github.com/php/php-src/pull/23200) on [php/php-src](https://github.com/php/php-src) (3 weeks ago)
-- [` src/Rules/Api/*Rule`: cheap checks first](https://github.com/phpstan/phpstan-src/pull/6206) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
