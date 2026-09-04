@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
 - [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 weeks ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 weeks ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (4 weeks ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 month ago)
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) (1 month ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 month ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 month ago)
 - [akunzai/MageBridgeCore](https://github.com/akunzai/MageBridgeCore) (1 month ago)
 
 
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.30](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.30) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.3.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.2) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.13](https://github.com/phpstan/phpstan/releases/tag/2.2.13) (1 day ago)
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - [v3.19.1](https://github.com/tempestphp/tempest-framework/releases/tag/v3.19.1) (1 day ago)
@@ -68,4 +69,3 @@
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.24](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.24) (4 days ago)
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.6.3](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.6.3) (5 days ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.5.10](https://github.com/php/php-src/releases/tag/php-8.5.10) (1 week ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.3.2](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.2) (1 week ago)
