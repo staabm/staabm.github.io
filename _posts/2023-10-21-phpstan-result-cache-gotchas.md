@@ -18,6 +18,9 @@ As part of the [performance post series](https://staabm.github.io/archive.html#p
 
 In this post we will have a top level look on PHPStan performance from a enduser perspective.
 
+**Update:** Starting with PHPStan 2.2.13+ most of the mentioned problems got fixed and PHPStan improved its out-of-the-box experience.
+
+
 ## Goal
 
 While we are working hard on [squeezing out every bit of performance](https://github.com/phpstan/phpstan-src/pulls?q=is%3Apr+sort%3Aupdated-desc+fast+is%3Amerged+) out of PHPStan,
@@ -28,9 +31,6 @@ when everything is going according to plan and the tool can do its job utilizing
 
 But what could possibly go wrong?
 In this post I will write down what I learned from setting up PHPStan in a lot of different projects and environments.
-
-**Update:** Starting with PHPStan 2.2.13+ most of the mentioned problems got fixed and PHPStan improved its out-of-the-box experience.
-
 
 ## Lets go
 
