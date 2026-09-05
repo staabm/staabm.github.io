@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update PHPStan 2.2.13](https://github.com/WordPress/wordpress-develop/pull/13410) on [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) (today)
+- [chore: update PHPStan to 2.2.13](https://github.com/shopware/shopware/pull/20148) on [shopware/shopware](https://github.com/shopware/shopware) (today)
 - [CI: Fix PHP7.4 build](https://github.com/phpstan/phpstan-phpunit/pull/327) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
 - [CI: fix PHP 7.4 build](https://github.com/phpstan/phpstan/pull/15183) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [Update shipmonk-rnd/dead-code-detector](https://github.com/phpstan/phpstan/pull/15182) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
@@ -53,8 +55,6 @@
 - [Faster `FiniteTypeSet-&gt;key()`](https://github.com/phpstan/phpstan-src/pull/6228) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Elide provably-passing return type checks at compile time](https://github.com/php/php-src/pull/23305) on [php/php-src](https://github.com/php/php-src) (2 weeks ago)
 - [Defer SAVE_OPLINE() on the INSTANCEOF fast path](https://github.com/php/php-src/pull/23304) on [php/php-src](https://github.com/php/php-src) (2 weeks ago)
-- [Compile negated conditions as inverted jumps](https://github.com/php/php-src/pull/23292) on [php/php-src](https://github.com/php/php-src) (3 weeks ago)
-- [Share the method&#39;s runtime cache with fake closures of the same scope](https://github.com/php/php-src/pull/23291) on [php/php-src](https://github.com/php/php-src) (3 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
