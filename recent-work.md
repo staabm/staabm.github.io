@@ -3,13 +3,13 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (today)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 day ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 weeks ago)
-- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (4 weeks ago)
+- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (1 month ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 month ago)
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) (1 month ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 month ago)
@@ -17,7 +17,7 @@
 
 #### 📜 My recent blog posts
 
-- [Automate the process to find a regression commit](https://staabm.github.io/2026/02/07/git-bisect-run.html) (6 months ago)
+- [Automate the process to find a regression commit](https://staabm.github.io/2026/02/07/git-bisect-run.html) (7 months ago)
 - [PHPStan on steroids](https://staabm.github.io/2026/01/25/phpstan-on-steroids.html) (7 months ago)
 - [Speedup PHPUnit code coverage generation](https://staabm.github.io/2025/11/26/speedup-phpunit-code-coverage.html) (9 months ago)
 - [New and noteworthy: PHPStan and PHPUnit integration](https://staabm.github.io/2025/11/15/phpstan-validates-phpunit-data-provider.html) (9 months ago)
@@ -40,32 +40,32 @@
 
 #### 🔨 My recent Pull Requests
 
-- [CI: Fix PHP7.4 build](https://github.com/phpstan/phpstan-phpunit/pull/327) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
-- [CI: fix PHP 7.4 build](https://github.com/phpstan/phpstan/pull/15183) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [Update shipmonk-rnd/dead-code-detector](https://github.com/phpstan/phpstan/pull/15182) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
-- [Fix PHPUnit warning](https://github.com/phpstan/phpstan-src/pull/6375) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Verify test](https://github.com/phpstan/phpstan-src/pull/6354) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [HashFunctionsReturnTypeExtension: init hash-algorithm list lazily](https://github.com/phpstan/phpstan-src/pull/6345) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Add shipmonk/dead-code-detector](https://github.com/phpstan/phpdoc-parser/pull/315) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (2 days ago)
+- [CI: Fix PHP7.4 build](https://github.com/phpstan/phpstan-phpunit/pull/327) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
+- [CI: fix PHP 7.4 build](https://github.com/phpstan/phpstan/pull/15183) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [Update shipmonk-rnd/dead-code-detector](https://github.com/phpstan/phpstan/pull/15182) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [Fix PHPUnit warning](https://github.com/phpstan/phpstan-src/pull/6375) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Verify test](https://github.com/phpstan/phpstan-src/pull/6354) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [HashFunctionsReturnTypeExtension: init hash-algorithm list lazily](https://github.com/phpstan/phpstan-src/pull/6345) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Add shipmonk/dead-code-detector](https://github.com/phpstan/phpdoc-parser/pull/315) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (3 days ago)
 - [Faster `UnionType-&gt;isCallable()`](https://github.com/phpstan/phpstan-src/pull/6233) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Faster `UnionType-&gt;isNull()`](https://github.com/phpstan/phpstan-src/pull/6232) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Simplify `FiniteTypeSet`](https://github.com/phpstan/phpstan-src/pull/6229) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Faster `FiniteTypeSet-&gt;key()`](https://github.com/phpstan/phpstan-src/pull/6228) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Elide provably-passing return type checks at compile time](https://github.com/php/php-src/pull/23305) on [php/php-src](https://github.com/php/php-src) (2 weeks ago)
 - [Defer SAVE_OPLINE() on the INSTANCEOF fast path](https://github.com/php/php-src/pull/23304) on [php/php-src](https://github.com/php/php-src) (2 weeks ago)
-- [Compile negated conditions as inverted jumps](https://github.com/php/php-src/pull/23292) on [php/php-src](https://github.com/php/php-src) (2 weeks ago)
-- [Share the method&#39;s runtime cache with fake closures of the same scope](https://github.com/php/php-src/pull/23291) on [php/php-src](https://github.com/php/php-src) (2 weeks ago)
+- [Compile negated conditions as inverted jumps](https://github.com/php/php-src/pull/23292) on [php/php-src](https://github.com/php/php-src) (3 weeks ago)
+- [Share the method&#39;s runtime cache with fake closures of the same scope](https://github.com/php/php-src/pull/23291) on [php/php-src](https://github.com/php/php-src) (3 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.30](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.30) (today)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.3.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.2) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.13](https://github.com/phpstan/phpstan/releases/tag/2.2.13) (1 day ago)
-- [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - [v3.19.1](https://github.com/tempestphp/tempest-framework/releases/tag/v3.19.1) (1 day ago)
-- [infection/infection](https://github.com/infection/infection) - [0.35.4](https://github.com/infection/infection/releases/tag/0.35.4) (2 days ago)
-- [larastan/larastan](https://github.com/larastan/larastan) - [v3.11.0](https://github.com/larastan/larastan/releases/tag/v3.11.0) (3 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.5](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.5) (4 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.24](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.24) (4 days ago)
-- [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.6.3](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.6.3) (5 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.30](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.30) (1 day ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.3.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.2) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.13](https://github.com/phpstan/phpstan/releases/tag/2.2.13) (2 days ago)
+- [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - [v3.19.1](https://github.com/tempestphp/tempest-framework/releases/tag/v3.19.1) (2 days ago)
+- [infection/infection](https://github.com/infection/infection) - [0.35.4](https://github.com/infection/infection/releases/tag/0.35.4) (3 days ago)
+- [larastan/larastan](https://github.com/larastan/larastan) - [v3.11.0](https://github.com/larastan/larastan/releases/tag/v3.11.0) (4 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.5](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.5) (5 days ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.24](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.24) (5 days ago)
+- [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.6.3](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.6.3) (6 days ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.5.10](https://github.com/php/php-src/releases/tag/php-8.5.10) (1 week ago)
