@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Handle `resource` types in builder APIs](https://github.com/nikic/PHP-Parser/pull/1166) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
+- [verify tests](https://github.com/phpstan/phpstan-src/pull/6387) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update PHPStan 2.2.13](https://github.com/WordPress/wordpress-develop/pull/13410) on [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) (1 day ago)
 - [chore: update PHPStan to 2.2.13](https://github.com/shopware/shopware/pull/20148) on [shopware/shopware](https://github.com/shopware/shopware) (1 day ago)
 - [CI: Fix PHP7.4 build](https://github.com/phpstan/phpstan-phpunit/pull/327) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
@@ -53,8 +55,6 @@
 - [Faster `UnionType-&gt;isNull()`](https://github.com/phpstan/phpstan-src/pull/6232) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Simplify `FiniteTypeSet`](https://github.com/phpstan/phpstan-src/pull/6229) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Faster `FiniteTypeSet-&gt;key()`](https://github.com/phpstan/phpstan-src/pull/6228) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [Elide provably-passing return type checks at compile time](https://github.com/php/php-src/pull/23305) on [php/php-src](https://github.com/php/php-src) (3 weeks ago)
-- [Defer SAVE_OPLINE() on the INSTANCEOF fast path](https://github.com/php/php-src/pull/23304) on [php/php-src](https://github.com/php/php-src) (3 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
