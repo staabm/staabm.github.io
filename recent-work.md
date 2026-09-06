@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (2 days ago)
+- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
+- [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 month ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (1 month ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 month ago)
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) (1 month ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 month ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix `pg_loopen` phpdoc return type](https://github.com/JetBrains/phpstorm-stubs/pull/1940) on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (today)
 - [Handle `resource` types in builder APIs](https://github.com/nikic/PHP-Parser/pull/1166) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
 - [verify tests](https://github.com/phpstan/phpstan-src/pull/6387) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update PHPStan 2.2.13](https://github.com/WordPress/wordpress-develop/pull/13410) on [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) (1 day ago)
@@ -54,7 +55,6 @@
 - [Faster `UnionType-&gt;isCallable()`](https://github.com/phpstan/phpstan-src/pull/6233) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Faster `UnionType-&gt;isNull()`](https://github.com/phpstan/phpstan-src/pull/6232) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Simplify `FiniteTypeSet`](https://github.com/phpstan/phpstan-src/pull/6229) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [Faster `FiniteTypeSet-&gt;key()`](https://github.com/phpstan/phpstan-src/pull/6228) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
