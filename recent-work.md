@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (1 day ago)
 - [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -59,7 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.30](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.30) (3 days ago)
+- [ecsphp/ecs](https://github.com/ecsphp/ecs) - [13.3.2](https://github.com/ecsphp/ecs/releases/tag/13.3.2) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.11](https://github.com/staabm/phpstan-dba/releases/tag/0.4.11) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.31](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.31) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.3.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.2) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.13](https://github.com/phpstan/phpstan/releases/tag/2.2.13) (4 days ago)
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - [v3.19.1](https://github.com/tempestphp/tempest-framework/releases/tag/v3.19.1) (4 days ago)
@@ -67,5 +69,3 @@
 - [larastan/larastan](https://github.com/larastan/larastan) - [v3.11.0](https://github.com/larastan/larastan/releases/tag/v3.11.0) (6 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.5](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.5) (1 week ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.24](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.24) (1 week ago)
-- [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.6.3](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.6.3) (1 week ago)
-- [php/php-src](https://github.com/php/php-src) - [php-8.5.10](https://github.com/php/php-src/releases/tag/php-8.5.10) (1 week ago)
