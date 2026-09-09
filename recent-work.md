@@ -3,6 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (3 days ago)
@@ -12,7 +13,6 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 month ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (1 month ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 month ago)
-- [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) (1 month ago)
 
 
 #### 📜 My recent blog posts
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.73.0](https://github.com/Roave/BetterReflection/releases/tag/6.73.0) (today)
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.6.4](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.6.4) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.3.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.3) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.25](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.25) (1 day ago)
@@ -68,4 +69,3 @@
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.31](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.31) (2 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.3.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.2) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.13](https://github.com/phpstan/phpstan/releases/tag/2.2.13) (6 days ago)
-- [infection/infection](https://github.com/infection/infection) - [0.35.4](https://github.com/infection/infection/releases/tag/0.35.4) (1 week ago)
