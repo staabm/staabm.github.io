@@ -7,9 +7,9 @@
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (4 days ago)
-- [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (6 days ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (6 days ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
+- [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (6 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 month ago)
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (1 month ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 month ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [`LanguageLevelTypeAware` pseudo-types should be turned into phpdoc-type](https://github.com/ondrejmirtes/BetterReflection/pull/46) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (today)
 - [`LanguageLevelTypeAware` pseudo-types should be turned into phpdoc-type](https://github.com/Roave/BetterReflection/pull/1579) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
 - [Bump expected turbo version](https://github.com/phpstan/phpstan-src/pull/6394) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [fix `pg_loopen` phpdoc return type](https://github.com/JetBrains/phpstorm-stubs/pull/1940) on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (4 days ago)
@@ -54,11 +55,11 @@
 - [Verify test](https://github.com/phpstan/phpstan-src/pull/6354) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [HashFunctionsReturnTypeExtension: init hash-algorithm list lazily](https://github.com/phpstan/phpstan-src/pull/6345) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Add shipmonk/dead-code-detector](https://github.com/phpstan/phpdoc-parser/pull/315) on [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) (1 week ago)
-- [Faster `UnionType-&gt;isCallable()`](https://github.com/phpstan/phpstan-src/pull/6233) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [larastan/larastan](https://github.com/larastan/larastan) - [v3.12.0](https://github.com/larastan/larastan/releases/tag/v3.12.0) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.73.0](https://github.com/Roave/BetterReflection/releases/tag/6.73.0) (1 day ago)
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.6.4](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.6.4) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.3.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.3) (1 day ago)
@@ -68,4 +69,3 @@
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.11](https://github.com/staabm/phpstan-dba/releases/tag/0.4.11) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.31](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.31) (3 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.3.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.2) (6 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.13](https://github.com/phpstan/phpstan/releases/tag/2.2.13) (1 week ago)
