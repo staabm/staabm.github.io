@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent repeated invocation of `ReflectionMethod-&gt;getName()`](https://github.com/shipmonk-rnd/dead-code-detector/pull/435) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (today)
 - [Implement `ActivatableUsageProvider`](https://github.com/shipmonk-rnd/dead-code-detector/pull/434) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (today)
 - [Prevent repeated invocation of `ReflectionMethod-&gt;getName()`](https://github.com/shipmonk-rnd/dead-code-detector/pull/433) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (today)
 - [`ApiPhpDocUsageProvider-&gt;shouldMarkMemberAsUsed()` is private](https://github.com/shipmonk-rnd/dead-code-detector/pull/430) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (today)
@@ -54,7 +55,6 @@
 - [chore: update PHPStan to 2.2.13](https://github.com/shopware/shopware/pull/20148) on [shopware/shopware](https://github.com/shopware/shopware) (5 days ago)
 - [CI: Fix PHP7.4 build](https://github.com/phpstan/phpstan-phpunit/pull/327) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
 - [CI: fix PHP 7.4 build](https://github.com/phpstan/phpstan/pull/15183) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
-- [Update shipmonk-rnd/dead-code-detector](https://github.com/phpstan/phpstan/pull/15182) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
