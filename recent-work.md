@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (4 days ago)
@@ -67,5 +67,5 @@
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.3.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.3) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.25](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.25) (2 days ago)
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - [v3.19.2](https://github.com/tempestphp/tempest-framework/releases/tag/v3.19.2) (2 days ago)
-- [ecsphp/ecs](https://github.com/ecsphp/ecs) - [13.3.2](https://github.com/ecsphp/ecs/releases/tag/13.3.2) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.11](https://github.com/staabm/phpstan-dba/releases/tag/0.4.11) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.31](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.31) (3 days ago)
