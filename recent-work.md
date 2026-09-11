@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent unnecessary work when symfony installed selectively](https://github.com/shipmonk-rnd/dead-code-detector/pull/437) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (today)
 - [Prevent repeated invocation of `ReflectionMethod-&gt;getName()`](https://github.com/shipmonk-rnd/dead-code-detector/pull/435) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (1 day ago)
 - [Implement `ActivatableUsageProvider`](https://github.com/shipmonk-rnd/dead-code-detector/pull/434) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (1 day ago)
 - [Prevent repeated invocation of `ReflectionMethod-&gt;getName()`](https://github.com/shipmonk-rnd/dead-code-detector/pull/433) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (1 day ago)
@@ -54,11 +55,11 @@
 - [Update PHPStan 2.2.13](https://github.com/WordPress/wordpress-develop/pull/13410) on [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) (6 days ago)
 - [chore: update PHPStan to 2.2.13](https://github.com/shopware/shopware/pull/20148) on [shopware/shopware](https://github.com/shopware/shopware) (6 days ago)
 - [CI: Fix PHP7.4 build](https://github.com/phpstan/phpstan-phpunit/pull/327) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
-- [CI: fix PHP 7.4 build](https://github.com/phpstan/phpstan/pull/15183) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) - [2.25.0](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.25.0) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.3.3](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.3) (1 day ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v3.12.0](https://github.com/larastan/larastan/releases/tag/v3.12.0) (1 day ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [1.4.1](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/1.4.1) (1 day ago)
@@ -68,4 +69,3 @@
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.25](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.25) (3 days ago)
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - [v3.19.2](https://github.com/tempestphp/tempest-framework/releases/tag/v3.19.2) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.11](https://github.com/staabm/phpstan-dba/releases/tag/0.4.11) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.31](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.31) (4 days ago)
