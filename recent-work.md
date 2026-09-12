@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ReflectionBasedMemberUsageProvider: Move reflection work out of loop](https://github.com/shipmonk-rnd/dead-code-detector/pull/440) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (today)
 - [PhpUnitUsageProvider: Reduce calls to reflection](https://github.com/shipmonk-rnd/dead-code-detector/pull/439) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (today)
 - [Merge 2.3.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/6429) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update the Rector integration test to a newer commit (#15156)](https://github.com/phpstan/phpstan/pull/15221) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
@@ -54,7 +55,6 @@
 - [Bump expected turbo version](https://github.com/phpstan/phpstan-src/pull/6394) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [fix `pg_loopen` phpdoc return type](https://github.com/JetBrains/phpstorm-stubs/pull/1940) on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (6 days ago)
 - [Handle `resource` types in builder APIs](https://github.com/nikic/PHP-Parser/pull/1166) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (6 days ago)
-- [verify tests](https://github.com/phpstan/phpstan-src/pull/6387) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
