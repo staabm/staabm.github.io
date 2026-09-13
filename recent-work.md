@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [CI: Speedup PHPStan analysis](https://github.com/composer/composer/pull/13070) on [composer/composer](https://github.com/composer/composer) (today)
 - [CI: Speedup PHPStan analysis](https://github.com/matomo-org/matomo/pull/25278) on [matomo-org/matomo](https://github.com/matomo-org/matomo) (today)
 - [CI: Speedup PHPStan analysis](https://github.com/kimai/kimai/pull/6183) on [kimai/kimai](https://github.com/kimai/kimai) (today)
 - [Update PHPStan](https://github.com/composer/packagist/pull/1850) on [composer/packagist](https://github.com/composer/packagist) (today)
@@ -54,18 +55,17 @@
 - [Prevent repeated invocation of `ReflectionMethod-&gt;getName()`](https://github.com/shipmonk-rnd/dead-code-detector/pull/435) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (3 days ago)
 - [Implement `ActivatableUsageProvider`](https://github.com/shipmonk-rnd/dead-code-detector/pull/434) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (3 days ago)
 - [Prevent repeated invocation of `ReflectionMethod-&gt;getName()`](https://github.com/shipmonk-rnd/dead-code-detector/pull/433) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (3 days ago)
-- [`ApiPhpDocUsageProvider-&gt;shouldMarkMemberAsUsed()` is private](https://github.com/shipmonk-rnd/dead-code-detector/pull/430) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (3 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [larastan/larastan](https://github.com/larastan/larastan) - [v3.12.1](https://github.com/larastan/larastan/releases/tag/v3.12.1) (today)
+- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.9.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.9.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.14](https://github.com/phpstan/phpstan/releases/tag/2.2.14) (1 day ago)
 - [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) - [2.25.0](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.25.0) (2 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.3.3](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.3) (3 days ago)
-- [larastan/larastan](https://github.com/larastan/larastan) - [v3.12.0](https://github.com/larastan/larastan/releases/tag/v3.12.0) (3 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [1.4.1](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/1.4.1) (3 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.73.0](https://github.com/Roave/BetterReflection/releases/tag/6.73.0) (4 days ago)
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.6.4](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.6.4) (4 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.3.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.3) (4 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.25](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.25) (5 days ago)
-- [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - [v3.19.2](https://github.com/tempestphp/tempest-framework/releases/tag/v3.19.2) (5 days ago)
