@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [kimai/kimai](https://github.com/kimai/kimai) (today)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (1 week ago)
-- [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (1 week ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
+- [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 month ago)
-- [phpstan/extension-installer](https://github.com/phpstan/extension-installer) (1 month ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [CI: Speedup PHPStan analysis](https://github.com/matomo-org/matomo/pull/25278) on [matomo-org/matomo](https://github.com/matomo-org/matomo) (today)
+- [CI: Speedup PHPStan analysis](https://github.com/kimai/kimai/pull/6183) on [kimai/kimai](https://github.com/kimai/kimai) (today)
+- [Update PHPStan](https://github.com/composer/packagist/pull/1850) on [composer/packagist](https://github.com/composer/packagist) (today)
 - [SymfonyUsageProvider: Remove unnecessary loops](https://github.com/shipmonk-rnd/dead-code-detector/pull/443) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (today)
 - [SymfonyUsageProvider: prevent duplicate getAttributes() calls](https://github.com/shipmonk-rnd/dead-code-detector/pull/442) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (today)
 - [ApiPhpDocUsageProvider: Prevent unnecessary calls to getName()](https://github.com/shipmonk-rnd/dead-code-detector/pull/441) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (today)
@@ -52,9 +55,6 @@
 - [Implement `ActivatableUsageProvider`](https://github.com/shipmonk-rnd/dead-code-detector/pull/434) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (3 days ago)
 - [Prevent repeated invocation of `ReflectionMethod-&gt;getName()`](https://github.com/shipmonk-rnd/dead-code-detector/pull/433) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (3 days ago)
 - [`ApiPhpDocUsageProvider-&gt;shouldMarkMemberAsUsed()` is private](https://github.com/shipmonk-rnd/dead-code-detector/pull/430) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (3 days ago)
-- [`pcntl_exec()` is not supported by blackfire](https://github.com/phpstan/phpstan-src/pull/6409) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [`LanguageLevelTypeAware` pseudo-types should be turned into phpdoc-type](https://github.com/ondrejmirtes/BetterReflection/pull/46) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (3 days ago)
-- [`LanguageLevelTypeAware` pseudo-types should be turned into phpdoc-type](https://github.com/Roave/BetterReflection/pull/1579) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
