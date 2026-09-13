@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ApiPhpDocUsageProvider: Prevent unnecessary calls to getName()](https://github.com/shipmonk-rnd/dead-code-detector/pull/441) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (today)
 - [ReflectionBasedMemberUsageProvider: Move reflection work out of loop](https://github.com/shipmonk-rnd/dead-code-detector/pull/440) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (1 day ago)
 - [PhpUnitUsageProvider: Reduce calls to reflection](https://github.com/shipmonk-rnd/dead-code-detector/pull/439) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (1 day ago)
 - [Merge 2.3.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/6429) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [`LanguageLevelTypeAware` pseudo-types should be turned into phpdoc-type](https://github.com/Roave/BetterReflection/pull/1579) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (4 days ago)
 - [Bump expected turbo version](https://github.com/phpstan/phpstan-src/pull/6394) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [fix `pg_loopen` phpdoc return type](https://github.com/JetBrains/phpstorm-stubs/pull/1940) on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (1 week ago)
-- [Handle `resource` types in builder APIs](https://github.com/nikic/PHP-Parser/pull/1166) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
