@@ -9,9 +9,9 @@
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (1 week ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (1 week ago)
+- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 month ago)
 
 
@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kimai/kimai](https://github.com/kimai/kimai) - [2.67.0](https://github.com/kimai/kimai/releases/tag/2.67.0) (today)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v3.12.1](https://github.com/larastan/larastan/releases/tag/v3.12.1) (today)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.9.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.9.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.14](https://github.com/phpstan/phpstan/releases/tag/2.2.14) (1 day ago)
-- [ergebnis/phpunit-slow-test-detector](https://github.com/ergebnis/phpunit-slow-test-detector) - [2.25.0](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.25.0) (2 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.3.3](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.3) (3 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [1.4.1](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/1.4.1) (3 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.73.0](https://github.com/Roave/BetterReflection/releases/tag/6.73.0) (4 days ago)
