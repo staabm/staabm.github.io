@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [SymfonyUsageProvider: Remove unnecessary loops](https://github.com/shipmonk-rnd/dead-code-detector/pull/443) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (today)
+- [SymfonyUsageProvider: prevent duplicate getAttributes() calls](https://github.com/shipmonk-rnd/dead-code-detector/pull/442) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (today)
 - [ApiPhpDocUsageProvider: Prevent unnecessary calls to getName()](https://github.com/shipmonk-rnd/dead-code-detector/pull/441) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (today)
 - [ReflectionBasedMemberUsageProvider: Move reflection work out of loop](https://github.com/shipmonk-rnd/dead-code-detector/pull/440) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (1 day ago)
 - [PhpUnitUsageProvider: Reduce calls to reflection](https://github.com/shipmonk-rnd/dead-code-detector/pull/439) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (1 day ago)
@@ -53,8 +55,6 @@
 - [`pcntl_exec()` is not supported by blackfire](https://github.com/phpstan/phpstan-src/pull/6409) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [`LanguageLevelTypeAware` pseudo-types should be turned into phpdoc-type](https://github.com/ondrejmirtes/BetterReflection/pull/46) on [ondrejmirtes/BetterReflection](https://github.com/ondrejmirtes/BetterReflection) (3 days ago)
 - [`LanguageLevelTypeAware` pseudo-types should be turned into phpdoc-type](https://github.com/Roave/BetterReflection/pull/1579) on [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (4 days ago)
-- [Bump expected turbo version](https://github.com/phpstan/phpstan-src/pull/6394) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [fix `pg_loopen` phpdoc return type](https://github.com/JetBrains/phpstorm-stubs/pull/1940) on [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
