@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update jetbrains/phpstorm-stubs version range](https://github.com/deptrac/deptrac/pull/1568) on [deptrac/deptrac](https://github.com/deptrac/deptrac) (today)
 - [CI: Speedup PHPStan analysis](https://github.com/composer/composer/pull/13070) on [composer/composer](https://github.com/composer/composer) (1 day ago)
 - [CI: Speedup PHPStan analysis](https://github.com/matomo-org/matomo/pull/25278) on [matomo-org/matomo](https://github.com/matomo-org/matomo) (1 day ago)
 - [CI: Speedup PHPStan analysis](https://github.com/kimai/kimai/pull/6183) on [kimai/kimai](https://github.com/kimai/kimai) (1 day ago)
@@ -54,7 +55,6 @@
 - [Prevent unnecessary work when symfony installed selectively](https://github.com/shipmonk-rnd/dead-code-detector/pull/437) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (3 days ago)
 - [Prevent repeated invocation of `ReflectionMethod-&gt;getName()`](https://github.com/shipmonk-rnd/dead-code-detector/pull/435) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (4 days ago)
 - [Implement `ActivatableUsageProvider`](https://github.com/shipmonk-rnd/dead-code-detector/pull/434) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (4 days ago)
-- [Prevent repeated invocation of `ReflectionMethod-&gt;getName()`](https://github.com/shipmonk-rnd/dead-code-detector/pull/433) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
