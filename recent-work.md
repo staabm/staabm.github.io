@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (today)
 - [kimai/kimai](https://github.com/kimai/kimai) (1 day ago)
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (3 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ticgal/actualtime](https://github.com/ticgal/actualtime) - [4.1.3](https://github.com/ticgal/actualtime/releases/tag/4.1.3) (today)
 - [kimai/kimai](https://github.com/kimai/kimai) - [2.67.0](https://github.com/kimai/kimai/releases/tag/2.67.0) (1 day ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v3.12.1](https://github.com/larastan/larastan/releases/tag/v3.12.1) (1 day ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.9.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.9.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.73.0](https://github.com/Roave/BetterReflection/releases/tag/6.73.0) (5 days ago)
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.6.4](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.6.4) (5 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.3.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.3) (5 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.25](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.25) (6 days ago)
