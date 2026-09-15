@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (1 day ago)
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (today)
+- [deptrac/deptrac](https://github.com/deptrac/deptrac) (today)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 day ago)
 - [kimai/kimai](https://github.com/kimai/kimai) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (1 week ago)
-- [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (1 week ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
+- [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -59,6 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [deptrac/deptrac](https://github.com/deptrac/deptrac) - [4.7.2](https://github.com/deptrac/deptrac/releases/tag/4.7.2) (today)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.3.4](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.4) (today)
 - [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) - [0.44.0](https://github.com/bitExpert/phpstan-magento/releases/tag/0.44.0) (1 day ago)
 - [ticgal/actualtime](https://github.com/ticgal/actualtime) - [4.1.3](https://github.com/ticgal/actualtime/releases/tag/4.1.3) (1 day ago)
 - [kimai/kimai](https://github.com/kimai/kimai) - [2.67.0](https://github.com/kimai/kimai/releases/tag/2.67.0) (2 days ago)
@@ -67,5 +69,3 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.14](https://github.com/phpstan/phpstan/releases/tag/2.2.14) (3 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.3.3](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.3) (5 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [1.4.1](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/1.4.1) (5 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.73.0](https://github.com/Roave/BetterReflection/releases/tag/6.73.0) (6 days ago)
-- [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.6.4](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.6.4) (6 days ago)
