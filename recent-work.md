@@ -3,11 +3,11 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [deptrac/deptrac](https://github.com/deptrac/deptrac) (today)
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (today)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 day ago)
 - [kimai/kimai](https://github.com/kimai/kimai) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update pr-base-on-previous-branch.yml - PHPStan 2.3 will be released soon](https://github.com/phpstan/phpstan-src/pull/6450) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [NetteUsageProvider: cheap checks first](https://github.com/shipmonk-rnd/dead-code-detector/pull/447) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (1 day ago)
 - [Faster PHPBench/PHPUnit-UsageProvider](https://github.com/shipmonk-rnd/dead-code-detector/pull/446) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (1 day ago)
 - [Update jetbrains/phpstorm-stubs version range](https://github.com/deptrac/deptrac/pull/1568) on [deptrac/deptrac](https://github.com/deptrac/deptrac) (1 day ago)
@@ -54,7 +55,6 @@
 - [PhpUnitUsageProvider: Reduce calls to reflection](https://github.com/shipmonk-rnd/dead-code-detector/pull/439) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (3 days ago)
 - [Merge 2.3.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/6429) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Update the Rector integration test to a newer commit (#15156)](https://github.com/phpstan/phpstan/pull/15221) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
-- [Prevent unnecessary work when symfony installed selectively](https://github.com/shipmonk-rnd/dead-code-detector/pull/437) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
