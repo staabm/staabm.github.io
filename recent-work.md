@@ -4,14 +4,14 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [deptrac/deptrac](https://github.com/deptrac/deptrac) (today)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (today)
+- [deptrac/deptrac](https://github.com/deptrac/deptrac) (today)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (1 day ago)
 - [kimai/kimai](https://github.com/kimai/kimai) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (1 week ago)
-- [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (1 week ago)
 
 
