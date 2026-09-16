@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [composer/packagist](https://github.com/composer/packagist) (today)
+- [ergebnis/.github](https://github.com/ergebnis/.github) (today)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [deptrac/deptrac](https://github.com/deptrac/deptrac) (1 day ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (2 days ago)
 - [kimai/kimai](https://github.com/kimai/kimai) (3 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) (1 week ago)
-- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) (1 week ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
-- [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update to PHPStan 2.x](https://github.com/staabm/side-effects-detector/pull/38) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (today)
+- [PHPStan in PHP 8.3/8.4/8.5](https://github.com/staabm/side-effects-detector/pull/37) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (today)
 - [Re-use local variable in determine-root-version/run.sh](https://github.com/ergebnis/.github/pull/294) on [ergebnis/.github](https://github.com/ergebnis/.github) (today)
 - [Update pr-base-on-previous-branch.yml - PHPStan 2.3 will be released soon](https://github.com/phpstan/phpstan-src/pull/6450) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [NetteUsageProvider: cheap checks first](https://github.com/shipmonk-rnd/dead-code-detector/pull/447) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (2 days ago)
@@ -53,12 +55,11 @@
 - [SymfonyUsageProvider: prevent duplicate getAttributes() calls](https://github.com/shipmonk-rnd/dead-code-detector/pull/442) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (3 days ago)
 - [ApiPhpDocUsageProvider: Prevent unnecessary calls to getName()](https://github.com/shipmonk-rnd/dead-code-detector/pull/441) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (3 days ago)
 - [ReflectionBasedMemberUsageProvider: Move reflection work out of loop](https://github.com/shipmonk-rnd/dead-code-detector/pull/440) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (4 days ago)
-- [PhpUnitUsageProvider: Reduce calls to reflection](https://github.com/shipmonk-rnd/dead-code-detector/pull/439) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (4 days ago)
-- [Merge 2.3.x into 2.2.x](https://github.com/phpstan/phpstan-src/pull/6429) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [ergebnis/.github](https://github.com/ergebnis/.github) - [1.13.4](https://github.com/ergebnis/.github/releases/tag/1.13.4) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.32](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.32) (today)
 - [deptrac/deptrac](https://github.com/deptrac/deptrac) - [4.7.2](https://github.com/deptrac/deptrac/releases/tag/4.7.2) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.3.4](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.4) (1 day ago)
@@ -68,4 +69,3 @@
 - [larastan/larastan](https://github.com/larastan/larastan) - [v3.12.1](https://github.com/larastan/larastan/releases/tag/v3.12.1) (3 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.9.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.9.0) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.14](https://github.com/phpstan/phpstan/releases/tag/2.2.14) (4 days ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.3.3](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.3) (6 days ago)
