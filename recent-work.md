@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement PHPStan result caching in GitHub Actions](https://github.com/symfony/symfony/pull/66146) on [symfony/symfony](https://github.com/symfony/symfony) (today)
+- [Implement PHPStan result caching in GitHub Actions](https://github.com/grokability/snipe-it/pull/19668) on [grokability/snipe-it](https://github.com/grokability/snipe-it) (today)
+- [Implement PHPStan result caching in GitHub Actions](https://github.com/Leantime/leantime/pull/3792) on [Leantime/leantime](https://github.com/Leantime/leantime) (today)
 - [Implement PHPStan result caching in GitHub Actions](https://github.com/knpuniversity/blog/pull/63) on [knpuniversity/blog](https://github.com/knpuniversity/blog) (today)
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/6468) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update to PHPStan 2.x](https://github.com/staabm/side-effects-detector/pull/38) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (1 day ago)
@@ -52,9 +55,6 @@
 - [CI: Speedup PHPStan analysis](https://github.com/composer/composer/pull/13070) on [composer/composer](https://github.com/composer/composer) (4 days ago)
 - [CI: Speedup PHPStan analysis](https://github.com/matomo-org/matomo/pull/25278) on [matomo-org/matomo](https://github.com/matomo-org/matomo) (4 days ago)
 - [CI: Speedup PHPStan analysis](https://github.com/kimai/kimai/pull/6183) on [kimai/kimai](https://github.com/kimai/kimai) (4 days ago)
-- [Update PHPStan](https://github.com/composer/packagist/pull/1850) on [composer/packagist](https://github.com/composer/packagist) (4 days ago)
-- [SymfonyUsageProvider: Remove unnecessary loops](https://github.com/shipmonk-rnd/dead-code-detector/pull/443) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (4 days ago)
-- [SymfonyUsageProvider: prevent duplicate getAttributes() calls](https://github.com/shipmonk-rnd/dead-code-detector/pull/442) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (4 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
