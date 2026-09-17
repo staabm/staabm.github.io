@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [composer/packagist](https://github.com/composer/packagist) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (1 day ago)
 - [ergebnis/.github](https://github.com/ergebnis/.github) (1 day ago)
+- [composer/packagist](https://github.com/composer/packagist) (1 day ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [deptrac/deptrac](https://github.com/deptrac/deptrac) (2 days ago)
 - [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (3 days ago)
 - [kimai/kimai](https://github.com/kimai/kimai) (4 days ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement PHPStan result caching in GitHub Actions](https://github.com/knpuniversity/blog/pull/63) on [knpuniversity/blog](https://github.com/knpuniversity/blog) (today)
+- [Fix build](https://github.com/phpstan/phpstan-src/pull/6468) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Update to PHPStan 2.x](https://github.com/staabm/side-effects-detector/pull/38) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (1 day ago)
 - [PHPStan in PHP 8.3/8.4/8.5](https://github.com/staabm/side-effects-detector/pull/37) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (1 day ago)
 - [Re-use local variable in determine-root-version/run.sh](https://github.com/ergebnis/.github/pull/294) on [ergebnis/.github](https://github.com/ergebnis/.github) (1 day ago)
@@ -53,8 +55,6 @@
 - [Update PHPStan](https://github.com/composer/packagist/pull/1850) on [composer/packagist](https://github.com/composer/packagist) (4 days ago)
 - [SymfonyUsageProvider: Remove unnecessary loops](https://github.com/shipmonk-rnd/dead-code-detector/pull/443) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (4 days ago)
 - [SymfonyUsageProvider: prevent duplicate getAttributes() calls](https://github.com/shipmonk-rnd/dead-code-detector/pull/442) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (4 days ago)
-- [ApiPhpDocUsageProvider: Prevent unnecessary calls to getName()](https://github.com/shipmonk-rnd/dead-code-detector/pull/441) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (4 days ago)
-- [ReflectionBasedMemberUsageProvider: Move reflection work out of loop](https://github.com/shipmonk-rnd/dead-code-detector/pull/440) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
