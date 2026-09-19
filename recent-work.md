@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.26](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.26) (today)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v3.12.2](https://github.com/larastan/larastan/releases/tag/v3.12.2) (today)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.22.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.22.0) (3 days ago)
 - [ergebnis/.github](https://github.com/ergebnis/.github) - [1.13.4](https://github.com/ergebnis/.github/releases/tag/1.13.4) (3 days ago)
@@ -68,4 +69,3 @@
 - [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) - [0.44.0](https://github.com/bitExpert/phpstan-magento/releases/tag/0.44.0) (5 days ago)
 - [ticgal/actualtime](https://github.com/ticgal/actualtime) - [4.1.3](https://github.com/ticgal/actualtime/releases/tag/4.1.3) (5 days ago)
 - [kimai/kimai](https://github.com/kimai/kimai) - [2.67.0](https://github.com/kimai/kimai/releases/tag/2.67.0) (6 days ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - [v5.9.0](https://github.com/nikic/PHP-Parser/releases/tag/v5.9.0) (6 days ago)
