@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [knpuniversity/blog](https://github.com/knpuniversity/blog) (1 day ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (today)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (1 day ago)
+- [knpuniversity/blog](https://github.com/knpuniversity/blog) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [composer/packagist](https://github.com/composer/packagist) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
-- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (3 days ago)
 - [ergebnis/.github](https://github.com/ergebnis/.github) (3 days ago)
-- [deptrac/deptrac](https://github.com/deptrac/deptrac) (4 days ago)
-- [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (5 days ago)
-- [kimai/kimai](https://github.com/kimai/kimai) (6 days ago)
+- [composer/packagist](https://github.com/composer/packagist) (3 days ago)
+- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (3 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix 2.3.x-dev build errors](https://github.com/phpstan/phpstan-doctrine/pull/793) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (today)
+- [Fix PHPParser ArgPlaceholder compat](https://github.com/phpstan/phpstan-phpunit/pull/329) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
+- [Fix 2.3.x-dev build errors](https://github.com/phpstan/phpstan-strict-rules/pull/335) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
+- [Fix methods with an unused parameter](https://github.com/phpstan/phpstan-symfony/pull/511) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (today)
 - [Implement PHPStan result caching in GitHub Actions](https://github.com/symfony/symfony/pull/66146) on [symfony/symfony](https://github.com/symfony/symfony) (2 days ago)
 - [Implement PHPStan result caching in GitHub Actions](https://github.com/grokability/snipe-it/pull/19668) on [grokability/snipe-it](https://github.com/grokability/snipe-it) (2 days ago)
 - [Implement PHPStan result caching in GitHub Actions](https://github.com/Leantime/leantime/pull/3792) on [Leantime/leantime](https://github.com/Leantime/leantime) (2 days ago)
@@ -51,10 +55,6 @@
 - [Update pr-base-on-previous-branch.yml - PHPStan 2.3 will be released soon](https://github.com/phpstan/phpstan-src/pull/6450) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [NetteUsageProvider: cheap checks first](https://github.com/shipmonk-rnd/dead-code-detector/pull/447) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (5 days ago)
 - [Faster PHPBench/PHPUnit-UsageProvider](https://github.com/shipmonk-rnd/dead-code-detector/pull/446) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (5 days ago)
-- [Update jetbrains/phpstorm-stubs version range](https://github.com/deptrac/deptrac/pull/1568) on [deptrac/deptrac](https://github.com/deptrac/deptrac) (5 days ago)
-- [CI: Speedup PHPStan analysis](https://github.com/composer/composer/pull/13070) on [composer/composer](https://github.com/composer/composer) (6 days ago)
-- [CI: Speedup PHPStan analysis](https://github.com/matomo-org/matomo/pull/25278) on [matomo-org/matomo](https://github.com/matomo-org/matomo) (6 days ago)
-- [CI: Speedup PHPStan analysis](https://github.com/kimai/kimai/pull/6183) on [kimai/kimai](https://github.com/kimai/kimai) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
