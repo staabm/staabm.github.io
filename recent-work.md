@@ -5,14 +5,14 @@
 
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 day ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 day ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 day ago)
 - [knpuniversity/blog](https://github.com/knpuniversity/blog) (2 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [ergebnis/.github](https://github.com/ergebnis/.github) (4 days ago)
+- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (4 days ago)
+- [composer/packagist](https://github.com/composer/packagist) (4 days ago)
 
 
 #### 📜 My recent blog posts
