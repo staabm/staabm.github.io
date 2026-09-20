@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Configure editor-links in typo3 integration tests](https://github.com/phpstan/phpstan/pull/15277) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Fix 2.3.x-dev build errors](https://github.com/phpstan/phpstan-doctrine/pull/793) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 day ago)
 - [Fix PHPParser ArgPlaceholder compat](https://github.com/phpstan/phpstan-phpunit/pull/329) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
 - [Fix 2.3.x-dev build errors](https://github.com/phpstan/phpstan-strict-rules/pull/335) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 day ago)
@@ -54,7 +55,6 @@
 - [Re-use local variable in determine-root-version/run.sh](https://github.com/ergebnis/.github/pull/294) on [ergebnis/.github](https://github.com/ergebnis/.github) (4 days ago)
 - [Update pr-base-on-previous-branch.yml - PHPStan 2.3 will be released soon](https://github.com/phpstan/phpstan-src/pull/6450) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [NetteUsageProvider: cheap checks first](https://github.com/shipmonk-rnd/dead-code-detector/pull/447) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (6 days ago)
-- [Faster PHPBench/PHPUnit-UsageProvider](https://github.com/shipmonk-rnd/dead-code-detector/pull/446) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
