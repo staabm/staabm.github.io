@@ -10,7 +10,7 @@
 - [knpuniversity/blog](https://github.com/knpuniversity/blog) (2 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
+- [ergebnis/.github](https://github.com/ergebnis/.github) (4 days ago)
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (4 days ago)
 - [composer/packagist](https://github.com/composer/packagist) (4 days ago)
 
