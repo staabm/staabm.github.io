@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix build](https://github.com/phpstan/phpstan-mockery/pull/103) on [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (today)
 - [Configure editor-links in typo3 integration tests](https://github.com/phpstan/phpstan/pull/15277) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [Fix 2.3.x-dev build errors](https://github.com/phpstan/phpstan-doctrine/pull/793) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
 - [Fix PHPParser ArgPlaceholder compat](https://github.com/phpstan/phpstan-phpunit/pull/329) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
@@ -54,7 +55,6 @@
 - [PHPStan in PHP 8.3/8.4/8.5](https://github.com/staabm/side-effects-detector/pull/37) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (5 days ago)
 - [Re-use local variable in determine-root-version/run.sh](https://github.com/ergebnis/.github/pull/294) on [ergebnis/.github](https://github.com/ergebnis/.github) (5 days ago)
 - [Update pr-base-on-previous-branch.yml - PHPStan 2.3 will be released soon](https://github.com/phpstan/phpstan-src/pull/6450) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [NetteUsageProvider: cheap checks first](https://github.com/shipmonk-rnd/dead-code-detector/pull/447) on [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
