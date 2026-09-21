@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (today)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (2 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (2 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
 - [knpuniversity/blog](https://github.com/knpuniversity/blog) (3 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (3 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [composer/packagist](https://github.com/composer/packagist) (5 days ago)
-- [ergebnis/.github](https://github.com/ergebnis/.github) (5 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
+- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (5 days ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [NativeTypedClassConstantRule is scope php-version aware](https://github.com/phpstan/phpstan-src/pull/6497) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix build](https://github.com/phpstan/phpstan-mockery/pull/103) on [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (today)
 - [Configure editor-links in typo3 integration tests](https://github.com/phpstan/phpstan/pull/15277) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [Fix 2.3.x-dev build errors](https://github.com/phpstan/phpstan-doctrine/pull/793) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 days ago)
@@ -54,11 +55,11 @@
 - [Update to PHPStan 2.x](https://github.com/staabm/side-effects-detector/pull/38) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (5 days ago)
 - [PHPStan in PHP 8.3/8.4/8.5](https://github.com/staabm/side-effects-detector/pull/37) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (5 days ago)
 - [Re-use local variable in determine-root-version/run.sh](https://github.com/ergebnis/.github/pull/294) on [ergebnis/.github](https://github.com/ergebnis/.github) (5 days ago)
-- [Update pr-base-on-previous-branch.yml - PHPStan 2.3 will be released soon](https://github.com/phpstan/phpstan-src/pull/6450) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [1.4.2](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/1.4.2) (today)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.15.0](https://github.com/symplify/phpstan-rules/releases/tag/14.15.0) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.26](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.26) (2 days ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v3.12.2](https://github.com/larastan/larastan/releases/tag/v3.12.2) (2 days ago)
@@ -68,4 +69,3 @@
 - [deptrac/deptrac](https://github.com/deptrac/deptrac) - [4.7.2](https://github.com/deptrac/deptrac/releases/tag/4.7.2) (6 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.3.4](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.4) (6 days ago)
 - [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) - [0.44.0](https://github.com/bitExpert/phpstan-magento/releases/tag/0.44.0) (1 week ago)
-- [ticgal/actualtime](https://github.com/ticgal/actualtime) - [4.1.3](https://github.com/ticgal/actualtime/releases/tag/4.1.3) (1 week ago)
