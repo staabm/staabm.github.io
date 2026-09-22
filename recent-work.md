@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.15.1](https://github.com/symplify/phpstan-rules/releases/tag/14.15.1) (today)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [1.4.2](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/1.4.2) (1 day ago)
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.15.0](https://github.com/symplify/phpstan-rules/releases/tag/14.15.0) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.26](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.26) (3 days ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v3.12.2](https://github.com/larastan/larastan/releases/tag/v3.12.2) (3 days ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.22.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.22.0) (6 days ago)
