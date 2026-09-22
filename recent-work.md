@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [composer/composer](https://github.com/composer/composer) (today)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (3 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (3 days ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (3 days ago)
-- [knpuniversity/blog](https://github.com/knpuniversity/blog) (4 days ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (3 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
-- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (6 days ago)
+- [knpuniversity/blog](https://github.com/knpuniversity/blog) (4 days ago)
+- [composer/packagist](https://github.com/composer/packagist) (6 days ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Resolve the printf format parser&#39;s PHP version check from `Scope::getPhpVersion()`](https://github.com/phpstan/phpstan-src/pull/6536) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [RequiredPhpVersionCommentTest cover `PHPStan/Build/data`](https://github.com/phpstan/phpstan-src/pull/6534) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [NativeTypedClassConstantRule is scope php-version aware](https://github.com/phpstan/phpstan-src/pull/6497) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix build](https://github.com/phpstan/phpstan-mockery/pull/103) on [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (1 day ago)
 - [Configure editor-links in typo3 integration tests](https://github.com/phpstan/phpstan/pull/15277) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
@@ -53,15 +55,13 @@
 - [Implement PHPStan result caching in GitHub Actions](https://github.com/knpuniversity/blog/pull/63) on [knpuniversity/blog](https://github.com/knpuniversity/blog) (5 days ago)
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/6468) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Update to PHPStan 2.x](https://github.com/staabm/side-effects-detector/pull/38) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (6 days ago)
-- [PHPStan in PHP 8.3/8.4/8.5](https://github.com/staabm/side-effects-detector/pull/37) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (6 days ago)
-- [Re-use local variable in determine-root-version/run.sh](https://github.com/ergebnis/.github/pull/294) on [ergebnis/.github](https://github.com/ergebnis/.github) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.15.1](https://github.com/symplify/phpstan-rules/releases/tag/14.15.1) (today)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.27](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.27) (today)
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.15.3](https://github.com/symplify/phpstan-rules/releases/tag/14.15.3) (today)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [1.4.2](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/1.4.2) (1 day ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.26](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.26) (3 days ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v3.12.2](https://github.com/larastan/larastan/releases/tag/v3.12.2) (3 days ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.22.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.22.0) (6 days ago)
 - [ergebnis/.github](https://github.com/ergebnis/.github) - [1.13.4](https://github.com/ergebnis/.github/releases/tag/1.13.4) (6 days ago)
