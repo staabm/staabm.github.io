@@ -6,13 +6,13 @@
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [composer/composer](https://github.com/composer/composer) (1 day ago)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (2 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (4 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (4 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (4 days ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (4 days ago)
 - [knpuniversity/blog](https://github.com/knpuniversity/blog) (5 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (5 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
+- [grokability/snipe-it](https://github.com/grokability/snipe-it) (6 days ago)
 
 
 #### 📜 My recent blog posts
@@ -59,6 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.15](https://github.com/phpstan/phpstan/releases/tag/2.2.15) (today)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [10.5.65](https://github.com/sebastianbergmann/phpunit/releases/tag/10.5.65) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.27](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.27) (1 day ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.15.3](https://github.com/symplify/phpstan-rules/releases/tag/14.15.3) (1 day ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [1.4.2](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/1.4.2) (2 days ago)
@@ -67,5 +69,3 @@
 - [ergebnis/.github](https://github.com/ergebnis/.github) - [1.13.4](https://github.com/ergebnis/.github/releases/tag/1.13.4) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.32](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.32) (1 week ago)
 - [deptrac/deptrac](https://github.com/deptrac/deptrac) - [4.7.2](https://github.com/deptrac/deptrac/releases/tag/4.7.2) (1 week ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.3.4](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.4) (1 week ago)
-- [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) - [0.44.0](https://github.com/bitExpert/phpstan-magento/releases/tag/0.44.0) (1 week ago)
