@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [composer/composer](https://github.com/composer/composer) (1 day ago)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (2 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (4 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (4 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (4 days ago)
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (5 days ago)
 - [knpuniversity/blog](https://github.com/knpuniversity/blog) (5 days ago)
-- [composer/packagist](https://github.com/composer/packagist) (1 week ago)
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (5 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix php-version requirement in `ImpossibleCheckTypeFunctionCallRuleTest`](https://github.com/phpstan/phpstan-src/pull/6555) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Resolve PHP version checks in src/Type/Php extensions from `Scope::getPhpVersion()`](https://github.com/phpstan/phpstan-src/pull/6551) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Resolve the printf format parser&#39;s PHP version check from `Scope::getPhpVersion()`](https://github.com/phpstan/phpstan-src/pull/6536) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [RequiredPhpVersionCommentTest cover `PHPStan/Build/data`](https://github.com/phpstan/phpstan-src/pull/6534) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [NativeTypedClassConstantRule is scope php-version aware](https://github.com/phpstan/phpstan-src/pull/6497) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -53,8 +55,6 @@
 - [Implement PHPStan result caching in GitHub Actions](https://github.com/grokability/snipe-it/pull/19668) on [grokability/snipe-it](https://github.com/grokability/snipe-it) (6 days ago)
 - [Implement PHPStan result caching in GitHub Actions](https://github.com/Leantime/leantime/pull/3792) on [Leantime/leantime](https://github.com/Leantime/leantime) (6 days ago)
 - [Implement PHPStan result caching in GitHub Actions](https://github.com/knpuniversity/blog/pull/63) on [knpuniversity/blog](https://github.com/knpuniversity/blog) (6 days ago)
-- [Fix build](https://github.com/phpstan/phpstan-src/pull/6468) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Update to PHPStan 2.x](https://github.com/staabm/side-effects-detector/pull/38) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
