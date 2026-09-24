@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [composer/composer](https://github.com/composer/composer) (2 days ago)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (3 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (5 days ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.16.0](https://github.com/symplify/phpstan-rules/releases/tag/14.16.0) (today)
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.25.0](https://github.com/paratestphp/paratest/releases/tag/v7.25.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.15](https://github.com/phpstan/phpstan/releases/tag/2.2.15) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [10.5.65](https://github.com/sebastianbergmann/phpunit/releases/tag/10.5.65) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.27](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.27) (2 days ago)
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.15.3](https://github.com/symplify/phpstan-rules/releases/tag/14.15.3) (2 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [1.4.2](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/1.4.2) (3 days ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v3.12.2](https://github.com/larastan/larastan/releases/tag/v3.12.2) (5 days ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.22.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.22.0) (1 week ago)
 - [ergebnis/.github](https://github.com/ergebnis/.github) - [1.13.4](https://github.com/ergebnis/.github/releases/tag/1.13.4) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.32](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.32) (1 week ago)
-- [deptrac/deptrac](https://github.com/deptrac/deptrac) - [4.7.2](https://github.com/deptrac/deptrac/releases/tag/4.7.2) (1 week ago)
