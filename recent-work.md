@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.3.4](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.4) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.16](https://github.com/phpstan/phpstan/releases/tag/2.2.16) (today)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.2.16](https://github.com/phpstan/turbo-ext/releases/tag/2.2.16) (today)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.36](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.36) (today)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.3.5](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.5) (today)
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.17.0](https://github.com/symplify/phpstan-rules/releases/tag/14.17.0) (today)
 - [php/php-src](https://github.com/php/php-src) - [php-8.4.26](https://github.com/php/php-src/releases/tag/php-8.4.26) (1 day ago)
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.16.0](https://github.com/symplify/phpstan-rules/releases/tag/14.16.0) (1 day ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.25.0](https://github.com/paratestphp/paratest/releases/tag/v7.25.0) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.15](https://github.com/phpstan/phpstan/releases/tag/2.2.15) (2 days ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.2.15](https://github.com/phpstan/turbo-ext/releases/tag/2.2.15) (2 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [10.5.65](https://github.com/sebastianbergmann/phpunit/releases/tag/10.5.65) (2 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.27](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.27) (3 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [1.4.2](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/1.4.2) (4 days ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v3.12.2](https://github.com/larastan/larastan/releases/tag/v3.12.2) (6 days ago)
