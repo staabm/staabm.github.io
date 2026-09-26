@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [composer/composer](https://github.com/composer/composer) (4 days ago)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (5 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix build](https://github.com/phpstan/phpstan-src/pull/6601) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [DeprecatedCastRule: Utilize `Scope::getPhpVersion()`](https://github.com/phpstan/phpstan-src/pull/6600) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix php-version requirement in `ImpossibleCheckTypeFunctionCallRuleTest`](https://github.com/phpstan/phpstan-src/pull/6555) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Resolve PHP version checks in src/Type/Php extensions from `Scope::getPhpVersion()`](https://github.com/phpstan/phpstan-src/pull/6551) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Resolve the printf format parser&#39;s PHP version check from `Scope::getPhpVersion()`](https://github.com/phpstan/phpstan-src/pull/6536) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -53,12 +55,11 @@
 - [Fix methods with an unused parameter](https://github.com/phpstan/phpstan-symfony/pull/511) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
 - [Implement PHPStan result caching in GitHub Actions](https://github.com/symfony/symfony/pull/66146) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 - [Implement PHPStan result caching in GitHub Actions](https://github.com/grokability/snipe-it/pull/19668) on [grokability/snipe-it](https://github.com/grokability/snipe-it) (1 week ago)
-- [Implement PHPStan result caching in GitHub Actions](https://github.com/Leantime/leantime/pull/3792) on [Leantime/leantime](https://github.com/Leantime/leantime) (1 week ago)
-- [Implement PHPStan result caching in GitHub Actions](https://github.com/knpuniversity/blog/pull/63) on [knpuniversity/blog](https://github.com/knpuniversity/blog) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) - [0.12.0](https://github.com/mspirkov/yii2-phpstan-rules/releases/tag/0.12.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.16](https://github.com/phpstan/phpstan/releases/tag/2.2.16) (1 day ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.2.16](https://github.com/phpstan/turbo-ext/releases/tag/2.2.16) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.36](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.36) (1 day ago)
@@ -68,4 +69,3 @@
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.25.0](https://github.com/paratestphp/paratest/releases/tag/v7.25.0) (2 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.27](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.27) (4 days ago)
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - [1.4.2](https://github.com/shipmonk-rnd/dead-code-detector/releases/tag/1.4.2) (5 days ago)
-- [larastan/larastan](https://github.com/larastan/larastan) - [v3.12.2](https://github.com/larastan/larastan/releases/tag/v3.12.2) (1 week ago)
