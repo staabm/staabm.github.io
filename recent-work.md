@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (3 days ago)
 - [composer/composer](https://github.com/composer/composer) (5 days ago)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (6 days ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [RichParser: Remove additional node-traversal pass](https://github.com/phpstan/phpstan-src/pull/6612) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [ParentDirectoryRelativePathHelper: Move repetative work into constructor](https://github.com/phpstan/phpstan-src/pull/6611) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/6601) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [DeprecatedCastRule: Utilize `Scope::getPhpVersion()`](https://github.com/phpstan/phpstan-src/pull/6600) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix php-version requirement in `ImpossibleCheckTypeFunctionCallRuleTest`](https://github.com/phpstan/phpstan-src/pull/6555) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -53,8 +55,6 @@
 - [Fix PHPParser ArgPlaceholder compat](https://github.com/phpstan/phpstan-phpunit/pull/329) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [Fix 2.3.x-dev build errors](https://github.com/phpstan/phpstan-strict-rules/pull/335) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 week ago)
 - [Fix methods with an unused parameter](https://github.com/phpstan/phpstan-symfony/pull/511) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
-- [Implement PHPStan result caching in GitHub Actions](https://github.com/symfony/symfony/pull/66146) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
-- [Implement PHPStan result caching in GitHub Actions](https://github.com/grokability/snipe-it/pull/19668) on [grokability/snipe-it](https://github.com/grokability/snipe-it) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
