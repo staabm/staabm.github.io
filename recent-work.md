@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (2 days ago)
-- [composer/composer](https://github.com/composer/composer) (4 days ago)
-- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (5 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (3 days ago)
+- [composer/composer](https://github.com/composer/composer) (5 days ago)
+- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (6 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
@@ -28,7 +28,7 @@
 
 - [pavel-rossinsky](https://github.com/pavel-rossinsky) (2 months ago)
 - [saibotk](https://github.com/saibotk) (7 months ago)
-- [JetBrainsOfficial](https://github.com/JetBrainsOfficial) (11 months ago)
+- [JetBrainsOfficial](https://github.com/JetBrainsOfficial) (1 year ago)
 - [passbolt](https://github.com/passbolt) (1 year ago)
 - [packagist](https://github.com/packagist) (1 year ago)
 - [Enkora](https://github.com/Enkora) (1 year ago)
@@ -40,15 +40,15 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix build](https://github.com/phpstan/phpstan-src/pull/6601) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [DeprecatedCastRule: Utilize `Scope::getPhpVersion()`](https://github.com/phpstan/phpstan-src/pull/6600) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [Fix php-version requirement in `ImpossibleCheckTypeFunctionCallRuleTest`](https://github.com/phpstan/phpstan-src/pull/6555) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Resolve PHP version checks in src/Type/Php extensions from `Scope::getPhpVersion()`](https://github.com/phpstan/phpstan-src/pull/6551) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Resolve the printf format parser&#39;s PHP version check from `Scope::getPhpVersion()`](https://github.com/phpstan/phpstan-src/pull/6536) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [RequiredPhpVersionCommentTest cover `PHPStan/Build/data`](https://github.com/phpstan/phpstan-src/pull/6534) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [NativeTypedClassConstantRule is scope php-version aware](https://github.com/phpstan/phpstan-src/pull/6497) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Fix build](https://github.com/phpstan/phpstan-mockery/pull/103) on [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (5 days ago)
-- [Configure editor-links in typo3 integration tests](https://github.com/phpstan/phpstan/pull/15277) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
+- [Fix build](https://github.com/phpstan/phpstan-src/pull/6601) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [DeprecatedCastRule: Utilize `Scope::getPhpVersion()`](https://github.com/phpstan/phpstan-src/pull/6600) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Fix php-version requirement in `ImpossibleCheckTypeFunctionCallRuleTest`](https://github.com/phpstan/phpstan-src/pull/6555) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Resolve PHP version checks in src/Type/Php extensions from `Scope::getPhpVersion()`](https://github.com/phpstan/phpstan-src/pull/6551) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Resolve the printf format parser&#39;s PHP version check from `Scope::getPhpVersion()`](https://github.com/phpstan/phpstan-src/pull/6536) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [RequiredPhpVersionCommentTest cover `PHPStan/Build/data`](https://github.com/phpstan/phpstan-src/pull/6534) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [NativeTypedClassConstantRule is scope php-version aware](https://github.com/phpstan/phpstan-src/pull/6497) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Fix build](https://github.com/phpstan/phpstan-mockery/pull/103) on [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (6 days ago)
+- [Configure editor-links in typo3 integration tests](https://github.com/phpstan/phpstan/pull/15277) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [Fix 2.3.x-dev build errors](https://github.com/phpstan/phpstan-doctrine/pull/793) on [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
 - [Fix PHPParser ArgPlaceholder compat](https://github.com/phpstan/phpstan-phpunit/pull/329) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [Fix 2.3.x-dev build errors](https://github.com/phpstan/phpstan-strict-rules/pull/335) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 week ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.19](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.19) (today)
-- [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) - [0.12.0](https://github.com/mspirkov/yii2-phpstan-rules/releases/tag/0.12.0) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.16](https://github.com/phpstan/phpstan/releases/tag/2.2.16) (1 day ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.2.16](https://github.com/phpstan/turbo-ext/releases/tag/2.2.16) (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.36](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.36) (1 day ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.3.5](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.5) (1 day ago)
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.17.0](https://github.com/symplify/phpstan-rules/releases/tag/14.17.0) (1 day ago)
-- [php/php-src](https://github.com/php/php-src) - [php-8.4.26](https://github.com/php/php-src/releases/tag/php-8.4.26) (2 days ago)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.25.0](https://github.com/paratestphp/paratest/releases/tag/v7.25.0) (2 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.27](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.27) (4 days ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.19](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.19) (1 day ago)
+- [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) - [0.12.0](https://github.com/mspirkov/yii2-phpstan-rules/releases/tag/0.12.0) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.16](https://github.com/phpstan/phpstan/releases/tag/2.2.16) (2 days ago)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.2.16](https://github.com/phpstan/turbo-ext/releases/tag/2.2.16) (2 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.36](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.36) (2 days ago)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.3.5](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.5) (2 days ago)
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.17.0](https://github.com/symplify/phpstan-rules/releases/tag/14.17.0) (2 days ago)
+- [php/php-src](https://github.com/php/php-src) - [php-8.4.26](https://github.com/php/php-src/releases/tag/php-8.4.26) (3 days ago)
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.25.0](https://github.com/paratestphp/paratest/releases/tag/v7.25.0) (3 days ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.27](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.27) (5 days ago)
