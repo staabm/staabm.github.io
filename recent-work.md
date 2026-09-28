@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (4 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (today)
 - [composer/composer](https://github.com/composer/composer) (6 days ago)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (1 week ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 week ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
 - [knpuniversity/blog](https://github.com/knpuniversity/blog) (1 week ago)
-- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) - [0.13.0](https://github.com/mspirkov/yii2-phpstan-rules/releases/tag/0.13.0) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.33](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.33) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.6](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.6) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) - [0.35.5](https://github.com/infection/infection/releases/tag/0.35.5) (1 day ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.19](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.19) (2 days ago)
-- [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) - [0.12.0](https://github.com/mspirkov/yii2-phpstan-rules/releases/tag/0.12.0) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.16](https://github.com/phpstan/phpstan/releases/tag/2.2.16) (3 days ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.2.16](https://github.com/phpstan/turbo-ext/releases/tag/2.2.16) (3 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [12.5.36](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.36) (3 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.3.5](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.3.5) (3 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.17.0](https://github.com/symplify/phpstan-rules/releases/tag/14.17.0) (3 days ago)
-- [php/php-src](https://github.com/php/php-src) - [php-8.4.26](https://github.com/php/php-src/releases/tag/php-8.4.26) (4 days ago)
