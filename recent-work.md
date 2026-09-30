@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [composer/composer](https://github.com/composer/composer) (1 week ago)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (1 week ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 week ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (1 week ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Discourage assert(Not)Empty if &#34;empty&#34; usage is disallowed (#325)](https://github.com/phpstan/phpstan-phpunit/pull/337) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
+- [Declare more phpdoc types](https://github.com/Seldaek/phar-utils/pull/17) on [Seldaek/phar-utils](https://github.com/Seldaek/phar-utils) (today)
 - [Bump expected turbo version](https://github.com/phpstan/phpstan-src/pull/6631) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix composer.json typo](https://github.com/staabm/phpstan-dba/pull/806) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [doctrine/dbal is optional](https://github.com/staabm/phpstan-dba/pull/805) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
@@ -53,19 +55,17 @@
 - [Resolve the printf format parser&#39;s PHP version check from `Scope::getPhpVersion()`](https://github.com/phpstan/phpstan-src/pull/6536) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [RequiredPhpVersionCommentTest cover `PHPStan/Build/data`](https://github.com/phpstan/phpstan-src/pull/6534) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [NativeTypedClassConstantRule is scope php-version aware](https://github.com/phpstan/phpstan-src/pull/6497) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix build](https://github.com/phpstan/phpstan-mockery/pull/103) on [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (1 week ago)
-- [Configure editor-links in typo3 integration tests](https://github.com/phpstan/phpstan/pull/15277) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.23.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.23.0) (today)
+- [grokability/snipe-it](https://github.com/grokability/snipe-it) - [v8.8.0](https://github.com/grokability/snipe-it/releases/tag/v8.8.0) (today)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.20](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.20) (today)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.4.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.4.0) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.13](https://github.com/staabm/phpstan-dba/releases/tag/0.4.13) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.3.6](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.6) (1 day ago)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - [2.4.0](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/releases/tag/2.4.0) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.34](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.34) (1 day ago)
 - [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) - [0.13.0](https://github.com/mspirkov/yii2-phpstan-rules/releases/tag/0.13.0) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.6](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.6) (3 days ago)
-- [infection/infection](https://github.com/infection/infection) - [0.35.5](https://github.com/infection/infection/releases/tag/0.35.5) (3 days ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.19](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.19) (4 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.16](https://github.com/phpstan/phpstan/releases/tag/2.2.16) (5 days ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.2.16](https://github.com/phpstan/turbo-ext/releases/tag/2.2.16) (5 days ago)
