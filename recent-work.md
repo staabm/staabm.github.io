@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [composer/composer](https://github.com/composer/composer) (1 week ago)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
@@ -40,15 +40,15 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix composer.json typo](https://github.com/staabm/phpstan-dba/pull/806) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [doctrine/dbal is optional](https://github.com/staabm/phpstan-dba/pull/805) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
-- [Turbo: Optimize access patterns](https://github.com/phpstan/phpstan-src/pull/6626) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [RichParser: Remove additional node-traversal pass](https://github.com/phpstan/phpstan-src/pull/6612) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [ParentDirectoryRelativePathHelper: Move repetative work into constructor](https://github.com/phpstan/phpstan-src/pull/6611) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Fix build](https://github.com/phpstan/phpstan-src/pull/6601) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [DeprecatedCastRule: Utilize `Scope::getPhpVersion()`](https://github.com/phpstan/phpstan-src/pull/6600) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Fix php-version requirement in `ImpossibleCheckTypeFunctionCallRuleTest`](https://github.com/phpstan/phpstan-src/pull/6555) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Resolve PHP version checks in src/Type/Php extensions from `Scope::getPhpVersion()`](https://github.com/phpstan/phpstan-src/pull/6551) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Fix composer.json typo](https://github.com/staabm/phpstan-dba/pull/806) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [doctrine/dbal is optional](https://github.com/staabm/phpstan-dba/pull/805) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [Turbo: Optimize access patterns](https://github.com/phpstan/phpstan-src/pull/6626) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [RichParser: Remove additional node-traversal pass](https://github.com/phpstan/phpstan-src/pull/6612) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [ParentDirectoryRelativePathHelper: Move repetative work into constructor](https://github.com/phpstan/phpstan-src/pull/6611) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Fix build](https://github.com/phpstan/phpstan-src/pull/6601) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [DeprecatedCastRule: Utilize `Scope::getPhpVersion()`](https://github.com/phpstan/phpstan-src/pull/6600) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Fix php-version requirement in `ImpossibleCheckTypeFunctionCallRuleTest`](https://github.com/phpstan/phpstan-src/pull/6555) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [Resolve PHP version checks in src/Type/Php extensions from `Scope::getPhpVersion()`](https://github.com/phpstan/phpstan-src/pull/6551) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Resolve the printf format parser&#39;s PHP version check from `Scope::getPhpVersion()`](https://github.com/phpstan/phpstan-src/pull/6536) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [RequiredPhpVersionCommentTest cover `PHPStan/Build/data`](https://github.com/phpstan/phpstan-src/pull/6534) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [NativeTypedClassConstantRule is scope php-version aware](https://github.com/phpstan/phpstan-src/pull/6497) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.13](https://github.com/staabm/phpstan-dba/releases/tag/0.4.13) (today)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.3.6](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.6) (today)
-- [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - [2.4.0](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/releases/tag/2.4.0) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.34](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.34) (today)
-- [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) - [0.13.0](https://github.com/mspirkov/yii2-phpstan-rules/releases/tag/0.13.0) (1 day ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.6](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.6) (2 days ago)
-- [infection/infection](https://github.com/infection/infection) - [0.35.5](https://github.com/infection/infection/releases/tag/0.35.5) (2 days ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.19](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.19) (3 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.16](https://github.com/phpstan/phpstan/releases/tag/2.2.16) (4 days ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.2.16](https://github.com/phpstan/turbo-ext/releases/tag/2.2.16) (4 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.13](https://github.com/staabm/phpstan-dba/releases/tag/0.4.13) (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.3.6](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.6) (1 day ago)
+- [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - [2.4.0](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/releases/tag/2.4.0) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.34](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.34) (1 day ago)
+- [mspirkov/yii2-phpstan-rules](https://github.com/mspirkov/yii2-phpstan-rules) - [0.13.0](https://github.com/mspirkov/yii2-phpstan-rules/releases/tag/0.13.0) (2 days ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.6](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.6) (3 days ago)
+- [infection/infection](https://github.com/infection/infection) - [0.35.5](https://github.com/infection/infection/releases/tag/0.35.5) (3 days ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.19](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.19) (4 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.16](https://github.com/phpstan/phpstan/releases/tag/2.2.16) (5 days ago)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.2.16](https://github.com/phpstan/turbo-ext/releases/tag/2.2.16) (5 days ago)
