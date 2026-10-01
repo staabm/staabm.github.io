@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Lazier verbosity in `ConstantArrayType-&gt;checkOurKeys()`](https://github.com/phpstan/phpstan-src/pull/6649) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [AssertEmptyIsDiscouragedRule: use unique error identifier](https://github.com/phpstan/phpstan-phpunit/pull/341) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [AssertEmptyIsDiscouragedRule: use unique error identifier](https://github.com/phpstan/phpstan-phpunit/pull/340) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [Use stricter assertions in tests](https://github.com/phpstan/phpstan-dibi/pull/70) on [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (today)
@@ -54,7 +55,6 @@
 - [RichParser: Remove additional node-traversal pass](https://github.com/phpstan/phpstan-src/pull/6612) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [ParentDirectoryRelativePathHelper: Move repetative work into constructor](https://github.com/phpstan/phpstan-src/pull/6611) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Fix build](https://github.com/phpstan/phpstan-src/pull/6601) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [DeprecatedCastRule: Utilize `Scope::getPhpVersion()`](https://github.com/phpstan/phpstan-src/pull/6600) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
