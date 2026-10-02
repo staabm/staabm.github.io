@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (1 day ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 day ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (4 days ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ConstantArrayType: reduce duplicate work in `checkOurKeys()`](https://github.com/phpstan/phpstan-src/pull/6661) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Fix PHP7.x build](https://github.com/phpstan/phpstan-src/pull/6653) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Lazier verbosity in `ConstantArrayType-&gt;checkOurKeys()`](https://github.com/phpstan/phpstan-src/pull/6649) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [AssertEmptyIsDiscouragedRule: use unique error identifier](https://github.com/phpstan/phpstan-phpunit/pull/341) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
 - [AssertEmptyIsDiscouragedRule: use unique error identifier](https://github.com/phpstan/phpstan-phpunit/pull/340) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
@@ -53,12 +55,12 @@
 - [doctrine/dbal is optional](https://github.com/staabm/phpstan-dba/pull/805) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [Turbo: Optimize access patterns](https://github.com/phpstan/phpstan-src/pull/6626) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [RichParser: Remove additional node-traversal pass](https://github.com/phpstan/phpstan-src/pull/6612) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [ParentDirectoryRelativePathHelper: Move repetative work into constructor](https://github.com/phpstan/phpstan-src/pull/6611) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Fix build](https://github.com/phpstan/phpstan-src/pull/6601) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [infection/infection](https://github.com/infection/infection) - [0.35.6](https://github.com/infection/infection/releases/tag/0.35.6) (today)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.0) (today)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.4.1](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.4.1) (1 day ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.21](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.21) (1 day ago)
 - [ticgal/actualtime](https://github.com/ticgal/actualtime) - [4.1.4](https://github.com/ticgal/actualtime/releases/tag/4.1.4) (1 day ago)
@@ -66,6 +68,4 @@
 - [grokability/snipe-it](https://github.com/grokability/snipe-it) - [v8.8.0](https://github.com/grokability/snipe-it/releases/tag/v8.8.0) (2 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.4.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.4.0) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.13](https://github.com/staabm/phpstan-dba/releases/tag/0.4.13) (3 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.3.6](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.6) (3 days ago)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - [2.4.0](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier/releases/tag/2.4.0) (3 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.34](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.34) (3 days ago)
