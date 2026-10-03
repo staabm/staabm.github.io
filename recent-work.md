@@ -8,11 +8,11 @@
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 days ago)
 - [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (2 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [composer/composer](https://github.com/composer/composer) (1 week ago)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (1 week ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (2 weeks ago)
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
