@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
-- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (2 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
+- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (5 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [composer/composer](https://github.com/composer/composer) (1 week ago)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (1 week ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) (2 weeks ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Bump expected turbo version](https://github.com/phpstan/phpstan-src/pull/6665) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [ConstantArrayType: reduce duplicate work in `checkOurKeys()`](https://github.com/phpstan/phpstan-src/pull/6661) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Fix PHP7.x build](https://github.com/phpstan/phpstan-src/pull/6653) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Lazier verbosity in `ConstantArrayType-&gt;checkOurKeys()`](https://github.com/phpstan/phpstan-src/pull/6649) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,7 +55,6 @@
 - [Fix composer.json typo](https://github.com/staabm/phpstan-dba/pull/806) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [doctrine/dbal is optional](https://github.com/staabm/phpstan-dba/pull/805) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [Turbo: Optimize access patterns](https://github.com/phpstan/phpstan-src/pull/6626) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [RichParser: Remove additional node-traversal pass](https://github.com/phpstan/phpstan-src/pull/6612) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
