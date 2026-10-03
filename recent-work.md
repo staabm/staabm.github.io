@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.4.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.4.1) (today)
 - [ergebnis/.github](https://github.com/ergebnis/.github) - [1.14.0](https://github.com/ergebnis/.github/releases/tag/1.14.0) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) - [0.35.6](https://github.com/infection/infection/releases/tag/0.35.6) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.0) (1 day ago)
@@ -67,5 +68,4 @@
 - [ticgal/actualtime](https://github.com/ticgal/actualtime) - [4.1.4](https://github.com/ticgal/actualtime/releases/tag/4.1.4) (2 days ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.23.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.23.0) (3 days ago)
 - [grokability/snipe-it](https://github.com/grokability/snipe-it) - [v8.8.0](https://github.com/grokability/snipe-it/releases/tag/v8.8.0) (3 days ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.4.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.4.0) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.13](https://github.com/staabm/phpstan-dba/releases/tag/0.4.13) (4 days ago)
