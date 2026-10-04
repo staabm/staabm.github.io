@@ -4,11 +4,11 @@
 #### 💻 Check out what I'm currently working on
 
 - [Leantime/leantime](https://github.com/Leantime/leantime) (today)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (1 day ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
-- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (3 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (3 days ago)
+- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [composer/composer](https://github.com/composer/composer) (1 week ago)
@@ -59,6 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.17](https://github.com/phpstan/phpstan/releases/tag/2.2.17) (today)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.2.17](https://github.com/phpstan/turbo-ext/releases/tag/2.2.17) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.26.0](https://github.com/paratestphp/paratest/releases/tag/v7.26.0) (today)
 - [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.10.3](https://github.com/Leantime/leantime/releases/tag/v3.10.3) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.4.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.4.1) (1 day ago)
@@ -67,5 +69,3 @@
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.0) (2 days ago)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.4.1](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.4.1) (3 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.21](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.21) (3 days ago)
-- [ticgal/actualtime](https://github.com/ticgal/actualtime) - [4.1.4](https://github.com/ticgal/actualtime/releases/tag/4.1.4) (3 days ago)
-- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.23.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.23.0) (4 days ago)
