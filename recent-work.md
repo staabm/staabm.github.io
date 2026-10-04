@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.26.0](https://github.com/paratestphp/paratest/releases/tag/v7.26.0) (today)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.4.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.4.1) (1 day ago)
 - [ergebnis/.github](https://github.com/ergebnis/.github) - [1.14.0](https://github.com/ergebnis/.github/releases/tag/1.14.0) (2 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.35.6](https://github.com/infection/infection/releases/tag/0.35.6) (2 days ago)
@@ -68,4 +69,3 @@
 - [ticgal/actualtime](https://github.com/ticgal/actualtime) - [4.1.4](https://github.com/ticgal/actualtime/releases/tag/4.1.4) (3 days ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - [8.23.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.23.0) (4 days ago)
 - [grokability/snipe-it](https://github.com/grokability/snipe-it) - [v8.8.0](https://github.com/grokability/snipe-it/releases/tag/v8.8.0) (4 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.13](https://github.com/staabm/phpstan-dba/releases/tag/0.4.13) (5 days ago)
