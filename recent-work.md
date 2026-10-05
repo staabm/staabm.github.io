@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [`AssertEmptyIsDiscouragedRule` is auto-fixable](https://github.com/phpstan/phpstan-phpunit/pull/342) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [Update PHPBench baseline](https://github.com/phpstan/phpstan-src/pull/6677) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Bump expected turbo version](https://github.com/phpstan/phpstan-src/pull/6676) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Bump expected turbo version](https://github.com/phpstan/phpstan-src/pull/6665) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -54,11 +55,12 @@
 - [feat: Discourage assert(Not)Empty if &#34;empty&#34; usage is disallowed (#325)](https://github.com/phpstan/phpstan-phpunit/pull/337) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
 - [Declare more phpdoc types](https://github.com/Seldaek/phar-utils/pull/17) on [Seldaek/phar-utils](https://github.com/Seldaek/phar-utils) (5 days ago)
 - [Bump expected turbo version](https://github.com/phpstan/phpstan-src/pull/6631) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Fix composer.json typo](https://github.com/staabm/phpstan-dba/pull/806) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kimai/kimai](https://github.com/kimai/kimai) - [2.68.0](https://github.com/kimai/kimai/releases/tag/2.68.0) (today)
+- [larastan/larastan](https://github.com/larastan/larastan) - [v3.12.3](https://github.com/larastan/larastan/releases/tag/v3.12.3) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.1) (today)
 - [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.10.4](https://github.com/Leantime/leantime/releases/tag/v3.10.4) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.17](https://github.com/phpstan/phpstan/releases/tag/2.2.17) (1 day ago)
@@ -67,5 +69,3 @@
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.4.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.4.1) (2 days ago)
 - [ergebnis/.github](https://github.com/ergebnis/.github) - [1.14.0](https://github.com/ergebnis/.github/releases/tag/1.14.0) (3 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.35.6](https://github.com/infection/infection/releases/tag/0.35.6) (3 days ago)
-- [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.4.1](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.4.1) (4 days ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.21](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.21) (4 days ago)
