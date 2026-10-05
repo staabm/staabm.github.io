@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Leantime/leantime](https://github.com/Leantime/leantime) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (2 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (4 days ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update PHPBench baseline](https://github.com/phpstan/phpstan-src/pull/6677) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Bump expected turbo version](https://github.com/phpstan/phpstan-src/pull/6676) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Bump expected turbo version](https://github.com/phpstan/phpstan-src/pull/6665) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [ConstantArrayType: reduce duplicate work in `checkOurKeys()`](https://github.com/phpstan/phpstan-src/pull/6661) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Fix PHP7.x build](https://github.com/phpstan/phpstan-src/pull/6653) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
@@ -53,12 +55,11 @@
 - [Declare more phpdoc types](https://github.com/Seldaek/phar-utils/pull/17) on [Seldaek/phar-utils](https://github.com/Seldaek/phar-utils) (5 days ago)
 - [Bump expected turbo version](https://github.com/phpstan/phpstan-src/pull/6631) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Fix composer.json typo](https://github.com/staabm/phpstan-dba/pull/806) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
-- [doctrine/dbal is optional](https://github.com/staabm/phpstan-dba/pull/805) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
-- [Turbo: Optimize access patterns](https://github.com/phpstan/phpstan-src/pull/6626) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.1) (today)
 - [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.10.4](https://github.com/Leantime/leantime/releases/tag/v3.10.4) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.2.17](https://github.com/phpstan/phpstan/releases/tag/2.2.17) (1 day ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.2.17](https://github.com/phpstan/turbo-ext/releases/tag/2.2.17) (1 day ago)
@@ -66,6 +67,5 @@
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.4.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.4.1) (2 days ago)
 - [ergebnis/.github](https://github.com/ergebnis/.github) - [1.14.0](https://github.com/ergebnis/.github/releases/tag/1.14.0) (3 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.35.6](https://github.com/infection/infection/releases/tag/0.35.6) (3 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.0) (3 days ago)
 - [shipmonk-rnd/phpstan-rules](https://github.com/shipmonk-rnd/phpstan-rules) - [4.4.1](https://github.com/shipmonk-rnd/phpstan-rules/releases/tag/4.4.1) (4 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.0.21](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.0.21) (4 days ago)
