@@ -59,12 +59,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kimai/kimai](https://github.com/kimai/kimai) - [2.69.0](https://github.com/kimai/kimai/releases/tag/2.69.0) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.1.0](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.1.0) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.1.0](https://github.com/phpstan/phpstan-symfony/releases/tag/2.1.0) (today)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.1.0](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.1.0) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.0](https://github.com/phpstan/phpstan/releases/tag/2.3.0) (today)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.0](https://github.com/phpstan/turbo-ext/releases/tag/2.3.0) (today)
-- [kimai/kimai](https://github.com/kimai/kimai) - [2.68.0](https://github.com/kimai/kimai/releases/tag/2.68.0) (1 day ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v3.12.3](https://github.com/larastan/larastan/releases/tag/v3.12.3) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.1) (1 day ago)
 - [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.10.4](https://github.com/Leantime/leantime/releases/tag/v3.10.4) (1 day ago)
