@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.1](https://github.com/phpstan/phpstan/releases/tag/2.3.1) (today)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.1](https://github.com/phpstan/turbo-ext/releases/tag/2.3.1) (today)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v3.13.0](https://github.com/larastan/larastan/releases/tag/v3.13.0) (1 day ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.1.1](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.1.1) (1 day ago)
 - [kimai/kimai](https://github.com/kimai/kimai) - [2.69.0](https://github.com/kimai/kimai/releases/tag/2.69.0) (2 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.1.0](https://github.com/phpstan/phpstan-symfony/releases/tag/2.1.0) (2 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.1.0](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.1.0) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.0](https://github.com/phpstan/phpstan/releases/tag/2.3.0) (2 days ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.0](https://github.com/phpstan/turbo-ext/releases/tag/2.3.0) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.1) (3 days ago)
 - [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.10.4](https://github.com/Leantime/leantime/releases/tag/v3.10.4) (3 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.26.0](https://github.com/paratestphp/paratest/releases/tag/v7.26.0) (4 days ago)
