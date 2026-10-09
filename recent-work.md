@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Enhance getting started guide with PHAR downsides](https://github.com/phpstan/phpstan/pull/15446) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Bump expected turbo version](https://github.com/phpstan/phpstan-src/pull/6696) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Skip named and unpack arguments when autofixing](https://github.com/phpstan/phpstan-phpunit/pull/343) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
 - [`AssertEmptyIsDiscouragedRule` is auto-fixable](https://github.com/phpstan/phpstan-phpunit/pull/342) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
@@ -54,11 +55,13 @@
 - [Use stricter assertions in tests](https://github.com/phpstan/phpstan-dibi/pull/70) on [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (1 week ago)
 - [Use stricter assertions in tests](https://github.com/phpstan/phpstan-nette/pull/222) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [Use stricter assertions in tests](https://github.com/phpstan/phpstan-src/pull/6640) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [feat: Discourage assert(Not)Empty if &#34;empty&#34; usage is disallowed (#325)](https://github.com/phpstan/phpstan-phpunit/pull/337) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.11.0](https://github.com/Leantime/leantime/releases/tag/v3.11.0) (today)
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [v14.18.1](https://github.com/symplify/phpstan-rules/releases/tag/v14.18.1) (today)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.13](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.13) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.1](https://github.com/phpstan/phpstan/releases/tag/2.3.1) (1 day ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.1](https://github.com/phpstan/turbo-ext/releases/tag/2.3.1) (1 day ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v3.13.0](https://github.com/larastan/larastan/releases/tag/v3.13.0) (2 days ago)
@@ -66,6 +69,3 @@
 - [kimai/kimai](https://github.com/kimai/kimai) - [2.69.0](https://github.com/kimai/kimai/releases/tag/2.69.0) (3 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.1.0](https://github.com/phpstan/phpstan-symfony/releases/tag/2.1.0) (3 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.1.0](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.1.0) (3 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.1) (4 days ago)
-- [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.10.4](https://github.com/Leantime/leantime/releases/tag/v3.10.4) (4 days ago)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.26.0](https://github.com/paratestphp/paratest/releases/tag/v7.26.0) (5 days ago)
