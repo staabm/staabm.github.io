@@ -3,14 +3,14 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
 - [Leantime/leantime](https://github.com/Leantime/leantime) (6 days ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (1 week ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (1 week ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) (2 weeks ago)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (2 weeks ago)
 
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix build](https://github.com/staabm/phpstan-dba/pull/811) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Breaking Change: Tracking dependencies on values](https://github.com/staabm/phpstan-dba/pull/810) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Enhance getting started guide with PHAR downsides](https://github.com/phpstan/phpstan/pull/15446) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [Bump expected turbo version](https://github.com/phpstan/phpstan-src/pull/6696) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Skip named and unpack arguments when autofixing](https://github.com/phpstan/phpstan-phpunit/pull/343) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
@@ -53,12 +55,11 @@
 - [AssertEmptyIsDiscouragedRule: use unique error identifier](https://github.com/phpstan/phpstan-phpunit/pull/341) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [AssertEmptyIsDiscouragedRule: use unique error identifier](https://github.com/phpstan/phpstan-phpunit/pull/340) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [Use stricter assertions in tests](https://github.com/phpstan/phpstan-dibi/pull/70) on [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (1 week ago)
-- [Use stricter assertions in tests](https://github.com/phpstan/phpstan-nette/pull/222) on [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
-- [Use stricter assertions in tests](https://github.com/phpstan/phpstan-src/pull/6640) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.14](https://github.com/staabm/phpstan-dba/releases/tag/0.4.14) (today)
 - [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.11.0](https://github.com/Leantime/leantime/releases/tag/v3.11.0) (1 day ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [v14.18.1](https://github.com/symplify/phpstan-rules/releases/tag/v14.18.1) (1 day ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.13](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.13) (1 day ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.1.1](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.1.1) (3 days ago)
 - [kimai/kimai](https://github.com/kimai/kimai) - [2.69.0](https://github.com/kimai/kimai/releases/tag/2.69.0) (4 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.1.0](https://github.com/phpstan/phpstan-symfony/releases/tag/2.1.0) (4 days ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.1.0](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.1.0) (4 days ago)
