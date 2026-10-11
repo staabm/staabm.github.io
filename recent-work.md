@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.14](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.14) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.26.1](https://github.com/paratestphp/paratest/releases/tag/v7.26.1) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.14](https://github.com/staabm/phpstan-dba/releases/tag/0.4.14) (1 day ago)
 - [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.11.0](https://github.com/Leantime/leantime/releases/tag/v3.11.0) (2 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [v14.18.1](https://github.com/symplify/phpstan-rules/releases/tag/v14.18.1) (2 days ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.13](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.13) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.1](https://github.com/phpstan/phpstan/releases/tag/2.3.1) (3 days ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.1](https://github.com/phpstan/turbo-ext/releases/tag/2.3.1) (3 days ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v3.13.0](https://github.com/larastan/larastan/releases/tag/v3.13.0) (4 days ago)
