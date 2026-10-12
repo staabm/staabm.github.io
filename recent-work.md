@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
 - [Leantime/leantime](https://github.com/Leantime/leantime) (1 week ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (1 week ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (1 week ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) (2 weeks ago)
-- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (2 weeks ago)
+- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,14 +40,14 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix build](https://github.com/staabm/phpstan-dba/pull/811) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
-- [Breaking Change: Tracking dependencies on values](https://github.com/staabm/phpstan-dba/pull/810) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
-- [Enhance getting started guide with PHAR downsides](https://github.com/phpstan/phpstan/pull/15446) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
-- [Bump expected turbo version](https://github.com/phpstan/phpstan-src/pull/6696) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Skip named and unpack arguments when autofixing](https://github.com/phpstan/phpstan-phpunit/pull/343) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
-- [`AssertEmptyIsDiscouragedRule` is auto-fixable](https://github.com/phpstan/phpstan-phpunit/pull/342) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
-- [Update PHPBench baseline](https://github.com/phpstan/phpstan-src/pull/6677) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [Bump expected turbo version](https://github.com/phpstan/phpstan-src/pull/6676) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Fix build](https://github.com/staabm/phpstan-dba/pull/811) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
+- [Breaking Change: Tracking dependencies on values](https://github.com/staabm/phpstan-dba/pull/810) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
+- [Enhance getting started guide with PHAR downsides](https://github.com/phpstan/phpstan/pull/15446) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
+- [Bump expected turbo version](https://github.com/phpstan/phpstan-src/pull/6696) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Skip named and unpack arguments when autofixing](https://github.com/phpstan/phpstan-phpunit/pull/343) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
+- [`AssertEmptyIsDiscouragedRule` is auto-fixable](https://github.com/phpstan/phpstan-phpunit/pull/342) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
+- [Update PHPBench baseline](https://github.com/phpstan/phpstan-src/pull/6677) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
+- [Bump expected turbo version](https://github.com/phpstan/phpstan-src/pull/6676) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Bump expected turbo version](https://github.com/phpstan/phpstan-src/pull/6665) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [ConstantArrayType: reduce duplicate work in `checkOurKeys()`](https://github.com/phpstan/phpstan-src/pull/6661) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Fix PHP7.x build](https://github.com/phpstan/phpstan-src/pull/6653) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.14](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.14) (today)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.26.1](https://github.com/paratestphp/paratest/releases/tag/v7.26.1) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.14](https://github.com/staabm/phpstan-dba/releases/tag/0.4.14) (1 day ago)
-- [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.11.0](https://github.com/Leantime/leantime/releases/tag/v3.11.0) (2 days ago)
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [v14.18.1](https://github.com/symplify/phpstan-rules/releases/tag/v14.18.1) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.1](https://github.com/phpstan/phpstan/releases/tag/2.3.1) (3 days ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.1](https://github.com/phpstan/turbo-ext/releases/tag/2.3.1) (3 days ago)
-- [larastan/larastan](https://github.com/larastan/larastan) - [v3.13.0](https://github.com/larastan/larastan/releases/tag/v3.13.0) (4 days ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.1.1](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.1.1) (4 days ago)
-- [kimai/kimai](https://github.com/kimai/kimai) - [2.69.0](https://github.com/kimai/kimai/releases/tag/2.69.0) (5 days ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.14](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.14) (1 day ago)
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.26.1](https://github.com/paratestphp/paratest/releases/tag/v7.26.1) (2 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.14](https://github.com/staabm/phpstan-dba/releases/tag/0.4.14) (2 days ago)
+- [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.11.0](https://github.com/Leantime/leantime/releases/tag/v3.11.0) (3 days ago)
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [v14.18.1](https://github.com/symplify/phpstan-rules/releases/tag/v14.18.1) (3 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.1](https://github.com/phpstan/phpstan/releases/tag/2.3.1) (4 days ago)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.1](https://github.com/phpstan/turbo-ext/releases/tag/2.3.1) (4 days ago)
+- [larastan/larastan](https://github.com/larastan/larastan) - [v3.13.0](https://github.com/larastan/larastan/releases/tag/v3.13.0) (5 days ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.1.1](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.1.1) (5 days ago)
+- [kimai/kimai](https://github.com/kimai/kimai) - [2.69.0](https://github.com/kimai/kimai/releases/tag/2.69.0) (6 days ago)
