@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.27.0](https://github.com/paratestphp/paratest/releases/tag/v7.27.0) (today)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.18.3](https://github.com/symplify/phpstan-rules/releases/tag/14.18.3) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.2](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.2) (1 day ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.15](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.15) (1 day ago)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.26.1](https://github.com/paratestphp/paratest/releases/tag/v7.26.1) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.14](https://github.com/staabm/phpstan-dba/releases/tag/0.4.14) (3 days ago)
 - [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.11.0](https://github.com/Leantime/leantime/releases/tag/v3.11.0) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.1](https://github.com/phpstan/phpstan/releases/tag/2.3.1) (5 days ago)
