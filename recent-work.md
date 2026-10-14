@@ -3,13 +3,13 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [Leantime/leantime](https://github.com/Leantime/leantime) (1 week ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (1 week ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
 - [composer/composer](https://github.com/composer/composer) (3 weeks ago)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (3 weeks ago)
