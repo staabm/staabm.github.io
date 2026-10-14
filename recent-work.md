@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [Leantime/leantime](https://github.com/Leantime/leantime) (1 week ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (1 week ago)
@@ -59,12 +59,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [infection/infection](https://github.com/infection/infection) - [0.35.7](https://github.com/infection/infection/releases/tag/0.35.7) (1 day ago)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.27.0](https://github.com/paratestphp/paratest/releases/tag/v7.27.0) (1 day ago)
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.18.3](https://github.com/symplify/phpstan-rules/releases/tag/14.18.3) (1 day ago)
+- [infection/infection](https://github.com/infection/infection) - [0.35.8](https://github.com/infection/infection/releases/tag/0.35.8) (today)
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.19.0](https://github.com/symplify/phpstan-rules/releases/tag/14.19.0) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.5](https://github.com/staabm/phpstan-dba/releases/tag/0.5) (today)
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.27.1](https://github.com/paratestphp/paratest/releases/tag/v7.27.1) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.2](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.2) (2 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.15](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.15) (2 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.4.14](https://github.com/staabm/phpstan-dba/releases/tag/0.4.14) (4 days ago)
 - [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.11.0](https://github.com/Leantime/leantime/releases/tag/v3.11.0) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.1](https://github.com/phpstan/phpstan/releases/tag/2.3.1) (6 days ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.1](https://github.com/phpstan/turbo-ext/releases/tag/2.3.1) (6 days ago)
