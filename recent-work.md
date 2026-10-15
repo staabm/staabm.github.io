@@ -3,14 +3,14 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [Leantime/leantime](https://github.com/Leantime/leantime) (1 week ago)
 - [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (2 weeks ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
 - [composer/composer](https://github.com/composer/composer) (3 weeks ago)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (3 weeks ago)
 
@@ -59,6 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.35](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.35) (today)
+- [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.7.0](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.7.0) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.35.8](https://github.com/infection/infection/releases/tag/0.35.8) (1 day ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.19.0](https://github.com/symplify/phpstan-rules/releases/tag/14.19.0) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.5](https://github.com/staabm/phpstan-dba/releases/tag/0.5) (1 day ago)
@@ -67,5 +69,3 @@
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.15](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.15) (3 days ago)
 - [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.11.0](https://github.com/Leantime/leantime/releases/tag/v3.11.0) (6 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.1](https://github.com/phpstan/phpstan/releases/tag/2.3.1) (1 week ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.1](https://github.com/phpstan/turbo-ext/releases/tag/2.3.1) (1 week ago)
-- [larastan/larastan](https://github.com/larastan/larastan) - [v3.13.0](https://github.com/larastan/larastan/releases/tag/v3.13.0) (1 week ago)
