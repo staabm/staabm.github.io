@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Bump expected turbo version](https://github.com/phpstan/phpstan-src/pull/6753) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix build](https://github.com/staabm/phpstan-dba/pull/811) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [Breaking Change: Tracking dependencies on values](https://github.com/staabm/phpstan-dba/pull/810) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [Enhance getting started guide with PHAR downsides](https://github.com/phpstan/phpstan/pull/15446) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
@@ -54,7 +55,6 @@
 - [Lazier verbosity in `ConstantArrayType-&gt;checkOurKeys()`](https://github.com/phpstan/phpstan-src/pull/6649) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [AssertEmptyIsDiscouragedRule: use unique error identifier](https://github.com/phpstan/phpstan-phpunit/pull/341) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
 - [AssertEmptyIsDiscouragedRule: use unique error identifier](https://github.com/phpstan/phpstan-phpunit/pull/340) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
-- [Use stricter assertions in tests](https://github.com/phpstan/phpstan-dibi/pull/70) on [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
