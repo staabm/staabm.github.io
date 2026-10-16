@@ -4,13 +4,13 @@
 #### 💻 Check out what I'm currently working on
 
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [Leantime/leantime](https://github.com/Leantime/leantime) (1 week ago)
-- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (2 weeks ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
+- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (2 weeks ago)
 - [composer/composer](https://github.com/composer/composer) (3 weeks ago)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (3 weeks ago)
 
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.3) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.36](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.36) (today)
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.7.1](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.7.1) (1 day ago)
 - [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.12.0](https://github.com/Leantime/leantime/releases/tag/v3.12.0) (1 day ago)
@@ -66,6 +67,5 @@
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.19.0](https://github.com/symplify/phpstan-rules/releases/tag/14.19.0) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.5](https://github.com/staabm/phpstan-dba/releases/tag/0.5) (2 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.27.1](https://github.com/paratestphp/paratest/releases/tag/v7.27.1) (2 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.2](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.2) (4 days ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.15](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.15) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.1](https://github.com/phpstan/phpstan/releases/tag/2.3.1) (1 week ago)
