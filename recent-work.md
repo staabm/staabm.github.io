@@ -9,8 +9,8 @@
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [Leantime/leantime](https://github.com/Leantime/leantime) (1 week ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
 - [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (2 weeks ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
 - [composer/composer](https://github.com/composer/composer) (3 weeks ago)
 - [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (3 weeks ago)
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Restart process when `pcov` or `tideways` extension is loaded](https://github.com/phpstan/phpstan-src/pull/6757) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [RuleWatchGraph: Reduce `getRule()` calls](https://github.com/composer/composer/pull/13124) on [composer/composer](https://github.com/composer/composer) (today)
 - [PoolOptimizer: Move `getVersion()` call out of loops](https://github.com/composer/composer/pull/13123) on [composer/composer](https://github.com/composer/composer) (today)
 - [Bump expected turbo version](https://github.com/phpstan/phpstan-src/pull/6753) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,7 +55,6 @@
 - [Bump expected turbo version](https://github.com/phpstan/phpstan-src/pull/6665) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [ConstantArrayType: reduce duplicate work in `checkOurKeys()`](https://github.com/phpstan/phpstan-src/pull/6661) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [Fix PHP7.x build](https://github.com/phpstan/phpstan-src/pull/6653) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [Lazier verbosity in `ConstantArrayType-&gt;checkOurKeys()`](https://github.com/phpstan/phpstan-src/pull/6649) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
