@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.36](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.36) (today)
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.7.1](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.7.1) (1 day ago)
 - [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.12.0](https://github.com/Leantime/leantime/releases/tag/v3.12.0) (1 day ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.35](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.35) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) - [0.35.8](https://github.com/infection/infection/releases/tag/0.35.8) (2 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.19.0](https://github.com/symplify/phpstan-rules/releases/tag/14.19.0) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.5](https://github.com/staabm/phpstan-dba/releases/tag/0.5) (2 days ago)
