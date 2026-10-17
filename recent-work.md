@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [Leantime/leantime](https://github.com/Leantime/leantime) (1 week ago)
-- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (2 weeks ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
+- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (2 weeks ago)
 - [composer/composer](https://github.com/composer/composer) (3 weeks ago)
-- [phpstan/phpstan-mockery](https://github.com/phpstan/phpstan-mockery) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Restart process when `pcov` is loaded](https://github.com/composer/composer/pull/13128) on [composer/composer](https://github.com/composer/composer) (today)
+- [simplify result cache example](https://github.com/phpstan/phpstan/pull/15493) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [simplify result cache example](https://github.com/phpstan/phpstan/pull/15492) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Restart process when `pcov` or `tideways` extension is loaded](https://github.com/phpstan/phpstan-src/pull/6757) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [RuleWatchGraph: Reduce `getRule()` calls](https://github.com/composer/composer/pull/13124) on [composer/composer](https://github.com/composer/composer) (1 day ago)
 - [PoolOptimizer: Move `getVersion()` call out of loops](https://github.com/composer/composer/pull/13123) on [composer/composer](https://github.com/composer/composer) (1 day ago)
@@ -52,9 +55,6 @@
 - [`AssertEmptyIsDiscouragedRule` is auto-fixable](https://github.com/phpstan/phpstan-phpunit/pull/342) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [Update PHPBench baseline](https://github.com/phpstan/phpstan-src/pull/6677) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Bump expected turbo version](https://github.com/phpstan/phpstan-src/pull/6676) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Bump expected turbo version](https://github.com/phpstan/phpstan-src/pull/6665) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [ConstantArrayType: reduce duplicate work in `checkOurKeys()`](https://github.com/phpstan/phpstan-src/pull/6661) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [Fix PHP7.x build](https://github.com/phpstan/phpstan-src/pull/6653) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
