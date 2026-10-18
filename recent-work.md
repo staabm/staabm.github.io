@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [If available override the current process with `pcntl_exec`](https://github.com/composer/xdebug-handler/pull/176) on [composer/xdebug-handler](https://github.com/composer/xdebug-handler) (today)
 - [Restart process when `pcov` is loaded](https://github.com/composer/composer/pull/13128) on [composer/composer](https://github.com/composer/composer) (1 day ago)
 - [simplify result cache example](https://github.com/phpstan/phpstan/pull/15493) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [simplify result cache example](https://github.com/phpstan/phpstan/pull/15492) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
@@ -54,11 +55,11 @@
 - [Skip named and unpack arguments when autofixing](https://github.com/phpstan/phpstan-phpunit/pull/343) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [`AssertEmptyIsDiscouragedRule` is auto-fixable](https://github.com/phpstan/phpstan-phpunit/pull/342) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [Update PHPBench baseline](https://github.com/phpstan/phpstan-src/pull/6677) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Bump expected turbo version](https://github.com/phpstan/phpstan-src/pull/6676) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [mspirkov/yii2-phpstan](https://github.com/mspirkov/yii2-phpstan) - [0.14.0](https://github.com/mspirkov/yii2-phpstan/releases/tag/0.14.0) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.75.0](https://github.com/Roave/BetterReflection/releases/tag/6.75.0) (1 day ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.27.2](https://github.com/paratestphp/paratest/releases/tag/v7.27.2) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.3) (2 days ago)
@@ -68,4 +69,3 @@
 - [infection/infection](https://github.com/infection/infection) - [0.35.8](https://github.com/infection/infection/releases/tag/0.35.8) (4 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.19.0](https://github.com/symplify/phpstan-rules/releases/tag/14.19.0) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.5](https://github.com/staabm/phpstan-dba/releases/tag/0.5) (4 days ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) - [2.0.15](https://github.com/phpstan/phpstan-nette/releases/tag/2.0.15) (6 days ago)
