@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mspirkov/yii2-phpstan](https://github.com/mspirkov/yii2-phpstan) - [0.14.0](https://github.com/mspirkov/yii2-phpstan/releases/tag/0.14.0) (today)
+- [mspirkov/yii2-phpstan](https://github.com/mspirkov/yii2-phpstan) - [0.14.1](https://github.com/mspirkov/yii2-phpstan/releases/tag/0.14.1) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.75.0](https://github.com/Roave/BetterReflection/releases/tag/6.75.0) (1 day ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.27.2](https://github.com/paratestphp/paratest/releases/tag/v7.27.2) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.3) (2 days ago)
