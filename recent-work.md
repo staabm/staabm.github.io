@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
-- [composer/composer](https://github.com/composer/composer) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
+- [composer/composer](https://github.com/composer/composer) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [Leantime/leantime](https://github.com/Leantime/leantime) (2 weeks ago)
-- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (2 weeks ago)
 - [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (2 weeks ago)
+- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
