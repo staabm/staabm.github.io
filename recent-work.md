@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kimai/kimai](https://github.com/kimai/kimai) - [2.70.0](https://github.com/kimai/kimai/releases/tag/2.70.0) (today)
 - [mspirkov/yii2-phpstan](https://github.com/mspirkov/yii2-phpstan) - [0.15.1](https://github.com/mspirkov/yii2-phpstan/releases/tag/0.15.1) (today)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.75.0](https://github.com/Roave/BetterReflection/releases/tag/6.75.0) (2 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.27.2](https://github.com/paratestphp/paratest/releases/tag/v7.27.2) (3 days ago)
@@ -68,4 +69,3 @@
 - [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.12.0](https://github.com/Leantime/leantime/releases/tag/v3.12.0) (4 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.35.8](https://github.com/infection/infection/releases/tag/0.35.8) (5 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.19.0](https://github.com/symplify/phpstan-rules/releases/tag/14.19.0) (5 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.5](https://github.com/staabm/phpstan-dba/releases/tag/0.5) (5 days ago)
