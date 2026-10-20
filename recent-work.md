@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [grokability/snipe-it](https://github.com/grokability/snipe-it) - [v8.8.1](https://github.com/grokability/snipe-it/releases/tag/v8.8.1) (today)
 - [kimai/kimai](https://github.com/kimai/kimai) - [2.70.0](https://github.com/kimai/kimai/releases/tag/2.70.0) (1 day ago)
 - [mspirkov/yii2-phpstan](https://github.com/mspirkov/yii2-phpstan) - [0.15.1](https://github.com/mspirkov/yii2-phpstan/releases/tag/0.15.1) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.75.0](https://github.com/Roave/BetterReflection/releases/tag/6.75.0) (3 days ago)
@@ -68,4 +69,3 @@
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.7.1](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.7.1) (5 days ago)
 - [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.12.0](https://github.com/Leantime/leantime/releases/tag/v3.12.0) (5 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.35.8](https://github.com/infection/infection/releases/tag/0.35.8) (6 days ago)
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.19.0](https://github.com/symplify/phpstan-rules/releases/tag/14.19.0) (6 days ago)
