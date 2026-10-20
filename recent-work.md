@@ -3,11 +3,11 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (today)
 - [composer/composer](https://github.com/composer/composer) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
 - [Leantime/leantime](https://github.com/Leantime/leantime) (2 weeks ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Analyser: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/6767) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [ForeachEmptyOrObjectNarrowingHelper: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/6766) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Solver: Call `getLiterals()` only for enabled rules](https://github.com/composer/composer/pull/13132) on [composer/composer](https://github.com/composer/composer) (1 day ago)
 - [`bashunit -a` is deprecated. Use `bashunit assert` instead.](https://github.com/phpstan/phpstan-src/pull/6761) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [If available override the current process with `pcntl_exec`](https://github.com/composer/xdebug-handler/pull/176) on [composer/xdebug-handler](https://github.com/composer/xdebug-handler) (2 days ago)
@@ -53,8 +55,6 @@
 - [Fix build](https://github.com/staabm/phpstan-dba/pull/811) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [Breaking Change: Tracking dependencies on values](https://github.com/staabm/phpstan-dba/pull/810) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [Enhance getting started guide with PHAR downsides](https://github.com/phpstan/phpstan/pull/15446) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
-- [Bump expected turbo version](https://github.com/phpstan/phpstan-src/pull/6696) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Skip named and unpack arguments when autofixing](https://github.com/phpstan/phpstan-phpunit/pull/343) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
