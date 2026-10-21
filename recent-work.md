@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (1 day ago)
 - [composer/composer](https://github.com/composer/composer) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
@@ -28,7 +28,6 @@
 
 - [pavel-rossinsky](https://github.com/pavel-rossinsky) (2 months ago)
 - [saibotk](https://github.com/saibotk) (8 months ago)
-- [JetBrainsOfficial](https://github.com/JetBrainsOfficial) (1 year ago)
 - [passbolt](https://github.com/passbolt) (1 year ago)
 - [packagist](https://github.com/packagist) (1 year ago)
 - [Enkora](https://github.com/Enkora) (1 year ago)
@@ -36,6 +35,7 @@
 - [oliverklee](https://github.com/oliverklee) (2 years ago)
 - [TicketSwap](https://github.com/TicketSwap) (2 years ago)
 - [brotkrueml](https://github.com/brotkrueml) (2 years ago)
+- [DaveLiddament](https://github.com/DaveLiddament) (3 years ago)
 
 
 #### 🔨 My recent Pull Requests
@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mspirkov/yii2-phpstan](https://github.com/mspirkov/yii2-phpstan) - [0.15.2](https://github.com/mspirkov/yii2-phpstan/releases/tag/0.15.2) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.27.3](https://github.com/paratestphp/paratest/releases/tag/v7.27.3) (today)
 - [grokability/snipe-it](https://github.com/grokability/snipe-it) - [v8.8.1](https://github.com/grokability/snipe-it/releases/tag/v8.8.1) (1 day ago)
 - [kimai/kimai](https://github.com/kimai/kimai) - [2.70.0](https://github.com/kimai/kimai/releases/tag/2.70.0) (2 days ago)
-- [mspirkov/yii2-phpstan](https://github.com/mspirkov/yii2-phpstan) - [0.15.1](https://github.com/mspirkov/yii2-phpstan/releases/tag/0.15.1) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.75.0](https://github.com/Roave/BetterReflection/releases/tag/6.75.0) (4 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.3) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.36](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.36) (5 days ago)
