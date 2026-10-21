@@ -59,11 +59,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kimai/kimai](https://github.com/kimai/kimai) - [2.70.1](https://github.com/kimai/kimai/releases/tag/2.70.1) (today)
+- [kimai/kimai](https://github.com/kimai/kimai) - [2.70.2](https://github.com/kimai/kimai/releases/tag/2.70.2) (today)
+- [grokability/snipe-it](https://github.com/grokability/snipe-it) - [v8.8.2](https://github.com/grokability/snipe-it/releases/tag/v8.8.2) (today)
 - [mspirkov/yii2-phpstan](https://github.com/mspirkov/yii2-phpstan) - [0.16.0](https://github.com/mspirkov/yii2-phpstan/releases/tag/0.16.0) (today)
 - [php/php-src](https://github.com/php/php-src) - [php-8.5.12](https://github.com/php/php-src/releases/tag/php-8.5.12) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.27.3](https://github.com/paratestphp/paratest/releases/tag/v7.27.3) (today)
-- [grokability/snipe-it](https://github.com/grokability/snipe-it) - [v8.8.1](https://github.com/grokability/snipe-it/releases/tag/v8.8.1) (1 day ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.75.0](https://github.com/Roave/BetterReflection/releases/tag/6.75.0) (4 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.3) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.36](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.36) (5 days ago)
