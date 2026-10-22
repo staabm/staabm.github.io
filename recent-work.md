@@ -59,6 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/composer](https://github.com/composer/composer) - [2.11.0-RC1](https://github.com/composer/composer/releases/tag/2.11.0-RC1) (today)
+- [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - [v3.20.0](https://github.com/tempestphp/tempest-framework/releases/tag/v3.20.0) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.27.4](https://github.com/paratestphp/paratest/releases/tag/v7.27.4) (today)
 - [grokability/snipe-it](https://github.com/grokability/snipe-it) - [v8.8.3](https://github.com/grokability/snipe-it/releases/tag/v8.8.3) (today)
 - [kimai/kimai](https://github.com/kimai/kimai) - [2.70.2](https://github.com/kimai/kimai/releases/tag/2.70.2) (1 day ago)
@@ -67,5 +69,3 @@
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.75.0](https://github.com/Roave/BetterReflection/releases/tag/6.75.0) (5 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.3) (6 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.36](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.36) (6 days ago)
-- [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.7.1](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.7.1) (1 week ago)
-- [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.12.0](https://github.com/Leantime/leantime/releases/tag/v3.12.0) (1 week ago)
