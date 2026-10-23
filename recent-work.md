@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.8.0](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.8.0) (today)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v3.13.1](https://github.com/larastan/larastan/releases/tag/v3.13.1) (1 day ago)
 - [composer/composer](https://github.com/composer/composer) - [2.11.0-RC1](https://github.com/composer/composer/releases/tag/2.11.0-RC1) (1 day ago)
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - [v3.20.0](https://github.com/tempestphp/tempest-framework/releases/tag/v3.20.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [mspirkov/yii2-phpstan](https://github.com/mspirkov/yii2-phpstan) - [0.16.0](https://github.com/mspirkov/yii2-phpstan/releases/tag/0.16.0) (2 days ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.5.12](https://github.com/php/php-src/releases/tag/php-8.5.12) (2 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.75.0](https://github.com/Roave/BetterReflection/releases/tag/6.75.0) (6 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.3) (1 week ago)
