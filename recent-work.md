@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (3 days ago)
 - [composer/composer](https://github.com/composer/composer) (4 days ago)
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.19.3](https://github.com/symplify/phpstan-rules/releases/tag/14.19.3) (today)
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.8.0](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.8.0) (today)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v3.13.1](https://github.com/larastan/larastan/releases/tag/v3.13.1) (1 day ago)
 - [composer/composer](https://github.com/composer/composer) - [2.11.0-RC1](https://github.com/composer/composer/releases/tag/2.11.0-RC1) (1 day ago)
@@ -68,4 +69,3 @@
 - [kimai/kimai](https://github.com/kimai/kimai) - [2.70.2](https://github.com/kimai/kimai/releases/tag/2.70.2) (2 days ago)
 - [mspirkov/yii2-phpstan](https://github.com/mspirkov/yii2-phpstan) - [0.16.0](https://github.com/mspirkov/yii2-phpstan/releases/tag/0.16.0) (2 days ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.5.12](https://github.com/php/php-src/releases/tag/php-8.5.12) (2 days ago)
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - [6.75.0](https://github.com/Roave/BetterReflection/releases/tag/6.75.0) (6 days ago)
