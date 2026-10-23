@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [larastan/larastan](https://github.com/larastan/larastan) - [v3.13.2](https://github.com/larastan/larastan/releases/tag/v3.13.2) (today)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.19.3](https://github.com/symplify/phpstan-rules/releases/tag/14.19.3) (today)
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.8.0](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.8.0) (today)
-- [larastan/larastan](https://github.com/larastan/larastan) - [v3.13.1](https://github.com/larastan/larastan/releases/tag/v3.13.1) (1 day ago)
 - [composer/composer](https://github.com/composer/composer) - [2.11.0-RC1](https://github.com/composer/composer/releases/tag/2.11.0-RC1) (1 day ago)
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - [v3.20.0](https://github.com/tempestphp/tempest-framework/releases/tag/v3.20.0) (1 day ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.27.4](https://github.com/paratestphp/paratest/releases/tag/v7.27.4) (1 day ago)
