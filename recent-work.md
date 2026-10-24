@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (4 days ago)
 - [composer/composer](https://github.com/composer/composer) (5 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prefix with &#34;Restart&#34; since the &#34;Extension&#34; keyword is ubiquitous in the codebase](https://github.com/phpstan/phpstan-src/pull/6796) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Claude auto-fix: Added missing parameter](https://github.com/phpstan/phpstan/pull/15517) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [Improve `pcov` e2e tests](https://github.com/phpstan/phpstan-src/pull/6770) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Analyser: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/6767) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
@@ -54,7 +55,6 @@
 - [RuleWatchGraph: Reduce `getRule()` calls](https://github.com/composer/composer/pull/13124) on [composer/composer](https://github.com/composer/composer) (1 week ago)
 - [PoolOptimizer: Move `getVersion()` call out of loops](https://github.com/composer/composer/pull/13123) on [composer/composer](https://github.com/composer/composer) (1 week ago)
 - [Bump expected turbo version](https://github.com/phpstan/phpstan-src/pull/6753) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix build](https://github.com/staabm/phpstan-dba/pull/811) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
