@@ -59,6 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.2](https://github.com/phpstan/phpstan/releases/tag/2.3.2) (today)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.2](https://github.com/phpstan/turbo-ext/releases/tag/2.3.2) (today)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v3.13.2](https://github.com/larastan/larastan/releases/tag/v3.13.2) (1 day ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.19.3](https://github.com/symplify/phpstan-rules/releases/tag/14.19.3) (1 day ago)
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.8.0](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.8.0) (1 day ago)
@@ -67,5 +69,3 @@
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.27.4](https://github.com/paratestphp/paratest/releases/tag/v7.27.4) (2 days ago)
 - [grokability/snipe-it](https://github.com/grokability/snipe-it) - [v8.8.3](https://github.com/grokability/snipe-it/releases/tag/v8.8.3) (2 days ago)
 - [kimai/kimai](https://github.com/kimai/kimai) - [2.70.2](https://github.com/kimai/kimai/releases/tag/2.70.2) (3 days ago)
-- [mspirkov/yii2-phpstan](https://github.com/mspirkov/yii2-phpstan) - [0.16.0](https://github.com/mspirkov/yii2-phpstan/releases/tag/0.16.0) (3 days ago)
-- [php/php-src](https://github.com/php/php-src) - [php-8.5.12](https://github.com/php/php-src/releases/tag/php-8.5.12) (3 days ago)
