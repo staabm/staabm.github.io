@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mspirkov/yii2-phpstan](https://github.com/mspirkov/yii2-phpstan) - [0.16.1](https://github.com/mspirkov/yii2-phpstan/releases/tag/0.16.1) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.2](https://github.com/phpstan/phpstan/releases/tag/2.3.2) (1 day ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.2](https://github.com/phpstan/turbo-ext/releases/tag/2.3.2) (1 day ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v3.13.2](https://github.com/larastan/larastan/releases/tag/v3.13.2) (2 days ago)
@@ -68,4 +69,3 @@
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - [v3.20.0](https://github.com/tempestphp/tempest-framework/releases/tag/v3.20.0) (3 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.27.4](https://github.com/paratestphp/paratest/releases/tag/v7.27.4) (3 days ago)
 - [grokability/snipe-it](https://github.com/grokability/snipe-it) - [v8.8.3](https://github.com/grokability/snipe-it/releases/tag/v8.8.3) (3 days ago)
-- [kimai/kimai](https://github.com/kimai/kimai) - [2.70.2](https://github.com/kimai/kimai/releases/tag/2.70.2) (4 days ago)
