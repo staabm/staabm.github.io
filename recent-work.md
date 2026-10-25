@@ -11,8 +11,8 @@
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 weeks ago)
 - [Leantime/leantime](https://github.com/Leantime/leantime) (3 weeks ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (3 weeks ago)
 - [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (3 weeks ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (3 weeks ago)
 
 
 #### 📜 My recent blog posts
