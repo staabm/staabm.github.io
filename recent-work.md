@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kimai/kimai](https://github.com/kimai/kimai) - [2.71.0](https://github.com/kimai/kimai/releases/tag/2.71.0) (today)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.16.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.16.0) (today)
 - [mspirkov/yii2-phpstan](https://github.com/mspirkov/yii2-phpstan) - [0.16.1](https://github.com/mspirkov/yii2-phpstan/releases/tag/0.16.1) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.2](https://github.com/phpstan/phpstan/releases/tag/2.3.2) (1 day ago)
@@ -68,4 +69,3 @@
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.8.0](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.8.0) (2 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.11.0-RC1](https://github.com/composer/composer/releases/tag/2.11.0-RC1) (3 days ago)
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - [v3.20.0](https://github.com/tempestphp/tempest-framework/releases/tag/v3.20.0) (3 days ago)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.27.4](https://github.com/paratestphp/paratest/releases/tag/v7.27.4) (3 days ago)
