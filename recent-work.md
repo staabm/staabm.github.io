@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.8](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.8) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.1.1](https://github.com/phpstan/phpstan-symfony/releases/tag/2.1.1) (today)
 - [kimai/kimai](https://github.com/kimai/kimai) - [2.71.0](https://github.com/kimai/kimai/releases/tag/2.71.0) (1 day ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.16.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.16.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [larastan/larastan](https://github.com/larastan/larastan) - [v3.13.2](https://github.com/larastan/larastan/releases/tag/v3.13.2) (3 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.19.3](https://github.com/symplify/phpstan-rules/releases/tag/14.19.3) (3 days ago)
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.8.0](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.8.0) (3 days ago)
-- [composer/composer](https://github.com/composer/composer) - [2.11.0-RC1](https://github.com/composer/composer/releases/tag/2.11.0-RC1) (4 days ago)
