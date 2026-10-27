@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.5](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.5) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.8](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.8) (1 day ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.1.1](https://github.com/phpstan/phpstan-symfony/releases/tag/2.1.1) (1 day ago)
 - [kimai/kimai](https://github.com/kimai/kimai) - [2.71.0](https://github.com/kimai/kimai/releases/tag/2.71.0) (2 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.2](https://github.com/phpstan/turbo-ext/releases/tag/2.3.2) (3 days ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v3.13.2](https://github.com/larastan/larastan/releases/tag/v3.13.2) (4 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.19.3](https://github.com/symplify/phpstan-rules/releases/tag/14.19.3) (4 days ago)
-- [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.8.0](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.8.0) (4 days ago)
