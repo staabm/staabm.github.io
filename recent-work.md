@@ -59,10 +59,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.9](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.9) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.3](https://github.com/phpstan/phpstan/releases/tag/2.3.3) (today)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.3](https://github.com/phpstan/turbo-ext/releases/tag/2.3.3) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.5](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.5) (today)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.8](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.8) (1 day ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.1.1](https://github.com/phpstan/phpstan-symfony/releases/tag/2.1.1) (1 day ago)
 - [kimai/kimai](https://github.com/kimai/kimai) - [2.71.0](https://github.com/kimai/kimai/releases/tag/2.71.0) (2 days ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.16.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.16.0) (2 days ago)
