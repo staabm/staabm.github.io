@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.3.11](https://github.com/phpstan/phpdoc-parser/releases/tag/2.3.11) (today)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.4.0](https://github.com/phpstan/phpdoc-parser/releases/tag/2.4.0) (today)
 - [akunzai/MageBridgeCore](https://github.com/akunzai/MageBridgeCore) - [3.1.2](https://github.com/akunzai/MageBridgeCore/releases/tag/3.1.2) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.3](https://github.com/phpstan/phpstan/releases/tag/2.3.3) (1 day ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.3](https://github.com/phpstan/turbo-ext/releases/tag/2.3.3) (1 day ago)
