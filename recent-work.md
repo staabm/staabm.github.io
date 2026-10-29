@@ -3,7 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
@@ -11,7 +12,6 @@
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 weeks ago)
 - [Leantime/leantime](https://github.com/Leantime/leantime) (3 weeks ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (4 weeks ago)
 - [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (4 weeks ago)
 
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix build](https://github.com/staabm/phpstan-todo-by/pull/200) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (today)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/6848) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Prefix with &#34;Restart&#34; since the &#34;Extension&#34; keyword is ubiquitous in the codebase](https://github.com/phpstan/phpstan-src/pull/6796) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Claude auto-fix: Added missing parameter](https://github.com/phpstan/phpstan/pull/15517) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
@@ -54,7 +55,6 @@
 - [simplify result cache example](https://github.com/phpstan/phpstan/pull/15492) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [Restart process when `pcov` or `tideways` extension is loaded](https://github.com/phpstan/phpstan-src/pull/6757) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [RuleWatchGraph: Reduce `getRule()` calls](https://github.com/composer/composer/pull/13124) on [composer/composer](https://github.com/composer/composer) (1 week ago)
-- [PoolOptimizer: Move `getVersion()` call out of loops](https://github.com/composer/composer/pull/13123) on [composer/composer](https://github.com/composer/composer) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
