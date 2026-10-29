@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.27.5](https://github.com/paratestphp/paratest/releases/tag/v7.27.5) (today)
+- [ticgal/actualtime](https://github.com/ticgal/actualtime) - [5.0.0](https://github.com/ticgal/actualtime/releases/tag/5.0.0) (today)
+- [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - [v3.21.0](https://github.com/tempestphp/tempest-framework/releases/tag/v3.21.0) (today)
+- [composer/composer](https://github.com/composer/composer) - [2.2.31](https://github.com/composer/composer/releases/tag/2.2.31) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.4](https://github.com/phpstan/phpstan/releases/tag/2.3.4) (1 day ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.4](https://github.com/phpstan/turbo-ext/releases/tag/2.3.4) (1 day ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.4.0](https://github.com/phpstan/phpdoc-parser/releases/tag/2.4.0) (1 day ago)
 - [akunzai/MageBridgeCore](https://github.com/akunzai/MageBridgeCore) - [3.1.2](https://github.com/akunzai/MageBridgeCore/releases/tag/3.1.2) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.5](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.5) (2 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.1.1](https://github.com/phpstan/phpstan-symfony/releases/tag/2.1.1) (3 days ago)
-- [kimai/kimai](https://github.com/kimai/kimai) - [2.71.0](https://github.com/kimai/kimai/releases/tag/2.71.0) (4 days ago)
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.16.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.16.0) (4 days ago)
-- [mspirkov/yii2-phpstan](https://github.com/mspirkov/yii2-phpstan) - [0.16.1](https://github.com/mspirkov/yii2-phpstan/releases/tag/0.16.1) (4 days ago)
-- [larastan/larastan](https://github.com/larastan/larastan) - [v3.13.2](https://github.com/larastan/larastan/releases/tag/v3.13.2) (6 days ago)
