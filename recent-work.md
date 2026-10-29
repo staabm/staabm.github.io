@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (1 day ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (2 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 weeks ago)
 - [Leantime/leantime](https://github.com/Leantime/leantime) (3 weeks ago)
-- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (3 weeks ago)
-- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (3 weeks ago)
+- [phpstan/phpstan-nette](https://github.com/phpstan/phpstan-nette) (4 weeks ago)
+- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (4 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,9 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/6848) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [Prefix with &#34;Restart&#34; since the &#34;Extension&#34; keyword is ubiquitous in the codebase](https://github.com/phpstan/phpstan-src/pull/6796) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
-- [Claude auto-fix: Added missing parameter](https://github.com/phpstan/phpstan/pull/15517) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
+- [Added regression test](https://github.com/phpstan/phpstan-src/pull/6848) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [Prefix with &#34;Restart&#34; since the &#34;Extension&#34; keyword is ubiquitous in the codebase](https://github.com/phpstan/phpstan-src/pull/6796) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
+- [Claude auto-fix: Added missing parameter](https://github.com/phpstan/phpstan/pull/15517) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [Improve `pcov` e2e tests](https://github.com/phpstan/phpstan-src/pull/6770) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Analyser: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/6767) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [ForeachEmptyOrObjectNarrowingHelper: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/6766) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.4.0](https://github.com/phpstan/phpdoc-parser/releases/tag/2.4.0) (today)
-- [akunzai/MageBridgeCore](https://github.com/akunzai/MageBridgeCore) - [3.1.2](https://github.com/akunzai/MageBridgeCore/releases/tag/3.1.2) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.3](https://github.com/phpstan/phpstan/releases/tag/2.3.3) (1 day ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.3](https://github.com/phpstan/turbo-ext/releases/tag/2.3.3) (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.5](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.5) (1 day ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.1.1](https://github.com/phpstan/phpstan-symfony/releases/tag/2.1.1) (2 days ago)
-- [kimai/kimai](https://github.com/kimai/kimai) - [2.71.0](https://github.com/kimai/kimai/releases/tag/2.71.0) (3 days ago)
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.16.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.16.0) (3 days ago)
-- [mspirkov/yii2-phpstan](https://github.com/mspirkov/yii2-phpstan) - [0.16.1](https://github.com/mspirkov/yii2-phpstan/releases/tag/0.16.1) (3 days ago)
-- [larastan/larastan](https://github.com/larastan/larastan) - [v3.13.2](https://github.com/larastan/larastan/releases/tag/v3.13.2) (5 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.4](https://github.com/phpstan/phpstan/releases/tag/2.3.4) (1 day ago)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.4](https://github.com/phpstan/turbo-ext/releases/tag/2.3.4) (1 day ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.4.0](https://github.com/phpstan/phpdoc-parser/releases/tag/2.4.0) (1 day ago)
+- [akunzai/MageBridgeCore](https://github.com/akunzai/MageBridgeCore) - [3.1.2](https://github.com/akunzai/MageBridgeCore/releases/tag/3.1.2) (1 day ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.5](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.5) (2 days ago)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.1.1](https://github.com/phpstan/phpstan-symfony/releases/tag/2.1.1) (3 days ago)
+- [kimai/kimai](https://github.com/kimai/kimai) - [2.71.0](https://github.com/kimai/kimai/releases/tag/2.71.0) (4 days ago)
+- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.16.0](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.16.0) (4 days ago)
+- [mspirkov/yii2-phpstan](https://github.com/mspirkov/yii2-phpstan) - [0.16.1](https://github.com/mspirkov/yii2-phpstan/releases/tag/0.16.1) (4 days ago)
+- [larastan/larastan](https://github.com/larastan/larastan) - [v3.13.2](https://github.com/larastan/larastan/releases/tag/v3.13.2) (6 days ago)
