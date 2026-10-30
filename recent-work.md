@@ -59,6 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.13.1](https://github.com/Leantime/leantime/releases/tag/v3.13.1) (today)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.4.1](https://github.com/phpstan/phpdoc-parser/releases/tag/2.4.1) (today)
 - [mspirkov/yii2-phpstan](https://github.com/mspirkov/yii2-phpstan) - [0.17.0](https://github.com/mspirkov/yii2-phpstan/releases/tag/0.17.0) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.1.0](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.1.0) (today)
 - [composer/composer](https://github.com/composer/composer) - [2.11.1](https://github.com/composer/composer/releases/tag/2.11.1) (today)
@@ -67,5 +69,3 @@
 - [ticgal/actualtime](https://github.com/ticgal/actualtime) - [5.0.0](https://github.com/ticgal/actualtime/releases/tag/5.0.0) (1 day ago)
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - [v3.21.0](https://github.com/tempestphp/tempest-framework/releases/tag/v3.21.0) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.4](https://github.com/phpstan/phpstan/releases/tag/2.3.4) (2 days ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.4](https://github.com/phpstan/turbo-ext/releases/tag/2.3.4) (2 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.4.0](https://github.com/phpstan/phpdoc-parser/releases/tag/2.4.0) (2 days ago)
