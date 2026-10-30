@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Re-enable mysqli tests](https://github.com/staabm/phpstan-dba/pull/816) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Support `mysqli_result-&gt;fetch_assoc()`](https://github.com/staabm/phpstan-dba/pull/815) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
+- [Use `--EXTENSIONS--` instead of extension_loaded() skip checks in tests](https://github.com/php/php-src/pull/25052) on [php/php-src](https://github.com/php/php-src) (today)
 - [Fix build](https://github.com/staabm/phpstan-todo-by/pull/200) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 day ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/6848) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Prefix with &#34;Restart&#34; since the &#34;Extension&#34; keyword is ubiquitous in the codebase](https://github.com/phpstan/phpstan-src/pull/6796) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
@@ -52,13 +55,11 @@
 - [If available override the current process with `pcntl_exec`](https://github.com/composer/xdebug-handler/pull/176) on [composer/xdebug-handler](https://github.com/composer/xdebug-handler) (1 week ago)
 - [Restart process when `pcov` is loaded](https://github.com/composer/composer/pull/13128) on [composer/composer](https://github.com/composer/composer) (1 week ago)
 - [simplify result cache example](https://github.com/phpstan/phpstan/pull/15493) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
-- [simplify result cache example](https://github.com/phpstan/phpstan/pull/15492) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
-- [Restart process when `pcov` or `tideways` extension is loaded](https://github.com/phpstan/phpstan-src/pull/6757) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
-- [RuleWatchGraph: Reduce `getRule()` calls](https://github.com/composer/composer/pull/13124) on [composer/composer](https://github.com/composer/composer) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.5.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.5.0) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.27.5](https://github.com/paratestphp/paratest/releases/tag/v7.27.5) (1 day ago)
 - [ticgal/actualtime](https://github.com/ticgal/actualtime) - [5.0.0](https://github.com/ticgal/actualtime/releases/tag/5.0.0) (1 day ago)
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - [v3.21.0](https://github.com/tempestphp/tempest-framework/releases/tag/v3.21.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.4.0](https://github.com/phpstan/phpdoc-parser/releases/tag/2.4.0) (2 days ago)
 - [akunzai/MageBridgeCore](https://github.com/akunzai/MageBridgeCore) - [3.1.2](https://github.com/akunzai/MageBridgeCore/releases/tag/3.1.2) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.5](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.5) (3 days ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - [2.1.1](https://github.com/phpstan/phpstan-symfony/releases/tag/2.1.1) (4 days ago)
