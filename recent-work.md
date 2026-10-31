@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [`UselessCastRule` on native types is auto-fixable](https://github.com/phpstan/phpstan-strict-rules/pull/344) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
 - [`mysqli_result-&gt;fetch_assoc()` can return `false` or `null`](https://github.com/staabm/phpstan-dba/pull/820) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Utilize phpstan-src constant string inference when possible](https://github.com/staabm/phpstan-dba/pull/819) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (today)
 - [Re-enable mysqli tests](https://github.com/staabm/phpstan-dba/pull/816) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
@@ -54,12 +55,11 @@
 - [ForeachEmptyOrObjectNarrowingHelper: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/6766) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Solver: Call `getLiterals()` only for enabled rules](https://github.com/composer/composer/pull/13132) on [composer/composer](https://github.com/composer/composer) (1 week ago)
 - [`bashunit -a` is deprecated. Use `bashunit assert` instead.](https://github.com/phpstan/phpstan-src/pull/6761) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [If available override the current process with `pcntl_exec`](https://github.com/composer/xdebug-handler/pull/176) on [composer/xdebug-handler](https://github.com/composer/xdebug-handler) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.5.2](https://github.com/staabm/phpstan-dba/releases/tag/0.5.2) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.5.3](https://github.com/staabm/phpstan-dba/releases/tag/0.5.3) (today)
 - [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.13.2](https://github.com/Leantime/leantime/releases/tag/v3.13.2) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.4.1](https://github.com/phpstan/phpdoc-parser/releases/tag/2.4.1) (1 day ago)
 - [mspirkov/yii2-phpstan](https://github.com/mspirkov/yii2-phpstan) - [0.17.0](https://github.com/mspirkov/yii2-phpstan/releases/tag/0.17.0) (1 day ago)
