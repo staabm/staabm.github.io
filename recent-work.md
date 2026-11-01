@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (today)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) (1 week ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 weeks ago)
-- [Leantime/leantime](https://github.com/Leantime/leantime) (4 weeks ago)
-- [phpstan/phpstan-dibi](https://github.com/phpstan/phpstan-dibi) (1 month ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Lint auto-fixing test-files](https://github.com/phpstan/phpstan-symfony/pull/522) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (today)
+- [Lint auto-fixing test-files](https://github.com/phpstan/phpstan-phpunit/pull/348) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [Lint auto-fixing test-files](https://github.com/phpstan/phpstan-src/pull/6895) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [`UselessCastRule` on native types is auto-fixable](https://github.com/phpstan/phpstan-strict-rules/pull/344) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 day ago)
 - [`mysqli_result-&gt;fetch_assoc()` can return `false` or `null`](https://github.com/staabm/phpstan-dba/pull/820) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
@@ -53,8 +55,6 @@
 - [Claude auto-fix: Added missing parameter](https://github.com/phpstan/phpstan/pull/15517) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [Improve `pcov` e2e tests](https://github.com/phpstan/phpstan-src/pull/6770) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Analyser: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/6767) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [ForeachEmptyOrObjectNarrowingHelper: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/6766) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Solver: Call `getLiterals()` only for enabled rules](https://github.com/composer/composer/pull/13132) on [composer/composer](https://github.com/composer/composer) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
