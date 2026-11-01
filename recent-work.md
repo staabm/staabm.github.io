@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Lint auto-fixing test-files](https://github.com/phpstan/phpstan-src/pull/6895) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [`UselessCastRule` on native types is auto-fixable](https://github.com/phpstan/phpstan-strict-rules/pull/344) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 day ago)
 - [`mysqli_result-&gt;fetch_assoc()` can return `false` or `null`](https://github.com/staabm/phpstan-dba/pull/820) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Utilize phpstan-src constant string inference when possible](https://github.com/staabm/phpstan-dba/pull/819) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
@@ -54,7 +55,6 @@
 - [Analyser: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/6767) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [ForeachEmptyOrObjectNarrowingHelper: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/6766) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Solver: Call `getLiterals()` only for enabled rules](https://github.com/composer/composer/pull/13132) on [composer/composer](https://github.com/composer/composer) (1 week ago)
-- [`bashunit -a` is deprecated. Use `bashunit assert` instead.](https://github.com/phpstan/phpstan-src/pull/6761) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
