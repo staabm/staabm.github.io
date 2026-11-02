@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.6](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.6) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.5.3](https://github.com/staabm/phpstan-dba/releases/tag/0.5.3) (2 days ago)
 - [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.13.2](https://github.com/Leantime/leantime/releases/tag/v3.13.2) (2 days ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.4.1](https://github.com/phpstan/phpdoc-parser/releases/tag/2.4.1) (3 days ago)
@@ -68,4 +69,3 @@
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.5.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.5.0) (3 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.27.5](https://github.com/paratestphp/paratest/releases/tag/v7.27.5) (4 days ago)
 - [ticgal/actualtime](https://github.com/ticgal/actualtime) - [5.0.0](https://github.com/ticgal/actualtime/releases/tag/5.0.0) (4 days ago)
-- [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - [v3.21.0](https://github.com/tempestphp/tempest-framework/releases/tag/v3.21.0) (4 days ago)
