@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 day ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 day ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 days ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (6 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) (2 weeks ago)
 
 
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update phpstan-strict-rules to 2.1.1](https://github.com/phpstan/phpstan/pull/15638) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [Update phpstan-strict-rules to 2.1.1](https://github.com/phpstan/phpstan-src/pull/6908) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Lint auto-fixing test-files](https://github.com/phpstan/phpstan-symfony/pull/522) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 day ago)
 - [Lint auto-fixing test-files](https://github.com/phpstan/phpstan-phpunit/pull/348) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
 - [Lint auto-fixing test-files](https://github.com/phpstan/phpstan-src/pull/6895) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,12 +55,13 @@
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/6848) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Prefix with &#34;Restart&#34; since the &#34;Extension&#34; keyword is ubiquitous in the codebase](https://github.com/phpstan/phpstan-src/pull/6796) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Claude auto-fix: Added missing parameter](https://github.com/phpstan/phpstan/pull/15517) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
-- [Improve `pcov` e2e tests](https://github.com/phpstan/phpstan-src/pull/6770) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Analyser: Prevent unnecessary work](https://github.com/phpstan/phpstan-src/pull/6767) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [infection/infection](https://github.com/infection/infection) - [0.35.9](https://github.com/infection/infection/releases/tag/0.35.9) (today)
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.5.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.5.1) (today)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.1.1](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.1.1) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.6](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.6) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.5.3](https://github.com/staabm/phpstan-dba/releases/tag/0.5.3) (2 days ago)
 - [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.13.2](https://github.com/Leantime/leantime/releases/tag/v3.13.2) (2 days ago)
@@ -66,6 +69,3 @@
 - [mspirkov/yii2-phpstan](https://github.com/mspirkov/yii2-phpstan) - [0.17.0](https://github.com/mspirkov/yii2-phpstan/releases/tag/0.17.0) (3 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.1.0](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.1.0) (3 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.11.1](https://github.com/composer/composer/releases/tag/2.11.1) (3 days ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.5.0](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.5.0) (3 days ago)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.27.5](https://github.com/paratestphp/paratest/releases/tag/v7.27.5) (4 days ago)
-- [ticgal/actualtime](https://github.com/ticgal/actualtime) - [5.0.0](https://github.com/ticgal/actualtime/releases/tag/5.0.0) (4 days ago)
