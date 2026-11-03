@@ -3,11 +3,11 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (2 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (5 days ago)
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify ConstantBool handling](https://github.com/phpstan/phpstan-symfony/pull/524) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (today)
+- [Simplify StrictFunctionCallsRule](https://github.com/phpstan/phpstan-strict-rules/pull/348) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
 - [Update phpstan-strict-rules to 2.1.1](https://github.com/phpstan/phpstan/pull/15638) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [Update phpstan-strict-rules to 2.1.1](https://github.com/phpstan/phpstan-src/pull/6908) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Lint auto-fixing test-files](https://github.com/phpstan/phpstan-symfony/pull/522) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (2 days ago)
@@ -53,8 +55,6 @@
 - [Use `--EXTENSIONS--` instead of extension_loaded() skip checks in tests](https://github.com/php/php-src/pull/25052) on [php/php-src](https://github.com/php/php-src) (4 days ago)
 - [Fix build](https://github.com/staabm/phpstan-todo-by/pull/200) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (5 days ago)
 - [Added regression test](https://github.com/phpstan/phpstan-src/pull/6848) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Prefix with &#34;Restart&#34; since the &#34;Extension&#34; keyword is ubiquitous in the codebase](https://github.com/phpstan/phpstan-src/pull/6796) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Claude auto-fix: Added missing parameter](https://github.com/phpstan/phpstan/pull/15517) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
