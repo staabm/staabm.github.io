@@ -59,6 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.5](https://github.com/phpstan/phpstan/releases/tag/2.3.5) (today)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.5](https://github.com/phpstan/turbo-ext/releases/tag/2.3.5) (today)
+- [larastan/larastan](https://github.com/larastan/larastan) - [v3.14.0](https://github.com/larastan/larastan/releases/tag/v3.14.0) (today)
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.8.1](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.8.1) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.35.9](https://github.com/infection/infection/releases/tag/0.35.9) (1 day ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.5.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.5.1) (1 day ago)
@@ -66,6 +69,3 @@
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.6](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.6) (1 day ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.5.3](https://github.com/staabm/phpstan-dba/releases/tag/0.5.3) (3 days ago)
 - [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.13.2](https://github.com/Leantime/leantime/releases/tag/v3.13.2) (3 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.4.1](https://github.com/phpstan/phpdoc-parser/releases/tag/2.4.1) (4 days ago)
-- [mspirkov/yii2-phpstan](https://github.com/mspirkov/yii2-phpstan) - [0.17.0](https://github.com/mspirkov/yii2-phpstan/releases/tag/0.17.0) (4 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.1.0](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.1.0) (4 days ago)
