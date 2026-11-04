@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (today)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 day ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (6 days ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (1 week ago)
 - [composer/composer](https://github.com/composer/composer) (2 weeks ago)
 
 
@@ -40,6 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improve readability of ArgumentsHandler, FuncCallHandler](https://github.com/phpstan/phpstan-src/pull/6951) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Update calebdw/phpstan-laravel to fix integration tests](https://github.com/phpstan/phpstan/pull/15663) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [Simplify Assertions](https://github.com/phpstan/phpstan-src/pull/6950) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [StrictFunctionCallsRule is auto-fixable](https://github.com/phpstan/phpstan-strict-rules/pull/349) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (today)
 - [Simplify ConstantBool handling](https://github.com/phpstan/phpstan-symfony/pull/524) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 day ago)
 - [Simplify StrictFunctionCallsRule](https://github.com/phpstan/phpstan-strict-rules/pull/348) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 day ago)
 - [Update phpstan-strict-rules to 2.1.1](https://github.com/phpstan/phpstan/pull/15638) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
@@ -51,14 +55,11 @@
 - [`mysqli_result-&gt;fetch_assoc()` can return `false` or `null`](https://github.com/staabm/phpstan-dba/pull/820) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [Utilize phpstan-src constant string inference when possible](https://github.com/staabm/phpstan-dba/pull/819) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
 - [Re-enable mysqli tests](https://github.com/staabm/phpstan-dba/pull/816) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [Support `mysqli_result-&gt;fetch_assoc()` and `mysqli_result-&gt;fetch_all()`](https://github.com/staabm/phpstan-dba/pull/815) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [Use `--EXTENSIONS--` instead of extension_loaded() skip checks in tests](https://github.com/php/php-src/pull/25052) on [php/php-src](https://github.com/php/php-src) (5 days ago)
-- [Fix build](https://github.com/staabm/phpstan-todo-by/pull/200) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (6 days ago)
-- [Added regression test](https://github.com/phpstan/phpstan-src/pull/6848) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.28](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.28) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.5](https://github.com/phpstan/phpstan/releases/tag/2.3.5) (1 day ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.5](https://github.com/phpstan/turbo-ext/releases/tag/2.3.5) (1 day ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v3.14.0](https://github.com/larastan/larastan/releases/tag/v3.14.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.1.1](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.1.1) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.6](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.6) (2 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.5.3](https://github.com/staabm/phpstan-dba/releases/tag/0.5.3) (4 days ago)
-- [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.13.2](https://github.com/Leantime/leantime/releases/tag/v3.13.2) (4 days ago)
