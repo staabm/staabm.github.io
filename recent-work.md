@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (1 day ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (1 day ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (2 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (2 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
-- [composer/composer](https://github.com/composer/composer) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Document null byte representation in assertions](https://github.com/sebastianbergmann/phpunit-documentation-english/pull/426) on [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) (today)
+- [Added inline comments for StringMatchesFormat placeholders](https://github.com/sebastianbergmann/phpunit/pull/7109) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [Improve readability of ArgumentsHandler, FuncCallHandler](https://github.com/phpstan/phpstan-src/pull/6951) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Update calebdw/phpstan-laravel to fix integration tests](https://github.com/phpstan/phpstan/pull/15663) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [Simplify Assertions](https://github.com/phpstan/phpstan-src/pull/6950) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -53,12 +55,11 @@
 - [Lint auto-fixing test-files](https://github.com/phpstan/phpstan-src/pull/6895) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [`UselessCastRule` on native types is auto-fixable](https://github.com/phpstan/phpstan-strict-rules/pull/344) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (5 days ago)
 - [`mysqli_result-&gt;fetch_assoc()` can return `false` or `null`](https://github.com/staabm/phpstan-dba/pull/820) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [Utilize phpstan-src constant string inference when possible](https://github.com/staabm/phpstan-dba/pull/819) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [Re-enable mysqli tests](https://github.com/staabm/phpstan-dba/pull/816) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.16.1](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.16.1) (today)
 - [ergebnis/.github](https://github.com/ergebnis/.github) - [1.15.0](https://github.com/ergebnis/.github/releases/tag/1.15.0) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.28](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.28) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.5](https://github.com/phpstan/phpstan/releases/tag/2.3.5) (2 days ago)
@@ -68,4 +69,3 @@
 - [infection/infection](https://github.com/infection/infection) - [0.35.9](https://github.com/infection/infection/releases/tag/0.35.9) (3 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.5.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.5.1) (3 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.1.1](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.1.1) (3 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.6](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.6) (3 days ago)
