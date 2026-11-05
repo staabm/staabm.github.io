@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.1.1](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.1.1) (today)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.16.1](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.16.1) (today)
 - [ergebnis/.github](https://github.com/ergebnis/.github) - [1.15.0](https://github.com/ergebnis/.github/releases/tag/1.15.0) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.28](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.28) (1 day ago)
@@ -68,4 +69,3 @@
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.8.1](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.8.1) (2 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.35.9](https://github.com/infection/infection/releases/tag/0.35.9) (3 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.5.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.5.1) (3 days ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.1.1](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.1.1) (3 days ago)
