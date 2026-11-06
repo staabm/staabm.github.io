@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Check the reviewers permissions instead of relying on github.event.review.author_association](https://github.com/phpstan/phpstan/pull/15672) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [Claude react on review: Fix the hardened check](https://github.com/phpstan/phpstan-src/pull/6965) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [`ResultCacheMetaExtension-&gt;getValue()` is invoked before bootstrap-files are included](https://github.com/phpstan/phpstan-src/pull/6964) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [`ResultCacheMetaExtension-&gt;getValue()` is invoked before bootstrap-files are included](https://github.com/phpstan/phpstan/pull/15671) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Document null byte representation in assertions](https://github.com/sebastianbergmann/phpunit-documentation-english/pull/426) on [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) (1 day ago)
@@ -53,19 +55,17 @@
 - [Update phpstan-strict-rules to 2.1.1](https://github.com/phpstan/phpstan/pull/15638) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [Update phpstan-strict-rules to 2.1.1](https://github.com/phpstan/phpstan-src/pull/6908) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Lint auto-fixing test-files](https://github.com/phpstan/phpstan-symfony/pull/522) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (5 days ago)
-- [Lint auto-fixing test-files](https://github.com/phpstan/phpstan-phpunit/pull/348) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
-- [Lint auto-fixing test-files](https://github.com/phpstan/phpstan-src/pull/6895) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.29](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.29) (today)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.5.4](https://github.com/staabm/phpstan-dba/releases/tag/0.5.4) (today)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.1.1](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.1.1) (1 day ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.16.1](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.16.1) (1 day ago)
 - [ergebnis/.github](https://github.com/ergebnis/.github) - [1.15.0](https://github.com/ergebnis/.github/releases/tag/1.15.0) (2 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.28](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.28) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.5](https://github.com/phpstan/phpstan/releases/tag/2.3.5) (3 days ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.5](https://github.com/phpstan/turbo-ext/releases/tag/2.3.5) (3 days ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v3.14.0](https://github.com/larastan/larastan/releases/tag/v3.14.0) (3 days ago)
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.8.1](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.8.1) (3 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.35.9](https://github.com/infection/infection/releases/tag/0.35.9) (4 days ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.5.1](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.5.1) (4 days ago)
