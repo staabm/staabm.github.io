@@ -59,9 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.1.2](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.1.2) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.29](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.29) (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.5.4](https://github.com/staabm/phpstan-dba/releases/tag/0.5.4) (today)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.1.1](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.1.1) (1 day ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.16.1](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.16.1) (1 day ago)
 - [ergebnis/.github](https://github.com/ergebnis/.github) - [1.15.0](https://github.com/ergebnis/.github/releases/tag/1.15.0) (2 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.5](https://github.com/phpstan/phpstan/releases/tag/2.3.5) (3 days ago)
