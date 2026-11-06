@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (3 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (3 days ago)
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (3 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 
 
@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [`ResultCacheMetaExtension-&gt;getValue()` is invoked before bootstrap-files are included](https://github.com/phpstan/phpstan-src/pull/6964) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [`ResultCacheMetaExtension-&gt;getValue()` is invoked before bootstrap-files are included](https://github.com/phpstan/phpstan/pull/15671) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [Document null byte representation in assertions](https://github.com/sebastianbergmann/phpunit-documentation-english/pull/426) on [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) (1 day ago)
 - [Added inline comments for StringMatchesFormat placeholders](https://github.com/sebastianbergmann/phpunit/pull/7109) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)
 - [Improve readability of ArgumentsHandler, FuncCallHandler](https://github.com/phpstan/phpstan-src/pull/6951) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -53,8 +55,6 @@
 - [Lint auto-fixing test-files](https://github.com/phpstan/phpstan-symfony/pull/522) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (5 days ago)
 - [Lint auto-fixing test-files](https://github.com/phpstan/phpstan-phpunit/pull/348) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
 - [Lint auto-fixing test-files](https://github.com/phpstan/phpstan-src/pull/6895) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [`UselessCastRule` on native types is auto-fixable](https://github.com/phpstan/phpstan-strict-rules/pull/344) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (6 days ago)
-- [`mysqli_result-&gt;fetch_assoc()` can return `false` or `null`](https://github.com/staabm/phpstan-dba/pull/820) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
