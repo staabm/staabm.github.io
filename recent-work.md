@@ -3,13 +3,13 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
 - [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) (3 days ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (4 days ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (5 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (5 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Extract magic &#39;isAttribute&#39; string into constant](https://github.com/phpstan/phpstan-src/pull/7003) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Decouple PDO constants from runtime extension](https://github.com/staabm/phpstan-dba/pull/826) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [use local constants instead of runtime constants](https://github.com/staabm/phpstan-dba/pull/825) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 day ago)
 - [Check the reviewers permissions instead of relying on github.event.review.author_association](https://github.com/phpstan/phpstan/pull/15672) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 days ago)
@@ -54,7 +55,6 @@
 - [StrictFunctionCallsRule is auto-fixable](https://github.com/phpstan/phpstan-strict-rules/pull/349) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (4 days ago)
 - [Simplify ConstantBool handling](https://github.com/phpstan/phpstan-symfony/pull/524) on [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (5 days ago)
 - [Simplify StrictFunctionCallsRule](https://github.com/phpstan/phpstan-strict-rules/pull/348) on [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (5 days ago)
-- [Update phpstan-strict-rules to 2.1.1](https://github.com/phpstan/phpstan/pull/15638) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
