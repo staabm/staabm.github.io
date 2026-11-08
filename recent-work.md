@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [infection/infection](https://github.com/infection/infection) - [0.35.10](https://github.com/infection/infection/releases/tag/0.35.10) (today)
 - [ergebnis/.github](https://github.com/ergebnis/.github) - [1.16.0](https://github.com/ergebnis/.github/releases/tag/1.16.0) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.37](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.37) (1 day ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.1.2](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.1.2) (2 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.5](https://github.com/phpstan/phpstan/releases/tag/2.3.5) (5 days ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.5](https://github.com/phpstan/turbo-ext/releases/tag/2.3.5) (5 days ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v3.14.0](https://github.com/larastan/larastan/releases/tag/v3.14.0) (5 days ago)
-- [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.8.1](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.8.1) (5 days ago)
