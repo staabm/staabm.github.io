@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.5.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.5.2) (today)
 - [ergebnis/.github](https://github.com/ergebnis/.github) - [1.17.0](https://github.com/ergebnis/.github/releases/tag/1.17.0) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) - [0.35.10](https://github.com/infection/infection/releases/tag/0.35.10) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.37](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.37) (2 days ago)
@@ -68,4 +69,3 @@
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.16.1](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.16.1) (4 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.5](https://github.com/phpstan/phpstan/releases/tag/2.3.5) (6 days ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.5](https://github.com/phpstan/turbo-ext/releases/tag/2.3.5) (6 days ago)
-- [larastan/larastan](https://github.com/larastan/larastan) - [v3.14.0](https://github.com/larastan/larastan/releases/tag/v3.14.0) (6 days ago)
