@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [NodeConnectingVisitorAttributesRule misses named arguments](https://github.com/phpstan/phpstan-src/pull/7028) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Faster `File-&gt;findPrevious()`](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1515) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (2 days ago)
 - [Faster `Tokenizer-&gt;createPositionMap()`: Prevent `iconv_strlen()` when ascii compatible](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1514) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (2 days ago)
 - [Faster ValidVariableNameSniff using strpbrk() over regex](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1513) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (2 days ago)
@@ -54,11 +55,11 @@
 - [`ResultCacheMetaExtension-&gt;getValue()` is invoked before bootstrap-files are included](https://github.com/phpstan/phpstan/pull/15671) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
 - [Document null byte representation in assertions](https://github.com/sebastianbergmann/phpunit-documentation-english/pull/426) on [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) (5 days ago)
 - [Added inline comments for StringMatchesFormat placeholders](https://github.com/sebastianbergmann/phpunit/pull/7109) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
-- [Improve readability of ArgumentsHandler, FuncCallHandler](https://github.com/phpstan/phpstan-src/pull/6951) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/composer](https://github.com/composer/composer) - [2.11.2](https://github.com/composer/composer/releases/tag/2.11.2) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.30](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.30) (1 day ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.5.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.5.2) (1 day ago)
 - [ergebnis/.github](https://github.com/ergebnis/.github) - [1.17.0](https://github.com/ergebnis/.github/releases/tag/1.17.0) (2 days ago)
@@ -68,4 +69,3 @@
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.5.4](https://github.com/staabm/phpstan-dba/releases/tag/0.5.4) (4 days ago)
 - [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.16.1](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.16.1) (5 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.5](https://github.com/phpstan/phpstan/releases/tag/2.3.5) (1 week ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.5](https://github.com/phpstan/turbo-ext/releases/tag/2.3.5) (1 week ago)
