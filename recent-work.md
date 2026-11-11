@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [NodeConnectingVisitorAttributesRule misses named arguments](https://github.com/phpstan/phpstan-src/pull/7028) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [Fix rules missing named arguments](https://github.com/phpstan/phpstan-src/pull/7028) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Faster `File-&gt;findPrevious()`](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1515) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (3 days ago)
 - [Faster `Tokenizer-&gt;createPositionMap()`: Prevent `iconv_strlen()` when ascii compatible](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1514) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (3 days ago)
 - [Faster ValidVariableNameSniff using strpbrk() over regex](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1513) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (3 days ago)
