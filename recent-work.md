@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (4 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify reflection handling in some rules](https://github.com/phpstan/phpstan-src/pull/7039) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix rules missing named arguments](https://github.com/phpstan/phpstan-src/pull/7028) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Faster `File-&gt;findPrevious()`](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1515) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (3 days ago)
 - [Faster `Tokenizer-&gt;createPositionMap()`: Prevent `iconv_strlen()` when ascii compatible](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1514) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (3 days ago)
@@ -54,11 +55,12 @@
 - [`ResultCacheMetaExtension-&gt;getValue()` is invoked before bootstrap-files are included](https://github.com/phpstan/phpstan-src/pull/6964) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [`ResultCacheMetaExtension-&gt;getValue()` is invoked before bootstrap-files are included](https://github.com/phpstan/phpstan/pull/15671) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
 - [Document null byte representation in assertions](https://github.com/sebastianbergmann/phpunit-documentation-english/pull/426) on [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) (6 days ago)
-- [Added inline comments for StringMatchesFormat placeholders](https://github.com/sebastianbergmann/phpunit/pull/7109) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [larastan/larastan](https://github.com/larastan/larastan) - [v3.15.0](https://github.com/larastan/larastan/releases/tag/v3.15.0) (today)
+- [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2026.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2026.3) (today)
 - [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.14.0](https://github.com/Leantime/leantime/releases/tag/v3.14.0) (1 day ago)
 - [composer/composer](https://github.com/composer/composer) - [2.11.2](https://github.com/composer/composer/releases/tag/2.11.2) (1 day ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.30](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.30) (2 days ago)
@@ -67,5 +69,3 @@
 - [infection/infection](https://github.com/infection/infection) - [0.35.10](https://github.com/infection/infection/releases/tag/0.35.10) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.37](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.37) (4 days ago)
 - [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.1.2](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.1.2) (5 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - [0.5.4](https://github.com/staabm/phpstan-dba/releases/tag/0.5.4) (5 days ago)
-- [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client) - [5.16.1](https://github.com/lesstif/php-jira-rest-client/releases/tag/5.16.1) (6 days ago)
