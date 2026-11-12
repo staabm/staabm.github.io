@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.28.0](https://github.com/paratestphp/paratest/releases/tag/v7.28.0) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.1.2](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.1.2) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [8.5.57](https://github.com/sebastianbergmann/phpunit/releases/tag/8.5.57) (today)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v3.15.0](https://github.com/larastan/larastan/releases/tag/v3.15.0) (1 day ago)
@@ -68,4 +69,3 @@
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.30](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.30) (3 days ago)
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.5.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.5.2) (3 days ago)
 - [ergebnis/.github](https://github.com/ergebnis/.github) - [1.17.0](https://github.com/ergebnis/.github/releases/tag/1.17.0) (4 days ago)
-- [infection/infection](https://github.com/infection/infection) - [0.35.10](https://github.com/infection/infection/releases/tag/0.35.10) (4 days ago)
