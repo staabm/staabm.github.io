@@ -4,6 +4,7 @@
 #### 💻 Check out what I'm currently working on
 
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (4 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (5 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
@@ -12,7 +13,6 @@
 - [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 week ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 
 
 #### 📜 My recent blog posts
@@ -40,6 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improve EmptyDataProviderRule](https://github.com/phpstan/phpstan-phpunit/pull/354) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
+- [Skip mutation testing outside pull requests](https://github.com/phpstan/phpstan-phpunit/pull/353) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
+- [Merge EmptyDataProviderRule into 2.1.x](https://github.com/phpstan/phpstan-phpunit/pull/352) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
+- [Implement `assertGreaterThan()` and `assertLessThan()` type narrowing](https://github.com/phpstan/phpstan-phpunit/pull/351) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [Fix ImpossibleInArrayHaystackFiniteTypesRule local function confusion](https://github.com/phpstan/phpstan-src/pull/7041) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [More rules are missing named arguments](https://github.com/phpstan/phpstan-src/pull/7040) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Simplify reflection handling in some rules](https://github.com/phpstan/phpstan-src/pull/7039) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -51,14 +55,12 @@
 - [Use faster `strpbrk()` over regex matching](https://github.com/phpstan/phpstan-src/pull/7004) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Extract magic &#39;isAttribute&#39; string into constant](https://github.com/phpstan/phpstan-src/pull/7003) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Decouple PDO constants from runtime extension](https://github.com/staabm/phpstan-dba/pull/826) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [use local constants instead of runtime constants](https://github.com/staabm/phpstan-dba/pull/825) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (5 days ago)
-- [Check the reviewers permissions instead of relying on github.event.review.author_association](https://github.com/phpstan/phpstan/pull/15672) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
-- [Claude react on review: Fix the hardened check](https://github.com/phpstan/phpstan-src/pull/6965) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
-- [`ResultCacheMetaExtension-&gt;getValue()` is invoked before bootstrap-files are included](https://github.com/phpstan/phpstan-src/pull/6964) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.1.2](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.1.2) (today)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [8.5.57](https://github.com/sebastianbergmann/phpunit/releases/tag/8.5.57) (today)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v3.15.0](https://github.com/larastan/larastan/releases/tag/v3.15.0) (1 day ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2026.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2026.3) (1 day ago)
 - [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.14.0](https://github.com/Leantime/leantime/releases/tag/v3.14.0) (2 days ago)
@@ -67,5 +69,3 @@
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.5.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.5.2) (3 days ago)
 - [ergebnis/.github](https://github.com/ergebnis/.github) - [1.17.0](https://github.com/ergebnis/.github/releases/tag/1.17.0) (4 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.35.10](https://github.com/infection/infection/releases/tag/0.35.10) (4 days ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.37](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.37) (5 days ago)
-- [phpstan/phpstan-doctrine](https://github.com/phpstan/phpstan-doctrine) - [2.1.2](https://github.com/phpstan/phpstan-doctrine/releases/tag/2.1.2) (6 days ago)
