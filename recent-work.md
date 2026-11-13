@@ -3,8 +3,8 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (5 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ShouldCallParentMethodsRule is auto-fixable](https://github.com/phpstan/phpstan-phpunit/pull/356) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
+- [Fix false positives in ShouldCallParentMethodsRule](https://github.com/phpstan/phpstan-phpunit/pull/355) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
+- [Prevent repetative `getArgs()` calls in *Extension classes](https://github.com/phpstan/phpstan-src/pull/7051) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Improve EmptyDataProviderRule](https://github.com/phpstan/phpstan-phpunit/pull/354) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
 - [Skip mutation testing outside pull requests](https://github.com/phpstan/phpstan-phpunit/pull/353) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
 - [Merge EmptyDataProviderRule into 2.1.x](https://github.com/phpstan/phpstan-phpunit/pull/352) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
@@ -52,16 +55,13 @@
 - [Faster `Tokenizer-&gt;createPositionMap()`: Prevent `iconv_strlen()` when ascii compatible](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1514) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (5 days ago)
 - [Faster ValidVariableNameSniff using strpbrk() over regex](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1513) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (5 days ago)
 - [Use faster `strspn()` over regex matching](https://github.com/phpstan/phpstan-src/pull/7005) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Use faster `strpbrk()` over regex matching](https://github.com/phpstan/phpstan-src/pull/7004) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Extract magic &#39;isAttribute&#39; string into constant](https://github.com/phpstan/phpstan-src/pull/7003) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Decouple PDO constants from runtime extension](https://github.com/staabm/phpstan-dba/pull/826) on [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.7](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.7) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.28.0](https://github.com/paratestphp/paratest/releases/tag/v7.28.0) (1 day ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.1.2](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.1.2) (1 day ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [8.5.57](https://github.com/sebastianbergmann/phpunit/releases/tag/8.5.57) (1 day ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v3.15.0](https://github.com/larastan/larastan/releases/tag/v3.15.0) (2 days ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2026.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2026.3) (2 days ago)
 - [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.14.0](https://github.com/Leantime/leantime/releases/tag/v3.14.0) (3 days ago)
