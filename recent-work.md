@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.15.1](https://github.com/Leantime/leantime/releases/tag/v3.15.1) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.6](https://github.com/phpstan/phpstan/releases/tag/2.3.6) (today)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.6](https://github.com/phpstan/turbo-ext/releases/tag/2.3.6) (today)
 - [infection/infection](https://github.com/infection/infection) - [0.35.11](https://github.com/infection/infection/releases/tag/0.35.11) (today)
-- [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.15.0](https://github.com/Leantime/leantime/releases/tag/v3.15.0) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.29.0](https://github.com/paratestphp/paratest/releases/tag/v7.29.0) (1 day ago)
 - [kimai/kimai](https://github.com/kimai/kimai) - [2.72.0](https://github.com/kimai/kimai/releases/tag/2.72.0) (2 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.7](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.7) (2 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.1.2](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.1.2) (3 days ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - [v3.15.0](https://github.com/larastan/larastan/releases/tag/v3.15.0) (4 days ago)
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2026.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2026.3) (4 days ago)
-- [composer/composer](https://github.com/composer/composer) - [2.11.2](https://github.com/composer/composer/releases/tag/2.11.2) (5 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.30](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.30) (6 days ago)
