@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [infection/infection](https://github.com/infection/infection) - [0.35.11](https://github.com/infection/infection/releases/tag/0.35.11) (today)
 - [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.15.0](https://github.com/Leantime/leantime/releases/tag/v3.15.0) (today)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.29.0](https://github.com/paratestphp/paratest/releases/tag/v7.29.0) (1 day ago)
 - [kimai/kimai](https://github.com/kimai/kimai) - [2.72.0](https://github.com/kimai/kimai/releases/tag/2.72.0) (2 days ago)
@@ -68,4 +69,3 @@
 - [JetBrains/phpstorm-stubs](https://github.com/JetBrains/phpstorm-stubs) - [v2026.3](https://github.com/JetBrains/phpstorm-stubs/releases/tag/v2026.3) (4 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.11.2](https://github.com/composer/composer/releases/tag/2.11.2) (5 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.30](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.30) (6 days ago)
-- [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - [14.5.2](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/14.5.2) (6 days ago)
