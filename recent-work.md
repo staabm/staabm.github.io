@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) (1 week ago)
-- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) (1 week ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) (1 week ago)
 
 
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Delete leftover file `e`](https://github.com/rectorphp/rector-src/pull/8936) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (today)
 - [Minor: use a explicit bool cast in SymfonyOutput](https://github.com/symfony/symfony/pull/68163) on [symfony/symfony](https://github.com/symfony/symfony) (3 days ago)
 - [ShouldCallParentMethodsRule is auto-fixable](https://github.com/phpstan/phpstan-phpunit/pull/356) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
 - [Fix false positives in ShouldCallParentMethodsRule](https://github.com/phpstan/phpstan-phpunit/pull/355) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
@@ -54,7 +55,6 @@
 - [Fix rules missing named arguments](https://github.com/phpstan/phpstan-src/pull/7028) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [Faster `File-&gt;findPrevious()`](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1515) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 week ago)
 - [Faster `Tokenizer-&gt;createPositionMap()`: Prevent `iconv_strlen()` when ascii compatible](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1514) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 week ago)
-- [Faster ValidVariableNameSniff using strpbrk() over regex](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1513) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
