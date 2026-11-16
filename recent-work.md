@@ -59,7 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.15.1](https://github.com/Leantime/leantime/releases/tag/v3.15.1) (1 day ago)
+- [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.15.3](https://github.com/Leantime/leantime/releases/tag/v3.15.3) (today)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.6](https://github.com/phpstan/phpstan/releases/tag/2.3.6) (1 day ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.6](https://github.com/phpstan/turbo-ext/releases/tag/2.3.6) (1 day ago)
 - [infection/infection](https://github.com/infection/infection) - [0.35.11](https://github.com/infection/infection/releases/tag/0.35.11) (1 day ago)
