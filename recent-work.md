@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [infection/infection](https://github.com/infection/infection) - [0.35.12](https://github.com/infection/infection/releases/tag/0.35.12) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.31](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.31) (1 day ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.19.4](https://github.com/symplify/phpstan-rules/releases/tag/14.19.4) (1 day ago)
 - [mspirkov/yii2-phpstan](https://github.com/mspirkov/yii2-phpstan) - [0.18.0](https://github.com/mspirkov/yii2-phpstan/releases/tag/0.18.0) (1 day ago)
 - [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.15.3](https://github.com/Leantime/leantime/releases/tag/v3.15.3) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.6](https://github.com/phpstan/phpstan/releases/tag/2.3.6) (2 days ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.6](https://github.com/phpstan/turbo-ext/releases/tag/2.3.6) (2 days ago)
-- [infection/infection](https://github.com/infection/infection) - [0.35.11](https://github.com/infection/infection/releases/tag/0.35.11) (2 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.29.0](https://github.com/paratestphp/paratest/releases/tag/v7.29.0) (3 days ago)
 - [kimai/kimai](https://github.com/kimai/kimai) - [2.72.0](https://github.com/kimai/kimai/releases/tag/2.72.0) (4 days ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.7](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.7) (4 days ago)
