@@ -3,13 +3,13 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (today)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (today)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
-- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 week ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (1 week ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Faster processing of files containing switch with a huge list of cases](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1533) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (today)
 - [Faster processing of files containing enums with a huge list of cases](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1532) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (today)
 - [Run php-cs in parallel](https://github.com/phpstan/build-cs/pull/33) on [phpstan/build-cs](https://github.com/phpstan/build-cs) (today)
 - [Enable parallel processing in PHPCS configuration](https://github.com/phpstan/build-cs/pull/32) on [phpstan/build-cs](https://github.com/phpstan/build-cs) (today)
@@ -54,7 +55,6 @@
 - [Implement `assertGreaterThan()` and `assertLessThan()` type narrowing](https://github.com/phpstan/phpstan-phpunit/pull/351) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
 - [Fix ImpossibleInArrayHaystackFiniteTypesRule local function confusion](https://github.com/phpstan/phpstan-src/pull/7041) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [More rules are missing named arguments](https://github.com/phpstan/phpstan-src/pull/7040) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Simplify reflection handling in some rules](https://github.com/phpstan/phpstan-src/pull/7039) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
