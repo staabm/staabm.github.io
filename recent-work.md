@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Faster processing of files containing enums with a huge list of cases](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1532) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (today)
+- [Run php-cs in parallel](https://github.com/phpstan/build-cs/pull/33) on [phpstan/build-cs](https://github.com/phpstan/build-cs) (today)
+- [Enable parallel processing in PHPCS configuration](https://github.com/phpstan/build-cs/pull/32) on [phpstan/build-cs](https://github.com/phpstan/build-cs) (today)
 - [Delete leftover file `e`](https://github.com/rectorphp/rector-src/pull/8936) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (2 days ago)
 - [Minor: use a explicit bool cast in SymfonyOutput](https://github.com/symfony/symfony/pull/68163) on [symfony/symfony](https://github.com/symfony/symfony) (5 days ago)
 - [ShouldCallParentMethodsRule is auto-fixable](https://github.com/phpstan/phpstan-phpunit/pull/356) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (5 days ago)
@@ -52,9 +55,6 @@
 - [Fix ImpossibleInArrayHaystackFiniteTypesRule local function confusion](https://github.com/phpstan/phpstan-src/pull/7041) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [More rules are missing named arguments](https://github.com/phpstan/phpstan-src/pull/7040) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Simplify reflection handling in some rules](https://github.com/phpstan/phpstan-src/pull/7039) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Fix rules missing named arguments](https://github.com/phpstan/phpstan-src/pull/7028) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Faster `File-&gt;findPrevious()` and `File-&gt;findNext()`](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1515) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 week ago)
-- [Faster `Tokenizer-&gt;createPositionMap()`: Prevent `iconv_strlen()` when ascii compatible](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1514) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
