@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Cover alternative switch-case syntax in EnumCaseTest](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1539) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (today)
 - [Faster processing of files containing switch with a huge list of cases](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1533) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 day ago)
 - [Faster processing of files containing enums with a huge list of cases](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1532) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 day ago)
 - [Run php-cs in parallel](https://github.com/phpstan/build-cs/pull/33) on [phpstan/build-cs](https://github.com/phpstan/build-cs) (1 day ago)
@@ -54,7 +55,6 @@
 - [Merge EmptyDataProviderRule into 2.1.x](https://github.com/phpstan/phpstan-phpunit/pull/352) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [Implement `assertGreaterThan()` and `assertLessThan()` type narrowing](https://github.com/phpstan/phpstan-phpunit/pull/351) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [Fix ImpossibleInArrayHaystackFiniteTypesRule local function confusion](https://github.com/phpstan/phpstan-src/pull/7041) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [More rules are missing named arguments](https://github.com/phpstan/phpstan-src/pull/7040) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
