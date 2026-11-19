@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/build-cs](https://github.com/phpstan/build-cs) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 day ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (1 day ago)
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 day ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) (2 weeks ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)
 
 
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.8](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.8) (today)
+- [ergebnis/.github](https://github.com/ergebnis/.github) - [1.17.1](https://github.com/ergebnis/.github/releases/tag/1.17.1) (today)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.7](https://github.com/phpstan/phpstan/releases/tag/2.3.7) (today)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.7](https://github.com/phpstan/turbo-ext/releases/tag/2.3.7) (today)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.32](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.32) (2 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.35.12](https://github.com/infection/infection/releases/tag/0.35.12) (2 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.19.4](https://github.com/symplify/phpstan-rules/releases/tag/14.19.4) (3 days ago)
 - [mspirkov/yii2-phpstan](https://github.com/mspirkov/yii2-phpstan) - [0.18.0](https://github.com/mspirkov/yii2-phpstan/releases/tag/0.18.0) (3 days ago)
 - [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.15.3](https://github.com/Leantime/leantime/releases/tag/v3.15.3) (3 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.6](https://github.com/phpstan/phpstan/releases/tag/2.3.6) (4 days ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.6](https://github.com/phpstan/turbo-ext/releases/tag/2.3.6) (4 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.29.0](https://github.com/paratestphp/paratest/releases/tag/v7.29.0) (5 days ago)
-- [kimai/kimai](https://github.com/kimai/kimai) - [2.72.0](https://github.com/kimai/kimai/releases/tag/2.72.0) (6 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.7](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.7) (6 days ago)
