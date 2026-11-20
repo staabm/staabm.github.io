@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/build-cs](https://github.com/phpstan/build-cs) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (1 day ago)
-- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 day ago)
-- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
+- [phpstan/build-cs](https://github.com/phpstan/build-cs) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (2 days ago)
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (2 days ago)
+- [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (1 week ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 week ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)
 
 
@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Cover alternative switch-case syntax in EnumCaseTest](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1539) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (today)
-- [Faster processing of files containing switch with a huge list of cases](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1533) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 day ago)
-- [Faster processing of files containing enums with a huge list of cases](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1532) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 day ago)
-- [Run php-cs in parallel](https://github.com/phpstan/build-cs/pull/33) on [phpstan/build-cs](https://github.com/phpstan/build-cs) (1 day ago)
-- [Enable parallel processing in PHPCS configuration](https://github.com/phpstan/build-cs/pull/32) on [phpstan/build-cs](https://github.com/phpstan/build-cs) (1 day ago)
-- [Delete leftover file `e`](https://github.com/rectorphp/rector-src/pull/8936) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (3 days ago)
-- [Minor: use a explicit bool cast in SymfonyOutput](https://github.com/symfony/symfony/pull/68163) on [symfony/symfony](https://github.com/symfony/symfony) (6 days ago)
-- [ShouldCallParentMethodsRule is auto-fixable](https://github.com/phpstan/phpstan-phpunit/pull/356) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
-- [Fix false positives in ShouldCallParentMethodsRule](https://github.com/phpstan/phpstan-phpunit/pull/355) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (6 days ago)
-- [Prevent repetative `getArgs()` calls in *Extension classes](https://github.com/phpstan/phpstan-src/pull/7051) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
+- [Cover alternative switch-case syntax in EnumCaseTest](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1539) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 day ago)
+- [Faster processing of files containing switch with a huge list of cases](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1533) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (2 days ago)
+- [Faster processing of files containing enums with a huge list of cases](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1532) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (2 days ago)
+- [Run php-cs in parallel](https://github.com/phpstan/build-cs/pull/33) on [phpstan/build-cs](https://github.com/phpstan/build-cs) (2 days ago)
+- [Enable parallel processing in PHPCS configuration](https://github.com/phpstan/build-cs/pull/32) on [phpstan/build-cs](https://github.com/phpstan/build-cs) (2 days ago)
+- [Delete leftover file `e`](https://github.com/rectorphp/rector-src/pull/8936) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
+- [Minor: use a explicit bool cast in SymfonyOutput](https://github.com/symfony/symfony/pull/68163) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
+- [ShouldCallParentMethodsRule is auto-fixable](https://github.com/phpstan/phpstan-phpunit/pull/356) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
+- [Fix false positives in ShouldCallParentMethodsRule](https://github.com/phpstan/phpstan-phpunit/pull/355) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
+- [Prevent repetative `getArgs()` calls in *Extension classes](https://github.com/phpstan/phpstan-src/pull/7051) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Improve EmptyDataProviderRule](https://github.com/phpstan/phpstan-phpunit/pull/354) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [Skip mutation testing outside pull requests](https://github.com/phpstan/phpstan-phpunit/pull/353) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [Merge EmptyDataProviderRule into 2.1.x](https://github.com/phpstan/phpstan-phpunit/pull/352) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.8](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.8) (today)
-- [ergebnis/.github](https://github.com/ergebnis/.github) - [1.17.1](https://github.com/ergebnis/.github/releases/tag/1.17.1) (today)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.7](https://github.com/phpstan/phpstan/releases/tag/2.3.7) (today)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.7](https://github.com/phpstan/turbo-ext/releases/tag/2.3.7) (today)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.32](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.32) (2 days ago)
-- [infection/infection](https://github.com/infection/infection) - [0.35.12](https://github.com/infection/infection/releases/tag/0.35.12) (2 days ago)
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.19.4](https://github.com/symplify/phpstan-rules/releases/tag/14.19.4) (3 days ago)
-- [mspirkov/yii2-phpstan](https://github.com/mspirkov/yii2-phpstan) - [0.18.0](https://github.com/mspirkov/yii2-phpstan/releases/tag/0.18.0) (3 days ago)
-- [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.15.3](https://github.com/Leantime/leantime/releases/tag/v3.15.3) (3 days ago)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.29.0](https://github.com/paratestphp/paratest/releases/tag/v7.29.0) (5 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.8](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.8) (1 day ago)
+- [ergebnis/.github](https://github.com/ergebnis/.github) - [1.17.1](https://github.com/ergebnis/.github/releases/tag/1.17.1) (1 day ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.7](https://github.com/phpstan/phpstan/releases/tag/2.3.7) (1 day ago)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.7](https://github.com/phpstan/turbo-ext/releases/tag/2.3.7) (1 day ago)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.32](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.32) (3 days ago)
+- [infection/infection](https://github.com/infection/infection) - [0.35.12](https://github.com/infection/infection/releases/tag/0.35.12) (3 days ago)
+- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.19.4](https://github.com/symplify/phpstan-rules/releases/tag/14.19.4) (4 days ago)
+- [mspirkov/yii2-phpstan](https://github.com/mspirkov/yii2-phpstan) - [0.18.0](https://github.com/mspirkov/yii2-phpstan/releases/tag/0.18.0) (4 days ago)
+- [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.15.3](https://github.com/Leantime/leantime/releases/tag/v3.15.3) (4 days ago)
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.29.0](https://github.com/paratestphp/paratest/releases/tag/v7.29.0) (6 days ago)
