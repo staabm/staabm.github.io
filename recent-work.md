@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (today)
 - [phpstan/build-cs](https://github.com/phpstan/build-cs) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (2 days ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (2 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (4 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
@@ -40,6 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove leftover code in ParametersAcceptorSelector](https://github.com/phpstan/phpstan-src/pull/7113) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Faster ArgumentsNormalizer](https://github.com/phpstan/phpstan-src/pull/7112) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [tally benchmark uses 10 shards in github actions](https://github.com/phpstan/phpstan-src/pull/7111) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Cover alternative switch-case syntax in EnumCaseTest](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1539) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 day ago)
 - [Faster processing of files containing switch with a huge list of cases](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1533) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (2 days ago)
 - [Faster processing of files containing enums with a huge list of cases](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1532) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (2 days ago)
@@ -52,13 +55,12 @@
 - [Prevent repetative `getArgs()` calls in *Extension classes](https://github.com/phpstan/phpstan-src/pull/7051) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Improve EmptyDataProviderRule](https://github.com/phpstan/phpstan-phpunit/pull/354) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [Skip mutation testing outside pull requests](https://github.com/phpstan/phpstan-phpunit/pull/353) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
-- [Merge EmptyDataProviderRule into 2.1.x](https://github.com/phpstan/phpstan-phpunit/pull/352) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
-- [Implement `assertGreaterThan()` and `assertLessThan()` type narrowing](https://github.com/phpstan/phpstan-phpunit/pull/351) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
-- [Fix ImpossibleInArrayHaystackFiniteTypesRule local function confusion](https://github.com/phpstan/phpstan-src/pull/7041) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kimai/kimai](https://github.com/kimai/kimai) - [2.72.1](https://github.com/kimai/kimai/releases/tag/2.72.1) (today)
+- [grokability/snipe-it](https://github.com/grokability/snipe-it) - [v8.8.4](https://github.com/grokability/snipe-it/releases/tag/v8.8.4) (today)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.8](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.8) (1 day ago)
 - [ergebnis/.github](https://github.com/ergebnis/.github) - [1.17.1](https://github.com/ergebnis/.github/releases/tag/1.17.1) (1 day ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.7](https://github.com/phpstan/phpstan/releases/tag/2.3.7) (1 day ago)
@@ -67,5 +69,3 @@
 - [infection/infection](https://github.com/infection/infection) - [0.35.12](https://github.com/infection/infection/releases/tag/0.35.12) (3 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.19.4](https://github.com/symplify/phpstan-rules/releases/tag/14.19.4) (4 days ago)
 - [mspirkov/yii2-phpstan](https://github.com/mspirkov/yii2-phpstan) - [0.18.0](https://github.com/mspirkov/yii2-phpstan/releases/tag/0.18.0) (4 days ago)
-- [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.15.3](https://github.com/Leantime/leantime/releases/tag/v3.15.3) (4 days ago)
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.29.0](https://github.com/paratestphp/paratest/releases/tag/v7.29.0) (6 days ago)
