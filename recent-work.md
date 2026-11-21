@@ -3,16 +3,16 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (1 day ago)
 - [phpstan/build-cs](https://github.com/phpstan/build-cs) (2 days ago)
-- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (3 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)
+- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [php/php-src](https://github.com/php/php-src) - [php-8.4.28](https://github.com/php/php-src/releases/tag/php-8.4.28) (today)
 - [kimai/kimai](https://github.com/kimai/kimai) - [2.72.1](https://github.com/kimai/kimai/releases/tag/2.72.1) (1 day ago)
 - [grokability/snipe-it](https://github.com/grokability/snipe-it) - [v8.8.4](https://github.com/grokability/snipe-it/releases/tag/v8.8.4) (1 day ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.8](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.8) (2 days ago)
@@ -68,4 +69,3 @@
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.32](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.32) (4 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.35.12](https://github.com/infection/infection/releases/tag/0.35.12) (4 days ago)
 - [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.19.4](https://github.com/symplify/phpstan-rules/releases/tag/14.19.4) (5 days ago)
-- [mspirkov/yii2-phpstan](https://github.com/mspirkov/yii2-phpstan) - [0.18.0](https://github.com/mspirkov/yii2-phpstan/releases/tag/0.18.0) (5 days ago)
