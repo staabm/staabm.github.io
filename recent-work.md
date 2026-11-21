@@ -4,15 +4,15 @@
 #### 💻 Check out what I'm currently working on
 
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
+- [shipmonk-rnd/turbocov](https://github.com/shipmonk-rnd/turbocov) (today)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (1 day ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [phpstan/build-cs](https://github.com/phpstan/build-cs) (2 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (5 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
-- [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) (2 weeks ago)
 
 
 #### 📜 My recent blog posts
@@ -33,13 +33,14 @@
 - [Enkora](https://github.com/Enkora) (2 years ago)
 - [phpstan](https://github.com/phpstan) (2 years ago)
 - [oliverklee](https://github.com/oliverklee) (2 years ago)
-- [TicketSwap](https://github.com/TicketSwap) (2 years ago)
 - [brotkrueml](https://github.com/brotkrueml) (2 years ago)
 - [DaveLiddament](https://github.com/DaveLiddament) (3 years ago)
+- [SecuMailer](https://github.com/SecuMailer) (3 years ago)
 
 
 #### 🔨 My recent Pull Requests
 
+- [Improve readme](https://github.com/shipmonk-rnd/turbocov/pull/21) on [shipmonk-rnd/turbocov](https://github.com/shipmonk-rnd/turbocov) (today)
 - [Remove leftover code in ParametersAcceptorSelector](https://github.com/phpstan/phpstan-src/pull/7113) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [Faster ArgumentsNormalizer](https://github.com/phpstan/phpstan-src/pull/7112) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [tally benchmark uses 10 shards in github actions](https://github.com/phpstan/phpstan-src/pull/7111) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
@@ -54,11 +55,11 @@
 - [Fix false positives in ShouldCallParentMethodsRule](https://github.com/phpstan/phpstan-phpunit/pull/355) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [Prevent repetative `getArgs()` calls in *Extension classes](https://github.com/phpstan/phpstan-src/pull/7051) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [Improve EmptyDataProviderRule](https://github.com/phpstan/phpstan-phpunit/pull/354) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
-- [Skip mutation testing outside pull requests](https://github.com/phpstan/phpstan-phpunit/pull/353) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [shipmonk-rnd/turbocov](https://github.com/shipmonk-rnd/turbocov) - [0.1.1](https://github.com/shipmonk-rnd/turbocov/releases/tag/0.1.1) (today)
 - [php/php-src](https://github.com/php/php-src) - [php-8.4.28](https://github.com/php/php-src/releases/tag/php-8.4.28) (today)
 - [kimai/kimai](https://github.com/kimai/kimai) - [2.72.1](https://github.com/kimai/kimai/releases/tag/2.72.1) (1 day ago)
 - [grokability/snipe-it](https://github.com/grokability/snipe-it) - [v8.8.4](https://github.com/grokability/snipe-it/releases/tag/v8.8.4) (1 day ago)
@@ -68,4 +69,3 @@
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.7](https://github.com/phpstan/turbo-ext/releases/tag/2.3.7) (2 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.32](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.32) (4 days ago)
 - [infection/infection](https://github.com/infection/infection) - [0.35.12](https://github.com/infection/infection/releases/tag/0.35.12) (4 days ago)
-- [symplify/phpstan-rules](https://github.com/symplify/phpstan-rules) - [14.19.4](https://github.com/symplify/phpstan-rules/releases/tag/14.19.4) (5 days ago)
