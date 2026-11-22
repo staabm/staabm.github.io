@@ -3,10 +3,10 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [shipmonk-rnd/turbocov](https://github.com/shipmonk-rnd/turbocov) (1 day ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (2 days ago)
 - [phpstan/build-cs](https://github.com/phpstan/build-cs) (3 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
@@ -59,6 +59,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.9.0](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.9.0) (today)
 - [mspirkov/yii2-phpstan](https://github.com/mspirkov/yii2-phpstan) - [0.19.0](https://github.com/mspirkov/yii2-phpstan/releases/tag/0.19.0) (today)
 - [shipmonk-rnd/turbocov](https://github.com/shipmonk-rnd/turbocov) - [0.1.1](https://github.com/shipmonk-rnd/turbocov/releases/tag/0.1.1) (1 day ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.4.28](https://github.com/php/php-src/releases/tag/php-8.4.28) (1 day ago)
@@ -68,4 +69,3 @@
 - [ergebnis/.github](https://github.com/ergebnis/.github) - [1.17.1](https://github.com/ergebnis/.github/releases/tag/1.17.1) (3 days ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.7](https://github.com/phpstan/phpstan/releases/tag/2.3.7) (3 days ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.7](https://github.com/phpstan/turbo-ext/releases/tag/2.3.7) (3 days ago)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.32](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.32) (5 days ago)
