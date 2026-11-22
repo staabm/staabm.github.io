@@ -40,6 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix ArgumentsNormalizer::getArgByPositionOrName() asymmetry](https://github.com/phpstan/phpstan-src/pull/7126) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Simplify rules handling only one argument](https://github.com/phpstan/phpstan-src/pull/7125) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Functions executing a external program can produce any side-effect](https://github.com/staabm/side-effects-detector/pull/41) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (today)
+- [Create pullrequest-coverage skill](https://github.com/phpstan/phpstan-src/pull/7121) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Improve readme](https://github.com/shipmonk-rnd/turbocov/pull/21) on [shipmonk-rnd/turbocov](https://github.com/shipmonk-rnd/turbocov) (1 day ago)
 - [Remove leftover code in ParametersAcceptorSelector](https://github.com/phpstan/phpstan-src/pull/7113) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Faster ArgumentsNormalizer](https://github.com/phpstan/phpstan-src/pull/7112) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
@@ -51,14 +55,11 @@
 - [Enable parallel processing in PHPCS configuration](https://github.com/phpstan/build-cs/pull/32) on [phpstan/build-cs](https://github.com/phpstan/build-cs) (4 days ago)
 - [Delete leftover file `e`](https://github.com/rectorphp/rector-src/pull/8936) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (6 days ago)
 - [Minor: use a explicit bool cast in SymfonyOutput](https://github.com/symfony/symfony/pull/68163) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
-- [ShouldCallParentMethodsRule is auto-fixable](https://github.com/phpstan/phpstan-phpunit/pull/356) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
-- [Fix false positives in ShouldCallParentMethodsRule](https://github.com/phpstan/phpstan-phpunit/pull/355) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
-- [Prevent repetative `getArgs()` calls in *Extension classes](https://github.com/phpstan/phpstan-src/pull/7051) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
-- [Improve EmptyDataProviderRule](https://github.com/phpstan/phpstan-phpunit/pull/354) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [mspirkov/yii2-phpstan](https://github.com/mspirkov/yii2-phpstan) - [0.19.0](https://github.com/mspirkov/yii2-phpstan/releases/tag/0.19.0) (today)
 - [shipmonk-rnd/turbocov](https://github.com/shipmonk-rnd/turbocov) - [0.1.1](https://github.com/shipmonk-rnd/turbocov/releases/tag/0.1.1) (1 day ago)
 - [php/php-src](https://github.com/php/php-src) - [php-8.4.28](https://github.com/php/php-src/releases/tag/php-8.4.28) (1 day ago)
 - [kimai/kimai](https://github.com/kimai/kimai) - [2.72.1](https://github.com/kimai/kimai/releases/tag/2.72.1) (2 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.7](https://github.com/phpstan/phpstan/releases/tag/2.3.7) (3 days ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [2.3.7](https://github.com/phpstan/turbo-ext/releases/tag/2.3.7) (3 days ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - [v3.95.32](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.32) (5 days ago)
-- [infection/infection](https://github.com/infection/infection) - [0.35.12](https://github.com/infection/infection/releases/tag/0.35.12) (5 days ago)
