@@ -59,6 +59,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.1.2](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.1.2) (today)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.6](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.6) (today)
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.30.0](https://github.com/paratestphp/paratest/releases/tag/v7.30.0) (today)
 - [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.17.0](https://github.com/Leantime/leantime/releases/tag/v3.17.0) (today)
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.9.0](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.9.0) (1 day ago)
 - [mspirkov/yii2-phpstan](https://github.com/mspirkov/yii2-phpstan) - [0.19.0](https://github.com/mspirkov/yii2-phpstan/releases/tag/0.19.0) (1 day ago)
@@ -66,6 +69,3 @@
 - [php/php-src](https://github.com/php/php-src) - [php-8.4.28](https://github.com/php/php-src/releases/tag/php-8.4.28) (2 days ago)
 - [kimai/kimai](https://github.com/kimai/kimai) - [2.72.1](https://github.com/kimai/kimai/releases/tag/2.72.1) (3 days ago)
 - [grokability/snipe-it](https://github.com/grokability/snipe-it) - [v8.8.4](https://github.com/grokability/snipe-it/releases/tag/v8.8.4) (3 days ago)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - [13.4.8](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.8) (4 days ago)
-- [ergebnis/.github](https://github.com/ergebnis/.github) - [1.17.1](https://github.com/ergebnis/.github/releases/tag/1.17.1) (4 days ago)
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) - [2.3.7](https://github.com/phpstan/phpstan/releases/tag/2.3.7) (4 days ago)
