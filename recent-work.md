@@ -3,13 +3,13 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [shipmonk-rnd/turbocov](https://github.com/shipmonk-rnd/turbocov) (3 days ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (3 days ago)
 - [phpstan/build-cs](https://github.com/phpstan/build-cs) (5 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
@@ -59,13 +59,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/composer](https://github.com/composer/composer) - [2.11.3](https://github.com/composer/composer/releases/tag/2.11.3) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.38](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.38) (today)
+- [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.9.2](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.9.2) (today)
 - [kimai/kimai](https://github.com/kimai/kimai) - [2.73.0](https://github.com/kimai/kimai/releases/tag/2.73.0) (1 day ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.1.2](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.1.2) (1 day ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.6](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.6) (1 day ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.30.0](https://github.com/paratestphp/paratest/releases/tag/v7.30.0) (1 day ago)
 - [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.17.0](https://github.com/Leantime/leantime/releases/tag/v3.17.0) (1 day ago)
-- [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.9.0](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.9.0) (2 days ago)
 - [mspirkov/yii2-phpstan](https://github.com/mspirkov/yii2-phpstan) - [0.19.0](https://github.com/mspirkov/yii2-phpstan/releases/tag/0.19.0) (2 days ago)
 - [shipmonk-rnd/turbocov](https://github.com/shipmonk-rnd/turbocov) - [0.1.1](https://github.com/shipmonk-rnd/turbocov/releases/tag/0.1.1) (3 days ago)
-- [php/php-src](https://github.com/php/php-src) - [php-8.4.28](https://github.com/php/php-src/releases/tag/php-8.4.28) (3 days ago)
-- [grokability/snipe-it](https://github.com/grokability/snipe-it) - [v8.8.4](https://github.com/grokability/snipe-it/releases/tag/v8.8.4) (4 days ago)
