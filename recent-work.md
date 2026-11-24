@@ -3,15 +3,15 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (2 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (2 days ago)
 - [shipmonk-rnd/turbocov](https://github.com/shipmonk-rnd/turbocov) (3 days ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (3 days ago)
 - [phpstan/build-cs](https://github.com/phpstan/build-cs) (5 days ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 weeks ago)
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 weeks ago)
 
 
@@ -40,6 +40,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/1114) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [Prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/1113) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [Fix phpstan-dba](https://github.com/FriendsOfREDAXO/rexstan/pull/1112) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (today)
+- [Reproduce bug15813](https://github.com/phpstan/phpstan/pull/15814) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [Reproduce bug15813](https://github.com/phpstan/phpstan-src/pull/7142) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [Fix ArgumentsNormalizer::getArgByPositionOrName() asymmetry](https://github.com/phpstan/phpstan-src/pull/7126) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Simplify rules handling only one argument](https://github.com/phpstan/phpstan-src/pull/7125) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
 - [Functions executing a external program can produce any side-effect](https://github.com/staabm/side-effects-detector/pull/41) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (2 days ago)
@@ -50,17 +55,13 @@
 - [tally benchmark uses 10 shards in github actions](https://github.com/phpstan/phpstan-src/pull/7111) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
 - [Cover alternative switch-case syntax in EnumCaseTest](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1539) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (5 days ago)
 - [Faster processing of files containing switch with a huge list of cases](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1533) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (6 days ago)
-- [Faster processing of files containing enums with a huge list of cases](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1532) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (6 days ago)
-- [Run php-cs in parallel](https://github.com/phpstan/build-cs/pull/33) on [phpstan/build-cs](https://github.com/phpstan/build-cs) (6 days ago)
-- [Enable parallel processing in PHPCS configuration](https://github.com/phpstan/build-cs/pull/32) on [phpstan/build-cs](https://github.com/phpstan/build-cs) (6 days ago)
-- [Delete leftover file `e`](https://github.com/rectorphp/rector-src/pull/8936) on [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
-- [Minor: use a explicit bool cast in SymfonyOutput](https://github.com/symfony/symfony/pull/68163) on [symfony/symfony](https://github.com/symfony/symfony) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.1.3](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.1.3) (today)
+- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.39](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.39) (today)
 - [composer/composer](https://github.com/composer/composer) - [2.11.3](https://github.com/composer/composer/releases/tag/2.11.3) (today)
-- [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.38](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.38) (today)
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.9.2](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.9.2) (today)
 - [kimai/kimai](https://github.com/kimai/kimai) - [2.73.0](https://github.com/kimai/kimai/releases/tag/2.73.0) (1 day ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.1.2](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.1.2) (1 day ago)
@@ -68,4 +69,3 @@
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.30.0](https://github.com/paratestphp/paratest/releases/tag/v7.30.0) (1 day ago)
 - [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.17.0](https://github.com/Leantime/leantime/releases/tag/v3.17.0) (1 day ago)
 - [mspirkov/yii2-phpstan](https://github.com/mspirkov/yii2-phpstan) - [0.19.0](https://github.com/mspirkov/yii2-phpstan/releases/tag/0.19.0) (2 days ago)
-- [shipmonk-rnd/turbocov](https://github.com/shipmonk-rnd/turbocov) - [0.1.1](https://github.com/shipmonk-rnd/turbocov/releases/tag/0.1.1) (3 days ago)
