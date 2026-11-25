@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (1 day ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (3 days ago)
 - [shipmonk-rnd/turbocov](https://github.com/shipmonk-rnd/turbocov) (4 days ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (4 days ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Some `#[RequiresPhp]` errors are autofixable](https://github.com/phpstan/phpstan-phpunit/pull/362) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [OperatorBracketSniff: Remove dead code](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1557) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (today)
 - [Remove always overwritten variable](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1556) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (today)
 - [Fix tokenizing of T_SWITCH after a case keyword](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1555) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (today)
@@ -54,11 +55,11 @@
 - [Create pullrequest-coverage skill](https://github.com/phpstan/phpstan-src/pull/7121) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [Improve readme](https://github.com/shipmonk-rnd/turbocov/pull/21) on [shipmonk-rnd/turbocov](https://github.com/shipmonk-rnd/turbocov) (4 days ago)
 - [Remove leftover code in ParametersAcceptorSelector](https://github.com/phpstan/phpstan-src/pull/7113) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Faster ArgumentsNormalizer](https://github.com/phpstan/phpstan-src/pull/7112) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.4.2](https://github.com/phpstan/phpdoc-parser/releases/tag/2.4.2) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.1.3](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.1.3) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.39](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.39) (1 day ago)
 - [composer/composer](https://github.com/composer/composer) - [2.11.3](https://github.com/composer/composer/releases/tag/2.11.3) (1 day ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.6](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.6) (2 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.30.0](https://github.com/paratestphp/paratest/releases/tag/v7.30.0) (2 days ago)
 - [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.17.0](https://github.com/Leantime/leantime/releases/tag/v3.17.0) (2 days ago)
-- [mspirkov/yii2-phpstan](https://github.com/mspirkov/yii2-phpstan) - [0.19.0](https://github.com/mspirkov/yii2-phpstan/releases/tag/0.19.0) (3 days ago)
