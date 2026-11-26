@@ -3,9 +3,9 @@
 
 #### 💻 Check out what I'm currently working on
 
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 day ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (2 days ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (4 days ago)
 - [shipmonk-rnd/turbocov](https://github.com/shipmonk-rnd/turbocov) (5 days ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (5 days ago)
@@ -59,8 +59,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.1.4](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.1.4) (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.4.2](https://github.com/phpstan/phpdoc-parser/releases/tag/2.4.2) (1 day ago)
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.1.3](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.1.3) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.39](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.39) (2 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.11.3](https://github.com/composer/composer/releases/tag/2.11.3) (2 days ago)
 - [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.9.2](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.9.2) (2 days ago)
