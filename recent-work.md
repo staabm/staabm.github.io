@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix DataProviderDeclaration rule might fix wrong same named method in file](https://github.com/phpstan/phpstan-phpunit/pull/367) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
+- [Make `phpunit.dataProviderPublic` auto-fixable](https://github.com/phpstan/phpstan-phpunit/pull/366) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [Don&#39;t crash analysis on wrongly typed argument values](https://github.com/phpstan/phpstan-phpunit/pull/365) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [Some `#[RequiresPhp]` errors are autofixable](https://github.com/phpstan/phpstan-phpunit/pull/362) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
 - [OperatorBracketSniff: Remove dead code](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1557) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (2 days ago)
@@ -53,18 +55,16 @@
 - [Fix ArgumentsNormalizer::getArgByPositionOrName() asymmetry](https://github.com/phpstan/phpstan-src/pull/7126) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Simplify rules handling only one argument](https://github.com/phpstan/phpstan-src/pull/7125) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Functions executing a external program can produce any side-effect](https://github.com/staabm/side-effects-detector/pull/41) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (5 days ago)
-- [Create pullrequest-coverage skill](https://github.com/phpstan/phpstan-src/pull/7121) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
-- [Improve readme](https://github.com/shipmonk-rnd/turbocov/pull/21) on [shipmonk-rnd/turbocov](https://github.com/shipmonk-rnd/turbocov) (6 days ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.10.0-rc1](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.10.0-rc1) (today)
 - [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) - [v0.45.0](https://github.com/bitExpert/phpstan-magento/releases/tag/v0.45.0) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.1.4](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.1.4) (1 day ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.4.2](https://github.com/phpstan/phpdoc-parser/releases/tag/2.4.2) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.39](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.39) (3 days ago)
 - [composer/composer](https://github.com/composer/composer) - [2.11.3](https://github.com/composer/composer/releases/tag/2.11.3) (3 days ago)
-- [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action) - [v0.9.2](https://github.com/zizmorcore/zizmor-action/releases/tag/v0.9.2) (3 days ago)
 - [kimai/kimai](https://github.com/kimai/kimai) - [2.73.0](https://github.com/kimai/kimai/releases/tag/2.73.0) (4 days ago)
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.1.2](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.1.2) (4 days ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.6](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.6) (4 days ago)
