@@ -3,12 +3,12 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 days ago)
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (3 days ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) (5 days ago)
 - [shipmonk-rnd/turbocov](https://github.com/shipmonk-rnd/turbocov) (6 days ago)
-- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (6 days ago)
 - [phpstan/build-cs](https://github.com/phpstan/build-cs) (1 week ago)
 - [rectorphp/rector-src](https://github.com/rectorphp/rector-src) (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) (2 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Don&#39;t crash analysis on wrongly typed argument values](https://github.com/phpstan/phpstan-phpunit/pull/365) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [Some `#[RequiresPhp]` errors are autofixable](https://github.com/phpstan/phpstan-phpunit/pull/362) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (2 days ago)
 - [OperatorBracketSniff: Remove dead code](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1557) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (2 days ago)
 - [Remove always overwritten variable](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1556) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (2 days ago)
@@ -54,11 +55,11 @@
 - [Functions executing a external program can produce any side-effect](https://github.com/staabm/side-effects-detector/pull/41) on [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) (5 days ago)
 - [Create pullrequest-coverage skill](https://github.com/phpstan/phpstan-src/pull/7121) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 days ago)
 - [Improve readme](https://github.com/shipmonk-rnd/turbocov/pull/21) on [shipmonk-rnd/turbocov](https://github.com/shipmonk-rnd/turbocov) (6 days ago)
-- [Remove leftover code in ParametersAcceptorSelector](https://github.com/phpstan/phpstan-src/pull/7113) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
+- [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) - [v0.45.0](https://github.com/bitExpert/phpstan-magento/releases/tag/v0.45.0) (today)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - [2.1.4](https://github.com/phpstan/phpstan-phpunit/releases/tag/2.1.4) (1 day ago)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - [2.4.2](https://github.com/phpstan/phpdoc-parser/releases/tag/2.4.2) (2 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) - [3.0.39](https://github.com/FriendsOfREDAXO/rexstan/releases/tag/3.0.39) (3 days ago)
@@ -68,4 +69,3 @@
 - [phpstan/phpstan-strict-rules](https://github.com/phpstan/phpstan-strict-rules) - [2.1.2](https://github.com/phpstan/phpstan-strict-rules/releases/tag/2.1.2) (4 days ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - [2.0.6](https://github.com/phpstan/phpstan-deprecation-rules/releases/tag/2.0.6) (4 days ago)
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - [v7.30.0](https://github.com/paratestphp/paratest/releases/tag/v7.30.0) (4 days ago)
-- [Leantime/leantime](https://github.com/Leantime/leantime) - [v3.17.0](https://github.com/Leantime/leantime/releases/tag/v3.17.0) (4 days ago)
