@@ -3,7 +3,7 @@
 
 #### 💻 Check out what I'm currently working on
 
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (1 day ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (3 days ago)
 - [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
@@ -46,7 +46,7 @@
 - [Some `#[RequiresPhp]` errors are autofixable](https://github.com/phpstan/phpstan-phpunit/pull/362) on [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) (3 days ago)
 - [OperatorBracketSniff: Remove dead code](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1557) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (3 days ago)
 - [Remove always overwritten variable](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1556) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (3 days ago)
-- [Fix tokenizing of T_SWITCH after a case keyword](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1555) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (3 days ago)
+- [Fix tokenizing of `T_SWITCH` after a case keyword](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/1555) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (3 days ago)
 - [prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/1114) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [Prepare next iteration](https://github.com/FriendsOfREDAXO/rexstan/pull/1113) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
 - [Fix phpstan-dba](https://github.com/FriendsOfREDAXO/rexstan/pull/1112) on [FriendsOfREDAXO/rexstan](https://github.com/FriendsOfREDAXO/rexstan) (4 days ago)
